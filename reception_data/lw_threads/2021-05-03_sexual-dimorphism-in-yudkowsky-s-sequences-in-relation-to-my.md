@@ -1,0 +1,169 @@
+Title: Sexual Dimorphism in Yudkowsky's Sequences, in Relation to My Gender Problems
+LessWrong-URL: https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my
+Posted: 2021-05-03
+Fetched: 2026-10-13 (LessWrong GraphQL API; rendered by tools/render_lw_threads.py)
+Comments: 29 (commentCount field: 29)
+
+#### [-] Slider · 3 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=KNMaLnQzvn8EWaY9G
+It read me more about being conflicted over being binarist vs non-binarist. You want to keep a man side and you want to gain a woman side. The belief that in order to gain/retain one you need to lose the other can be suspected. You might be forced to only have a single fat distribution but your traits don't need to come from a single bucket. Having human as a "featherless biped" suggests that carving reality at the joints of "featherfull" and "biped" make sense
+
+#### [>] Richard_Kennaway · 6 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=c8kGdBYhmf9McgGwH
+>It read [to] me more about being conflicted over being binarist vs non-binarist.
+
+You binarist, you!
+
+#### [-] [deleted user] · 12 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=PWREgtK3jsibK3xLk
+Interesting post. Thank you for not trying to extrapolate your experiences to all trans people and kudos for trying hrt. I was shaking my head and thinking *just try it* halfway through the post and it was a pleasant surprise to find you ahead of me. 
+
+I have to say, the apathetic result is not at all what I had expected. I expected you to realize how wrong everything you said was, or possibly discovering what dysphoria really feels like. Instead it was... "not really a big deal, at all)". Seems like that points to the cis-by-default theory I've seen a few times in rationalist circles.
+
+Though I'd like to add that there's nothing *wrong* with wanting to keep your mind unchanged and have a female body. Even for me, there were significant aspects of my pre-transition mind that I wanted to keep.
+
+#### [>] Zack_M_Davis [AUTHOR] · 13 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=CbSTNttXadMmpbdaR
+> I expected you to realize how wrong everything you said was
+
+What parts, specifically, are wrong? What is the evidence that shows that those parts are wrong? Please tell me! If I'm wrong about everything, I want to _know!_
+
+#### [>>] [deleted user] · 24 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=7mtwLiZzNij6tGxwz
+Well, I was smiling and thinking "egg" after just a couple minutes because you describe an awful lot of little pieces of evidence that point towards being trans. So I expected that hrt would be a transformative sweep-away-all-doubt experience, like how it was for me. And on the off chance that you weren't trans, then going on estrogen would cause dysphoria in the reverse of how being on testosterone messed my mind up.
+
+And neither of those things happened! Which means it wasn't you that was wrong, it was me.
+
+#### [>>>] tailcalled · 4 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=GpwR3r6vstWFmayMb
+One thing I've been wondering about for a while is, some trans women I know say that estrogen immediately makes them feel better, on a time scale of hours to a single day. For those who it is this quick, it seems like it should be testable with placebo. Unfortunately the trans woman I had arranged a placebo test with ended up too busy.
+
+#### [>>>>] Vanessa Kosoy · 3 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=CT92fyEd5Q3JT9zCa
+Definitely wasn't the case for me. The only psychological effect I'm pretty much certain about is the lower/different sex drive. There's also more crying, but I think that it's mostly accounted for by a different physical response to the same emotions. And some other changes, but they are more subtle and hence might be placebos. (Although, when I just started HRT I had extreme anxiety about possible side effects and it might have masked any rapid positive psychological effects.)
+
+#### [>>>>>] tailcalled · 2 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=5ren4aCF2qE9H8GrH
+I've had an odd inbetween experience. I at the beginning I had a quick but weak positive reaction, but later I've tried going on and off without much effect beyond the sex drive. I attribute my initial positive reaction to placebo, but I would feel more confident in attributing this stuff to placebo if I could demonstrate it for someone who had a big, clear, unambiguous effect.
+
+#### [>>>>] [deleted user] · 2 karma · 2021-05-04 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=MzJxNZnFPPDQsHrLb
+It did make me feel better immediately, but I always assumed that was just placebo. The first objective changes came after a couple days, when I happy cried at a movie for the first time in my life (that I can remember, anyways). What Vanessa says about different physical responses doesn't really feel right; the emotion was very intense and I don't remember feeling anything like it before.
+
+#### [-] Viliam · 12 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=qwhHTsPqaJE4Yaqat
+Thanks; I guess this made me better understand your interest in certain topics. And I liked the idea that there is a difference between imagining "your current mind in the body of the opposite sex" and "also having your mind taken from the *distribution* for the opposite sex, at the same percentiles where your current mind is for your current sex" (I used my own words here, hopefully I captured the idea correctly). When the Singularitocalypse comes, I might try both, heh.
+
+(On a second thought, nope. Or, I would need to consider carefully which parts of my identity I consider too important to mess with. Trying different emotions, sure; trying different *values*, I'd rather not; not sure whether there is a clear line between these two, though. Considering the hypothesis that men are more likely to have fringe beliefs than women, and that rationality *is* a fringe belief, what if my female equivalent is *not* a rationalist? What if instead of reverting her mind back after the experiment, she decides to e.g. change her mind to be religious, because she will value social conformity highly? Those are scary thoughts...)
+
+I think there is a software that uses machine learning to generate your face with different gender (or race, age, whatever), I wonder if that might be interesting for you to try. Maybe even some deepfake video. (I never tried such software, so I have no idea what is the quality of output or how much computing power it requires.)
+
+#### [>] tailcalled · 1 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=etvmBj5uASgB7aQLy
+> Considering the hypothesis that men are more likely to have fringe beliefs than women, and that rationality *is* a fringe belief, what if my female equivalent is *not* a rationalist? What if instead of reverting her mind back after the experiment, she decides to e.g. change her mind to be religious, because she will value social conformity highly? Those are scary thoughts...
+
+Makes for some great transhumanist ethics thought experiments. Would it be ethical to try out changing your values, with some mechanism that forces you to change back, even if you with those new values would be opposed to changing back and want to keep them?
+
+#### [>>] kithpendragon · 3 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=CeC96uzLRny2gaciY
+Always back up the current version and work on a copy instead.
+
+#### [>>>] Pablo Repetto · 4 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=kAuvucMKKBJ7AbP2y
+And remember: on-site backups are not backups. Even if you are working on a git repo, it is surprisingly easy to screw up your commit history so badly you have to burn it all down and start over, *and that is not by far the worst possible disaster.*
+
+#### [-] Pablo Repetto · 9 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=EeAEmxqBAR7uBmZzr
+I know this misses most of the point of the article, but I also believe it's worth pointing out: I don't think a male wanting a female body form is any weirder or wronger that a male wanting to be 2 inches taller, buff, and having 20/20 eyesight.
+
+PS: I did try reducing "weird and wrong" to their components. Result of the excercise: I find the OP uncontroversially "statistically rare" or "heterodox", but neither "viscerally repulsive" nor "morally reprehensible". I can see the value of explicitly reducing complex concepts in the general case, but I'm not sure it was worthwhile for this instance.
+
+#### [>] wunan · 3 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=L8uvCqantFesAbHs7
+Can you [taboo](https://www.lesswrong.com/posts/WBdvyyHLdxZSAMmoz/taboo-your-words) the words "weird" and "wrong" in that comment?
+
+#### [>>] Pablo Repetto · 1 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=h3mCseZJsorfgxvqy
+It is a direct response to a quotation from the article, so not really.
+
+> I guess I *want* to be "a normal \[...\] man wearing a female body like a suit of clothing."
+> 
+> Is that weird? Is that wrong?
+> 
+> Okay, yes, it's *obviously* weird and wrong, but should I care more about not being weird and wrong, than I do about my deepest most heartfelt desire that I've thought about every day for the last nineteen years?
+
+#### [-] Shamash · 15 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=vee4oSzoNSpxYDyri
+I'm a gay cis male, so I thought that the author and/or other members of this forum might find my perspective on the topic interesting. 
+
+The confusion between finding someone sexually attractive and wishing you had their body is common enough in the online gay community to earn its own nickname: jealusty. It seems that this is essentially the gay version of autogynephilia, in a sense. As I read the blog post, I briefly wondered whether fantasies of a better body could contribute to homosexuality somehow, but that doesn't really fit the pattern you present. After all, your attraction to women was a constant. 
+
+In regards to your masturbatory fantasies, the gay analogue would probably be growth or transformation fantasies, which are probably around as popular online proportionally. When I think about it from that point of view, it doesn't seem all that strange to desire a body that you would find sexually attractive. Personally, one of the primary reasons I haven't even been seeking any sexual experiences yet (I'm 21) is that I feel like the participation of my current body, which I do not find sexually attractive, would decrease my enjoyment of the activity to the point of uselessness. It makes sense that the inverse, the prospect of having sex where you're sexually attracted to everyone involved, would be alluring.
+
+Anyway, everyone, let me know if you have any questions or feedback about what I've said.
+
+#### [>] tailcalled · 13 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=rjpt9uZdmegcGmDgj
+I try to do a lot of research on autogynephilia and related topics, and I think there's some things that are worth noting:
+
+1.  Autogynephilia appears to be fairly rare in the general population of males; I usually say 3%-15%, though it varies from study to study depending on hard-to-figure-out things. My go-to references for prevalence rates are [this](https://www.tandfonline.com/doi/abs/10.1080/00224499.2019.1707468) and [this](https://pubmed.ncbi.nlm.nih.gov/19308843/) paper. (And this is for much weaker degrees of autogynephilia than Zack's.) So it's not *just* about having a body that one finds attractive, there needs to be some ?other? factor before one ends up autogynephilic. (I've been interested in figuring out this other factor, but I haven't figured out much.)
+2.  According to various surveys in the rationalist community, autogynephilia in men (and autoandrophilia in women) appears to be much more common here than it is in the general population. (And possibly this applies to autoandrophilia in men and autogynephilia in women too, but studying this is controversial and feels difficult.) As such, it might be easy for a group of rationalists to take autogenderphilia for granted as something that *of course* is part of your sexuality, even though, by point 1, it isn't necessarily.
+
+#### [>>] FireStormOOO · 5 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=HFqyMmu7QmYgWtYCt
+Interesting, though I'd be hesitant to read too much into that.  To the extent this rationality project is succeeding, I'd expect people here are more likely to be exposed to the full range (or at least a large range) of human variation, and more likely to correctly determine if they're actually any particular minority group, with people defaulting to not-a-member on priors without significant reflection.  
+
+This seems like a really hard thing to survey consistently that'll be systemically skewed by degree of prior exposure to the topic in question in the survey population.  If you ask someone point blank "do you have \[minority quirk they've probabably never heard of\]?", they're unlikely to return a meaningful answer in the time surveys have.  Folks spend months or years figuring that out.  I don't see how you avoid measuring P(has unusual quirk & has invested the time and developed self awareness to realize A if true) instead of just P(has unusal quirk).  Speaking very generally as I expect this holds outside of the realm of sex/gender/etc identity issues too.
+
+misc: I didn't check out the specific papers linked.  I recall Scott commenting on one or more of his yearly surveys the degree to which the LW and SSC communities end up being outliers on just about every measure like this (much higher than base rate) but didn't find the specific comments back.
+
+#### [-] smountjoy · 5 karma · 2021-05-03 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=CHxYDtce7nwsgbuNu
+Really appreciated all ~16,000 words. For what it's worth, I agree with what Pablo said above.
+
+The parts about your ideological journey were quite fun to read. Reminded me of HPMOR Harry learning partial transfiguration—maybe in that he finds a way to see category boundaries that others can't.
+
+I'd be interested to hear more about why you think social transition "doesn't seem like a smart move". I read some of your posts on gender categories, and I feel like I'm agreeing for the most part but losing you in the conclusions. I haven't read much about this, so forgive me if I'm retreading obvious ground.
+
+My impression of what you're saying is that even if you asked others to use different pronouns for you, internally they would keep classifying you into the same gender-cluster they always did—the one based on biological features—and this disconnect would be a loss for societal rationality. Specifically, we might lose the common knowledge that our internal classifiers operate mostly on the biological clusters, or that the biological clusters exist at all—or the biological clusters might just become harder to talk about, when commonly-occurring nouns like "man" and "woman" and pronouns like "he" and "she" no longer map to them. [\[1\]](http://unremediatedgender.space/2018/Feb/the-categories-were-made-for-man-to-make-predictions/)
+
+I completely agree that we don't want to lose the common knowledge of biological clusters. But I don't think changing pronouns has to contribute to that loss—I would hope that with careful communication, one could change pronouns without contributing at all to the social pressures that discourage discussion of biological clusters.
+
+As for the terms we use to refer to biological clusters becoming more niche, I guess that possibility doesn't seem obviously bad to me. Maybe it'd be better if we talked a bit less about the biological clusters; I'm not sure why we should privilege the current state of affairs. But in any case, the stakes are low—word frequencies and definitions fluctuate all the time, and alternative names like "biological male" are easily understood and only a few syllables longer.
+
+(On the other hand, if I think of redefining "man" and "woman" as a deliberate attempt, by some contagious meme, to shift the kinds of ideas we think about, then it does seem a lot more worrying.)
+
+TL;DR: Socially transitioning shouldn't have to be/feel like promoting "lying" or bad epistemics.
+
+#### [-] nim · 2 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=umAThspeBwmfiwxn5
+What's your take on that aspiration toward immortality which seems somewhere between fashionable and universal around these parts of the internet? I'm curious because it seems like that would be a huge factor in the equation of whether you'd consider it desirable to hormonally transition long term, considering the difference between male and female life expectancies.
+
+#### [>] Dirichlet-to-Neumann · 1 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=BbMw5bxZh59xgm9Wd
+A big part of the difference comes from human males taking part in riskier activities, having a higher suicide rate and generally a less healthy lifestyle. Those are statistically significant differences, but they don't affect individual person. If you are a male, do some reasonable physical exercise and have good food habit while avoiding things that are obviously risky, a big part of the difference vannishes.
+
+#### [>>] tailcalled · 1 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=5JygcLtZckvvTXo3E
+Also, bigger bodies = more cells that can end up turning into tumors and such.
+
+#### [>>>] Dirichlet-to-Neumann · 1 karma · 2021-05-06 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=B6L3cksbb4EBSA6Yp
+I doubt this factor is really significant. A quick google search only yielded results for breast cancers, and glancing over at the abstracts I'm skeptical those studies are strong enough to prove a real effect for size (they seem to find an effect for BMI, but BMI affect more than just the number of cells in the body so it is not really significant for our discussion).
+
+Also in the context of health benefit associated with transition this is irrelevant because transitioning will not change your body size...
+
+#### [>>>>] tailcalled · 2 karma · 2021-05-06 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=LeFXZqwaHHGnEMkxx
+See e.g. [this](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.1743).
+
+> Also in the context of health benefit associated with transition this is irrelevant because transitioning will not change your body size...
+
+Yeah I know, I could've pointed out the body size effect to nim too.
+
+#### [>>] nim · 1 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=WwREATapzZrpc8rwA
+Stats like https://www.cdc.gov/women/lcod/2017/all-races-origins/index.htm vs https://www.cdc.gov/healthequity/lcod/men/2017/all-races-origins/index.htm lead me to believe that heart disease and cancer are more significant killers than risky activities or suicide. Could you share where you've found stats broken down by activity riskiness, suicide rate, and lifestyle healthiness?
+
+And even if lifestyle factors account for a big part of the difference, it sounds like you believe there's still some difference, and it seems like any difference would be relevant to someone seeking to maximize their longevity.
+
+#### [>>>] Dirichlet-to-Neumann · 1 karma · 2021-05-06 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=hkYiCuBsW9Fgq64kc
+Cancer and heart disease kill most people but kill mainly old people, so their impact on life expectancy is less significant per death than suicide or unintended injuries.
+
+I don't have stats but the link you give seems to be supporting my point : suicide and unintentional injuries amount to 10% of males death and at most 5% of female deaths.   
+Quick back of the envelope calculation : assuming average age of death by suicide/accident for males is 30, while "all other causes" average age of death is 80, you'd get a life expectation of $0.9\\times 80 + 0.1\\times 30= 75$ for males and  $0,95\\times 80+0,05\\times 30=77,5$ for females.  
+You can play around with the number a bit, but the crux is that younger deaths weight a lot in the average and men tends to die a lot more at a young age due to suicide and riskier activities.  
+  
+I'm totally not going to look for the relevant stats because I have papers to grade, but my prior is also that men are also more susceptible to heart diseases/cancers in part due to lifestyle choices (ie, eating more meat, smoking, drinking...).
+
+  
+I think lifestyle factors account for most of the difference, and that even if it not all the difference, the health risk associated with sex transition should outweigh any potential gains (I'm also very skeptical that hormone treatment+surgery could really help since they would not affect your basic genetic profile).
+
+(note that this discussion is only valid in the framework of longevity - I'm not discussing the short term potential benefits of transitioning in term of mental health).
+
+#### [-] Xeniamorph · 4 karma · 2021-05-05 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=Bjvjxpyo3YqHMCYcJ
+To the extent that simple agreement is an interesting addition (and it usually is not), I think it might be interesting to note that I am an autogynephilic male, as you are, and most of this is essentially congruent with my own internal experiences of the desire, save for the fact that my autogynephilia seems to be much less... extreme than your own?
+
+E.g., you mention the "beautiful pure sacred self identity thing" rather frequently, and I'm not sure I have that mostly at all, at least right now. Rather, I should say I can recall times in my life (particularly freshman year of college, where I was, in two successive jazz dance classes, the only male among the class and I suspect the whole "desire to do well in class/be someone who does well in class" thing picked up both the fact that the only examples of good dancers around me were female and my autogynephilia and kind of ran away with them) where my own version of the beautiful pure sacred self identity thing was much more prominent or a much larger part of my daily mental life.
+
+There's obviously much more I could say about the matter, and I might edit this comment or post a reply to say parts of that much more if other people are sufficiently interested in the prospect my doing so, but I've not the time right now.
+
+#### [-] MikkW · 3 karma · 2021-05-07 · https://www.lesswrong.com/posts/LwG9bRXXQ8br5qtTx/sexual-dimorphism-in-yudkowsky-s-sequences-in-relation-to-my?commentId=vZogmhqxW74qPRd3B
+I'll highlight this extract:
+
+> (The blog posts did finally get collected into a book, [*Rationality: From AI to Zombies*](https://www.amazon.com/Rationality-AI-Zombies-Eliezer-Yudkowsky-ebook/dp/B00ULP6EW2), but I continue to say "the Sequences" because I *hate* the gimmicky "AI to Zombies" subtitle—it makes it sound like a commercial book optimized to sell copies, rather than something to corrupt the youth, competing for the same niche as the Bible or the Koran—*the book* that explains what your life should be about.)
+

@@ -1,0 +1,115 @@
+Title: Local computer scientist discovers truth and meaning! Philosophers hate him!
+Subreddit: r/SneerClub
+Author: u/Subrosian_Smithy
+Posted: 2020-06-08
+URL: https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/
+Link: https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution
+Source: PullPush archive (scores as captured)
+
+Comments archived: 17
+
+#### u/noactuallyitspoptart · 17 points · 2020-06-08 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/fterr1b/
+This could have easily been done with a lot less whining about people being mean to nerds
+
+#### u/Soyweiser · 19 points · 2020-06-08 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftethjz/
+Jesus christ that scenario is so absurdly specific, I can't even...
+
+E: also this
+> You don't really understand a concept until you can program a computer to do it. 
+
+That... is not how computers work, ow god, there are literally real world things which you cannot properly do in a (turing compatible) computer.
+
+#### u/veronicastraszh · 7 points · 2020-06-08 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftetke1/
+That sure is a lot of words.
+
+#### u/Snugglerific · 19 points · 2020-06-08 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftf2my9/
+brb coding the dasein.
+
+#### u/200fifty · 6 points · 2020-06-08 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftf4eaj/
+Ah, they've discovered structural linguistics! And only 104 years late, too. Quite impressive, really.
+
+#### u/notdelet · 9 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftfdh2b/
+Of *course* it's written in Rust, the only moral language.
+
+#### u/seudou · 12 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftg0zta/
+Recognizing this poster as the author of that rationalist autogynephilia truther blog is a sure sign the Internet has rotted my brain.
+
+#### u/Subrosian_Smithy · 8 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftg61sc/
+fskdljfdskldfj WHAT!? is this the person who wrote the "autogynephilia in the tech industry will cause the AI apocalypse" hot take, or are there more than one of these folks???
+
+#### u/seudou · 6 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftg6uzm/
+If you mean [this post](https://www.reddit.com/r/SneerClub/comments/61t94y/rationalist_tries_justifying_their_transphobia_by/), then yes. There are almost certainly more than one, though.
+
+#### u/EmpiricalSneerer · 13 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftg7k0c/
+Help I've accidentally given my computer weltschmerz
+
+#### u/zaxqs · 3 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/fthpswk/
+\>  That... is not how computers work, ow god, there are literally real  world things which you cannot properly do in a (turing compatible)  computer. 
+
+I'm genuinely curious, what is an example of this?
+
+#### u/Soyweiser · 1 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/fthsd5d/
+Simple example, random numbers. A computer cannot do this properly (and people who tried to naively do random numbers caused a lot of problems in the past), it needs outside information for proper randomness (not just a seed). But also floats are notoriously buggy on computers when the numbers become very small or very large.
+
+Reality doesnt run on 1 and 0, but on spectrums. But looking at thinks from a computer perspective already limits your views.
+
+Somebody better versed in cs can prob explain it more. See also: https://stackoverflow.com/questions/1089018/why-cant-decimal-numbers-be-represented-exactly-in-binary
+
+(There is also the fact that this is just smug programmer variant of the old silly 'if you can't explain it to others you don't understand it').
+
+You also cant teach a computer how to code, does that mean you cant understand coding?
+
+#### u/zaxqs · 2 points · 2020-06-09 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/fti4jjz/
+> Simple example, random numbers. A computer cannot do this properly (and people who tried to naively do random numbers caused a lot of problems in the past), it needs outside information for proper randomness (not just a seed).
+
+OK fair enough
+
+> But also floats are notoriously buggy on computers when the numbers become very small or very large.
+
+That's a design choice to save memory, not a fundamental limitation on what computers can do. One can create arbitrary-precision floats, that automatically scale to whatever precision is asked of them. Alternatively, one may create a data structure capable of handling all fractions. However, it is wasteful to do so in most applications.
+
+It's the same thing with ints, if ints get large enough they overflow, but if you *really* want to avoid overflow you can just use a BigInt class which can get as large as your memory can handle.
+
+> Reality doesnt run on 1 and 0, but on spectrums.
+
+This is possible, but I'm not sure how you know this. There is an ongoing debate in physics about whether space and time and other physical quantities are continuous or discrete. If they are discrete, then reality basically does run on (very high precision) 1s and 0s.
+
+> You also cant teach a computer how to code, does that mean you cant understand coding?
+
+I don't explicitly understand the *process of* coding, that is, I don't understand what's going on in a programmer's mind that allows them to code.
+
+#### u/Citrakayah · 4 points · 2020-06-10 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftj7kyc/
+Music criticism.
+
+#### u/beth-zerowidthspace · 4 points · 2020-06-10 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftjas5n/
+The trivial example here is the halting problem. You don't understand the halting problem until you can program a computer to solve it? That seems contradictory.
+
+But even neglecting that, the original statement is a prime example of programmer hubris. Take any recent computer science theory paper, I am quite sure that nobody would be able to code it up in a reasonable time frame. Turning those algorithms, even with given pseudo code, into runnable bug-free code is bloody difficult. What counts as "you can code this on a computer"? How much time are you in principle allowed to spend coding? Days? Months? Years?
+
+Or lets take it the other way around, since everyone loves reversing implications, while staying with cs. Plenty of people have coded up Nesterov acceleration but I am confident in saying nobody on the planet understands it.
+
+#### u/zaxqs · -1 points · 2020-06-10 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftjbogh/
+This requires a clarification of what is meant by this:
+
+> You don't really understand a concept until you can program a computer to do it.
+
+Broadly, there are two types of understanding. Procedural understanding is implicit knowledge of how to do something. Declarative understanding is explicit knowledge of how something works. It is possible to understand something in one of these senses but not the other. The above quote is supposed to be about declarative understanding. It is, therefore, fallacious to the extent that it is applied to procedural understanding.
+
+To my knowledge, nobody has very good declarative understanding of what determines the quality of a piece of music, although there are certainly many people who have procedural understanding of it in the sense that they can detect the quality (or lack thereof) of music. They don't understand exactly how they do it in the declarative sense, though. If they did, they probably could program a good AI music critic.
+
+#### u/zaxqs · 3 points · 2020-06-10 · https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/ftjcwpz/
+> You don't understand the halting problem until you can program a computer to solve it? That seems contradictory.
+
+I mean, you probably don't understand how to *solve* the halting problem...
+
+This certainly does demonstrate a way in which the statement is poorly worded and perhaps poorly concieved. "You don't really understand a concept until you can program a computer to do it." There's somewhat of a category error here, as a concept is not something you do. Perhaps it would be better phrased as "You don't really understand how to do something until you can program a computer to do it."
+
+I think the best you can do with the Halting Problem right now is get a computer to "understand" it in some weak sense by creating a computer-checkable proof of the unsolvability of the Halting Problem.
+
+> But even neglecting that, the original statement is a prime example of programmer hubris. Take any recent computer science theory paper, I am quite sure that nobody would be able to code it up in a reasonable time frame.
+
+OK that's a good point. There is a lot of work involved in translating concepts into code, even if you understand the concept very well. But, if you do understand well how to do something(in the declarative sense, as I explained in another comment) then it is probably feasible, if not exactly easy, to get it into code.
+
+> Plenty of people have coded up Nesterov acceleration but I am confident in saying nobody on the planet understands it.
+
+That doesn't contradict the original sentiment. It might well be that being able to program something is necessary but not sufficient for understanding it.

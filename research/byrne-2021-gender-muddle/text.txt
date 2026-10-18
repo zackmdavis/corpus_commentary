@@ -1,0 +1,1551 @@
+Article
+
+Gender Muddle: Reply to Dembroff
+Alex Byrne
+Department of Linguistics and Philosophy, Massachusetts Institute of Technology;
+abyrne@mit.edu
+
+Submitted: 15 September 2020, accepted: 7 March 2021, published: 25 April 2021
+
+
+Abstract: Robin Dembroff’s “Escaping the natural attitude about gender” replies to my
+“Are women adult human females?”. This paper responds to Dembroff’s many criticisms
+of my arguments, as well as to the charge that “Are women...?” “fundamentally is an
+unscholarly attempt to vindicate a political slogan that is currently being used to undermine
+civic rights and respect for trans persons”. I argue that Dembroff’s criticisms fail without
+exception, and explain why the claims about my motives are baseless.
+
+Keywords: gender; sex; transgender
+
+How to cite: Byrne, A. Gender Muddle: Reply to Dembroff. Journal of Controversial
+Ideas 2021, 1(1), 5; doi:10.35995/jci01010005.
+ © 2021 Copyright by the author. This article is an open access article distributed under the terms and
+conditions of the Creative Commons Attribution (CC BY 4.0) license.
+
+
+      Philosophers often seem to think that they can just ‘assign’ any meaning whatever
+      to any word; and so no doubt, in an absolutely trivial sense, they can (like
+      Humpty­Dumpty).
+                                                       J. L. Austin, Sense and Sensibilia
+
+It will come as no surprise to those who have been following the recent turmoil in
+philosophy over sex and gender that “Are women adult human females?” (henceforth
+Are women . . . ?) was not a hit with a number of anonymous referees.1 For example, the
+report of “Referee 1” for a top journal read in its entirety as follows:
+      This paper should not be accepted. The arguments given in favor of the author’s view
+      are question­begging. The alternative views discussed have ways of accommodating
+      the data that the author takes to count in favor of their view. The author fails
+      completely to discuss these. The responses to objections are inadequate. In general,
+      the discussion of alternative views is highly uncharitable and ill­informed.
+
+
+1
+    Turmoil: José Luis Bermudez et al., “Philosophers should not be sanctioned over their positions on
+    sex and gender”, Inside Higher Ed, July 22, 2019, https://www.insidehighered.com/views/2019/07/22/
+    philosophers­should­not­be­sanctioned­their­positions­sex­and­gender­opinion; Linda Alcoff et al., “On
+    philosophical scholarship of gender: A response to “12 leading scholars””, Blog of the APA, August
+    7, 2019, https://blog.apaonline.org/2019/08/07/on­philosophical­scholarship­of­gender­a­response­to­
+    12­leading­scholars/. Are women . . . ?: Alex Byrne, “Are women adult human females?”, Philosophical
+    Studies 177 (2020): 3783–803.
+
+
+                                                                                                        1
+    Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+Since Referee 1 was rather short on specifics, naturally I wondered what, exactly, Are
+women . . . ’s grave failings were supposed to be. I am therefore genuinely grateful to
+Dembroff for attempting to fill in the details.
+       “Escaping the natural attitude about gender” (henceforth Escaping . . . ) is trenchant,
+to put it mildly.2 Dembroff’s reply convicts me of “rhetorical bullying”, of using
+“cherry­picked quotations to undermine the legitimacy of queer communities”, of deploying
+“uninformed and poorly constructed” arguments, and much else besides.3 Are women
+. . . ? is unmasked as a Trojan Horse, “fundamentally . . . an unscholarly attempt to
+vindicate a political slogan that is currently being used to undermine civic rights and
+respect for trans persons”.4
+       Let us start with the least inflammatory of these accusations, my poorly constructed
+arguments, which “are at best confused—more often, they are question­begging or false”.5
+
+1. The Preliminary Case for AHF
+The main thesis of Are women . . . ? is this:
+        AHF     S is a woman iff S is an adult human female,
+where the biconditional is understood to be universally quantified and necessitated. Since
+“categories” in Are women . . . ? are taken to be modally individuated properties, AHF is
+equivalent to the thesis that the category woman and the category adult human female
+are identical. An additional thesis is that the category adult human female is “biological
+(and not social)”, something that Dembroff also questions and which I will take up later.6
+       Escaping... makes unnecessarily heavy weather of establishing that my thesis “must
+be one about identity”, as if what I said was somehow unclear.7 Dembroff incorrectly
+claims that I “disagree” with metaphysicians who hold that “necessary equivalence is
+importantly distinct from identity”; all I say is that “It will do no harm to individuate
+categories modally: necessarily equivalent categories are identical”.8 As Are women
+. . . ? notes, the relevant arguments do not turn on hyperintensional differences.
+       Are women . . . ? also makes some other clarificatory points, including:
+
+         . . . the evidence relevant to assessing AHF should not be sought in the “ordinary
+        use” of ‘woman’ and the like: a mistaken conception (for instance) can lead people
+        to systematically misapply words. Having said that, there is nothing wrong with
+        appealing to linguistic evidence that clearly bears on the meaning (or intension) of
+        ‘woman’, since that has immediate implications for AHF via disquotational principles.
+        (No doubt there is some connection between ordinary use and meaning, but it is
+        highly indirect and not well understood.) A simpler sort of evidence comprises facts
+        about where the women are in various actual and counterfactual situations . . . In
+        what follows, appeal will be made to evidence of both sorts.9
+
+
+2
+      Robin Dembroff, “Escaping the natural attitude about gender”, Philosophical Studies 178
+      (2021): 983–1003.
+3
+      Ibid., 989, 995, 1000.
+4
+      Ibid., 1001.
+5
+      Ibid., 985.
+6
+      Are women . . . ?, 3785.
+7
+      Escaping..., 986.
+8
+      Ibid., 985; Are women . . . ?, 3784, n. 2, emphasis added (quoted in Escaping..., 985, n. 12).
+9
+      Are women . . . ?, 3785, last emphasis added.
+
+
+                                                                                                  2
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+and:
+
+       Naturally such appeals can be disputed. People vary in their abilities to correctly
+       identify members of categories, or to correctly apply words . . . It can be tempting to
+       respond to such disagreement by losing one’s nerve and retreating to the claim that
+       one’s evidence really consists in neutrally characterized facts about speakers’ use
+       of words, or (perhaps worse) facts about “intuitions”—evidence that one’s opponents
+       are less likely to challenge. That temptation should be resisted.10
+
+The evidence I intend to adduce in favor of AHF, then, includes (a) linguistic facts that
+clearly bear on the meaning of ‘woman’ and (b) non­linguistic facts about women. That
+evidence does not include facts about “intuitions” or the “ordinary use” of words.
+       Section 2 of Are women . . . ? gives six (non­demonstrative) arguments in support
+of AHF, three employing an (a)­type premise (e.g., that there is a robust cross­linguistic
+pattern of gendered words for the adult male and female forms of certain animals), and
+three employing a (b)­type premise (e.g., that the journalist Norah Vincent’s attempt to
+infiltrate groups of men had no effect on her status as a woman). The point of these
+arguments is to reinforce Bettcher’s remark that “On the face of it, the definition “female,
+adult, human being” really does seem right. Indeed, it seems as perfect a definition as one
+might have ever wanted”.11 The onus is thus on AHF’s opponents—hardly an implausible
+result. Most of the action is in Section 3, where I attempt to rebut the main arguments
+against AHF, due to Bettcher and Stoljar.12 The case for AHF is not complete until the
+end of that section.
+       According to Dembroff, however, I have mischaracterized Section 2 of my paper.
+Escaping... interprets me as offering six considerations in support of a semantic claim,
+that “the philosophically relevant meaning of ‘woman’ refers to adult human female”.13
+What’s worse, despite my official disavowal of “ordinary usage” and “intuitions”, all my
+arguments are said to “entirely rely on particular, everyday uses of ‘woman’ and ‘girl’,”
+accompanied by “linguistic intuitions”.14
+       First, Dembroff’s claim that Are women...? assumes that “[t]here is one meaning of
+‘woman’ relevant for philosophical inquiry” is incorrect.15 Are women...? simply engages
+with the many writers in the feminist tradition who at least seem to be using the word
+
+
+10
+     Ibid., 3785, emphasis added.
+11
+     Talia Mae Bettcher, “Trans identities and first­person authority”, in “You’ve Changed”: Sex Reassignment
+     and Personal Identity, ed. Laurie Shrage (Oxford: Oxford University Press, 2009), 105; quoted
+     in Are women . . . ?, 3791. Bettcher herself rejects AHF, and may well think the definition is only
+     superficially attractive.
+12
+     Are women . . . ? briefly discusses other arguments in footnotes (3792, n. 15 and 16). For a deeper
+     examination of some of these and more, including Bettcher on ‘womanly’ (n. 15), see Tomas Bogardus,
+     “Evaluating arguments for the sex/gender distinction”, Philosophia 48 (2020): 873–92.
+13
+     Escaping . . . , 986.
+14
+     Ibid., 985, n. 9; 986, n. 14. It might be helpful to contrast the actual argument of Are women . . . ? with
+     Dembroff’s reconstruction: here are six arguments that jointly make AHF “of considerably greater initial
+     appeal than the JTB analysis of knowledge” (Are women . . . ?, 3790); none of the leading objections work;
+     hence AHF is true (or is at least a very plausible hypothesis) and (assumed with almost no argument)
+     woman is a biological and not social category. This bears very little relation to the “reconstruction”
+     (Escaping..., 984–85). That has six premises, and I only accept premise 4 (“Adult human female is a
+     biological and not social category”) and premise 3 (“On the “standard” meaning of ‘woman’, ‘woman’
+     refers to the category adult human female”). However, premise 3 is not a premise of the argument in Are
+     women . . . ? See Section 3 below.
+15
+     Escaping . . . , 984.
+
+
+                                                                                                              3
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+‘woman’ in the same standard, everyday sense, whatever that is, and who are asking
+questions and propounding theories using that word. I am joining their conversation, and
+my use of ‘woman’ is supposed to be interpreted in the same way as theirs. (I shall return
+to this issue at greater length later.) Perhaps there are other senses of ‘woman’ that are
+more “relevant for philosophical inquiry”—Are women...? takes no stand on this point.
+      Second, why does Dembroff think that all of my arguments rely on linguistic
+evidence? Take Norah Vincent’s convincing attempt to live as a man. The relevant
+evidence is this:
+
+        . . . Vincent did not become a man. As it happens, she made some serious attempts
+       to transform her body by weightlifting and eating lots of protein, but even if her
+       preparations had included testosterone supplements, she would have remained a
+       woman. Imagine that, due to misreading Judith Butler, Vincent became convinced
+       (and perhaps alarmed) for a few months during her fieldwork that her performance
+       as a man made her one. If that had happened, she would have been wrong.16
+
+AHF, if true, straightforwardly explains this evidence, and is thereby supported by
+it—although, of course, not conclusively. The cumulative effect of the six considerations
+is intended to establish AHF as the default hypothesis.
+      On the face of it, the premise of the Vincent argument does not concern “everyday
+uses” of words. Dembroff sees that I “might protest” at this point, and replies in a footnote
+that the argument appeals “to what are stipulated as “correct” descriptions of persons
+as falling under the term ‘women’”.17 This is incorrect. Nothing is said about the word
+‘woman’. Nor, for that matter, is anything stipulated. The relevant piece of evidence is
+that Vincent remained a woman.18 This does have linguistic consequences, for instance
+that the English sentence ‘Vincent remained a woman’ and the German sentence ‘Vincent
+blieb eine Frau’ are both true. But the evidence itself is not about the word ‘woman’ at all.
+      Pace Dembroff, it isn’t true that my allegedly non­linguistic arguments are really
+hidden linguistic ones. And anyway Dembroff’s complaint applies equally well, or equally
+badly, to numerous arguments inside and outside philosophy, including the arguments in
+Escaping . . . itself.
+      What about Escaping...’s charge that my linguistic arguments, at least, have
+premises about “ordinary usage”, despite my statement to the contrary? By the “ordinary
+use” of a word, I meant ordinary speakers’ dispositions to apply the word. (An imprecise
+characterization, of course, but further precision was unnecessary.) As the first indented
+quotation from Are women...? notes, speakers can be disposed to systematically
+misapply words, and so there is no straightforward route from ordinary use, conceived in
+this neutral fashion, to meaning.19 None of the linguistic arguments employ a premise
+about ordinary use in this sense. But don’t dictionaries record (or attempt to record)
+“ordinary use”? Only in the sense that they record (or attempt to record) what words
+are ordinarily used to mean—this is not “ordinary use” as it figures in Are women...?
+
+
+
+
+16
+     Are women...?, 3789.
+17
+     Escaping . . . , 986, n. 14.
+18
+     And also would have remained one if she had taken testosterone or misread Butler.
+19
+     For a sophisticated attempt to give a “use” theory of meaning, see Paul Horwich, Reflections on Meaning
+     (Oxford: Oxford University Press, 2005).
+
+
+                                                                                                          4
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+     Perhaps Are women...? should have belabored these ground­clearing issues. In any
+event, the origin of Dembroff’s misunderstanding is clear. It is my use of quotations from
+the New York Times, the subtitle of Vincent’s book (“One Woman’s Year Disguised as a
+Man”), and so forth:
+
+      Byrne also appeals to The New York Times, a 2010 Pourriat film, a 2003 Vincent
+      memoir, and a carefully chosen quotation from a trans author, Julia Serano.20
+
+However, Are women...? does not appeal to the NYT or any of these other sources. Take
+the NYT, which Dembroff says I appeal to “multiple times”.21 (The NYT is mentioned
+twice.) Here is how Are women...? uses the NYT, in connection with Pourriat’s film
+Majorité Opprimée:
+
+      As the New York Times (correctly) puts it, “the parent doing the chores is a man,
+      and all the gender roles are reversed, creating a world in which men confront what it
+      would be like to face the daily indignities, compromises and risks that women often
+      face” . . . This is exactly as predicted by AHF: in the fictional world of the film, the
+      occupants of the female gender roles are adult human males.22
+
+Escaping... appears to interpret this passage as saying: the NYT has printed and
+endorsed ‘the parent doing the chores is a man’, so this supports the view that ‘man’,
+as used by the NYT, applies to an adult human male occupying a female gender role.
+But, as signified by the parenthetical ‘correctly’, the passage is actually saying something
+quite different, namely: (in the fictional world) the parent doing the chores is a man,
+which is exactly as predicted by AHF; by the way, the NYT agrees. Are women...?
+uses a parallel construction for the second NYT quotation. The main point of these
+quotations is to reassure the reader—if reassurance is needed—that my own opinions
+are not idiosyncratic. Notice that “what is predicted” by AHF is that the parent doing the
+chores is a man; AHF does not predict what may or may not appear in newspapers. The
+crucial piece of evidence is therefore that the parent doing the chores is a man, not that
+some journalist has written a sentence to that effect.
+
+2. Dembroff’s Objections
+Having hopefully cleared all that up, where do the six arguments of Section 2 go wrong?
+Here are their respective premises, concisely put:
+P1. The dictionary definition of ‘woman’ is ‘adult human female’ (or equivalent).
+P2. There are many gendered animal words which refer to adult females/males.
+P3. We know that Mitochondrial Eve is a woman/We know that Y­chromosomal Adam is
+    not a woman.
+P4. When a human female is born, it is almost invariably known by inspection that the
+    baby is female and that she is a girl.
+P5. In Majorité Opprimée, the males who occupy female gender roles are men/Norah
+    Vincent remained a woman.
+P6. ‘Woman’ and ‘female’ are appropriately used as stylistic variants in certain contexts.
+
+
+20
+     Escaping..., 989.
+21
+     Ibid., 988.
+22
+     Are women...?, 3789, emphasis added.
+
+
+                                                                                            5
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+For each one, we can ask both: Is Dembroff denying the premise? Is Dembroff denying
+that the premise lends support to AHF?
+     With respect to P1, Dembroff seems to be skeptical that the dictionary definition is
+evidence of anything:
+
+        . . . Byrne claims that “the dictionary” definition provides evidence that ‘woman’
+       means ‘adult human female’. Let’s set aside problems with using the dictionary to do
+       philosophy of language.23
+
+The main objection, though, is that “‘woman’ may have multiple meanings”.24 Waiving
+“problems with using the dictionary”, “[e]ven dictionaries list multiple meanings for
+‘woman’”.25 Indeed they do. This would be highly relevant if the ‘adult human female’
+entry was not the first, or was marked ‘Obs.’ or something like that. But it is the first.
+Unless dictionaries are completely useless as guides to the meanings of words, it must
+be admitted that P1 provides some support for AHF. As Are women...? takes pains to
+point out, this is by no means decisive, but it is a consideration nonetheless.26,27
+      Escaping... offers no comment on P2, about the prevalence of pairs like ‘goose’
+and ‘gander’.28 On P3, about the Adam and Eve of human genetics, Escaping... says
+that “supporting the sufficiency direction of AHF [that being an adult human female is
+sufficient for being a woman] is highly uninformative”, seemingly on the ground that a
+similar argument would support the view that being a lesbian or a wife is sufficient for
+being a woman.29 If there is an objection here, it is not apparent. Moreover, Escaping...
+ignores Y­chromosomal Adam, who is exhumed to support the necessity direction.
+      With respect to P4, the problem, according to Escaping..., is that the argument:
+
+
+
+23
+     Escaping...: 988–89; footnote omitted. Also: “Byrne even suggests we will find this meaning in the pages
+     of a dictionary” (987, emphasis added), as if this is hopelessly naïve.
+24
+     Ibid., 988.
+25
+     Ibid., 989.
+26
+     P1 provides support for both parts of the overall conclusion: “dictionaries . . . are hard to reconcile with
+     the idea that woman is a social category. A natural alternative is that the category is biological, and the
+     dictionary entry ‘adult human female’ is at least a promising suggestion” (Are women . . . ?, 3787).
+27
+     Dembroff notes that Merriam­Websters “lists six” definitions of ‘woman’. The first is “an adult female
+     person”, but Dembroff highlights one of the others: “distinctively feminine nature” (Escaping..., 989, n. 25).
+     Examples of that sense from the Oxford English Dictionary are sentences like ‘She knew that all the
+     woman in her somewhat masculine nature had gone out, in maternal affection to her husband’s nephew’.
+     This—I would hope!—is not the relevant sense of ‘woman’ (see the following section). Escaping... does
+     not mention that the remaining four subsidiary definitions are: “womankind”, “a woman who is a servant”,
+     “wife/mistress/girlfriend”, and “a woman who is extremely fond of or devoted to something specified”, as
+     in the sentence ‘I’m a chocolate woman through and through’. ‘Woman’ as used in the second and last
+     of these four clearly has its primary sense.
+            Going by dictionaries, the primary sense of ‘woman’ has remained stable for centuries. Noah
+     Webster’s American Dictionary of the English Language (1828) has “The female of the human race, grown
+     to adult years”.
+            Later Dembroff attaches some importance to the fact that one sense of ‘girl’ is (as the OED has it),
+     “a woman of any age” (Escaping..., 990). (Another sense is “young woman”.) Why this is relevant eludes
+     me. ‘Girl’ in Are women . . . ? has the sense it has in ‘women and girls’. Dembroff also wonders why
+     my so­called “semantic inquiry” does not extend to ‘lady’, ‘miss’, ‘widow’, ‘tomboy’, ‘lesbian’, etc. (990).
+     Here I am just following the literature I engage with—which generally doesn’t even use ‘girl’, and instead
+     focuses rather myopically on ‘woman’.
+28
+     There is plenty to be said. For a good start, see Justin E. H. Smith, “ Are cows adult bovine females?”,
+     2019, https://www.jehsmith.com/1/2019/12/are­cows­adult­bovine­females.html.
+29
+     Escaping . . . , 986, n. 14.
+
+
+                                                                                                                 6
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+        . . . simply stipulates that a female­assigned baby is “known” to be a girl. If this
+       argument has more content than the claim that people use the term ‘girl’ to describe
+       female­assigned babies, I couldn’t find it.30
+
+This is another of Escaping...’s peculiar uses of ‘stipulation’. Claims are made, which
+Dembroff is free to dispute, but nothing is stipulated.31 Neither does Are women...? say
+anything about “female­assigned babies”; despite P4 standing in plain sight, Escaping...
+distorts it. And why the scare quotes around ‘known’? It’s hard to be sure, but it looks like
+Dembroff does not accept P4. Why? If support for P4 is needed, one can find it in the
+knowledge norm of assertion: in typical cases, there is nothing wrong with asserting that
+the mewling baby is a girl, or that she is female.32
+      With respect to P5, about swapped gender roles, Escaping... repeats the incorrect
+complaint that the premise is “stipulated”, and alleges that the argument appeals to
+“intuition pumps about what counterfactual statements “ordinary” people (people who
+share Byrne’s linguistic intuitions?) would assent to”.33 This is also incorrect: there is
+no such premise about “ordinary people”.
+      Finally, with respect to P6, the problem seems to be that my quotation from Serano
+was “carefully chosen”.34 Perhaps some other quotation from Serano illustrates how she
+sometimes does not use ‘woman’ and ‘female’ as stylistic variants in a context where
+other people would. It is rather unlikely that this is true, but it is in any case irrelevant.35
+The premise is that it is appropriate to so use these terms; the premise is not that Serano
+in fact uses ‘woman’ and ‘female’ that way.36
+      Are women...? predicts “[p]ointless charges of “begging the question”” (probably an
+effect of Referee 1’s report).37 Undeterred, Dembroff insists that some—if not all—of my
+arguments do indeed beg the question.38 Given the explicit prediction, one would have
+hoped that Escaping... would carefully spell out why. Unfortunately, it does not. I can only
+presume that the following observation applies here:
+
+       Sometimes philosophers lapse into a use of ‘begging the question’ that sheds no
+       lights whatsoever on a debate, teetering on the most pointless use whereby one
+       automatically classifies an argument against a position as question begging when its
+       premises support an unwelcome conclusion.39
+
+
+
+
+30
+     Ibid., 986, n. 14.
+31
+     More carefully, Are women . . . ? does have one hypothetical case which can fairly be said to be
+     “stipulated” (3793). But this is the entirely innocuous sense in which Gettier’s hypothetical cases
+     are stipulated.
+32
+     See Timothy Williamson, Knowledge and Its Limits (Oxford: Oxford University Press, 2000), chap. 7.
+33
+     Escaping . . . , 986, n. 14.
+34
+     Ibid., 989.
+35
+     See Julia Serano, “Transgender people and “biological sex” myths”, Medium, July 17, 2017, https:
+     //medium.com/@juliaserano/transgender­people­and­biological­sex­myths­c2a9bcdb4f4a.
+36
+     So when Dembroff remarks in a footnote that “one of Byrne’s six arguments in favor of AHF . . . is that
+     ‘woman’ and ‘female’ are used interchangeably” (Escaping..., 990, n. 31), this is incorrect.
+37
+     Are women . . . ?, 3785.
+38
+     Escaping . . . , 985.
+39
+     Herman Cappelen and John Hawthorne, “Reply to Lasersohn, MacFarlane, and Richard”, Philosophical
+     Studies 156 (2011): 449–66, 464.
+
+
+                                                                                                          7
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+Escaping...’s objections to the six considerations dissolve on closer examination; if they
+are the best on offer, the preliminary case for AHF looks stronger than ever.
+     Escaping... contains a couple of other objections which it will be helpful to examine
+at this point. The objections are not directed to any specific argument, but rather to Are
+women...?’s conclusion. They focus on AHF’s ‘adult’ part, and the ‘juvenile’ part of its
+counterpart for girls:
+       JHF     S is a girl iff S is a juvenile human female.40
+The first objection is that “the most charitable version” of my view draws the line between
+juvenile and adult at “a point of physical maturity associated with being impregnatable”,
+and this is too early: “‘Woman’ is rarely used to describe pubescent adolescents, such as
+fifteen­ and sixteen­year­olds”.41 (‘Ugly’ is rarely used to describe the ugly; the objection
+should rather be: ‘Woman’ does not apply to pubescent adolescents.) Dembroff is raising
+some pertinent questions. When does juvenility shade off into adulthood? (Of course,
+both ‘juvenile’ and ‘adult’ are vague, as is ‘woman’.) And does ‘adult’ capture the
+developmental stage at which one becomes a woman?
+      Regarding the first question, human females have fully matured into the adult form at
+the end of puberty, which is around 15 or 16. AHF is thus false if these people are not women.
+But it is hardly clear that they are not: ‘They are young women’ seems unexceptionable.
+However, for the sake of the argument, let us grant that these young adult females are not
+women; the answer to the second question is therefore ‘no’. To repair AHF, ‘adult’ needs to
+be restricted to remove those in the very early stages of adulthood. That would not affect
+the basic claims of Are women...? in any way. The paper anticipates worries of exactly this
+kind: “one should be wary of claiming that AHF is more than a very good approximation”.42
+      It may be that any reductive thesis along the lines of AHF remains no more than
+close enough. Non­reductionism’s slogan is Women First!43 Antony has recently
+defended Women Firstism, with her version not conceding that woman entails female.44
+If reductionism fails, that need not spoil the project of Are women . . . ?, because a good
+case can be made that woman is a non­social category without appealing to a reductive
+analysis. (On the relative importance of “non­social” and “biological”, see Section 7 below.)
+      Dembroff’s second objection is not against AHF, but instead is directed towards the
+second part of my conclusion, that woman is not a social category. The problem is said
+to be that “[e]ven with respect to ordinary language, such as the proliferation of terms like
+
+
+40
+     Are women...?, 3788.
+41
+     Escaping..., 990.
+42
+     Are women...?, 3785. Other potential counterexamples include precocious puberty and older females
+     with absent puberty. Questions also arise about ‘human’ in the statement of AHF. Similar terms for female
+     animals sometimes cut across species boundaries: a female hawk is a hen, but hawks come in many
+     different species. Modern humans interbred with Neanderthals, usually regarded as a different species.
+     Were these matings between (for instance) men who were humans and women who were Neanderthals,
+     or merely between men and adult female Neanderthals? The answer is not clear. (There is nothing
+     odd about ‘Neanderthal women’, but that may be like ‘Twin­Earth water’; for an example of the single
+     word ‘women’ applied to adult female Neanderthals, see Rebecca Wragg Sykes, “Sheanderthal”, Aeon,
+     January 12, 2021, https://aeon.co/essays/what­do­we­know­about­the­lives­of­neanderthal­women.)
+43
+     Are women . . . ?, 3790.
+44
+     Louise Antony, “Feminism without metaphysics or a deflationary account of gender”, Erkenntnis 85 (2020):
+     529–49. See also Mari Mikkola, “Elizabeth Spelman, gender realism, and women”, Hypatia 21 (2006):
+     77–96, 90–3; Toril Moi, “Thinking through examples: What ordinary language philosophy can do for
+     feminist theory”, New Literary History 46 (2015): 191–216, 202.
+
+
+
+
+                                                                                                            8
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+‘adulting’, it seems clear that “adult” is a social category”.45 And if ‘adult’ in the statement
+of AHF means something like ‘legally/socially an adult’, then, if AHF is true, woman is a
+social category. But I trust it is clear that ‘adult’ in the statement of AHF is supposed to be
+interpreted as in ‘adult chimpanzee’; that is also the natural interpretation of ‘adult’ in the
+dictionary entry for ‘woman’. Other senses of ‘adult’ are irrelevant.
+
+3. Multiple Meanings
+Since Escaping... devotes so much space to emphasizing that my “philosophically naive
+framing” short­changes polysemous and contextualist accounts of ‘woman’, the issue
+needs exploring more thoroughly.46
+     As Dembroff notes, Are women...? does mention both polysemy/ambiguity and
+contextualism. I criticize Saul’s contextualist proposal (which she does not actually
+endorse) in a footnote. Dembroff hyperbolically asserts that my criticism of Saul “displays
+a startlingly uncharitable reading”, but set that aside.47 In another footnote, I briefly
+argue against Stone’s suggestion that ‘woman’ is ambiguous/polysemous between an
+“adult human female” reading and a social “gender” reading.48 The same argument
+counts against the view that the polysemy in ‘woman’ is even more extensive, although
+Escaping... does not notice it.
+     In yet another footnote, I examine Bettcher’s “multiple­meaning position”, on which
+‘woman’, in addition to its standard or “dominant” meaning, also has a “resistant” meaning
+in the idiolects of some “trans subcultures”. According to Escaping..., my response:
+
+        . . . is to dismiss this as irrelevant to philosophical inquiry. Even if there are multiple
+       meanings of gender terms, Byrne asserts, the meaning “clearly in play in the relevant
+       literature” is the “dominant” meaning. By “dominant” meaning, it is safe to presume
+       that Byrne means a meaning that best accords with their own linguistic intuitions—as
+       well as dominant power structures.49
+
+This is incorrect. First, I do not dismiss Bettcher’s “resistant” interpretation as irrelevant
+to philosophical inquiry. (I touched on this point earlier, in Section 1.) In fact, if she is
+right, I would think it quite interesting to examine the resistant interpretation further. (I do
+give reasons for doubting that there is such an interpretation, however.) Second, the
+‘dominant’ terminology is Bettcher’s, not mine, and it is “safe to presume” only that I mean
+whatever she does. The resistant meaning of ‘woman’ is simply its meaning “as deployed
+
+
+45
+     Escaping..., 996.
+46
+     Ibid., 987.
+47
+     Ibid., 987, n. 18, emphasis added. That footnote inaccurately paraphrases my “cursory arguments”
+     against Saul. It also cites Jenkins and Bettcher as potential replies to one of my objections, about
+     circularity; for critical discussion see Tomas Bogardus, “Some internal problems with revisionary gender
+     concepts”, Philosophia 48 (2020): 55–75.
+            One indication that AHF has been prematurely rejected is the proliferation of baroque and wildly
+     diverse accounts of woman (or ‘woman’) and other gender categories (or words), each with its own set of
+     serious problems. To take a recent example, Heather Logue (“Gender fictionalism”, Ergo (Forthcoming))
+     ingeniously defends “gender fictionalism”, according to which our talk of women, boys, and so on, is an
+     unwitting pretense. In reality, there are no women or boys—“genders are fictional properties”. That may
+     be no less plausible than other post­AHF accounts.
+48
+     Are women...?, 3790–1, n. 12.
+49
+     Escaping . . . , 987–88, footnote omitted. See also: ““Dominant” uses of gender terms—by which I take
+     Byrne to mean . . . ,” 988.
+
+
+                                                                                                           9
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+in trans subcultures”; the dominant meaning is then the word’s meaning as deployed in
+mainstream culture.50 The Escaping... passage continues:
+
+       But, in that case, Byrne’s claim that [the dominant meaning is] at play in the “relevant
+       literature” is puzzling. I cannot help but wonder why work by the central figures of
+       the philosophical literature, not to mention work by anthropologists, sociologists, and
+       linguists, is “irrelevant”, and where this elusive “relevant literature” is to be found.51
+
+The Bettcher footnote is appended to a paragraph which cites a considerable number
+of feminist writers from the 1970s and later. The preceding paragraph mentions three
+contemporary feminist philosophers, Jenkins, Stoljar and Saul. The word ‘woman’
+frequently figures in the writings of these many feminists. They evidently intend to use
+‘woman’ to discuss a common subject matter, and freely quote one another using the
+word. They appear to have many “simple disagreements” about women: there is a single
+proposition expressed using the word ‘woman’, which one party believes and the other
+does not.52
+     Take, for instance, Spelman’s canonical Inessential Woman.53 Spelman quotes
+many authors on the topic of women, and critically examines what they say. Some are
+not feminist philosophers, like Aristotle and Kant. Some are not philosophers, like the
+sociologist Nancy Chodorow and the travel writer Jan Morris. Spelman even discusses a
+New York Times article that uses the word ‘woman’.54 As Mikkola puts it, Spelman argues
+against “the view that woman have some feature (definitive of ‘womanness’) in common
+and this feature is what makes them women”; according to Mikkola, Spelman’s “case
+against it is inadequate”.55 Mikkola and Spelman appear to have a simple disagreement
+over the negation of the thesis named by the penultimate quotation: Spelman believes
+it, and Mikkola does not. They are not talking past each other, or using ‘woman’ in
+some specialized technical sense.56 This is one example of the “relevant literature” that
+Dembroff finds “elusive”.
+     Dembroff incorrectly claims that my argument “proceeds with the unargued­for
+assumption that there is one, unvarying answer to the question What does the word
+‘woman’ mean?”.57 Rather, a working assumption of Are women...? is that ‘woman’ has a
+standard interpretation in the literature I am discussing, and that it is an interpretation that
+the word has in many everyday contexts. This is completely compatible with polysemy
+of the kind recorded in the Oxford English Dictionary, and even with a mild form of
+contextualism. Protesting that this assumption is unwarranted would be to indict swathes
+of classic feminist philosophy.
+
+
+50
+     Talia Mae Bettcher, “Trans women and the meaning of “woman””, in Philosophy of Sex: Contemporary
+     Readings, Sixth Edition, ed. Nicholas Power, Raja Halwani and Alan Soble (Lanham, MA: Rowan
+     Littlefield, 2013), 243.
+51
+     Escaping . . . , 988.
+52
+     See Cappelen and Hawthorne, “Reply . . . ”, 452. ‘Not believe’ should be read as including suspension
+     of belief, not just disbelief. For present purposes, a “simple disagreement” is really a “simple
+     non­agreement”.
+53
+     Elizabeth V. Spelman, Inessential Woman: problems of exclusion in feminist thought (Boston: Beacon
+     Press, 1988).
+54
+     Spelman is sensitive to the possibility of ambiguity, and argues that Plato “uses “woman” ambiguously”
+     (ibid., 32).
+55
+     Mikkola, “Elizabeth Spelman, gender realism, and women”, 77, 79.
+56
+     Not that this never happens: see Are women . . . ?, 3791, n. 13.
+57
+     Escaping..., 987.
+
+
+                                                                                                        10
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+      Still, Dembroff does seem to want to defend the radical polysemy view, that ‘woman’
+has multiple meanings in everyday contexts, outside the gender studies seminar room,
+with no single meaning being clearly “dominant”.58 In support of this, Escaping... quotes a
+passage from Barnes, in which she speculates that “teenagers probably mean something
+quite a bit different” by their “gender terms” than do their grandparents and even other
+teenagers.59 Teenagers have their own argot, of course. If your teen is inviting
+someone over for “Netflix and chill”, that is not as innocent as it sounds. And “gender
+terms”, for Barnes, include not just ‘woman’ and ‘man’, but also the voguish ‘pangender’,
+‘genderfluid’, ‘genderqueer’, ‘agender’ and so on.60 Doubtless, a number of especially
+benighted grandparents don’t even understand these words. But what about ‘woman’? If
+some teenage idiolects attach a deviant meaning to the word, this shows nothing about
+‘woman’ as used in everyday adult conversation and writing. Also, it is not remotely
+credible that teenagers do not understand the word ‘woman’ as used by their parents
+and schoolteachers, and as it appears in Sojourner Truth’s speech “Ain’t I a Woman?”.
+They have that word with its usual meaning in their lexicon too, and can use it when the
+grown­ups are around.
+      The only other piece of evidence that Dembroff adduces for the radical polysemy
+view is that there are “endless examples” from “law, print media, social media, policy
+documents, and education, where ‘woman’ is used with meanings other than adult
+human female”.61 (On what these alternative meanings are, Escaping . . . has little
+to say.) From these endless examples, Dembroff selects a couple of sentences from
+newspapers about transgender women.62 No explanation is given of why “woman” in
+these sentences does not denote adult human female. Perhaps Dembroff thinks that
+if it does, both sentences are false because transgender women are not female, and
+charity dictates a true interpretation. This is entirely unconvincing: people can be wrong
+about what women are, or disagree about what women are, just as they can be wrong or
+disagree about almost anything. Certainly some readers would say that these sentences
+are not literally true. And when people give every sign of disagreeing, often the most
+charitable interpretation is that they are, not that they are talking past each other. (Given
+Escaping...’s later discussion of sex, this hypothesis about Dembroff’s reasons may not
+be right: see Section 7 below.)
+      Linguists have developed a variety of tests for polysemy, none of which Dembroff
+uses.63 And, on the face of it, there is no indication that the sense of ‘woman’ in Dembroff’s
+selected sentences is different from its sense on other pages of the newspaper, whatever
+that sense might be.
+
+
+58
+     Cf. Robin Dembroff, “Real talk on the metaphysics of gender”, Philosophical Topics 46 (2018): 21–50.
+59
+     Elizabeth Barnes, “Gender and gender terms”, Noûs 54 (2020): 704–30, 712; quoted in Escaping..., 988.
+60
+     Ibid., 710, 723.
+61
+     Escaping..., 989.
+62
+     Ibid., 988, n. 23. “Author David Thomas still lives as a man, but has begun the male­to­female gender
+     transition that will eventually result in becoming a woman” (discussed below); “At least 22 transgender
+     people have been fatally shot or killed in 2019... Nearly all of them were black women” (Lola Fadulu,
+     “Trump’s rollback of transgender rights extends through entire government”, New York Times, December
+     6, 2019, https://www.nytimes.com/2019/12/06/us/politics/trump­transgender­rights.html).
+63
+     See, e.g., Andrei Moldovan, “Descriptions and tests for polysemy”, Axiomathes (2019): 1–21, https://
+     doi.org/10.1007/s10516­019­09445­y. Jake Quilty­Dunn suggests (with respect to the present dispute)
+     that ‘female’ may be (relevantly) polysemous, although he does not argue for it (“Polysemy and thought:
+     toward a generative theory of concepts”, Mind and Language (2020): 1–28, 22, https://doi.org/10.1111/
+     mila.12328). See also Are women . . . ?, 3798, n. 29.
+
+
+
+                                                                                                         11
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+    Take Dembroff’s first example, which is from an article in a series in the UK newspaper
+The Daily Telegraph, chronicling the journalist David Thomas’s transition to Diana. The
+quotation is from the dek to the article, and we may safely assume that Thomas and
+the dek writer are using ‘woman’ with the same sense. At one point in the series,
+Thomas writes:
+
+       Women, in particular, are being told that childbirth and menstruation, the most
+       quintessentially, definitively female experiences are no longer reserved for women.
+       In fact, it is offensive to say so. They are also expected to welcome anyone who says
+       they are female into female­only environments.
+
+       These demands are not being made by all transgender people. Many of us—I
+       would guess the majority—are appalled by the aggression and unreasonableness
+       of people who claim to speak in our name. And we are horrified by the totally
+       counter­productive, but entirely predictable outcomes of their stridency.64
+
+The reader can only presume that Thomas is using ‘women’ with whatever meaning it
+has in an ordinary context in which transgender issues are not salient.65 Similarly, when
+Thomas writes in the first article, “do I actually think that I am a woman? No, I don’t.
+I may become one in time, but not yet”, and later, when a fellow journalist writes in
+a coda to the series, “It has to be said that the woman I encounter today is a world
+away from the man I knew during a period in the 1990s when, as journalists, we would
+frequently find ourselves writing on opposite sides of the gender divide”.66 Unless the
+Telegraph’s series is fundamentally unintelligible, the word ‘woman’ has a single and
+common meaning throughout.
+
+4. A Polysemy Puzzle
+Escaping...’s apparent endorsement of the radical polysemy view leads to a puzzle.
+If ‘woman’ has a variety of different meanings in newspapers and the like, shouldn’t one
+of these meanings correspond to the category adult human female? Why wouldn’t it?
+And if that is one meaning of ‘woman’, then the palm should be awarded to Stone, who
+said years ago that “in everyday language ‘woman’ . . . is ambiguous between sex and
+gender”; that is, ‘woman’ is ambiguous between an adult human female interpretation
+and a (presumably related) social “gender” interpretation.67 On the radical polysemy
+
+
+64
+     Diana Thomas, “From gender­neutral bathrooms to women’s prisons, it’s time trans people carried
+     ID cards”, Daily Telegraph, October 23, 2019, https://www.telegraph.co.uk/women/life/gender­neutral­
+     bathrooms­womens­prisons­time­trans­people­carried/.
+65
+     In the above quotation on the Telegraph website, ‘no longer reserved for women’ links to an article
+     by the journalist and feminist activist Julie Bindel (“By caving in to trans activists, Always have
+     eliminated women”, Daily Telegraph, October 21, 2019, https://www.telegraph.co.uk/women/life/caving­
+     trans­activists­always­have­eliminated­women/), which uses the word ‘women’ (and which is also in the
+     “Women” section of the Telegraph). Clearly Bindel would not take Dembroff’s two sentences (in context)
+     to be literally true.
+66
+     Diana Thomas, “‘I’m not going to turn into one of those angry, shouty transsexuals, am I?’”, Daily
+     Telegraph, March 30, 2019, https://www.telegraph.co.uk/family/life/someone­spouts­ignorant­nonsense­
+     latest­transgender­issue­hurts/; Jane Gordon, “‘Call me Diana’: Our columnist David Thomas reveals
+     her new life and look”, Daily Telegraph, March 14, 2020, https://www.telegraph.co.uk/health­fitness/body/
+     call­diana­columnist­david­thomas­reveals­new­life­look/.
+67
+     Alison Stone, An Introduction to Feminist Philosophy (Cambridge: Polity, 2007), 141; see Are women...?,
+     3790, n. 12.
+
+
+                                                                                                           12
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+view, Stone’s only mistake was to think that there were two “dominant” or mainstream
+meanings—in fact, there are many more. Further, if this is right, then Are women...? is
+not completely wrong either. It manages to be closer to the truth than Bettcher’s “Trans
+women and the meaning of “woman”” and Stoljar’s “Essence, identity, and the concept of
+woman”, which hold that there is no dominant meaning of “woman” on which it denotes
+the category adult human female.
+        There is some indication that Dembroff agrees that on one dominant meaning of
+‘woman’, it does denote adult human female. There is the quotation in the previous section,
+“ . . . is used with meanings other than adult human female”, which suggests that ‘woman’
+is sometimes used with that meaning. And, according to Escaping..., there is “evidence
+that, in certain contexts and communities, these terms [e.g., ‘woman’] take on meanings
+that entail or include physiological features”.68 (No clear evidence is cited, however.69 )
+Finally, the extreme version of the principle of charity that apparently leads Dembroff to
+conclude that there are “endless” examples where “‘woman’ is used with meanings other
+than adult human female” could be used equally effectively to argue that there are endless
+examples where ‘woman’ does mean that.
+        But it is hard to see how this interpretation could be correct. If ‘woman’ has
+a “dominant” interpretation on which it denotes adult human female, then of course
+Escaping... should have simply said so and cited Stone, which it does not. Moreover,
+this would imply that my arguments are nowhere near as bad as Escaping... makes them
+out to be. For instance, in the specific ordinary sense of ‘woman’ that I must have had in
+mind, premise P5 of the “swapped gender roles” argument is true.70 The problem would
+not then be with the argument, but with my unthinking assumption that, in the context
+of debating philosophers like Bettcher and Stoljar, all three of us are using ‘woman’ with
+the same ordinary meaning. Finally, on this interpretation Are women...?’s cautionary
+advice about activist sloganeering would still apply.71 We will have to leave this puzzle
+unresolved.72
+
+
+
+68
+     Escaping . . . , 988.
+69
+     The sentence preceding the one quoted is supposed to provide evidence, but it is obscure what Dembroff
+     has in mind. Barnes does better, giving a concrete example of such “physiological features”, when she
+     imagines being in “a context where everyone is using the term ‘man’ in a way that only applies to people
+     born with a penis and testicles” (Barnes, “Gender and gender terms”, 712). However, it is doubtful that
+     there are any such contexts. If I say ‘All men are born with a penis and testicles’, and someone mentions
+     penile agenesis (where a male baby is born without a penis), the right response is never to double down
+     and insist that, nevertheless, my original statement was correct.
+70
+     A sentence expressing a premise may contain ambiguous words. The intended premise will correspond
+     to one disambiguation. Note that this does not mean that the premise is covertly linguistic or semantic.
+71
+     See Are women . . . ?, 3800.
+72
+     Dembroff (“Why be nonbinary?”, Aeon, October 30, 2018, https://aeon.co/essays/nonbinary­identity­is­
+     a­radical­stance­against­gender­segregation) offers an argument against the “identity view of gender”,
+     that “gender is just reproductive features and nothing more”. Whatever the identity view is, precisely,
+     if Dembroff’s argument succeeds, it also shows that AHF is false, with ‘adult’ interpreted non­socially,
+     as in ‘adult chimpanzee’. (For an explanation of why the argument does not succeed, see Bogardus,
+     “Evaluating arguments for the sex/gender distinction”, 884–85.) So perhaps Dembroff’s view is that
+     ‘woman’ often does denote adult human female, but only with a social interpretation of ‘adult’. However,
+     even that would partially vindicate Are women . . . ?
+
+
+
+
+                                                                                                           13
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+5. From Semantics to Metaphysics
+As discussed, Dembroff incorrectly characterizes the overall argument of Are women...?’s
+Section 2 as proceeding from semantic premises to a metaphysical conclusion. In
+Escaping...’s mistaken reconstruction, Section 2 of Are women...? employs a crucial
+premise (“premise 6”) to bridge the gap between semantics and metaphysics, namely
+“that the “philosophically relevant” meaning of the term ‘woman’ is a reliable guide to
+the metaphysics of the category woman”.73 Section 3 of Escaping... is dedicated to
+undermining premise 6.
+     Recall from Section 2 that three of the six considerations in favor of AHF only
+appeal to non­linguistic premises. Accordingly, they need no bridge between semantics
+and metaphysics. But the remaining three considerations do support AHF by directly
+supporting the semantic claim that ‘woman’ denotes adult human female. So if Escaping...
+shows that premise 6 is false, that might seem to threaten at least some of my arguments.
+     On Dembroff’s telling, I have failed “to even acknowledge, much less address” an
+argument from Barnes that “the semantics of natural language gender terms pull apart
+from the metaphysics of gender”.74 Even if we grant that ‘woman’ denotes adult human
+female, “the problem remains: one cannot read off the metaphysics of gender off “the
+meaning” of natural language terms”.75
+     However, Barnes’s argument threatens nothing in Are women...? (which does not
+use the phrase ‘metaphysics of gender’). Indeed, one need only read the relevant
+paragraphs in Escaping... to see that Barnes’s argument is irrelevant. Is Barnes denying
+elementary disquotational claims like ‘If ‘S is a woman’ is true, then S is a woman’? No.
+But nothing more is involved in the step from “semantics” to “metaphysics”. This is how
+Are women...? puts the step in the “dictionary” argument:
+
+       Granted that the dictionary definition gives the meaning of ‘woman’, the intension
+       of ‘woman’ at a world w is the set of adult human females in w, and AHF
+       follows immediately.76
+
+Here is another way of putting the point. Escaping... quotes Barnes approvingly, as urging
+that the “metaphysics of gender” requires understanding the “bedrock social structure” that
+gives rise to the “complicated, multi­faceted social experience of gender”.77 It is certainly
+implausible that the semantics of ‘woman’ is going to be of much help with the metaphysics
+of gender in this Barnesian sense. But Are women...? does not pretend otherwise.
+      Escaping... continues with “another, largely undiscussed reason to think that natural
+language terms are a poor guide to the metaphysics of gender”.78 Given the point just
+
+
+73
+     Escaping..., 990–91.
+74
+     Ibid., 991, n. 34; 991.
+75
+     Ibid., 991.
+76
+     Are women . . . ?, 3786. Spelling the step out a little more, leaving off the universal quantifier and ignoring
+     tense for simplicity: ‘S is a woman iff S is an adult human female’ is true at w iff the referent of ‘S’ in w is
+     (i) a member of both the intension of ‘woman’ and the intension of ‘adult human female’ in w, or (ii) is not
+     a member of either. Since the intension of ‘woman’ = the intension of ‘adult human female’, ‘S is a woman
+     iff S is an adult human female’ is true at w. But this holds for all worlds w. Therefore, ‘S is a woman iff S
+     is an adult human female’ is true at every world; hence ‘Necessarily, S is a woman iff S is an adult human
+     female’ is true. The step from “semantics to metaphysics” takes us to: necessarily, S is a woman iff S is
+     an adult human female. That is, AHF is true.
+77
+     Escaping . . . , 991; see Barnes, “Gender and gender terms”, 717.
+78
+     Escaping . . . , 992.
+
+
+                                                                                                                  14
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+made, this does not look promising as an objection. But an argument against AHF is in
+the vicinity, so this cannot be passed over.
+       According to Dembroff, “in many contexts” ‘woman and ‘man’ “operate as “floating
+signifiers”, which “lack stable extensions and are not primarily descriptive”.79 ‘Floating
+signifier’ is a term from semiotics, and originated with the anthropologist Claude
+Lévi­Strauss: “somewhat like algebraic symbols [floating signifiers] occur to represent
+an indeterminate value of signification, in itself devoid of meaning and thus susceptible of
+receiving any meaning at all”.80 “Such signifiers mean different things to different people:
+they may signify many or even any signifieds; they may mean whatever their interpreters
+want them to mean”.81
+       If AHF is true, then ‘woman’ and ‘lioness’ are both semantically very similar. On the
+reasonable assumption that ‘lioness’ is a semantically orthodox common noun, it is quite
+unlike any floating signifier. Therefore, if ‘woman’ is a floating signifier tout court, with no
+senses akin to ‘lioness’, then AHF is not true. (Or, better: there is no such proposition as
+AHF to begin with.)
+       Granted that languages do contain floating signifiers, is it plausible that “woman”
+is one of them? Lévi­Strauss apparently thought not. One of his examples is “when
+American slang says that a woman has got ‘oomph’”—‘oomph’ is the floating signifier, not
+‘woman’.82 Much better candidates for floating signifiers are new coinages like ‘neutrois’,
+“a catch­all ‘gender neutral’ label that can mean different things to different people, such
+as agender, neither/nor, genderless and so on”.83
+       What’s more, the claim that ‘woman’ is a floating signifier tout court is incompatible
+with radical polysemy: polysemy is just quotidian meaning multiplied, whereas a floating
+signifier has no such meaning. It is fairly clear that Dembroff is claiming only that ‘woman’
+is used as a floating signifier, “capable of taking on whatever descriptive content users
+wish to impose”, in some contexts, not all.84 These contexts are, roughly, ones where
+“social or political ends” are important.85 Provided that these contexts are not operative
+when premises P1 to P6 are considered (Section 2 above), the preliminary case for AHF
+is not in danger. Incidentally, Are women...? does caution that politically charged contexts
+should be avoided.86
+       What is the evidence that ‘woman’ and ‘man’, at least on occasion, “operate as
+floating signifiers”? Escaping... lacks the “space to fully argue for this claim”, but Dembroff
+does give one reason.87 Two people, perhaps a “conservative” and a “liberal”, can agree
+on the “underlying physical, psychological, and social facts, and still continue to make
+. . . opposing claims”—one says ‘S is a woman’, while the other says ‘No, S is a man’.
+“This suggests” that ‘woman’ and ‘man’ are “doing normative, political work more so than
+descriptive work”; the conservative and the liberal are not arguing, inter alia, “about the
+
+
+79
+     Ibid., 994.
+80
+     Claude Lévi­Strauss, Introduction to the Work of Marcel Mauss, trans. Felicity Baker (London: Routledge
+     Kegan Paul, 1987), 55.
+81
+     Daniel Chandler, Semiotics: the basics (London: Routledge, 2017), 90.
+82
+     Lévi­Strauss, Introduction, 55.
+83
+     Gary W. Wood, The Psychology of Gender (London: Routledge, 2018), 24; see also Rebecca
+     Reilly­Cooper, “Gender is not a spectrum”, Aeon, June 28, 2016, https://aeon.co/essays/the­idea­that­
+     gender­is­a­spectrum­is­a­new­gender­prison.
+84
+     Escaping..., 992.
+85
+     Ibid., 992.
+86
+     See Are women . . . ?, 3798.
+87
+     Escaping . . . , 992.
+
+
+                                                                                                         15
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+way the world is”.88 Dembroff’s argument deserves much more discussion than it is going
+to receive here, but its form is suspicious. Consider Burge’s Arthritis Man, an English
+speaker who knows he suffers from arthritis, that “certain sorts of aches are characteristic
+of arthritis” and so on; he can use the word ‘arthritis’ to express this knowledge. “In
+addition . . . he thinks falsely that he has developed arthritis in his thigh”.89 (This belief is
+false because arthritis is an inflammation of the joints.) Arthritis Man could agree with an
+interlocutor on the “underlying” physical and psychological facts, and yet the pair could
+have a simple disagreement, using the word ‘arthritis’ with its ordinary meaning, about
+whether Arthritis Man has arthritis in his thigh.
+      This part of Escaping... ends with an objection that repeats the incorrect claim about
+Are women...?’s methodology: I do not “consider the possibility that one can theorize
+about the metaphysics of gender using methodologies other than the analysis of natural
+language use”.90 Oddly, Escaping... immediately goes on to note that I do mention
+Haslanger’s ameliorative project, while managing to incorrectly claim that I misrepresent
+it.91 Escaping... also ignores the pessimistic remarks about the prospects for ameliorative
+projects at the end of Are women...? Setting these errors and omissions aside, this is not
+an objection against the argument of the paper, but at best the complaint that there are
+other more interesting projects, which Are women...? does not deny.
+
+6. Rebutting Arguments against AHF
+Establishing that AHF is the default hypothesis is not much of an achievement. (I suppose
+I can give myself a small pat on the back for apparently being the first philosopher in
+2500 years to do this, though.) If Are women...? contains anything of value, it is the
+rebuttal of the arguments against AHF, in Section 3. After all, if AHF remains a live
+possibility, it would be a bad idea to lump ‘woman’ together with ‘genderqueer’ and
+‘pangender’ as “gender terms”, as if they formed a unified class. The latter two words
+presumably pick out social categories of some kind, and certainly not biological ones.
+Current methodology in the metaphysics of gender is seriously misguided unless AHF
+can be taken off the table.
+      What, then, are Escaping...’s objections to Section 3? Strikingly, there do not
+appear to be any.92 Perhaps Dembroff does not want to defend Bettcher’s and Stoljar’s
+arguments against AHF, but instead thinks that some other argument—radical polysemy,
+floating signifiers?—will do the job. Or perhaps Dembroff thinks AHF is true, albeit
+only in one relatively uninteresting sense of ‘woman’. We will have to leave this puzzle
+unresolved too.
+
+
+
+88
+     Ibid., 993, 992.
+89
+     Tyler Burge, “Individualism and the mental”, Midwest Studies in Philosophy 4 (1979), 73–122, 77.
+90
+     Escaping..., 994.
+91
+     According to Dembroff, I present the ameliorative project as “largely disinterested in describing the world”;
+     a glance at the relevant paragraph (Are women . . . ?, 3786) shows that this is incorrect. I even quote
+     Haslanger saying that the goal is partly one of understanding—there can be no understanding without
+     accurate description.
+92
+     This may be a bit unfair. Dembroff does say in a footnote that my response to Bettcher’s gender role
+     reversal case is simply to “stipulate” that I’m right (Escaping..., 989, n. 28), which seems intended as an
+     objection. In any event, the claim of stipulation is incorrect.
+
+
+
+
+                                                                                                               16
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+7. Social and Biological Categories
+The conclusion of Are women...? is not just that AHF is true; it is that “woman is a biological
+(and not social) category”.93 The paper simply asserts without argument that adult human
+female, “like the categories vertebrate, mammal” is a biological category.94 The definition
+of ‘social category’ is borrowed from Haslanger; as Dembroff puts it, a social category has
+“membership conditions that are at least partly constituted by social features”.95 Putting
+it more plainly, in order to belong to the categories Yale University professor, celebrity,
+or godparent, a person needs to be embedded in a society of some sort; these are
+accordingly social categories.96
+      Are women...? also gives no direct argument for the claim that adult human female
+is not social.97 A footnote in Are women...? says that while some have argued “that
+categories like female are social categories . . . [t]his position is assumed false here”, with
+a citation to an article of mine written for a popular audience.98
+      Escaping... finds all this immensely problematic, a regrettable result of my ignorance
+or misunderstanding of “relevant work in social ontology, the history of sexology,
+gender theory, and medical and cultural anthropology”.99 After exhibiting my purported
+confusions, Dembroff sums up:
+
+      (A) Byrne’s stipulated distinction between the “biological” and the “social” fails to show
+      that they are exclusive, (B) fails to undermine the traditional sex/gender distinction,
+      and (C) fails to show that sex categories are not, in the relevant and interesting sense,
+      social categories.100
+
+Escaping... spends pages agonizing over what I could possibly have meant by ‘social’ and
+‘biological’. Let me try to explain why this was unnecessary. Are women...? begins by
+noting that the orthodox view in the philosophical literature on gender “is that the category
+
+
+93
+    Are women . . . ?, 3785.
+94
+    Ibid., 3784.
+95
+    Escaping..., 995.
+96
+    There is a very subtle issue here about the relation between the modal characterization of “social category”
+    given in Are women . . . ? and a characterization like Dembroff’s, although there is no need to go into it.
+    Are women . . . ? obliquely alluded to this (3784, n. 2) with a reference to Sally Haslanger, Resisting
+    Reality: social construction and social critique (Oxford: Oxford University Press, 2012), 131 (the modal
+    version) and 87 (a more Dembroffian characterization).
+97
+    However, an argument is given that “‘woman’ does not pick out a social category” (Are women . . . ?, 3787).
+98
+    Ibid., 3785, n. 7. Citation: Alex Byrne, “Is sex socially constructed?”, Arc Digital, November 30, 2018,
+    https://medium.com/arc­digital/is­sex­socially­constructed­81cf3ef79f07. Dembroff agrees that “on the
+    very narrow view of a “social” category that Byrne uses, it is true that sex categories are not social”
+    (Escaping..., 997). But the claim of “gender scholars . . . was never and is not the claim that the
+    membership conditions of sex categories include constitutively societal features” (997, first emphasis
+    added). If so, then the four examples I give in n. 7 (Are women . . . ?, 3785) are all wrong. Admittedly, the
+    first three of the four are sometimes hard to interpret, but the fourth is perfectly clear: “Being of a certain
+    sex” “is not a biological property”, it “is an institutional property, in fact a legal one . . . a conferred legal
+    status” (Ásta, Categories We Live By (Oxford: Oxford University Press, 2018), 70–72).
+            In a footnote Dembroff wonders how I can say that “if female is a social category” (Are women . . . ?,
+    3785, n. 7) then “[my] thesis is easier to defend”, given that “[Byrne’s] thesis is, in their own words, the
+    thesis that “woman is a biological (and not social) category”” (Escaping..., 997, n. 59). The answer is in
+    the full quotation from Are women . . . ? (emphasis changed): “if female is a social category then AHF is
+    easier to defend”.
+99
+    Escaping..., 995.
+100
+    Ibid., 1000, labels added.
+
+
+                                                                                                                  17
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+woman is a social category, like the categories wife, firefighter, and shoplifter”.101 As
+Barnes says, theorists of categories like woman can be divided:
+
+       . . . into two main camps: those who say that your gender is determined primarily
+      by how other people react to you, and those who say that your gender is determined
+      primarily by your own internal sense of yourself. Let’s call the former externalists
+      (since they think your gender is primarily determined by things external to you) about
+      gender and the latter internalists about gender (since they think your gender is
+      determined primarily by things internal to you).102
+
+Gender externalists hold that woman is a social category in the loose and intuitive sense
+illustrated by the examples just before this quotation. The situation might seem different
+with internalists, because society is an external matter. But internalism requires society
+just as much as externalism. The pertinent “internal sense of yourself”, or your “gender
+identity”, involves:
+
+       . . . your internally felt sense of your relationship to the gender norms and categories
+      that are common within our society.103
+
+The category adult human female is clearly not social in the loose and intuitive sense
+in which theorists of gender hold that woman is a social category. Any way of making
+this loose and intuitive sense more precise will yield the same result, which is why Are
+women...? did not bother trying. Adult human females are usually found in societies, but
+they need not be; neither need they have the right sort of “internal sense” of themselves,
+or indeed any sense of themselves at all.104
+      Hence, if AHF is true, woman is not a social category, and orthodoxy is wrong. What
+sort of category is it, then? It’s helpful, although not mandatory, to say something at this
+point. And since biologists take a special interest in sex across the animal and vegetable
+kingdoms, the juvenile and adult forms of organisms, and species, the obvious term is
+‘biological’. As Stoljar puts it:
+
+      There is only one plausible biological type that is a candidate for the species of
+      woman: the type “[adult] female human being.”105
+
+No general characterization of a biological category is necessary. ‘Biological’ could
+even be dropped in favor of ‘non­social’ and Are women...? would be in all essentials
+unchanged. Dembroff’s (A)­complaint, that I have failed to show that the biological and
+the social are “exclusive”, is therefore misdirected. All that matters is that adult human
+female is non­social in the relevant sense, no matter how ‘social’ is precisified.
+     Before getting on to (B), I should correct a mistake that occurs in the course of
+Dembroff’s discussion of (A), namely that I “insist”:
+
+
+101
+    Are women . . . ?, 3783–4.
+102
+    Elizabeth Barnes, “The metaphysics of gender”, in The Norton Introduction to Philosophy, ed. Gideon
+    Rosen et al. (New York: Norton, 2018), 585, emphasis added.
+103
+    Ibid., 587–88.
+104
+    This is another small piece of evidence in AHF’s favor—women can lack a mental life entirely, due to
+    traumatic brain injury. Cf. Barnes on Haslanger’s example of “cognitively disabled women” (“Gender and
+    gender terms”, 589; “The metaphysics of gender”, 710–11).
+105
+    Natalie Stoljar, “Essence, identity, and the concept of woman”, Philosophical Topics 23 (1995): 261–93,
+    267, emphasis added; quoted in Are women...?, 3791.
+
+
+                                                                                                        18
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+       . . . that persons who lack uteruses and ovaries, even if they otherwise appear as
+      “normal” females, are not adult human females.106
+
+So supposedly on my view, one way to become a non­woman is to have a hysterectomy
+and an oophorectomy, which doesn’t sound right! Possibly Dembroff has misunderstood
+the “Complete Asexual Syndrome” example.107 The necessary corrective is right there
+in Are women...?: “Women can lack “female reproductive organs” due to birth defects or
+surgery”.108
+     The (B) item on Escaping...’s rap sheet is that I have “set out to disprove” “the
+traditional sex/gender distinction”, to no avail. Somewhat puzzlingly, according to
+Dembroff I in effect make something like this traditional distinction myself, “albeit in a
+confused way”, when I say that the categories female and male are both biological and
+“socially significant”.109 (Dembroff never explains why this is confused.)
+     Here is an early version of the sex/gender distinction, from the British sociologist
+Ann Oakley:
+
+      [There is] a crucial distinction it is necessary to make in our thinking about male and
+      female roles—the distinction between ‘sex’ and ‘gender’. ‘Sex’ is a word that refers to
+      the biological differences between male and female: the visible difference in genitalia,
+      the related difference in procreative function. ‘Gender’ however is a matter of culture:
+      it refers to the social classification into ‘masculine’ and ‘feminine’.110
+
+There is surely a distinction here, so setting out to “disprove” it is bound to end in tears.
+I had no such quixotic ambition, and there is no hint to the contrary in Are women...?
+What I did set out to disprove was another version of the sex/gender distinction, the one
+prevalent in contemporary philosophy, on which there is a distinction between “human
+females and males” and “women and men”.111
+      The (B) charge is incorrect, then. What about (C), the complaint that I have failed “to
+show that sex categories are not, in the relevant and interesting sense, social categories”?
+Are women...? already makes the (obvious) point that female and male are socially
+significant categories. This is undeniably interesting. It is also undeniably irrelevant to
+the aims of Are women...? So what is the problem supposed to be? It seems to be
+this: Escaping...’s discussion of (C) leads to something that does look like an objection.
+According to Dembroff, I take:
+
+      (A*) adult human female and adult human male to be universal, stable, and discrete
+      categories of sex traits, where (B*) a single set of sex traits [is] shared among all
+
+
+106
+    Escaping..., 996.
+107
+    See Are women...?, 3793.
+108
+    Ibid., 3791, n. 14.
+109
+    Escaping..., 997.
+110
+    Ann Oakley, Sex, Gender, and Society (London: Maurice Temple Smith, 1972), 21–2; page reference
+    to the 2016 Routledge reprint. Oakley took this distinction from the UCLA psychiatrist Robert Stoller;
+    see Stoller, Sex and Gender: on the development of masculinity and femininity (New York: Science
+    House, 1968).
+111
+    Are women..., 3784, quoting Mari Mikkola, The Wrong of Injustice: dehumanization and its role in feminist
+    philosophy (Oxford: Oxford University Press, 2016), 23. This version of the sex/gender distinction can
+    be found in Oakley too (Sex, Gender, and Society, 115). For a recent paper devoted entirely to it, see
+    Bogardus, “Evaluating arguments for the sex/gender distinction”.
+
+
+                                                                                                          19
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+      women, and where (C*) these categories can be explained without reference to
+      cultural ideologies.112
+
+Unfortunately for me, “Each of these claims is false”.113 I am not completely sure
+what everything in this quoted passage means, but for safety’s sake it should not
+go unexamined.
+     Dembroff begins the argument by trying to establish the falsity of (A*): “there are
+no such stable, discrete, and exhaustive categories of sex traits” like adult human female.
+(Presumably “exhaustive” is supposed to be equivalent to “universal”; why Dembroff thinks
+adult human female is a sex trait rather than a developmental or species trait is obscure.) A
+quotation from the historian Joanne Meyerowitz is supposed to “[make] this point clearly”:
+
+      [L]ike gender and sexuality, biological sex has a history. Humans have imagined
+      it differently at different times and in different places. European and American
+      scientists once envisioned sex as a hierarchy of similar beings in which female
+      stood as an inferior version of male. With the Enlightenment of the late eighteenth
+      century, though, they increasingly wrote of two sexes, distinct and opposite. Female
+      less often appeared as a paler copy of male and more often as distinctly different
+      and complementary.114
+
+But the quotation simply says that accounts of “biological sex” have varied widely over
+human history. The details are fascinating, but the basic idea applies to almost anything
+that humans have been talking and thinking about for millennia, like water, lightning, and
+the heavens. To put Meyerowitz’s point more whiggishly, we know vastly more about
+sex than Aristotle. The only things that changed were our knowledge and beliefs about
+sex, not sex itself. (If Dembroff intends to be using ‘category’ in the sense it has in Are
+women...?, categories are anyway not the kind of thing that can be “stable” or “unstable”.)
+     The subsequent paragraph of Escaping... appeals to Meyerowitz again: “sexologists
+turned from “the visible realm of genitals to the microscopic gaze” to embark on
+a still ongoing “elusive quest” to find stable grounds for binary, exhaustive sex
+categorization”.115 (Never mind that Meyerowitz is more charitably interpreted as talking
+about biomedical scientists, not “sexologists”.) The paragraph also mentions that
+“the International Olympic Committee stipulated categories of “sport sex””; naturally,
+in different social conditions, the IOC might have stipulated differently. Dembroff
+erroneously concludes that no “single, fixed category answers to “the” category adult
+human female”.116 The IOC’s task is to determine who counts as female for the purposes
+of fair competition, while taking into account the interests of all parties. That is by no
+means the same as determining who is female.
+     Next, Escaping... tries to establish (B*), that there is no single “sex trait” that all
+women share. Since adult human female is taken to be a “sex trait”, if (B*) is correct
+AHF is false. In support of (B*) Dembroff quotes an impressionistic passage from Katrina
+Karkazis, a cultural anthropologist. According to Karkazis, “If [biological traits M and
+F] were understood as the essence of sex [male and female, respectively], women . . .
+
+
+112
+    Ibid., 997–98, labels added.
+113
+    Ibid., 998.
+114
+    Joanne J. Meyerowitz, How Sex Changed: a history of transsexuality in the United States (Cambridge,
+    MA: Harvard University Press, 2004), 21–2; quoted in Escaping . . . , 998, Dembroff’s emphasis.
+115
+    Escaping . . . , 998; quotes within the quotation from Meyerowitz, How Sex Changed, 2.
+116
+    Ibid., 998.
+
+
+                                                                                                    20
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+who had [trait M but not F] were men. This seemed illogical, so scientists proposed yet
+other traits”.117 That seems quite sensible!118 The problem is supposedly that the other
+traits were no better; as Dembroff puts it, “a century­long search for such traits has come
+up empty”.119
+      The quoted passage does not actually support (B*), that not even the “sex trait” adult
+human female is common to all women. Instead, what it does support is something quite
+different, that (in Karkazis’s phrase) there is no “single, definitive biological indicator” of
+sex. That is, scientists have been searching for something that unifies the females, and
+something else that unifies the males, and all the plausible candidates have been found
+wanting. Female and male have turned out to be like tree or bug in the “small insect­like
+creature” sense, superficial folk categories that biologists have little theoretical use for.120
+Pretend that this is right. Does it show that AHF is false? No: AHF says nothing about
+whether female cuts nature at the joints. Does it show that woman is a social category?
+No: tree and bug are not social categories. Does it show that female is not a biological
+category in the very demanding sense in which tree and bug are not biological categories?
+Yes, but as noted above, that is not the issue.121
+      As to (C*), that categories of “sex traits” cannot “be explained without reference
+to cultural ideologies”, Escaping... does not “rehash the many detailed arguments”,
+gesturing instead at a “plethora of books and articles”.122 (I completely agree with the
+claim of quantity.123 ) We need not investigate this further, but it is worth noting that
+Escaping . . . ’s citations have a curious omission. Cultural anthropology is a worthy
+discipline, no doubt, but what about biology? If you want to know what sex is, why not
+consult a few works by biologists, or philosophers of biology?124 Just a suggestion.
+
+
+117
+    Katrina Karkazis, “The misuses of “biological sex””, The Lancet 394 (2019): 1898–9, 1898. The quotation
+    in Escaping . . . is slightly inaccurate.
+118
+    The full quotation is this: “If gonads were understood as the essence of sex, women who were
+    phenotypically female but who had testes were men. This seemed illogical, so scientists proposed yet
+    other traits.” It is not clear what “scientists” Karkazis is referring to. She may have in mind the early
+    twentieth century British gynecologist William Blair­Bell (see Alice Domurat Dreger, Hermaphrodites and
+    the Medical Invention of Sex (Cambridge, MA: Harvard University Press, 1998), 158–66; cited in Katrina
+    Karkazis, Fixing Sex: intersex, medical authority, and lived experience (Durham, NC: Duke University
+    Press, 2008), 40). In any case, the quotation gives a somewhat misleading impression of consensus
+    (see, e.g., John Money, “Hermaphroditism, gender and precocity in hyperadrenocorticism: psychologic
+    findings”, Bulletin of the Johns Hopkins Hospital 96 (1955): 253–64, 254; B. Hammar, M. Michowitz and
+    M. Solowiejczyk, “Testicular feminization syndrome”, The American Surgeon 46 (1980): 457–60, 458).
+119
+    Escaping..., 998.
+120
+    On tree, see John Dupré, “Natural kinds and biological taxa”, Philosophical Review 90 (1981): 66–90, 80.
+121
+    For an extensive discussion of categories in the natural and social sciences, see Muhammad Ali Khalidi,
+    Natural Categories and Human Kinds (Cambridge: Cambridge University Press, 2013). (That book uses
+    ‘kind’ in place of Are women . . . ?’s ‘category’—see 5.)
+122
+    Escaping . . . , 1000.
+123
+    Cf. Karkazis: “sex . . . is culturally contingent . . . [it] is not a static, discrete, or even strictly biological
+    characteristic that exists prior to the relations and practices that produce it” (“The misuses of “biological
+    sex””, 1898). This is a representative indication of the quality of Dembroff’s sources.
+124
+    Biologists: Joan Roughgarden, Evolution’s Rainbow: diversity, gender, and sexuality in nature and people
+    (Los Angeles: University of California Press, 2004), 26; Geoff A. Parker, “The origin and maintenance of
+    two sexes (anisogamy), and their gamete sizes by gamete competition”, in The Evolution of Anisogamy:
+    a fundamental phenomenon underlying sexual selection, ed. Tatsuya Togashi and Paul Alan Cox
+    (Cambridge: Cambridge University Press, 2011); Leo Beukeboom and Nicolas Perrin, The Evolution
+    of Sex Determination (Oxford: Oxford University Press, 2014), chap. 1; Douglas J. Futuyama and
+    Mark Kirkpatrick, Evolution (Sunderland, MA: Sinauer, 2017), 249. Philosophers of biology: John Dupré,
+    The Disorder of Things: Metaphysical foundations of the disunity of science (Cambridge, MA: Harvard
+
+
+
+                                                                                                                   21
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+8. Motives
+Finally, we reach the last part of Escaping.... In accordance with the new norms of
+scholarship that Dembroff seems to be following, the hidden motives of the present
+writer are exposed to the light. The “larger methodological and ethical problems” of Are
+women...? are scrutinized.125 The rhetorical needle of the previous sections, already
+quivering around 10, is ramped up to 11.
+      The larger problems are these. I assume that “there are two universal genders, every
+person immutably has one, and all this is vindicated by science”. I “cite the testimony of
+trans persons only for the purpose of undermining these persons’ self­understanding, or
+for pitting them against other trans persons”. I “sweepingly dismiss cultures with nonbinary
+gender systems in a footnote”. I “conjure a fictional intersex variation for the purpose of
+arguing that, no matter how much an intersex person looks, behaves, or claims to be a
+woman, they are not one”.126
+      I am afraid I have already have overused ‘incorrect’, but let me stick to the word
+for uniformity. All these claims are incorrect. (One caveat: I am not sure what
+Dembroff means by the phrase ‘universal gender’.) My reasons for citing the testimony
+of transgender women are right on the surface.127 The pertinent footnote contains
+no dismissal of cultures with a “third gender”; a thousand genders can bloom, as far
+as Are women...? is concerned.128 I make use of a fictional case of a person who
+is neither male nor female for reasons that are also on the surface.129 The contrary
+charges are an artefact of Dembroff’s hermeneutical approach of reading between the
+lines rather than actually reading the lines. I should perhaps emphasize that I have
+absolutely no interest in gratuitously dragging transgender people or people with DSDs
+into philosophical arguments.130 They figure in Are women...? only because some of my
+opponents’ arguments appeal to them.131
+
+
+    University Press, 1995), chap. 3; Laura Franklin­Hall, “The animal sexes as historical explanatory
+    kinds”, in Current Controversies in Philosophy of Science, ed. Shamik Dasgupta and Brad Weslake
+    (London: Routledge, 2020); Muhammad Ali Khalidi, “Are sexes natural kinds?”, in Current Controversies
+    in Philosophy of Science, ed. Shamik Dasgupta and Brad Weslake (London: Routledge, 2020).
+125
+    Escaping . . . , 1000.
+126
+    Ibid., 1000–1.
+127
+    See Are women...?, 3798–9.
+128
+    See ibid., 3792, n. 16. About that footnote, Dembroff writes: “Byrne appeals to linguistic translation
+    (from a language with nonbinary gender terms to one with only binary gender terms) to undermine the
+    legitimacy of nonbinary categories” (Escaping..., 995, n. 52). I do not know what Dembroff means by
+    ‘legitimacy’, or why the footnote is said to use “cherry­picked quotations” (995), but there is a hint that the
+    translations aren’t accurate because English has “only binary gender terms”, or at least not a rich enough
+    stock of non­binary gender terms (‘nonbinary’ is a word of English). Consider one third gender I mention,
+    the Samoan fa’afafine. According to Paul Vasey (an expert who has studied the fa’afafine for many years),
+    “Translated literally, fa’afafine means “in the manner of a woman”” (Paul L. Vasey and Nancy H. Bartlett,
+    “What can the Samoan “fa’afafine” teach us about the Western concept of gender identity disorder in
+    childhood?”, Perspectives in Biology and Medicine 50 (2007): 481–90, 484). Is Vasey wrong about that?
+    If he isn’t, why think there is an insuperable obstacle to translation elsewhere?
+129
+    See Are women . . . ?, 3793. Taken literally, Dembroff is attributing to me the insane view that no person
+    with an intersex condition who claims to be a woman is one. It is possible that Dembroff has been misled
+    by the ‘intersex’ terminology, but this is speculation on my part.
+130
+    DSDs: Disorders of Sex Development. See Peter A. Lee et al., “Global disorders of sex development update
+    since 2006: perceptions, approach and care”, Hormone Research in Paediatrics 85 (2016): 158–80.
+131
+    As Are women . . . ? recounts, feminist philosophers have taken a keen interest in transsexuality (3797).
+
+
+
+
+                                                                                                               22
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+      Dembroff ends by confidently proclaiming that I am trying to vindicate a political
+slogan, ‘Women are adult human females’. Evidently, the allegation is that I am in
+sympathy with the aims of an “anti­trans” movement.132 In a footnote, Dembroff says
+that it is “particularly obvious that Byrne is defending a political slogan”, apparently on the
+ground that the Oxford English Dictionary entry does not contain ‘adult human female’.133
+(Merriam­Websters is also given as another example.) Instead, the OED entry is ‘adult
+female human being’, although the footnote does not mention that. Dembroff’s reasoning
+is not explicit, but might be this: the obvious explanation of why I chose ‘adult human
+female’ instead of ‘adult female human’ is that I intended to signal my support of those
+who deploy ‘Woman are adult human females’ to “undermine civic rights and respect for
+trans persons”.134
+      After all, what other explanation could there possibly be? Well, Are women...? does
+say that an “eminently desirable and feasible goal is for trans women (and men) to be
+accepted by society and live in peace and dignity”.135 And ‘adult human female’ is a
+perfectly ordinary phrase. It gets more significantly more hits on Google than ‘adult female
+human’, restricting the search to the period before it became part of a slogan. It is—or
+rather, was—the definition of ‘woman’ in the Google Dictionary.136 In any case, can it
+seriously be imagined that I would have been let off the hook if I had reversed ‘human’
+and ‘female’? One could equally well argue that I chose the alternative formulation to give
+myself plausible deniability.137
+      According to Escaping...’s abstract, ‘Women are adult human females’ appears on
+“billboards, pamphlets, and anti­trans online forums”, but no citations are provided describing
+where this occurred, or why. Later, the sentence is said to be associated with “conservative
+groups”.138 To my knowledge, ‘Woman are adult human females’ has appeared on no
+billboard. However, ‘woman wʊmәn noun adult human female’ was a billboard slogan in
+the UK after the government proposed reforms to the 2004 Gender Recognition Act (now
+shelved), so this must be the political context to which Dembroff is alluding.139
+
+
+132
+    Escaping..., 983–84.
+133
+    Ibid., 988–89, n. 24; emphasis added.
+134
+    Ibid., 1001.
+135
+    Are women . . . ?, 3800.
+136
+    Sometime after April 20, 2020, the definition was changed to ‘adult female human being’. ‘Adult human
+    female’ first appears in drafts from which Are women . . . ? was derived in early 2017. (I had consulted
+    the OED entry, which appears on a slide in a talk given in early 2018, but attached no significance to the
+    difference in wording.) The slogan (in its dictionary version—see below) did not begin to catch on until
+    later in 2018.
+           ‘Adult human female/male’ are arguably more natural constructions than ‘adult female/male human’
+    because they fit the Aristotelean order of genus + differentia: adult human (genus), female/male (differentia).
+137
+    Moreover, radical feminists sometimes use the alternative, as well as ‘female adult human’ (see,
+    e.g., Julia Beck, “Testimony before the Baltimore LGBTQ Commission Law and Policy Committee,”
+    2018, excerpted at: https://www.womensliberationfront.org/news/you­might­as­well­call­it­the­gbtq­
+    commission­lone­lesbian­pushed­off­baltimore­committee).
+138
+    Escaping..., 993.
+139
+    Neither the dictionary slogan nor ‘Women are adult human females’ has gained traction in the US. In
+    2019, the socially conservative Heritage Foundation hosted a critical discussion about the US Equality
+    Act, which would add gender identity to the list of federally protected characteristics. The panel was
+    moderated by Ryan T. Anderson, a devout Catholic and opponent of same­sex marriage, and featured
+    members of the Women’s Liberation Front (WoLF), a group of radical feminists “Dedicated to the total
+    liberation of women”. The WoLF website (womensliberationfront.org, searched May 2020) has some
+    scattered occurrences of ‘wom(e/a)n’ combined with ‘adult human female(s)’ but none of ‘Women are adult
+    human females’ or the dictionary slogan, and Anderson’s book When Harry Became Sally: responding to
+
+
+
+                                                                                                               23
+ Journal of Controversial Ideas 2021, 1(1), 5; 10.35995/jci01010005
+
+
+
+      Some corrections are needed. It was the center­right Conservative government
+under Prime Minister Theresa May which proposed changing the GRA; this would have
+made it considerably easier for transgender people to be legally recognized as their
+“acquired gender”. A government consultation document was published in July 2018, and
+opposition came from various grassroots women’s groups, with significant representation
+from the trade union and labour movement. What is now the main group, Woman’s Place
+UK, did not adopt the dictionary slogan. Two billboards displaying it were put up by the
+founder of another group, Standing for Women, in September and October of 2018; the
+first was quickly taken down by the billboard company and the second, incongruously
+placed above a sex shop, had little impact. (The dictionary slogan also appeared on
+T­shirts, stickers, and postcards.) There is no doubt that the slogan and its relatives
+are sometimes wielded by those with ill­will towards transgender people, but they are
+also used by those who agree with the Telegraph journalist Diana Thomas: “The rightful
+struggle for recognition and respect for our identity should not require everyone else to
+redefine their entire concept of what it means to be male or female”.140 I am sure that
+the socialist feminists Linda Bellos and Lucy Masoud would be surprised to discover that
+they are part of a vast right­wing conspiracy.141 The point is not to pick sides. But if one
+is going to pick sides, it is important to characterize the sides correctly.142,143
+
+Acknowledgments: Many thanks to Ray Blanchard, Tomas Bogardus, George Christofi, Holly
+Lawford­Smith, Kathleen Stock, three anonymous referees for The Journal of Controversial Ideas,
+and a few anonymous others. I would also like to thank Stew Cohen, the former Editor­in­Chief of
+Philosophical Studies, for encouraging me to write this paper.
+
+
+
+    the transgender moment (New York: Encounter Books, 2018) does not contain ‘adult human female(s)’
+    (or ‘adult female human(s)’).
+140
+    Thomas, “‘I’m not going to turn into . . . ”; see Section 3 above.
+141
+    See Claire Heuchan, “If feminist Linda Bellos is seen as a risk, progressive politics has lost its
+    way”, Guardian, October 6, 2017, https://www.theguardian.com/commentisfree/2017/oct/06/feminist­
+    linda­bellos­women­trans­male­violence, and Lucy Masoud, “Talk at Women’s Place UK”, February 27,
+    2018, https://youtu.be/wwkEO8HQ8Hw.
+142
+    For those interested in learning more about the UK context, I recommend a series of articles in
+    The Economist, featuring a variety of perspectives (Helen Joyce, “After two weeks, our transgender
+    identity series comes to a close”, The Economist, July 17, 2018, https://www.economist.com/open­future/
+    2018/07/17/after­two­weeks­our­transgender­identity­series­comes­to­a­close), James Kirkup’s articles
+    in The Spectator (e.g., “Can we have an honest debate about gender?”, The Spectator, February 7,
+    2018, https://www.spectator.co.uk/article/can­we­have­an­honest­debate­about­gender­; “How women
+    won the war against gender ‘self­ID’”, The Spectator, September 22, 2020, https://www.spectator.co.
+    uk/article/how­women­won­the­war­against­gender­self­id­), and an interview with the YouTuber (and
+    transgender woman), Rose of Dawn (Francis Foster, Konstantin Kisin, and Rose of Dawn, “Interview
+    with Rose of Dawn”, Triggernometry, December 15, 2019, https://youtu.be/ak8v1LxdavY).
+143
+    In 2019, the employment contract of a UK tax expert, Maya Forstater, was not renewed because of
+    Forstater’s expressed views on the gender debate (see Kathleen Stock, “Maya Forstater says that
+    women are adult human females. Does this count as a “philosophical belief”?”, The Article May
+    10 (2019), https://www.thearticle.com/maya­forstater­says­that­women­are­adult­human­females­does­
+    this­count­as­a­philosophical­belief). ‘Women are adult human females’ appears in Forstater’s testimony
+    to an employment tribunal (Maya Forstater, “Claimant’s witness statement”, Medium, November 22, 2019,
+    https://medium.com/@MForstater/claimants­witness­statement­abe3e8073b41). Citing this testimony,
+    Dembroff claims that “a number of high­profile court briefings opposing trans rights in both the US and the
+    UK cite blog posts by philosophers such as Kathleen Stock and Alex Byrne as evidence that trans persons
+    are dangerous and deluded” (Robin Dembroff, “Cisgender commonsense and philosophy’s transgender
+    trouble”, TSQ: Transgender Studies Quarterly (2020): 399–406, 400, emphasis added). As can readily
+    be checked by following the previous link (which Dembroff supplies) and searching for ‘Stock’ and ‘Byrne’,
+    the citations are not to blog posts and (like Forstater’s testimony as a whole) have absolutely nothing to
+    do with the emphasized phrase.
+
+
+                                                                                                           24
+

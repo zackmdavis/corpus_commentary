@@ -1,0 +1,623 @@
+{
+ "post": {
+  "_id": "tonKatiDTzTP8LrEk",
+  "title": "Zoom Technologies, Inc. vs. the Efficient Markets Hypothesis",
+  "postedAt": "2020-05-11T06:00:24.836Z",
+  "pageUrl": "https://www.lesswrong.com/posts/tonKatiDTzTP8LrEk/zoom-technologies-inc-vs-the-efficient-markets-hypothesis",
+  "commentCount": 47
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "hCPaq5GWbPSAaWCzF",
+   "parentCommentId": null,
+   "postedAt": "2020-05-11T07:55:38.895Z",
+   "baseScore": 28,
+   "user": {
+    "username": "AllAmericanBreakfast",
+    "displayName": "DirectedEvolution"
+   },
+   "contents": {
+    "markdown": "I think it's worth steelmanning the EMH in this case.\n\nLet's compare ZTNO (the False Zoom) and ZM (the True Zoom) for the last 6 months:\n\n[False zoom prices](https://finance.yahoo.com/quote/ZTNO?p=ZTNO&.tsrc=fin-srch)\n\n[True zoom prices](https://www.google.com/search?q=zoom+stock&oq=zoom+stock&aqs=chrome.0.69i59j35i39j0l2j69i60l4.4800j1j4&sourceid=chrome&ie=UTF-8)\n\nTrue zoom began climbing on around Feb. 1st and seems to have continued climbing.\n\nFalse zoom had a couple little bumps in February, but it only started rising consistently around Feb. 24th, and the spike you're noticing mostly took place from March 12-20th, over about a week's time. Then it plummeted, got a hold put on it, and declined once the hold was released to an unprecedented low of $0.70/share.\n\nHow big of an error is this?\n\nMarket cap is the price of stock multiplied by the number of outstanding shares of stock. Its current market cap is $300.9 million, so at a share price of $.70 cents, it should have about 430 million outstanding shares.\n\nLet's assume the worst-case scenario: today's lowest-ever price was the correct price for ZTNO from Feb. 24th on.\n\nIn that case, for investors who owned ZTNO at its peak price and held it through to today, they suffered a collective loss of around $9 billion.\n\nThe world's market capitalization is around $78 trillion, so that's around 0.012% of the world's market cap.\n\nWhat's the strongest defense of the EMH I can offer here?\n\n*   Even a very strong EMH might allow for occasional fuckups, when we're talking a tiny fraction of a percent of the world's publicly traded companies, for about a week's time, in very weird circumstances. If you go around cherry-picking for missed opportunities in hindsight, you're sure to find them.\n*   It's called the *Efficient* Market Hypothesis, not the *Ideal* Market Hypothesis. Saying \"Asset prices reflect all *available* information\" is not the same as saying \"Asset prices reflect *all information.*\" Ground-level economic information, such as the bankruptcy of a small-cap company in a foreign country, might spread at a speed that is proportional to its expected value. Perhaps most or all investors in ZTNO prior to January had such small segments of their portfolio allocated to ZTNO that it didn't make sense to check whether or not it existed, since presumably the vast majority of listed companies do exist and it probably takes quite a bit of work to check.\n*   Did ZTNO really look like a bad buy at the time to someone who knew it wasn't the True Zoom? Maybe you noticed early that people were buying because of name confusion, and you bought for that reason, hoping to time the market and sell before the bubble burst. That's not illogical. Then again, ZTNO is a Chinese videoconferencing company. Maybe you reasonably expected that they, like ZM, would profit from increased demand due to COVID-19. I admit that the company sounds dubious, but that's not a sure thing.\n\nMy small experience with stocks is that the more I look into apparently bonkers violations of the EMH, the more I discover that I just didn't understand the full context. Search a little harder under the assumtion the EMH is true and you're just missing something, and there's a good bet you'll find an explanation that makes the prices make sense."
+   }
+  },
+  {
+   "_id": "vpRo87rMnjBbhJLCL",
+   "parentCommentId": null,
+   "postedAt": "2020-05-11T15:40:28.355Z",
+   "baseScore": 6,
+   "user": {
+    "username": "chris-hibbert-1",
+    "displayName": "Chris Hibbert"
+   },
+   "contents": {
+    "markdown": "This argument misses the fact that some of the sellers in the market are selling because of other circumstances in their life or business. This doesn't affect the price on average, but it does make it unreasonable to say \"you need to buy them *from* someone who's willing to *sell* at that price\u2014who presumably does *not* agree that the price is going to go way up.\"\n\nAt any point in time, some of the sellers in the market are selling because their daughter is about to start college, or they are nearing retirement, or there's some other valuable they want to invest in with somewhat better prospects, and they need financial liquidity to do so. Similarly, there are buyers who just sold an asset (real estate, e.g., that finished construction) or received a bonus, or sold something else to protect their gains and need to get back into the market.\n\nThe point isn't that these behaviors move the price in one direction or another, it's just that not all activity in the financial markets is driven by disagreements about prices."
+   }
+  },
+  {
+   "_id": "EqKKH5EbaRgAGdvYd",
+   "parentCommentId": "hCPaq5GWbPSAaWCzF",
+   "postedAt": "2020-05-11T18:25:16.840Z",
+   "baseScore": 40,
+   "user": {
+    "username": "gwern",
+    "displayName": "gwern"
+   },
+   "contents": {
+    "markdown": "Matt Levine covers these mispricings examples all the time in his newsletter, and more importantly, follows them up often. (Followup is important; I notice that Eliezer has not exactly gone around trumpeting [Wei Dai's followup comment](https://www.lesswrong.com/posts/jAixPHwn5bmSLXiMZ/open-and-welcome-thread-february-2020?commentId=YFx5uFknFNoFnpQkS) where he mentions losing almost all of his coronavirus profits as evidence that maybe the EMH is right after all; nor that any of the people who stated so confidently in late March that \"*obviously* the stock market is going to crater much further, so much for the EMH!\" have followed this up and noted that if you had taken their advice to short stocks, you would have lost your shirt.)\n\nThe followup usually seems to be that either you could only have made a tiny amount of money, once in a great while, typically measured in low millions, if and only if you owned a ton of the worthless stock in advance and timed your sale right, and that anyone buying into it on the 'greater fool' theory is often left holding the bag as either they buy the top by the time they hear of the spike or the penny stock in question may actually be delisted entirely from the exchange due to the shenanigans (in which case *then* you're in serious trouble). Not exactly a devastating counterexample."
+   }
+  },
+  {
+   "_id": "gBKtfAMytuzmzxqf7",
+   "parentCommentId": "hCPaq5GWbPSAaWCzF",
+   "postedAt": "2020-05-11T19:19:37.242Z",
+   "baseScore": 8,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": ">  Search a little harder under the assumtion the EMH is true and you're just missing something, and there's a good bet you'll find an explanation that makes the prices make sense.\n\nThat sounds like confirmation bias.\n\nSearch a little harder under the assumption that markets are exploitable, and you'll start to notice more inefficiencies you could profit from."
+   }
+  },
+  {
+   "_id": "mgk42rEkjFmeJrJfq",
+   "parentCommentId": null,
+   "postedAt": "2020-05-11T19:19:46.400Z",
+   "baseScore": 17,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "> But ... this is nuts, right? It makes sense that a pandemic would make a videoconferencing company more valuable. It doesn't make sense for a completely unrelated company *that may not have actually existed since 2015* to become more valuable because it happens to have a similar name as a videoconferencing company.\n\nSeconding the call to check out Matt Levine's column, which has taught me that this kind of weirdness makes perfect sense, and is entirely consistent with EMH. If we have evidence that people often make these kind of blunders, and will continue to do so in future\u2014another common one is KO (Coca-Cola Company) vs COKE (a bottler and distributor)\u2014then even a totally bogus company really is 'valuable', in a very stupid but fundamentally accurate sense.\n\nIn short: the fact that people don't read tickers carefully is *part of the information* that markets are constantly aggregating.\n\nLevine:\n\n> To stylize the situation, you can think of ZOOM as sort of a dormant corporate shell that owns one asset, the ZOOM ticker. It owns that asset more or less by accident, and it is not ownership in the traditional sense; stock exchanges assign tickers, and ZOOM can\u2019t just go and sell its ticker. But still every now and then the ZOOM ticker becomes a valuable asset and starts generating revenue. In good-for-ZM times, you can make a couple of million dollars a day selling ZOOM, which I suspect\u2014again, they don\u2019t file financials\u2014is more than ZOOM can make selling mobile-phone components."
+   }
+  },
+  {
+   "_id": "mmcbqW2xSp828cY4b",
+   "parentCommentId": "mgk42rEkjFmeJrJfq",
+   "postedAt": "2020-05-11T20:18:45.745Z",
+   "baseScore": 24,
+   "user": {
+    "username": "clone of saturn",
+    "displayName": "clone of saturn"
+   },
+   "contents": {
+    "markdown": "If this kind of behavior is entirely consistent with EMH, does EMH even mean anything?"
+   }
+  },
+  {
+   "_id": "Zrka2Luv6sZNADgMa",
+   "parentCommentId": "mmcbqW2xSp828cY4b",
+   "postedAt": "2020-05-11T20:58:28.670Z",
+   "baseScore": 3,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "It means exactly what it says: asset prices reflect all available information. Not sure exactly what you're asking, but that alone is a revelatory and counterintuitive idea."
+   }
+  },
+  {
+   "_id": "SThs48QteaLWaDGPC",
+   "parentCommentId": "mmcbqW2xSp828cY4b",
+   "postedAt": "2020-05-11T20:59:45.305Z",
+   "baseScore": 5,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "It means you shouldn't expect to make money trading stocks."
+   }
+  },
+  {
+   "_id": "xm2LnHkf2WE8vqnjJ",
+   "parentCommentId": "Zrka2Luv6sZNADgMa",
+   "postedAt": "2020-05-11T21:03:23.929Z",
+   "baseScore": 11,
+   "user": {
+    "username": "clone of saturn",
+    "displayName": "clone of saturn"
+   },
+   "contents": {
+    "markdown": "What would be an example of asset prices *not* reflecting all available information?"
+   }
+  },
+  {
+   "_id": "9PEi2BEqXbxijxudd",
+   "parentCommentId": "gBKtfAMytuzmzxqf7",
+   "postedAt": "2020-05-11T21:07:32.590Z",
+   "baseScore": 5,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "The onus is on the person making an extraordinary claim to provide the evidence, not the other way around.\n\nIf you think you've found an exploit in the market you should *absolutely* start from the position that you're wrong, because... you almost certainly are. This is how anyone ought to behave purely out of naked self-interest\u2014it has nothing to do with confirmation bias."
+   }
+  },
+  {
+   "_id": "gx54gJC7RjJrB9aT9",
+   "parentCommentId": "xm2LnHkf2WE8vqnjJ",
+   "postedAt": "2020-05-11T21:32:11.906Z",
+   "baseScore": 3,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "What would be an example of energy *not* being conserved in a closed system? Does the law of thermodynamics even mean anything?\n\nI'm not sure what you're trying to say, so it would probably be better to just state your point plainly.\n\nLike anything else, the EMH is useful insofar as it generates testable predictions about the world. One of the most useful predictions, as johnswentworth puts it: 'you shouldn't expect to make money trading stocks'."
+   }
+  },
+  {
+   "_id": "CqCgbNji522Yii8ER",
+   "parentCommentId": null,
+   "postedAt": "2020-05-11T21:37:45.801Z",
+   "baseScore": 3,
+   "user": {
+    "username": "jmh",
+    "displayName": "jmh"
+   },
+   "contents": {
+    "markdown": "I think there are two areas that need to be included in the discussion here.\n\n1) EMH as a static equilibrium concept and as a dynamic equilibrating process. I don't think EMH comes out too great in either setting but still do think that the hypothesis is largely true: information matters, is used and is largely reflected in the prices as it become more generally know (private information allows alpha but also has controls on its use and typically those with it cannot take full advantage due to resource limitations).\n\n2) What do market prices really reflect? It is not really the enterprise value directly, though clearly that will be related, but more about the relative supply and demand for the shares at the margin. All sorts of think affect that marginal pricing -- I have to sell something to do something else that is a better alternative so that sale is my opportunity cost -- that has little to do with the underlying enterprise pricing question or the information related to that question."
+   }
+  },
+  {
+   "_id": "4Je3dTqoGAg8NWtPf",
+   "parentCommentId": "mmcbqW2xSp828cY4b",
+   "postedAt": "2020-05-11T22:11:06.262Z",
+   "baseScore": 14,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "My understanding (mostly from Inadequate Equilibria) is something like \"The Efficient Market Hypothesis doesn't mean you can't make money trading \u2013 people do in fact make mistakes, the world includes secrets, etc, which you can exploit.\u00a0\n\nBut, to know *which* mistakes to exploit is not easy. If you focus on it professionally, and are reasonably talented, you can make... something like $60/hr on average, not like a bajillion dollars.\""
+   }
+  },
+  {
+   "_id": "9vvk73GeCDwLaurKW",
+   "parentCommentId": "gx54gJC7RjJrB9aT9",
+   "postedAt": "2020-05-11T22:14:25.295Z",
+   "baseScore": 26,
+   "user": {
+    "username": "clone of saturn",
+    "displayName": "clone of saturn"
+   },
+   "contents": {
+    "markdown": "> What would be an example of energy not being conserved in a closed system?\r\n\r\nIf a spinning [overbalanced wheel](https://en.wikipedia.org/wiki/File:Perpetuum1.png) without additional energy input spun faster and faster instead of slowing down and stopping.\r\n\r\n> Does the law of thermodynamics even mean anything?\r\n\r\nThe laws of thermodynamics don't seem to have the same problem of vagueness. It's easy to tell whether a given situation would violate them or not.\r\n\r\n> I\u2019m not sure what you\u2019re trying to say, so it would probably be better to just state your point plainly.\r\n\r\nI'm trying to figure out what you mean when you talk about EMH.\r\n\r\n> Like anything else, the EMH is useful insofar as it generates testable predictions about the world. One of the most useful predictions, as johnswentworth puts it: \u2018you shouldn\u2019t expect to make money trading stocks\u2019.\r\n\r\nObviously some people have made money trading stocks. Does the EMH simply mean that less than 50% of people who trade stocks make money? That doesn't seem to support the grandiose conclusions that are usually made on the basis of the EMH. The same would be true of a poker game, for instance, or simply a bet between 3 people where only one of them can be right."
+   }
+  },
+  {
+   "_id": "KeZ533vaKr4T8axFH",
+   "parentCommentId": "gBKtfAMytuzmzxqf7",
+   "postedAt": "2020-05-11T22:46:11.008Z",
+   "baseScore": 3,
+   "user": {
+    "username": "AllAmericanBreakfast",
+    "displayName": "DirectedEvolution"
+   },
+   "contents": {
+    "markdown": "I mean, that\u2019s the ideal case. I\u2019m skeptical that my own efforts, or those of most people, would lead them to profit substantially more than they could have by applying their energies to any other line of work.\n\nThis is partly based on my own experience doing a mini history of COVID 19 and the stock market, when I was really convinced that the market had behaved irrationally. It was remarkable to see how long it took me to find disconfirming evidence that made me see that the market was just thinking differently. Based on that experience, I\u2019d want to see a whole lot of work sunk into any attempt to find alpha before I was prepared to believe it was real."
+   }
+  },
+  {
+   "_id": "kfjCLbXDtYtJiSAou",
+   "parentCommentId": null,
+   "postedAt": "2020-05-11T23:08:59.452Z",
+   "baseScore": 15,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> If that coupling gets diluted to higher [simulacrum levels](https://www.lesswrong.com/posts/fEX7G2N7CtmZQ3eB5/simulacra-and-subjectivity), such that prices only reflect a free-floating consensus of [what traders think that traders think that traders, *&c.*](https://en.wikipedia.org/wiki/Keynesian_beauty_contest), then a market that is *efficient* in a narrow technical sense, may not be performing the kind of information processing that some na\u00efve EMH proponents might think it is.\n\nI think this is an important point. And also that there is a time horizon component to it. As Benjamin Graham (mentor to Warren Buffett) put it:\n\n> In the short run, the market is a voting machine, but in the long run, it is a weighing machine.\n\nI have a pet theory that part of the way that the market reacts to news is analogous to the [blue-eyed islanders](https://xkcd.com/blue_eyes.html), where everyone is trying to do induction on what everyone else thinks.\n\nSuppose I learn some new information (or do some analysis) that suggests that stock prices should fall (e.g. because a new epidemic will be worse than generally thought). But stock prices aren't falling yet. Is that because the rest of the market participants don't know what I know, or is it because they also know some countervailing fact?\n\nAfter some time, prices still aren't falling. Surely other people would have figured it out by now. What's going on? Is there something obvious I'm missing?\n\n(And how many other people are in the exact same epistemic state, and also asking the same question?)\n\nFinally, prices start to fall. Maybe someone got brave, and decided to bet on the same inside view that I had. Or maybe some other random event caused them to fall. But they're falling now.\n\nNormally, you might think that if you have an inside view of where prices should be, and then prices fall, things that looked expensive to you before should look cheap, and so you should want to buy. But if you're in the epistemic state I describe above, prices falling is validation of your belief that prices should fall, and evidence against the hypothesis that there's some important countervailing fact that you're missing. So as prices fall, your own \"fair\" price for assets falls too.\n\nSo all the islanders leave on the same day. And all the traders sell at the same time. And market moves happen more sharply than they would if they were purely the result of updating on external information.\n\nI'm not sure if this view is correct, but it's my impression. (For a related idea, see Soros's notion of [reflexivity](https://www.investopedia.com/terms/r/reflexivity.asp).)"
+   }
+  },
+  {
+   "_id": "7oiMLieC3cryJQBJm",
+   "parentCommentId": "EqKKH5EbaRgAGdvYd",
+   "postedAt": "2020-05-11T23:14:40.464Z",
+   "baseScore": 48,
+   "user": {
+    "username": "Wei_Dai",
+    "displayName": "Wei Dai"
+   },
+   "contents": {
+    "markdown": ">Followup is important; I notice that Eliezer has not exactly gone around trumpeting Wei Dai's followup comment where he mentions losing almost all of his coronavirus profits as evidence that maybe the EMH is right after all\n\nWhen Eliezer posted about my bet, I had only gained 7x my initial bet (and that's what he posted about), and although I ended up losing 80% of my paper profits (which were 50x at one point) I still gained 10x my initial bet. So him not posting further followup seems fine? And at least from my personal perspective (i.e., where selection bias isn't an issue) the final outcome still seems to be strong evidence against EMH."
+   }
+  },
+  {
+   "_id": "RgmQNWip7NYkFWuYB",
+   "parentCommentId": "CqCgbNji522Yii8ER",
+   "postedAt": "2020-05-11T23:19:15.925Z",
+   "baseScore": 6,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> private information allows alpha but also has controls on its use\n\nJust want to make the minor point that what you might call *logical* information can effectively be private too. The logical consequences of public information are not immediately available to all market participants. Better analysis should also be able to convey alpha.\n\nThough note that it may be difficult to tell whether you have better (or even different!) analysis than everyone else, since you don't know what they've concluded. (See my [other comment](https://www.lesswrong.com/posts/tonKatiDTzTP8LrEk/zoom-technologies-inc-vs-the-efficient-markets-hypothesis?commentId=kfjCLbXDtYtJiSAou).)"
+   }
+  },
+  {
+   "_id": "dTf6ypEzCF866Efsf",
+   "parentCommentId": "Zrka2Luv6sZNADgMa",
+   "postedAt": "2020-05-11T23:33:16.079Z",
+   "baseScore": 4,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> asset prices reflect all available information\n\nNote that, strictly speaking, this couldn't be possible, since people are not [logically omniscient](https://www.lesswrong.com/posts/tonKatiDTzTP8LrEk/zoom-technologies-inc-vs-the-efficient-markets-hypothesis?commentId=RgmQNWip7NYkFWuYB). There is some finite rate at which people can compute the consequences of facts (including disparate facts at first not known to be related to each other), so there will be some finite rate at which the market incorporates new information.\n\nThis suggests that you don't actually need private information to beat the market. If you can do better analysis or do it faster, that can give you alpha as well.\n\nBut then there's a market for doing that analysis. And some of that alpha ends up accruing to HFT firms, or to the salaries of traders, etc."
+   }
+  },
+  {
+   "_id": "FmAFaJKhtspDLZmJN",
+   "parentCommentId": "9vvk73GeCDwLaurKW",
+   "postedAt": "2020-05-11T23:35:36.752Z",
+   "baseScore": 2,
+   "user": {
+    "username": "AllAmericanBreakfast",
+    "displayName": "DirectedEvolution"
+   },
+   "contents": {
+    "markdown": "> That doesn't seem to support the grandiose conclusions that are usually made on the basis of the EMH. The same would be true of a poker game, for instance, or simply a bet between 3 people where only one of them can be right.\n\nYes, precisely. And that is a meaningful prediction.\n\nThe EMH is not a grandiose claim. It is a boring rebuttal to grandiosity. Saying \"you probably will make an average amount of money for your intelligence and education level trading stocks as you would in any other profession\" is decidedly dull. Saying \"people with millions or billions of dollars invested in X keep a pretty tight bead on new information related to X and make trades based on it\" is also a sensible claim. Saying \"boy, this is complicated stuff - are you *sure* that's alpha you've found there?\" is reasonable.\n\nIn the end, money talks. So if anybody is dead convinced that the EMH is wrong, there are hundred dollar bills lying around in the stock market, and they've found a way to pick them up, the ultimate test is just to say \"go make a lot of money, then, and let me know how it all went once you've exited the stock market!\""
+   }
+  },
+  {
+   "_id": "FEjBFJaebwnNmqwF7",
+   "parentCommentId": "7oiMLieC3cryJQBJm",
+   "postedAt": "2020-05-11T23:43:57.983Z",
+   "baseScore": 11,
+   "user": {
+    "username": "gwern",
+    "displayName": "gwern"
+   },
+   "contents": {
+    "markdown": "I think it is very relevant to note that you were up 50x at one point and then down to 10x on net after further decisions went sour, because \r\n\r\n1. those further decisions going sour show your decision-making was not that consistently good\r\n2. such high variance looks much more obviously like 'gambling' or 'taking on an enormous amount of risk' than 'it's fun and easy to seek out alpha and beat the market'"
+   }
+  },
+  {
+   "_id": "6ykYtCetFfusMBLbB",
+   "parentCommentId": "dTf6ypEzCF866Efsf",
+   "postedAt": "2020-05-11T23:46:09.526Z",
+   "baseScore": 3,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "Yep, true - hence high-frequency traders. I remember reading how one firm installed a direct cable between Chicago and New Jersey at some incredible expense to shave a few milliseconds off transmission time."
+   }
+  },
+  {
+   "_id": "ydwPgxvuLwf5pGF3G",
+   "parentCommentId": "kfjCLbXDtYtJiSAou",
+   "postedAt": "2020-05-11T23:55:12.996Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Connor_Flexman",
+    "displayName": "connorf"
+   },
+   "contents": {
+    "markdown": "I think the big Ethereum move in May 17 was a great example of this. Evidently many people thought earlier that the price should be higher, but \"the market can stay irrational longer than you can stay solvent.\" So you had a building of steam before it finally shot up.\n\nHowever I'm not sure to what extent these are actual epistemic issues as you hypothesize, or just an artifact of small fractions of smart money."
+   }
+  },
+  {
+   "_id": "XdmGLHBZDLmykcQwZ",
+   "parentCommentId": "9vvk73GeCDwLaurKW",
+   "postedAt": "2020-05-11T23:55:54.800Z",
+   "baseScore": 3,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "> Obviously some people have made money trading stocks. Does the EMH simply mean that less than 50% of people who trade stocks make money? That doesn't seem to support the grandiose conclusions that are usually made on the basis of the EMH.\n\nYeah exactly - for example, something like 90% of active fund managers (professional investors with all the bells and whistles) fail to beat their benchmark, and those that do are highly unlikely to repeat the feat the next year. It makes no difference to me that EMH doesn't cash out in some kind of precise formula\u2014it just seems like a super useful and interesting thing to know. Sorry if we've been talking at cross-purposes!"
+   }
+  },
+  {
+   "_id": "xToMRoLfJbAE6KMLs",
+   "parentCommentId": "9PEi2BEqXbxijxudd",
+   "postedAt": "2020-05-11T23:58:28.785Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Decius",
+    "displayName": "Decius"
+   },
+   "contents": {
+    "markdown": "Sometimes the market is wrong but the barrier to competition is so high that if you try to take advantage of it you run of money."
+   }
+  },
+  {
+   "_id": "FccjvqM5XktpgBPnh",
+   "parentCommentId": "7oiMLieC3cryJQBJm",
+   "postedAt": "2020-05-12T00:21:31.972Z",
+   "baseScore": 19,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> the final outcome still seems to be strong evidence against EMH\n\nIt seems to me that the EMH is a spherical cow. In reality, there has to be some *process* by which market prices comes to reflect new information. And whoever figures it out first, either because they had private information, or because they did [better analysis](https://www.lesswrong.com/posts/tonKatiDTzTP8LrEk/zoom-technologies-inc-vs-the-efficient-markets-hypothesis?commentId=RgmQNWip7NYkFWuYB), should make some profit.\n\nAnd the question might be -- is it always the same people who figure it out first, or is there some randomness involved? (Consider a toy model where N people are trading one stock and every day a fairy randomly selects 1 of the N people and tells them some new information about the future value of the stock.)\n\nIf there's a distribution over who has the market-beating analysis on any given day, then with some probability, it's you. So the question is, what are the odds?\n\nIt's not going to be a uniform distribution over people or predictions. There's some prior based on what information you have access to, and how good at certain kinds of reasoning you are compared to others, and then you update based on how strong your inside view is. (And over time, you can update on track record.)\n\nMost of the time, it will probably be professionals who do this for a living. But it's not crazy to me that as an intelligent amateur who consumes lots of information and thinks carefully, it will sometimes be your *turn*, so to speak."
+   }
+  },
+  {
+   "_id": "wRuNns3onXzJ4HbyM",
+   "parentCommentId": "9PEi2BEqXbxijxudd",
+   "postedAt": "2020-05-12T00:39:21.514Z",
+   "baseScore": 6,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": "Is my claim really so extraordinary? EMH isn't settled: it's contentious. Many economists seem to believe it, but many traders and money managers reject it. I mean, I feel like there are a number of exploitable anomalies that are open secrets at this point. GARCH forecasts. Pairs trading. Momentum. Mean reversion. Fourier spectral filters. Historical vs implied option volatility. These are not beyond the reach of anyone who can do calculus and write code. There are still more whales than sharks in the market.\n\n> If you think you've found an exploit in the market you should absolutely start from the position that you're wrong, because... you almost certainly are.\n\nBayes says you have to look at both sides of the likelihood ratio to update. I don't particularly care which one you pick first. You should certainly try to test any edge you think you have, and look for missing information. If you develop a good edge it's easy to make some profit, but it's always easier to lose money if you're careless. But don't give up before you even try."
+   }
+  },
+  {
+   "_id": "dKMMbGezu7Qd7AWac",
+   "parentCommentId": "FccjvqM5XktpgBPnh",
+   "postedAt": "2020-05-12T00:40:34.195Z",
+   "baseScore": 8,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "Btw, it seems like there's a little bit of a paradox here. Suppose the participants in a market are all well-calibrated about whether they have market-beating information. And in expectation everyone will stumble upon some market beating information at some time or another.\n\nOn the one hand, everyone should be able to get market returns, by just investing in the market. But since everyone has market-beating information some of the time (and are well-calibrated), they should actually be able to beat the market, by diverging from the market portfolio only when they have market-beating information.\n\nBut then you'd have everyone beating the market, which can't be possible.\n\nI think the resolution is the same as Zvi's point in the *Sources of Disagreement and Interest* (aka *Suckers at the Table*) section of [Prediction Markets: When Do They Work?](https://www.lesswrong.com/posts/a4jRN9nbD79PAhWTB/prediction-markets-when-do-they-work) In the scenario I describe, no one would be able to profit off of their private information. As soon as they go to buy on positive information (or sell on negative information), they'll find that everyone else (who's well-calibrated) raises (or lowers) their prices to exactly match. (Or that no one was showing any bids or offers in the first place, since they knew any fills would face adversarial selection.)\n\nIn reality, I think the way this works is that you have both suckers (people who are miscalibrated), and also people who are willing to go forego market returns -- that is, people who have some natural reason to buy (e.g. new investors) or sell (e.g. in order to spend)."
+   }
+  },
+  {
+   "_id": "Pm4KwLhCdKF3HFomY",
+   "parentCommentId": "ydwPgxvuLwf5pGF3G",
+   "postedAt": "2020-05-12T00:58:11.456Z",
+   "baseScore": 5,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "One example that caused me to think about these things was when in Feb or so of 2015, Elon tweeted out that there was going to be a new product announcement in March (I think this ended up being for the PowerWall -- don't remember exactly). The stock price jumped something like 1% in one minute. And it was the same minute as the tweet. So it seemed clear that the market had reacted to the news.\n\nExcept it wasn't news. Elon had said basically the same thing on the earnings call a couple of weeks before.\n\nYou might argue that the fact that he also tweeted it out made it more likely that it was actually going to happen. But enough more likely that the change in EV was worth 1% of the whole company? I was very skeptical that that could be the case.\n\nBut taking into account that the price change had been so rapid, it made me think that perhaps it was just from trading bots that were using his twitter feed as a price signal. But if that were the case, shouldn't the price come back down once humans analyzed and realized that this wasn't actually news?\n\nWell, not necessarily. The fact that there were people willing to buy up on the tweet is information too. There's so much reflexivity involved that it seems very hard to tell in the short term exactly what the price should be. And so even if the price changes for a dumb reason, that doesn't necessarily mean it should go back to the old price.\n\n(Again, just my impression. Actual traders or HFT programmers might have a different story to tell.)"
+   }
+  },
+  {
+   "_id": "yJzmh8KqYQATnS6M7",
+   "parentCommentId": "KeZ533vaKr4T8axFH",
+   "postedAt": "2020-05-12T01:10:30.530Z",
+   "baseScore": 1,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": "I think that \"any other line of work\" is putting it too strongly. The thing that most appeals to me about trading is that its returns can scale faster than the time put into it: if you have more money, you can invest more money, unlike an office job that gives you small raises, but still consumes all your time.\n\nIt's the difference between owning a business and working for one. But trading is not the only way to do that. There are many other sources of passive income available, and some of them take even less capital than trading in the stock markets."
+   }
+  },
+  {
+   "_id": "thRNqekwSkmNuxGvL",
+   "parentCommentId": "FEjBFJaebwnNmqwF7",
+   "postedAt": "2020-05-12T01:16:50.585Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Wei_Dai",
+    "displayName": "Wei Dai"
+   },
+   "contents": {
+    "markdown": ">such high variance looks much more obviously like \u2018gambling\u2019 or \u2018taking on an enormous amount of risk\u2019 than \u2018it\u2019s fun and easy to seek out alpha and beat the market\u2019\r\n\r\nI know someone else who made the opposite mistake as me and sold their coronavirus puts too early. If you only saw their record, there would be no \"high variance\". They just made less money than they could have. It seems to me that the correct lesson from both outcomes is that it's possible to beat the market (without putting in so much effort as to make it not worthwhile to try), but we haven't figured out how to time the exits at exactly or very close to the best times."
+   }
+  },
+  {
+   "_id": "48HAW4Fuv3aidJc97",
+   "parentCommentId": "dKMMbGezu7Qd7AWac",
+   "postedAt": "2020-05-12T01:21:57.093Z",
+   "baseScore": 8,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": "> Suppose the participants in a market are all well-calibrated about whether they have market-beating information.\n\nThat part seems particularly unrealistic. If that were true, we'd be living in a very different world.\n\nMany large market participants have perverse incentives when trading other people's money. Their customers would prefer low volatility over optimal Kelley bets, and many would have to panic sell in a drawdown if volatility wasn't kept under control. You don't have to be smarter than them to exploit them, since they're optimizing a different goal: keep their customers happy, instead of making maximum money for them.\n\nAnd then, most people are irrational. Going by base rates, you should expect other market participants, even big ones, to trade emotionally as well."
+   }
+  },
+  {
+   "_id": "qJAHFynF87yBQx7Bw",
+   "parentCommentId": null,
+   "postedAt": "2020-05-12T01:23:31.713Z",
+   "baseScore": 17,
+   "user": {
+    "username": "Closed Limelike Curves",
+    "displayName": "Closed Limelike Curves"
+   },
+   "contents": {
+    "markdown": "From my own experience reading the literature, I propose the following: The Bimodal Market Hypothesis.\n\nThe BMH states that the market is either a terrifying beast of infinite power that has priced in the number of grandchildren you will have into McDonald's stocks, or is so stupid it kinda makes you want to cry. Evidence for this includes:\n\n1\\. The Dot-Com bubble, the fact that Bitcoin has a price exceeding $0 despite there currently existing cryptocurrencies that are strictly better in every way, and [that time the market proved to be incapable of doing addition](https://www.nber.org/papers/w8302). Maybe it's when tech is involved?\n\n2\\. But also, the [Peso problem](https://en.wikipedia.org/wiki/Peso_problem_\\(finance\\)), where an apparent decades-long anomaly in the markets turned out to exist because the market was accurately estimating the probability that the Mexican government would be unable to maintain its peg.\n\nSituation 1 occurs when idiots outnumber financial experts, and overwhelm the ability of \"Smart money\" to accurately price a stock in the face of a hype wave. Everyone reasonable avoids these stocks like the plague; shorting them exposes you to the possibility of bankruptcy in the case that the madness fails to subside in time. Situation 2 happens when financial experts poring over spreadsheets determine the value of a stock by rereading every statement until it's become their favorite work of literature before making a decision.\n\nPolicy proposal: Make it illegal to trade stocks if you haven't read *A Random Walk Down Wall Street,* don't know what a PE ratio is, if you *do* know what a candlestick graph is, or if you think that the reason why stocks go up is something like \"Everyone thinks they will.\""
+   }
+  },
+  {
+   "_id": "g37yHqNyzN8zFLi9P",
+   "parentCommentId": "qJAHFynF87yBQx7Bw",
+   "postedAt": "2020-05-12T01:46:45.956Z",
+   "baseScore": 7,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "I love this comment, but one nitpick:\n\n> Bitcoin has a price exceeding $0 despite there currently existing cryptocurrencies that are strictly better in every way\n\nI've seen people often express an impression that the \"best\" cryptocurrency should win. Well, I want to point out a particular way that one cryptocurrency could be better or worse than others that is often overlooked: the percent of potential early adopters who already hold it.\n\nEvery new cyrptocurrency faces the drawback that all of its most likely potential users are already financially invested in the success of the incumbents. It's like standard network effects, except where all the users of existing networks are also shareholders of them.\n\nTo get people to switch you have to not only get them to pay the normal switching costs of moving from one platform to another, but also the transactions costs of buying and selling assets.\n\n(I also think there's another layer, where because people don't want other people to switch away from their crypto of choice, they develop a sort of tribal emotional bias in its favor. I think this is where the phenomenon of bitcoin maximalists comes from. It's like the opposite of the [virtue of lightness](http://yudkowsky.net/rational/virtues/).)"
+   }
+  },
+  {
+   "_id": "MRiSxmhBcjpW4rABj",
+   "parentCommentId": "RgmQNWip7NYkFWuYB",
+   "postedAt": "2020-05-12T01:59:20.779Z",
+   "baseScore": 5,
+   "user": {
+    "username": "jmh",
+    "displayName": "jmh"
+   },
+   "contents": {
+    "markdown": "Agree. I actually deleted an earlier version of the comment that offered some thoughts on the problem of information in the evaluation of EMH. But that quickly good too complicated for the little though I was ready to apply."
+   }
+  },
+  {
+   "_id": "GwWYvsCekZ7qqnovN",
+   "parentCommentId": "MRiSxmhBcjpW4rABj",
+   "postedAt": "2020-05-12T02:06:06.357Z",
+   "baseScore": 2,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> But that quickly good too complicated for the little though I was ready to apply.\n\nDidn't stop me ;-)"
+   }
+  },
+  {
+   "_id": "MWEArph8RcLk9rTxT",
+   "parentCommentId": "48HAW4Fuv3aidJc97",
+   "postedAt": "2020-05-12T02:07:45.101Z",
+   "baseScore": 17,
+   "user": {
+    "username": "Wei_Dai",
+    "displayName": "Wei Dai"
+   },
+   "contents": {
+    "markdown": ">You don\u2019t have to be smarter than them to exploit them, since they\u2019re optimizing a different goal: keep their customers happy, instead of making maximum money for them.\r\n\r\nWhat trades does this suggest?"
+   }
+  },
+  {
+   "_id": "wXWuxyT6PxEHfTn8d",
+   "parentCommentId": "g37yHqNyzN8zFLi9P",
+   "postedAt": "2020-05-12T02:28:48.457Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Closed Limelike Curves",
+    "displayName": "Closed Limelike Curves"
+   },
+   "contents": {
+    "markdown": "I agree, in that a very small improvement on a cryptocurrency shouldn't actually result in it outcompeting everything else. The thing is that Bitcoin has at this point been completely *pummeled* by other cryptocurrencies like Ethereum or stablecoins in terms of usefulness, to the point where it seems clear to me that Bitcoin mostly exists and will continue to exist only for speculative purposes.\n\n(Also: The opposite of the virtue of lightness usually goes by the name of [conservatism bias](https://en.wikipedia.org/wiki/Conservatism_\\(belief_revision\\)) in the cognitive science literature.)"
+   }
+  },
+  {
+   "_id": "Wj5MfWx9bExLefoSP",
+   "parentCommentId": "MWEArph8RcLk9rTxT",
+   "postedAt": "2020-05-12T02:40:17.672Z",
+   "baseScore": 9,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": "Sell puts when implied volatility (IV) is higher than usual, on stocks where the IV tends to exceed the historical volatility (this is most of them, actually).\n\nWhales have to buy puts for more than they're really worth to protect their customers' portfolios from scary market volatility.\n\nBuy them back for less than you were paid for them when IV reverts to the mean. It's like selling insurance. You have to control your bet size and hedge (maybe with a cheaper put, like reinsurance) so you don't get wiped out when the disaster actually happens, but you'll get more than enough premium to make up for your losses."
+   }
+  },
+  {
+   "_id": "xwFtR8zNqk7qYTEo3",
+   "parentCommentId": "wXWuxyT6PxEHfTn8d",
+   "postedAt": "2020-05-12T08:09:22.399Z",
+   "baseScore": 5,
+   "user": {
+    "username": "ESRogs",
+    "displayName": "ESRogs"
+   },
+   "contents": {
+    "markdown": "> I agree, in that a very small improvement on a cryptocurrency shouldn't actually result in it becoming\n\nI disagree that only *very small* improvements will have a tough time against incumbents. On the other hand, I do agree that Ethereum and stablecoins offer pretty significant improvements.\n\n> it seems clear to me that Bitcoin mostly exists and will continue to exist only for speculative purposes\n\nThis is perhaps fair. But another way of saying it might be that Bitcoin has captured the *digital gold* niche. And other coins will capture other cryptocurrency use cases. Notably, ETH and stablecoins aren't really better than BTC as digital gold (a fungible digital asset of fixed supply)."
+   }
+  },
+  {
+   "_id": "4wGMJ4LXG6b3uEbRN",
+   "parentCommentId": "EqKKH5EbaRgAGdvYd",
+   "postedAt": "2020-05-12T16:03:54.283Z",
+   "baseScore": 3,
+   "user": {
+    "username": "alexf01",
+    "displayName": "alexf01"
+   },
+   "contents": {
+    "markdown": "Thats not fair to mention EMH here, the stock price rally of the last couple months had not much todo with EMH. Unless you include Central Bank adhoc overnight actions into the EMH theory. If the FED would not have stepped in with unprecedented rescue plans we would have a very different SP500 valuation today."
+   }
+  },
+  {
+   "_id": "i5qetwmFs3yQ7iJko",
+   "parentCommentId": "wRuNns3onXzJ4HbyM",
+   "postedAt": "2020-05-12T18:30:22.167Z",
+   "baseScore": 2,
+   "user": {
+    "username": "richard-meadows-1",
+    "displayName": "Richard Meadows"
+   },
+   "contents": {
+    "markdown": "> You should certainly try to test any edge you think you have, and look for missing information. If you develop a good edge it's easy to make some profit, but it's always easier to lose money if you're careless. But don't give up before you even try.\n\nYep, I agree with all of this. I guess I way I would phrase it is that we don't start with a flat prior: we have mountains of evidence that most investors underperform, and that finding an edge is difficult. Doesn't mean it's not possible, and absolutely you should try, so long as you're taking very careful steps not to fool yourself about performance, benchmarking appropriately, etc.\n\nOn the 'open secrets' - I'm writing a big effort-post right now, and this is one of my main points of confusion - would appreciate your input once it's up."
+   }
+  },
+  {
+   "_id": "Cp3ucCjNNDcexAC9s",
+   "parentCommentId": "4wGMJ4LXG6b3uEbRN",
+   "postedAt": "2020-05-15T14:03:46.033Z",
+   "baseScore": 2,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "> the stock price rally of the last couple months had not much todo with EMH.\r\n\r\nI'm not sure exactly what you're saying here - it sounds like \"the EMH didn't cause the rally\", but I don't think anyone was crediting the EMH with causing anything?\r\n\r\nIn any case, the Fed did do what they did. And one could have considered in advance the possibility that they might do so, and priced that into one's predictions. Central bank ad-hoc overnight actions are absolutely something the EMH covers - if not, the theory would be \"markets take into account all available information except that about potential central bank ad-hoc overnight actions\"."
+   }
+  },
+  {
+   "_id": "RqcmHeaZy9MnmAnaZ",
+   "parentCommentId": "qJAHFynF87yBQx7Bw",
+   "postedAt": "2020-05-15T15:06:46.056Z",
+   "baseScore": 3,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "> that time the market proved to be incapable of doing addition.\r\n\r\nThe caveat from the link that this mistake couldn't be arbitraged seems important.\r\n\r\nI need to resist the temptation here to leap from \"can't be exploited\" to \"therefore not stupid\", because that's not what you mean by stupid. But I think it seems important even if I resist that temptation."
+   }
+  },
+  {
+   "_id": "tsEKD48J4StXGp9zf",
+   "parentCommentId": "SThs48QteaLWaDGPC",
+   "postedAt": "2020-05-18T03:14:17.008Z",
+   "baseScore": 4,
+   "user": {
+    "username": "gilch",
+    "displayName": "gilch"
+   },
+   "contents": {
+    "markdown": "I think that's putting it too strongly. Even if we accept EMH, buy and hold does work. And a regularly rebalanced portfolio does even better. You can significantly underperform the market and still \"make money\"."
+   }
+  },
+  {
+   "_id": "HdvmLntTiGpZtuTXi",
+   "parentCommentId": "RqcmHeaZy9MnmAnaZ",
+   "postedAt": "2020-05-22T03:35:13.555Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Closed Limelike Curves",
+    "displayName": "Closed Limelike Curves"
+   },
+   "contents": {
+    "markdown": "This is fair and an important caveat. Pure arbitrage disappears quickly in the market. At the same time, though, no pure arbitrage profits is only necessary and not sufficient for full efficiency. An efficient market means no (or very few) positive expected utility opportunities still left around. The EMH still implies the price of shorts should have fallen until it became economically feasible to correct the mispricing."
+   }
+  },
+  {
+   "_id": "HAGQqYrBkwHwvFAsX",
+   "parentCommentId": null,
+   "postedAt": "2020-07-15T18:10:30.737Z",
+   "baseScore": 11,
+   "user": {
+    "username": "mattvdm",
+    "displayName": "mattvdm"
+   },
+   "contents": {
+    "markdown": "I recently came across Tiziana Life Sciences, a small UK biotech company with the US ticker TLSA \u2014 which is a [fat finger error](https://en.wikipedia.org/wiki/Fat-finger_error) away from Tesla ($TSLA).\n\nTesla's share price has increased by [~250%](https://finance.yahoo.com/quote/TSLA/) year-to-date. In the same period, Tiziana Life Science has increased by [~220%](https://finance.yahoo.com/quote/tlsa?ltr=1). Other biotech stocks are doing pretty well, but the small-cap index $BTEC has climbed only [~22%](https://finance.yahoo.com/quote/BTEC?ltr=1) in 2020. Perhaps I'm missing something about Tiziana's business, but it looks suspiciously like their valuation is typo-driven."
+   }
+  }
+ ]
+}

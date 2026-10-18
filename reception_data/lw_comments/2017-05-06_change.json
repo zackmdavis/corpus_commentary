@@ -1,0 +1,142 @@
+{
+ "post": {
+  "_id": "bur66BzXt5HDuCr4B",
+  "title": "Change",
+  "postedAt": "2017-05-06T21:17:45.731Z",
+  "pageUrl": "https://www.lesswrong.com/posts/bur66BzXt5HDuCr4B/change",
+  "commentCount": 10
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "Gpmz3G87BNZDexXTD",
+   "parentCommentId": null,
+   "postedAt": "2017-05-07T07:14:59.896Z",
+   "baseScore": 5,
+   "user": {
+    "username": "9eB1",
+    "displayName": "9eB1"
+   },
+   "contents": {
+    "markdown": "This was incomprehensible to me."
+   }
+  },
+  {
+   "_id": "Xr6ivXoAWxYhBThzJ",
+   "parentCommentId": null,
+   "postedAt": "2017-05-07T10:25:11.894Z",
+   "baseScore": -4,
+   "user": {
+    "username": "SquirrelInHell",
+    "displayName": "SquirrelInHell"
+   },
+   "contents": {
+    "markdown": "-1\n\nI understood the situation and I feel embarrassed about your post even though I don't know you.\n\nWith your best interests in mind, I advise you to:\n\n1.  Delete the post before too many people see it\n    \n2.  Bang your head against the wall and think deeply about your life"
+   }
+  },
+  {
+   "_id": "9KmjunPoyL3MGp9oF",
+   "parentCommentId": "Xr6ivXoAWxYhBThzJ",
+   "postedAt": "2017-05-07T15:01:27.806Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> Delete the post before too many people see it\n\nSeems kind of anti-social? I'd rather read personal blogs containing the posts that the author thought worth posting at the time, rather than blogs that have been post-publication-selected to exclude the posts that commenters pointed out make the author look bad, which suggests that I should extend the same courtesy to my readers.\n\n> think deeply about your life\n\nWorking on it, thanks!"
+   }
+  },
+  {
+   "_id": "eomcrq7JcQZTCY9x3",
+   "parentCommentId": "Xr6ivXoAWxYhBThzJ",
+   "postedAt": "2017-05-08T14:31:42.880Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "-1 to this comment. If you have a critique, you can make it clear what the critique actually is without just ridiculing someone. As is I don't even know what your critique is."
+   }
+  },
+  {
+   "_id": "apnRAEEMPn3bhayTL",
+   "parentCommentId": "eomcrq7JcQZTCY9x3",
+   "postedAt": "2017-05-08T16:25:42.265Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SquirrelInHell",
+    "displayName": "SquirrelInHell"
+   },
+   "contents": {
+    "markdown": "Fair enough, I was trying to be humorous about this but it seems it was taken seriously.\n\nMy actual critique is something like \"failing to grasp and then feeling smug about figuring out something that is so common-sense-obvious suggests some deep underlying problems with social adaptation, that the author is probably aware of and it would be rude to point them out directly, and there is little benefit to the public from exposing this particular case. it would be more interesting to analyze what made this type of thinking appear and seem subjectively normal in the first place\"\n\nThere you go"
+   }
+  },
+  {
+   "_id": "g2dfTxnMLpkjkH8FN",
+   "parentCommentId": "eomcrq7JcQZTCY9x3",
+   "postedAt": "2017-05-09T02:14:05.012Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "No, the comment was spot-on. This has no place on LW. Fake comic-rationalism and ridiculous over-literal interpretations do not assist anyone in understanding anything.\n\nMore specifically: this link should be removed because the linked post pretends to misunderstand an interaction in a way that demeans someone not participating in the discussion.\n\nedit: it's possible (even likely, from reading other parts of that blog) that the lack of understanding wasn't fake. Even so, there needs to be an acknowledgement that the confusion was due to atypical social understanding, not some intent to deceive or underlying ambiguity that requires any discussion."
+   }
+  },
+  {
+   "_id": "ksQ5u3fJq6pnK5fCF",
+   "parentCommentId": "apnRAEEMPn3bhayTL",
+   "postedAt": "2017-05-10T22:54:13.545Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> and it would be rude to point them out directly\n\nI don't think it's rude! Go ahead, [stab me with the truth](http://sl4.org/crocker.html)!\n\n> it would be more interesting to analyze what made this type of thinking appear and seem subjectively normal in the first place\n\nI can see why you might think that, but unfortunately, it's actually *not* very interesting (recovering from stress- and sleep-deprivation-induced nervous breakdown back in Feburary and trauma of subsequent involuntary \"hospitalization\" (I actually think the word *imprisonment* is more appropriate), phenomenology and family history suggesting an underlying disposition towards schizophrenia-like problems)."
+   }
+  },
+  {
+   "_id": "kRFYyETkMQCdYsrTu",
+   "parentCommentId": "g2dfTxnMLpkjkH8FN",
+   "postedAt": "2017-05-10T23:07:52.966Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> in a way that demeans someone not participating in the discussion\n\nHow is this relevant? Like, if I have a map that I claim reflects the territory, and you're saying that my map demeans someone who's not here, that doesn't say anything about whether the map predicts features of the territory that, in fact, aren't there.\n\n> atypical social understanding, not \\[...\\] underlying ambiguity\n\nThis is kind of [mind-projection-fallacious](https://en.wikipedia.org/wiki/Mind_projection_fallacy). Situations that *look* unambiguous if your expectations are *already* calibrated to them can be a *lot* harder to decipher for people with atypical social understanding, like foreigners, children, or (in this case) otherwise-mostly-ordinary adults recovering from a psychotic break."
+   }
+  },
+  {
+   "_id": "ex6Db5thm9JoQKFm3",
+   "parentCommentId": "g2dfTxnMLpkjkH8FN",
+   "postedAt": "2017-05-11T02:45:32.971Z",
+   "baseScore": 0,
+   "user": {
+    "username": "entirelyuseless",
+    "displayName": "entirelyuseless"
+   },
+   "contents": {
+    "markdown": "The irony of your comment is that your own lack of understanding (namely your original idea that Zack was \"pretending\" to misunderstand) is almost as bad a misunderstanding as the one in the post."
+   }
+  },
+  {
+   "_id": "dZ8pcRwqt9emgJWHz",
+   "parentCommentId": "ex6Db5thm9JoQKFm3",
+   "postedAt": "2017-05-11T05:57:39.658Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "In some ways, it's worse. And if it weren't already here, my post wouldn't belong on LessWrong either."
+   }
+  }
+ ]
+}

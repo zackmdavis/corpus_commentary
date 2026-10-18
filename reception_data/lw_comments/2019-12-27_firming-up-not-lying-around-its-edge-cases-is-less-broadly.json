@@ -1,0 +1,571 @@
+{
+ "post": {
+  "_id": "MN4NRkMw7ggt9587K",
+  "title": "Firming Up Not-Lying Around Its Edge-Cases Is Less Broadly Useful Than One Might Initially Think",
+  "postedAt": "2019-12-27T05:09:22.546Z",
+  "pageUrl": "https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly",
+  "commentCount": 43
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "CsAA7GQK8qZRo3P6T",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T05:43:09.005Z",
+   "baseScore": 11,
+   "user": {
+    "username": "DanielFilan",
+    "displayName": "DanielFilan"
+   },
+   "contents": {
+    "markdown": "> When's the last time you needed to consciously tell a bald-faced, _unambiguous_ lie?\u2014something that could realistically be _outright proven false_ in front of your peers, rather than dismissed with a \"reasonable\" amount of language-lawyering.\n\nI don't know about the last time I _needed_ to do so, but the last time I did so was two days ago (Christmas Eve), when (IIRC) one of my grandparents asked me if I had brought board games to my aunt and uncle's house while in the presence of my aunt, uncle, and/or cousins. In fact I had, but didn't want to say that, because I had brought them as Christmas gifts for my aunt and uncle's family, and didn't want to reveal that fact, and didn't think I could get away with being evasive, so (again, IIRC) I lied about bringing them.\n\nI have a pretty strong preference against literal/unambiguous lying, and usually I can get away with evasion when I want to conceal things, and I don't remember unambiguously lying previously, but I'm bad at remembering things and wouldn't be all that surprised if somebody showed me a recording of me telling a bald-faced lie at some other point during December."
+   }
+  },
+  {
+   "_id": "vcfXAeAvM2utHFtFb",
+   "parentCommentId": "CsAA7GQK8qZRo3P6T",
+   "postedAt": "2019-12-27T05:45:05.577Z",
+   "baseScore": 2,
+   "user": {
+    "username": "DanielFilan",
+    "displayName": "DanielFilan"
+   },
+   "contents": {
+    "markdown": "'IIRC' because I remember being asked this question multiple times and lying once as an answer, but don't remember exactly who was around or who asked the time I remember lying, and am not certain that I actually lied as opposed to being very evasive or murmuring nonsensical syllables or something."
+   }
+  },
+  {
+   "_id": "cKyNtCRspvnrorjCW",
+   "parentCommentId": "CsAA7GQK8qZRo3P6T",
+   "postedAt": "2019-12-27T05:48:44.277Z",
+   "baseScore": 7,
+   "user": {
+    "username": "DanielFilan",
+    "displayName": "DanielFilan"
+   },
+   "contents": {
+    "markdown": "I think people quite frequently tell unambiguous lies of the form \"I have read these terms and conditions\"."
+   }
+  },
+  {
+   "_id": "dkc3GWimbFwp7jRHt",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T08:36:49.302Z",
+   "baseScore": 28,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "First, some quick comments:\r\n\r\n1. Good post; I mostly agree with all specific points therein.\r\n\r\n2. I appreciate that this post has introduced me (via appropriate use of \u2018Yudkowskian\u2019 hyperlinking) to several interesting Arbital articles I\u2019d never seen.\r\n\r\n3. Relevant old post by Paul Christiano: [\u201cIf we can\u2019t lie to others, we will lie to ourselves\u201d](https://sideways-view.com/2016/11/26/if-you-cant-lie-to-others-you-must-lie-to-yourself/).\r\n\r\nAll that having been said, I\u2019d like to note that this entire project of \u201cliteral truth\u201d, \u201cwizard\u2019s code\u201d, \u201cnot technically lying\u201d, etc., etc., seems to me to be quite wrongheaded. This is because I don\u2019t think that any such approach is ethical in the first place. To the contrary: I think that there are some important categories of situations where lying is entirely permissible (i.e., ethically neutral at worst), and others where lying is, in fact, ethically *mandatory* (and where it is *wrong* not to lie). In my view, the virtue of honesty (which I take to be quite important indeed), and any commitment to any supposed \u201cliteral truth\u201d or similar policy, are *incompatible*.\r\n\r\nClearly, this view is neither obvious nor likely to be uncontroversial. However, in lieu of (though also in the service of) further elaboration, let me present this ethical question or, if you like, puzzle:\r\n\r\n**Is it ethically mandatory always to behave as if you know all information which you do, in fact, know?**"
+   }
+  },
+  {
+   "_id": "ijoKLp9ikQFPy4vae",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T09:03:43.091Z",
+   "baseScore": 38,
+   "user": {
+    "username": "quanticle",
+    "displayName": "quanticle"
+   },
+   "contents": {
+    "markdown": "> Maybe I\u2019m unusually honest\u2014or possibly unusually bad at remembering when I\u2019ve lied!?\u2014but I\u2019m not sure I even remember the last time I told an outright unambiguous lie. The kind of situation where I would need to do that just doesn\u2019t come up that often.\r\n\r\nI would say that you should consider yourself fortunate then, that you are living in a situation where most of the people surrounding you have your best interests in mind (or, at worst, are neutral towards your interests). For others in more adversarial situations, telling lies (or at least shading the truth to the extent that would be considered lying by the standards of this post) is a necessary survival skill."
+   }
+  },
+  {
+   "_id": "M52GyN2ayeFCkNhRj",
+   "parentCommentId": "ijoKLp9ikQFPy4vae",
+   "postedAt": "2019-12-27T12:26:39.857Z",
+   "baseScore": 40,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "In situations where others can hurt you, clever solution like \"no comment - because this is the situation where in some counterfactual world I would prefer to be silent\" results in you getting hurt.\n\n(A few weeks ago, everyone in the company I am working for got a questionaire from management where they were asked to list the strengths and weaknesses of their colleagues. Cleverly refusing to answer, beyond plausible excuses such as \"this guy works on a different project so I haven't really interacted with him much\", would probably cost me my job, which would be inconvenient in multiple ways. At the same time, I consider this type of request deeply repulsive -- on Monday I am supposed to be a good team member who enjoys cooperation and teambuilding, and on Tuesday I am asked to snitch on my coworkers -- from my perspective this would hurt my personal integrity much more than mere lying. Sorry, I am officially a dummy who never notices a non-trivial weakness in anyone, now go ahead and try proving that I do.)\n\nAlso, it seems to me that in real world, bulding a *prestige of a person who never lies*, is more tricky than just never lying and cleverly glomarizing. For example, the prestige you keep building for years can be ruined overnight by a third party *lying about you having lied* to them. (And conversely, you could actually have a strategy of never lying... except to a designated set of \"victims\", in situations when there is no record of what you said, and who are sufficiently lower-status that you, so if they choose to accuse you publicly, *they* will be percieved as liars.)"
+   }
+  },
+  {
+   "_id": "TddrCQgXSs9RLpS7X",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T13:29:47.640Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Dr_Manhattan",
+    "displayName": "Dr_Manhattan"
+   },
+   "contents": {
+    "markdown": "On the one hand this post does a great job of connecting to previous work, leaving breadcrumbs and shortening the inferential distance. On the other hand what is this at the end?\n\n> But one thing I'm pretty sure *won't* help much is *clever logic puzzles about implausibly sophisticated Nazis*.\n\nI have no idea what this is talking about."
+   }
+  },
+  {
+   "_id": "YaozGfoJK8aipm3bd",
+   "parentCommentId": "TddrCQgXSs9RLpS7X",
+   "postedAt": "2019-12-27T14:18:50.778Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "https://www.lesswrong.com/posts/xdwbX9pFEr7Pomaxv/meta-honesty-firming-up-honesty-around-its-edge-cases"
+   }
+  },
+  {
+   "_id": "b5WBZc8FtZBDCxXv5",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T14:58:06.870Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "I wouldn't mind removing hyperboles from socially accepted language. Don't say \"everyone\" if you don't mean literally everyone, duh. (I suppose that many General Semantic fans would agree with this.)\n\nFor me a complicated question is one that compares against an unspecified stardard, such as \"is this cake sweet?\" I don't know what kind of cakes you are used to eat, so maybe what's \"quite sweet\" to me is \"only a bit sweet\" for you. Telling literal truths, such as \"yes, it has a nonzero amount of sugar, but also a nonzero amount of other things\" will not help here. I don't know exactly how much sugar it contains. So, \"it tastes quite sweet to me\" is the best I can do here. Maybe that should be the norm.\n\nI agree about the \"nearest unblocked strategy\". You make the rules; people maximize within the rules (or break them when you are not watching). People wanting to do *X* will do the thing closest to *X* that doesn't break the most literal interpretation of the anti-*X* rules (or break the rules in a deniable way). -- On the other hand, even trivial inconveniences can make a difference. We are not discussing superhuman AI trying to get out of the box, but humans with limited willpower who may at some level of difficulty simply give up.\n\nThe linked article \"telling truth is social aggression\" ignores the fact that even in competition, people make *coalitions*. And if you have large amounts of players, math is in favor of cooperation, at least on relatively small scale. If your school grades on a curve, it discourages helping your classmate without getting anything in return. But *mutual* cooperation with one classmate still helps you both against the rest of the class. The same is true about helping people create better models of the world, when the size of your group is tiny compared to the rest of the population.\n\nThe real danger these days usually isn't Gestapo, but thousands of Twitter celebrities trying to convert parts of your writing taken out of context into polarizing tweets, and journalists trying to convert those tweets into clickbait, where the damage caused to you and your family is just an externality no one cares about. This is the elephant in the room: \"I personally don't disagree with *X*; or I disagree with *X* but I think there is no great harm in discussing it *per se*... but the *social consequences* of me being publicly known as 'person who talks about *X*' are huge, and I need to pick my battles. I have things to protect that are more important to me than my mere academic interest in *X*.\" Faced by: \"But if you lie about *X*, how can I trust that you are not lying about *Y*, too?\""
+   }
+  },
+  {
+   "_id": "EWx537XKhzg4vH6bg",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T17:20:34.924Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "Let me argue for intentionality in communication. If your intent is to inform and communicate a fact, do so. If your intend is to convince someone to undertake an action, do so. If your intent is to impress people with your knowledge and savvy, do so. If your intent is to elicit ideas and models to see where you differ, do so.\n\nOne size does not fit all situations or all people. Talking is an act. Choose the mechanisms that fit your goals, like you do in all actions.\n\nHumans aren't perfect, and most humans are actually pretty bad at both giving and receiving \"honest\" communication. Attempting to communicate with them on the level you prefer, rather than the level they're ready for, is arrogant and unhelpful.\n\nHumans are not naturally nor necessarily aligned with your goals (in fact, nobody is fully aligned, though many of us are compatible if you zoom out far enough). It's an important social fiction to pretend they are, in order to cooperate with them, but you don't have to actually believe this falsehood."
+   }
+  },
+  {
+   "_id": "xNPmi9Q6QGbcyu5BC",
+   "parentCommentId": null,
+   "postedAt": "2019-12-27T19:41:23.601Z",
+   "baseScore": 60,
+   "user": {
+    "username": "Vaniver",
+    "displayName": "Vaniver"
+   },
+   "contents": {
+    "markdown": "It seems to me like 'intent to inform' is worth thinking about in the context of its siblings; 'intent to misinform' and 'intent to conceal.' Cousins, like 'intent to aggrandize' or 'intent to seduce' or so on, I'll leave to another time, tho you're right to point out they're almost always present, if just by being replaced by their reaction (like self-deprecation, to be sure of not self-aggrandizement).\n\nQuakers were long renowned for following four virtues: peace, equality, simplicity, and truth. Unlike wizards, they have the benefit of being real, and so we can get more out of their experience of having to actually implement those virtues in a sometimes hostile world that pushes for compromises. So I pulled out my copy of Some Fruits of Solitude by [William Penn](https://en.wikipedia.org/wiki/William_Penn), and the sections on Truth and Secrecy are short enough to quote in full (including Justice, which is in the middle):\n\n> Truth\n> \n> 144\\. When you speak, be sure to speak the truth, for misleading is halfway to lying, and lying is the whole way to Hell.\n> \n> Justice\n> \n> 145\\. Don't believe anything against another unless you have good grounds. And don't share anything that might hurt another, unless it could cause greater hurt to others to keep it secret.\n> \n> Secrecy\n> \n> 146\\. It is wise not to try to find out a secret, and honest not to reveal one.\n> \n> 147\\. Only trust yourself, and no one will betray you.\n> \n> 148\\. Excessive openness has the mischief of treachery, though not the malice.\n\nOne of the bits that fascinated me when I first read it was 146, which pretty firmly separates 'intent to inform' from 'honesty'; there is such a thing as ownership of information, and honesty doesn't involve giving up on that, or giving up on having secrets yourself.\n\nWhat's also interesting to me is that several of them embody bits of information about the social context. 145, for example, is good advice in general, but especially important if you have a reputation for telling the truth; then you become a target for rumor-starters, as people would take seriously stories you repeat even if they wouldn't take them seriously from the original source. It also covers situations like [Viliam's](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly#M52GyN2ayeFCkNhRj), drawing a line that determines which negative beliefs should be broadcast. And in 146 again, being able to respond to questions about secrets with \"I'd rather not say\" relies on a social context where people think it wise to not press for further details (because otherwise you encourage a lie, instead of a straightforward \"please direct your attention elsewhere.\")."
+   }
+  },
+  {
+   "_id": "aRCFMLDfxFdRide9S",
+   "parentCommentId": "xNPmi9Q6QGbcyu5BC",
+   "postedAt": "2019-12-28T05:40:58.820Z",
+   "baseScore": 3,
+   "user": {
+    "username": "romeostevensit",
+    "displayName": "romeostevensit"
+   },
+   "contents": {
+    "markdown": "But I'm not trying to conceal information. I just want to ensure that the information is only engaged with in the context that doesn't lead people to draw the obviously wrong conclusions."
+   }
+  },
+  {
+   "_id": "HJBgHj2QjTuAZugRJ",
+   "parentCommentId": "xNPmi9Q6QGbcyu5BC",
+   "postedAt": "2019-12-28T06:10:43.439Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "This is personally quite helpful, thanks for posting it."
+   }
+  },
+  {
+   "_id": "T6LusctgEcFf2u4Qh",
+   "parentCommentId": "aRCFMLDfxFdRide9S",
+   "postedAt": "2019-12-28T06:37:58.742Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Vaniver",
+    "displayName": "Vaniver"
+   },
+   "contents": {
+    "markdown": "That feels like straightforwardly part of 'intent to inform', where if you expect someone to misunderstand you if you say X, then you don't say X. (And it seems like 148 applies.)"
+   }
+  },
+  {
+   "_id": "8jWdq8t6WMHKq8Sbg",
+   "parentCommentId": "HJBgHj2QjTuAZugRJ",
+   "postedAt": "2019-12-28T06:38:51.106Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Vaniver",
+    "displayName": "Vaniver"
+   },
+   "contents": {
+    "markdown": "I recommend [the whole book](http://businessbuildersbanquet.com/software/pennfruit.pdf); it's quite short. (Tho looking at the linked copy, I see it's the original form, with all the archaisms; the physical one I have is [edited into modern English by Eric K. Taylor](https://www.amazon.com/Some-Fruits-Solitude-TAYLOR-ERIC/dp/0836192052).)"
+   }
+  },
+  {
+   "_id": "irz8qPjF6L47m9Dxp",
+   "parentCommentId": "T6LusctgEcFf2u4Qh",
+   "postedAt": "2019-12-28T09:08:50.661Z",
+   "baseScore": 2,
+   "user": {
+    "username": "romeostevensit",
+    "displayName": "romeostevensit"
+   },
+   "contents": {
+    "markdown": "It's a form of writing the bottom line first and grants wide enough latitude to justify maintaining information asymmetries for personal benefit. It's even true a decent amount of the time, which is what makes it so dangerous."
+   }
+  },
+  {
+   "_id": "SW9DsCeyxKj4bWMuG",
+   "parentCommentId": "CsAA7GQK8qZRo3P6T",
+   "postedAt": "2019-12-29T17:24:47.037Z",
+   "baseScore": 7,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I think one could argue that \"have you brought board games?\" isn't really intended to include the insides of yet-unopened presents in its scope, in which case you weren't really lying.\n\n(I'm not sure whether I *would* argue that. It might depend on whether Christmas Day was nearer the start or the end of your stay...)"
+   }
+  },
+  {
+   "_id": "E2rTRnPhSAnHb9e5q",
+   "parentCommentId": null,
+   "postedAt": "2019-12-29T19:17:19.665Z",
+   "baseScore": 37,
+   "user": {
+    "username": "Yvain",
+    "displayName": "Scott Alexander"
+   },
+   "contents": {
+    "markdown": "At the risk of being self-aggrandizing, I think the idea of [axiology vs. morality vs. law](https://slatestarcodex.com/2017/08/28/contra-askell-on-moral-offsets/) is helpful here.\n\n\"Don't be misleading\" is an axiological commandment - it's about how to make the world a better place, and what you should hypothetically be aiming for absent other considerations.\n\n\"Don't tell lies\" is a moral commandment. It's about how to implement a pale shadow of the axiological commandment on a system run by duty and reputation, where you have to contend with stupid people, exploitative people, etc.\n\n(so for example, I agree with you that the Rearden Metal paragraph is misleading and bad. But it sounds a lot like the speech I give patients who ask for the newest experimental medication. \"It passed a few small FDA trials without any catastrophic side effects, but it's pretty common that this happens and then people discover dangerous problems in the first year or two of postmarketing surveillance. So unless there's some strong reason to think the new drug is better, it's better to stick with the old one that's been used for decades and is proven safe.\" I know and you know that there's a subtle difference here and the Institute is being bad while I'm being good, but any system that tries to implement reputation loss for the Institute at scale, implemented on a mob of dumb people, is pretty likely to hurt me also. So morality sticks to bright-line cases, at the expense of not being able to capture the full axiological imperative.)\n\nThis is part of what you mean when you say the report-drafting scientist is \"not a bad person\" - they've followed the letter of the moral law as best they can in a situation where there are lots of other considerations, and where they're an ordinary person as opposed to a saint laser-focused on doing the right thing at any cost. This is the situation that morality (as opposed to axiology) is designed for, your judgment (\"I guess they're not a bad person\") is the judgment that morality encourages you to give, and this shows the system working as designed, ie meeting its own low standards.\n\nAnd then the legal commandment is merely \"don't outright lie under oath or during formal police interrogations\" - which (impressively) is probably \\*still\\* too strong, in that we all hear about the police being able to imprison basically whoever they want by noticing small lies committed by accident or under stress.\n\nThe \"wizard's oath\" feels like an attempt to subject one's self to a stricter moral law than usual, while still falling far short of the demands of axiology."
+   }
+  },
+  {
+   "_id": "YHFhDyYnQM38uJYZS",
+   "parentCommentId": null,
+   "postedAt": "2020-01-10T00:58:42.458Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Curated.\n\nThis post crystallized what I now think of as one of the major [open problems in rationality](https://www.lesswrong.com/posts/gX8fcAwk3HGkFyJgk/what-are-the-open-problems-in-human-rationality#6vqKb4wwgvpfRxm64), and in the (related but distinct) domain of intellectual integrity. While it doesn't propose solutions, I think clearly articulating a problem, and [becoming deconfused](https://www.lessestwrong.com/posts/TM5abitFvrzb8DP3e/strategy-is-the-deconfusion-of-action) about it, is often a good first step for tackling hard problems.\n\nTwo criticisms I'd make of this post are:\n\n*   It'd be slightly nicer if it actually had a crisp summary of the problem at the end. I felt like I understood the \"open problem of 'real' honesty\" by the end of the post, but there wasn't a succinct paragraph I could copy into another thread to explain it. (I think this is was somewhat complicated by the final paragraphs aiming more to tie this into a critique of [Meta-Honesty](https://www.lesswrong.com/posts/xdwbX9pFEr7Pomaxv/meta-honesty-firming-up-honesty-around-its-edge-cases) than to spell out the open problem)\n*   Relatedly... I found this underwhelming as a critique of Meta-Honesty. The fact that Meta-Honesty does not solve the most important open problem in honesty (which, notably, neither does this post!) doesn't say much about whether Meta-Honesty is still useful for other reasons. I think Zack underestimates how important clear norms around Not-Lying are. And meanwhile, when you're in a confusing domain without a way forward, [hacking away at the edges](https://www.lesswrong.com/posts/guRASsKLfdQ5m7LLw/hard-problem-hack-away-at-the-edges) is an important tool to have in your toolbox."
+   }
+  },
+  {
+   "_id": "EKK6iGSSA3AMpQHmx",
+   "parentCommentId": "EWx537XKhzg4vH6bg",
+   "postedAt": "2020-01-10T17:26:43.851Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Ericf",
+    "displayName": "Ericf"
+   },
+   "contents": {
+    "markdown": "The underlying purpose of any sort of \"don't lie\" moral code is to limit what you can say when \"you intend to convince someone to undertake an action\" or \"impress people with ...\""
+   }
+  },
+  {
+   "_id": "D5QiETbTcRSGsqaq4",
+   "parentCommentId": null,
+   "postedAt": "2020-01-11T07:15:57.868Z",
+   "baseScore": 10,
+   "user": {
+    "username": "lionhearted",
+    "displayName": "lionhearted (Sebastian Marshall)"
+   },
+   "contents": {
+    "markdown": "Lots of great comments already so not sure if this will get seen, but a couple possibly useful points \u2014\n\n**Metaphors We Live By** by George Lakoff is worth a skim \u2014 [https://en.wikipedia.org/wiki/Metaphors\\_We\\_Live_By](https://en.wikipedia.org/wiki/Metaphors_We_Live_By)\n\nThen I think **Wittgenstein's Tractatus is good, but his war diaries are even better** \u2014 [http://www.wittgensteinchronology.com/7.html](http://www.wittgensteinchronology.com/7.html)\n\n*\"\\[Wittgenstein\\] sketches two people, A and B, swordfighting, and explains how this sketch might assert \u2018A is fencing with B\u2019 by virtue of one stick-figure representing A and the other representing B. In this picture-writing form, the proposition can be true or false, and its sense is independent of its truth or falsehood. LW declares that \u2018It must be possible to demonstrate everything essential by considering this case\u2019.\"*\n\nLakoff illuminates some common metaphors \u2014 for example, a positive-valence mood in American English is often \"up\" and a negative-valence mood in American English is often \"down.\"\n\nIf you combine Lakoff and Wittgenstein, using an accepted metaphor from your culture (\"How are you?\" \"I'm *flying* today\") makes the picture you paint for the other person correspond to your mood (they hear the emphasized \"flying\" and don't imagine you literally flying, but rather in a high-positive valence mood) \u2014 then you're in the realm of true.\n\nThere's independently some value in investigating your metaphors, but if someone asks me \"Hey how'd custom building project your neighbor was doing go?\" and I answer \"Man, it was a fuckin' trainwreck\" \u2014 you know what I'm saying: not only did the project fail, but it failed in a way that caused damage and hassle and was unaesthetic, even over and beyond what a normal \"mere project failure\" would be.\n\nThe value in metaphors, I think, is that you can get high information density with them. \"Fuckin' trainwreck\" conveys a lot of information. The only more denser formulation might be \"Disaster\" \u2014 but that's also a metaphor if it wasn't *literally* a disaster. Metaphors are sneaky in that way, we often don't notice them \u2014 but they seem like a valid high-accuracy usage of language if deployed carefully.\n\n*(Tangentially: Is \"deployed\" there a metaphor? Thinking... thinking... yup. Lakoff's book is worth skimming, we use a lot more metaphors than we realize...)*"
+   }
+  },
+  {
+   "_id": "QYbi9cjnZq7rwE6SM",
+   "parentCommentId": "dkc3GWimbFwp7jRHt",
+   "postedAt": "2020-01-13T05:50:31.686Z",
+   "baseScore": 1,
+   "user": {
+    "username": "elriggs",
+    "displayName": "Logan Riggs"
+   },
+   "contents": {
+    "markdown": "If I understand your puzzle right, then poker, surprise parties/engagements, and those lying games you play with your friends where some people are \u201cmurderers\u201d but are trying to hide the fact.\n\nIs your puzzle different than that?"
+   }
+  },
+  {
+   "_id": "3kgLSMzhCBCEvmtAn",
+   "parentCommentId": "QYbi9cjnZq7rwE6SM",
+   "postedAt": "2020-01-13T06:16:04.009Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "No, that is not the sort of thing I have in mind. Exclude games, performances, and similar things where you are (by consent of all involved) playing a role or otherwise \u201cbracketing\u201d your utterances within an artificial context, and consider the question again."
+   }
+  },
+  {
+   "_id": "ooaGGo8kJwzHpQQ6a",
+   "parentCommentId": "3kgLSMzhCBCEvmtAn",
+   "postedAt": "2020-01-13T07:08:50.632Z",
+   "baseScore": 1,
+   "user": {
+    "username": "elriggs",
+    "displayName": "Logan Riggs"
+   },
+   "contents": {
+    "markdown": "Ethical is undefined here, but if it was a defined standard, you\u2019d just pick the available action that scores well on that standard, even if it doesn\u2019t satisfy the constraint \u201cbehave as if you know all information you in fact know\u201d (which I think the hiding Jews from a Nazi is the classic example)\n\nIf the point of solving the puzzle is to better understand the concept \u201cethics in relation to truth-acting\u201d then I don\u2019t think I\u2019ve added much by the Nazi example or the games & performances ones.\n\nWhat do you believe the point of the puzzle is? What would a good solution entail or imply?"
+   }
+  },
+  {
+   "_id": "YGmLttFe3Gg7X4n4Q",
+   "parentCommentId": "ooaGGo8kJwzHpQQ6a",
+   "postedAt": "2020-01-13T07:20:38.556Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "The point of me positing the puzzle is for you (or anyone who cares to tackle this) to say what your chosen / preferred / ideal ethics answers to this; or, alternatively or additionally, what your moral intuitions say about this (and if your ethics, or your moral intuitions, or both, say *nothing* to this, then that too is an interesting and important fact). And the point of the puzzle itself is that the answer isn\u2019t necessarily obvious.\r\n\r\n\u201cDo what your ethics says you should do\u201d is therefore a non-answer.\r\n\r\n> If the point of solving the puzzle is to better understand the concept \u201cethics in relation to truth-acting\u201d then I don\u2019t think I\u2019ve added much by the Nazi example or the games & performances ones.\r\n\r\nI agree."
+   }
+  },
+  {
+   "_id": "qvjEFTMx44itxAfhp",
+   "parentCommentId": "YGmLttFe3Gg7X4n4Q",
+   "postedAt": "2020-01-13T07:47:58.526Z",
+   "baseScore": 4,
+   "user": {
+    "username": "elriggs",
+    "displayName": "Logan Riggs"
+   },
+   "contents": {
+    "markdown": "Thanks for the clarification.\n\nFor me the answer is no, I don\u2019t believe it\u2019s ethically mandatory to share all information I know to everyone if they happen to ask the right question. I can\u2019t give a complete formalization of why, but three specific situations are 1) keeping someone else\u2019s information secret & 2) when I predict the other person will assume harmful implications that aren\u2019t true &3) when the other person isn\u2019t in the right mind to hear the true information.\n\nEx for #3: you would like your husband to change more diapers and help clean up a little more before they leave work every day, but you just thought of it right when he came home from a long work day. It would be better to wait to give a criticism when you\u2019re sure they\u2019re in a good mood.\n\nAn example for #2: I had a friend have positive thoughts towards a girl that wasn\u2019t his girlfriend. He was confused about this and TOLD HIS GIRLFRIEND WHEN THEY WERE DATING LONG DISTANCE. The two girls have had an estranged relationship for years since.\n\nIf I was my friend, I would understand that positive thoughts towards a pretty girl my age doesn\u2019t imply that I am required to romantically engage them. Telling my girlfriend about these thoughts might be truthful and honest, but it would likely cause her to feel insecure and jealous, even though she has nothing to worry about."
+   }
+  },
+  {
+   "_id": "Te6myXcHxY8dQRuym",
+   "parentCommentId": "qvjEFTMx44itxAfhp",
+   "postedAt": "2020-01-13T08:04:59.277Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> For me the answer is no, I don\u2019t believe it\u2019s ethically mandatory to share all information I know to everyone if they happen to ask the right question.\r\n\r\nNote that this is an answer to a considerably narrower question than the one I asked.\r\n\r\nThat having been said, I think at least some of what you mentioned / described was relevant. In any case, given your answer, the answer to the broader question must necessarily also be \u201cno\u201d.\r\n\r\nSo, what I wonder now is whether anyone is willing to take, and defend, the opposite view: that it *is* ethically mandatory at all times to behave as if you know all the information which, in fact, you know. (It is, I know, an odd\u2014or, at least, oddly formulated\u2014ethical principle. And yet it seems to me that it *directly* connected to the subject of the OP\u2026)"
+   }
+  },
+  {
+   "_id": "5i5oNoDvSgfkDeC7x",
+   "parentCommentId": "Te6myXcHxY8dQRuym",
+   "postedAt": "2020-01-13T08:20:43.566Z",
+   "baseScore": 2,
+   "user": {
+    "username": "elriggs",
+    "displayName": "Logan Riggs"
+   },
+   "contents": {
+    "markdown": "I realized afterwards that only \u201cnot sharing others secrets\u201d is an example of \u201cit\u2019s ethical to lie if someone asks a direct question\u201d. The other two were more \u201cdon\u2019t go out of your way to tell the whole truth in this situation (but wait for a better situation)\u201d\n\nI do believe my ethics is composed of wanting what\u2019s \u201cbest\u201d for others and truthful communication is just an instrumental goal.\n\nIf I had to blatantly lie every day, so that all my loved ones could be perfectly healthy and feel great, I would lie every day.\n\nI don\u2019t think anyone would terminally value honesty (in any of it\u2019s forms)."
+   }
+  },
+  {
+   "_id": "gSKeZ7QJhsADqHXdP",
+   "parentCommentId": "E2rTRnPhSAnHb9e5q",
+   "postedAt": "2020-01-26T04:53:32.319Z",
+   "baseScore": 18,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Thanks for your patience.)\n\n> This is part of what you mean when you say the report-drafting scientist is \"not a bad person\"\u2014they've followed the letter of the moral law as best they can [...] your judgment (\"I guess they're not a bad person\") is the judgment that morality encourages you to give\n\nSo, from my perspective as an author [(which, you know, could be wrong)](http://unremediatedgender.space/2016/Sep/psychology-is-about-invalidating-peoples-identities/), that line was mostly a strategic political concession: there's [this persistent problem where](https://www.lesswrong.com/posts/5nH5Qtax9ae8CQjZ9/no-it-s-not-the-incentives-it-s-you#DG4spyd6Ydvquh625) when you try to _talk_ about harms from people being complicit with systems of deception (not even to _do_ anything about it, but just to [_talk about the problem_](https://www.lesswrong.com/posts/uHYYA32CKgKT3FagE/hold-off-on-proposing-solutions)), the discussion _immediately_ [gets derailed on](https://www.lesswrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself), \"What?! Are you saying I'm a _bad person_!? How dare you!\" ... which is a much less interesting topic.\n\nThe first line of defense against this kind of derailing is to be very clear about what is being claimed (which is just good intellectual practice that you should be doing anyway): \"By _systems of deception_, I mean processes that systematically result in less accurate beliefs\u2014the English word 'deception' is often used with moralizing connotations, but I'm talking about a technical concept that I can [implement as literal executable Python programs](https://www.lesswrong.com/posts/fmA2GJwZzYtkrAKYJ/algorithms-of-deception). Similarly, while I don't yet have an elegant reduction of the underlying game theory corresponding to the word 'complicity' ...\"\n\nThe second line of defense is to throw the potential-derailer a bone in the form of an exculpatory [disclaimer](http://www.overcomingbias.com/2008/06/against-disclai.html): \"I'm not trying to blame anyone, I'm just saying that ...\" Even if (all other things being equal) you _would_ prefer to socially punish complicity with systems of deception, by precomitting to relinquish the option to punish, you can buy a better chance of _actually having a real discussion about the problem_. (Making the precommitment credible is tough, though.)\n\nIronically, this is an instance of the same problem it's trying to combat (\"distorting communication to appease authority\" and \"distorting communication in order to appease people who are afraid you're trying to [scapegoat them on the pretext](https://www.lesswrong.com/posts/r2dTchodfqX4o5DYH/blame-games) of them distorting communication to appease authority\" are both instances of \"distorting communication because The Incentives\"), but hopefully a less severe one, whose severity is further [reduced by](https://www.lesswrong.com/posts/KzAG4yWQJosmEjHe2/blatant-lies-are-the-best-kind) _explaining that I'm doing it_ in the comments.\n\nYou can also think of the \"I'm not blaming you, but seriously, this is harmful\" maneuver as an interaction between levels: an axiological attempt to push for a _higher moral standard_ in given community, while acknowledging that the community does not _yet_ uphold the higher standard (analogous to moral attempt to institute tougher laws, while acknowledging that the sin in question is not a crime under _current_ law).\n\n> noticing small lies committed by accident or under stress.\n\nLies committed \"by accident\"? What, like unconsciously? (Maybe the part of your brain that generated this sentence doesn't [disagree with Jessica](https://www.lesswrong.com/posts/bSmgPNS6MTJsunTzS/maybe-lying-doesn-t-exist#vCj6TAZmuGzaRXH3M) about the meaning of the word _lie_ as much as the part of your brain that argues about [intensional](https://www.lesswrong.com/posts/HsznWM9A7NiuGsp28/extensions-and-intensions) definitions??)"
+   }
+  },
+  {
+   "_id": "vMSHHmsxsBYiJDcWc",
+   "parentCommentId": null,
+   "postedAt": "2020-12-11T17:47:46.128Z",
+   "baseScore": 2,
+   "user": {
+    "username": "abramdemski",
+    "displayName": "abramdemski"
+   },
+   "contents": {
+    "markdown": "A well-written post on an important topic."
+   }
+  },
+  {
+   "_id": "YFPi2tKAuCuGZ4dZr",
+   "parentCommentId": null,
+   "postedAt": "2020-12-13T03:32:21.072Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Nominated, for the reasons outlined in my curation post."
+   }
+  },
+  {
+   "_id": "f6X8xyHA8cR8tG7Mq",
+   "parentCommentId": null,
+   "postedAt": "2020-12-27T18:27:41.232Z",
+   "baseScore": 15,
+   "user": {
+    "username": "fiddler",
+    "displayName": "fiddler"
+   },
+   "contents": {
+    "markdown": "To effectively extend on Raemon's commentary:\n\nI think this post is quite good, overall, and adequately elaborates on the disadvantages and insufficiencies of the Wizard's Code of Honesty beyond the irritatingly pedantic idiomatic example. However, I find the implicit thesis of the post deeply confusing (that EY's post is less \"broadly useful\" than it initially appears). As I understand them, the two posts are saying basically identical things, but are focused in slightly different areas, and draw very different conclusions. EY's notes the issues with the wizard's code briefly, and proceeds to go into a discussion of a potential replacement, meta-honesty, that came be summarized as \"be unusually honest, and be absolutely honest about when you'd lie or refuse to answer questions.\" This post goes into detail about why literal honesty is insufficient in adversarial scenarios, and an excessive burden in friendly scenarios. This post then claims to \"argue that this \"firming up\" is of limited practical utility given [the ubiquity](https://unstableontology.com/2019/09/10/truth-telling-is-aggression-in-zero-sum-frames/) of *other* kinds of deception,\" which I think is unsupported by the arguments given in the post.\n\nAs I read the original essay, the entirety of the friendly scenarios mentioned in this post are dealt with extremely neatly by meta-honesty: be unusually honest does not preclude you from making jokes, using English, etc. Indeed, as this post argues, you don't need fancy ethics to figure out the right level of honesty with friends in the vast majority of scenarios. There are a few scenarios mentioned in the original essay where this is false, but they are also well-handled by meta-honesty applied correctly.\u00a0\n\nThe more interesting objection is what occurs in adversarial situations, where the wizard's code is hopelessly underspecified. I'd really like to see more engagement about how meta-honesty interacts with the Rearden situation, for example, from the author of this essay, because as I understand it, meta-honesty is designed to enable the exact kind of Bayesian inference that this essay dismisses as impossible. If you are in a room with our hypothetical scientist-intern, you can ask \"Would you produce statements that you feel could be misleading in order to follow the wishes of your employer?\" or some similar questions, allowing you to acquire all of the information necessary to Bayes out what this statement actually means. I think the bigger issue with this isn't anything about honesty, it's about what the State Science Institute is, and the effects that has on citizens.\u00a0\n\nAnother potential objection to meta-honesty based in this essay is that the type of deception involved in this essay could occur on the meta-honest level. I think that this is resolved by a difference in assumptions: EY assumes that at least the two conversational agents are roughly Bayesian, and specifies that no literal falsehoods can be provided, meaning meta-honest conversation should be strictly informative.\u00a0\n\nFinally, as this essay points out, EY's original essay seems somewhat narrow, especially with the Bayesian stipulations. However, I think this is also addressed by the previous argument about how friendly situations are almost certainly not edge cases of honesty, meaning that definitionally, this type of work is only useful in extreme hypotheticals. The importance of this approach beyond this extreme scenarios, and the added importance in them, is discussed in the original essay.\n\nOverall, I think this is a quite-good piece of rationalist writing, but I think it is not in opposition to the post it purports to respond to. Given that, I'm not sure what makes this post unique, and I suspect that there are quite a lot of high-quality posts that have other distinguishing factors above and beyond this post."
+   }
+  },
+  {
+   "_id": "nZokJDqp5tPa2at3B",
+   "parentCommentId": null,
+   "postedAt": "2020-12-30T05:39:56.354Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Self-review.) I _oppose_ including this post in a Best-of-2019 collection. I stand by what I wrote, but, [as with \"Relevance Norms\"](https://www.lesswrong.com/posts/GSz8SrKFfW7fJK2wN/relevance-norms-or-gricean-implicature-queers-the-decoupling?commentId=6B9YyP9WuY8fBxBPy), this was a \"defensive\" post; it exists as a reaction to \"Meta-Honesty\"'s candidacy in the 2018 Review, rather than trying to advance new material on its own terms.\n\nThe analogy between [patch-resistence in AI alignment](https://arbital.greaterwrong.com/p/patch_resistant) and humans finding ways to dodge the spirit of deontological rules, is very important, but not enough to carry the entire post.\n\nA standalone canon-potential explanation of why I think we need a broader conception of honesty than avoiding individually false statements would look more like [\"Algorithms of Deception\"](https://www.lesswrong.com/posts/fmA2GJwZzYtkrAKYJ/algorithms-of-deception) (although that post didn't do so great karma-wise; I'm not sure whether because people don't want to read code, it was slow to get Frontpaged (as I recall), or if it's bad for some other reason).\n\nI intend to reply to [Fiddler's review](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly?commentId=f6X8xyHA8cR8tG7Mq), but likely not in a timely manner."
+   }
+  },
+  {
+   "_id": "9YkXk43b4LC4vaCTs",
+   "parentCommentId": null,
+   "postedAt": "2021-03-03T04:12:07.346Z",
+   "baseScore": 34,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Cade Metz hadn't had this much trouble with a story in years. _Professional journalists_ don't get _writer's block!_ Ms. Tam had rejected his original draft focused on the subject's early warnings of the pandemic. Her feedback hadn't been very specific ... but then, it didn't _need_ to be.\n\nFor contingent reasons, the reporting for this piece had stretched out over _months_. He had _tons_ of notes. It shouldn't be hard to come up with a story that would meet Ms. Tam's approval.\n\nThe deadline loomed. Alright, well, one sentence at a time. [He wrote](https://archive.is/0Ghdl#selection-925.0-929.183):\n\n> In one post, he aligned himself with Charles Murray, who proposed a link between race and I.Q. in \"The Bell Curve.\"\n\nMetz asked himself: _Is this statement actually and literally true?_\n\n_Yes!_ The subject _had_ aligned himself with Charles Murray in one post: [\"The only public figure I can think of in the southeast quadrant with me is Charles Murray.\"](https://slatestarcodex.com/2016/05/23/three-great-articles-on-poverty-and-why-i-disagree-with-all-of-them/).\n\n> In another, he pointed out that Mr. Murray believes Black people \"are genetically less intelligent than white people.\"\n\nMetz asked himself: _Is this statement actually and literally true?_\n\n_Yes!_ The subject _had_ pointed that out in another post: [\"Consider Charles Murray saying that he believes black people are genetically less intelligent than white people.\"](https://slatestarcodex.com/2017/06/21/against-murderism/)\n\nHaving gotten started, the rest of the story came out easily. Why _had_ he been so reluctant to write the new draft, as if in fear of some state of sin? This was his profession\u2014to seek out all the news that's fit to print, and bring it to the light of the world!\n\nFor that was his mastery."
+   }
+  },
+  {
+   "_id": "Kd5fhGqgR93W3HgTX",
+   "parentCommentId": "9YkXk43b4LC4vaCTs",
+   "postedAt": "2021-03-03T05:51:13.116Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Good point.\n\nIn Eliezer\u2019s defense I\u2019ll note that the original proposal took pains to say \u201cAt least as honest as an unusually honest person AND THEN also truthful in communicating about your meta-level principles about when you\u2019ll lie\u201d, so the above isn\u2019t a literal following of what Eliezer said (because I don\u2019t think an unusually honest person would write that). But I think that was not a very natural idea, and I mostly think of meta-honesty as about being honest on the meta level, and that it\u2019s important, but I don\u2019t think of it as really tied up with the object level being super honest."
+   }
+  },
+  {
+   "_id": "jbfsDWsLkqLxpXvpT",
+   "parentCommentId": "Kd5fhGqgR93W3HgTX",
+   "postedAt": "2021-03-03T05:53:40.359Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "New jargon term: SuperMetaHonest"
+   }
+  },
+  {
+   "_id": "DhAmtr5mugkS7sgHo",
+   "parentCommentId": "jbfsDWsLkqLxpXvpT",
+   "postedAt": "2021-03-03T06:15:07.762Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "And if I\u2019m honest about being SuperMetaHonest, then I\u2019m: SuperDuperMetaHonest."
+   }
+  },
+  {
+   "_id": "4LvpgFKPCfpHoJath",
+   "parentCommentId": "DhAmtr5mugkS7sgHo",
+   "postedAt": "2021-03-03T06:39:35.070Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "If I wrote a sequence about it it'd be my SuperDuperMetaHonestEpistemicOpus"
+   }
+  },
+  {
+   "_id": "E4DbAKBi6ypf7Kete",
+   "parentCommentId": "4LvpgFKPCfpHoJath",
+   "postedAt": "2021-03-03T06:43:35.973Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "\u201cSuperDuperMetaHonestEpistemicOpus\u201d\n\n\u201cIf you try to Glomarize you will be too verbocious\u201d"
+   }
+  },
+  {
+   "_id": "mikodwpE3nsksB9A3",
+   "parentCommentId": "dkc3GWimbFwp7jRHt",
+   "postedAt": "2021-12-31T19:51:40.240Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Dacyn",
+    "displayName": "Dacyn"
+   },
+   "contents": {
+    "markdown": "> Is it ethically mandatory always to behave as if you know all information which you do, in fact, know?\r\n\r\nMaybe I am missing the point, but since you do know all information which you do in fact, know, wouldn't behaving as if you do just mean behaving... the way in which you behave? In which case, isn't the puzzle meaningless?\r\n\r\nOn the other hand, if we understand the meaning of the puzzle to be illuminated by elriggs' first reply to it, we could rephrase it (or rather its negation) as follows:\r\n\r\n> Is it ever ethically acceptable to play a role, other than one of our common \"game\" roles like poker player, surprise party thrower, etc.\r\n\r\nI would answer this question as \"yes\", but with a further appeal to honesty in my reasoning: I think that sometimes the inferential distance between you and the people around you is so great that the only way you can try to bridge it is by putting yourself into a role that they can understand. I can give more details over PM but am reluctant to share publically."
+   }
+  },
+  {
+   "_id": "uArsm27vYHCfcsWft",
+   "parentCommentId": "mikodwpE3nsksB9A3",
+   "postedAt": "2022-01-01T07:18:08.626Z",
+   "baseScore": 5,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Maybe I am missing the point, but since you do know all information which you do in fact, know, wouldn\u2019t behaving as if you do just mean behaving\u2026 the way in which you behave? In which case, isn\u2019t the puzzle meaningless?\r\n\r\nThis is true in the same technically-correct-but-useless sense that it\u2019s true to say something like \u201cchoosing what to do is impossible, since you will in fact do whatever you end up doing\u201d. Unless we believe in substance dualism, or magic, or what have you, we have to conclude that our actions are determined, right? So when you do something, it\u2019s impossible for you to have done something different! Well, ok, but having declared that, we do still have to figure out what to have for dinner, and which outfit to wear to the party, and whether to accept that job offer or not.\r\n\r\nNeither do I think that talk of \u201cplaying roles\u201d is very illuminating here.\r\n\r\nFor a better treatment of the topic, see [this recent comment by Viliam](https://www.lesswrong.com/posts/YGB5f7kioXDXNAwLx/privacy-and-manipulation-1?commentId=5Dy3yYiZ2E3WgokAN)."
+   }
+  },
+  {
+   "_id": "upHBNRumnmFvzw62G",
+   "parentCommentId": "uArsm27vYHCfcsWft",
+   "postedAt": "2022-01-01T11:26:20.575Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Dacyn",
+    "displayName": "Dacyn"
+   },
+   "contents": {
+    "markdown": "OK, fair enough. So you are asking something like \"is it ever ethical to keep a secret?\" I would argue yes, because different people are entitled to different parts of your psyche. E.g. what I am willing to share on the internet is different from what I am willing to share in real life. Or am I missing something again?"
+   }
+  },
+  {
+   "_id": "pk7YFguij6Bg3FY7M",
+   "parentCommentId": "upHBNRumnmFvzw62G",
+   "postedAt": "2022-01-01T22:51:18.620Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Or am I missing something again?\r\n\r\nPerhaps. Consider this scenario:\r\n\r\nYour best friend Carol owns a pastry shop. One day you learn that her store manager, Dave, is embezzling large sums of money from the business. What do you do?\r\n\r\nSilly question, obvious answer: tell Carol at once! Indeed, failing to do so would be a betrayal\u2014later, when Carol has to close the shop and file for bankruptcy, her beloved business ruined, and she learns that you *knew* of Dave\u2019s treachery and said nothing\u2014how can you face her? The friendship is over. It\u2019s quite clear: if you know that the guy is stealing, you will tell Carol, period.\r\n\r\nNow suppose that Dave, the pastry shop manager, is actually also a friend of yours, and your knowledge of his crime is not accidental but comes because he confides in you, having first sworn you to secrecy. Foolishly, you agreed\u2014a poor decision in retrospect, but such is life.\r\n\r\nAnd now: (a) you have information (Dave is stealing from Carol); (b) ordinarily, having such information dictates your behavior in a clear way (you must take it at once to Carol); (c) yet you have sworn to keep said information secret.\r\n\r\nThus the question: are you obligated to behave as if you know this information (i.e., to inform Carol of Dave\u2019s treachery)? Or, is it morally permissible for you to behave as if you know nothing (and thus to do nothing\u2014and not only that, but to lie if Carol asks \u201cdo you know if Dave is stealing from the shop?\u201d, etc.)?"
+   }
+  }
+ ]
+}

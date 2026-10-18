@@ -1,0 +1,38 @@
+Title: [RT][C][HSF] Fake Deeply
+Subreddit: r/rational
+Author: u/zackmdavis
+Posted: 2023-10-26
+URL: https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/
+Link: http://unremediatedgender.space/2023/Oct/fake-deeply/
+Source: PullPush archive (scores as captured)
+
+Comments archived: 5
+
+#### u/zackmdavis · 1 points · 2023-10-26 · https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k6l3xmx/
+(content warning: lewdness, transphobia)
+
+#### u/grekhaus · 1 points · 2023-10-27 · https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k6ncett/
+I am curious why those elements of the story were chosen.
+
+The one line of transphobia doesn't seem to especially add anything that wasn't covered by the existing sexism and the generally dismissive inner monologue. But more broadly, the choice to have the offense be sexual harassment, rather than a financial crime or a more neutral workplace offense seems, I don't know. Needlessly crass? It almost seems like a slur against the sort of people who work for AI companies.
+
+I don't necessarily think it's an *indefensible* choice. But I'm curious what process went into choosing it.
+
+#### u/Veedrac · 1 points · 2023-10-27 · https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k6nf75h/
+Because author. I wouldn't think too deeply about this one unless you like drama.
+
+#### u/Newfur · 1 points · 2023-10-29 · https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k6wd1jf/
+Was that supposed to end abruptly?
+
+#### u/zackmdavis · 1 points · 2023-10-29 · https://www.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k70k5ky/
+I'm not sure this is going to make sense, but since you asked, since you're _curious_ ... I think it's true-to-life, and I think one of my key value propositions as a writer lies in me being reckless enough to reveal information about things that a lot of people would prefer to be hidden for ideological reasons?
+
+If the goal were just to tell a philosophy/alignment conceptual AI story, it's true that it would be possible to do that without the sensitive aspects. As you say, if the viewpoint character needs to be guilty of something in order to set up the "risk evals thinks the AI did it; he knows that's not true" tension, it could just as well be embezzlement.
+
+But, in actuality, my writing process went the other way: the Muse spoke to me about the crass parts first, and I had to figure out the philosophical moral afterwards. I'm not proud of the crassness (I sat on the story for two weeks before deciding to pull the trigger on publishing it), but I don't think it can be removed without damaging the artistic integrity of the Muse's vision.
+
+The thing about custom erotica being an obvious use-case of the technology? That's _real_. DALL-E does not enable people to embezzle money in ways they never could before.
+
+The thing where, upon hearing about someone with a female name working in a niche area of technology, someone considers the hypothesis that she's trans and turns out to be right despite the tiny base rate? That's [also real](http://unremediatedgender.space/2020/Nov/survey-data-on-cis-and-trans-women-among-haskell-programmers/).
+
+These may not be agreeable realities, such that only a morally suspect character would notice them—and, some would argue, only a morally suspect author would depict a character noticing them (even a character otherwise depicted as morally suspect). This is very true; I agree entirely. But at the same time, the Muse showed me something _real_, and I can bear the suspicion if that's what it takes to faithfully report it.

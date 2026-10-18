@@ -1,0 +1,74 @@
+Title: Speaking Truth to Power Is a Schelling Point
+Subreddit: r/TheMotte
+Author: u/M_T_Saotome-Westlake
+Posted: 2019-12-30
+URL: https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/
+Link: https://www.lesswrong.com/posts/tCwresAuSvk867rzH/speaking-truth-to-power-is-a-schelling-point
+Source: PullPush archive (scores as captured)
+
+Comments archived: 10
+
+#### u/DropAdigit · 7 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcmb1tn/
+Huh? This is above my paygrade, if someone could ELI5 for me1
+
+#### u/sscta16384 · 13 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcmgbjp/
+The same argument could be made in favor of free speech generally, even absent any oppressive faction; i.e. where the "coalition" (consisting of all of society) is debating whether they should abstain from certain truth-seeking activities on the basis of some harm that they think might result. If they decide that yes, saying "X1" should be banned, then when it comes time to debate whether "X2" should also be banned, the voice of "X1" is missing from that debate; etc.
+
+This argument is largely independent of legal considerations about the First Amendment or about whether a platform is public or private. It only considers:
+
+1. How much impact will the proposed censorship have on the views represented in the next round of the public debate?
+2. Is the view in question one such that believing or disbelieving it is likely to influence someone's other views about what is good or bad for society?
+
+For #1, a large influential private platform (e.g. YouTube or Facebook) should have the same free-speech concerns as a public platform, since the content on such platforms has a significant influence on the collection of views that get fed into the next round of debate.
+
+(But I don't think the size of the platform is the only factor; we also have to consider whether a norm of free speech already exists. If a tiny municipality of population 1,000 decides to ban opinion X, then that may impel another municipality to ban opinion not-X out of fear that the balance of power will be upset, which leads straightaway to a defect/defect equilibrium; and so the decision of the first tiny municipality is a weighty one indeed. On the other hand, there is no norm that the comment-sections of small private blogs should be free-speech zones, and while one might wish that such a norm did exist, that wouldn't imply that any individual blogger has a moral obligation to unilaterally initiate the change, in the absence of an evident broad agreement.)
+
+For #2, this explains why *political* views in particular are worthy of protection. One might argue that all artistic expression is inherently political inasmuch as it shifts someone's aesthetic preferences in a certain direction, but I'm less concerned by e.g. a town banning residents from painting their houses purple, as opposed to banning speech that is directly and primarily about society's values.
+
+#### u/hillsump · 12 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcmh51v/
+When realising that the emperor's supposed new clothes do not actually exist, there are only two sensible responses. Either completely go along with the crowd ("ooh, those clothes suit the emperor well") or else speak the truth and ignore the crowd, as the boy did in the fable.
+
+Non-ELI5 comment: the text is somewhat incoherent. It claims that in-between positions are not sustainable and also that both extremes are Schelling points, yet the title suggests that the truth-telling extreme is the "right" focus point. I happen to share the author's belief that the extremes may be points of attraction, but the claim at the end that they form dual Schelling points needs further evidence. A system with two points of attraction is inherently unstable, negating the feedback cycle that seems necessary for a Schelling point in the first place, and it is not clear why out of band signalling about the current consensus cannot lead to an in-between position as the "obvious" future consensus point. Keeping in mind the paradigmatic Schelling point that people prefer "heads" in a game involving choice between heads or tails, I think the fable is trying to create a future consensus around the truth telling extreme via out of band signalling to children, making this extreme a priori more salient to future generations than a socially signalled non-truth position. In contrast, my takeaway from this piece is that the author is either arguing badly, or the text is meant as a kind of rationality koan, promoting enlightenment via engagement with its flawed argument. I certainly got a lot out of wrestling with it.
+
+#### u/Ben___Garrison · 24 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcn5ozb/
+Someone in the comments had a good summary:
+
+> TLDR: When you engage in intellectual dishonesty due to social pressure, you distort your perspective of the world in a way that makes further intellectual dishonesty seem justified. This results in a downwards spiral.
+
+#### u/Ilforte · 6 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcncmen/
+Slippery slope may be the point. Consider the following conspiracy: Emperor and his entourage wish to cement their power for all eternity. Thus, they build a narrative – an *ideology*, so to say – which incentivizes endorsing Emperor's new clothing (a self-evident lie), punishment of those who deny it, and punishment of non-punishers. A fairly old-school arrangement. Should this system hold for long enough, not only does everyone start to believe in Emperor's clothes, but *any* trait level disagreeableness is weeded out of the population under control. The subjective value of truth in general becomes zero, relative to the value of Emperor's approval. Then a biological hierarchy is established: Emperor's family, his patricians and nobles, and the *hoi polloi*, stratified for convenience. 
+
+I also think this eusocial scheme is the expected result of human experiment. This is the Shelling point for stable groups, and *this process is going on group level, with individual humans as nothing more than substrate, their Shelling points being imsufficient for understanding*. Anything like a majority of epistemically honest individuals is long-term untenable, threatened by cliques, individual differences in ability, and the deluge of information which necessitates filters, journalists, and in turn censors, teachers and edifiers. This is what Plato with his Noble Lie and Vedic societies and totalitarian governments and democracies ultimately converge on. The best example is probably the state [Jesuits created in Paraguay](https://en.wikipedia.org/wiki/Society_of_Jesus#Paraguay). At its peak, the population of ~150 thousand Indians was governed by as few as 250 Jesuits, "Paters" who by all accounts commanded those Guarani Indians' absolute childish trust. What's more, such a society was relatively harmonious and prosperous. 
+
+We're about half way there.
+
+#### u/GrapeGrater · 4 points · 2019-12-31 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcono4h/
+I'll agree with most of this, however there's two flaws as you have it.
+
+1) "weeding out trait disagreeableness" probably isn't the dominant factor so much as getting people to become subject to tyranny and either very skilled at deception or completely unskilled at all.
+
+2) denial of truth and the hierarchy holds and can hold for a long time. But inevitably denial of truth has a habit of catching up to the power structure--at least historically. Man may submit to lies, but nature will never lie.
+
+These two factors lead to rebellion as a new elite is capable of navigating the lies efficiently enough to skirt the censors but are likely able to align the bulk populace against the disconnected rulers.
+
+"harmonious and prosperous" can hide problems under the surface.
+
+#### u/Ilforte · 3 points · 2020-01-01 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcot2ef/
+I don't know. You suppose that some fraction of the population becoming immune to the denial is inevitable, and that's probably true, but any competent power structure (i.e. with some inner circle of elites who are in fact privy to the nature of Noble/ignoble lie) will anticipate this, and prepare layered defense. The ideology would still be useful to delay the rate at which the insurgents can recruit allies, and grant time to, say, condition a large majority of civilians to aid and approve of the suppression effort. Turning the lie against its inventors is also very tricky – they have the advantage of legitimacy. In general, such hierarchical systems appear capable of achieving very long-term stability, certainly beyond what current implementations of democracy promise.
+
+#### u/GrapeGrater · 6 points · 2020-01-01 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcothff/
+I think you misunderstand the rate at which people buy into their own propaganda. And it gets supercharged when the ability to exist in polite society is penchant on buying into lies--particularly obvious lies.
+
+The majority of the population will likely always support the lie--until it becomes unsustainable. They may still even support the lie going into rebellion, but adopt another lie to justify the rebellion.
+
+Rebellions don't spring up out of nowhere. The resistant faction becomes the leaders and the new elites afterwards (assuming they succeed)--but legitimacy is lost when the lie catches up to the societal elites. It's the loss of legitimacy that dooms the system above all.
+
+#### u/mcsalmonlegs · 6 points · 2020-01-01 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fcpb2sm/
+The Jesuits also kept the settlers from exploiting and killing the Guarani. They didn't just follow the Jesuits, because they were duped. They knew what was going to happen to them if the Jesuits didn't keep the settlers in line and the settlers knew the government would protect the Jesuits. As the government did when the settlers revolted.
+
+#### u/zergling_Lester · 3 points · 2020-01-05 · https://www.reddit.com/r/TheMotte/comments/ehi8bl/speaking_truth_to_power_is_a_schelling_point/fd629yb/
+I thought about this a lot, I think you're missing the most convincing part of the argument: that accepting some false statement for societal harmony or whatever doesn't end up with you getting caught in a usual web of lies, it propagates __upwards__ through meta-levels.
+
+Like, suppose you want to discuss whether it's actually good to pretend that the emperor is clothed. The moment you ask your opponent if they, hypothetically, would still claim that the emperor is clothed even if he weren't, they realize how that would undermine their non-hypothetical position and claim that no no no, they totally won't.
+
+Then you ask how comes that they believe that it's bad to upset the harmony with such inquiries but would still answer truthfully and that upsets them enough to declare that anyone who cares about the truth and how to best figure out the truth is a Nazi and should be deplatformed.

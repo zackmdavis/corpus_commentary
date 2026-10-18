@@ -1,0 +1,827 @@
+About
+
+Comment Policy
+
+Thing of Things
+
+~ The gradual supplanting of the natural by the just
+
+Search:
+
+Thoughts on The Blanchard/Bailey Distinction
+
+22
+Tuesday
+Nov 2016
+
+Posted by ozymandias in feminism
+
+≈ 38 Comments
+
+Tags
+
+ozy blog post, speshul snowflake trans
+
+[Epistemic Status: I think my argument in the first half of the post is likely true, and my argument in the second half of the post is highly speculative.]
+
+[Disclaimer: I am using the terms ‘male-sexed’ and ‘female-sexed’ in this post due to the stubborn refusal of the trans community to give me better words. Biomedically transitioning trans people are not female-sexed or male-sexed. Neither are intersex people.]
+
+The Blanchard/Bailey theory is essentially that trans women are divisible into two groups: one group tends to transition early, be solely attracted to men, pass better, be unusually feminine as children, and work in typically feminine professions like hairdresser; one group tends to transition late, not be solely attracted to men, pass less well, be masculine as children, and work in typically masculine professions like programmer. The Blanchard/Bailey theory also comes with explanations for these two groups’ motivation in transitioning. Assuming that Blanchard and Bailey’s research is correct even if their theories are not– that these two clusters exist in the surveys they conducted– what could be the explanation for this?
+
+I feel like the “autogynephilia” and “homosexual transsexual” explanations are very unsatisfactory. Autogynephilia does not work like other sexual fetishes. It is relatively rare for a person to upend their entire life to satisfy a sexual fetish; pretty much the only other example I can think of is 24/7 BDSM, which itself often has a strong nonsexual component. Antiandrogens are a commonly used treatment for sexual fetishism, because they lower libido and thus motivation to engage in fetishistic activity; antiandrogens are also a component of HRT, but we don’t see trans women becoming less motivated to transition after they start HRT.
+
+Autogynephilia’s oddness is often explained by saying that it is a peculiar form of fetish known as an erotic target location error, in which a person is aroused by the idea of becoming the thing they’re turned on by. Other examples of alleged erotic target location errors include arousal at the idea of becoming an amputee, autozoophilia, autoplushophilia, and ageplay. (Ageplay is a bit of a weird example, because as far as I can tell there is no evidence that ageplayers are any more likely than anyone else to want to have sex with children, so maybe it’s actually just three examples.)
+
+First of all, the four specific things that are the subject of erotic target location errors are very strange. Why aren’t redhead fetishists aroused by having red hair or foot fetishists aroused by having particularly desirable feet? Erotic infantilism is common, but given men’s preference for twenty-two-year-old women why aren’t there a bunch of men deeply erotically interested in being twenty-two?
+
+Second of all, it is strange that autogynephilia is the only erotic target location error that causes a significant number of people to wish to transition. There are maybe some people with bodily identity integrity disorder (although far fewer than gender dysphorics) and maybe some otherkin. Why aren’t there a bunch of ageplayers insisting that their soul is really ten years old? Why aren’t there a bunch of people who insist that they really are plushies? Why aren’t foot fetishists demanding attractive-foot surgery?
+
+Furthermore, the autogynephilia theory does not even explain the data it purports to explain. Why are trans women disproportionately engineers and soldiers, instead of being randomly sampled from the male population? Why would a fetish make one transition later? Why would it cause one to not pass as well? Surely fetishizing being an attractive woman would cause one to have a lot of motivation to be an attractive woman.
+
+For some reason, everyone gets outraged at the autogynephile theory, but the homosexual transsexual theory seems to me to be equally offensive: the idea that very feminine gay men transition because gay men are attracted to masculine men and straight men are attracted to feminine women, so by becoming a woman they can get a more desirable sexual partner. While this might make sense as a motivation in relatively trans-positive places, I do not think there are a large number of people who become homeless teenagers doing survival sex work so that they can get laid more easily. In addition, it is unclear to me whether transitioning actually improves trans women’s level of sexual and romantic success. Many straight men who are interested in trans women have homophobic and transphobic beliefs, which make them unlikely to commit to a trans female partner, more likely to freak out after sex, and more prone to committing harassment or violence as a way of resolving their cognitive dissonance.
+
+So if it’s not Blanchard and Bailey’s theory, what is it?
+
+It seems to me that relative level of passability is obviously linked to age at transition. Hormones have effects; a person who has had a testosterone-dominant hormone system for forty years will, all things equal, look more like a man in appearance than a person who has had an estrogen-dominant hormone system for much of that time. So those can be folded into a single factor.
+
+Blanchard’s original studies were conducted in the late eighties and early nineties, long before the current wave of trans awareness. In this context, I think it makes perfect sense that trans women who conform very poorly to their assigned gender and who are solely attracted to men would be more likely to transition young. One of the most important aspects in realizing you’re trans, for many people, is meeting other trans people. It lets you realize that transition is possible, that trans people aren’t the pathetic jokes they’re depicted as in mainstream media but people like you. On a more practical level, knowing trans people helps you DIY hormones or get past gatekeepers.
+
+Trans women who are attracted to men would be far more likely to be connected with the gay community, where they could meet other trans women and wind up transitioning fairly young. The same thing’s true of trans women who conform poorly to manhood, because they might think something along the lines of “oh, I’m a flamer, I guess I’m gay.” The ‘feminine’ professions Blanchard and Bailey discuss are mostly, in fact, stereotypically gay male professions (they include “hairdresser” and “sex worker”, but not “nurse” and “secretary”); this could be explained either by male hairdressers being more likely to meet gay men, or by people in the gay male community being more likely to become hairdressers.
+
+Conversely, a trans women who’s attracted to women and who conforms fairly well to her assigned gender would have far more difficulty meeting other trans people, since she had no community that was disproportionately full of other trans people. (Unless, of course, she found a local crossdressers’ group, but even that is quite difficult, given the shame most crossdressers have about their crossdressing.)
+
+With the rise of public awareness about transition and (especially) the Internet, more people are aware of the existence of trans people. So we should expect trans lesbian programmers to be transitioning younger than they did in the past. Anecdotally, this appears to be the case; trans lesbian programmers of my acquaintance regularly transition as young as nineteen or twenty. I await replications of the Blanchard/Bailey study.
+
+So ignoring social factors, we have one group of feminine straight women, and one group of masculine lesbians, bisexuals, and asexuals. (Of course, these are clusters, and not a binary distinction; there are quite a lot of feminine lesbians and masculine straight women.) Now, there are a couple ways one can respond to this. First, one can point out that this is identical to the pattern among cis women: in general, LGBA women are more likely to be gender-non-conforming than straight women, regardless of birth assignment. There might not be all that much to be explained.
+
+However, my inner Blanchard/Bailey theorist is pointing out that there’s still something to be explained. First of all, trans women are much, much more likely to be lesbians than cis women are. Second of all, trans lesbians’ masculinity is different from cis lesbians’ masculinity: cis lesbians are not bizarrely likely to be programmers or mathematicians, and trans lesbians are not that much more likely than average to have buzzcuts.
+
+(Now we’re getting into the highly speculative bit.)
+
+I’ve long been struck by the correlations between gender-non-conformity, being attracted to members of your assigned sex at birth, and gender dysphoria. As the Genderbread Man points out, there is no necessary relationship between these things. And yet tomboys are more likely to grow up to be lesbians. You could say “maybe they’re signalling that they’re lesbians by being gender-non-conforming!”, but that’s a bit hard to square with the tomboys who weren’t attracted to anyone yet and who fully expected to grow up to be straight.
+
+It is almost as if there are three switches, one of which says Figure Out What People Of Your Sex Are Supposed To Do In Your Culture And Do That, one of which says Be Attracted To People Of The Other Sex, and one of which says Feel Strongly That You Are A Member Of Your Sex. And then some factor– perhaps prenatal?– has something like a 50% chance of flipping over each individual switch. So a minority of the population has all three (that is, they are straight feminine trans women), and a lot of people have one or two, but there’s still a strong correlation between the positions of the three switches.
+
+So that’s our first type of trans woman.
+
+Small but interesting studies suggest a correlation between gender dysphoria and autism, as do the anecdotes of myself and others. Note that when I say “autism” here, I am deliberately being very broad and including people with the broader autism phenotype, as well as so-called “optimal outcome” people who are autistic in childhood but do not meet criteria for autism as adults. With the exception of the military, the specific professions in which trans women are overrepresented are also professions in which autism broadly defined is overrepresented. (Possibly including the military? I am not a military person myself, but I can see the attraction among autistics of clear rules, a chain of command, strict routines, and getting to play with machines.) Perhaps the actual division is between trans women whose transness is caused by autism and trans women whose transness is caused by switch-flipping?
+
+And that’s our second type of trans woman.
+
+Now, the million-dollar question is: where are all the trans male autistics? Why aren’t the trans dudes all programmers too? First, it is very possible that there are more male-sexed autistics than female-sexed autistics; while autism tends to present differently in female-sexed people, leading to their underdiagnosis, it is also possible that some of the difference is that there are legitimately fewer female-sexed autistics. It is also possible that– given that autism is likely to be many many different things— the reason that female-sexed autistics present differently is that they’re likely to have a different kind of autism, which doesn’t happen to be linked to gender dysphoria.
+
+Second, the “people connected to the gay community more likely to transition” argument is even stronger for trans men than for trans women. Until recently, most of the people who transitioned were trans women. Presumably, this is because trans men were less likely to be independent than trans women. In a time period where many gatekeepers required that the trans person cut ties with everyone they knew, trans women would be more likely to have useful skills (engineering!) that could be used to rebuild a career. Trans men would be more likely to be housespouses, which does not teach you very many transferable skills and ends as soon as you cut ties with everyone you know. This might also make trans men more reluctant to e.g. found or join crossdresser groups, because if you’re financially dependent on your spouse it’s much less likely they’ll suck it up and deal with it than if your spouse is financially dependent on you.
+
+Therefore, in historical samples, we should expect the vast majority of trans men to be non-autistic. In present-day samples, if #1 is mostly true, we would expect mostly switch-flipping trans men, while if #2 is mostly true, we would expect a population of autistic trans men. Once again, I await replication.
+
+Share this:
+
+Share on X (Opens in new window)
+X
+
+Share on Facebook (Opens in new window)
+Facebook
+
+Like Loading...
+
+Related
+
+Post navigation
+
+← Previous post
+Next post →
+
+38 thoughts on “Thoughts on The Blanchard/Bailey Distinction”
+
+tailcalled said:
+
+November 22, 2016 at 10:40 pm
+
+“Now, the million-dollar question is: where are all the trans male autistics?”
+
+I’m pretty sure I read somewhere that trans men are SUPER likely to be autistic, even more so than trans women, but I don’t have the source on me atm.
+
+LikeLiked by 2 people
+
+Reply
+
+silver and ivory said:
+
+November 23, 2016 at 12:28 am
+
+Maybe this?
+
+(mentions Simeon Baron Cohen and male brain theory)
+
+Click to access 2011_Jones_transsexualautism_JADD.pdf
+
+Slightly irrelevantly, I took one of the AQ tests and scored bizarrely high. I have no idea what happened- it was way above usual autistic scores. *shrugs* AFAIC I’m allistiv but idk.
+
+LikeLiked by 1 person
+
+Reply
+
+silver and ivory said:
+
+November 23, 2016 at 12:36 am
+
+I think it was the Systemizing Quotient?
+
+I don’t think you’re supposed to take this type of this very seriously.
+
+LikeLike
+
+Cerastes said:
+
+November 22, 2016 at 11:20 pm
+
+The dichotomy (fuzzy though it may be) makes me suspect a genetic/developmental basis as a primary explanation. Some quick poking around led me to this paper, http://www.functionalneurology.com/index.php?PAGE=articolo_dett&id_article=3373&ID_ISSUE=389 , which points out that sexual differentiation occurs in three loose “stages”. First, genes determine the developmental changes leading to masculinized or feminized genitals, with various mutations in these pathways leading to intersex. Next, the embryonic gonads produce hormones which influence brain development, including the receptiveness of certain neurons to these same hormones. Finally, puberty kicks hormone output into high gear, producing the physical changes and also providing the hormones to modulate these brain regions.
+
+What if “trans-childhood” individuals had genetic mutations which prevented the embryonic brain masculinization at all, thus developing into the stereotyped “female brain in a male body” individuals, while “late transitioning” individuals had different mutations which led to the puberty-activated brain regions to respond differently?
+
+LikeLiked by 1 person
+
+Reply
+
+silver and ivory said:
+
+November 23, 2016 at 12:29 am
+
+>>Why aren’t there a bunch of people who insist that they really are plushies?
+
+Wait, aren’t there?
+
+LikeLike
+
+Reply
+
+Sophia Kovaleva said:
+
+November 23, 2016 at 12:33 am
+
+Ageplay is a bit of a weird example, because as far as I can tell there is no evidence that ageplayers are any more likely than anyone else to want to have sex with children
+
+To my knowledge, many ageplayers don’t even have sex with each other while playing, because they find it to be too weird. Those who do appear to sometimes say that it’s indeed kinda weird, and not for everyone, and call it dark age play (which for a while confused me when I was encountering it, is in “huh? Someone has a medieval fetish?”)
+
+Unless, of course, she found a local crossdressers’ group, but even that is quite difficult, given the shame most crossdressers have about their crossdressing.
+
+My local crossdresser group firmly believed in Benjamin scale, classified itself as “dual-role transvestites”, and segregated and often hated everyone above and below them on this scale. They hated and furiously expelled sissies for being “fetishistic transvestites” and only putting on women’s clothes to get off, without attempting to “pass”, and they hated and expelled gender-questioning people for being “transsexuals” and trying to “cheat” their way into femininity, instead of virtuously doing diet, exercise, skin care, shaving, makeup, and perfectionist fashion skills. I guess they could help the situation with the awareness a little bit better, by pointing out to the specific group of “transsexuals on hormones” that they hated, rather than the general category of “fags” that the broader society hated, but they definitely weren’t doing anything to reduce the stigma and allow people to think “they can be normal people like me, not a bunch of weirdos.” Though I guess aside from the hatred thing, I’ve always had a feeling that I’m different from most of them in many important ways. For example they had a really big thing for fake breasts, and I was like “no? I don’t wanna pretend that my body is different from what it is, thus making it a costume, I wanna wear what makes me happy” (n.b.: this is just my thought process, and I don’t think that it’s wrong or dishonest to wear fake breasts – it’s the way it feels for me; also, now I do want breasts, but am still not keen on wearing fake ones); also, while some of them, who felt very confident in their ability to pass, and thus not be a target of homophobic and transphobic violence did sometimes venture outside, no one else seemed to be interested in being able to always present feminine.
+
+Also, my local gay men’s group hated trans women and crossdressers as well, so shit was out of luck for straight trans women, I guess. In the response, the local trans women’s group hated crossdressers and gay men, and trans men as well (because “being a woman is objectively better due to female privilege, and trans men are betraying the objectively best way to be a human”).
+
+I guess some of that was the totally legitimate desire to reaffirm one’s identity: if you’re a crossdressing cis straight man, and everyone tells you that you’re either gay man or a trans woman, you may wanna very angrily say “no, I’m not!” But I think most of that was “normality” politics, where people were going “look at these fags! *They* are legitimately despicable, but we’re not like them, we have them as well as you do, please accept us.” This is why I’m extremely wary of fragmentation of LGBT communities: I’ve seen where this slippery slope goes, and “this place is not a place of honor.”
+
+Presumably, this is because trans men were less likely to be independent than trans women. In a time period where many gatekeepers required that the trans person cut ties with everyone they knew, trans women would be more likely to have useful skills (engineering!) that could be used to rebuild a career.
+
+It seems like in this period very few gatekeepers even believed that trans men exist, and even fewer believed that gay trans men exist. We may see fewer of them because they could never transition, and perhaps many of them ended up committing suicide. Although that would imply that gay trans men are worse at lying to gatekeepers than trans women experiencing anything that gatekeepers classify as AGP are, because while I’m not sure about American gatekeepers, Russian ones make a huge deal out of detecting and kicking out “fetishists”.
+
+LikeLiked by 2 people
+
+Reply
+
+nancylebovitz said:
+
+November 23, 2016 at 12:48 am
+
+Second-hand, but I think there’s one more autistic-compatible feature of the military. Uniforms! Some people find it a tremendous relief to not have to figure out which clothes send which social signals.
+
+LikeLiked by 1 person
+
+Reply
+
+Sophia Kovaleva said:
+
+November 23, 2016 at 2:49 am
+
+That is, I suppose, unless one has sensory issues, in which case not being able to switch into tolerable clothes would be a nightmare. Plus, I think, the tolerableness of the military depends on how big one’s unit is on hazing vs the actual formal rules. If it’s big on hazing, the failure to perform the masculine gender role extremely well can one dearly.
+
+LikeLiked by 3 people
+
+Reply
+
+Kivrin said:
+
+November 23, 2016 at 7:08 am
+
+Yes — and it isn’t just the clothing that could be a potential sensory issue, but everything from the sheets from the showers to the food. Loud noises, too.
+
+Coming from a military family, I had to devote some serious consideration to enlisting out of high school. But my instincts have *never* warned me against anything more strongly than that.
+
+(Also: hi, I’m new!)
+
+LikeLike
+
+QuickSilver said:
+
+November 23, 2016 at 8:17 am
+
+I’m a cis man and debated transitioning for a couple years until deciding recently that it wasn’t what I wanted. Aside from them I fall into group 2. Likely autistic, programmer, attracted to women, huge sexual desire towards the idea of being a woman. Attracted towards the idea of having sex (with men too) while being a woman.
+
+After reflecting on it for some time, what I ended up realizing was that I wasn’t truly interested in becoming a woman, rather what I was attracted to was the sexual power I felt women had in our society.
+
+I wanted to be the one being chased, not the one the chasing. I wanted to be desired purely by existing, instead of by what I accomplished. Largely the stuff described in this post https://aellagirl.com/2016/08/21/power-imbalances-and-sex/.
+
+After realizing that, I didn’t think I would get that even if I were a trans woman. So I decided to instead orient my life towards trying to fulfill that desire by doing what I can to become more conventionally masculine.
+
+Anyways perhaps I am generalizing from my experience too much, but the explanation of the second group is that their desire to transition stems not from the motivations of the first, but from struggling to succeed in the male gender role. Hence why they don’t say stuff like “I’ve known I was a girl since I was a kid”.
+
+At least that is where I would put me. If I could hit a button a become a cis woman, or if I could go back 10+ years and transition, I’d do it in a heartbeat. Not because I feel wrong as a man, but because I suck at it.
+
+LikeLiked by 3 people
+
+Reply
+
+QuickSilver said:
+
+November 23, 2016 at 8:19 am
+
+Should have said that “perhaps the explanation of the second group is”. I didn’t meant to claim my hypothesis as fact.
+
+LikeLiked by 1 person
+
+Reply
+
+veronica d said:
+
+November 23, 2016 at 8:15 pm
+
+After realizing that, I didn’t think I would get that even if I were a trans woman. So I decided to instead orient my life towards trying to fulfill that desire by doing what I can to become more conventionally masculine.
+
+I tried that for like a decade. I got relatively good at kickboxing. By the end I could squat a decent amount.
+
+Anyway…
+
+LikeLiked by 1 person
+
+Reply
+
+Autolykos said:
+
+November 23, 2016 at 11:09 am
+
+cis lesbians are not bizarrely likely to be programmers or mathematicians
+
+Are you sure? I must admit that my sample is small and likely biased by me being a total nerd, but both (cis) lesbians I’m friends with are engineers.
+
+LikeLike
+
+Reply
+
+1angelette said:
+
+November 23, 2016 at 11:48 pm
+
+I think it depends on the region. I went to college where very few women wore glasses, citing cosmetic concerns, and I was the only cis lesbian I knew of in my math department; but then again, I was closeted, maybe the others were too. I suspect that the cis lesbians are being raised to repress our of” autistic, technological traits.
+
+LikeLike
+
+Reply
+
+jeqofire said:
+
+November 23, 2016 at 4:13 pm
+
+>Why aren’t there a bunch of ageplayers insisting that their soul is really ten years old?
+
+*waves*
+
+Disclaimer: has never heard the term ageplay, only recently settled on “age dysphoria” as somewhat accurate, wonders if BIID is at all related, and 10 is too old but if that’s the youngest the Genie was letting me shapeshift to I’d take it.
+
+Mostly I’m just bothered that at some point in the past since-I-started-making-games-with-voices, my current vocal range became kinda valuable and if I got my real voice back there’d be a significant tradeoff unless I can find someone who can reasonably imitate the voices (well, more or less just the one) I’m most attached to.
+
+LikeLiked by 1 person
+
+Reply
+
+jeqofire said:
+
+November 23, 2016 at 4:23 pm
+
+After a websearch, I think I can say something like “I don’t do that but mostly for lack of opportunity and I’m kinda worried it might end in me crying”. … Why did I post this under this account, again?
+
+LikeLike
+
+Reply
+
+ozymandias said:
+
+November 23, 2016 at 4:27 pm
+
+You know, at some point I should get used to the fact that every time I say “people don’t do X” at least one person in the comments will stop by to say “no, I totally do X.”
+
+Neurodiversity, man.
+
+LikeLiked by 3 people
+
+Reply
+
+Meta said:
+
+November 23, 2016 at 6:45 pm
+
+Ooh, a post I can actually contribute to with personal experience.
+
+I feel like any explanation for late-onset trans people should make mention of autogyno/androphilia without relying on it. I find your explanation a bit unsatisfactory because it would seem to suggest that either there isn’t much of an overlap between AGP and trans women, or the overlap is due to self-selected sampling.
+
+I am a cis-by-default man with autogynephilia. I run a forum and an RP server for stuff related to this, and I’m struck by how many trans girls we have. I can think of a few explanations for this that don’t necessarily go against the idea that sampling issues are the primary factor behind the Blanchard-Bailey data:
+
+-This *is* due to self-selecting samples. The overlap is because they googled relevant terms and stumbled on the fetish accidentally.
+
+-The observed % of trans women is what one would expect from any fetish forum or server. I haven’t done any stats comparing it with similar things, but I’d be very, very surprised.
+
+-Reverse inference is the problem. ‘AGP- higher chance of trans’ isn’t the same as ‘trans- higher chance of AGP’. This isn’t enough to go against my point about mentioning AGP, though. If AGP is a strong predictor of trans, it deserves a mention.
+
+Obviously I don’t think it’s the only factor, and anecdotes aren’t much to go on, but it would look like a really weird coincidence if it wasn’t related.
+
+LikeLiked by 1 person
+
+Reply
+
+Sophia Kovaleva said:
+
+November 24, 2016 at 12:09 am
+
+Here’s a wild hypothesis.
+
+There are common ways in which cis men sometimes make statements and do things that amount to “it’d be nice to me a woman”. One of these ways is crossdressing fetish and transformation fantasies. Another one is talking about the female privilege of being on the receiving end of chivalry, being able to stay at home instead of working to feed the family, being asked out instead of having to ask out, having affirmative action, etc. Quite evidently, many people who are very much cis men engage in both of these behaviors, and equally evidently, while many of them *lament* how nice it would have been to be born a woman, almost all of them would react to the idea of transitioning with “WTF, of course not!”
+
+And then some people actually experience gender dysphoria, for whatever reason. But the idea “I may personally be a woman, and I don’t even know why” tends to be far outside of the mental Overton window for most AMAB people. So instead of just being “hi, I’m a woman,” their brain goes anywhere to channel this dysphoria. And thus, these normally cis behaviors get turned up to eleven. Combined with the feeling of wanting to transition, it may seem like either the transformation fetish or the thoughts of female privilege are causing the desire to transition, while it’s actually a hidden factor, that’s amplifying the former and causing the latter.
+
+This is, I think, especially evident in the “women have privilege, and therefore I want to transition” discourse. I’ve seen trans women in Russia arguing about how privileged women are, how they are basically never targets of violence, as opposed to men, how they are more attractive and desired than men, how the society always sides with women and not with men in disagreements, etc. And therefore, they argue, they transition, and everyone else who isn’t a dumb muscular jock dudebro bully should transition as well. And while I don’t doubt their personal experiences, I strongly suspect that someone feels better in Russia as a trans woman than as a cis man, then it’s largely not because the society started treating them better (even if you accept the highly dubious premise that cis women are treated better than cis men, there’s quite a bit of a jump from that to “trans women are treated better than cis men”), but because transition relieves their internal dysphoria, and the benefit of that makes all the social drawbacks pale by comparison (and yeah, it’s totally possible for the feeling of relieved dysphoria to make one see everything through rose-colored glassed; for me this is how it works with wearing dresses: I in theory understand and agree with the complaints feminists often make about women’s fashion, but in practice my intuitive knee-jerk reaction is more along the lines of “OMG, who on earth cares about the lack of pockets, chaffing, wind, and somewhat reduced mobility, when you can wear a dress! Everything else is irrelevant compared to that!”).
+
+Another piece of evidence that such mental jumps are possible is how similar sometimes the opinions on gay vs straight relationships are between gay and straight people, while the former sometimes cite these beliefs as the reason why they’re gay. You can often see lots and lots of definitely straight people – many of whom are also homophobic – saying stuff along the lines of “gay people have it easy! People of the same gender would naturally go along, but since men are from Mars, and women are from Venus, they have to work their asses off to manage to get along – all in the name of virtuous straight relationships!” Sometimes it’s also supplemented with “men/women are stupid/cunning/gross/gold-diggers/potential rapists/etc., but we have to date them nonetheless”. And then you have gay people who say things like “well, of course the opposite gender is stupid and creepy, and there’s nothing you can even talk about with them – that’s why I don’t date them! People of my gender are awesome though!” Also, bi people saying “how can one be so closed-minded to only date people of one gender?” Now, we don’t know for sure how sexual orientation is determined, but I think we can quite safely rule out the lack or presence of prejudice against people of different genders. Yet some people do seem to motivate it this way. Heck, even I sometimes catch myself thinking “well, but even if do want to try dating men, but how would I do that if so many of them seem to have beliefs about sexuality, gender, and consent, that I find kinda insulting or even creepy? There’s nothing I could do about that!” And that is despite the fact that I think that it’s wrong and unfair to label an entire gender this way, and despite me personally knowing many totally awesome men, whom I’m very comfortable around. I imagine that for people who don’t have such anti-prejudice views and experience, the idea of “I’m gay because men/women are intrinsically yucky and uninteresting” could be even more compelling.
+
+LikeLiked by 2 people
+
+Reply
+
+Nita said:
+
+November 24, 2016 at 7:23 am
+
+That was interesting, thanks!
+
+And it reminds me of something…
+
+What isn’t explainable today, in a situation where the political inferiority of women is hidden behind an apparent legal equality, is why there isn’t a mass of bio-women trafficking and consumimg testosterone to access the hegemonic position. Perhaps, simply, bio-women don’t want power, they prefer to keep having excuses to not win, to not earn money, to not make decisions by themselves, to not run the countries they live in, to not be the only ones responsible for their sexual pleasure, their mediocrity or their success. Of course, hormonal masculinisation is not the only way to access political power, but it would in any case be the fastest, the one that would cause the most social confusion, a way to dynamite forever the natural hegemony of hairy arms.
+
+— Paul B. Preciado, translated by Sigmaleph
+
+https://www.tumblr.com/sigmaleph/152992161274/what-isnt-explainable-today-in-a-situation-where
+
+LikeLiked by 1 person
+
+Nita said:
+
+November 24, 2016 at 7:25 am
+
+Whoa. Apparently, WordPress auto-embeds Tumblr posts now. Sorry about the double quote.
+
+LikeLike
+
+veronica d said:
+
+November 23, 2016 at 8:20 pm
+
+One problem in these conversations is there is no way to distinguish “decided not to transition” from “decided not to transition yet.”
+
+I guess if a person is like 75 and they say that, then fine. (Not that they won’t transition when they turn 80. But whatever.) But when someone in their thirties says it — well I cannot help but grin.
+
+LikeLiked by 1 person
+
+Reply
+
+ozymandias said:
+
+November 23, 2016 at 8:22 pm
+
+Retrospective studies of deceased gender dysphoric people, maybe?
+
+LikeLike
+
+Reply
+
+veronica d said:
+
+November 23, 2016 at 8:29 pm
+
+Maybe. It’d be really hard to trust your sample tho.
+
+Like, so far as I know, gender dysphoria grows with age. In fact, it grows a lot, becomes unbearable.
+
+After all, everyone I know who transitioned late has this experience …
+
+(The selection bias is obvious.)
+
+So when I hear people sharing stories, about “handling” their dysphoria without transition — well they sound like me fifteen years ago. And dammit I wish I had not waited.
+
+Like, I wish I had transitioned in my teens. Failing that, I wish I had transitioned in my twenties. Failing that, my thirties. I’m sure there are folks transitioning in their fifties who wish they were like me.
+
+Those people who make it into their 80’s, and who “handle” their dysphoria, how could we even find them?
+
+Of course, in thirty years I bet they’ll be easy to find — assuming there is not a terrible change in the social/political climate.
+
+LikeLiked by 4 people
+
+Franklin said:
+
+November 24, 2016 at 5:33 am
+
+Veronica, I do sympathize with your experience, as I have also had a similar experience, in that I felt transition would bring me closer to the truth about myself as possible. I did make the decision to transition and am still going through this daunting process and feel much happier than I did former to the experience.
+
+I do however believe that it will be possible in the future to help those who do not wish to transition, not transition. I have actually found therapy to be extremely helpful in my life. I realized that therapy based around making me feel more like a man would be totally unhelpful and even painful, but when I found a therapist that was there to listen and help me feel more comfortable just being me, it helped me tremendously.
+
+If I could go back and tell younger-me to just vent out those feelings, the privacy, the obsession of it all, I think I could’ve found a less evasive way than I found for myself to live more happily. However, over time, the damage was done. I am who I am now and the only thing I can do is progress and try to forget about all of my faults and weaknesses.
+
+One issue I think those with “Autogynephilia” experience is obsession, the consumation of everything that makes an individual, an individual. All I could think about during those obsessive years is what people would think of me, how I could ever find love, how I could shake this burning envy I had for women, though I was so very attracted to them.
+
+Having a humiliating private sexual taste is terrible to say the least. I sympathize with anyone going through these same feelings, as I have spent countless years running through this terror in my mind. Cognitive therapy has helped to at least get some of my life back on track.
+
+LikeLiked by 1 person
+
+leoboiko said:
+
+September 2, 2017 at 5:05 pm
+
+Just replying late here to note that you were 100% correct. You bastard. I’m trans. I’m trans. Send help.
+
+The following is a log scale over time:
+
+1. “Just because I get strangely happy whenever read as a woman and notoriously grumpy whenever praised on my male features doesn’t mean I’m a real trans”
+
+2. “If, hypothetically speaking, out of curiosity, I were to take hormones… wow those are some scary side effects. I don’t want to lose my libido”.
+
+3. “I’m somewhere in the trans spectrum, I guess. If there was a magic button I’d def it. But I’m in my thirties, I’m super hairy, I’m a father, it’s better for me to live without transitioning”.
+
+4. “Welp I’m a Blanchardian autogynephile type, I don’t have the right to call myself a real trans”
+
+5. “I wonder why I’m spending so much time lying depressed on my bed with this curious nervous tic of pulling beard hairs compulsively”
+
+6. (read thingofthings, browse /r/transtimelines)
+
+7. “How long does it take to get the government to give me dem sweet sweet hormones?…”
+
+LikeLiked by 1 person
+
+Reply
+
+wxhluyp said:
+
+November 23, 2016 at 9:04 pm
+
+Autogynephilia theory is wrong, if anything, because it fundamental interpretation of fantasies is wrong. The fetish in question is not constituted in sexual arousal “by the idea of being a woman”, but rather in sexual arousal by the masochistic association of oneself to symbols of emasculation (a “masochistic emasculation fetish”), being the imprinted sexualization of childhood emasculation trauma. The biggest sample of this fetishism on the internet exists on tumblr (google search terms “sissy” + “tumblr” for 100,000+ accounts of such fetishists, for which a small minority explicitly show signs of developing dysphoric feelings (emotional attachments derived in the common psychological conditioning on part of the sexual reward system). ThirdWayTrans covers the relationship between lust and emotional attachment in more detail here;
+
+https://thirdwaytrans.com/2015/03/10/on-agp/
+
+These pages explain the psychology around the masochistic emasculation fetish
+
+http://www.oocities.org/transsexual_analysis/transsexual4.html
+
+http://www.oocities.org/transsexual_analysis/transsexual5.html
+
+http://www.oocities.org/transsexual_analysis/transsexual6.html
+
+http://www.oocities.org/transsexual_analysis/transsexual11.html
+
+A crude but helpful diagram of how the fetish relates to transgenderism;
+
+LikeLiked by 2 people
+
+Reply
+
+Franklin said:
+
+November 24, 2016 at 5:17 am
+
+“Why aren’t there a bunch of people who insist that they really are plushies? Why aren’t foot fetishists demanding attractive-foot surgery?”
+
+Nitpicking, but you would see a rise in this if society deemed it plausible that one could take on these identities. Similar or almost the same as traditional society would find it absolutely nuts for one to believe they were of or had the feelings of the opposite sex.
+
+In short, we don’t know how these specific fetishes or orientations cause people to feel unless of course they feel less marginalized and more free to speak about what sexually arouses them.
+
+I don’t have much proof besides propaganda, but some believe that Michael Jackson actually felt he was a child inside. He was believed to have gone through all of those surgeries and procedures because he wanted to resemble the character Peter Pan. This orientation(or fetish) would be known as Autopaedophilia if given a name.
+
+Again though, until society becomes more sexually liberated, we will not know what others think or feel about what turns them on.
+
+LikeLiked by 2 people
+
+Reply
+
+M. Taylor Saotome-Westlake said:
+
+November 25, 2016 at 4:49 am
+
+(cross-posted from my blog)
+
+Autogynephilia does not work like other sexual fetishes. It is relatively rare for a person to upend their entire life to satisfy a sexual fetish
+
+Everyone agrees that virtually no one says, "I’m transitioning solely in order to satisfy my unusual sexual interests, no other reason at all!" But you agree that erotic female embodiment fantasies are very common in pre-trans women; you seem to think this can be a mere manifestation of gender dysphoria. Blanchard et al.’s claim is simply that the causality runs in the other direction: the deeply-felt self-identity beliefs that motivate transition arise out of the self-directed heterosexuality, not the other way around; the thing that people describe as the euphoria of being correctly gendered might be better modeled of as the autogynephilic analogue of romantic love.
+
+no evidence that ageplayers are any more likely than anyone else to want to have sex with children
+
+Although New York magazine’s Science of Us blog recently had a post about the converse!
+
+Why aren’t redhead fetishists aroused by having red hair […] given men’s preference for twenty-two-year-old women why aren’t there a bunch of men deeply erotically interested in being twenty-two?
+
+Men with erotic target location errors who are attracted to twenty-two-year-old redheaded women are erotically interested in the idea of being twenty-two-year-old redheaded women. I’m not sure why you would make the predictions you suggest. Male preferences for young women are about the physical features of young women, not chronological age measured in years (there were no calendars in the environment of evolutionary adaptedness!). (I’m reading you as using "redhead fetish" colloquially as indicating a preference for women with red hair; I could imagine attraction to the hair itself in conjunction with an ETLE might result in a fantasical desire to be red hair, but this would be much, much rarer.)
+
+we don’t see trans women becoming less motivated to transition after they start HRT.
+
+There actually are some accounts of this! See the "Effects of Hormone Therapy" section in Chapter 9 of Anne Lawrence’s Men Trapped in Men’s Bodies. Or consider Anne Vitale’s account of attempted detransitioners feeling their desire to be female return with testosterone administration (and presumably, increased sex drive).
+
+Second of all, it is strange that autogynephilia is the only erotic target location error that causes a significant number of people to wish to transition. There are maybe some people with bodily identity integrity disorder (although far fewer than gender dysphorics) and maybe some otherkin.
+
+Yes, we expect there to be a lot more autogynephilic trans women than aspiring amputees or otherkin, because attraction to women (that is, standard male sexuality) is much more common than attraction to amputees or animals.
+
+Furthermore, the autogynephilia theory does not even explain the data it purports to explain. Why are trans women disproportionately engineers and soldiers, instead of being randomly sampled from the male population?
+
+This is not a prediction of the theory. When explaining the theory, people often mention engineering or military careers as an illustration of autogynephilic trans women making more male-typical rather than female-typical occupational choices, which is a prediction of the theory.
+
+As it happens, I don’t think autogynephilia and associated gender dysphoria are uniformly distributed in the male population—the association with nerdiness has been independently noted too many times to not be real. This is certainly an interesting direction for future research, but I don’t see how it’s an objection.
+
+Why would a fetish make one transition later?
+
+It’s not so much that autogynephiles can’t transition early—like you say, you know a lot who did so at 19 or 20 (of whom I am so jealous)—but more that the nature of their condition is such that deciding to pull the trigger and just do it after many long years of slowly building up a female gender identity through crossdressing and fantasy is something that makes sense, whereas the for androphilic-feminine type, if you make it to age 30 as a feminine gay man, there’s little incentive to not just stay that way.
+
+Why would it cause one to not pass as well? Surely fetishizing being an attractive woman would cause one to have a lot of motivation to be an attractive woman.
+
+Part of it is going to be age of transition, as you note. Another part is that there’s lot of subtly gendered behavioral stuff that we don’t know how to fix independently of motivation, things you might not notice as part of the female-typical phenotype until you meet an autogynephilic trans woman who doesn’t have them. Motor behaviors. Vocal mannerisms. Unfortunately (heartbreakingly), this is a harder problem than people realize!
+
+the idea that very feminine gay men transition because gay men are attracted to masculine men and straight men are attracted to feminine women, so by becoming a woman they can get a more desirable sexual partner
+
+More generally, we’re talking about people who are very behaviorally feminine and have been their entire lives, who fit into society better as women rather than anomalously feminine men. Sexual success is part of that, and some presentations of the theory have put more emphasis on that aspect, but it’s probably better to emphasize the extent to which social transition is just an all-around social-success win for these people, without appealing to some atomic "identity".
+
+LikeLiked by 2 people
+
+Reply
+
+Nita said:
+
+November 25, 2016 at 1:18 pm
+
+From the linked paper “Becoming What We Love” by Lawrence:
+
+Nevertheless, its seems plausible that some nonhomosexual MtF transsexuals who report that they were unmasculine in childhood and adolescence can accurately be thought of as persons who want to become what they love, but whose love for women is more affectionate than erotic.
+
+To be honest, this sounds like stretching the concept of paraphilia beyond all recognition.
+
+Wanting to “become what you love” is a very common and normal type of human behavior, not some kind of unusual quirk.
+
+If a young man has a poster of Arnold Schwarzenegger on his wall, and it motivates him to work out, does he have a paraphilia? What if he happens to be bi or gay, and finds muscular guys both admirable and hot?
+
+Did Susan Boyle imitate professional singers and eventually become accepted as one because she had an affectionate paraphilia?
+
+(If anything, it’s the opposite urge — to become something very different from what you love — that needs to be explained, perhaps in terms of effective mating or alliance strategies.)
+
+LikeLiked by 1 person
+
+Reply
+
+veronica d said:
+
+November 25, 2016 at 4:20 pm
+
+Agreed. This whole theory begins as warmed-over Freudian nonsense about pervy trans women. Then when it turns out we are not uniformly pervy, quickly it shifts to be mistargeted romantic attraction.
+
+Humans have a profound ability to form self-narrative, and a narrative of self-love is as good as any other, I suppose. But this is so like cloud gazing.
+
+LikeLike
+
+M. Taylor Saotome-Westlake said:
+
+November 25, 2016 at 5:11 pm
+
+Wanting to “become what you love” is a very common and normal type of human behavior, not some kind of unusual quirk.
+
+Put it this way: something has to account for the difference between all the sensitive, nerdy straight guys who wish they had girlfriends, and all the superficially very similar-seeming sensitive, nerdy straight guys like me who, in addition to wishing they had girlfriends, also wish they were female themselves.
+
+Am I really supposed to believe that I have some subtle intersex condition where a gender-identity switch in my brain got flipped around, resulting in these beautiful pure sacred self-identity feelings, a taste for erotic female transformation fantasies, and nothing else particularly out of the ordinary? Am I really supposed to believe that all the trans women who report extremely similar experiences to me have a completely different etiology, just because they were dysphoric enough and brave enough to actually transition, and I’m not?
+
+Like, okay. I get that the political situation is fraught. You probably don’t want the general public believing that autogynephilia has a causal role in creating lesbian trans women. But the general public does not read the comments section of Ozy’s blog. Must we lie to ourselves, too?
+
+LikeLiked by 2 people
+
+wxhluyp said:
+
+November 25, 2016 at 6:02 pm
+
+Read the TWT’s link in my previous comment, to understand the relationship between lust and attachment.
+
+Thoughts on The Blanchard/Bailey Distinction
+
+The very same phenomenon (very basic psychology) of sexual desire and emotional internalization as occurring in the following
+
+LikeLike
+
+veronica d said:
+
+November 25, 2016 at 9:01 pm
+
+Put it this way: something has to account for the difference between all the sensitive, nerdy straight guys who wish they had girlfriends, and all the superficially very similar-seeming sensitive, nerdy straight guys like me who, in addition to wishing they had girlfriends, also wish they were female themselves.
+
+But this is not a uniform group. Something has to account for the fact that different shy “weird nerds” are neurodiverse in different ways. After all, the general cluster of ASD/ADHD brains are tremendously varied, but I don’t think my g/f’s touch sensitivity is different from my faceblindness cuz “erotic target location error.” Brains are weird. There is no reason to discount the notion that gender stuff is part of this general constellation of weirdness.
+
+Must we lie to ourselves, too?
+
+Certainly you should not lie to yourself.
+
+LikeLike
+
+T. Alexander said:
+
+November 27, 2016 at 3:52 pm
+
+(Can you delete/not approve/etc a similar comment to this that was posted under a different name? I fucked up.)
+
+“Now, the million-dollar question is: where are all the trans male autistics?”
+
+The answer here is ‘absolutely everywhere, without fail, making up at least a substantial portion of all transsexual men’.
+
+SBC and a few other studies I’ve read in the past support a ~20% comorbidity rate. I think this is a massive underestimate and would not accept a number under 50%. And in my experience (I’m not a Blanchardian, but I’m of the opinion reality has a well-known quasi-Blanchardian bias) it doesn’t seem particularly correlated with type, even though autistic trans women are statistically AGP.
+
+LikeLike
+
+Reply
+
+paintcat said:
+
+December 2, 2016 at 4:08 am
+
+This may be partially a function of my social group, but a HUGELY disproportionate number of the transmasculine folks I know are autistic (including myself.) Like, at least 50%.
+
+My pet theory about the autism/transgender link is that autistics are less responsive to the societal pressure to NOT transition. People who might, were they allistic, feel content to identify as tomboys or butch and brush off their feelings of dysphoria, if they happen to be autistic they’re more likely to come out and bluntly say “Well folks, this is how I feel.”
+
+LikeLiked by 1 person
+
+Reply
+
+Pingback: Linkspam: December 11th, 2016
+
+Pingback: Ah, research topic | thisiswhyiamsoangry
+
+Leave a Reply Cancel reply
+
+Comment
+
+Name
+
+Email
+
+Website
+
+Δ
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+Like My Blog?
+
+Amazon Wishlist
+
+Buy My Time
+
+Patreon
+
+Thing of Things Advice
+
+Blogroll
+
+Aha Parenting
+
+Alas A Blog
+
+Alicorn
+
+Catholic Authenticity
+
+Defeating the Dragons
+
+Dylan Matthews
+
+Effective Altruism Forum
+
+Eukaryote Writes Blog
+
+Eve Tushnet
+
+Expecting Science
+
+Glowfic
+
+Gruntled and Hinged
+
+Heteronormative Patriarchy for Men
+
+Ideas
+
+Intellectualizing
+
+Jai With An I
+
+Julia Belluz
+
+Julia Serano
+
+Kelsey Piper
+
+Less Wrong
+
+Love Joy Feminism
+
+Neil Gaiman's Journal
+
+Order of the Stick
+
+Otium
+
+Popehat
+
+PostSecret
+
+Rationalist Conspiracy
+
+Real Social Skills
+
+Science of Mom
+
+Slate Star Codex
+
+Sometimes A Lion
+
+Spiritual Friendship
+
+The Fat Nutritionist
+
+The Pervocracy
+
+The Rationalist Conspiracy
+
+The Unit of Caring
+
+The Whole Sky
+
+Tits and Sass
+
+Topher Brennan
+
+Yes Means Yes
+
+Recent Comments
+
+Tulip on On Taste
+
+nancylebovitz on Disconnected Thoughts on Nouns…
+
+nancylebovitz on Against Asshole Atheists
+
+nancylebovitz on Against Asshole Atheists
+
+Richard Gadsden on Sacred Values Are How Ethical…
+
+Richard Gadsden on The Curb Cut Effect, or Why It…
+
+Review of Ernst Cass… on Against Steelmanning
+
+Timberwere on Monsterhearts Moves List
+
+Articles of Interest… on Getting To A Fifty/Fifty Split…
+
+Eric on Bounty: Guide To Switching Fro…
+
+Blog at WordPress.com.
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+
+To find out more, including how to control cookies, see here:
+
+Cookie Policy
+
+Comment
+
+Reblog
+
+Subscribe
+
+Subscribed
+
+Thing of Things
+
+Join 1,138 other subscribers
+
+Sign me up
+
+Have a WordPress.com account? Log in now.
+
+Thing of Things
+
+Copy shortlinkView post in Reader
+
+Manage subscriptionsSign upLog in
+
+Report this content
+
+Collapse this bar
+
+%d
+
+Create your own website, free on WordPress.com.Create your own website.
+Start free

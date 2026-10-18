@@ -1,0 +1,2995 @@
+Home
+
+About / Top Posts
+
+Archives
+
+Top Posts
+
+Comments Feed
+RSS Feed
+
+Slate Star Codex
+
+Blogroll
+
+Economics
+
+Artir Kel
+
+Bryan Caplan
+
+David Friedman
+
+Pseudoerasmus
+
+Scott Sumner
+
+Tyler Cowen
+
+Effective Altruism
+
+80000 Hours Blog
+
+Effective Altruism Forum
+
+GiveWell Blog
+
+Rationality
+
+Alyssa Vance
+
+Beeminder
+
+Elizabeth Van Nostrand
+
+Gwern Branwen
+
+Jacob Falkovich
+
+Jeff Kaufman
+
+Katja Grace
+
+Kelsey Piper
+
+Less Wrong
+
+Paul Christiano
+
+Robin Hanson
+
+Sarah Constantin
+
+Zack Davis
+
+Zvi Mowshowitz
+
+Science
+
+Andrew Gelman
+
+Greg Cochran
+
+Michael Caton
+
+Razib Khan
+
+Scott Aaronson
+
+Stephan Guyenet
+
+Steve Hsu
+
+SSC Elsewhere
+
+SSC Discord Server
+
+SSC Podcast
+
+SSC Subreddit
+
+Unsong
+
+Archives
+
+January 2021
+
+September 2020
+
+June 2020
+
+May 2020
+
+April 2020
+
+March 2020
+
+February 2020
+
+January 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+August 2019
+
+July 2019
+
+June 2019
+
+May 2019
+
+April 2019
+
+March 2019
+
+February 2019
+
+January 2019
+
+December 2018
+
+November 2018
+
+October 2018
+
+September 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+May 2018
+
+April 2018
+
+March 2018
+
+February 2018
+
+January 2018
+
+December 2017
+
+November 2017
+
+October 2017
+
+September 2017
+
+August 2017
+
+July 2017
+
+June 2017
+
+May 2017
+
+April 2017
+
+March 2017
+
+February 2017
+
+January 2017
+
+December 2016
+
+November 2016
+
+October 2016
+
+September 2016
+
+August 2016
+
+July 2016
+
+June 2016
+
+May 2016
+
+April 2016
+
+March 2016
+
+February 2016
+
+January 2016
+
+December 2015
+
+November 2015
+
+October 2015
+
+September 2015
+
+August 2015
+
+July 2015
+
+June 2015
+
+May 2015
+
+April 2015
+
+March 2015
+
+February 2015
+
+January 2015
+
+December 2014
+
+November 2014
+
+October 2014
+
+September 2014
+
+August 2014
+
+July 2014
+
+June 2014
+
+May 2014
+
+April 2014
+
+March 2014
+
+February 2014
+
+January 2014
+
+December 2013
+
+November 2013
+
+October 2013
+
+September 2013
+
+August 2013
+
+July 2013
+
+June 2013
+
+May 2013
+
+April 2013
+
+March 2013
+
+February 2013
+
+Full Archives
+
+Autogenderphilia Is Common And Not Especially Related To Transgender
+
+Posted on February 10, 2020 by Scott Alexander
+
+“Autogynephilia” means becoming aroused by imagining yourself as a woman. “Autoandrophilia” means becoming aroused by imagining yourself as a man. There’s no term that describes both, but we need one, so let’s say autogenderphilia.
+
+These conditions are famous mostly because a few sexologists, especially Ray Blanchard and Michael Bailey, speculate that they are the most common cause of transgender. They point to studies showing most trans women endorse autogynephilia. Most trans people disagree with this theory, sometimes very strongly, and accuse it of reducing transgender to a fetish.
+
+Without wading into the moral issues around it, I thought it would be interesting to get data from the SSC survey. The following comes partly from my own analyses and partly from wulfrickson’s look at the public survey data on r/TheMotte.
+
+The survey asked the following questions:
+
+First of all, thanks to the 6,715 people (182 trans, 6259 cis, 274 confused) who answered these questions despite my disclaimers. Here’s how it worked out. 5 is maximally autogenderphilic, 1 is no autogenderphilia at all:
+
+Group (n)
+Autogynephilia
+Autoandrophilia
+
+Cis men (5592)
+2.6
+1.9
+
+Cis women (667)
+2.5
+2
+
+Trans men (35)
+1.9
+2.3
+
+Trans women (147)
+3.2
+1.3
+
+Group* (n)**
+Autogynephilia (1 – 5)
+Autoandrophilia (1 – 5)
+
+Straight cis men (4871)
+2.6
+1.8
+
+Bi cis men (430)
+2.6
+3.3
+
+Gay cis men (197)
+1.7
+3.4
+
+Straight cis women (375)
+2.4
+1.9
+
+Bi cis women (201)
+2.8
+2.5
+
+Lesbian cis women (31)
+2.5
+1.9
+
+Straight trans men (5)
+???
+???
+
+Bi trans men (19)
+???
+???
+
+Gay trans men (3)
+???
+???
+
+Straight trans women (5)
+???
+???
+
+Bi trans women (76)
+3.1
+1.4
+
+Lesbian trans women (39)
+3.4
+1.2
+
+*sexual orientation was self-reported. Almost all transgender people report sexual orientation relative to their current gender rather than their birth gender, so for example a “lesbian trans woman” would be someone who grew up male, currently identifies as female, and is attracted to other women. This is the opposite of how Blanchard and Bailey sometimes use these terms, so be careful comparing these results to theirs!
+
+**results are marked as ??? for groups with sample size lower than 20
+
+The survey confirmed Blanchard and Bailey’s finding that many lesbian trans women had strong autogynephilia. But it also confirmed other people’s findings that many cis people also have strong autogenderphilia. In this dataset, autogenderphilia rates in gay cis men were equal to those in lesbian trans women.
+
+Autogenderphilia in cis people was divided between fantasies about being the opposite gender, and fantasies about being the gender they already were. What does it mean to fantasize about being a gender you already are? I asked a cis female friend who admitted to autogynephilia. She told me:
+
+My literal body is arousing – it’s hot that I have breasts and can get pregnant and have a curvy figure and a feminine face and long hair, and it’s hot to dress up in femme clothes. There are certain gendered/social interactions that are very hot, or that can easily springboard into ones that are very hot. I’ve honestly wondered whether I might not be nonbinary or trans male, because I’m not really sure how euphoric being female is, besides that it’s like living in a sex fantasy.
+
+(score one for the hypothesis that this kind of thing causes gender transition, because after reading this I kind of want to be a woman.)
+
+Uh…moving on. The highest rates of autogenderphilia were found in bi cis men (autoandrophilia), gay cis men (autoandrophilia), bi trans women (autogynephilia), and lesbian trans women (autogynephilia).
+
+These groups all have three things in common: they identify as the gender involved, they are attracted to the gender involved, and they are biologically male.
+
+I would guess biological men have more of every fetish, regardless of their current gender identity, so it’s not surprising that they have more autogenderphilia also. In fact, we see that in biological women, the two highest categories are bi cis women (autogynephilia), and lesbian cis women (autogynephilia); again, they identify as the gender involved, and they are attracted to the gender involved.
+
+So abstracting that away, the SSC survey data suggest a very boring hypothesis of autogenderphilia: if you identify as a gender, and you’re attracted to that gender, it’s a natural leap to be attracted to yourself being that gender.
+
+The SSC survey hypothesis explains the same evidence that Blanchard and Bailey’s hypothesis explains (that lesbian trans women very often have autogynephilic fantasies), but reverse the proposed causation: it’s not that autogynephilia causes gender transition; it’s that identification as a gender is one factor that causes autogenderphilia.
+
+But after that, it can go on to explain other things that Blanchard and Bailey can’t explain, like why cis gay men have as much autoandrophilia as trans lesbian women have autogynephilia. Or why some people with low levels of autogenderphilia transition, but many people with high levels don’t. I think it’s a simpler and more defensible explanation of the evidence.
+
+I asked some people I know who supported Blanchard and Bailey’s theory for their thoughts. They focused on a few concerns about the data.
+
+First, weird Internet samples plausibly have more of every paraphilia. This might inflate the rate for cis gay men and the number of trans lesbian women, assuming the latter all had to be above some cutoff; that might falsely lead me to believe the two groups have the same rate.
+
+One counterargument might be that the responses among cis people alone are enough to generate the hypothesis discussed above. The low rates of autogynephilia in gay men, compared to in straight and bi men, suggest that being attracted to a gender is a prerequisite of autogenderphilia to it. And (adjusting again for the general tendency of male-bodied people to have more fetishes) the higher rates of autogynephilia in cis women/autoandrophilia in cis men, compared to autoandrophilia in cis women/autogynephilia in cis men, suggest that identifying as a gender is a prequisite to autogenderphilia to it.
+
+Another counterargument might be the similarity of the histograms produced by cis gay male and trans lesbian female responses; they don’t look like they’re being generated by two different processes which have only coincidentally averaged out into the same summary statistic:
+
+This doesn’t look like all cis men over a certain cutoff are becoming trans women; it looks like the curve for cis gay men and trans lesbian women are being shaped by the same process.
+
+Second, did the survey questions accurately capture autogenderphilia? Fetishes range from very mild to very extreme; some people like being slapped during sex, other people have whole BDSM dungeons in their basement. Is it possible the survey captured some boring meaning of autogenderphilia, like “sure, I guess it would be hot to be a woman”, but some people have a much stronger and more obsessive form? The histogram above argues against this a little, but there might be ceiling effects.
+
+Alice Dreger seems to take something like this perspective here:
+
+Q: Do you think autogynephilia might be a part of the female experience, trans or cis? I’ve seen some (very preliminary) theorizing about it as well as a paper with a tiny sample size that suggest that cis women also experience sexual arousal at the thought of themselves as women.
+
+A: I’ve talked with Blanchard, Bailey, and also Anne Lawrence about this, and my impression is they all doubt cis (non-transgender) women experience sexual arousal at the thought of themselves as women. Clinically, Blanchard observed autogynephilic natal male individuals who were aroused, for example, at the ideas of using a tampon for menses or knitting as a woman with other women. I have never heard a natal woman express sexual arousal at such ideas. I’ve never heard of a natal woman masturbating to such thoughts.
+
+I asked the same cis female friend who gave me the quotation above, and she described using a tampon to masturbate and finding it hot. I think Dreger makes an important point that there are some pretty unusual manifestations of autogenderphilic fetishes out there and we should hesitate before drawing too many conclusions from a single question that lumps them all together. But also, Alice Dreger seems like an really dignified and important person who probably doesn’t hang out with people who talk openly about their menstruation-related masturbation fantasies, and she should probably adjust for that. Maybe she could move to the Bay Area.
+
+There’s a common failure mode in psychiatry, where we notice people with some condition doing some weird thing, and fail to notice that huge swathes of people without the condition do the exact same weird thing. For example, everyone knows schizophrenics hear voices, but until recently nobody realized that something like 20% of healthy people do too. Everyone knows that LSD users can end up with permanent visual hallucinations, but until recently nobody realized that lots of drug-free people have the same problem. Schizophrenics definitely hear more voices than healthy people, and LSD users have more permanent visual hallucinations, but it’s movement along the distribution rather than a completely novel phenomenon.
+
+I think autogenderphilia is turning out to work the same way, and that this will require us to reassess the way we think about it.
+
+As usual, I welcome people trying to replicate or expand on these results. All of the data used in this post are freely available and can be downloaded here. I’ve also heard Michael Bailey is going to release his own interpretation of these data, so stay tuned for that. I’d like to delve into these issues further on future surveys, so let me know if you have ideas about how to do that.
+
+And a big thanks to Tailcalled for helping me set up this section of the survey. If you’re interested in these issues, you might enjoy his blog or his own analysis of these results.
+
+This entry was posted in Uncategorized and tagged race/gender/etc, survey. Bookmark the permalink.
+
+← Open Thread 147
+
+Open Thread 147.25 →
+
+256 Responses to Autogenderphilia Is Common And Not Especially Related To Transgender
+
+Reverse order
+
+Anthony says:
+
+February 10, 2020 at 8:21 pm
+
+I offer the hypothesis that many autogenderphilic people will fantasize about being of the opposite gender, but won’t identify as being of that gender, because they understand the attraction as a fantasy, and the fantasy isn’t strong enough to overcome the various issues with changing identity or undergoing physical transition. The sex-switch question would partially address that.
+
+I thought there was a question (maybe on last year’s survey?) about whether you would switch biological sex if it were affordable and *reversible*, which would also produce interesting results to compare to the autogenderphilia responses.
+
+Another question to get at this would be if you had ever role-played sexual situations online as the opposite sex.
+
+Matthias says:
+
+February 10, 2020 at 8:39 pm
+
+> Another question to get at this would be if you had ever role-played sexual situations online as the opposite sex.
+
+That’s an interesting question. But you should probably formulate in such a way to exclude people who did it for trolling?
+
+Nicholas says:
+
+February 11, 2020 at 8:52 am
+
+Doesn’t matter why, just ask if they were aroused by it.
+
+tailcalled says:
+
+February 11, 2020 at 1:55 am
+
+Autogynephilia is, if I recall correctly from my SSC survey analysis, the strongest correlate of wanting to change sex among cis men. But yes, most men, autogynephilic or not, do not want to be women. Scott got into a similar point in his post:
+
+But after that, it can go on to explain other things that Blanchard and Bailey can’t explain, like why cis gay men have as much autoandrophilia as trans lesbian women have autogynephilia. Or why some people with low levels of autogenderphilia transition, but many people with high levels don’t. I think it’s a simpler and more defensible explanation of the evidence.
+
+However, I think one should be careful with “overexplaining” things here. As mentioned, autogynephilic men are much more likely to want to be women, even if they usually don’t, and those who have very high levels are particularly likely to want it. IMO this makes a lot of sense within the Blanchardian-like model (autogynephilia is going to affect one’s gender feelings no matter what, but other factors may lead to lower or higher interest, and personal variation may affect whether this interest grows into severe gender dysphoria), but it raises some interesting questions in gender identity models – would it mean all highly autogynephilic men in reality are bigender or something??
+
+Now, the idea that the explanation is that all highly autogynephilic men are bigender is not as extreme as it sounds when going by the rates Scott found. Scott breifly speculated that:
+
+First, weird Internet samples plausibly have more of every paraphilia.
+
+But this doesn’t need to remain a speculation; there are representative studies that have been done that find much lower rates of autogynephilia in men than Scott’s does. For instance, this study finds a rate of ~10%, rather than Scott’s ~70%. (And the rates of high degrees of AGP is obviously going to be lower than that.)
+
+But regardless: autogynephilia correlates a lot with wanting to be a woman. It seems to me that whether one sees this as autogynephilia causing this desire, or the desire being caused by ???vague trans-spectrum feelings???, it becomes worthwhile to keep an eye on it.
+
+Also somewhat tangential but I’ve come up with a model which asserts that autogynephilia is in fact caused by (and does not cause) gender issues in men, and which is able to explain about as much as Blanchard’s typology is. But I don’t really believe it.
+
+liskantope says:
+
+February 10, 2020 at 8:32 pm
+
+Clearly one’s interpretation of what a “central” form of autogenderphilia is plays an important role in understanding what’s going on. I feel like from the perspective of what I typically assume typical autogynephilia to be, the quoted bit from Alice Dreger is sort of off-base: I would imagine that most cases of autogynephilia are people who are aroused by imagining themselves as women in a sexual context, not women doing more mundane feminine-coded things such as using tampons or knitting.
+
+Ozy Frantz says:
+
+February 10, 2020 at 9:02 pm
+
+My own survey suggests that for trans women (and everyone else), tampons- and knitting-based autogynephilia are very rare. Most people’s autogynephiliac fantasies are fantasies about having attractive female body parts, wearing sexy female clothing, and having sex with attractive people while being a woman. (And the converse for autoandrophilia, of course.)
+
+The same thing seems true when you look at autogynephiliac porn: typical themes include magical transformation into being a woman, promiscuous sex with people of various genders, wearing sexy underwear and makeup, having breasts, being hypnotized into being a woman, and so on. You have to look pretty hard to find menstruation porn!
+
+sclmlw says:
+
+February 10, 2020 at 9:40 pm
+
+Was the distinction between whether trans women could be aroused at such thoughts, versus cis women, as opposed to whether it was something they actively sought out?
+
+Either way, I think it’s not particularly informative. The observation, “something routine is not arousing to [group X]” isn’t exactly novel, nor should we draw strong conclusions from it.
+
+Heather says:
+
+February 11, 2020 at 11:19 am
+
+SOME NOTES about all of the things people said in response to my comment. Replying to Ozy Frantz because I don’t understand the rules of which comments I get to reply to, and Ozy Frantz left a top-level comment and is a reasonable person.
+
+* I believe Scott didn’t mean anything transphobic, but I was surprised that he didn’t use more conventional language to make that clear.
+
+* Thanks to a few commenters for stepping in and confirming that I’m not crazy and it’s not totally unreasonable to ask that maybe we mildly consider not being transphobic and pushing people away from the discourse. Just because you CAN use language that offends people, doesn’t mean you SHOULD. Most of the good-faith commenters here (like Scott) could have said exactly what they wanted to say while using language that is preferred by the community they are talking about. (Like, Scott, are you talking about us because you want to understand us and involve us in the discussion, or am I missing the point of this thread — is it really just about gawking at gross trans people?).
+
+* As the astute have determined, by “filter” I did not mean “censor”/”ban” I meant judiciously moderate and give some semblance that SSC doesn’t endorse horrible transphobic statements. I thought “I should go back and edit that” later that night, because darn it, I just knew that people would be offended by my mere suggestion of “filtering” blatantly offensive content. Whoops.
+
+* I see commenters saying that “assigned male at birth” offends their sensibilities. Because “assigned” has a negative connotation or sounds arbitrary? Well, it fucking is arbitrary. I am chromosomally intersex, I was operated on and assigned to one side of a fuzzy gray area instead of the other. Society treated me as a “man” but calling me a “biological man” completely ignores my abnormal development that prevented me from fitting in as a man in any meaningful sense. The first and only time I have been in any way normal is after transitioning, as a woman. I contemplated saying all of this in the first place, but deleted it because damn it, I didn’t want to have to say super private stuff to try to show why this kind of thing is offensive and bothersome. It’s taxing to have to get into a bunch of personal details to JUSTIFY why I would prefer others to avoid using unnecessarily offensive language. “Man” is not a biological concept. I would have been way less offended by “biological male” although it’s still not the most informative or applicable term, and I can see why others would prefer to avoid it. There is really no meaningful sense in which I am a “man” and if you think there is something “manly” about having an extra Y chromosome, weird. Also, I personally don’t find “biological sex” to be offensive or transphobic, nor do I know anyone who does. “Biological sex” is exactly the right term, or just “sex.” But “man” and “woman” are not biological terms; a male dog or a male horse or a male plant is not a man (even though it is male). It’s a pretty widely-recognized distinction. Some people probably didn’t know about the distinction, but others are clearly using language in an intentional way to frame a debate that does not respect trans identities.
+
+* Scott said something that bothered me, and I tried as politely as I could to ask for him to not do that. But others are going way further to question and express skepticism towards trans identities. Now I am trying to say as concisely why I am so bothered by all of this, but it’s difficult to express in few words without saying something that will be picked apart further (like using a word like “filter”). To even justify my request for a little civility, I’m now rambling on about personal details (to a bunch of people who have expressed enmity for people like me). How can anyone not see how that creates a hostile, and asymmetric discussion? I wasn’t asking for censorship or perfect adherence to any specific vocabulary, just wanted us to cultivate a little intent to be respectful. Seriously, people, I’m just saying “I want to hang out with you guys but could you please consider not saying things that make me want to leave?” and there are people basically saying that I have no right to be offended about anything. That is just a denialist viewpoint. Because if I’m offended and nobody will do anything about it, I guess I’ll just gravitate away from unpleasant discussions and towards people who aren’t bothered by rrequests for basic respect.
+
+Aapje says:
+
+February 11, 2020 at 4:00 pm
+
+@Heather:
+
+Most of the good-faith commenters here (like Scott) could have said exactly what they wanted to say while using language that is preferred by the community they are talking about.
+
+When that language has certain implications, you are actually demanding acceptance of your beliefs, while claiming to merely demand respect.
+
+As the astute have determined, by “filter” I did not mean “censor”/”ban” I meant judiciously moderate and give some semblance that SSC doesn’t endorse horrible transphobic statements.
+
+What does “judiciously moderate” mean then, other than to ban people from using that language and if they refuse, to ban them from this site? Do you actually know how moderation works (here)?
+
+Because “assigned” has a negative connotation or sounds arbitrary? Well, it fucking is arbitrary.
+
+It is not. The determination of sex works quite well for most babies, where the genitalia are clear and there is no intersex condition (and even then, many intersex people are actually the gender they are identified as). Even the babies that are misidentified are often consistently misidentified, which means that there is no arbitrariness in those cases, even if they are wrong.
+
+You actually illustrate exactly why I object to the abuse of the word “assigned,” because in your case it seems to have resulted in abuse of the word “arbitrary” as well.
+
+This is the issue with false frames (that may be politically expedient): they make people think about issues inaccurately. They start to use words in a different way to their actual meaning, use the same words with different meanings in different parts of their argument, achieve false consensus and false disagreement where different people use different definitions in the discussion they have with each other, etc.
+
+It poisons the mind.
+
+I am chromosomally intersex, I was operated on and assigned to one side of a fuzzy gray area instead of the other.
+
+Your personal experience is mostly irrelevant. I know that intersex people exist as a relatively small percentage of the population (where most don’t have your exact experience, so you seem to be an outlier among outliers).
+
+“Man” is not a biological concept.
+
+I disagree. “Man” can have multiple definitions, many if not most having a biological component.
+
+Again, just because you have an ideology, doesn’t mean that you should implicitly force that ideology on others, by forcing them to use your definitions.
+
+If you think their definitions are poor, debate them, rather than ask for moderation.
+
+There is really no meaningful sense in which I am a “man” and if you think there is something “manly” about having an extra Y chromosome, weird.
+
+Do you have Klinefelter syndrome? If so, the medical consensus seems to be that people with Klinefelter are male, although there does seem the possibility for (comorbid?) androgen insensitivity causing female development or of course for people with Klinefelter to be trans (just like people without Klinefelter can be trans).
+
+Anyway, it probably doesn’t really matter, because you are interpreting “biologically male” as being identical to what is on your birth certificate, including misidentified intersex people, which is probably not what Scott was even defining the term as.
+
+To even justify my request for a little civility, I’m now rambling on about personal details (to a bunch of people who have expressed enmity for people like me). How can anyone not see how that creates a hostile, and asymmetric discussion?
+
+It is not the fault of others if you cannot debate this issue other than based on your personal, anecdotal experiences. That style of debate can also be perceived as hostile and asymmetric, as the claims are usually unverifiable, emotionally charged even though they are weak as arguments and such claims implicitly demand personal revelations from the other person.
+
+I wasn’t asking for censorship or perfect adherence to any specific vocabulary, just wanted us to cultivate a little intent to be respectful.
+
+I honestly feel that you are passively aggressive gaslighting me right now, because your earlier comment didn’t ask for people to self-censor, but for others to filter people like Steve Sailer.
+
+I interpret those words completely differently from how you claim that they should be interpreted and I really don’t think the problem is on my end.
+
+Steve Sailer says:
+
+February 12, 2020 at 3:20 am
+
+Dear Heather:
+
+If you are the unfortunate victim of a chromosomal birth defect, should society continue to lump you in with autogynephilic fetishists such as the 1976 Olympic decathlon gold medalist (an event so masculine that there is still no female equivalent)? Should your organic issue be confused with the mental issues of fetishists such as the Wachowskis?
+
+My feeling would be that those born physically intersex should be accorded great sympathy, while society should be skeptical of the pretensions of Nietzschean ubermensch fetishists like Jenner and the Wachowskis.
+
+Scott Alexander says:
+
+February 12, 2020 at 9:07 am
+
+Someone on this thread accidentally commented with their real name and asked me to change this. Given the sensitivity of this topic I thought that was reasonable, so I’ve done some moderation to remove it, including editing a few people’s posts that included the name. Sorry if your post was changed without your consent or if posts are missing.
+
+Aapje says:
+
+February 11, 2020 at 5:57 am
+
+@liskantope
+
+not women doing more mundane feminine-coded things such as using tampons or knitting.
+
+Isn’t this just a fetish, independent of autogynephilia or such? Prince Charles famously wanted to be Camilla’s tampon.
+
+bullseye says:
+
+February 11, 2020 at 2:03 pm
+
+Isn’t saying “I want to be your tampon” a just a needlessly gross way of saying “I want to put my dick in you”?
+
+theredsheep says:
+
+February 11, 2020 at 2:28 pm
+
+During a specific interval.
+
+Aapje says:
+
+February 11, 2020 at 3:01 pm
+
+Vampire confirmed.
+
+alyssavance says:
+
+February 10, 2020 at 8:53 pm
+
+“Previous surveys have found that biological men have more of every fetish, regardless of their current gender identity, so it’s not surprising that they have more autogenderphilia also.”
+
+Can you cite this? Also, is this looking at people pre-transition or post-transition? I’d be shocked if lowering testosterone didn’t decrease sex drive in trans women, since that’s what it does in everyone else.
+
+Scott Alexander says:
+
+February 10, 2020 at 9:17 pm
+
+This was based on my memory of unpublished results from the last survey. I just double-checked them, and it’s more complicated. Cis men have more of most fetishes than cis women, but so many cis women have a bondage fetish that the numbers reverse if you add that in. Trans people of both sexes have so many more fetishes than cis people that grouping people by birth gender, as opposed to both-cis-genders vs. both-trans-genders, seems unfair. I have edited the post to remove the claim that this is clearly supported by survey data, and listed it as my speculation only.
+
+Heather says:
+
+February 11, 2020 at 1:14 am
+
+What’s with the “biological man” language? It bothers me (as a trans person) in ways that I expected to be obvious to you. Do you have a compelling reason to use that language instead of widely preferred terminology like “assigned male at birth”? What do you mean, exactly? Because it’s usually used by transphobes to insinuate that trans identities aren’t valid. And there’s quite a few of them coming out of the woodwork in the comments here already. I had way more to say about this, but it’s just too frustrating. Is SSC supposed to be a place where trans people like me feel welcome, or not? It seems like whether or not we should be spoken of with levels of sensitivity and kindness that are entirely conventional, is still somehow an open question here. There’s no apparent effort to filter the pretty blatantly transphobic discourse of the likes of Steve Sailer. The least you could do would be to frame the discussion with the conventional language that is now standard (at least, in my region) for various institutions and for medical and psychiatric professionals.
+
+Unirt says:
+
+February 11, 2020 at 2:17 am
+
+I’m quite sure nothing transphobic is meant with it here. “Assigned sex at birth” and “biological sex” can have different meanings in some specific cases. Biological sex only means one thing – which type of gonads you have, the kinds that produce small gametes or the kinds that produce large ones (and of course it’s possible to have both). It’s sometimes useful to distinguish those in biology.
+
+Dee_ says:
+
+February 12, 2020 at 2:13 am
+
+The gametes approach implies that sterile people don’t have a sex.
+
+There are good reasons people are asking Scott to use the medically standard term ‘assigned’.
+
+‘Biologically male’ is especially unhelpful in discussions of sexuality because the sex hormones that are affected (radically) by trans HRT play a major role in sexuality.
+
+Dee_ says:
+
+February 12, 2020 at 5:35 pm
+
+I mean it’s medically standard (WPATH) in trans care, which is the topic of Scott’s post.
+
+Aapje says:
+
+February 13, 2020 at 4:51 am
+
+Trans care is a very young field, where the level of activism seems high and the level of ‘science-based’ seems fairly low. As such, I don’t see it as being very authoritative.
+
+Unirt says:
+
+February 11, 2020 at 2:23 am
+
+I also want to point out that I for one had not a slightest idea before now that “biological sex” can be read as transphobic… Perhaps it’s different in Europe?
+
+thisheavenlyconjugation says:
+
+February 11, 2020 at 6:35 am
+
+I think it’s the “man” part more than the “biological” part that is the issue. Probably “biologically male” would be less objectionable.
+
+Ozy Frantz says:
+
+February 11, 2020 at 9:18 am
+
+I don’t mean this to be rude, but how informed are you on trans issues? “Biological man” has not been preferred terminology for over a decade (and, yes, also in Europe and, yes, “biological male” is also not preferred). Trans people do not generally like terminology which implies that we are in some fundamental sense our birth gender.
+
+Aapje says:
+
+February 11, 2020 at 4:12 pm
+
+@Ozy Frantz
+
+You may not like it, but that doesn’t make it false.
+
+In my view, if a body developed as male originally and reverts to male characteristics when the person stops to take hormones, then the body is biologically male and the person is biologically a man.
+
+That doesn’t mean that the person shouldn’t be treated as female, socially, when the person transitions or such. The conflation of the biological with the social (and the conflation of some feminizing biological change to a cis female body) is actually a common problem that a lot of activist seem to desire.
+
+Of course, one can consider these beliefs rude, but some consider the behavior of certain activists to be rude, as well.
+
+Aapje says:
+
+February 11, 2020 at 6:02 am
+
+@Heather
+
+“Assigned male at birth” is a mostly nonsensical term that is heavily ideological and used to insinuate that biological gender doesn’t meaningfully exist.
+
+It’s no more widely preferred than pro-choice is preferred over pro-life or vice versa.
+
+There’s no apparent effort to filter the pretty blatantly transphobic discourse of the likes of Steve Sailer.
+
+Perhaps you should be more tolerant. Have you considered that other people may want to see you ‘filtered’?
+
+Why should you get the right to ban other opinions?
+
+Act_II says:
+
+February 11, 2020 at 7:19 am
+
+How on earth is it nonsensical? It is an extremely clear and neutral term that sidesteps issues surrounding words like “man” or even “male”.
+
+Perhaps you should be more tolerant. Have you considered that other people may want to see you ‘filtered’? Why should you get the right to ban other opinions?
+
+Oh, you’re a concern troll. Well, for the sake of other people reading, the other commenter did not suggest “banning” anything. They merely suggested (politely, I might add) that Scott use more neutral language. They also explained why: the terms Scott used have connotations that he might not have been aware of.
+
+EDIT: After reading more of the thread, I realize I misunderstood what Heather was saying. She was in fact suggesting that a different commenter, Steve Sailer, be “filtered”. This response is still ridiculous. “Filter” doesn’t necessarily mean “ban”. It was clearly a request that Scott moderate more carefully (which IIRC he has been willing to do in the past) rather than a demand to silence people’s voices.
+
+Randy M says:
+
+February 11, 2020 at 7:51 am
+
+How on earth is it nonsensical?
+
+It’s nonsensical because it implies a level of arbitrariness that belies the actual statistics.
+
+Act_II says:
+
+February 11, 2020 at 8:03 am
+
+@Randy M
+
+It is a simple factual statement that only means what it says: at birth, this person was assigned male. Any other “implications” are coming from you. It certainly accounts for the idea that the gender assignment might not reflect reality, but does not make any kind of claim to that effect.
+
+It’s not a future-proof term — there may come a time when infants aren’t assigned a gender at birth — but it is the best one I’ve heard for the current time, since it is unambiguous, takes a neutral stance on issues of sex and gender, and covers almost everyone (including many intersex people).
+
+Randy M says:
+
+February 11, 2020 at 8:16 am
+
+Any other “implications” are coming from you.
+
+Perhaps, but not without reason. The active verb in the phrase (okay, verb derived adjective) is one done by a specific person, and since the phrase is only used by people who feel that action was actually incorrect, it reads condemnatory (again, to me) of a perfectly reasonable action.
+
+I think “apparent sex at birth” would be avoid this.
+
+eigenmoon says:
+
+February 11, 2020 at 8:52 am
+
+@Act_II
+
+Why should somebody be “filtered” based on whether or not they use terminology that is conventional in Heather’s particular region? Like Unirt, I’ve never seen it before. Where I am, “born male” would do. I have no way to know how transphobic it sounds where Heather’s from (which I also don’t know). A request to “frame the discussion” in terms unknown to its participants is nonsense, and phrased with “The least you could do…” it sounds quite rude to me.
+
+sty_silver says:
+
+February 11, 2020 at 9:05 am
+
+This seems to violate the voting policy under the true/kind/necessary rule. If there is a reasonable version of this argument, then starting it off by saying that “assigned male at birth” is nonsensical is the wrong way to make it.
+
+Act_II says:
+
+February 11, 2020 at 9:51 am
+
+@Randy M
+
+“Assigned” is not a word with negative connotations, and it isn’t necessarily something done by an individual. It also isn’t necessarily incorrect. I was assigned male at birth, and it just so happens that the assignment was correct. I really think you’re projecting here. Your alternative, “apparent,” might work — it’s certainly more neutral than “biological man” or “ex-man”. I’m personally sticking with “assigned” due to that being the predominant usage.
+
+@eigenmoon
+
+I had trouble responding to this because there are a few intertwined issues that I don’t want to conflate. Here’s a response that’s organized as well as I could manage.
+
+(a) Re: the term “assigned male at birth”. Heather hedged her words, but this is not a particularly regional term. It’s very common in LGBT+ circles and the doctors and psychiatrists who specialize in treating trans people. It’s perfectly okay not to know this term at first; not everyone has equal exposure to this sort of thing. But it is the conventional term.
+
+(b) Re: filtering. I should clarify what I mean by that. It doesn’t have to mean banning a commenter. It can mean, for example:
+
+-Politely correcting a commenter who is using the wrong terminology out of ignorance.
+
+-Warning repeat offenders to knock it off.
+
+-Deleting bad comments if the poster refuses to edit them.
+
+Other commenters can do the first one, but it has more clout coming from the moderator. The rest are pretty standard ways to moderate a blog or forum.
+
+(c) Re: filtering in this specific case. The commenter in question didn’t simply use the wrong term. He’s all over this thread calling trans women “ex-men,” referring to them with male pronouns, and generally making it clear that he doesn’t respect them or their identity. Can you see how this creates a hostile environment for trans readers? Of course, Scott can run his blog however he wants, but letting commenters like that go without correction drives away people who don’t feel like justifying their existence to bad-faith strangers.
+
+(d) Re: “framing the discussion”. The parent post sets the tone for the discussion. Scott using the correct term introduces it to commenters who may not know about it. It also signals that he is somewhat informed on trans issues. It won’t always stop people like the “ex-men” guy, but it could help give people like you or Unirt a more accurate vocabulary going in so that threads like this won’t be necessary.
+
+(e) Re: tone, “least you could do”. I want to give Scott the benefit of the doubt. He probably just picked the term that seemed the most right to him at the time. Now that this topic has come up, though, it’s really not a big ask to use the (pretty unobjectionable) accurate term. Again, he can run his blog however he pleases, it just seems like an easy thing to fix once aware of it.
+
+The Nybbler says:
+
+February 11, 2020 at 10:17 am
+
+Nobody here was born yesterday (or if they were they didn’t say so on the survey), and I believe all realize that using the terms “assigned male/female at birth” is accepting a certain framing, just as using the terms “REAL man/woman” would be accepting a certain (different) framing. Trying to twist civility rules to enforce your particular framing is… not civil.
+
+caryatis says:
+
+February 11, 2020 at 10:49 am
+
+The Nybbler is right: there is no objectively agreed upon term. I’ve striven to find neutral language to talk about trans issues, but it’s very hard.
+
+I personally would object to being referred to as “assigned female,” because being a woman is more than just a social construct. It’s a fact that I am a woman, not a social role or opinion or feeling.
+
+Act_II says:
+
+February 11, 2020 at 10:58 am
+
+@caryatis
+
+But if you have a birth certificate that says “F” then you literally were assigned female. It’s hard to get less ambiguous than that. It isn’t a comment on the experience of gender. It’s a historical fact about you.
+
+Randy M says:
+
+February 11, 2020 at 11:48 am
+
+But if you have a birth certificate that says “F” then you literally were assigned female. It’s hard to get less ambiguous than that. It isn’t a comment on the experience of gender. It’s a historical fact about you.
+
+Framing it as an assignment rather than a self-evident fact is to some cis people offensive.
+
+It does sound like to several people here that the interpretation of “assigned” does carry a certain amount of arbitrariness in it’s connotations. Perhaps your reading isn’t as dominant as you had thought?
+
+Nicholas says:
+
+February 11, 2020 at 12:07 pm
+
+I object to framing this issue as that of “correct” vs “wrong” terms/language rather than being a subjective preference by some parties as to which terms/language is used.
+
+If I received an “A” on an academic assignment, I don’t think it would be correct to say I was ‘assigned an A’, and the connotation of saying that would I think very clearly be that the “A” was somehow not reflective of the actual performance on the assignment. The “A” is not the thing, the “A” is merely a record of the thing. This seems to me to be reasonably analogous to an “F” on the birth certificate; it is not the thing, it’s just a record of the thing. Importantly, that ‘thing’ is not an identity or gender, merely biological sex (exceptions excepted, and accepted).
+
+I genuinely want everyone to follow their bliss, live their best lives, and feel fully actualized in expressing their true selves however they identify. I am not however (perhaps yet) at a place where I can fellow travel with those who are offended by the existence of biology. If you think I’m wrong about this, I’m happy to discuss the relevant issues and evidence, and am genuinely open to being persuaded to change my mind. I’m somewhat less happy to be accused of dog-whistling bigotry, and would be far less likely to be persuaded to change my mind.
+
+Act_II says:
+
+February 11, 2020 at 12:21 pm
+
+Framing it as an assignment rather than a self-evident fact is to some cis people offensive.
+
+Sorry, I don’t believe this is true. Some certainly may act offended, I’ll grant you that. But what they’re really offended by the idea that gender might not be determined by genitals. They’re not offended by the framing itself, but by the fact that it allows room for transgender people to exist.
+
+Even if it were true, it’s empirically indistinguishable from transphobia. Why should I respect that? Do you understand why playing the victim when hearing this phrase might set off alarm bells for trans people?
+
+It does sound like to several people here the interpretation of “assigned” does carry a certain amount of arbitrariness in it’s connotations. Perhaps your reading isn’t as dominant as you had thought?
+
+No, I know what words mean. The objections read to me as stemming from either misunderstanding or dishonesty (or ingroup/outgroup dynamics). I think there is a discomfort with the idea that assigned sex may not match gender and people are trying quite hard to find problems with the scary new SJW phrase they’re being asked to use.
+
+The most generous interpretation of this “arbitrary” complaint I can think of is this: if the doctor can assign someone male, he can just as easily assign someone female. But this isn’t true nor is it implied by the phrase. It’s not just one doctor who does the assignment, it’s the parents, nurses, other doctors, and later teachers and peers who make and reinforce this assignment. Now, does the phrase imply that all these people could work together to make a different assignment? Yes, and this is true. The exception that proves the rule is David Reimer. Despite being born with a male phenotype, all the people around him collaborated to assign him female instead. And it worked for a decade, until he figured out that his real gender didn’t match his assigned one.
+
+eigenmoon says:
+
+February 11, 2020 at 12:26 pm
+
+@Act_II
+
+Thank you for the long answer.
+
+I accept Ozy Frantz’s explanation about the expression “biological male” and will avoid it in the future. I also agree that Steve is probably violating the rules of this forum. I will refrain from judgement on whether Heather’s post was too rude or not.
+
+However I also came to this decision: I refuse to use “assigned at birth”. It has a connotation that you refuse to acknowledge, instead you claim that it’s just a fact. But your answer to caryatis can be used just as well to defend the expression “ex-woman”, therefore it misses the point.
+
+Conrad Honcho says:
+
+February 11, 2020 at 12:53 pm
+
+Act_II, the problem when you get into the offensiveness is with this bit:
+
+it is the best one I’ve heard for the current time, since it is unambiguous, takes a neutral stance on issues of sex and gender, and covers almost everyone
+
+It sounds as though you want me to call myself (cis male) “assigned male at birth.” And my cis son, “assigned male” and my cis daughter “assigned female.” Do you understand that that comes across as insulting? For instance, if I referred to someone as “assigned human.” It heavily implies that I don’t take their humanity seriously. That would be dehumanizing, and I think you would object to that.
+
+Act_II says:
+
+February 11, 2020 at 1:08 pm
+
+@eigenmoon
+
+Always good to see a willingness to update your position. Kudos.
+
+But your answer to caryatis can be used just as well to defend the expression “ex-woman”, therefore it misses the point.
+
+How? An F on your birth certificate just means that, at the time of your birth, people assigned the category “female” to you. It doesn’t mean you are a woman, or that you used to be a woman but may have changed. It makes no comment on your identity or actions at all, in fact: just on others’ responses to you.
+
+@Nicholas
+
+This seems to me to be reasonably analogous to an “F” on the birth certificate; it is not the thing, it’s just a record of the thing. Importantly, that ‘thing’ is not an identity or gender, merely biological sex (exceptions excepted, and accepted).
+
+Hmm, partially agree and partially disagree. Yes, an F on your birth certificate doesn’t determine your sex or gender; it’s just a record of the fact that when you were born, people in the room agreed you were a girl. And it is certainly determined by your genitals (intersex people excepted for now). But there are many ways of assigning gender. For your infancy and early life, other people determine your name, your clothes, your toys, who your social group is, your pronouns, the way they speak to you, their expectations of you, and many other gender-coded behaviors. All of this is a result of the letter assigned to you in the delivery room.
+
+I genuinely want everyone to follow their bliss, live their best lives, and feel fully actualized in expressing their true selves however they identify. I am not however (perhaps yet) at a place where I can fellow travel with those who are offended by the existence of biology.
+
+This isn’t a good characterization of my position (or most trans people AFAIK). In fact, talking to biologists has made me less skeptical of trans issues. I would recommend it.
+
+If you think I’m wrong about this, I’m happy to discuss the relevant issues and evidence, and am genuinely open to being persuaded to change my mind. I’m somewhat less happy to be accused of dog-whistling bigotry, and would be far less likely to be persuaded to change my mind.
+
+This thread is already getting long, but in an open thread sometime, this could happen.
+
+Nicholas says:
+
+February 12, 2020 at 12:41 pm
+
+@Act_II
+
+I am not however (perhaps yet) at a place where I can fellow travel with those who are offended by the existence of biology.
+
+This isn’t a good characterization of my position (or most trans people AFAIK).
+
+This was unnecessarily flippant of me; you have conducted yourself 100% civilly, and didn’t deserve that. Even though we disagree, I don’t think that makes you a bad person. Some in the threads don’t seem to share that value, and I let my bad feelings about that get in the way of treating you with the full dignity you deserve. I apologize, and look forward to maybe learning more about your thoughts on biology in some later open thread.
+
+Act_II says:
+
+February 11, 2020 at 1:52 pm
+
+@Conrad Honcho
+
+Ah, I think I’ve been misunderstood. It would be accurate to call you or your son (or me for that matter) “assigned male at birth” but that’s by no means the only correct way to refer to you. If you’re a man, go ahead and call yourself a man. If your son is a man or a boy, go ahead and call him a man or a boy. I have no problem with that at all (and I don’t even think I have the right to have a problem with it), it’s completely accurate and fine in my eyes. The AMAB label would only be relevant in posts like this, where it makes sense to distinguish you or me or your son from trans men, or group us with trans women.
+
+I don’t think the “assigned human” analogy holds up that well in a modern context, since species isn’t really a grey area for humans. But it did make me wonder what kind of conversations we’d be having if other closely-related hominids still existed, so thanks for that thought-experiment fuel.
+
+onyomi says:
+
+February 11, 2020 at 3:44 pm
+
+I also agree that Steve is probably violating the rules of this forum. I will refrain from judgement on whether Heather’s post was too rude or not.
+
+How is Steve Sailer the one breaking the rules here? Heather is the one who called him out as needing “filtering” even though he never directly addressed her or insulted anyone other than by failing to use the latest terminology current among health professionals in Heather’s region.
+
+Heather is the one engaging in aggressive tone policing and attempts to enforce ideological conformity on a community I’ve never seen her contribute to before.
+
+Aapje says:
+
+February 11, 2020 at 4:42 pm
+
+@Act_II
+
+According to the Cambridge dictionary, “assigned” is “to give a particular job or piece of work to someone.”
+
+However, what doctors (and/or parents) actually do is to determine the sex of the baby by looking at the primary sex characteristics. If it looks like a penis, the baby is called male, if not, female.
+
+The difference between “assign” and “determine” is, to me, indeed whether there is a high level of arbitrariness in the application of the label.
+
+For example, if Mary is assigned the job of professor, then their status as a professor is merely by virtue of that assignment. The assignment is (hopefully) not arbitrary, since Mary presumably has the qualities to be a professor. However, Bob, who also has these qualities, is not a professor, unless he was assigned that job. The assignment makes someone a professor, not having professorial qualities.
+
+In contrast, if a parent reports a baby as a girl to the government, even though the baby has XX chromosomes (and no intersex condition), then the body of the baby will develop in a male way regardless of what the government was told and people will treat the person as male when they notice the male characteristics. So you cannot meaningfully assign a gender to a baby.
+
+—
+
+Also, you repeatedly misread my comment as me alleging that Heather wants people to be banned, when I actually said “ban other opinions.”
+
+This covers a far greater range of censorship than outright bans.
+
+onyomi says:
+
+February 11, 2020 at 7:48 pm
+
+They merely suggested (politely, I might add) that Scott use more neutral language.
+
+https://slatestarcodex.com/2017/05/01/neutral-vs-conservative-the-eternal-struggle/
+
+eigenmoon says:
+
+February 11, 2020 at 10:48 pm
+
+@Act_II
+
+How? An F on your birth certificate just means that, at the time of your birth, people assigned the category “female” to you. It doesn’t mean you are a woman, or that you used to be a woman but may have changed. It makes no comment on your identity or actions at all, in fact: just on others’ responses to you.
+
+Consider the term “self-identified male” for describing both cis-men and trans-men. Such a term passes all your criteria of being acceptable: if you’re self-identified as a man, it doesn’t mean that you aren’t a man; it’s a simple factual statement about your choice. And yet the trans folks wouldn’t buy that, and I would agree with them here, because I do not agree that the criteria that you put forth as sufficient for a term to be acceptable are actually sufficient.
+
+eric23 says:
+
+February 12, 2020 at 2:07 am
+
+How about “recorded male at birth”? As the doctor writing “M” or “F” does not think she is creating a new status, but rather just recording the current state of the genitals.
+
+acymetric says:
+
+February 12, 2020 at 8:14 am
+
+I don’t have a strong opinion on this, but here is an example where the “assigned” phrasing seems like it reads really weird.
+
+Link
+
+On Tuesday morning, Union posted a video to Twitter to introduce Zaya, who was assigned male sex organs at birth.
+
+Act_II says:
+
+February 12, 2020 at 9:18 am
+
+@onyomi
+
+You’re going to have to spell it out for me. The linked post seems to be discussing something completely different than neutral language.
+
+@eigenmoon
+
+What makes you think trans people wouldn’t like the term “self-identified male”? There are lots of similar turns of phrase: “I identify as male” etc. The closest to an objection I can think of is that it sounds close to the term “trans-identified male” which is a slur for trans women, but that’s a reach. Sure, if you ONLY referred to trans men that way it could come across as inauthentic/skeptical, but it is a strictly accurate term and could be appropriate in contexts like this.
+
+I also want to note that acceptance by trans people is one of my criteria for a good term. So if this is a real term that is opposed by real trans people, then it doesn’t pass my criteria after all.
+
+@eric23
+
+Like a few other suggestions on this thread, there are reasons I wouldn’t use it myself, but I wouldn’t consider it nearly as bad a term as “biological man”. The final call on that goes to actual trans people, but I don’t prima facie have a big problem with it and probably wouldn’t think twice if someone used it in the wild.
+
+@acymetric
+
+MFW
+
+eigenmoon says:
+
+February 12, 2020 at 12:19 pm
+
+@Act_II
+
+I see. In general I do not allow any group to tell me what the “correct” terminology is. I say “Mormons” instead of “Latter-Day Saints” and they weakly protest but don’t seem to be offended. Jehovah’s Witnesses usually are a bit more offended at being called a “church”; they say that they aren’t a church because they don’t follow traditions. Well, I tell them, shouldn’t you be called Yahweh’s Witnesses then? And of course “taxation” is just an official word for robbery done by government.
+
+Thus there’s a necessary step of negotiating terms (which is kinda what’s going on here). A group that claims that you should use their terms just because they said so has basically lost the negotiations already, because it’s now highly suspect of political motives (here’s an example of something that works only within “assign”-frame).
+
+sandoratthezoo says:
+
+February 12, 2020 at 4:11 pm
+
+If a cis woman without any intersex condition had “M” written on her birth certificate due to a record keeping mistake, shortly corrected, would you regard her as “assigned male at birth”?
+
+The letter written on the birth certificate is not what people care about.
+
+Bugmaster says:
+
+February 12, 2020 at 6:04 pm
+
+I am coming late to this fight, but still:
+
+AFAICT, this specific survey that we are discussing tries to answer the question (among others):
+
+“Let’s say that a person currently identifies as gender A, and that person’s physical body had developed according to biological plan B (including genetics, hormonal makeup, etc.) throughout most of that person’s life. Is the person more or less likely to experience autogenderphilia; and if so, towards which gender C ?”
+
+We can plug in lots of different values for A, B, and C; we don’t have to be limited to just to common two, if we don’t want to be.
+
+Assuming this framing is accurate, is there a way we can discuss this question at all; and if so, are there in principle some shorthand terms that we can all agree to use ?
+
+I try to be as nice as possible during these discussions, but if the answers are “no” and “no”, then IMO this should count as a massive strike against both the trans and the anti-trans communities, in perhaps equal measure.
+
+Nicholas says:
+
+February 11, 2020 at 9:12 am
+
+??? How can a phrase that definitionally concedes the points that there is a valid distinction between physical biology and identity be used to insinuate that identity is invalid? It seems to be inherently affirming the validity of trans identifies.
+
+Even if some trolls on the internet use it in a disparaging way, whatever language is proposed to replace it would be corrupted by the trolls in the same way precisely because that’s their goal. So instead of letting trolls dictate our language, let’s start by assuming people who aren’t trolls aren’t trolling, and work our way up from there.
+
+Act_II says:
+
+February 11, 2020 at 10:05 am
+
+Well, mainly, it’s that it still refers to trans women as men. “Male” is better, but since the word male carries a lot of the same connotations as the word man, it isn’t much better. Also, the category of “biological male” is much less clear than you might think! It works for most of the population, but gray areas certainly remain.
+
+So instead of letting trolls dictate our language, let’s start by assuming people who aren’t trolls aren’t trolling, and work our way up from there.
+
+I genuinely agree. But we’re not letting trolls dictate our language on trans people. We’re letting trans people dictate our language on trans people (since AMAB/AFAB is predominantly used).
+
+jermo sapiens says:
+
+February 11, 2020 at 10:17 am
+
+We’re letting trans people dictate our language on trans people (since AMAB/AFAB is predominantly used).
+
+I dont think trans people are in uniform agreement on this point. But I agree that within trans activists, that is the preferred terminology. That said, I dislike that language and will not use it.
+
+The reason is that it seems like it’s not very honest. The verb “assign”, at least the way I understand it, suggests a level of arbitrariness to the process. eg Alice was assigned to the blue team, Bob was assigned to the red team. Further, I suspect that this is intentional, because for trans people gender may appear more arbitrary than for others.
+
+But it’s not arbitrary. Nothing is assigned. And it is your biological sex which is observed at birth, not your future gender identity.
+
+Act_II says:
+
+February 11, 2020 at 10:44 am
+
+@jermo sapiens
+
+You aren’t required to use any language you don’t want to. Just understand what you’re communicating. In this case, your refusal to use the correct term as accepted by trans people communicates disrespect for them. (This is different from an honest mistake, which only communicates ignorance.) Nobody is going to throw you in jail for it, but they may view you as hostile because of it.
+
+I’m afraid I don’t understand your objection. “Assign” doesn’t have any connotation of arbitrariness. It just refers to making a classification. It usually has a connotation of intent, which if anything seems like the opposite of arbitrariness.
+
+People are literally assigned a gender at birth. In countries with birth certificate, this is an actual legal process and is based on a baby’s primary sex characteristics. Even without a birth certificate, babies are assigned a gender by the people around them. Whether this is correct can’t really be known until the baby itself is old enough to opine on the topic.
+
+Act_II says:
+
+February 11, 2020 at 10:52 am
+
+Actually, I’m going to adjust what I said here a bit. Refusing to use AMAB/AFAB is not as much the issue, it’s more continuing to use “biological male” despite the active objections of trans people.
+
+jermo sapiens says:
+
+February 11, 2020 at 10:59 am
+
+In this case, your refusal to use the correct term as accepted by trans people communicates disrespect for them.
+
+For the record, I have no disrespect for trans people. But I do have disrespect for woke activists who seek to make decisions about language by fiat. “assigned” feels wrong to me and “observed” feels right to me. If that offends some trans people, I cant help it anymore than trans people can help offending the very religious types. I will not use words that I believe to be false to comply with activists demands.
+
+Nobody is going to throw you in jail for it, but they may view you as hostile because of it.
+
+I live in Canada, so maybe I will end up in jail for it. If somebody views the term “observed” as hostile, they are making an error.
+
+“Assign” doesn’t have any connotation of arbitrariness.
+
+I believe it does. And I believe that the insistence on using “assign” vs “observe” is evidence in favor of the view that “assign” implies arbitrariness, otherwise there would be no more value in “assign” or “observe”. Also, try it with a few examples.
+
+I observe that this car is blue. (works)
+
+I assign the color blue to this car. (does not work)
+
+Act_II says:
+
+February 11, 2020 at 11:20 am
+
+I suspect “observed” will get better reactions than biological man/male. I do want to point out, though, that it treats the assignment of M or F by the doctor/parents as an indisputable fact, when in fact it is an intentional choice. The doctor sees the baby’s genitals and chooses to assign “male”; parents and peers take actions based on this assignment. I’m not doing anything to the car when I observe that it’s blue; but a baby is acted on by assigning gender to it.
+
+I live in Canada, so maybe I will end up in jail for it.
+
+Nope.
+
+If somebody views the term “observed” as hostile, they are making an error.
+
+Your choice of term communicates something. If what you communicate doesn’t line up with your inner feelings, that is usually a failure of the speaker, not the listener. Now I doubt you’ll run into much trouble with “observed”; people will probably just think you’re not quite up to date on trans issues. This is just general advice about effective communication.
+
+uau says:
+
+February 11, 2020 at 1:28 pm
+
+If what you communicate doesn’t line up with your inner feelings, that is usually a failure of the speaker, not the listener. Now I doubt you’ll run into much trouble with “observed”; people will probably just think you’re not quite up to date on trans issues. This is just general advice about effective communication.
+
+Are you willing to take your own advice yourself, and stop further use of “assigned gender” when talking to general audiences? Or when it comes to your own speech, is it suddenly no longer the fault of the speaker when your speech offends others?
+
+I agree with the people who find the phrase “assigned gender” offensive due to having the appearance of deliberately manipulative doublespeak. Typically when talking about gender at birth, we’re talking about obvious sexual characteristics. Yes, there can be various intersex conditions et cetera, but those are not the typical case. When we say that someone was male at birth, we normally mean he had the obvious biological characteristics and no particular indication of being intersex; we do not talk about whether doctors recorded him as M or F. If there was enough ambiguity that the decision of the doctors, the “assignment” part, was not a completely foregone conclusion with zero relevance on its own then the case is an unusual enough outlier that you probably should point that out separately rather than using the general “M/F at birth” choice.
+
+You also seem to implicitly assume that it’s only the view of the trans people/activists which counts when saying which language is appropriate. I strongly disagree. I do not think that a minority can decide on arbitrary terminology and demand that others use that.
+
+rumham says:
+
+February 11, 2020 at 3:12 pm
+
+@Act_II
+
+nope
+
+I suspect that that legal conjecture is now out of date.
+
+$55,000 total And $20,000 was specifically for misgendering while in the courtroom.
+
+What happens if you don’t pay the fine?
+
+Aapje says:
+
+February 11, 2020 at 4:56 pm
+
+@Act_II
+
+The baby with XY chromosomes and a penis will not develop a uterus when I “assign” female, just like a blue car will not change color just because I call it red.
+
+Of course, there are arbitrary elements to gender, although the extent to which cultural gender is linked and ought to be linked to biological differences is hotly disputed. The term “assigned” implies that this link is nonexistent, while the alternative terms that people use here, don’t seem to require that this link is unbreakable, which would be necessary to deny a transition to transgender people.
+
+Act_II says:
+
+February 11, 2020 at 7:21 pm
+
+My stamina is unfortunately depleting but I wanted to quickly respond to @rumham. Bill C-16 expanded existing discrimination protections for race, sex, etc to transgender people. The defendant in the linked case exhibited deeply discriminatory behavior, far beyond using the wrong terms or pronouns. He would have been prosecuted just the same if his discrimination had been based in race or sexual orientation — in fact, he has a previous arrest record for doing the exact same thing with regard to homosexuality. My claim was not that the bill did nothing, but that Canadians aren’t going to be fined or arrested unless they’re doing stuff like posting 1500+ fliers claiming their political opponents are diseased and unstable because they’re transgender. Your link also doesn’t support the claim that $20,000 was just for misgendering in the courtroom. It was for improper conduct overall — basically contempt of court. Cut the hysteria.
+
+rumham says:
+
+February 12, 2020 at 9:57 am
+
+@ Act_II
+
+My claim was not that the bill did nothing, but that Canadians aren’t going to be fined or arrested unless they’re doing stuff like posting 1500+ fliers claiming their political opponents are diseased and unstable because they’re transgender.
+
+Political opponent? What office is he running for again? The fact is that all these “experts” specifically stated that a person wouldn’t ever be fined, only an entity, and only in a services capacity. From your link:
+
+The bill “governs particular kinds of relationships, like services such as renting a car, it’s not about people on the streets and general behaviour,” Milne added.
+
+Milne said the malicious misuse of a pronoun could be used to highlight a wider pattern of discrimination, but jailing someone is not a possible outcome for these type of lawsuits. The entity providing services could have to pay damages or send the concerned worker to sensitivity training, but not without other proof of discrimination.
+
+The case I linked was a private citizen (granted, a huge bigoted asshole, but that’s not relevant. Legal precedent never specifically mentions “assholes”) expressing odious religious-based opinions through a variety of mediums.
+
+Your link also doesn’t support the claim that $20,000 was just for misgendering in the courtroom.
+
+a different source with more information has an embeded document of the court order. It requires:
+
+Bill Whatcott must cease passing out flyers and other communication that mis-genders Oger or anyone else.
+
+He must pay Oger $35,000 to compensate for injury to his “dignity, feelings, and self‐respect.”
+
+He must pay Oger $20,000 because of his “improper conduct” – purposefully mis-gendering Oger, wearing his T-shirt during the Tribunal hearing, and speaking to reporters during breaks.
+
+He must pay Oger interest on the amounts until they are paid off.
+
+So apparently they can be used to go after individuals not in any official capacity. If the misgendering was so unimportant, why was it the only offense outside of talking to reporters mentioned (the T-shirt was objected to because it had a picture and was misgendering)? If the claim is now that -only- verbal misgendering won’t get anyone in trouble, stake it quick, as it seems that the goalposts on this one might be on wheels.
+
+Cut the hysteria.
+
+Odd thread for a gendered insult, especially given your other comments.
+
+Act_II says:
+
+February 13, 2020 at 8:26 am
+
+@rumham
+
+She was running for Parliament in Vancouver. Whatcott opposed her candidacy on the grounds that she is transgender. Yes, that is his stated reason as described in the court order, he didn’t look into her platform and doesn’t even live in her riding.
+
+Speaking of the court order, your description of it is very wrong. It’s 105 pages, and the first several describe what Whattcott did that went far beyond misgendering. His fliers did misgender Oger, but they also said
+
+-transgender people will burn in hell
+
+-transgender people have STIs
+
+-transgender people are insane and suicidal
+
+-God doesn’t want you to vote for transgender people
+
+-vote against Oger and NDP (her party) because she is transgender
+
+He then raised money to print 1500 copies of this flier and distributed them around her riding. He estimates that he reached 10,000 people this way. (For scale, her riding only has about 43,000 people total, half of whom voted in the election.) After the fliers were distributed, she and her children were advised by the police to take safety precautions. So, the primary charges were not against a private citizen who happened to misgender a public figure, but against the organizer of a campaign to keep a specific transgender person and transgender people in general out of politics.
+
+Here’s what the court order says about the punitive damages:
+
+I have found that Mr. Whatcott engaged in the following improper conduct during the course of this complaint:
+
+a. attending the hearing, and giving his testimony, wearing a t‐shirt that denigrated Ms. Oger based on her gender identity, in the face of the panel’s clear statement that it was improper;
+
+b. throughout the process, referring to Ms. Oger as a man, in violation of the Tribunal’s direct, and repeated, orders to stop;
+
+c. testifying in a manner that demonstrated contempt for the Tribunal and its process;
+
+d. filing a response to the complaint that denigrated Ms. Oger based on her gender identity, in terms very similar to the Flyer which I have found violated s. 7 of the Code;
+
+e. publicly posting a photograph of the inside of the hearing room, in violation of the Tribunal’s “Public Access & Media Policy”;
+
+f. repeatedly re‐arguing issues that had already been decided by the Tribunal;
+
+g. repeatedly denigrating Ms. Oger in connection with her gender identity and this complaint, in his public posts through social media, his website, a printed flyer, and on a podcast; and
+
+h. denigrating Ms. Quail in connection with her sexual orientation in his public communications about this complaint.
+
+This conduct was deliberate, flagrant, and struck at the core of the Code’s purposes and this Tribunal’s ability to adjudicate Ms. Oger’s complaint in a fair and efficient manner.
+
+Note the focus on repeatedly ignoring requests from the tribunal to modify his behavior. Like I said, this is essentially a contempt of court charge. If you’re interested in knowing the full reasoning instead of substituting your own, it starts on page 74. The quote I pulled is from page 97.
+
+I’d have posted quotes for the primary ruling as well, but that explanation and justification are spread across the preceding 73 pages of court order. Really, your characterization is such an oversimplification that I’m not sure whether it’s kinder to question your honesty or your reading comprehension.
+
+Act_II says:
+
+February 13, 2020 at 8:47 am
+
+@rumham
+
+Frustratingly, my response failed to appear. I guess I might have tripped on a banned word or phrase. Here’s another try, the short version. tl;dr if you read the actual 105-page court order you’ll see that it doesn’t say what you claim.
+
+For the primary charges:
+
+–She was a candidate for Parliament in a riding in British Columbia.
+
+-Whatcott was not some random private citizen who misgendered a public figure. He raised money to print fliers opposing her campaign. He estimates that these fliers reached 10,000 people in her riding — that’s a quarter of the population.
+
+-The reason for his campaign was not based on her platform, which he admits he didn’t even look into. It was solely because she is transgender.
+
+-The fliers did not just misgender her, but included propaganda about transgender people in general, including that they are prone to STIs, are unstable and suicidal, and deserve to burn in hell.
+
+-The police recommended that she and her children take safety precautions due to the nature and spread of the fliers.
+
+So this isn’t some private citizen misgendering another private citizen. This is the organizer of a large (relatively speaking) public campaign to keep a person from power due to her gender identity.
+
+For the punitive charges:
+
+The section on this is short enough that I can just quote from it. It’s 20 pages, but the summary of charges at the end is reasonably sized.
+
+I have found that Mr. Whatcott engaged in the following improper conduct during the
+
+course of this complaint:
+
+a. attending the hearing, and giving his testimony, wearing a t‐shirt that denigrated Ms. Oger based on her gender identity, in the face of the panel’s clear statement that it was improper;
+
+b. throughout the process, referring to Ms. Oger as a man, in violation of the Tribunal’s direct, and repeated, orders to stop;
+
+c. testifying in a manner that demonstrated contempt for the Tribunal and its process;
+
+d. filing a response to the complaint that denigrated Ms. Oger based on her gender identity, in terms very similar to the Flyer which I have found violated s. 7 of the Code;
+
+e. publicly posting a photograph of the inside of the hearing room, in violation of the Tribunal’s “Public Access & Media Policy”;
+
+f. repeatedly re‐arguing issues that had already been decided by the Tribunal;
+
+g. repeatedly denigrating Ms. Oger in connection with her gender identity and this complaint, in his public posts through social media, his website, a printed flyer, and on a podcast; and
+
+h. denigrating Ms. Quail in connection with her sexual orientation in his public communications about this complaint.
+
+This conduct was deliberate, flagrant, and struck at the core of the Code’s purposes and this Tribunal’s ability to adjudicate Ms. Oger’s complaint in a fair and efficient manner.
+
+Note that even the misgendering-related charges have a focus on ignoring the tribunal’s requests to stop. This is a contempt of court thing, like I said. If you’re confused about any of the justifications, they are explained starting on page 74.
+
+rumham says:
+
+February 14, 2020 at 12:03 pm
+
+-Whatcott was not some random private citizen who misgendered a public figure.
+
+He wasn’t? I’m sorry, but nothing you wrote about his actions changes the fact that that is exactly what he was.
+
+If I print a bunch of fliers that say “Trump is an asshole”, It doesn’t mean I’m his political opponent. It means I hate Trump. Nothing more, nothing less.
+
+Note that even the misgendering-related charges have a focus on ignoring the tribunal’s requests to stop. This is a contempt of court thing, like I said.
+
+Ok, so the claim is now that a private citizen will only get fined for misgendering in a courtroom? I’m just trying to lock it down since that was absolutely not the claim cited in article you posted.
+
+Act_II says:
+
+February 15, 2020 at 8:36 am
+
+@rumham
+
+This is the conclusion of the article I linked.
+
+Bill C-16 does not allow for Canadian citizens to be jailed or fined simply for using the wrong gender pronoun when addressing a person.
+
+Your example does not contradict this in any way. He did far more than use the wrong gender pronoun.
+
+You may be taking issue with this quote from the body of the article:
+
+The bill “governs particular kinds of relationships, like services such as renting a car, it’s not about people on the streets and general behaviour,” Milne added.
+
+Your example also doesn’t contradict this in any way. Publishing and distributing discriminatory material is one of these kinds of relationships covered under the Canadian Human Rights Act. With respect to this act, he’s no longer a random person on the street, but more akin to a PAC or a newspaper.
+
+If I print a bunch of fliers that say “Trump is an asshole”, It doesn’t mean I’m his political opponent. It means I hate Trump. Nothing more, nothing less.
+
+Well, it does mean that you are his political opponent, but I don’t want to get bogged down arguing semantics. However, I do want to point out that this is a bad comparison. The fliers weren’t only anti-Oger, but anti-transgender in general as well.
+
+Ok, so the claim is now that a private citizen will only get fined for misgendering in a courtroom? I’m just trying to lock it down since that was absolutely not the claim cited in article you posted.
+
+Your refusal to understand this concept makes me question your good faith. It was the equivalent of a contempt of court charge. You can get hit with contempt for many not-illegal things like swearing at the judge or showing up late. This charge is completely unrelated to Bill C-16 or the CHRA. It was a result of disrespecting the rules of the tribunal — including, in this case, ignoring the repeated requests of the tribunal to refer to the plaintiff correctly. I don’t know how many different ways I can phrase this to help you understand.
+
+rumham says:
+
+February 17, 2020 at 6:28 am
+
+Well, it does mean that you are his political opponent, but I don’t want to get bogged down arguing semantics.
+
+I would think that the semantics of this phrase are the primary disagreement here. As you said:
+
+Publishing and distributing discriminatory material is one of these kinds of relationships covered under the Canadian Human Rights Act. With respect to this act, he’s no longer a random person on the street, but more akin to a PAC or a newspaper.
+
+If that’s the legal ruling that it resides on, I can see your point and agree on those merits. But it doesn’t change the fact that, to the majority of people, this is a private citizen being charged for misgendering. When Willie Nelson’s tourbus gets pulled over and he has a few ounces of cannabis for personal use, and gets charged with distributing because it’s over an arbitrary amount previously designated, he technically wasn’t charged for personal use. But everybody knows that this is exactly what actually occurred.
+
+Similarly, when people are told again and again that a private individual will never get fined for misgendering, and then this case happens, it contradicts what they were told, regardless of the legal wrangling necessary to make it happen and technically correct. None of these articles ever said that if you write it down and pass it around, that makes it no longer a private citizens opinion. That may be the correct legal reasoning, but I definitely didn’t see that in the AP article or any others that came out around that time.
+
+Your refusal to understand this concept makes me question your good faith.
+
+Hopefully, with the preceding paragraph, you’ll understand where I am coming from here.
+
+Given this chain of legal reasoning, may I be forgiven for wondering what next might decided to drop a citizen from the private to the public sphere? Would it be reasonable or unreasonable to assume that it will stop at printing flyers?
+
+jermo sapiens says:
+
+February 11, 2020 at 10:04 am
+
+“Biological man” is factually correct, “assigned male at birth” is not. “Observed male at birth” would be correct also.
+
+Because it’s usually used by transphobes to insinuate that trans identities aren’t valid.
+
+I dont know what is meant by “trans identities aren’t valid”. This language is often used, but it’s meaning seems ambiguous to me. Surely trans means someone who’s biological gender is different from their expressed gender. I dont know how or why this could be valid or not, it just is.
+
+Is SSC supposed to be a place where trans people like me feel welcome, or not?
+
+I’m obviously not the one to answer this but I think it’s quite clear that trans people are welcome here. It does not follow that (some) trans people get to police everyone’s language.
+
+There’s no apparent effort to filter the pretty blatantly transphobic discourse of the likes of Steve Sailer.
+
+Like what?
+
+Act_II says:
+
+February 11, 2020 at 10:28 am
+
+“Biological man” breaks down if you dig a little deeper. Does it mean a genotypical male or phenotypical male? The usual response is genotypical male, but the way the term is used is far more consistent with phenotypical male. They aren’t always the same. I, a cis man, could have XX chromosomes. I don’t know because I’ve never seen my chromosomes. What’s more, even if I did know, it wouldn’t affect how I identify or how people treat me. For the purposes of discussions like this, I would be considered a biological male, but wouldn’t conform with the genotype definition. But phenotype isn’t sufficient either; MtFs, after transition, develop phenotypical characteristics associated with the destination gender, such as breasts. So how do we capture this classification that includes people who were once phenotypically male, and some still are, but not all? Just note their assigned birth gender. (Incidentally, MtF works in a lot of cases too, but not in the case of nonbinary gender.)
+
+I have no idea what you mean by “assigned male at birth” being factually incorrect. It is a statement of fact that is unambiguously true. People are assigned a binary gender by the people around them at a young age, regardless of biological or mental reality. Even children of super-woke parents are assigned a gender by other children and adults around them (and the doctors at the hospital). This may not be true for all time, but it’s true now.
+
+Conrad Honcho says:
+
+February 11, 2020 at 10:35 am
+
+I wouldn’t object to “observed.” “Assigned” smuggles in the assumption that such “assignments” are arbitrary.
+
+jermo sapiens says:
+
+February 11, 2020 at 10:39 am
+
+“Biological man” breaks down if you dig a little deeper.
+
+Sure. But everybody knows what you mean by “biological man”. Yes, there are exceptions.
+
+I have no idea what you mean by “assigned male at birth” being factually incorrect.
+
+I think “assigned” implies that the decision was arbitrary. I believe “observed” is the correct term, as in the biological sex of a baby is observed at birth. If doctors declared “this baby is a male and shall present as male for their entire life”, then “assigned” would be correct. But I’ve never heard of a doctor declaring whether a baby would be trans or not.
+
+Act_II says:
+
+February 11, 2020 at 10:50 am
+
+@jermo sapiens
+
+And everybody knows what you mean by “assigned male at birth,” so what’s the problem? It’s more common in discussions of gender and more meaningful. If you’re willing to allow “biological man/male” despite the existence of exceptions, why not AMAB?
+
+See my above comment for a response to the “assigned” thing.
+
+jermo sapiens says:
+
+February 11, 2020 at 11:03 am
+
+And everybody knows what you mean by “assigned male at birth,” so what’s the problem?
+
+No, definitely not everybody.
+
+If you’re willing to allow “biological man/male” despite the existence of exceptions, why not AMAB?
+
+The problem with AMAB is that’s it’s dishonest, not that there are exceptions or not. At birth, nobody is making a statement on whether you are trans or not. They are observing your biological sex, not your future gender identity. They are not assigning it. They are observing it.
+
+The logo next to your comments is a violet shape. I observe that it is violet. I did not assign the violet color to it.
+
+Act_II says:
+
+February 11, 2020 at 11:38 am
+
+Last comment seemed to get eaten so apologies if this post is redundant.
+
+Are you really claiming that people don’t know what “assigned male at birth” means? Maybe they’ve never heard it before, but it’s easily deducible from context.
+
+You might think AMAB is wrong, but the situation for “biological man” is worse: it’s not even wrong. There is no definition of biological man that is correct given the usage of the term. If you want to handwave it away because language is squishy and imprecise, that’s a fine position, but you ought to apply it to other terms as well. AMAB is better-defined, unambiguous, and in common use. It is the better term for descriptivists and prescriptivists.
+
+Purplehermann says:
+
+February 12, 2020 at 4:53 am
+
+@Act_ll are you against using the terminology “observed” ? If so, why?
+
+It would be less uncomfortable for some other commenters and would therefore be more conducive to productive conversations
+
+anton says:
+
+February 12, 2020 at 5:47 am
+
+@Act_II
+
+For whatever it’s worth I hadn’t seen the “assigned male at birth” term before and I was momentarily confused by it. My first thought was that it referred to a woman with a “male” in her birth certificate due to clerical error.
+
+Act_II says:
+
+February 12, 2020 at 7:42 am
+
+@Purplehermann
+
+I realize my comments may come across as saying “use AMAB and no other term” because the discussion has been centered around attacking/defending AMAB. I officially disavow that position and instead summarize my view as “avoid using bad/incorrect terms as determined by trans consensus”. I wouldn’t use “observed” myself, for reasons I explained in a different comment, but my objections to that (or “apparent” or “recorded” as others have suggested) are quibbles in comparison to my objections to “biological man” or “ex-man”. If I heard someone using it, I might wonder why, but I would only say something about it if I were in the mood for a low-stakes argument.
+
+LadyJane says:
+
+February 11, 2020 at 12:37 pm
+
+Regarding the “biological male” debate, the problem is that it’s simply not accurate. Leaving aside the distinction between sex and gender, even biological sex isn’t purely defined by genitalia; it’s defined by a mix of primary sex characteristics (genitalia), secondary sex characteristics which don’t develop until puberty and aren’t present at birth (facial hair, body hair patterns, breast development, vocal range, hip ratio), and various biological traits that are not easily observed without medical tests (chromosomes, hormone levels, neurological structures). It would be inaccurate to say that I’m female-gendered but biologically male; I’m female-gendered but biologically intersex. This is an important distinction for medical reasons, if nothing else: like a biological male, I’m at risk of getting prostate cancer, but my risk of getting breast cancer is on par with a biological female’s (which is vastly higher than a biological male’s), so it’s helpful for me to get screenings for both. And if it’s true that gender dysphoria is caused by some kind of neurological and hormonal mismatch (which seems likely given current evidence), then I’d argue that dysphoria itself is an intersex condition that’s simply very hard to detect, and thus most or all trans people would be intersex.
+
+That said, I actually do agree that “assigned male at birth” implies a degree of arbitrary judgment that can be misleading, and that “apparent male at birth” or “observed male at birth” would be better. I’ve also heard some people use the term “natal male,” which is preferable to “biological male” because it carries the distinction that the person’s sex was effectively male given the biological sex characteristics that had developed at the time of their birth (although it may still be technically inaccurate for people with chromosomal abnormalities and the like).
+
+theredsheep says:
+
+February 11, 2020 at 1:39 pm
+
+I can readily accept “natal male” or “born male” or similar. I don’t know much about this stuff, but “assigned” is blatant semantic smuggling.
+
+gbdub says:
+
+February 12, 2020 at 5:05 am
+
+The problem with this framing is that “assigned male at birth” is not an improvement, in terms of usefully identifying intersex people – lots of intersex people get “assigned” one way or the other. “Biological male” is better because, well “biologically intersex” can be distinguished. And you can usefully add further distinctions like “genotypically” or “phenotypically” if you need them. “Assigned male at birth” just feels like a needlessly clunky euphemism that glosses over medically useful distinctions.
+
+It seems like everyone is arguing about the “assigned” part, and ignoring the “at birth” part which strikes me as equally problematic. Your “assigned” sex doesn’t only affect you at birth… with a few rare exceptions, a “biologically male” body is going to develop, to some degree, the primary and secondary male sex characteristics that make that body pretty unambiguously male, barring medical intervention. A “biologically female” or “biologically intersex” body will develop in readily apparent different ways.
+
+This strikes me as a useful distinction, not in every context but in a lot of them, and as long as we can all agree that it is possible to note this distinction while being respectful to trans identities, arguing that someone who uses a term you do not prefer to distinguish the same concept is inherently “transphobic” does just feel like tone policing / asserting power to a small cadre of gatekeeping advocates without usefully advancing the conversation.
+
+Scott Alexander says:
+
+February 12, 2020 at 3:27 pm
+
+I’m not actually sure AMAB and “biologically male” mean exactly the same thing – I was just reading a paper about biologically male children with botched circumcisions who lost their penises and so were raised female with completely female gender roles from day one. These people seem plausibly AFAB but biologically male.
+
+I’ve used AMAB elsewhere. But in this case, I used “biologically male” because I was specifically referring to the biological aspect, since I think it’s probably biology that causes higher sex drive and more fetishes. I don’t think it’s being assigned male at birth by society that does that.
+
+tl;dr – I think these terms have slightly different denotations and connotations and I used the one that matched what I wanted to say.
+
+Heather says:
+
+February 12, 2020 at 11:08 pm
+
+Thanks for replying and correcting leakage of personal information. It is legitimately appreciated. After all of the dust has settled, I hope that you can understand how this community feels hostile to some.
+
+I only discovered I was intersex because of medical interventions during my transition. The ideology of transgender activism directly led me to make huge improvements in my life. To get to that point, I had to deal with the fact that (despite everything), society regarded me in some sense as a man. That I was so tall, and that my skeleton had developed the way it did. Could anyone ever see me as a woman? My intersex condition aside, I dealt with many of the same things other trans women have. It’s really offputting to see people attacking prominent trans women as being fakes, when as far as I know they struggled with the same things I did. I am disgusted to see how much casual meanness is being applied to other transgender people here, in some cases blatantly. Somehow, that’s all OK, but I’m “rude” for saying things like “the very least” or “the likes of.” I still think that your term “biological man” was not a very precise term. Does it apply to someone like me or not? Someone in the thread said yes, but isn’t that an argument? Why should it apply to a trans woman who has taken hormone therapy? So given that it was somewhat offensive to some, and not necessarily the most precise term, why not find better terms? In this case, you could have said “those who are affected by testosterone” or something and gotten the actual idea across.
+
+Anyway, I guess I can’t hope to influence whether you care how the people you are actually talking about (i.e., trans people) use language and are affected by the language you use. I don’t think I’ll follow up to check. As much as I like your writings, I am going to stop following this blog because my curiosity about the discourse leads me to read and participate, which is invariably digital self-harm. I hope the other trans people in this community keep participating when it is healthy for them to do so. Please understand that seeing stuff like “ex-man” or “biological man” littered around is a really uncomfortable experience for some people; I guess you don’t care about reducing that discomfort so… don’t be surprised if others leave?
+
+elspeth diana says:
+
+February 13, 2020 at 3:46 pm
+
+i’d like to make a metapoint that for trans people, or at least for those who are used to progressive language, having even a good-faith dialogue with people who don’t accept such language can be mentally exhausting, which is why it’s easier for us to live in a progressive bubble.
+
+John Schilling says:
+
+February 13, 2020 at 6:07 pm
+
+i’d like to make a metapoint that for trans people, or at least for those who are used to progressive language, having even a good-faith dialogue with people who don’t accept such language can be mentally exhausting
+
+And for pretty much everyone else, having a good-faith dialogue with people who insist on idiosyncratic language that in many cases goes explicitly against common usage, is also mentally exhausting. Enjoy your bubble.
+
+LadyJane says:
+
+February 11, 2020 at 12:56 pm
+
+@Scott Alexander: As I recall, SSC’s official policy was that, while it was acceptable to debate the validity of trans identities in general, misgendering specific individuals was prohibited. I’m not sure if that rule is still active, or if it only applied to SSC posters rather than people in general, but assuming it’s still in effect and is meant to be universal, Steve Sailer violated it by repeatedly and deliberately misgendering several public figures. Additionally, using a term like “ex-men” seems to be unkind, unnecessary, and only debatably true at best. If it’s meant as a play on “X-Men,” to imply that trans people are mutants, then it’s particularly unkind. (That may be a stretch; before I transitioned, I got called a “mutie” and a freak due to my intersex condition, so maybe I’m overly sensitive about this.) Regardless, his posts definitely seem to be deserving of moderation.
+
+onyomi says:
+
+February 11, 2020 at 7:57 pm
+
+Though I’d agree Steve Sailer shouldn’t intentionally call anyone who prefers to be called “she” “he” (though it isn’t clear he did so intentionally), his politeness and measured tone otherwise impress me as remarkable, considering the amount of casual abuse that tends to get thrown his way around here (“the likes of Steve Sailer,” etc.).
+
+caryatis says:
+
+February 10, 2020 at 9:07 pm
+
+I think response #2 is strong. I responded with nonzero autogenderphilia on the survey on the grounds that “yes, i guess it’s kind of hot when i think about it,” but it’s not something that is essential to my sexual fulfillment, and in no universe would I ever go to the lengths that trans people do in order to convince people to view me as the opposite sex.
+
+Scott Alexander says:
+
+February 10, 2020 at 9:17 pm
+
+Do you remember which number you answered on the 1-5 scale?
+
+caryatis says:
+
+February 11, 2020 at 10:50 am
+
+Not really but probably 2-3.
+
+Pink_Creosote says:
+
+February 12, 2020 at 10:03 pm
+
+“…in no universe would I ever go to the lengths that trans people do in order to convince people to view me as the opposite sex.” Your phrasing is weird. Are you saying that you would like to go to some lengths to convince people you’re the opposite sex?
+
+“yes, i guess it’s kind of hot” = “maybe it would be fun to be seen as a man/woman, but I wouldn’t put real effort into it” Is that your point?
+
+Steve Sailer says:
+
+February 10, 2020 at 9:27 pm
+
+I wouldn’t know much about their fetishes, but my impression is that most transgender individuals who achieved some level of prominence before transitioning (e.g., Jenner, McCloskey, Col. Pritzker, Morris, Donnelly, Wachowskis, etc.) tend to be:
+
+– Born male
+
+– Fairly masculine in behavior (e.g., play football at Harvard)
+
+– Highly masculine in interests (e.g., libertarian economics) — e.g., they seldom ever showed the slightest evidence that they were always female in their brains.
+
+– Highly aggressive and combative
+
+– Conventionally heterosexual (e.g., fathered several children)
+
+– High to extremely high IQ
+
+– Not very liberal or progressive in politics
+
+– Rather self-interested in a way Ayn Rand would approve
+
+– Perhaps interested in science fiction
+
+– Not terribly nice
+
+– Perhaps on the Asperger’s spectrum
+
+onodera says:
+
+February 10, 2020 at 10:37 pm
+
+This list looks like it correlates more with mainstream success than with transgenderism.
+
+Steve Sailer says:
+
+February 11, 2020 at 12:12 am
+
+Can you identify any examples of prominent men declaring themselves women who are, say, nice liberals who speak with NPR Announcer indoor voices rather than these John Galt types?
+
+teageegeepea says:
+
+February 11, 2020 at 7:15 am
+
+Perhaps not prominent enough for you, but Todd/Emily Vanderwerff fits that. Already married to a woman, but definitely of the liberal NPR announcer voice variety.
+
+Steve Sailer says:
+
+February 11, 2020 at 8:48 pm
+
+Thanks.
+
+Max Chaplin says:
+
+February 12, 2020 at 4:05 pm
+
+Is Sophie soft-spoken enough?
+
+tailcalled says:
+
+February 11, 2020 at 2:03 am
+
+It should be mentioned that all studies which have examined it find AGPTSs to be more feminine than the typical men. Some studies don’t even find a difference between HSTSs and AGPTSs, and while some propose that this is due to biased self-reports, other-report data yields that AGPTSs are feminine too. I asked Michael Bailey recently whether he could come up with any study which supported his claim that AGPTSs are no more feminine than the average man, and he couldn’t come up with any.
+
+I recently did a survey on /r/SampleSize about masculinity/femininity, and I found no connection between degree of AGP in trans women and degree of masculinity/femininity. This is, admittedly, a self-report survey, so YMMV. And the vast majority of trans women on reddit are non-HSTS, so it’s not clear what we would even expect to find. But just sayin’, the hard evidence on the topic seems more nuanced than is often reported.
+
+Steve Sailer says:
+
+February 11, 2020 at 3:50 am
+
+Prominent ex-men tend to have stereotypically masculine professions like chopper pilot or defense analyst or special forces operative or computer chip scientist or “Matrix” auteur or outer space entrepreneur who signs Howard Stern to a huge contract.
+
+I guess the ex-man who writes for the NYT op-ed page is an English professor, so that’s one example that is not over-the-top masculine.
+
+tailcalled says:
+
+February 11, 2020 at 4:04 am
+
+If you don’t have any arguments for why it should generalize outside of “prominent” MtFs, then it seems to me that onodera’s point solves the gap between your observations and the observations in the studies adequately. (Especially if one adds in the point that as you are probably also a relatively masculine person, you’re more likely to notice the masculine ones than the feminine ones.) And that solution makes your point rather uninteresting from a theoretical perspective.
+
+Steve Sailer says:
+
+February 11, 2020 at 6:48 am
+
+You clearly know a lot more about this than I do, but I’ve got a hunch, going back to reading Heinlein’s short story “All You Zombies” almost 50 years ago, that there’s one type of ex-men who are kind of science fiction heroes in their own minds. They don’t tend to be conventionally masculine middle linebacker types, but more nerdishly masculine, with high IQs. Scott cited some study years ago that came up with an average IQ of 128 for its subjects. I don’t know how reliable that one study is, but 128 is interesting.
+
+This impression became stronger when I learned a half dozen years ago that the incredibly arrogant but incredibly bright guy I knew in MBA school who intended to get rich off shooting rockets into orbit … actually did so, and now he is said to be America’s highest paid female CEO. He made a second fortune by discovering the cure for the disease of one of the children he fathered. He’s a hero out of a late Heinlein novel.
+
+Michael Bailey says there are two types of M-to-F’s: the autogynephilic and the effeminate homosexuals. I’m pretty good at coming up with real world examples, but I can’t think of any prominent effeminate homosexuals who have transitioned. My guess is that most who have are not very high IQ individuals, but are more likely the type of person drawn to sex work.
+
+So forgive me if most of my interest is in the (presumably) AGP high IQ ex-men.
+
+Ex-men have a lot of incentives to talk about how they always felt like a girl on the inside, because that’s the standard story instead of talking about autogynephilia, with some of them going to extreme lengths to shut down public discussion of this phenomenon.
+
+By the way I want to apologize to everybody who is upset with me for not heeding today’s pronoun rules. I’m not that good at grammar and my brain gets tired trying to follow these conventions, which I find confusing. Thus I invented the term “ex-men” to refer to the kind of Heinleinian transgender individual who I am most struck by. That term, with it’s sci-fi tinge, seems helpfully self-explanatory.
+
+Randy M says:
+
+February 11, 2020 at 7:55 am
+
+Prominent ex-men tend to have stereotypically masculine professions
+
+It could be that we assign prominence to more masculine traits or actions–or that a push for notoriety or top-tier success is itself highly correlated with masculine traits.
+
+Thus this observation doesn’t disprove the existence of perhaps many more transsexuals with feminine traits.
+
+Le Maistre Chat says:
+
+February 11, 2020 at 9:22 am
+
+It could be that we assign prominence to more masculine traits or actions–or that a push for notoriety or top-tier success is itself highly correlated with masculine traits.
+
+It seems likely that drive for fame or top-tier success is testosterone-linked.
+
+I believe that most MtFs are too high-T to pass, but Steve Sailer only seems interested in extreme outliers, a small fraction of one percent. The typical trans person is obscure.
+
+Steve Sailer says:
+
+February 11, 2020 at 8:50 pm
+
+But there is usually something to be learned by looking at the right hand tail of a bell curve and who is overrepresented there, such as the NBA isn’t all that representative of the typical basketball players or the Forbes 400 of typical business persons, but it’s instructive to see who shows up there.
+
+onyomi says:
+
+February 11, 2020 at 9:12 pm
+
+@Steve Sailer
+
+The pattern you seem to be noticing explicitly with the note about Asperger’s is that, if not most, then at least a prominent subset of trans-women seem to ironically possess extremely “male” brains, where a “male” brain means not a stereotypically masculine jock type but more of a “nerd” as opposed to a “wamb.” That is, Deirdre McCloskey strikes me as someone with a type of mind/personality extraordinarily rare among cis women but seemingly surprisingly common among trans women (though as others have mentioned it could also just be that people who rise to prominence of some form, regardless of sexual orientation or gender identification tend to be less agreeable, more autistic, etc.).
+
+This is of course ironic, as the expected outcome would be that those Y chromosome owners with the most stereotypically feminine characteristics would be most likely to identify as a woman. And maybe that is also true for a different subset of transwomen, I don’t know.
+
+However, what the phenomenon of the hyper-male-brained-transwoman reminds me of is the fact that e.g. taking anabolic steroids can cause gynaecomastia because a percentage of excess testosterone gets converted into estrogen (is my non-biologist, non-chemist understanding). Have no idea if there’s any connection, but it is interesting to note, along with findings I’ve read that e.g. gay men may have bigger penises, on average than straight (again, contrary to the expectation if we stereotype gay men as more biologically “feminine” than straight in some uncomplicated way).
+
+Tarpitz says:
+
+February 12, 2020 at 12:58 am
+
+1. Looking at people who were notably successful prior to transitioning introduces a major selection bias I have yet to see mentioned: such people, almost by definition, transitioned later in life than average. It could be that we are observing traits of late life transitioners, not specifically people with notable pre-transition success.
+
+2. Another sphere in which it is possible to observe a disproportionate number of natal male trans people with stereotypically masculine mental traits is competitive Magic: the Gathering, where at high levels of play they are significantly more common than cis women.
+
+Steve Sailer says:
+
+February 12, 2020 at 2:19 am
+
+Right, there was an amusing article in the New York Times about Dr. McCloskey back in 1999 when there was more freedom to hint at the truth:
+
+“… No one has given Deirdre McCloskey more support through her gender-crossing than her 75-year-old mother, Helen McCloskey. She is the widow of a prominent Harvard professor, an expert on constitutional law who died of a heart attack in 1969, just as their eldest son, Donald, completed his Ph.D. in economics at Harvard and joined the University of Chicago faculty.
+
+“Helen McCloskey admired her husband’s achievements, which she associated with maleness, and she sees in Deirdre the same ”steely male intellectual quality” that her husband had, and Donald, too. Men, she argues, are the builders, the creators. … The subject of the steely male mind came up at breakfast.
+
+”This is my firstborn, my wonderful, wonderful child who is so bright,” she said. ”One reason I can accept what she has done is that I do not see dramatic changes in her intellectual qualities acquired over a lifetime.”
+
+https://www.nytimes.com/1999/06/19/arts/transsexual-economist-s-2d-transition-she-says-gender-determines-one-s-approach.html
+
+onyomi says:
+
+February 12, 2020 at 5:44 am
+
+Also interesting to note that, at least in my own very limited experience, the opposite pattern does not often appear for transmen. That is, the transmen I’ve known fit the more expected pattern of having been unusually masculine women before they transitioned.
+
+Anthony says:
+
+February 11, 2020 at 1:00 pm
+
+Stereotypically masculine behavior, especially combined with high intelligence, is much more likely to lead to “prominence” than the lack thereof, whether or not the person is transgender or entirely cisgender.
+
+Steve Sailer says:
+
+February 12, 2020 at 3:30 am
+
+But why were so many prominent ex-men distinctively Men of the Right before their transitions?
+
+Consider, for example, Colonel Pritzker of the famous Chicago liberal Democratic clan that includes a former Obama cabinet secretary and the current Democratic governor of Chicago.
+
+Colonel Pritzker was born a scion of great wealth in a liberal clan but still enthusiastically served in the Army Reserve for decades and has founded a military history library in Chicago that I am told is superb.
+
+I don’t know how Colonel Pritzker votes in the privacy of the voting booth, but the Colonel’s life history seems distinctly more to the Right than is average for Pritzkers.
+
+Similarly, consider Jenner, who is a member of the Sherwood Forest golf club along with Will Smith, Wayne Gretzky, Joe Montana, and Kenny G. My guess is that all those Sherwood celebrities tend to vote Republican, but I don’t know that for sure because, being celebrities, they know it’s best to stay quiet about voting Republican. The only Sherwood member I know is a Republican is Jenner, who is quite public about it.
+
+The Nybbler says:
+
+February 11, 2020 at 6:47 am
+
+I don’t think Bradley/Chelsea Manning fits this. Did join the military… but we’re not talking infantry here, but rather joining the Navy as an intelligence analyst. Never conventionally heterosexual — in fact, was homosexual. Seems to have been progressive in politics.
+
+Steve Sailer says:
+
+February 11, 2020 at 7:10 am
+
+Thanks.
+
+By the way, I looked up the NYT’s ex-man columnist Jennifer Finney Boylan. His first two novels have sci-fi titles — “The Planets” and “The Constellations” — but apparently are set on Earth. Reviewers cited the influence of Vonnegut. So I’d say Boylan is maybe but maybe not evidence for my hunch of a sci-fi connection.
+
+EchoChaos says:
+
+February 11, 2020 at 7:11 am
+
+But Manning was notable precisely for LACK of success, not for being a major and successful figure.
+
+Being a failure was the only reason that Manning’s name was known to anyone.
+
+The Nybbler says:
+
+February 11, 2020 at 7:36 am
+
+The criterion was “achieved some level of prominence before transitioning”, which Manning did, by leaking those documents (and getting caught, yes)
+
+Steve Sailer says:
+
+February 10, 2020 at 9:46 pm
+
+Perhaps autogynephilia only pushes a man over the edge into becoming an ex-man if he otherwise fits the profile I outlined above.
+
+E.g., perhaps nice guys who have the fetish but who don’t want to hurt their wives and kids don’t let their fetish ruin their families. And perhaps ruthless guys who aren’t autogynephilic don’t see any point. So it’s only a certain kind of male personality with a certain kind of fetish who pulls the trigger on transitioning.
+
+Here’s a way to test the autogynephilia theory: find men who fit my profile above of ex-men but who aren’t. For example, when I try to think of a celebrity who sounds like the kind of guy who becomes an ex-man, but hasn’t, I come up with James Cameron, the great sci-fi movie director. But he isn’t (so far as I know). He seems like the kind of guy who if he really felt the urge to say he was a woman would arrange things to get what he wanted, but he just doesn’t want it.
+
+len says:
+
+February 11, 2020 at 1:25 am
+
+The subreddit discussion on this topic had a few men sharing that autogynephilia alone (plus social pressure, possible) is enough for them to consider transitioning.
+
+rodan32 says:
+
+February 11, 2020 at 7:58 am
+
+I think this is a sensible argument. I’m a sample of one; I’m a straight male, married, kids; I fit the criteria of “nice guy” above. I’ve found the notion of being female arousing since the 3rd grade. If there had been as much trans information available when I was younger, my life might have been very different.
+
+Another angle to look at in your profile, Steve, is the lack of social awareness, or maybe being unaware of limits. Might be something related to the Autism spectrum. For me, when the notion of transition occurs to me, my first thought is “nah, I’m pretty happy, and it would be really selfish of me with my wife and kids.” My second thought is “and besides, I couldn’t pull it off anyway.” No matter how much surgery or hormone treatment a middle-aged man gets, narrow hips, big hands and feet, broad shoulders, baldness, etc. are all still there. I would feel like I was deceiving myself. I suspect some people who transition late in life are better at self-deception as opposed to truly experiencing gender dysphoria.
+
+Please accept all the above as my own experience, and please note that I’m not offering anyone advice or judging anyone’s choices directly. I’m just thinking about Steve’s profile and my own experience.
+
+Steve Sailer says:
+
+February 11, 2020 at 8:59 pm
+
+Thanks, that’s very helpful.
+
+On the other hand, a Wachowski might say, “Sure, lesser men than I would look stupid as a woman. But I made “The Matrix,” so I can bend reality to my will!”
+
+Steve Sailer says:
+
+February 12, 2020 at 2:39 am
+
+Thanks Rodan32, this is helping me make sense of something I’ve wondered about for years: why do so many well-known ex-men resemble in various ways the heroes of Ayn Rand and/or Robert Heinlein novels? Why did so many of them start out as Men of the Right?
+
+The Narrative assumes that they are leftist rebels oppressed by Society who only want equality, but they don’t tend to act like that.
+
+What they tend to act like are people who see themselves as Nietzschean supermen who, due to their innate individual superiority, are entitled to impose their fetish-driven vision upon Society, with its slave morality, and even upon Nature herself.
+
+Admittedly, the one such person I knew really is something of an ubermensch, who made a second fortune by discovering the cure for the rare disease of one of the children this entrepreneur had fathered.
+
+wavedash says:
+
+February 10, 2020 at 10:06 pm
+
+“weird Internet samples plausibly have more of every paraphilia”
+
+If I recall correctly, the survey also had questions for a few non-autogenderphilia fetishes (like BDSM, for example). Would it be possible to test for over-representation of people with fetishes that way, by comparing with some broader statistics?
+
+onyomi says:
+
+February 10, 2020 at 11:06 pm
+
+One thing I found confusing about the results if I recall them correctly was the low number of straight cis men who reported finding the thought of themselves as another sexy man arousing as well as Scott’s suggestion that “being attracted to a gender is a prerequisite of autogenderphilia to it,” assuming I’m understanding it correctly.
+
+I am a straight cis man, but imagining myself as another man, perhaps one sexier than myself, is arousing, especially if e.g. that sexy man is having sex with a woman I find attractive. That is, if I’m watching porn, I find it more arousing if the man and woman are both sexy because there’s a degree to which I’m imagining myself in the position of the man and I’d rather imagine myself as e.g. a young, muscular guy with a big penis than e.g. a flabby old guy with erectile difficulties. This seems corroborated by most porn aimed at straight people. Yes some men like lesbian porn and that subgenre where a not conventionally attractive guy has sex with a conventionally attractive woman, but most of the time it’s a sexy guy having sex with a sexy woman.
+
+I am not terribly surprised some straight men might like to imagine themselves as a woman, but it doesn’t gel with my intuition at all that straight men are more likely to think it sexy to imagine themselves as a woman having sex with a man than the reverse?
+
+Or is it that we’re just talking about non-sexual settings? Like does the idea of simply “being” some other guy turn me on more than the idea of simply “being” a woman, having breasts etc.? That still strikes me as odd, as the description of the cis woman turned on by the fact of being a woman strikes me as far more “normal” than Scott seems to find it. Of course one processes one’s own body different than others? Of course straight men who don’t want to jerk off somebody else’s penis nonetheless enjoy touching their own penises?
+
+Protagoras says:
+
+February 11, 2020 at 5:21 am
+
+This is an area where people tend to typical mind a lot, helped greatly by the fact that there are a lot of things in this area people just don’t talk about, so you tend not to hear from people who think differently from you. But I think for some people the idea of being very sexually appealing to others is itself attractive and a turn on, and while some straight people (apparently including you) can get that by imagining being an attractive member of their own sex, there are other straight people who, because they only find the other sex appealing, can only really imagine being sexually appealing by imagining being of the sex that appeals to them. Hence Scott’s observation of the correlation between autogenderphilia and being attracted to a gender.
+
+Randy M says:
+
+February 11, 2020 at 7:59 am
+
+When I imagine myself being sexually appealing, what occupies my thoughts are the reactions of the sexy women, rather than the particular physique I’d need to gain that level of appeal.
+
+The phrase “sexy man” is kind of an oxymoron to me, unless I’m intentionally trying to see things from a woman’s pov, an intellectual rather than instinctive exercise.
+
+EchoChaos says:
+
+February 11, 2020 at 5:40 am
+
+This parses pretty closely to how I read it. I don’t find it at all sexually interesting to be a different attractive man than I am. Nor do I find it attractive to be a woman at all.
+
+I enjoy my body, because it’s mine, and I’ve been told I’m attractive, but I have no interest, sexual or otherwise, in inhabiting any other male body because it wouldn’t be mine.
+
+I note in addition that I strongly prefer lesbian pornography and don’t really enjoy having men in my porn much at all. When they’re there, it doesn’t matter to me what they look like because I replace them with myself. This could probably be overridden by a man sufficiently unattractive, but I likely wouldn’t watch that.
+
+aristides says:
+
+February 11, 2020 at 6:10 am
+
+Yes some men like lesbian porn
+
+I think you underestimate the popularity of lesbian porn. Porn hub does annual reporting, and lesbian porn is always in the top 10 and usually number 1. That can explain the effect without men imagining having sex with men.
+
+onyomi says:
+
+February 11, 2020 at 6:19 am
+
+That can explain the effect without men imagining having sex with men.
+
+This part confuses me. I’m not talking about imagining having sex with men; I’m talking about watching porn of a man having sex with a woman and imagining yourself as the man. Presumably straight men watching porn featuring straight sex are more apt to self-insert as the man than the woman?
+
+I’m not claiming I’m the “normal” one and everyone else is weird, mind you; I think there’s a decent chance I’m more autoandrophilic than the average straight man. It does seem bizarre to me that “I find being a sexy member of the sex I was born as sexy” would be an outlier preference.
+
+Aapje says:
+
+February 11, 2020 at 6:25 am
+
+@onyomi
+
+I think that you are an outlier and that porn doesn’t support your point. The most prolific porn actor, Ron Jeremy, is far from beautiful. Of course, he benefited from his physical talents in the pre-viagra era, but beauty of the male performer still doesn’t seem a major benefit.
+
+onyomi says:
+
+February 11, 2020 at 6:43 am
+
+But the major reason Ron Jeremy is a successful porn star is that he has a very large penis. Do you not think part of the appeal of porn stars with large penises is that straight men like to imagine having sex with women from the perspective of a man with an unusually large penis?
+
+Perhaps Ron Jeremy is a perfect porn star for straight men because the only part of him that most men might envy is the penis, so you can better self-insert while forgetting about the rest of him?
+
+I feel like this line is rather blurry because identification itself is rather vague and subtle. For example, I think James Bond is a male fantasy who exists primarily for men to basically imagine themselves in his position, but how many male James Bond fans actually think of it that way explicitly?
+
+Le Maistre Chat says:
+
+February 11, 2020 at 9:27 am
+
+Perhaps Ron Jeremy is a perfect porn star for straight men because the only part of him that most men might envy is the penis, so you can better self-insert while forgetting about the rest of him?
+
+Have we considered the possibility that Ron Jeremy isn’t human, but a satyr?
+
+Nornagest says:
+
+February 13, 2020 at 10:34 pm
+
+Plausible, but enough people have seen him naked that I think someone would have noticed the tail.
+
+Bugmaster says:
+
+February 11, 2020 at 1:30 pm
+
+the penis, so you can better self-insert
+
+I see what you did there.
+
+Aapje says:
+
+February 11, 2020 at 5:07 pm
+
+@onyomi
+
+If a big penis that stays erect very well completely outweighs being an overweight short ugly man, then I don’t think that male looks matter a whole lot.
+
+Do you not think part of the appeal of porn stars with large penises is that straight men like to imagine having sex with women from the perspective of a man with an unusually large penis?
+
+I don’t know. Perhaps it is just more sexy/interesting to see a bear barely squeeze into cave, rather than have a squirrel wander in easily.
+
+Conrad Honcho says:
+
+February 11, 2020 at 7:20 am
+
+That’s how I parsed it to, too. Being a sexy woman: zero interest. Being a sexy man: moderate interest (I think I said 2 or 3). Not because I’m attracted to Sexy Conrad, but because Sexy Conrad is Conrad from 15 years ago who’s about 20 pounds lighter, still has all his hair, and had a much easier time picking up sexy women for sexy sex than Middle Aged Conrad would today if he were so inclined.
+
+rodan32 says:
+
+February 11, 2020 at 8:08 am
+
+I read somewhere (need to find the source, I suppose) that sex for both men and women is more about the woman’s body. For the man, it’s desire for the woman, and for the woman, it’s being desired. That’s very simplistic, of course, and doesn’t apply to everyone, but I think it’s a good general place to start to explain what’s happening with the numbers.
+
+Personally, I find that I don’t think that much about the male at all. The notion of touching my own penis doesn’t really do anything for me. The man, to me, doesn’t matter all that much. It’s the woman that’s interesting.
+
+ADifferentAnonymous says:
+
+February 11, 2020 at 8:35 am
+
+I think my procedure on the autoandrophilia question was to see if I could get aroused by imaging myself as a sexy man without involving a woman in the fantasy. I couldn’t, so I said no.
+
+I do find that imagining myself as a sexy man can enhance a fantasy with women, but I hypothesize this works by making the fantasy more believable rather than more desirable.
+
+mathguy360 says:
+
+February 10, 2020 at 11:50 pm
+
+I would guess biological men have more of every fetish, regardless of their current gender identity, so it’s not surprising that they have more autogenderphilia also.
+
+Is it possible this could be due to differences in socialization? People socialized into female gender roles may be less inclined to identify and/or report themselves as sexual beings.
+
+Steve Sailer says:
+
+February 11, 2020 at 12:18 am
+
+I worked with a man who is now reported to be “America’s highest paid female CEO”. He was the least socialized individual in our MBA program: he was extremely arrogant and alienated the other two people on our four person team in Marketing Strategy class. I tried to ignore his insults because he really was almost as smart as he thought he was.
+
+He has since made two fortunes, one in outer space, the other inventing a cure for a rare disease one of the children he fathered came down with. He’s like a hero from a late Heinlein novel.
+
+He’s a rather unique figure but he shares some traits with almost all the other ex-men who were prominent before they announced they were ex-men.
+
+mtl1882 says:
+
+February 11, 2020 at 7:14 pm
+
+It seems like the self-reporting would be a huge aspect of this. Most people have a pretty strong urge to conform. In any era, it is anything but easy for most people to announce they identify as the opposite gender. Transitioning is a long, emotionally and physically stressful process. Especially early on, I would expect that people who went through with it were very determined, confident in their ability to assess their life and exert agency, unusually impervious to social pressures, and able to take on daunting long-term challenges. (I do not mean to suggest that the experience was easy for them, just that they’d be in the best position to deal with such a difficult experience).
+
+They are also likely to attract more attention than the average person, and to initially fight their realization by becoming very successful at allegedly “masculine” activities.
+
+It does not surprise me that some of the best known women who were assigned male at birth were high-achievers, probably with somewhat privileged backgrounds, with personalities others found difficult or intense. Caitlyn Jenner is an obvious example. The personality of an Olympian is highly unusual in a lot of ways, as is that of someone drawn to the highest echelons of reality TV fame.
+
+When it comes to people who are open about unusual fetishes (even anonymously online), or even act on them to begin with, I would expect these people to be more blunt, confident, matter-of-fact, and resistant to social pressures than average in most aspects of their lives. Of course, this isn’t always true, but the sample of people who are willing to make themselves known is never going to entirely overlap with the people who can honestly answer yes to the question.
+
+not-oliver says:
+
+February 11, 2020 at 12:35 am
+
+“but until recently nobody realized that something like 20% of healthy people do too.” .. that’s at least as recently as 1976; I’ll try to dig out my copy of Julian Jaynes’s book “The Origin of Consciousness in the Breakdown of the Bicameral Mind” to find the exact reference if you care, but IIRC he was referring to a study which said 15% in the west, higher in the east. The book came out in 1976, but I thiink the studies he referred to were at least 10 years old at the time.
+
+I’m sure you’ve read it and have your opinion of Jayne’s theories — if you’ve posted about them before, I’ve managed to miss it.
+
+Steve Sailer says:
+
+February 12, 2020 at 2:42 am
+
+I only recently noticed that the Coen Brothers’ bicameral-minded film editor Roderick Jaynes (the name under which they jointly edit their movies) is likely chosen as a tribute to Julian Jaynes, who, when his big book came out, was teaching at Princeton when Ethan Coen was a philosophy major there.
+
+sty_silver says:
+
+February 11, 2020 at 2:07 am
+
+One counterargument might be that the responses among cis people alone are enough to generate the hypothesis discussed above. The low rates of autogynephilia in gay men, compared to in straight and bi men, suggest that being attracted to a gender is a prerequisite of autogenderphilia to it. And (adjusting again for the general tendency of male-bodied people to have more fetishes) the higher rates of autogynephilia in cis women/autoandrophilia in cis men, compared to autoandrophilia in cis women/autogynephilia in cis men, suggest that identifying as a gender is a prequisite to autogenderphilia to it.
+
+I’m confused – it seems like the data says the opposite.
+
+autogynephilia in cis men: 2.6
+
+autoandrophilia in cis men: 1.9
+
+Also, since both are men, why does the base rate of people-who-are-assigned-male-at-birth having fetishes matter?
+
+For cis women, the data checks out:
+
+autogynephilia in cis women: 2.5
+
+autoandrophilia in cis women: 2
+
+so the pattern here seems to be that female bodies are more attractive for cis people, not that you find the kind of body that belongs to [the gender you identify as] attractive
+
+tailcalled says:
+
+February 11, 2020 at 2:11 am
+
+I think it’s worth mentioning that the autoandrophilia question you used seems (at least in my experience) to yield lower affirmative rates among women than more generic questions like “How sexually arousing would you find it to imagine being the opposite sex?”.
+
+len says:
+
+February 11, 2020 at 2:18 am
+
+(score one for the hypothesis that this kind of thing causes gender transition, because after reading this I kind of want to be a woman)
+
+I had a hypothesis that the growth in transgender rates was partly due to the increase in AGP/AAP in population, where increasing exposure to and consumption of AGP/AAP fantasies & pornography reinforcing/intensifying AGP/AAP tendencies, to the point of causing gender dysphoria or desire to transition. Unfortunately, I didn’t find enough data to support or refute this one way or another, besides finding that AGP porn as a proportion of normal porn has increased over the past few years.
+
+I’m not even sure what kind of data I’ll need for this kind of hypothesis, short of starting a site on AAP/AGP pornography & erotica and mining the heck out of the userdata — or somehow acquiring such a dataset from some pornography site. Or perhaps somehow showing a bunch of guys AGP porn daily, and recording their AGP/desire to transition before-and-after?
+
+Or if the effect is strong enough, perhaps we can simply show a bunch of people one such paragraph and compare their AGPness before and after.
+
+tailcalled says:
+
+February 11, 2020 at 2:22 am
+
+I intend to show a bunch of guys AGP porn and recording their AGP before and after in a survey soon. (After obtaining consent of course.)
+
+sty_silver says:
+
+February 11, 2020 at 2:25 am
+
+What’s agp and aap? (A google search didn’t find the answer.)
+
+tailcalled says:
+
+February 11, 2020 at 2:29 am
+
+Autogynephilia and autoandrophilia.
+
+Tarpitz says:
+
+February 12, 2020 at 1:10 am
+
+What is AGP porn? Does it involve pointing a bunch of neural nets at photos of the intended viewer and mapping a feminised version of their face onto an existing porn video?
+
+Presumably not, given that it is something your comment applies is actually out there, but I don’t really understand what else it could be.
+
+tailcalled says:
+
+February 12, 2020 at 1:22 am
+
+There’s a lot of forms, but a common one seems to be transgender transformations, which depict someone male turning female. It’s currently unclear what the most common is, though; maybe it’s just self-inserting into ordinary porn or something.
+
+Dee_ says:
+
+February 11, 2020 at 2:33 am
+
+My partner is a lesbian trans woman. She started HRT back when she was unsure whether to transition. It caused her libido to plummet, but her desire to transition got stronger. I’m kind of surprised Scott is posting about AGP theory without mentioning that most trans care experts consider it to be as applicable to the trans community as “vaccines cause autism” is to autistic people.
+
+tailcalled says:
+
+February 11, 2020 at 3:03 am
+
+Vaccines causing autism is a lot less plausible than AGP causing gender issues. It’s not like you can find an absurdly strong correlation between vaccination and autism, but you can in fact find an absurdly strong correlation between autogynephilia and wanting to be a woman. There’s some subtle questions about the direction of causality here (which nobody has come with any conclusive indisputable proof on one way or the other), but that trans care experts consider it as absurd as the vaccine/autism connection says more about the bias of trans care experts than it says about the validity of the theory.
+
+Steve Sailer says:
+
+February 11, 2020 at 3:36 am
+
+My experience a decade and a half ago was that the hyper-intelligent ex-men McCloskey and Conway got extremely enraged by Blanchard and Bailey going public and teamed up with Morris Dees of the Southern Poverty Law Center to try to cancel anybody who’d interviewed them or reviewed Bailey’s book.
+
+Morris is a genius in his own fashion, as well, but this time he got too far out ahead of his age: World War T didn’t start for another decade, so the SPLC’s campaign eventually fizzled out with an embarrassing article in the NYT about their attempt to silence science:
+
+https://www.nytimes.com/2007/08/21/health/psychology/21gender.html
+
+Whether McCloskey and Conway were so angry because Blanchard and Bailey were wrong or because they were right remains a question.
+
+tailcalled says:
+
+February 11, 2020 at 4:07 am
+
+Whether McCloskey and Conway were so angry because Blanchard and Bailey were wrong or because they were right remains a question.
+
+I don’t know enough about Conway to say anything about her, but it seems to me that one can easily come up with a highly plausible model that explains McCloskey’s anger without any need to invoke whether B&B are right or wrong.
+
+Anteros says:
+
+February 11, 2020 at 5:19 am
+
+Well put, and +1 for admirable restraint.
+
+Dee says:
+
+February 12, 2020 at 7:21 pm
+
+I apologize for wording things the way I did. While as you said causes of GD are not currently provable, you at least have a better idea than I do what the causes of your own GD might be.
+
+What I was trying to refer to by “AGP theory” in the context of trans care is what B&B seem to be saying in what I recall (it’s been a while) of their writing:
+
+– AGP is one of the most common GD causes for amab people who start expressing GD post-puberty
+
+– suspected AGP cases should be given slower access to treatment than other GD cases, and just being an woman-attracted amab who expresses GD post-puberty puts you under suspicion for AGP
+
+– (iirc in the article i read this was not stated but seemed to be implied?) amab people who express GD post-puberty, but who are not attracted to women, wouldn’t have AGP so they are a whole different case, and can be given quicker access to treatment
+
+This grouping of ideas seems unsupported and harmful.
+
+If you want to continue this conversation with reference to B&B’s specific writings (not that you are obliged to) we could take it offline.
+
+tailcalled says:
+
+February 13, 2020 at 12:09 am
+
+I don’t know where you pulled the “slower access to treatment” idea from. When Blanchard did clinical practice, he did have relatively slow access to treatment due to RLE (which IMO is mostly orthogonal to his typology), but this was applied to both types.
+
+elspeth diana says:
+
+February 11, 2020 at 3:51 am
+
+transgirl here. i independently came up with (something like) the idea of autogynephilia before i knew what transsexuality was. i would say that it describes my experience and was a factor in my decision to transition.
+
+also, it’s somewhat less unpleasant to say “biological male” than “biological man”, although the preferred term is “amab” (assigned-male-at-birth).
+
+Purplehermann says:
+
+February 12, 2020 at 5:02 am
+
+“Amab” would make others, including myself a bit uncomfortable.
+
+Could you switch that to “Omab”? (Observed male at birth)
+
+Pink_Creosote says:
+
+February 12, 2020 at 10:19 pm
+
+Uncomfortable? I’m curious as to why. Anyways, the convention I’ve seen is DMAB/DFAB (designated female/male at birth). Is that any better?
+
+elspeth diana says:
+
+February 13, 2020 at 12:28 am
+
+counteragrument: “observed” implies more validity than “assigned”, in the same way as “knowing” versus “thinking”.
+
+Conrad Honcho says:
+
+February 13, 2020 at 7:41 am
+
+Yes. Which is what makes “assigned” rather than “observed” sound insulting to cis people.
+
+A baby is born, the doctor, the parents and the nurses note this baby has a penis. “Male” is recorded on the birth documents. Was this an act of assignment or an act of observation?
+
+It sounds as though trans activists want to call this “assignment,” or at least assignment when it turns out the baby is trans. But it’s the same act whether the baby turns out to be trans or cis.
+
+So is it only assignment for trans, or is it assignment for everyone? This question is important and I would like someone to answer it.
+
+elspeth diana says:
+
+February 13, 2020 at 3:38 pm
+
+it’s assignment for everyone.
+
+so if i understand you correctly, your objection is that the word “assignment” is not neutral, but implies antivalidity? would you accept a neutral term that meant “collectively identified (as a particular sex)”?
+
+Randy M says:
+
+February 13, 2020 at 4:29 pm
+
+IMO “identified” removes the implication of arbitrariness that assignment carries. It’s implying that a possibly mistaken attempt was made to label reality, rather than a choice.
+
+Conrad Honcho says:
+
+February 14, 2020 at 6:36 am
+
+Yes, identified is fine. As Randy says, that does not necessarily mean they were correct in the identification. However for the vast, vast majority of people the identification is going to be correct.
+
+Gender identity is important [citation needed], especially to young people as they are trying to figure out who they are, definitely in the context of social interactions with peers. I think if I said to my seven year old cis son, “you were assigned male at birth” he would be very confused and probably defensive, thinking that he is perhaps not a real boy or could have been “assigned” girl or now needs to doubt his identity. That’s not a good thought to have in the back of your head when you’re bragging with the other boys about who’s better at Fortnite (answer: me).
+
+I was not “assigned” male. I was observed to be male, that observation was correct. For a tiny minority of people, the observation may have been incorrect. But nobody was “assigning” anything.
+
+ana53294 says:
+
+February 11, 2020 at 4:07 am
+
+Don’t most people like to imagine themselves being whatever their gender is, but young, hot, attractive by their own standards, and having sex with young hot people of the gender they’re attracted to?
+
+Because sure, I imagine myself being a thinner, fitter, more attractive female. And that sexier version of me having sex with a sexy man I like is a fantasy I have. I guess it’s less common than I thought it was, but I kind of thought that all those diet transformation before and afters are kind of erotic in some ways. Like, those before and afters are motivating partly because I find imagining myself to go to a slightly thinner version of myself erotic.
+
+tailcalled says:
+
+February 11, 2020 at 4:10 am
+
+I guess it’s less common than I thought it was, but I kind of thought that all those diet transformation before and afters are kind of erotic in some ways. Like, those before and afters are motivating partly because I find imagining myself to go to a slightly thinner version of myself erotic.
+
+Is this the cis female equivalent of TGTF? 🤔
+
+Worth adding that the trans guy I had help me design the AGP question in the post had a similar-sounding interest.
+
+Dan says:
+
+February 11, 2020 at 5:12 am
+
+Yeah, I feel like there’s a big difference between a male-bodied male-attracted person (ie cis gay man) thinking “ooh it would be hot if I had bigger pecs” vs a male-bodied female-attracted person thinking “ooh, it would be hot if I had breasts instead of pecs”
+
+(As a cis gay man, I felt like the autoandrophilia question was basically asking “are you turned on by the thing you’re turned on by?” Yes! Yes, I am!)
+
+onyomi says:
+
+February 11, 2020 at 5:23 am
+
+Don’t most people like to imagine themselves being whatever their gender is, but young, hot, attractive by their own standards, and having sex with young hot people of the gender they’re attracted to?
+
+This is what I’m also saying and while it’s possible both of us have incorrect intuitions about how typical our own preferences are, I expect it may also have to do with the wording of the survey and/or how we interpreted it.
+
+I think you could probably get quite different results with slightly different wordings or adjustments to the scenario. For example, if asked to imagine oneself as a very sexy man and rate your level of arousal I can imagine some people basically just imagining a sexier version of themselves while others might think of inhabiting the body of Brad Pitt. Some might simply imagine being Brad Pitt accepting an Oscar in a tux, while others might imagine being him having sex with Angelina Jolie and still others basically insert a version of themselves with great abs into a mental image of having sex with Angelina Jolie.
+
+Personally, just imagining myself being anyone is not inherently arousing if that someone is not also e.g. naked or engaged in a sex act or something. So I could answer the question either way.
+
+aristides says:
+
+February 11, 2020 at 6:24 am
+
+You should do a survey. I’m personally not. I’m a straight cis male, and all my fantasies involve me looking exactly like myself, or alternatively looking like an attractive woman. I can’t think of any reason to fantasize me looking like a different man. I’m probably the weird one, but it’d be a great survey question to ask.
+
+ana53294 says:
+
+February 11, 2020 at 7:44 am
+
+I don’t imagine myself as being a different person.
+
+Rather, myself, but on an ideal day, with my confidence high. My confidence in my sexual attractiveness, being seen as really attractive, and being with a guy who really sees me as very attractive, is part of the fantasy.
+
+rodan32 says:
+
+February 11, 2020 at 8:13 am
+
+This kind of bears out my “it’s all about the woman” theory I mentioned above. The idea being that in hetero sex, the arousal is all about the woman’s body for both partners. The male desires the female, and the female responds to that desire. Simplistic, like I said above, but seems a good general starting point.
+
+Acedia says:
+
+February 11, 2020 at 4:23 pm
+
+Don’t most people like to imagine themselves being whatever their gender is, but young, hot, attractive by their own standards
+
+Sure, but the pleasantness of the thought comes from the extra opportunities that it would afford me. I don’t get any sexual arousal from it, any more than I get from imagining having a lot of money.
+
+Reading the comments on this post with interest and great confusion, because the idea of feeling turned on by myself, in any form, is incredibly alien and strange to me. I had no idea it was so common.
+
+Tarpitz says:
+
+February 12, 2020 at 1:18 am
+
+Seconded. Would I like to be younger and fitter? Absolutely. Is it a turn on to imagine or remember being so? Absolutely not. And the idea of inhabiting another body altogether, as opposed to merely a better maintained version of my own, is not only not arousing but downright squicky.
+
+Purplehermann says:
+
+February 12, 2020 at 5:02 am
+
+Something similar yes imo
+
+EchoChaos says:
+
+February 11, 2020 at 4:27 am
+
+(score one for the hypothesis that this kind of thing causes gender transition, because after reading this I kind of want to be a woman)
+
+This is fascinating to me, because reading this makes me want to have sex with that woman (in the hypothetical, I’m married).
+
+It doesn’t make me want to be her at all.
+
+Lambert says:
+
+February 11, 2020 at 4:58 am
+
+“weird Internet samples plausibly have more of every paraphilia”
+
+Alternate hypothesis: People who fill out surveys on paper pretend to be more vanilla than they really are in front of the big, respectable institutions that do this kind of research.
+
+GearRatio says:
+
+February 11, 2020 at 5:23 am
+
+Imagine a group of sports car enthusiasts that have at least to some extent been selected for intellect – they get together and discuss automotive aerodynamics in a larger forum about general physics that leans towards heady topics, intellectual jacking off at times, that sort of thing.
+
+This group is generally afraid to some extent that society is going to limit their ability to own sports cars in some way – maybe laws are passed that make it more expensive, or insurance is harder to get, or they limit the speed and acceleration of the cars or the roads on which they can be legally used are limited. They worry about this a lot and feel they are in a watershed moment in sports car history in which things could go either way.
+
+Imagine that this group is aware that some elements of sports car enthusiasm are more defensible than others – I.E. people don’t mind their appreciation of manual transmissions, sporty lines and styling but are put off by appreciation of raw speed, considering it, rightly or wrongly, to be a gross fetish that’s kinda dangerous. Basically everyone in this self-selected group is smart enough to be aware of this dynamic.
+
+Now imagine someone put together a survey to try and find how enthusiastic this particular selected group was towards the speed-related elements of sports cars, and headed the survey with this:
+
+There’s a lot of people who don’t like sports cars, and if you answer these questions a certain way might use the data as a weapon against our group. Like I don’t want to do that, but understand that this data could potentially be very dangerous for you. Let me remind you that you have many enemies who are looking for any weapon they can get to restrict your ownership and enjoyment of sports cars.
+
+And then the questions on the survey are all about how much they enjoy the speed, power and acceleration of sports cars.
+
+Why would we expect this survey to produce good data re: sports car speed? How could we trust anything that survey produced as accurate?
+
+tailcalled says:
+
+February 11, 2020 at 5:32 am
+
+That is also an excellent question. I’ve run the same question as Scott did in multiple surveys, and in one such survey, I had no reference to anything related to Blanchardianism, and that survey found higher rates of autogynephilia in trans women than another survey which pretty much directly (though as politely as possible) asked trans people whether they transitioned due to A*P.
+
+That said, the surveys differed in other ways too. E.g. the the first one was over-the-top sexual (“Can you look at some porn For Science?”), whereas the second one was only partly sexual (“Survey on Gender, Sexuality and other things”), so it may have appealed to a different demographic.
+
+It does seem like this discussion area would benefit from more careful measures, preferably extremely longitudinally (before + after transition) for better context.
+
+mathijs says:
+
+February 11, 2020 at 5:24 am
+
+I think there might be a measurement issue here. To explicitly recall in the respondents’ attention that there is a controversial debate about the relation between autogenderphilia and transgender is much more likely to bias responses from trans respondents than from cis respondents. With any question on sexual fantasies there is of course a real risk of not getting an honest response, but the priming in the introduction to the question seems like it would affect trans respondents more.
+
+On the other hand, as I just realised while typing this, there is also a potentially strong bias that would go in the opposite direction. Respondents across the board feel presumably somewhat inhibited in admitting fetishes, but for this particular fetish, the inhibition is likely much stronger among cis respondents. If you are willing to publicly transition, you are probably also more willing to discuss gender-related fantasies (or that is at least my intuition as a cis man without autogenderphilia). I would guess that this a stronger force than what I mentioned in the first paragraph.
+
+Perhaps a way to tease out this second effect from the data is to see the ratio of respondents to non-respondents on this question for cis and trans respondents. Under the assumption that some respondents with autogenderphilia may prefer to skip the question rather than answer it dishonestly, if the rate non-response is higher among cis respondents, this might indicate that inhibitions are indeed biasing the results. On the other hand, there could be many other reasons for non-response that may correlate to cis-trans – for example the second paragraph of the introduction to the question might incline trans respondents to non-response more than it would cis respondents – so this would be a noisy indication at best.
+
+mathijs says:
+
+February 11, 2020 at 5:28 am
+
+By the way, is there an accepted category term for “cis-trans”? I mean in the same way that “gender” is an accepted category term for “male-female”. It seems like it would be useful, so it probably exists, but I don’t usually partake in the discourse so I am not familiar with it.
+
+tailcalled says:
+
+February 11, 2020 at 5:34 am
+
+I usually say “trans status”.
+
+EchoChaos says:
+
+February 11, 2020 at 5:44 am
+
+That reads as badly to me as “male status” would for gender.
+
+mathijs says:
+
+February 13, 2020 at 7:40 am
+
+I am very disappointed at the state of the rationalist debate here. I believe I made two substantive points in my comment above. An important one in the second paragraph that could overturn the entire interpretation of the results in the original post. It received zero response. Then, in the first paragraph a minor point that was also made one minute before my post, and much more eloquently, by GearRatio. His post received one, thoughtful, comment by Tailcalled. Then, as an aside, I asked a neutral question about terminology, which garnered two responses. Meanwhile statements about terminology in a belligerent tone lead to interminable discussion.
+
+It seems people want to talk more about terminology than substance, and much prefer to do so in an aggressive tone. I don’t think these are features of a community trying to grope, even awkwardly, towards the truth.
+
+Conrad Honcho says:
+
+February 13, 2020 at 7:46 am
+
+An important one in the second paragraph that could overturn the entire interpretation of the results in the original post.
+
+I read it when you posted it, and it didn’t strike me as particularly likely to have an impact on the results.
+
+The data is publicly available. You could have checked response rates yourself, probably in much less time than it took you to 1) post about it and 2) write another post complaining that no one checked the response rates for you.
+
+Would you like me to check the response rates for you?
+
+Conrad Honcho says:
+
+February 13, 2020 at 9:55 am
+
+All, right since you tried. I use Excel everyday so it didn’t take me as long. You also saved me time by identifying the philia questions. Really I spent more time trying to figure out why my numbers for people who answered don’t match Scott’s. Scott says:
+
+First of all, thanks to the 6,715 people (182 trans, 6259 cis, 274 confused) who answered these questions
+
+I get the 182 trans responses, but only 5829 cis and 218 other/NA. Is Scott using the full, non-public data? That would explain it. I would find it very hard to believe I messed up the Excel work as it’s very simple COUNTIF and COUNTIFS formulas and I do this almost every day, but it’s also possible I’m dumber than I think I am.
+
+Anyway, from the publicly available data, I get:
+
+cis response rate: 84%
+
+trans response rate: 95%
+
+other/NA response rate: 90%
+
+mathijs says:
+
+February 13, 2020 at 2:05 pm
+
+Ok, thanks for replying. I find your tone unpleasant, but that seems to be inevitable. And I really do appreciate that you spend time on this.
+
+On the substance, you appear to have misunderstood me, or I have misunderstood you. My suggestion was that trans people might be more willing to admit to autogenderphilia, i.e. a trans person with a certain level of autogenderphilia might report a higher score than a cis person with an equal level of autogenderphilia, because they do not feel as embarrassed about discussing it, because they are more familiar with being open about these things. (I think this is a possibility, it might not be the case, of course). If it is the case, then it could by itself completely explain the observed correlation, even if autogenderphilia is equally common among cis and trans people. It seems like a pertinent consideration.
+
+As I suggested, response rates might shed light on whether this phenomenon exists, but only under special assumptions. In other words, the response rates do not speak directly to the question, but are a weak consistency check. Only if it is true that cis people with autogenderphilia are more likely not to respond to this question, cis people overall are not less likely to respond to this question and trans people are not less likely to respond to this question, would a lower response rate lend support to my hypothesis. So my point about the response rate was a weak consistency check.
+
+I appreciate that you performed this check! (It would have taken me perhaps a week, starting with installing excel on my computer and googling basic commands. You might have a comparative advantage. 🙂 ) It seems that the outcome is consistent with my hypothesis, but, as I said, I wouldn’t put too much stock in that result. I do not think there is a direct way of testing my hypothesis, perhaps not even in theory, but certainly not from this data set. Unless I misunderstood your point and you have found such a way.
+
+About the metadiscussion. It is certainly plausible that you quickly understood my point and also understood why it was irrelevant or intuited that it was empirically unimportant. Or that you misunderstood my point and therefore thought it was irrelevant. Obviously, in neither case would it be incbument on you to respond. It seems unlikely that every commenter here made the same evenhanded evaluation. I do not think this is the reason for the lack of response(even though I agree it would be a perfectly valid reason).
+
+Scott’s original post is about understanding correlations between autogenderphilia and cis/trans status. A minority of comments are about understanding these correlations (eyeballing it, I think maybe 25%, with a fairly generous interpretation of substantive). My intuition was that it is the tone that matters for generating discussion. In fact, I wrote a deliberately snarky follow-up. It seems to have been more effective for that aim. (I do not claim to be above this phenomenon. I am now writing a genuinely heated response to your snarky reply to my snarky reply. 🙂 ). So, snarkiness is strong predictor of extensive discussion, substantiveness is a weak predictor and seems to go the wrong way. I stand by my point that the level of debate is disappointing. (Here your (Conrad Honcho’s) reply and zqed’s reply are of course a pleasant exception, among quite a few others.)
+
+Conrad Honcho says:
+
+February 14, 2020 at 6:28 am
+
+Here’s a non-snarky reply: I’m not sure the lower rates of cis response to these questions mean anything. Just eyeballing the data, the vast majority of cis folk who didn’t respond to the philia questions also didn’t respond to the surrounding questions. I put a filter on the data and selected only the rows where the philia questions are blank. The surrounding questions are also almost entirely blank. So it’s not like people were diligently responding to every question, got to the philia questions and said “nope too personal.” They appear to be people who didn’t make it much past the demographic questions to begin with.
+
+Perhaps not so with the trans folk, though. If Scott’s using the full data and got the same number of trans respondents as I got with the public data, then that indicates the trans respondents were more open and willing to share their information in general. Why that is I won’t speculate on.
+
+tailcalled says:
+
+February 13, 2020 at 8:08 am
+
+Back when I saw your original comment, I tried to come up with a response, but I couldn’t really figure out any. Both of your mentioned effects are probably real. I disagree with your guess that the latter effect is stronger than the former, but it’s hard to really come with a strong argument for either. (Do anecdotes count? 🤔) Substantive comments can be harder to respond to because it looks bad if the response isn’t substantive.
+
+I guess one thought I have is, maybe another way of assessing the strength of the two effects would be to ask people how comfortable they would feel if people thought they were autogynephilic. Something like, “If people who knew you were under the impression that you would get aroused by wearing women’s clothes, how would that make you feel?”, perhaps. I think the general degree of confusion about what the AGP question means would make your way of determining it too noisy.
+
+mathijs says:
+
+February 13, 2020 at 2:34 pm
+
+Thanks for your reply. I am already regretting bringing up this meta-discussion thing, so let me just say that I appreciate your comment (and I was not thinking of you). And then let’s back to the real discussion. 🙂
+
+About the substance, the reason that my intuition was that the second effect would be more important, is because there are so many more cis than trans people. But as I write this, I realise that that intuition is wrong; the group size shouldn’t matter for the correlation. So I actually no longer have an intuition for which effect would be stronger. 🙂 (At least this discussion was useful for me…) I don’t have any anecdotes myself, but I would think they are substantive, if unreliable. I would be interested to hear them.
+
+I was writing a paragraph about how much I liked the question you devised, but then I realised there is a problem with it (I think). When you ask that question, “If people who knew you were under the impression that you would get aroused by wearing women’s clothes, how would that make you feel?”, you get the response from all cis and all trans persons, not just from those cis and trans persons who have autogenderphilia but didn’t report it. Suppose for instance that my hypothesis was way off and all cis persons who have autogenderphilia would report it truthfully. Suppose also that all trans people would report it truthfully. Furthermore, suppose that all cis people without autogenderphilia would be embarrassed to have people believe they had it, but neither cis people with AGP (I am starting to appreciate the abbreviations 🙂 ) would be embarrassed, nor trans people (with or without AGP). Then the reply to your question would show that cis peope would be overwhelmingly more embarrassed to be seen as having AGP, but there would not be a bias in the responses of cis people with AGP. So your question doesn’t seem to solve the problem. (And I have no idea if it is possible to solve the problem without getting a truthful response to the question “did you just lie”? It very well might be possible, but i don’t know how.)
+
+(Edited for clarity.)
+
+Dan L says:
+
+February 13, 2020 at 5:38 pm
+
+I am very disappointed at the state of the rationalist debate here.
+
+Why would you think it’s a rationalist debate?
+
+Noah says:
+
+February 11, 2020 at 5:26 am
+
+I now realize I misread the questions on the survey as “being with him” and “being with her” and answered accordingly, since my brain apparently decided that was a much more reasonable question. No idea how common this was.
+
+benf says:
+
+February 11, 2020 at 5:30 am
+
+Yep me too. That’s definitely polluting the results.
+
+Now that I’ve read the question properly I don’t even really have an intuitive understanding of what it would be like to find BEING someone else arousing. So I probably would have left the question blank.
+
+Lambert says:
+
+February 11, 2020 at 6:07 am
+
+I wonder whether there’s any rule-34 Moral Questions (1979) fanfic about erotically transforming into Thomas Nagel (and/or a bat).
+
+EDIT: No wait, smut about Thomas Nagel being transformed into Heraclitus of Ephesius then having graphic sex with a bat who woke up one morning in the body of a Bohemian textiles salesman.
+
+Forward Synthesis says:
+
+February 11, 2020 at 2:57 pm
+
+Yeah, I find autogynephilia a little baffling from a personal perspective. I never even knew it existed until maybe a year or so ago. Self-inserting in porn is a thing, but that’s a far cry from AGP, and I guess I always knew that female sexuality is very dependent on being desired (or so it is written), but it again feels like a different order of thing.
+
+sty_silver says:
+
+February 11, 2020 at 8:57 am
+
+I wonder how common this is.
+
+To figure it out, I made a straw poll: https://strawpoll.com/465wpw4w. Intended for everyone who encountered this question in the survey.
+
+benf says:
+
+February 11, 2020 at 5:37 am
+
+A question about “hearing voices”: they say an auditory hallucination is hearing something in the absence of a stimulus, but that seems kinda fishy to me. For example, if I’m in the other room with my headphones in listening to music, and my wife is watching TV in the other room, occasionally I’ll think she called my name. But there was a lot of stimulus present: my music, the muffled noises from the TV…occasionally those sounds will interact to form a sound that is plausibly similar enough to my name being spoken that my brain will go, hey, someone is calling your name. But that’s not a HALLUCINATION, it’s just a mistake.
+
+mathijs says:
+
+February 11, 2020 at 5:52 am
+
+So it’s not a hallucination and there are stimuli present. It seems in accordance with standard usage as you defined it. 🙂
+
+fibio says:
+
+February 11, 2020 at 6:17 am
+
+But that’s not a HALLUCINATION, it’s just a mistake.
+
+I think this is far more a case where the scientific terminology is out of step with popular terminology. If you’re driving and think you hear an ambulance when there wasn’t one, it would be an auditory hallucination by the strict dictionary definition. (Which is, perceiving something that isn’t present/didn’t happen.) Other mundane things, like seeing a friend when actually it was just someone with the same hairstyle, would also count because for a moment you saw something that was objectively untrue. Now, this occurred because your brain is lazy and easily confused and it only took a moment to figure out it wasn’t true, but it’s still a hallucination to anyone studying such a thing scientifically.
+
+Pop culture tends to focus on cases where the person experiencing them is incapable of telling the difference between the hallucination and reality. That’s not really part of the hallucination itself, though, more a failure to distinguish when the brain made a mistake in interpreting sensory data.
+
+Bugmaster says:
+
+February 11, 2020 at 1:25 pm
+
+FWIW I personally do start to “hear” voices — single words, or sometimes disjointed phrases — after having been awake for more than 20 hours straight. I put the word “hear” in scare-qoutes because my fatigue-addled brain is still able to differentiate between these false voices and the real kind. That said, if I stay awake for much longer after that, all my senses tend to blur even further.
+
+justavriend says:
+
+February 17, 2020 at 9:30 pm
+
+I have experienced auditory hallucinations before during periods of psychosis. They don’t appear in the absence of stimulation necessarily. It’s more like it takes white noise/room noise and quantizes it into a sound-bite that matches your priors/expectations. When your priors are being fucked with by psychosis, the sound bites can be horrifying. After hearing two people having a fight outside my house when I was in a psychotic state, the ambient noise of my room and the street outside kept getting sorted into clear and distinct screams of either “Help!” or “I’ll kill you!” That was an un-fun night.
+
+Byrel Mitchell says:
+
+February 11, 2020 at 6:09 am
+
+I’m another cis-male that answered autoandrophilia highly because I find the idea of being attractive sexy, and the idea of being a woman a distinct turn-off. I just assumed this was normal for cis-men.
+
+I do wonder if this is because I read the question too broadly; I find being a hunk sexy because of how I imagine women to respond to it (and how much I expect it to boost my confidence with them), not in some autophilic ‘I masturbate with jockstraps’ way.
+
+rho says:
+
+February 12, 2020 at 7:52 pm
+
+Reading this as a “mostly” transbian, the idea of autoandrophilia is actually totally foreign. (Great! I can have all the sex with women I want, and enjoy none of it!) I’m stunned that not once have I fantasized about being an uber-attractive man, even though I can perceive its instrumental value.
+
+Freddie deBoer says:
+
+February 11, 2020 at 6:37 am
+
+Is anyone else having trouble keeping the basic concepts and terms clear here?
+
+Steve Sailer says:
+
+February 11, 2020 at 7:14 am
+
+That’s why I invented the term “ex-man.”
+
+Le Maistre Chat says:
+
+February 11, 2020 at 9:31 am
+
+Stan Lee beat you to it.
+
+hls2003 says:
+
+February 11, 2020 at 12:58 pm
+
+Yes, to the point that half the article and comments are barely intelligible without much more detailed concentration than I can spare.
+
+Silverlock says:
+
+February 12, 2020 at 5:01 am
+
+I am having the same problem, yes.
+
+FormerRanger says:
+
+February 12, 2020 at 6:50 am
+
+Yes.
+
+bullseye says:
+
+February 11, 2020 at 7:17 am
+
+I’m a cishet man, and I answered 1 (“not at all”) to both questions.
+
+When I watch porn, I don’t imagine myself as being one of the people I see. I imagine myself there in addition to the people I see, so if I see two people, in my head it’s a three-way. This is why I strongly prefer lesbian porn over anything featuring a man.
+
+Are straight men who like lesbian porn all like me? Do straight men who like straight porn all imagine themselves to be the man in the video?
+
+EchoChaos says:
+
+February 11, 2020 at 7:25 am
+
+Are straight men who like lesbian porn all like me?
+
+All is absolutely too strong, but as a straight guy who likes lesbian porn, this is how I do it as well.
+
+Do straight men who like straight porn all imagine themselves to be the man in the video?
+
+I mentally replace the man in the video with myself, as if I had filmed myself and am watching my own sex tape. I do not imagine inhabiting the body of the man in the video.
+
+Forward Synthesis says:
+
+February 11, 2020 at 3:29 pm
+
+Also cishet male, and don’t experience any kind of AP.
+
+When I watch girl on girl, I don’t imagine myself being there in some situational sense like a three-way. I think a three-way would actually be awful in real life, because I’d rather focus on one woman, but with porn it doesn’t really matter because I can switch between enjoying how much they are enjoying each other to imagining having sex with either of them without any of the awkwardness of trying to apportion attention in real life. I definitely don’t imagine myself being there in some really substantive sense where there’s a consistent sense of what’s happening in relation to me being in that space.
+
+If I’m watching a man with a woman, my strong preference is for it to be POV, because I’m interested in seeing the reaction of the woman more so than self-inserting(!) in a really elaborate way. I don’t really want to imagine being some random dude who’s not me. I’m self-inserting in the sense that it provides a framework for what it would be like if I was the one sticking my dick in her, and how she would respond if I was doing similar things, and what that would look like from my perspective, but it’s not as if I’m imagining my own body in great detail in this scenario. My sexual fantasies tend to be first person perspective. Even if I imagine myself having sex with a woman in third person from a mid shot range, my primitive sex-brain identifies this figure as a clone and activates the threat matrix. The impostor-rival must be eliminated! Bzzz!
+
+Weirdly when I day dream about power fantasies rather than sexual fantasies, it can be either perspective and often tends to be third person. Power fantasies are often like movies for me, in which I can live vicariously through a better me. It can involve me inhabiting a better body to do greater things, but this is devoid of sexual content. Even if I imagined myself as a turbo hunk seducing a beautiful woman, as soon as it transfered to a sexual fantasy it would turn towards a first person perspective more focused on the woman.
+
+I could be an extreme outlier but I think different parts of the brain might be involved in power fantasies versus sexual fantasies. They seem strongly separate to me.
+
+bullseye says:
+
+February 11, 2020 at 4:49 pm
+
+I have the same experience with power fantasies; sometimes it’s me, but sometimes it’s a fictional character who does not resemble me.
+
+As for POV porn, it varies for me. If I hear his voice or see his hands, that screws it up for me (their hands never look like mine).
+
+Act_II says:
+
+February 11, 2020 at 7:22 am
+
+I’m glad you declined to report numbers for low sample sizes. It’s easy enough to check the survey data for the curious, and if you hadn’t done that I probably wouldn’t have even noticed that the numbers were too small to be especially meaningful.
+
+Mendalrass says:
+
+February 11, 2020 at 8:12 am
+
+For my work I enter and thoroughly search a lot of houses and apartments of deceased or elderly men and woman who usually left unexpectedly and aren’t coming home.
+
+When I started I was definitely surprised by the percentage of ostensibly straight men men living solo who had hidden boxes containing female clothing – think men’s size 12 black leather stiletto boots and size XXL elaborate lingerie, and often as well as things like fake rubber boobs and sometimes “gay” oriented sex toys.
+
+I would describe it to friends as seeming like their sexuality had looped back onto itself – like they had aged or losered themselves out of the sexual marketplace and got involved in heavy porn use, but eventually they just wanted to become the porn themselves.
+
+tailcalled says:
+
+February 11, 2020 at 8:24 am
+
+Zucker found no correlation between age and transvestic fetishism, see here.
+
+Rachael says:
+
+February 11, 2020 at 8:47 am
+
+Calibration is an issue with the survey questions. Does 1 mean meh, or does 3 mean meh and 1 mean actively repulsive? I didn’t answer the questions partly because of this confusion. I’m a straight cis woman. Imagining myself as an attractive woman is meh, neutral; like a fetish I don’t have, like firemen. But imagining myself as any kind of man, attractive or otherwise, is gross, off-putting; like a fetish I find actively repulsive, like nappies/diapers. So if I answer 1 for a man, I should answer 3 for a woman, but that feels like overstating it, like saying I have half-strength AGP, when I don’t think I have it at all. But saying 1 for a woman means also saying 1 for a man is inconsistent: it should be a negative number.
+
+tailcalled says:
+
+February 11, 2020 at 9:32 am
+
+The ends of the scale were labelled; to the left, it said “not at all”, and to the right, it said “very”, and both “meh” and “off-putting” fits under “not at all”, so you should say 1 for both.
+
+But saying 1 for a woman means also saying 1 for a man is inconsistent: it should be a negative number.
+
+This assumes that repulsion is exactly opposite of arousal, which is not obvious to me.
+
+tailcalled says:
+
+February 11, 2020 at 9:53 am
+
+One thing I have wondered, though, is if it might be appropriate to also add a separate question asking about aversion as well as arousal, so people can report them independently.
+
+tailcalled says:
+
+February 11, 2020 at 9:39 am
+
+How were the questions in the survey derived? Are they close to, say, the survey questions that Blanchard uses to test for autogynephilia?
+
+I talked to an multiple autogynephilic trans men, though mostly to one. His post-transition fantasies were relatively standard for an AGP man, and pretransition he would look at images of women he found attractive and imagine being them.
+
+In men, this measure seems to correlate quite strongly with other measures of autogynephilia. I haven’t tested with Blanchard’s specifically, but I’ve tested against a set of questions that have been tested against a set of questions that have been tested against Blanchard’s. (OK, with that much indirection it’s not the most convincing argument…) It would also be sorta crazy if they differed all that much from Blanchard’s, because both mine and Blanchard’s explain a lot of variance in gender feelings among men, so if this explained variance is independent between the two, there’s a very large fraction of variance that can be explained.
+
+The questions on Survey anon’s gender blog seem to omit the attractiveness angle. I think that’s a significant difference: a lot of people might have an easier time associating “attractive” with the gender whose members they tend to find attractive.
+
+I usually add in “handsome” and “beautiful” to guide people away from thinking of beautiful men and handsome women, as these interpretations would probably be measuring the wrong thing. Arguably, when one is placing it as a separate question, one could add more info about how to interpret things, so this might be useful in future surveys.
+
+tailcalled says:
+
+February 12, 2020 at 9:29 am
+
+Just to clarify, when I wrote “autogynephilic trans men”, I was referring to FtMs, not MtFs. Mentioning this because some people were confused.
+
+Well... says:
+
+February 11, 2020 at 11:02 am
+
+I remember answering this set of questions with the feeling that I clearly understood them: that they’re asking if I would or would not find it erotic simply to be a very handsome/beautiful man/woman, even if I was just in a room by myself. (“Obviously not. 1 for both.”)
+
+Now, reading this, I’m a little confused about whether I understood correctly, or whether I was supposed to interpret the questions more as asking whether I would or would not find it erotic to be a very handsome/beautiful man/woman engaged in a sexual act. (“1 for being a beautiful woman, since I don’t like the idea of experiencing sex of any kind as a woman; not sure what to put for being the handsome man…being handsome doesn’t guarantee I get to be having sex with a very beautiful woman…and I’m already pretty good looking and I like being me just fine…but the part of sex that’s fun is who I’m having sex with, not being some other guy. So 1 for that too.”)
+
+I remember when I was maybe 10 or 11 thinking that maybe it would be cool to inhabit the body of a hot girl because then I could grope a pair of boobs that I had complete ownership of and unlimited access to. But when I got a little older I came to feel that was kinda silly and never looked back. And once I groped my first pair of someone else’s boobs (I was in ninth grade, and had somehow landed a girlfriend who was a good-looking senior) I decided that was even better.
+
+So is the autogynephelia question asking about something like the tongue-in-cheek fantasy I had at age 10, or is it asking if I’d want to be a beautiful woman and then get doinked by a man? Or is it asking if just being a beautiful woman standing alone in a room fully clothed, would be a turn-on?
+
+So, possibly confusing question. I agree with others who say this might have produced noisy results.
+
+tailcalled says:
+
+February 11, 2020 at 11:42 am
+
+It’s difficult to say because in reality as far as I can tell, autogynephilic fantasies are highly varied. Usually, ones that simply involve picturing oneself as a woman with no additional sexual acts are considered “pure autogynephilia”, I think, but this is not really based on anything other than it seeming logical. Autogynephiles have been observed having many different fantasies, including the pure ones, but also including ones about sex with men or sex with women, about transforming into a woman, fantasies that in some way combine it with masochism, fantasies that in some ways combine it with other forms of genderbending, etc..
+
+Usually, in men, any sort of sexual fantasies about being a woman would be considered autogynephilic. However, that is clearly not at all applicable to assessing autogynephilia in women, as plausibly women might just imagine being women in sexual fantasies because they’re already female and this would be the sorts of experiences they would likely have, rather than because they specifically find it arousing to be female. The autogynephilia question used is meant to be more applicable to women, but it seems likely that people interpret it in very different ways.
+
+Mark V Anderson says:
+
+February 12, 2020 at 8:00 am
+
+So, possibly confusing question. I agree with others who say this might have produced noisy results.
+
+Yes, I suspect nothing useful can be pulled from this data because of wildly varied interpretations of the question. Like many others I was confused by the question. What does it mean to aroused by the idea of being someone else? It’s not something that ever occurred to me before, but I could imagine arousal under some interpretations, so I think I put down a 2. But I’m not sure whether I did for the male side or the female side, because it depends how I interpreted the question at the time.
+
+Purplehermann says:
+
+February 11, 2020 at 11:46 am
+
+the higher rates of autogynephilia in cis women/autoandrophilia in cis men, compared to autoandrophilia in cis women/autogynephilia in cis men, suggest that identifying as a gender is a prequisite to autogenderphilia to it.
+
+Can someone explain how this is shown by the data please? I’m confused
+
+Freddie deBoer says:
+
+February 11, 2020 at 12:12 pm
+
+I’m sure I’m just stupid but this is an example of where I simply cannot keep track of which gender of which cis/het status is wanting to be what gender.
+
+Grek says:
+
+February 11, 2020 at 5:09 pm
+
+@Freddie deBoer:
+
+Cis means not wanting to change genders. A cis man is a man who was born male and stayed that way, and a cis woman is a woman who was born female and stayed that way. Trans means wanting to transition to a particular gender. A trans man is someone who transitioned into being a man (but who wasn’t born male), while a trans woman is someone who transitioned into being a woman (but who wasn’t born female).
+
+The above quote talks about how cis women (women who were born as women and wish to remain as woman) tend to enjoy thinking of themselves as attractive women more than they tend to enjoy thinking of themselves as attractive men. Conversely, cis men (men who were born as men and wish to remain as men) tend to enjoy thinking of themselves as attractive men more than they tend to enjoy thinking of themselves as attractive women. Similarly, trans women show the same pattern as cis women (they like to imagine themselves as sexy women) and trans men show the same pattern as cis men (they like to imagine themselves as sexy men).
+
+@Purplehermann:
+
+The obvious conclusion to draw from the above data is that whatever gender a person identifies as, that’s the gender that they are more likely to want to be a sexy version of. There’s exceptions, of course, but generally speaking people who want to be seen as men are more likely to be aroused at the thought of being a very sexy men, while people who want to be seen as women are more likely to be aroused at the thought of being a very sexy woman.
+
+Which isn’t terribly surprising when you think about it in those terms. But that’s the whole point of this blog post, that autogenderphilia isn’t a very useful concept when trying to explain why trans people are trans.
+
+Purplehermann says:
+
+February 12, 2020 at 5:17 am
+
+@Grek I feel like an idiot, but what data shows that conclusion and how? (I look at the data, look at the conclusion, look back, and still have no idea. Please spell it out for me, tht would be really helpful)
+
+Pink_Creosote says:
+
+February 12, 2020 at 10:38 pm
+
+@Purplehermann I think the way he (Scott) arrives at that conclusion is by discounting the answers based on sexual attraction, i.e. straight men are not attracted to male bodies so autoandrophilia would “naturally” be lower for them than autogynephilia. Basically, the attractiveness of the fantasy (of being a sexy man) is being diminished by having to imagine a man when you could be imagining a woman.
+
+If you look at only the bisexual responses (which you would expect to be equally attracted to imagining women as men) you find that they prefer to imagine themselves as their own gender. This is true for both cis women as well as cis men.
+
+Does that help?
+
+RGTP_314 says:
+
+February 11, 2020 at 12:29 pm
+
+Those means are nearly useless to readers without some estimate of variation. Why exclude the standard deviations?
+
+Bugmaster says:
+
+February 11, 2020 at 1:19 pm
+
+I came here to ask the same thing.
+
+Lambert says:
+
+February 11, 2020 at 1:50 pm
+
+Can Scott assign arbitary strings to to the four different (sex × gender) categories here?
+
+Then ruthlessly banhammer arguments about terminology.
+
+Y’know, so we can actually debate the issue at hand.
+
+Dee_ says:
+
+February 12, 2020 at 12:52 am
+
+The medically standard (i.e., WPATH) terminology in trans care is ‘assigned’. I don’t think we should shy away from standard terms because some people are vocally offended by them.
+
+Purplehermann says:
+
+February 12, 2020 at 5:10 am
+
+That is probably because trans care is funded and managed largely by people with an ideological bent, no?
+
+Those who don’t care for that ideology are bothered by the term.
+
+Why not use “observed at birth”, which is more neutral, if there isn’t an agenda here?
+
+Dee_ says:
+
+February 12, 2020 at 12:34 pm
+
+“Observed at birth” is workable, some other alternatives used on this page are not.
+
+“That is probably because trans care is funded and managed largely by people with an ideological bent, no?” If you are saying that trans activists are pulling the strings of the trans care system, then no, that’s not true. If you look at WPATH Standards of Care (free online), there is a 22 page bibliography, mainly composed of citations to peer-reviewed literature written by doctors and researchers who are not trans themselves.
+
+I’d say that a refusal to use normal health care terminology while discussing health care is ideological in itself.
+
+Purplehermann says:
+
+February 12, 2020 at 2:21 pm
+
+I don’t think you need to be trans to be an activist, and the last paragraph reads like a gotcha which isn’t even wrong
+
+Purplehermann says:
+
+February 12, 2020 at 2:26 pm
+
+Regardless, I’d ask that you use a term which is workable for those who disagree with the lgbtq worldview, and stop using terms like assigned gender.
+
+(Here at least. On lgbtq forums use whatever terms you like of course)
+
+Lambert says:
+
+February 12, 2020 at 3:56 pm
+
+Are people really objecting to others using ‘AAB’ terminology?
+
+I can see why they might not want to feel like they’re forced to use a specific terminology, but objecting to others using a term? I thought that was what they were busy accusing trans activists of doing.
+
+(I can also see why trans people might not want other people using the terms relating to ‘biological sex’. It’s a complex issue about the power to define language vs triggering dysphoria etc.)
+
+What I really want is for everyone to just use the terms they’re happy with and top actually get on with the discussion about AGP/AAP, rather than going in circles around ‘Behold, a man’.
+
+Bugmaster says:
+
+February 12, 2020 at 4:53 pm
+
+Stupid question, why not say something like “XY-woman” or “XX-man” ? I agree that this glosses over intersex issues, but maybe it would work as a first approximation ? I’m not trying to insult anyone’s feelings here, I just want to find a term that will be reasonably comprehensible while offending everyone equally.
+
+Dee says:
+
+February 16, 2020 at 1:22 am
+
+@Purplehermann: I’m not sure what you mean by “isn’t even wrong”. I’ll try to restate. It’s not objectivity to center an unproven fringe theory based on dubious methodology (e.g., see Moser’s paper and Serano’s paper pointing out flaws in the B&B papers), while refusing to use mainstream terminology on the grounds it would be smuggling in bias. Imagine if you were asking a climate change debate to be held on comparable terms.
+
+@Bugmaster: If ‘assigned’ really won’t fly, ‘observed’ would be better than chromosome-based terms.
+
+Majuscule says:
+
+February 11, 2020 at 8:15 pm
+
+After taking the survey, I mused that maybe for a cis het female the question should be to imagine yourself as a powerful man rather than an attractive one. I suppose “attractive” might include the former (I have no idea where other people’s minds might go with “attractive”.) But imagining myself as a physically hot man doesn’t move the needle at all for me, while imagining myself as a powerful man does register at least a little. Which makes a lot of sense given traditional patterns.
+
+foggen says:
+
+February 12, 2020 at 10:23 am
+
+That’s an interesting angle, and I think I’d suggest that your objection is strengthened by noting that the wording in the survey is actually “handsome” and not “attractive”. The perception of power is often a core piece of masculine attractiveness, which I would suggest is a larger question than mere “handsomeness”.
+
+tailcalled says:
+
+February 12, 2020 at 12:57 pm
+
+It definitely seems like the autoandrophilia question should be improvable. As far as I can tell, it underestimates the rates of AAP in women compared to more generic questions (such as “How arousing would you find it to imagine being the opposite sex?”).
+
+Part of the reason for adding handsome is to briefly move men away from considering, like, femboys as a possibility when they answer the question, as autofemboyphilia seems anecdotally closer to autogynephilia than to autoandrophilia (at least in men). But it could probably be handled better.
+
+Well... says:
+
+February 12, 2020 at 4:08 am
+
+Your beauty is beyond compare
+
+With flaming locks of auburn hair
+
+I think I’d rather just inhabit you, Jolene
+
+Your voice is like the breath of spring
+
+Which turns me on, so here’s the thing:
+
+I fantasize of being you, Jolene
+
+Irenist says:
+
+February 12, 2020 at 12:28 pm
+
+For example, everyone knows schizophrenics hear voices, but until recently nobody realized that something like 20% of healthy people do too.
+
+The linked article’s examples of healthy people hallucinating voices are people hearing the voices of deceased loved ones, or the voice of God.
+
+One way to interpret this is as auditory hallucinations being normal. Another way to interpret it would be as (admittedly very weak) evidence that ghosts and God are real, and people are actually hearing them.
+
+Black Ice says:
+
+February 12, 2020 at 12:55 pm
+
+With apologies to Well…
+
+Your beauty’s all well and good over there
+
+With flaming locks of auburn hair
+
+But over here your name is just, Jolene
+
+Your voice is like the breath of spring
+
+But I don’t care, yes that’s the thing:
+
+I don’t give a shit ’bout you, Jolene
+
+Well... says:
+
+February 13, 2020 at 7:12 pm
+
+Hah, I’m not the one you should be apologizing to.
+
+Black Ice says:
+
+February 12, 2020 at 1:07 pm
+
+Most if not all of my sexual fantasies involve sexually dominant/forward women who “can’t resist” sharing their sexual appeal. So kind of an oxymoron, but not a very elaborate one.
+
+This is because I am an unattractive man who nonetheless has a good appreciation of female attractiveness. Men who have had lots of sexual partners probably have very different sexual fantasies because they have that “money in the bank”. These men don’t necessarily all have a good appreciation of female attractiveness/sexiness either. (Who knows??)
+
+As a self-imagined woman, I am attracted to the feminine, thoughtful type of sensitive man (but NOT the sleazier types of sensitive man). I am also moderately attracted to very powerful, feminine men like Adrian Veidt in Watchmen, but that’s a bit high-falutin’.
+
+I like to think that being a self-imagined woman and actually being born as a woman are very different things. Otherwise, a lot of the subtlety that God intended for sex (heh) to be imbued with would be lost, would it not?
+
+Also: sexual fantasies are not the same thing as plausible courtship practices. If someone knew my sexual fantasies, that person would kinda be disqualified from forming judgements about my supposed courtship practices. In many ways, that person would be absolutely putting me off sex forever.
+
+lomli says:
+
+February 15, 2020 at 11:55 am
+
+Hi, I just kinda stumbled in here from the internet, pleased to find people exploring a subject that i think a lot about, but which has never gotten much traction with either my cis friends (they are mystified) or my transwoman friends (taboo, to some extent).
+
+What I wanted to suggest – briefly tho, cuz I haven’t quite thought it through yet – is that you would get a lot more from this survey by expanding the framework beyond that single central binary – “wanting them”/”wanting to be them”. Obviously, these two states aren’t mutually exclusive, but i think there are also more dimensions at play here. Desire (and being desired) – and I apologize for sinking into analogy here – is less like a single arrow you shoot either yourself or someone else with, and more like a cloud of them. Wanting a person just is not that much like wanting a sandwich. That is to say that even in it’s most basic, objectifying form, it’s a reflexive process, in which our self-image is reflected back to us from their POV, and vice versa, like a hall of mirrors, or nesting dolls. There’s probably always some ‘autophilia’ involved, even when there’s no full-on wanting to *be* them, just like there’s always some uh, heterophilia involved when we look in the mirror.
+
+That came out a little more vague than i hoped.
+
+I guess some more concrete examples of these layered reflections would help. I do think theory of mind plays a role that can be very complex. I also think empathy plays a role. Not in any prescriptive ethical sense, but in the sense that to some extent, our ability to eroticize our own identities depends on how closely we are able to identify with the POV of our lovers. I could probably come up with a variety of ‘philias’ based on this kind of mirroring from my own experience as a mildly autogynophilic (and MORTIFIED) cismale teenager.
+
+Pardon any typos or half-digested ‘male gaze’ tropes, busy day.
+
+justavriend says:
+
+February 17, 2020 at 9:44 pm
+
+I’ve been thinking a lot recently about desire and categories of desire. I recently came across the idea of “homosocial/heterosocial desire”, the desire for purely social bonding/attention from either your own or a different gender. Putting social desire on the same footing as romantic and sexual desire has been a very powerful thought technology for me.
+
+But it got me thinking: are there other properly discrete forms of desire which I don’t have language for? After having a moment of strong “wanting to be someone”, and having considered this post, I have a strong intuition that a fourth category ought to be positted.
+
+The language you used — “reflexive process”, “hall of mirrors” — really resonated with my intuitions about this. And I don’t think this reflexive desire need necessarily be sexual. Rather, autogynephilia and autoandrophilia ought to be thought of as coinstantiations of reflexive and sexual desire.
+
+All very interesting stuff, and it’s been helping me get clarity on a whole host of confusions I’ve had in friendships and romantic relationships.
+
+lomli says:
+
+February 15, 2020 at 12:08 pm
+
+Quick example of the kind of complications i wish i heard others talking about:
+
+wrt the question of ‘who you are in the picture’, one thing that i experience sometimes in both sex and fantasy is the scene as a kind of totality – tableux would be the pretentious word for it – where the erotic charge is kinda diffused across both actors, and my own position – in one or the other – doesn’t seem to have much importance as far as erotic possibilities are concerned. When that happens with a lover AND there’s enough intimacy and shared language for feedback, it can be really intense. Trippy, a little depersonalizing, but sometimes really creative.
+
+thetitaniumdragon says:
+
+February 20, 2020 at 12:52 am
+
+I hate to say this, but I think that your sample is hopelessly biased and therefore useless about this.
+
+I’d wager that intelligent people have more weird fetishes than less intelligent people, and that people who seek out novelty have more weird fetishes than people who don’t.
+
+And your blog attracts intelligent people who seek out novelty.
+
+Like… we’re a bunch of weirdos. Plus WEIRDos, for that matter.
+
+You’d need a randomized sample to draw useful conclusions from this.
+
+Also, someone who is willing to discuss their masturbation habits with you may also not be particularly representative of the general population; in fact, given that it is a generally taboo topic, I’d wager that this is itself going to create issues. I’ve noticed that people who are willing to discuss sexual topics openly also tend to be the people with the most fetishes.
+
+Meta
+
+Log in
+
+Entries feed
+
+Comments feed
+
+WordPress.org
+
+Norwegian founders with an international team on a mission to offer the equivalent of a Norwegian social safety net globally available as a membership. Currently offering travel medical insurance for nomads, and global health insurance for remote teams.
+
+Altruisto is a browser extension so that when you shop online, a portion of the money you pay goes to effective charities (no extra cost to you). Just install an extension and when you buy something, people in poverty will get medicines, bed nets, or financial aid.
+
+Metaculus is a platform for generating crowd-sourced predictions about the future, especially science and technology. If you're interested in testing yourself and contributing to their project, check out their questions page
+
+The Effective Altruism newsletter provides monthly updates on the highest-impact ways to do good and help others.
+
+MealSquares is a "nutritionally complete" food that contains a balanced diet worth of nutrients in a few tasty easily measurable units. Think Soylent, except zero preparation, made with natural ingredients, and looks/tastes a lot like an ordinary scone.
+
+AISafety.com hosts a Skype reading group Wednesdays at 19:45 UTC, reading new and old articles on different aspects of AI Safety. We start with a presentation of a summary of the article, and then discuss in a friendly atmosphere.
+
+Seattle Anxiety Specialists are a therapy practice helping people overcome anxiety and related mental health issues (eg GAD, OCD, PTSD) through evidence based interventions and self-exploration. Check out their free anti-anxiety guide here
+.
+
+Beeminder's an evidence-based willpower augmention tool that collects quantifiable data about your life, then helps you organize it into commitment mechanisms so you can keep resolutions. They've also got a blog about what they're doing here
+
+80,000 Hours researches different problems and professions to help you figure out how to do as much good as possible. Their free career guide show you how to choose a career that's fulfilling and maximises your contribution to solving the world's most pressing problems.
+
+B4X is a free and open source developer tool that allows users to write apps for Android, iOS, and more.
+
+Jane Street is a quantitative trading firm with a focus on technology and collaborative problem solving. We're always hiring talented programmers, traders, and researchers and have internships and fulltime positions in New York, London, and Hong Kong. No background in finance required.
+
+Dr. Laura Baur is a psychiatrist with interests in literature review, reproductive psychiatry, and relational psychotherapy; see her website for more. Note that due to conflict of interest she doesn't treat people in the NYC rationalist social scene.
+
+Support Slate Star Codex on Patreon. I have a day job and SSC gets free hosting, so don't feel pressured to contribute. But extra cash helps pay for contest prizes, meetup expenses, and me spending extra time blogging instead of working.
+
+Giving What We Can is a charitable movement promoting giving some of your money to the developing world or other worthy causes. If you're interested in this, consider taking their Pledge as a formal and public declaration of intent.
+
+Substack is a blogging site that helps writers earn money and readers discover articles they'll like.
+
+The COVID-19 Forecasting Project at the University of Oxford is making advanced pandemic simulations of 150+ countries available to the public, and also offer pro-bono forecasting services to decision-makers.

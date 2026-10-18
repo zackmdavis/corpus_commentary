@@ -1,0 +1,77 @@
+{
+ "post": {
+  "_id": "5DB4csh8imXjYv4ou",
+  "title": "Book Review\u2014The Origins of Unfairness: Social Categories and Cultural Evolution",
+  "postedAt": "2020-01-21T06:28:33.854Z",
+  "pageUrl": "https://www.lesswrong.com/posts/5DB4csh8imXjYv4ou/book-review-the-origins-of-unfairness-social-categories-and",
+  "commentCount": 5
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "Gvrf85M64LaJEGDQr",
+   "parentCommentId": null,
+   "postedAt": "2020-01-22T19:22:52.171Z",
+   "baseScore": 11,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "This seems basically correct to me. But I think the example of dancing doesn't really work.\r\n\r\n> Consider a population of agents that meet in pairs and play a complementary coordination game, like ballroom dancers that need to decide who should lead and who should follow. It's kind of a pain if every single pair has to separately negotiate roles every time they meet! But if the agents come in two equally numerous types (say, \"women\" and \"men\"), then the problem is easy: either of the conventions \"men lead, women follow\" or \"women lead, men follow\" solves the problem for everyone!\r\n\r\nThis solution has its own costs, and only works if those are less than the costs of negotiating each dance.\r\n\r\n1. People have to arbitrarily exclude half the population as potential dance partners. Otherwise, half the dances will have two \"men\" or two \"women\", and there's no convention to deal with that.\r\n\r\n2. People don't get to pick their dance role. Note that this means most people probably don't have a strong preference between the two, but that also means the cost of negotiating is probably small.\r\n\r\n(Though it could also be that people have a preference for \"a consistent dance role, but I don't care which\".)\r\n\r\nIf the labels really are just to solve a coordination problem, I think there are some other strategies that make a pretty strong showing: \"taller person leads, shorter person follows\" (or vice versa); \"just play rock paper scissors if you don't have opposite preferences\"; \"choose a role and wear an indicator of it\".\r\n\r\nIn reality, I think this convention only works because \"men\" in general want to dance with \"women\" in general - and then the labels are no longer arbitrary, we just have men and women.\r\n\r\n(And I observe that the dance events I used to go to would sell tickets according to gender, not role.)\r\n\r\nThat is, when it comes to dancing, this convention has to be downstream of gender roles. It doesn't work to explain gender roles as \"the kind of thing that happens when you try to solve the dancing coordination problem\"."
+   }
+  },
+  {
+   "_id": "gueomDx6NBJj4dyJa",
+   "parentCommentId": "Gvrf85M64LaJEGDQr",
+   "postedAt": "2020-01-23T07:29:25.187Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Apologies\u2014my blog distillation of \"what I learned\" is glossing over a lot of stuff that the actual book covers properly: the difference between models where agents only meet the other type _vs._ also their own type is discussed in \u00a73.3.2\u20133, and \"taller person leads, shorter person follows\" is an example of what O'Connor calls \"gradient markers\" in \u00a72.3.2.\n\nAs far as dancing goes, I think it's kind of like how we give cute mnemonic names [like \"Hawk\u2013Dove\" to payoff matrices of a particular form](https://en.wikipedia.org/wiki/Chicken_(game)#Hawk%E2%80%93dove) that don't quite make sense as a literal story about literal hawks and literal doves, but evolutionary game theory in general really _is_ useful for understanding the behavior of animals (including birds)."
+   }
+  },
+  {
+   "_id": "NuanWCxzfoTgkTRHs",
+   "parentCommentId": null,
+   "postedAt": "2020-01-27T06:17:45.390Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Wei_Dai",
+    "displayName": "Wei Dai"
+   },
+   "contents": {
+    "markdown": "The game theory matches my understanding pretty well. The example I've always had in mind (don't remember if I read it somewhere or came up with it myself) is, suppose we live in a city where the roads are such that whenever two people come across each other, one of them has to step aside to let the other pass. It's easy to see how an unfair equilibrium could develop where some arbitrary characteristic is used to determine who has to step aside. For example maybe whoever is taller gets to pass.\r\n\r\nI read the last part of the book (through my university's ebook library) where the author advocates using social justice activism to try to change the equilibrium. But [she](https://twitter.com/cailinmeister) unfortunately doesn't seem to acknowledge that in general there may be no way to obtain a fair equilibrium or no way to obtain an equilibrium that is both fair and efficient. (How would you do that in my example, without going outside the game entirely to do something like redistributing income to compensate for the unfairness, which I also don't see discussed in the book?) So I have to push back a little bit on your assessment:\r\n\r\n>A lesser scholar, flinching from this terrible truth, might have seen fit to fudge their results, to select their modeling assumptions to present a softer narrative, something that would make better propaganda for the Blue Team ..."
+   }
+  },
+  {
+   "_id": "zqno8k8RiY8rYeLbT",
+   "parentCommentId": "NuanWCxzfoTgkTRHs",
+   "postedAt": "2020-01-27T06:50:57.693Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> no way to obtain a fair equilibrium or no way to obtain an equilibrium that is both fair and efficient. (How would you do that in my example, without going outside the game entirely\n\nTaller person steps aside on even-numbered days, shorter person steps aside on odd-numbered days?? (If the \"calendar cost\" of remembering what day it is, is sufficiently small. But it might not be small if stepping-aside is mostly governed by ingrained habit.)"
+   }
+  },
+  {
+   "_id": "fBMbYhM3PTu3KfgpC",
+   "parentCommentId": "zqno8k8RiY8rYeLbT",
+   "postedAt": "2020-01-27T07:28:33.200Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Wei_Dai",
+    "displayName": "Wei Dai"
+   },
+   "contents": {
+    "markdown": "I had these same thoughts. As you say, it depends on the cost of remembering what day it is, and for the purpose of making my point, we can just assume that it's not that small."
+   }
+  }
+ ]
+}

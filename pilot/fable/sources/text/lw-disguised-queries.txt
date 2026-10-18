@@ -1,0 +1,1609 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Disguised Queries
+
+Eliezer Yudkowsky9 Feb 2008 0:05 UTC
+201 points
+108 comments5 min readLW linkArchive
+Philosophy of LanguageParables & Fables
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Imagine that you have a peculiar job in a peculiar factory: Your task is to take objects from a mysterious conveyor belt, and sort the objects into two bins. When you first arrive, Susan the Senior Sorter explains to you that blue egg-shaped objects are called “bleggs” and go in the “blegg bin”, while red cubes are called “rubes” and go in the “rube bin”.
+
+Once you start working, you notice that bleggs and rubes differ in ways besides color and shape. Bleggs have fur on their surface, while rubes are smooth. Bleggs flex slightly to the touch; rubes are hard. Bleggs are opaque; the rube’s surface slightly translucent.
+
+Soon after you begin working, you encounter a blegg shaded an unusually dark blue—in fact, on closer examination, the color proves to be purple, halfway between red and blue.
+
+Yet wait! Why are you calling this object a “blegg”? A “blegg” was originally defined as blue and egg-shaped—the qualification of blueness appears in the very name “blegg”, in fact. This object is not blue. One of the necessary qualifications is missing; you should call this a “purple egg-shaped object”, not a “blegg”.
+
+But it so happens that, in addition to being purple and egg-shaped, the object is also furred, flexible, and opaque. So when you saw the object, you thought, “Oh, a strangely colored blegg.” It certainly isn’t a rube… right?
+
+Still, you aren’t quite sure what to do next. So you call over Susan the Senior Sorter.
+
+“Oh, yes, it’s a blegg,” Susan says, “you can put it in the blegg bin.”
+You start to toss the purple blegg into the blegg bin, but pause for a moment. “Susan,” you say, “how do you know this is a blegg?”
+Susan looks at you oddly. “Isn’t it obvious? This object may be purple, but it’s still egg-shaped, furred, flexible, and opaque, like all the other bleggs. You’ve got to expect a few color defects. Or is this one of those philosophical conundrums, like ‘How do you know the world wasn’t created five minutes ago complete with false memories?’ In a philosophical sense I’m not absolutely certain that this is a blegg, but it seems like a good guess.”
+“No, I mean...” You pause, searching for words. “Why is there a blegg bin and a rube bin? What’s the difference between bleggs and rubes?”
+“Bleggs are blue and egg-shaped, rubes are red and cube-shaped,” Susan says patiently. “You got the standard orientation lecture, right?”
+“Why do bleggs and rubes need to be sorted?”
+“Er… because otherwise they’d be all mixed up?” says Susan. “Because nobody will pay us to sit around all day and not sort bleggs and rubes?”
+“Who originally determined that the first blue egg-shaped object was a ‘blegg’, and how did they determine that?”
+Susan shrugs. “I suppose you could just as easily call the red cube-shaped objects ‘bleggs’ and the blue egg-shaped objects ‘rubes’, but it seems easier to remember this way.”
+You think for a moment. “Suppose a completely mixed-up object came off the conveyor. Like, an orange sphere-shaped furred translucent object with writhing green tentacles. How could I tell whether it was a blegg or a rube?”
+“Wow, no one’s ever found an object that mixed up,” says Susan, “but I guess we’d take it to the sorting scanner.”
+“How does the sorting scanner work?” you inquire. “X-rays? Magnetic resonance imaging? Fast neutron transmission spectroscopy?”
+“I’m told it works by Bayes’s Rule, but I don’t quite understand how,” says Susan. “I like to say it, though. Bayes Bayes Bayes Bayes Bayes.”
+“What does the sorting scanner tell you?”
+“It tells you whether to put the object into the blegg bin or the rube bin. That’s why it’s called a sorting scanner.”
+At this point you fall silent.
+“Incidentally,” Susan says casually, “it may interest you to know that bleggs contain small nuggets of vanadium ore, and rubes contain shreds of palladium, both of which are useful industrially.”
+“Susan, you are pure evil.”
+“Thank you.”
+
+So now it seems we’ve discovered the heart and essence of bleggness: a blegg is an object that contains a nugget of vanadium ore. Surface characteristics, like blue color and furredness, do not determine whether an object is a blegg; surface characteristics only matter because they help you infer whether an object is a blegg, that is, whether the object contains vanadium.
+
+Containing vanadium is a necessary and sufficient definition: all bleggs contain vanadium and everything that contains vanadium is a blegg: “blegg” is just a shorthand way of saying “vanadium-containing object.” Right?
+
+Not so fast, says Susan: Around 98% of bleggs contain vanadium, but 2% contain palladium instead. To be precise (Susan continues) around 98% of blue egg-shaped furred flexible opaque objects contain vanadium. For unusual bleggs, it may be a different percentage: 95% of purple bleggs contain vanadium, 92% of hard bleggs contain vanadium, etc.
+
+Now suppose you find a blue egg-shaped furred flexible opaque object, an ordinary blegg in every visible way, and just for kicks you take it to the sorting scanner, and the scanner says “palladium”—this is one of the rare 2%. Is it a blegg?
+
+At first you might answer that, since you intend to throw this object in the rube bin, you might as well call it a “rube”. However, it turns out that almost all bleggs, if you switch off the lights, glow faintly in the dark; while almost all rubes do not glow in the dark. And the percentage of bleggs that glow in the dark is not significantly different for blue egg-shaped furred flexible opaque objects that contain palladium, instead of vanadium. Thus, if you want to guess whether the object glows like a blegg, or remains dark like a rube, you should guess that it glows like a blegg.
+
+So is the object really a blegg or a rube?
+
+On one hand, you’ll throw the object in the rube bin no matter what else you learn. On the other hand, if there are any unknown characteristics of the object you need to infer, you’ll infer them as if the object were a blegg, not a rube—group it into the similarity cluster of blue egg-shaped furred flexible opaque things, and not the similarity cluster of red cube-shaped smooth hard translucent things.
+
+The question “Is this object a blegg?” may stand in for different queries on different occasions.
+
+If it weren’t standing in for some query, you’d have no reason to care.
+
+Is atheism a “religion”? Is transhumanism a “cult”? People who argue that atheism is a religion “because it states beliefs about God” are really trying to argue (I think) that the reasoning methods used in atheism are on a par with the reasoning methods used in religion, or that atheism is no safer than religion in terms of the probability of causally engendering violence, etc… What’s really at stake is an atheist’s claim of substantial difference and superiority relative to religion, which the religious person is trying to reject by denying the difference rather than the superiority(!)
+
+But that’s not the a priori irrational part: The a priori irrational part is where, in the course of the argument, someone pulls out a dictionary and looks up the definition of “atheism” or “religion”. (And yes, it’s just as silly whether an atheist or religionist does it.) How could a dictionary possibly decide whether an empirical cluster of atheists is really substantially different from an empirical cluster of theologians? How can reality vary with the meaning of a word? The points in thingspace don’t move around when we redraw a boundary.
+
+But people often don’t realize that their argument about where to draw a definitional boundary, is really a dispute over whether to infer a characteristic shared by most things inside an empirical cluster...
+
+Hence the phrase, “disguised query”.
+
+What links here?
+Diseased think­ing: dis­solv­ing ques­tions about disease by Scott Alexander (30 May 2010 21:16 UTC; 580 points)
+
+How An Al­gorithm Feels From Inside by Eliezer Yudkowsky (11 Feb 2008 2:35 UTC; 328 points)
+
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+What Is The Align­ment Prob­lem? by johnswentworth (16 Jan 2025 1:20 UTC; 187 points)
+
+Dis­solv­ing the Question by Eliezer Yudkowsky (8 Mar 2008 3:17 UTC; 169 points)
+
+Where to Draw the Boundaries? by Zack_M_Davis (13 Apr 2019 21:34 UTC; 131 points)
+
+The Power of Pos­i­tivist Thinking by Scott Alexander (21 Mar 2009 20:55 UTC; 98 points)
+
+Ar­gu­ing “By Defi­ni­tion” by Eliezer Yudkowsky (20 Feb 2008 23:37 UTC; 95 points)
+
+Un­nat­u­ral Cat­e­gories Are Op­ti­mized for Deception by Zack_M_Davis (8 Jan 2021 20:54 UTC; 94 points)
+
+Model splin­ter­ing: mov­ing from one im­perfect model to another by Stuart_Armstrong (27 Aug 2020 11:53 UTC; 79 points)
+
+How to pick your categories by [deleted] (11 Nov 2010 15:13 UTC; 78 points)
+
+Search­ing for Bayes-Structure by Eliezer Yudkowsky (28 Feb 2008 22:01 UTC; 76 points)
+
+The Ar­gu­ment from Com­mon Usage by Eliezer Yudkowsky (13 Feb 2008 16:24 UTC; 74 points)
+
+Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (14 Oct 2019 7:04 UTC; 73 points)
+
+Feel the Meaning by Eliezer Yudkowsky (13 Feb 2008 1:01 UTC; 72 points)
+
+Neu­ral Categories by Eliezer Yudkowsky (10 Feb 2008 0:33 UTC; 71 points)
+
+What Direct In­struc­tion is by [deleted] (4 Sep 2011 23:03 UTC; 69 points)
+
+Book Re­view: The Age of Fight­ing Sail by Suspended Reason (12 Dec 2025 20:15 UTC; 63 points)
+
+RobinZ's comment on Ra­tion­al­ity Quotes: April 2011 by benelliott (5 Apr 2011 17:04 UTC; 42 points)
+
+Un­nat­u­ral Categories by Eliezer Yudkowsky (24 Aug 2008 1:00 UTC; 40 points)
+
+Selec­tive pro­cesses bring tag-alongs (but not always!) by AnnaSalamon (11 Mar 2009 8:17 UTC; 39 points)
+
+Recom­mended read­ing for new rationalists by XFrequentist (9 Jul 2009 19:47 UTC; 39 points)
+
+Be­ing For­eign and Be­ing Sane by fowlertm (25 May 2013 0:58 UTC; 35 points)
+
+Steve_Rayhawk's comment on Cached Selves by AnnaSalamon (23 Mar 2009 9:29 UTC; 31 points)
+
+In­visi­ble Frameworks by Eliezer Yudkowsky (22 Aug 2008 3:36 UTC; 29 points)
+
+Virtue vs Obli­ga­tion (The Ca­plan-Singer De­bate) by Noah Topper (EA Forum; 9 May 2023 9:20 UTC; 28 points)
+
+“Go west, young man!”—Prefer­ences in (im­perfect) maps by Stuart_Armstrong (31 Jul 2020 7:50 UTC; 25 points)
+
+Dweomite's comment on Mis­rep­re­sen­ta­tion as a Bar­rier for In­terp (Part I) by johnswentworth (29 Apr 2025 20:43 UTC; 23 points)
+
+Blegg Mode by Zack_M_Davis (11 Mar 2019 15:04 UTC; 21 points)
+
+Leaky Concepts by Elo (5 Mar 2019 22:01 UTC; 20 points)
+
+davidad's comment on Why I Moved from AI to Neu­ro­science, or: Upload­ing Worms by davidad (13 Apr 2012 10:54 UTC; 19 points)
+
+What are ex­am­ples of Ra­tion­al­ist fable-like sto­ries? by Mati_Roy (28 Sep 2020 16:52 UTC; 19 points)
+
+“Fea­tures” aren’t always the true com­pu­ta­tional prim­i­tives of a model, but that might be fine any­ways by LawrenceC (2 Feb 2026 18:41 UTC; 18 points)
+
+What Bos­ton Can Teach Us About What a Wo­man Is by ymeskhout (1 May 2023 15:34 UTC; 18 points)
+
+The Three Stages Of Model Development by katerinjo (22 Feb 2018 14:33 UTC; 17 points)
+
+Elityre's comment on Long-Term Fu­ture Fund: April 2019 grant recommendations by Habryka [Deactivated] (EA Forum; 12 Apr 2019 15:55 UTC; 16 points)
+
+Kaj_Sotala's comment on Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (14 Oct 2019 14:44 UTC; 16 points)
+
+On ‘Why Global Poverty?’ and Ar­gu­ments from Unob­serv­able Impacts by Gram_Stone (13 Feb 2016 6:04 UTC; 15 points)
+
+loup-vaillant's comment on Fun­da­men­tals of kick­ing an­thropic butt by Manfred (26 Mar 2012 12:03 UTC; 14 points)
+
+JoshuaZ's comment on Is Kiryas Joel an Un­happy Place? by gwern (24 Apr 2011 22:58 UTC; 14 points)
+
+Steven Byrnes's comment on Eli’s short­form feed by Eli Tyre (14 Oct 2024 19:02 UTC; 14 points)
+
+AnnaSalamon's comment on When Truth Isn’t Enough by Scott Alexander (22 Mar 2009 22:47 UTC; 13 points)
+
+Viliam's comment on The Talos Principle by kranalee (22 Feb 2016 9:26 UTC; 13 points)
+
+Vladimir_Nesov's comment on Open Thread, April 1-15, 2012 by OpenThreadGuy (1 Apr 2012 21:05 UTC; 12 points)
+
+Isaac Lewis's comment on Reread­ing At­las Shrugged by Vaniver (3 Aug 2020 16:39 UTC; 12 points)
+
+ata's comment on Link: Strong Inference by DanB (23 May 2010 3:07 UTC; 11 points)
+
+Biff Wiff's comment on %CPU Utiliza­tion Is A Lie by Brendan Long (2 Sep 2025 19:43 UTC; 11 points)
+
+No re­ally, the Sticker Short­cut fal­lacy is in­deed a fallacy by ymeskhout (21 Jun 2024 22:27 UTC; 11 points)
+
+johnswentworth's comment on Test­ing The Nat­u­ral Ab­strac­tion Hy­poth­e­sis: Pro­ject Intro by johnswentworth (9 Apr 2021 15:57 UTC; 10 points)
+
+James_Miller's comment on Stupid Ques­tions May 2015 by Gondolinian (3 May 2015 14:43 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+On ‘Why Global Poverty?’ and Ar­gu­ments from Unob­serv­able Impacts by Gram_Stone (EA Forum; 25 Feb 2016 23:17 UTC; 8 points)
+
+fubarobfusco's comment on Diseased think­ing: dis­solv­ing ques­tions about disease by Scott Alexander (26 Sep 2012 16:44 UTC; 8 points)
+
+michaelkeenan's comment on Open Thread: July 2010 by komponisto (2 Jul 2010 5:15 UTC; 8 points)
+
+lessdazed's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (13 Nov 2011 0:16 UTC; 8 points)
+
+Zack_M_Davis's comment on Com­ment sec­tion from 05/​19/​2019 by habryka (25 May 2019 5:49 UTC; 8 points)
+
+ymeskhout's comment on What Bos­ton Can Teach Us About What a Wo­man Is by ymeskhout (4 May 2023 0:08 UTC; 8 points)
+
+[SEQ RERUN] Dis­guised Queries by MinibearRex (16 Jan 2012 4:47 UTC; 7 points)
+
+Discredited's comment on Dul­ler black­mail definitions by Stuart_Armstrong (15 Jul 2013 14:06 UTC; 7 points)
+
+komponisto2's comment on Wrong Questions by Eliezer Yudkowsky (8 Mar 2008 21:13 UTC; 7 points)
+
+Steve_Rayhawk's comment on You’re Cal­ling *Who* A Cult Leader? by Eliezer Yudkowsky (23 Mar 2009 11:02 UTC; 6 points)
+
+plex's comment on Sam Rosen’s Shortform by Sam Rosen (18 Dec 2024 20:32 UTC; 6 points)
+
+lessdazed's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (16 Nov 2011 15:29 UTC; 5 points)
+
+Shmi's comment on Book re­view: Re­think­ing Consciousness by Steven Byrnes (11 Jan 2020 21:55 UTC; 5 points)
+
+Richard_Kennaway's comment on The Feather­less Biped by Annoyance (3 Sep 2009 9:47 UTC; 5 points)
+
+dxu's comment on Zom­bies Redacted by Eliezer Yudkowsky (18 Jul 2016 16:21 UTC; 4 points)
+
+Giles's comment on I be­lieve it’s doublethink by kerspoon (22 Feb 2012 13:02 UTC; 4 points)
+
+[deleted]'s comment on Re­sponse to nos­talge­braist: proudly wav­ing my moral-an­tire­al­ist bat­tle flag by Steven Byrnes (1 Jun 2024 14:13 UTC; 3 points)
+
+komponisto's comment on What’s a “nat­u­ral num­ber”? by cousin_it (8 Oct 2010 22:21 UTC; 3 points)
+
+Error's comment on [LINK] Another “LessWrongers are crazy” ar­ti­cle—this time on Slate by CronoDAS (18 Jul 2014 16:10 UTC; 3 points)
+
+[deleted]'s comment on Align­ment: “Do what I would have wanted you to do” by Oleg Trott (13 Jul 2024 18:39 UTC; 3 points)
+
+Zack_M_Davis's comment on Where to Draw the Boundaries? by Zack_M_Davis (29 Apr 2019 1:16 UTC; 3 points)
+
+Oliver Daniels's comment on Find­ing the mul­ti­ple ground truths of CoinRun and image classification by Stuart_Armstrong (17 Dec 2021 16:01 UTC; 3 points)
+
+Panorama's comment on Open thread, Apr. 18 - Apr. 24, 2016 by MrMind (21 Apr 2016 10:57 UTC; 3 points)
+
+fubarobfusco's comment on [SEQ RERUN] Why Are In­di­vi­d­ual IQ Differ­ences OK? by MinibearRex (9 Oct 2011 20:44 UTC; 2 points)
+
+Hazard's comment on Are these ar­gu­ments valid? by Erfeyah (10 Jan 2018 19:34 UTC; 2 points)
+
+[deleted]'s comment on The mys­tery of pain and pleasure by johnsonmx (11 May 2013 4:34 UTC; 2 points)
+
+Noosphere89's comment on Yes, AI Con­tinues To Make Rapid Progress, In­clud­ing Towards AGI by Zvi (10 Sep 2025 13:45 UTC; 2 points)
+
+Coun­ter­ing Self-De­cep­tion: When De­cou­pling, When De­con­tex­tu­al­iz­ing? by a gently pricked vein (10 Dec 2020 15:28 UTC; 2 points)
+
+Richard_Kennaway's comment on Con­scious­ness of abstraction by Richard_Kennaway (11 Jul 2025 6:06 UTC; 2 points)
+
+TAG's comment on Con­scious­ness of abstraction by Richard_Kennaway (11 Jul 2025 9:47 UTC; 2 points)
+
+Eugine_Nier's comment on Your Evolved Intuitions by lukeprog (5 May 2011 21:55 UTC; 1 point)
+
+plex's comment on Refer­ence Frames for Ex­pected Value by ozziegooen (16 Mar 2014 22:27 UTC; 1 point)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (28 Aug 2011 6:26 UTC; 1 point)
+
+[deleted]'s comment on Top 9+2 myths about AI risk by Stuart_Armstrong (30 Jun 2015 8:32 UTC; 1 point)
+
+Technologos's comment on The Feather­less Biped by Annoyance (5 Sep 2009 6:05 UTC; 1 point)
+
+hairyfigment's comment on Wel­come to Less Wrong! by MBlume (22 Dec 2011 6:11 UTC; 0 points)
+
+Manfred's comment on [Link] Five ways to clas­sify be­lief sys­tems by [deleted] (18 Jan 2012 3:18 UTC; 0 points)
+
+hamnox's comment on Ex­am­ples of the Mind Pro­jec­tion Fal­lacy? by fiddlemath (14 Dec 2011 17:13 UTC; 0 points)
+
+orthonormal's comment on New­ton­mas Meetup, 12/​25/​2010 by Kevin (26 Dec 2010 18:43 UTC; 0 points)
+
+[deleted]'s comment on Theists are wrong; is the­ism? by Will_Newsome (29 Jan 2011 3:20 UTC; 0 points)
+
+Joshua_Blaine's comment on The idiot sa­vant AI isn’t an idiot by Stuart_Armstrong (18 Jul 2013 20:35 UTC; 0 points)
+
+Giles's comment on Trou­bles With CEV Part1 - CEV Sequence by diegocaleiro (3 Mar 2012 17:49 UTC; 0 points)
+
+RobinZ's comment on Ra­tion­al­ity Quotes June 2014 by Tyrrell_McAllister (9 Jun 2014 18:24 UTC; -1 points)
+
+Eugine_Nier's comment on Nat­u­ral Laws Are De­scrip­tions, not Rules by pragmatist (13 Aug 2012 21:59 UTC; -2 points)
+
+Eliezer Yudkowsky9 Feb 2008 0:05 UTC
+201 points
+108 comments5 min readLW linkArchive
+Philosophy of LanguageParables & Fables
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: The Cluster Struc­ture of ThingspaceNext: Neu­ral Categories
+
+Psychohistorian3 9 Feb 2008 1:03 UTC
+39 points
+
+1
+
+While the advisory against using a dictionary to resolve such arguments are true, a lot of arguments stem from confusion or disagreement over the meaning of words. Based on the work I’ve done in philosophy, this type of disagreement probably covers 50% of philosophical debates, with about 2% of the participants in such debates admitting that that is what they disagree about.
+
+For example, “Most atheists believe in the divinity of Christ” could be resolved easily without recourse to the empirical world. If I believe that it is possible for someone to be an atheist and believe in the divinity of Christ, then I am using atheist to mean something very different from its actual meaning.
+
+As you wrote earlier, using words invokes connotations regardless of whether a newly assigned definition merits the same connotations. Some on the far left have defined “racism” to mean “is White and lives in the USA.” Appealing to a dictionary is useful in an argument with such a person because it prevents them from using a very charged word inappropriately. Similar tricks occur with “fascism,” “freedom,” “democracy,” and many other such words.
+
+Basically, a dictionary doesn’t decide if an empirical cluster has a certain property, but it does ensure that the word you are using matches the empirical cluster you are referring to. It is irrational to try to prove an empirical fact with a definition. It is not at all irrational if there is any disagreement over what group is picked out by the word, or whether the group picked out by the word must or must not have a certain property, or else the word would not pick them out. More disagreements center on poorly understood definitions than most people would like to admit.
+
+On a related note, this recent series on definitions is quite brilliantly written, Eliezer, even more so than usual.
+
+kbladythinks 30 Sep 2019 19:55 UTC
+10 points
+
+1
+Parent
+
+In colloge, I led a book discussion group about ethics. Most participants had read the book.
+
+Everyone in the group agreed that ethics and morals were different.
+
+They even agreed on HOW they were different (internal/​personal vs group/​societal, arrived at vs proscribed, philosophical vs legal).
+
+They REFUSED to agree, however, on what term referred to which distinction.
+
+Sigh...
+
+papetoast 7 Mar 2023 5:00 UTC
+2 points
+
+0
+Parent
+
+In that case, tabooing the word is probably better than bringing the dictionary to show that the other person’s use of words are against common sense (assuming you want to actually reach a consensus, but if youre more about winning the argument then bring the dictionary is probably better?)
+
+TGGP4 9 Feb 2008 2:02 UTC
+3 points
+
+0
+
+Based on the work I’ve done in philosophy, this type of disagreement probably covers 50% of philosophical debates, with about 2% of the participants in such debates admitting that that is what they disagree about.
+Someone remind me against why I’m supposed to take philosophy seriously.
+
+Caledonian2 9 Feb 2008 2:19 UTC
+1 point
+
+0
+
+Because if no one takes philosophy seriously, the philosophers will have nothing at all.
+
+Will you take that away from them? They have so little as it is.
+
+Richard_Hollerith2 9 Feb 2008 2:42 UTC
+13 points
+
+0
+
+Is atheism a “religion”? Is transhumanism a “cult”?
+
+My favorite example is, Is a fetus a person?
+
+james_gnz 9 Apr 2011 10:14 UTC
+−4 points
+
+−1
+Parent
+
+Quote: My favorite example is, Is a fetus a person?
+
+I can answer this one: A foetus is not a person prior to 20 weeks gestation (18 weeks of pregnancy), but may be a person from that point onwards.
+
+A body with one mind is one person. A body with two minds is two people (conjoint twins). A body with three minds would be three people. A heart transplant does not switch a person into a different body. A lung transplant does not switch a person into a different body. A brain transplant (and therefore a mind transplant) would switch a person into a different body. It is minds, not bodies, that defines people.
+
+The mind exists, if at all, in the brain, or more specifically the cerebral cortex. The cerebral cortex begins to develop connections no earlier than 20 weeks gestation, therefore there is not a person before this time (though the body does have reflexes).
+
+‘Brain Waves’ When??? http://​​eileen.250x.com/​​Main/​​Einstein/​​Brain_Waves.htm
+Margaret Sykes
+
+ec429 16 Sep 2011 16:13 UTC
+15 points
+
+0
+Parent
+
+That doesn’t answer the question “Is a fœtus a person”, it just supplies a definition of “person”, which may or may not be relevant to any given query.
+
+Suppose my real query is “Can a fœtus talk?” Now, just because I choose to define “person” in such a way that most “person”s can talk, and in such a way that a fœtus classes as a “person”, that doesn’t make the probability that a fœtus can talk any different to if I’d defined “person” differently.
+
+The whole point of these examples of disguised queries is that if you find yourself trying to answer them, you’re doing it wrong.
+
+Suppose we call the horse’s tail a leg.
+
+kbladythinks 30 Sep 2019 6:32 UTC
+3 points
+
+0
+Parent
+
+I was told once that I was clearly not a college graduate. After some digging, he explained that I took the time to define the terms in a discussion, whereas college grads knew the definitions of words, and so didn’t take the time to agree on them.
+
+Can’t agree with him about that.
+
+lessdazed 16 Sep 2011 17:31 UTC
+2 points
+
+0
+Parent
+
+Hi, welcome!
+
+Nick_Tarleton 9 Feb 2008 2:43 UTC
+11 points
+
+0
+
+People who argue that atheism is a religion “because it states beliefs about God” are really trying to argue (I think) that the reasoning methods used in atheism are on a par with the reasoning methods used in religion, or that atheism is no safer than religion in terms of the probability of causally engendering violence, etc...
+
+Or they’re applying a Fully General Counterargument without actually trying to make any substantive point, or realizing that they should be?
+
+ignoramus 17 Dec 2011 12:32 UTC
+3 points
+
+0
+Parent
+
+Indeed.
+For example:
+
+Eliezer: Religion sucks, because of this and Bayes...
+Jesus: Ah, not so fast, chap. You see, atheism is also a religion, because of this and that...
+
+I think that Jesus’ response is a non sequitur (a well designed one (by using a technique similar to equivocation), which is why it makes for such good “blocking” technique). So there’s no disguised query, since Jesus isn’t querying at all, he’s just trying to “win” the argument.
+
+Tsujigiri 17 Dec 2011 14:08 UTC
+−3 points
+
+−1
+Parent
+
+There is a similarity between Christians and many atheists in their moral philosophy, however. Atheists may not believe in God, but I think they mostly adhere to the 10 commandments.
+
+At least Christians can say they follow their moral philosophy because God told them so. What reason do atheists have?
+
+[deleted] 17 Dec 2011 15:03 UTC
+11 points
+
+0
+Parent
+
+Atheists may not believe in God, but I think they mostly adhere to the 10 commandments.
+
+I think you’re just trying to say that atheists follow moral expectations of modern Christian-influenced culture, but taken literally, the statement’s nonsense.
+
+I mean, look at the Ten Commandments:
+
+Thou shalt have no other gods before me.
+
+Thou shalt not make unto thee any graven image (...).
+
+Thou shalt not take the name of the Lord thy God in vain (...).
+
+Remember the sabbath day, to keep it holy. (...)
+
+Honour thy father and thy mother (...).
+
+Thou shalt not kill.
+
+Thou shalt not commit adultery.
+
+Thou shalt not steal.
+
+Thou shalt not bear false witness against thy neighbour.
+
+Thou shalt not covet thy neighbour’s house, (...) nor his ass, nor any thing that is thy neighbour’s.
+
+The first 4 are blatantly ignored, 6 is famously problematic, 9 and 10 are mostly ignored (via gossip, status seeking, greed and so on) and finally 7 and 8 might be typically obeyed, but minor theft (especial anonymous) is common and adultery has at least 10% base rates.
+
+How is this a “mostly adhered”? (Obviously, Christians and atheists don’t really differ in their behavior here.)
+
+Tsujigiri 17 Dec 2011 15:15 UTC
+4 points
+
+0
+Parent
+
+I’ll have to concede that atheists moral beliefs don’t mostly adhere to the 10 commandments.
+
+The point I wished to make was that many of the moral philosophies of rationalists are very similar to their Christian counterparts. I believe the similarity is mostly due to the culture they were brought up in rather than whether they believe God exists or not. You might even consider God to be irrelevant to the issue.
+
+TheOtherDave 17 Dec 2011 15:29 UTC
+0 points
+
+0
+Parent
+
+I certainly agree that many people’s moral beliefs are shaped and constrained by their culture, and that God is irrelevant to this, as is belief in God.
+
+[deleted] 17 Dec 2011 15:18 UTC
+0 points
+
+0
+Parent
+
+Agreed. Obligatory Moldbug link (warning: long, and only first in a series) for an interesting derivation of (some) modern morality as atheistic Christianity.
+
+TheOtherDave 17 Dec 2011 15:12 UTC
+2 points
+
+0
+Parent
+
+In the interests of charitable reading, I took them to mean “atheists adhere to the ten commandments about as well as Christians do”.
+
+wedrifid 17 Dec 2011 15:27 UTC
+1 point
+
+0
+Parent
+
+In the interests of charitable reading, I took them to mean “atheists adhere to the ten commandments about as well as Christians do”.
+
+I looked through them and I was surprised at how little I break them. 4 is way off, of course and I’ll honour my father and mother to the extend they damn well earn it (rather a lot as it turns out). The thing is going by the standards that I actually held for following all those commandments when I was Christian I could have expected to be violating all over the place. I’m particularly disappointed with No. 7. I’ve been making a damn fine effort to be living in sin as much as conveniently possible but since I have yet to sleep with a married woman I seem to be clean on that one. Going by the actual commandment I’m probably even ok with 3. The “swearing” thing seems to be totally blown out of proportion.
+
+TheOtherDave 17 Dec 2011 15:48 UTC
+0 points
+
+0
+Parent
+
+Personally I break some of them more often than I’d like, but then again I did so when I identified as an Orthodox Jew as well.
+
+Of course, if I were to take this seriously, I’d get bogged down in definitional issues pretty quickly. For example, I’ve slept with a married man (married to someone else, I mean), so I guess I’ve violated #7… or at least, he did. OTOH, given that everyone involved was aware of the situation and OK with it, I don’t consider that any of us were doing anything wrong in the process.
+
+But a certain kind of religious person would say that my beliefs about what’s right and wrong don’t matter. Of course, I would disagree.
+
+wedrifid 17 Dec 2011 16:24 UTC
+1 point
+
+0
+Parent
+
+Personally I break some of them more often than I’d like
+
+It’s 6, isn’t it! (Dexter has that problem too—I recommend following his example and at least chanelling it into vigilantism.)
+
+TheOtherDave 17 Dec 2011 16:47 UTC
+1 point
+
+0
+Parent
+
+Well, I kill all the time… most people I know do.
+
+But if we adopt the conventional practice of translating “lo tirtzoch” as “don’t murder”, and further adopt the conventional practice of not labeling killings we’re morally OK with as “murder”, then I squeak by here as well… I’m basically OK with all the killing I’ve done.
+
+I’ve never actually watched Dexter, but I gather it’s about someone compelled to murder people who chooses to murder only people where the world is improved by their death? Hrm. I’m not sure I agree.
+
+Certainly, if I’m going to murder someone, it should be the least valuable person I can find. Which might turn out to be myself. The question for me is how reliable my judgment is on the matter. If I’m not a reliable judge, I should recuse myself from judgement.
+
+Perhaps I should assemble a committee to decide on my victims.
+
+ArisKatsaris 17 Dec 2011 17:17 UTC
+0 points
+
+0
+Parent
+
+But if we adopt the conventional practice of translating “lo tirtzoch” as “don’t murder”, and further adopt the conventional practice of not labeling killings we’re morally OK with as “murder”, then I squeak by here as well…
+
+I think the general idea is that by “murder” the concept of ‘do not kill people without it being prescribed by the law’ is meant—with the rest of Mosaic law indicating in which cases it was okay to kill people nonetheless.
+
+So killing insects doesn’t count (because they’re not people), nor being a state executioner counts (because it’s prescribed by the law).
+
+TheOtherDave 17 Dec 2011 17:24 UTC
+1 point
+
+0
+Parent
+
+Yeah, you’re right. I was being snarky in the general direction of my Yeshiva upbringing, at the expense of accuracy.
+
+ArisKatsaris 17 Dec 2011 17:12 UTC
+0 points
+
+0
+Parent
+
+I’ve never actually watched Dexter, but I gather it’s about someone compelled to murder people who chooses to murder only people where the world is improved by their death?
+
+Slightly more specific and slightly less consequentialistic than that. He chooses to kill only other murderers, and usually only cold-blooded murderers who are unrepentant and likely to murder again, (example: one time he stopped when he realized his selected victim had only murdered the person that had raped him in prison).
+
+But it’s not about improving the world really, sometimes he even sabotages the police investigation just so he can have these people to himself.
+
+wedrifid 17 Dec 2011 17:08 UTC
+0 points
+
+0
+Parent
+
+I’ve never actually watched Dexter, but I gather it’s about someone compelled to murder people who chooses to murder only people where the world is improved by their death?
+
+In what I’ve seen of Dexter the most ethically grey kill was of a pedophile who was stalking his step-daughter (and that’s a murder I’d be comfortable committing!). The rest were all murderers who were highly likely to kill again.
+
+For my part I would prefer to live in a world in which other people don’t go around being vigilantes and also don’t want to be a vigilante myself. Because frankly it isn’t my problem and it isn’t worth the risk or the effort it would take me.
+
+wedrifid 17 Dec 2011 16:57 UTC
+0 points
+
+0
+Parent
+
+But if we adopt the conventional practice of translating “lo tirtzoch” as “don’t murder”, and further adopt the conventional practice of not labeling killings we’re morally OK with as “murder”
+
+That doesn’t sound like a convention that the quite fits with culture or spirit of the holy law in question or of the culture which would create such a law.
+
+Vaniver 17 Dec 2011 17:18 UTC
+0 points
+
+0
+Parent
+
+That doesn’t sound like a convention that the quite fits with culture or spirit of the holy law in question or of the culture which would create such a law.
+
+Huh? The Israelites were for killing people during wartime, and the various cultures that interpreted that law all bent it to exclude the deaths they wanted to cause.
+
+Expand this thread
+
+wedrifid 17 Dec 2011 17:23 UTC
+0 points
+
+0
+Parent
+
+Huh? The Israelites were for killing people during wartime, and the various cultures that interpreted that law all bent it to exclude the deaths they wanted to cause.
+
+Oh, of course you take into account what the Israelites considered murder, and whatever meaning they would have embedded into whatever word it was that is translated into murder or kill. But what we cannot reasonably do is plug in our moral values around killing. Being as we are a culture of immoral infidels by the standards of the law in question! (Gentiles too come to think of it.) What we consider moral killings is damn near irrelevant.
+
+Vaniver 17 Dec 2011 18:53 UTC
+0 points
+
+0
+Parent
+
+But what we cannot reasonably do is plug in our moral values around killing.
+
+It’s not clear to me what you mean here. I took TheOtherDave to be interpreting “lo tirtzoch” as “socially disapproved killing is socially disapproved,” which is vacuous on purpose. That is, a culture that would create such a law is a culture of homo hypocritus.
+
+To put it another way, the convention of how you interpret a law is more important that the written content of the law, and so the relevant question is if the Israelites saw “lo tirtzoch” as absolutely opposed to killing or not. (I would imagine not, as there were several crimes which mandated the community collectively kill the person who committed the crime!)
+
+wedrifid 17 Dec 2011 18:57 UTC
+0 points
+
+0
+Parent
+
+To put it another way, the convention of how you interpret a law is more important that the written content of the law, and so the relevant question is if the Israelites saw “lo tirtzoch” as absolutely opposed to killing or not. (I would imagine not, as there were several crimes which mandated the community collectively kill the person who committed the crime!)
+
+I thought that was about what I said.
+
+Vaniver 17 Dec 2011 19:24 UTC
+0 points
+
+0
+Parent
+
+I got the opposite impression from two sources:
+
+First, I saw the culture and spirit of the drafters of such a law to be self-serving /​ relativist /​ hypocritical, and so thought the convention was the embodiment of that. Your claim that the convention didn’t fit with the culture suggested to me that you thought the Israelites saw the law as unchanging and unbendable.
+
+Second, the comment that claimed what we consider moral was irrelevant struck me as evidence for the previous suggestion, that there is a moral standard set at one time and not changing, rather than us modeling the Israelites’ exmaple by bending the definitions to suit our purposes.
+
+It’s plausible we agree except are using different definitions for things like culture and spirit, but also plausible we don’t agree on key ideas here.
+
+TheOtherDave 17 Dec 2011 17:26 UTC
+0 points
+
+0
+Parent
+
+(nods) As noted elsewhere, you’re of course right. I was being snarky in the general direction of my Yeshiva upbringing, at the expense of accuracy. Bad Dave. No biscuit.
+
+wedrifid 17 Dec 2011 16:22 UTC
+1 point
+
+0
+Parent
+
+I suppose you do technically scrape through in adhering to No. 7 as it is presented in that wikipedia passage based on two technicalities. That it it is only adultery if you sleep with a married woman and that being the partner of the adulterer doesn’t qualify. (I’m a little skeptical of that passage actually). Come to think of it you may get a reprieve for a third exception if it is the case that the other guy was married to a guy (ambiguous).
+
+TheOtherDave 17 Dec 2011 16:33 UTC
+0 points
+
+0
+Parent
+
+The guy in question was married to a woman at the time.
+
+Agreed about the technicalities.
+
+juliawise 17 Dec 2011 18:41 UTC
+0 points
+
+0
+Parent
+
+Upvoted for the 10th commandment link.
+
+TheOtherDave 17 Dec 2011 14:49 UTC
+5 points
+
+0
+Parent
+
+You have that backwards.
+
+Moral people follow their moral philosophy because they believe it’s the right thing to do, whether they are Christian or atheist or neither.
+
+Some moral people also believe God has told them to do certain things, and use those beliefs to help them select a moral philosophy. Those people are moral and religious.
+Other moral people don’t believe that, and select a moral philosophy without the aid of that belief. Those people are moral and atheist.
+
+Some immoral people believe that God has told them to do certain things. Those people are immoral and religious.
+Some immoral people don’t believe that. Those people are immoral and atheist.
+
+Incidentally, I know no atheists (whether moral or not) who adhere to the Talmudic version of the first commandment. But then, since you are talking about the ten commandments in a Christian rather than Jewish context, I suppose you don’t subscribe to the Talmudic version anyway a. (cf http://​​en.wikipedia.org/​​wiki/​​Ten_Commandments#Two_texts_with_numbering_schemes)
+
+EDIT: I should probably also say explicitly that I don’t mean to assert here that nobody follows the ten commandments simply because they believe God told them to… perhaps some people do. But someone who doesn’t think the ten commandments are the right thing to do and does them anyway simply because God told them to is not a moral person, but rather a devout or God-fearing person. (e.g., Abraham setting out to sacrifice his son).
+
+DanArmak 17 Dec 2011 15:10 UTC
+3 points
+
+0
+Parent
+
+Incidentally, I know no atheists (whether moral or not) who adhere to the Talmudic version of the first commandment.
+
+I also know no atheists who adhere to the second commandment (make no graven image), the fourth (no “work” on Shabbath), or the tenth (do not covet).
+
+Tsujigiri 17 Dec 2011 15:10 UTC
+−13 points
+
+0
+Parent
+
+Moral people follow their moral philosophy because they believe it’s the right thing to do, whether they are
+Christian or atheist or neither.
+
+My point is that Christians believe their moral philosophy is correct because God told them so. Atheists don’t have such an authority to rely on.
+
+So what rational justification can an atheist provide for his moral philosophy? There is no justification because there is no way to determine the validity of any justification they may provide.
+
+There is no rational foundation for moral beliefs because they are arbitrarily invented. They are built on blind faith.
+
+MixedNuts 18 Dec 2011 18:12 UTC
+4 points
+
+0
+Parent
+
+Some required reading.
+
+Tsujigiri 18 Dec 2011 20:28 UTC
+2 points
+
+0
+Parent
+
+Some
+
+I agree that religion isn’t the source of morality. In my experience, atheists believe in good and evil just as much as religious people do.
+
+required
+
+To believe you can somehow make the world objectively better, even in a small way, you must still believe in some sort of objective good or evil. My position is the sacrilegious idea that there is no objective good or evil—that the universe is stuff bouncing and jumping around in accordance with the laws of nature. Crazy, I know.
+
+There is a difference between the universe itself and our interpretations of the universe. A moral is a judgement about the universe mistaken for an inherent property of the universe.
+
+reading.
+
+In order to establish that something is better than or superior to something else, we must have some criteria to compare them by. The problem with objective good and evil, if you believe they exist, is that there is no way to establish the correct criteria.
+
+A lion’s inclination to kill antelope isn’t inherently wrong. The inclination is simply the lion’s individual nature. Because you care about the antelope’s suffering doesn’t mean the lion should. The lion isn’t wrong if it doesn’t care.
+
+We are all individuals with different wants and desires. To believe there is a one-size-fits-all moral code that all living creatures should follow is lunacy.
+
+Vaniver 18 Dec 2011 21:09 UTC
+8 points
+
+0
+Parent
+
+My position is the sacrilegious idea that there is no objective good or evil—that the universe is stuff bouncing and jumping around in accordance with the laws of nature. Crazy, I know.
+
+That is a position shared by 13% of LW survey respondents.
+
+MixedNuts 18 Dec 2011 20:40 UTC
+3 points
+
+0
+Parent
+
+Ah, then you want the metaethics sequence. Is morality preference?
+
+nshepperd 18 Dec 2011 18:04 UTC
+3 points
+
+0
+Parent
+
+“Because God said so” is hardly a rational justification either.
+
+Ezekiel 18 Dec 2011 19:17 UTC
+1 point
+
+0
+Parent
+
+Direct counterargument: I would phrase my attitude to ethics as: “I have decided that I want X to happen as much as possible, and Y to happen as little as possible.” I’m not “believing” anything—just stating goals. So there’s no faith required.
+
+Reflective counterargument: But even if God did say so*, why should we obey Him? There are a number of answers, some based on prior moral concepts (gratitude for Creation, fear of Hell, etc.) and some on a new one (variations on “God is God and therefore has moral authority”) but they all just push the issue of your ultimate basis for morality back a step. They don’t solve the problem, or even simplify it.
+
+*Incidentally, what does it mean for an all-powerful being to say something? The Abrahamic God is the cause for literally everything, so aren’t all instructions written or spoken anywhere by anyone equally “the speech of God”?
+
+Tsujigiri 18 Dec 2011 20:40 UTC
+0 points
+
+0
+Parent
+
+Direct counterargument: I would phrase my attitude to ethics as: “I have decided that I want X to happen as much as possible, and Y to happen as little as possible.” I’m not “believing” anything—just stating goals. So there’s no faith required.
+
+I’d agree. By switching from morals to your individual preferences, you avoid the need to identify what is objectively good and evil.
+
+TheOtherDave 17 Dec 2011 15:26 UTC
+1 point
+
+0
+Parent
+
+So, let’s look at a specific instance, just to be clear on what we’re saying.
+
+Suppose I believe that it’s bad for people to suffer, and it’s good for people to live fulfilled and happy lives.
+
+I would say that’s a moral belief, in that it’s a belief about what’s good and what’s bad. Would you agree?
+
+Suppose further that, when I look into how I arrived at that belief, I conclude that I derived it from the fact that I enjoy living a fulfilled and happy life, and that I anti-enjoy suffering, and that my experiences with other people have led me to believe that they are similar to me in that respect.
+
+Would you say that my belief that it’s bad for people to suffer is arbitrarily invented and built on blind faith?
+
+And if so: what follows from that, to your way of thinking?
+
+Tsujigiri 17 Dec 2011 15:44 UTC
+−7 points
+
+0
+Parent
+
+I would say that’s a moral belief, in that it’s a belief about what’s good and what’s bad. Would you agree?
+
+I would.
+
+Would you say that my belief that it’s bad for people to suffer is arbitrarily invented and built on blind faith?
+
+Yes, because you’re using a rationalization to justify how you believe the world should be. And no rationalization for a moral is more valid than any other.
+
+You could equally say that you think other people should work and suffer so that your life is fulfilled and happy. How do we determine whether that moral belief is more correct than the idea that you should prevent other people’s sufferings? The answer is that we cannot.
+
+Obviously, we can believe in whatever moral philosophy we like, but we must accept there is no rational basis for them, because there is no way to determine the validity of any rational explanation we make. There is no correct morality.
+
+In my opinion, a person’s particular moral beliefs usually have more to do with the beliefs of their parents and the culture they were brought up in. If they were brought up in a different culture, they’d have a different moral philosophy for which they would give similar rational justifications.
+
+TheOtherDave 17 Dec 2011 15:57 UTC
+1 point
+
+0
+Parent
+
+A few things:
+
+Can you clarify what rationalization you think I’m using, exactly? For that matter, can you clarify what exactly I’m doing that you label “justifying” my beliefs? It seems to me all I’ve done so far is describe what my beliefs are, and speculate on how they got that way. Neither of which, it seems to me, require any sort of faith (including but not limited to blind faith, whatever that is).
+
+Leaving that aside, and accepting for the sake of discussion that “using a rationalization to justify how I believe the world should be” is a legitimate description of what I’m doing… is there something else you think I ought to be doing instead? Why?
+
+I agree with you that family and cultural influence have a lot to do with moral beliefs (including mine).
+
+Tsujigiri 17 Dec 2011 16:55 UTC
+−3 points
+
+0
+Parent
+
+Can you clarify what rationalization you think I’m using, exactly? For that matter, can you clarify what
+exactly I’m doing that you label “justifying” my beliefs?
+
+You said “Suppose I believe that it’s bad for people to suffer”. I’d say that’s a moral belief. The rational justification you provided for that belief was that “I derived it from the fact that I enjoy living a fulfilled and happy life, and that I anti-enjoy suffering, and that my experiences with other people have led me to believe that they are similar to me in that respect”.
+
+is there something else you think I ought to be doing instead?
+
+Not really. The main point I’m making is that there is no way to determine whether any moral is valid.
+
+One could argue that morality distorts one’s view of the universe and that doing away with it gives you a clearer idea of how the universe actually is because you’re no longer constantly considering how it should be.
+
+For example, you might think that your computer should work the way you want and expect, so when it crashes you might angrily consider yourself the victim of a diabolical computer and throw it out of your window. The moral belief has distorted the situation.
+
+Without that moral belief, one would simply accept the computer’s unwanted and unexpected behavior and calmly consider possible actions to get the behavior one wants. There is no sense of being cheated by a cruel universe.
+
+TheOtherDave 17 Dec 2011 17:20 UTC
+3 points
+
+0
+Parent
+
+OK, thanks for clarifying.
+
+For what it’s worth, I agree with you that “it’s bad for people to suffer” is a moral belief, but I disagree that “I derived it from...” is any sort of justification for a moral belief, including a rational one. It’s simply a speculation about how I came to hold that belief.
+
+I agree that there’s no way to determine whether a moral belief is “valid” in the sense that I think you’re using that word.
+
+I agree that it’s possible to hold a belief (including a moral belief) in such a way that it inhibits my ability to perceive the universe as it actually is. It’s also possible to hold a belief in such a way that it inhibits my ability to achieve my goals.
+I agree that one example of that might be if I held a moral belief about how my computer should work in such a way that when my computer fails to work as I think it should, I throw it out the window.
+Another example might be if I held the belief that pouring lemonade into the keyboard will improve its performance. That’s not at all a moral belief, but it nevertheless interferes with my ability to achieve my goals.
+
+Would you say that if choose to simply accept that my computer behaves the way it does, and I calmly consider possible actions to get the behavior I want, and I don’t have the sense that I’m being cheated by a cruel universe, that it follows from all of that that I have no relevant moral beliefs about the situation?
+
+Tsujigiri 17 Dec 2011 17:36 UTC
+−1 points
+
+0
+Parent
+
+Would you say that if choose to simply accept that my computer behaves the way it does, and I calmly consider
+possible actions to get the behavior I want, and I don’t have the sense that I’m being cheated by a cruel
+universe, that it follows from all of that that I have no relevant moral beliefs about the situation?
+
+I’d say so, yes.
+
+Expand this thread
+
+TheOtherDave 17 Dec 2011 20:16 UTC
+4 points
+
+0
+Parent
+
+OK. Given that, I’m pretty sure I’ve understood you; thanks for clarifying.
+
+For my own part, it seems to me that when I do that, my behavior is in large part motivated by the belief that it’s good to avoid strong emotional responses to events, which is just as much a moral belief as any other.
+
+Tsujigiri 17 Dec 2011 22:11 UTC
+0 points
+
+0
+Parent
+
+For my own part, it seems to me that when I do that, my behavior is in large part motivated by the belief that
+it’s good to avoid strong emotional responses to events, which is just as much a moral belief as any other.
+
+There are situations where emotions need to be temporarily suppressed—it needn’t involve a moral belief. Getting angry could simply be unhelpful at that moment so you suppress it. To do so, you don’t need to believe that its inherently wrong to express strong emotions.
+
+That particular moral would come with its disadvantages. If someone close to you dies, it is healthier to express your sorrow than avoid it. Some people don’t change their behavior unless you express anger.
+
+Many think that morality is necessary to control the evil impulses of humans, as if its removal would mean we’d all suddenly start randomly killing each other. Far from saving us from suffering, I’m inclined to think moral beliefs have actually caused much suffering: for example, some religious belief is evil, some political belief is evil, some ethnic group is evil.
+
+TheOtherDave 17 Dec 2011 22:29 UTC
+2 points
+
+0
+Parent
+
+We seem to be largely talking past each other.
+
+I agree with you that there are situations where suppressing emotions is a useful way of achieving some other goal, and that choosing to suppress emotions in those situations doesn’t require believing that there’s anything wrong with expressing strong emotions, and that choosing to suppress emotions in those situations without such a belief doesn’t require any particular moral belief.
+
+I agree with you that the belief that expressing strong emotions is wrong has disadvantages.
+
+I agree with you that many people have confused beliefs about morality.
+
+I agree with you that much suffering has been caused by moral beliefs, some more so than others.
+
+Tsujigiri 18 Dec 2011 20:52 UTC
+0 points
+
+0
+Parent
+
+How do people use the karma system here? If you agree vote up, if you disagree vote down? That will create a very insular community.
+
+My five cents.
+
+Vaniver 18 Dec 2011 20:59 UTC
+7 points
+
+0
+Parent
+
+The typical advice is “if you want to see more like this, vote up; if you want to see less like this, vote down.” Users try to downvote for faulty premises or logic rather than conclusions they disagree with.
+
+For short posts, where claims are made without much justification, there tends to be little besides a conclusion. Those comments will get voted down if they seem wrong or to not add much to the conversation. (I’ve had several offhand remarks, for which I had solid, non-obvious justification, voted down, but then in responses I made up the karma by explaining myself fully. I suspect that if I had explained myself fully at the start, I wouldn’t have gotten downvoted.)
+
+[deleted] 13 Apr 2012 21:28 UTC
+1 point
+
+0
+Parent
+
+Well, for myself, it’s because game theory says the world works better when people aren’t dicks to one another, and because empathy (intuitive and rational) allow me to put myself in other peoples’ shoes, and to appreciate that it’s good to try to help them when I can, since they’re very much like myself. I have desires and goals, and so do they, and mine aren’t particularly more important simply because they’re mine.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 13 Apr 2012 21:37 UTC
+0 points
+
+0
+Parent
+
+I have desires and goals, and so do they, and mine aren’t particularly more important simply because they’re mine.
+
+This is the base of my whole moral philosophy, too. And you know what? There are people who actually disagree with it! Responses I’ve gotten from people in discussions have ranged from “I don’t give a shit about other people, they’re not me” to “you can’t think like that, you need to think selfishly, because otherwise everyone will trample on you.”
+
+Ezekiel 13 Apr 2012 21:20 UTC
+1 point
+
+0
+Parent
+
+Atheists may not believe in God, but I think they mostly adhere to the 10 commandments.
+
+Nitpick: Only half of the Ten Commandments are nice humanitarian commandments like “don’t murder”. The other half are all about how humans should interact with God, and I don’t think most atheists put much weight behind “you will not make for yourself any statue or any picture of the sky above or the earth below or the water that is beneath the earth”.
+
+At least Christians can say they follow their moral philosophy because God told them so.
+
+They can say that, but unless they already have a moral philosophy that gives God moral authority (or states that Hell is to be avoided, or justifies gratitude for Creation, or...) that’s not actually a reason.
+
+ignoramus 17 Dec 2011 14:44 UTC
+1 point
+
+0
+Parent
+
+I was actually just trying to say that Eliezer gave a bad example of a disguised query.
+
+As for moral philosophy, it can be considered a science. So atheists that believe in morality should value it as any other science (for it’s usefulness etc). Well, hm, atheists need not be fans of science. So they can be moral because they enjoy it, or simply because “why the heck not”.
+
+Tsujigiri 17 Dec 2011 14:59 UTC
+−1 points
+
+0
+Parent
+
+I wouldn’t call moral philosophy a science.
+
+If we both independently invented an imaginary creature, neither would be correct. They are simply the creatures we’ve arbitrarily created. There is no science of moral philosophy anymore than there is a science of inventing an imaginary creature.
+
+I’d say to be science there needs to be the ability to test whether something is valid. There is no such test for the validity of morals anymore than there is a test for the validity of an imaginary creature.
+
+Bound_up 9 Mar 2015 7:29 UTC
+0 points
+
+0
+Parent
+
+Christians allegedly follow the commandments because God told them to.
+They do what God told them to because of desire to avoid punishment, desire to obtain reward, desire to fulfill their perceived duty, or desire to express their love.
+They fulfill these desires because it makes them feel good/​happy.
+
+Atheists do whatever they do, most of them for the same reason, cut out the idea of it being centered around a personality who effects their happiness.
+
+Harry said he preferred achieving things over happiness, but I can’t help thinking that if he had sacrificed his potential, he wouldn’t really have been happy about it, no matter how many friends he had.
+
+At the end of the day, happiness drives at least most people, and in theory, all (when they make their decisions through careful consideration, and not just to fulfill some role or habit. As we know, this is rare, and in reality, most people can not trace their decisions’ motivation to their happiness or anyone’s, or to any other consistent value; so I opine).
+
+Richard_Kennaway 9 Mar 2015 11:57 UTC
+1 point
+
+0
+Parent
+
+At the end of the day, happiness drives at least most people, and in theory, all
+
+That sounds like a hidden tautology-by-definition. What is happiness? That which people act to obtain. Why do people act? To obtain happiness. Whatever someone does, you can say after the fact that they did it to make themselves happy.
+
+Good_Burning_Plastic 9 Mar 2015 12:46 UTC
+2 points
+
+0
+Parent
+
+What is happiness?
+
+It is a state of mind. So saying that someone is driven by happiness is not tautological—it means that they have a perceptually determined utility function.
+
+Bound_up 10 Mar 2015 17:22 UTC
+0 points
+
+0
+Parent
+
+I think Plastic’s got it.
+
+I don’t think happiness is defined as whatever people act to obtain. It’s something most people fail at with some regularity.
+
+I mean, just look at Elsa, yah?
+
+Richard_Kennaway 10 Mar 2015 20:06 UTC
+2 points
+
+0
+Parent
+
+I mean, just look at Elsa, yah?
+
+Er, Elsa)? Um, what?
+
+Bound_up 11 Mar 2015 20:24 UTC
+0 points
+
+0
+Parent
+
+Precisely!
+
+Full of noble desires, and of self-destructive means to achieve them.
+
+Her efforts for happiness are wonderfully demonstrative of the failure systemic to like efforts conceived in ignorance.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 13 Apr 2012 21:34 UTC
+0 points
+
+0
+Parent
+
+What reason do atheists have?
+
+Lots of reasons. It’s pretty much built into the human brain that being nice to your friends and neighbours is helpful to long-term survival, so most people get pleasant feelings from doing something they consider ‘good’, and feel guilty after doing something they consider ‘bad’. You don’t need the Commandments themselves.
+
+...Oh and the whole idea that it’s better to live in a society where everyone follows laws like “don’t murder”...even if you personally could benefit from murdering the people who you didn’t like, you don’t want everyone else murdering people too, and so it makes sense, as a society, to teach children that ‘murder is bad’.
+
+[deleted] 13 Apr 2012 22:25 UTC
+0 points
+
+0
+Parent
+
+It’s pretty much built into the human brain that being nice to your friends and neighbours is helpful to long-term survival, so most people get pleasant feelings from doing something they consider ‘good’, and feel guilty after doing something they consider ‘bad’.
+
+Are these reasons to not kill people or steal? Can I propose a test? Suppose that it were built into the human brain that being cruel to your friends and neighbors is helpful to long-term survival (bear with me on the evolutionary implausibility of this), and so must people get pleasant feelings from doing things they consider cruel, and feel guilty after doing nice things.
+
+Suppose all that were true: would you then have good reasons to to be cruel? If not, then how are they reasons to be nice?
+
+dlthomas 13 Apr 2012 22:33 UTC
+0 points
+
+0
+Parent
+
+You would clearly have reasons; whether they are good reasons depends how you’re measuring “good”.
+
+[deleted] 13 Apr 2012 22:42 UTC
+0 points
+
+0
+Parent
+
+We might want to distinguish here between reasons to do something and reasons why one does something. So imagine we discover that the color green makes people want to compromise, so we paint a boardroom green. During a meeting, the chairperson decides to compromise. Even if the chairperson knows about the study, and is being affected by the green walls in a decisive way (such that the greenness of the walls is the reason why he or she compromises), could the chairperson take the greenness of the walls as a reason to compromise?
+
+dlthomas 13 Apr 2012 23:53 UTC
+0 points
+
+0
+Parent
+
+A reasonable distinction, but I don’t think it quite maps onto the issue at hand. You said to suppose “people get pleasant feelings from doing things they consider cruel, and feel guilty after doing nice things”. If one has a goal to feel pleasant feelings, and is structured in that manner, then that is reason to be cruel, not just reason why they would be cruel.
+
+[deleted] 14 Apr 2012 0:12 UTC
+0 points
+
+0
+Parent
+
+If one has a goal to feel pleasant feelings, and is structured in that manner, then that is reason to be cruel, not just reason why they would be cruel.
+
+Agreed, but so much is packed into that ‘if’. We all seek pleasure, but not one of us believes it is an unqualified good. The implication of Swimmer’s post was that atheists have reasons to obey the ten commandments (well, 4 or 5 of them) comparable in formal terms to the reasons Christians have (God’ll burn me if I don’t, or whatever). That is, the claim seems to be that atheists can justify their actions. Now, if someone does something nice for me, and I ask her why she did that, she can reply with some facts about evolutionary biology. This might explain her behavior, but it doesn’t justify it.
+
+If we imagine someone committing a murder and then telling us something about her (perhaps defective) neurobiology, we might take this to explain their behavior, but never to justify it. We would never say ’Yeah, I guess now that you make those observations about your brain, it was reasonable of you to kill that guy.” The point is that the murderer hasn’t just given us a bad reason, she hasn’t given us a reason at all. We cannot call her rational if this is all she has.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 14 Apr 2012 2:16 UTC
+−1 points
+
+0
+Parent
+
+The implication of Swimmer’s post was that atheists have reasons to obey the ten commandments (well, 4 or 5 of them) comparable in formal terms to the reasons Christians have (God’ll burn me if I don’t, or whatever).
+
+I didn’t claim that, and if I implied it, it was by accident. (Although I do think that a lot of atheists have just as strong if not stronger reasons to obey certain moral rules, the examples I gave weren’t those examples.) I was trying to point out that if someone decides one day to stop believing in God, and realizes that this means God won’t smite them if they break one of the Ten Commandments, that doesn’t mean they’ll go out and murder someone. Their moral instincts, and the positive/​negative reinforcement to obey them (i.e. pleasure or guilt), keep existing regardless of external laws.
+
+The point is that the murderer hasn’t just given us a bad reason, she hasn’t given us a reason at all. We cannot call her rational if this is all she has.
+
+So we ask her why, and she says “oh, he took the seat that I wanted on the bus three weeks in a row, and his humming is annoying, and he always copies my exams.” Which might not be a good reason to murder someone according to you, with your normal neurobiology–you would content yourself with fuming and making rude comments about him to your friends–but she considers it a good reason, because her mental ‘brakes’ are off.
+
+[deleted] 14 Apr 2012 17:31 UTC
+0 points
+
+0
+Parent
+
+Their moral instincts, and the positive/​negative reinforcement to obey them (i.e. pleasure or guilt), keep existing regardless of external laws.
+
+Right, we agree on that. But if the apostate thereafter has no reason to regard themselves as morally responsible, then their moral behavior is no longer fully rational. They’re sort of going through the motions.
+
+Which might not be a good reason to murder someone according to you, with your normal neurobiology–you would content yourself with fuming and making rude comments about him to your friends–but she considers it a good reason, because her mental ‘brakes’ are off.”
+
+The question here isn’t about good vs. bad reasons, but between admissible vs. inadmissible reasons. Hearsay is often a bad reason to believe that Peter shot Paul, but it is a reason. It counts as evidence. If that’s all you have, then you’re not reasoning well, but you are reasoning. The number of planets orbiting the star furthest from the sun is not a reason to believe Peter shot Paul. It’s not that it’s a bad reason. It’s just totally inadmissible. If that’s all you have, then you’re not reasoning badly, you’re just not reasoning at all.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 13 Apr 2012 22:53 UTC
+−2 points
+
+0
+Parent
+
+Suppose all that were true: would you then have good reasons to to be cruel?
+
+It’s a hard world to visualize, but if cruelty-tendencies evolved because people survived better by being cruel, then cruelty works in that world, and society would be dysfunctional if there were rules against it (imagine our world having rules against being nice, ever!), and to me, something being useful is a good reason to do it.
+
+If we ever came across that species, no doubt we’d be appalled, but the universe isn’t appalled. Not unless you believe that morality exists in itself, independently of brains...which I don’t.
+
+Suppose that it were built into the human brain that being cruel to your friends and neighbors is helpful to long-term survival (bear with me on the evolutionary implausibility of this), and so must people get pleasant feelings from doing things they consider cruel, and feel guilty after doing nice things.
+
+If there were an entire society built out of people like this, then probably quite a lot of minor day-to-day cruelty would go on, and there would be rationalized Laws, like the Ten Commandments, justifying why being cruel was so important, and there would be social customs and structures and etiquette involved in making sure the right kind of cruelty happened at the right times…
+
+I’m not saying that our brain’s evolutionary capacity for empathy is the ultimate perfect moral theory. But I do think that all those moral theories, perfect or ultimate or not, exist because our brains evolved to have the little voice of empathy. Which means that if you take away the Ten Commandments, most people won’t stop being nice to people they care about.
+
+(Being nice to strangers or members of an outgroup is a completely different matter...there seems to be a mechanism for turning off empathy towards groups of strangers, and plenty of societies have produced people who were very nice to their friends and neighbors, and barbaric towards everyone else.)
+
+Most atheists don’t accept deontological moral theories–i.e. any theory that talks about a set of a priori rules of what’s right versus wrong. But morality doesn’t go away. If you reason it out starting from what our brains already tell us, you end up with utilitarian theories (“I like being happy, and I’m capable of empathy, so I think other people must like being happy too, and since my perfect world would be one where I was happy all the time, the perfect world for everyone would be one with maximum happiness.”)
+
+Alternately you end up with Kantian theories (“I like being treated as an end, not a means, and empathy tells me other people are similar to me, so we should treat everyone as an end in themselves or not a means… Oh, and Action X will make me happy, but if everyone else did Action X too, it would make me unhappy, and empathy tells me everyone else is about like me, so they wouldn’t want me to do X, so the best society is one in which no one does X.”) Etc.
+
+If you don’t reason it out, you get “well, it made me happy when I helped Susan with her homework, and it made me feel bad when I said something mean to Rachel and she cried, so I should help people more and not be mean as much.” These feelings aren’t perfect, and there are lots of conflicting feelings, so people aren’t nice all the time...but the innate brain mechanisms are there even when there aren’t any laws, and the fact that they’re there is probably the reason why there are laws at all.
+
+[deleted] 13 Apr 2012 23:23 UTC
+0 points
+
+0
+Parent
+
+These feelings aren’t perfect, and there are lots of conflicting feelings, so people aren’t nice all the time...but the innate brain mechanisms are there even when there aren’t any laws, and the fact that they’re there is probably the reason why there are laws at all.
+
+So we agree that one might have a reason to do something because it’s recommended by moral theories. What I’m questioning is whether or not you can have a reason to do something on the basis of brain mechanisms or if you can have reason to adopt a moral theory on the basis of brain mechanisms. And I don’t mean ‘good’ reasons, I mean admissible reasons.
+
+Imagine someone thinking to themselves: ‘Well, my brain is structured in such and such a way as a result of evolution, so I think I’ll kill this completely innocent guy over here.’ Is he thinking rationally?
+
+And concerning the adoption of a moral theory:
+
+(“I like being happy, and I’m capable of empathy, so I think other people must like being happy too, and since my perfect world would be one where I was happy all the time, the perfect world for everyone would be one with maximum happiness.”)
+
+There’s a missing inference here from wanting to be happy to wanting other people to be happy. Can you explain how you think this argument gets filled out? As it stands, it’s not valid.
+
+Likewise:
+
+“I like being treated as an end, not a means, and empathy tells me other people are similar to me, so we should treat everyone as an end in themselves or not a means...
+
+Why should the fact that other people want something motivate me? It doesn’t follow from the fact that my wanting something motivates me, that another person’s wanting that thing should motivate me. In both these arguments there’s a missing step which, I think, is pertinent to the problem above: the fact that I am motivated to X doesn’t even give me reason to X, much less a reason to pursue the desires of other people.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 13 Apr 2012 23:43 UTC
+0 points
+
+0
+Parent
+
+Well, my brain is structured in such and such a way as a result of evolution, so I think I’ll kill this completely innocent guy over here.
+
+Beliefs don’t feel like beliefs, they feel like the way the world is. Likewise with brain structures. If someone is a sociopath (in short, their brain mechanism for empathy is broken) and they decide they want to kill someone for reasons X and Y, are they being any more irrational than someone who volunteers at a soup kitchen because seeing people smile when he hands them their food makes him feel fulfilled?
+
+(“I like being happy, and I’m capable of empathy, so I think other people must like being happy too, and since my perfect world would be one where I was happy all the time, the perfect world for everyone would be one with maximum happiness.”)
+
+There’s a missing inference here from wanting to be happy to wanting other people to be happy. Can you explain how you think this argument gets filled out? As it stands, it’s not valid.
+
+Sorry for not being clear. The inference is that “empathy”, the ability to step into someone else’s shoes and imagine being them, is an innate ability that most humans have, leads you to think that other people are like you...when they feel pleasure, it’s like your pleasure, and when they feel pain, it’s like your pain, and there’s a hypothetical world where you could have been them. I don’t think this hypothetical is something that’s taught by moral theories, because I remember reasoning with it as a child when I’d had basically no exposure to formal moral theories, only the standard “that wasn’t nice, you should apologize.” If you could have been them, you want the same things for them that you’d want for yourself.
+
+I think this is immediately obvious for family members and friends...do you want your mother to be happy? Your children?
+
+[deleted] 14 Apr 2012 0:02 UTC
+0 points
+
+0
+Parent
+
+Beliefs don’t feel like beliefs, they feel like the way the world is.
+
+Perhaps on some level this is right, but the fact that I can assess the truth of my beliefs means that they don’t feel like the way the world is in an important respect. They feel like things that are true and false. The way the world is has no truth value. Very small children have problem with this distinction, but so far as I can tell almost all healthy adults do not believe that their beliefs are identical with the world. ETA: That sounded jerky. I didn’t intend any covert meanness, and please forgive any appearance of that.
+
+If someone is a sociopath (in short, their brain mechanism for empathy is broken) and they decide they want to kill someone for reasons X and Y, are they being any more irrational than someone who volunteers at a soup kitchen because seeing people smile when he hands them their food makes him feel fulfilled?
+
+I think I really don’t understand your question. Could you explain the idea behind this a little better? My objection was that there are reasons to do things, and reasons why we do things, and while all reasons to do things are also reasons why, there are reasons why that are not reasons to do things. For example, having a micro-stroke might be the reason why I drive my car over an embankment, but it’s not a reason to drive one’s car over an embankment. No rational person could say to themselves “Huh, I just had a micro-stroke. I guess that means I should drive over this embankment.”
+
+I think this is immediately obvious for family members and friends...do you want your mother to be happy? Your children?
+
+Sure, but I take myself to have moral reasons for this. I may feel this way because of my biology, but my biology is never itself a reason for me to do anything.
+
+orthonormal 14 Apr 2012 3:43 UTC
+1 point
+
+0
+Parent
+
+I may feel this way because of my biology, but my biology is never itself a reason for me to do anything.
+
+Relevant LW post.
+
+[deleted] 14 Apr 2012 17:40 UTC
+0 points
+
+0
+Parent
+
+Relevant LW post.
+
+That post is in need of some serious editing: I genuinely couldn’t tell if it was on the whole agreeing with what I was saying or not.
+
+I have a puzzle for you: suppose we lived in a universe which is entirely deterministic. From the present state of the universe, all future states could be computed. Would that mean that deliberation in which we try to come to a decision about what to do is meaningless, impossible, or somehow undermined? Or would this make no difference?
+
+Expand this thread
+
+orthonormal 14 Apr 2012 18:01 UTC
+3 points
+
+0
+Parent
+
+That post is in need of some serious editing: I genuinely couldn’t tell if it was on the whole agreeing with what I was saying or not.
+
+That post didn’t have a conclusion, because EY wanted to get much further into his Metaethics sequence before offering one.
+
+I have a puzzle for you: suppose we lived in a universe which is entirely deterministic. From the present state of the universe, all future states could be computed. Would that mean that deliberation in which we try to come to a decision about what to do is meaningless, impossible, or somehow undermined? Or would this make no difference?
+
+It makes no difference. In fact, many-worlds is a deterministic universe; it just so happens there are different versions of future-you who experience/​do different things, so it’s not “deterministic from your viewpoint”.
+
+[deleted] 14 Apr 2012 20:11 UTC
+0 points
+
+0
+Parent
+
+It makes no difference. In fact, many-worlds is a deterministic universe; it just so happens there are different versions of future-you who experience/​do different things, so it’s not “deterministic from your viewpoint”.
+
+So I’d like to argue that it makes at least a little difference. When we engage in practical deliberation, when we think about what to do, we are thinking about what is possible and about ourselves as sources of what is possible. No one deliberates about the necessary, or about anything over which we have no control: we don’t deliberate about what the size of the sun should be, or whether or not modus tollens should be valid.
+
+If we realize that the universe is deterministic, then we may still decide that we can deliberate, but we do now qualify this as a matter of ‘viewpoints’ or something like that. So the little difference this makes is in the way we qualify the idea of deliberation.
+
+So do you agree that there is at least this little difference? Perhaps it is inconsequential, but it does mean that we learn something about what it means to deliberate when we learn we are living in a deterministic universe as opposed to one with a bunch of spontaneous free causes running around.
+
+orthonormal 14 Apr 2012 20:15 UTC
+0 points
+
+0
+Parent
+
+It all adds up to normality. Everything you do when making a decision is something a deterministic agent can do, and a deterministic agent that deliberates well will (on average) experience higher expected value than deterministic agents that deliberate poorly.
+
+You’re getting closer to the sequence of posts that covers this in more detail, so I’ll just say that I endorse what’s said in this sequence.
+
+[deleted] 14 Apr 2012 20:33 UTC
+0 points
+
+0
+Parent
+
+It all adds up to normality. Everything you do when making a decision is something a deterministic agent can do, and a deterministic agent that deliberates well will (on average) experience higher expected value than deterministic agents that deliberate poorly.
+
+What is normality exactly? It’s not the ideas and intuitions I came to the table with, unless the theory actually proposes to teach me nothing. My questions is this: “what do I learn when I learn that the universe is deterministic?” Do I learn anything that has to do with deliberation? One reasonable answer (and one way to explain the normality point) would just be ‘no, it has nothing to do with action.’ But this would strike many people as odd, since we recognize in our deliberation a distinction between future events we can bring about or prevent, and future states we cannot bring about or prevent.
+
+You’re getting closer to the sequence of posts that covers this in more detail, so I’ll just say that I endorse what’s said in this sequence.
+
+I find I have an extremely hard time understanding some of the arguments in that sequence, after several attempts. I would dearly love to have some of it explained in response to my questions. I find this argument in parcticular to be very confusing:
+
+But have you ever seen the future change from one time to another? Have you wandered by a lamp at exactly 7:02am, and seen that it is OFF; then, a bit later, looked in again on the “the lamp at exactly 7:02am”, and discovered that it is now ON?
+
+Naturally, we often feel like we are “changing the future”. Logging on to your online bank account, you discover that your credit card bill comes due tomorrow, and, for some reason, has not been paid automatically. Imagining the future-by-default—extrapolating out the world as it would be without any further actions—you see that the bill not being paid, and interest charges accruing on your credit card. So you pay the bill online. And now, imagining tomorrow, it seems to you that the interest charges will not occur. So at 1:00pm, you imagined a future in which your credit card accrued interest charges, and at 1:02pm, you imagined a future in which it did not. And so your imagination of the future changed, from one time to another.
+
+This argument (which reappears in the ‘timeless control’ article) seems to hang on a very weird idea of ‘changing the future’. No one I have ever talked to believes that they can literally change a future moment from having one property to having another, and that this change is distinct from a change that takes place over an extent of time. I certainly don’t see how anyone could take this as a way to treat the world as undetermined. This seems like very much a strawman view, born from an equivocation on the word ‘change’.
+
+But I expect I am missing something (perhaps something revealed later on in the more technical stage of the article). Can you help me?
+
+orthonormal 14 Apr 2012 21:28 UTC
+4 points
+
+0
+Parent
+
+What is normality exactly?
+
+I meant that learning the universe is deterministic should not turn one into a fatalist who doesn’t care about making good decisions (which is the intuition that many people have about determinism), because goals and choices mean something even in a deterministic universe. As an analogy, note that all of the agents in my decision theory sequence are deterministic (with one kind-of exception: they can make a deterministic choice to adopt a mixed strategy), but some of them characteristically do better than others.
+
+Regarding the “changing the future” idea, let’s think of what it means in the context of two deterministic computer programs playing chess. It is a fact that only one game actually gets played, but many alternate moves are explored in hypotheticals (within the programs) along the way. When one program decides to make a particular move, it’s not that “the future changed” (since someone with a faster computer could have predicted in advance what moves the programs make, the future is in that sense fixed), but rather that of all the hypothetical moves it explored, the program chose one according to a particular set of criteria. Other programs would have chosen another moves in those circumstances, which would have led to different games in the end.
+
+When you or I are deciding what to do, the different hypothetical options all feel like they’re on an equal basis, because we haven’t figured out what to choose. That doesn’t mean that different possible futures are all real, and that all but one vanish when we make our decision. The hypothetical futures exist on our map, not in the territory; it may be that no version of you anywhere chooses option X, even though you considered it.
+
+Does that make more sense?
+
+[deleted] 15 Apr 2012 15:14 UTC
+3 points
+
+0
+Parent
+
+but some of them characteristically do better than others.
+
+A fair point, though I would be interested to hear how the algorithm described in DT relate to action (it can’t be that they describe action, since we needn’t act on the output of a DT, especially given that we’re often akratic). When the metaethics sequence, for all the trouble I have with its arguments, gets into an account of free will, I don’t generally find myself in disagreement. I’ve been looking over that and the physics sequences in the last couple of days, and I think I’ve found the point where I need to do some more reading: I think I just don’t believe either that the universe is timeless, or that it’s a block universe. So I should read Barbour’s book.
+
+Thanks, buy the way for posting that DT series, and for answering my questions. Both have been very helpful.
+
+Does that make more sense?
+
+It does, but I find myself, as I said, unable to grant the premise that statements about the future have truth value. I think I do just need to read up on this view of time.
+
+orthonormal 15 Apr 2012 20:12 UTC
+0 points
+
+0
+Parent
+
+Thanks, buy the way for posting that DT series, and for answering my questions. Both have been very helpful.
+
+You’re welcome!
+
+I would be interested to hear how the algorithm described in DT relate to action (it can’t be that they describe action, since we needn’t act on the output of a DT, especially given that we’re often akratic).
+
+Yeah, a human who consciously endorses a particular decision theory is not the same sort of agent as a simple algorithm that runs that decision theory. But that has more to do with the messy psychology of human beings than with decision theory in its abstract mathematical form.
+
+Swimmer963 (Miranda Dixon-Luinenburg) 14 Apr 2012 2:12 UTC
+1 point
+
+0
+Parent
+
+Beliefs don’t feel like beliefs, they feel like the way the world is.
+
+Perhaps on some level this is right, but the fact that I can assess the truth of my beliefs means that they don’t feel like the way the world is in an important respect.
+
+OK, let me give you a better example. When you look at something, a lot of very complex hardware packed into your retina, optic nerve, and visual cortex, a lot of hard-won complexity optimized over millions of years, is going all out analyzing the data and presenting you with comprehensible shapes, colour, and movement, as well as helpful recognizing objects for you. When you look at something, are you aware of all that happening? Or do you just see it?
+
+(Disclaimer: if you’ve read a lot about neuroscience, it’s quite possible that sometimes you do think about your visual processing centres while you’re looking at something. But the average person wouldn’t, and the average person probably doesn’t think ‘well, there go my empathy centres again’ when they see an old lady having trouble with her grocery bag and feel a desire to help her.)
+
+I think I really don’t understand your question. Could you explain the idea behind this a little better? My objection was that there are reasons to do things, and reasons why we do things, and while all reasons to do things are also reasons why, there are reasons why that are not reasons to do things.
+
+Okay, let’s try to unpack this. In my example, we have a sociopath who wants to murder someone. The reason why he wants to murder someone, when most people don’t, is because there’s a centre in his brain that’s broken and so hasn’t learned to see the world from another’s perspective, thus hasn’t internalized any social morality because it doesn’t make sense to him...basically, people are objects to him, so why not kill them. His reason to murder someone is because, let’s say, they’re dating a girl he wants to date. Most non-sociopaths wouldn’t consider that a reason to murder anyone, but the reason why they wouldn’t is because they have an innate understanding that other people feel pain, of the concept of fairness, etc, and were thus capable of learning more complex moral rules as well.
+
+Sure, but I take myself to have moral reasons for this. I may feel this way because of my biology, but my biology is never itself a reason for me to do anything.
+
+The way I see it, the biology aspect is both necessary and sufficient for this kind of behaviour. Someone without the requisite biology wouldn’t be a good parent or friend because they’d see no reason to make an effort (unless they were deliberately “faking it” to benefit from that person). And an ordinary human being raised with no exposure to moral rules, who isn’t taught anything about it explicitly, will still want to make their friends happy and do the best they can raising children. They may not be very good at it, but unless they’re downright abused/​severely neglected, they won’t be evil.
+
+[deleted] 14 Apr 2012 17:26 UTC
+0 points
+
+0
+Parent
+
+When you look at something, are you aware of all that happening? Or do you just see it?
+
+I just see it. I’m aware on some abstract level, but I never think about this when I see things, and I don’t take it into account when I confidently believe what I see.
+
+“His reason to murder someone is because, let’s say, they’re dating a girl he wants to date. Most non-sociopaths wouldn’t consider that a reason to murder anyone”
+
+I guess I’d disagree with the second claim, or at least I’d want to qualify it. Having a broken brain center is an inadmissible reason to kill someone. If that’s the only explanation someone could give (or that we could supply them) then we wouldn’t even hold them responsible for their actions. But dating your beloved really is a reason to kill someone. It’s a very bad reason, all things considered, but it is a reason. In this case, the killer would be held responsible.
+
+“The way I see it, the biology aspect is both necessary and sufficient for this kind of behaviour. ”
+
+Necessary, we agree. Sufficient is, I think, too much, especially if we’re relying on evolutionary explanations, which should never stand in without qualification for psychological, much less rational explanations. After all, I could come to hate my family if our relationship soured. This happens to many, many people who are not significantly different from me in this biological respect.
+
+An ordinary human being raised with no exposure to moral rules in an extremely strange counterfactual: no person I have ever met, or ever heard of, is like this. I would probably say that there’s not really any sense in which they were ‘raised’ at all. Could they have friends? Is that so morally neutral an idea that one could learn it while leaning nothing of loyalty? I really don’t think I can imagine a rational, language-using human adult who hasn’t been exposed to moral rules.
+
+So the ‘necessity’ case is granted. We agree there. The ‘sufficiency’ case is very problematic. I don’t think you could even have learned a first language without being exposed to moral rules, and if you never learn any language, then you’re just not really a rational agent.
+
+Expand this thread
+
+Swimmer963 (Miranda Dixon-Luinenburg) 14 Apr 2012 17:58 UTC
+0 points
+
+0
+Parent
+
+An ordinary human being raised with no exposure to moral rules in an extremely strange counterfactual: no person I have ever met, or ever heard of, is like this.
+
+A weak example of this: someone from a society that doesn’t have any explicit moral rules, i.e. ‘Ten Commandments.’ They might follow laws, but but the laws aren’t explained ‘A is the right thing to do’ or ‘B is wrong’. Strong version: someone whose parents never told them ‘don’t do that, that’s wrong/​mean/​bad/​etc’ or ‘you should do this, because it’s the right thing/​what good people do/​etc.’ Someone raised in that context would probably be strange, and kind of undisciplined, and probably pretty thoughtless about the consequences of actions, and might include only a small number of people in their ‘circle of empathy’...but I don’t think they’d be incapable of having friends/​being nice.′
+
+[deleted] 14 Apr 2012 19:59 UTC
+0 points
+
+0
+Parent
+
+A weak example of this: someone from a society that doesn’t have any explicit moral rules, i.e. ‘Ten Commandments.’ They might follow laws, but but the laws aren’t explained ‘A is the right thing to do’ or ‘B is wrong’.
+
+I can see a case like this, but morality is a much broader idea than can be captured by a list of divine commands and similar such things. Even Christians, Jews, and Muslims would say that the ten commandments are just a sort of beginning, and not all on their own sufficient to be moral ideas.
+
+Someone raised in that context would probably be strange, and kind of undisciplined, and probably pretty thoughtless about the consequences of actions, and might include only a small number of people in their ‘circle of empathy’...but I don’t think they’d be incapable of having friends/​being nice.′
+
+Huh, we have pretty different intuitions about this: I have a hard time imagining how you’d even get a human being out of that situation. I mean, animals, even really crappy ones like rats, can be empathetic toward one another. But there’s no morality in a rat, and we would never think to praise or blame one for its behavior. Empathy itself is necessary for morality, but far from sufficient.
+
+raptortech97 13 Apr 2012 20:41 UTC
+0 points
+
+0
+Parent
+
+What reason do atheists have?
+
+Maybe because they have decided that a specific moral philosophy would be most useful?
+
+tlhonmey 4 Jan 2019 1:20 UTC
+1 point
+
+0
+Parent
+
+Or they’re not spelling out their evidence because it seems obvious to them and therefore (in their minds) should be obvious to you as well and need no explanation.
+
+I know many Atheists for whom their belief in no god is indeed a religion. They arrived at their belief not through reason and weighing the evidence but through the same kind of blind acceptance of someone else’s cached values that religionists engage in. They fall into the same traps of treating “arguments as soldiers” as do the religionists. They make the same kind of circular, bad arguments in favour of their own point of view. Since these people also tend to be the most vocal, militant Atheists they are the ones that vocal Theists run up against the most often. As a result Theists, upon encountering a rational Atheist are at least as perplexed as an Atheist encountering one of the rare, rational Theists and the two often end up talking past each other due to not realising that the assumed common frame of reference they’re each trying to use for communication isn’t actually common.
+
+Konrad2 9 Feb 2008 3:47 UTC
+8 points
+
+0
+
+Summary: Aristotelianism considered harmful; Hilbert Space is the new industry standard.
+
+Ari 9 Feb 2008 6:29 UTC
+1 point
+
+0
+
+The question “Is this object a blegg?” may stand in for different queries on different occasions. If it weren’t standing in for some query, you’d have no reason to care.
+
+Basically, this is pragmatism in a nutshell—right?
+
+Cheers,
+Ari
+
+tcpkac 9 Feb 2008 9:52 UTC
+2 points
+
+0
+
+Excellent post, however,
+“But people often don’t realize that their argument about where to draw a definitional boundary, is really a dispute over whether to infer a characteristic shared by most things inside an empirical cluster...”
+Indeed so, but there are other aspects. Humans also have obsessions with
+(a) how far your cluster is from mine (kinship or the lack of it)
+(b) given one empirical cluster, how can I pick a characteristic, however minor, which will allow me to split it into ‘us vs them’ (Robber’s Cave).
+So when you get to discussing whether an uploaded human brain is part of the cluster ‘human’, those are the considerations which will be foremost.
+
+Joseph_Knecht 10 Feb 2008 0:03 UTC
+6 points
+
+0
+
+Or more concisely: sharp distinctions regarding fuzzy concepts are meaningless.
+
+TGGP4 10 Feb 2008 3:19 UTC
+0 points
+
+0
+
+My favorite example is, Is a fetus a person?
+Yes, but it’s still okay to murder them.
+
+Micha Gertner has an interesting essay on pragmatism & economics here.
+
+Rolf_Nelson2 11 Feb 2008 0:51 UTC
+8 points
+
+0
+
+What’s really at stake is an atheist’s claim of substantial difference and superiority relative to religion
+
+Often semantics matter because laws and contracts are written in words. When “Congress shall make no law respecting an establishment of religion”, it’s sometimes advantageous to claim that you’re not a religion, or that your enemy is a religion. If churches get preferential tax treatment, it may be advantageous to claim that you’re a church.
+
+Doug_S. 11 Feb 2008 2:59 UTC
+1 point
+
+0
+
+Often semantics matter because laws and contracts are written in words.
+
+What he said.
+
+metahacker 11 Feb 2008 22:09 UTC
+−1 points
+
+0
+
+I’m having problems with the word “is” in your description.
+
+This is not intended as a snarky comment...
+
+TGGP4 11 Feb 2008 22:26 UTC
+0 points
+
+0
+
+Rolf, have you been reading Unqualified Reservations?
+
+Julia_Galef 12 Mar 2010 20:01 UTC
+18 points
+
+0
+
+This was a really clarifying post for me. I had gotten to the point of noticing that “What is X?” debates were really just debates over the definition of X, but I hadn’t yet taken the next step of asking why people care about how X is defined.
+
+I think another great example of a disguised query is the recurring debate, “Is this art?” People have really widely varying definitions of “art” (e.g., some people’s definition includes “aesthetically interesting,” other people’s definition merely requires “conceptually interesting”) -- and in one sense, once both parties explain how they use the word “art,” the debate should resolve pretty quickly.
+
+But of course, since it’s a disguised query, the question “Is this art?” should really be followed up with the question “Why does it matter?” As far as I can tell, the disguised query in this case is usually “does this deserve to be taken seriously?” which can be translated in practice into, “Is this the sort of thing that deserves to be exhibited in a gallery?” And that’s certainly a real, non-semantic debate. But we can have that debate without ever needing to decide whether to apply the label “art” to something—in fact, I think the debate would be much clearer if we left the word “art” out of it altogether.
+
+I’ve elaborated on this topic on Rationally Speaking:
+http://​​rationallyspeaking.blogspot.com/​​2010/​​03/​​is-this-art-and-why-thats-wrong.html
+…and I cite this LW post. Thanks, Eliezer.
+
+David_Gerard 10 Jan 2011 15:20 UTC
+1 point
+
+0
+
+I like this post because it shows the usefulness of one of my favourite questions to answer a question with: “What’s it for?” What use do you have for the answer to your question?
+
+Dojan 2 Nov 2011 8:39 UTC
+0 points
+
+0
+
+When I have discussions of the philosophical kind, I have learned that it often pays of to start with defining the words being used: For example, I recall one discussion where I defined Evil as a shorthand for “all corporations and institutions that try to compete by opposing the existence and legitimacy of competitors and newcomers instead of by trying to offer a better product, like Microsoft”, and one other discussion where I defined Evil as “Working for Sauron or Saruman or Morgoth”, i.e very different. I would never (that is, I try hard not to) use a word such as evil without defining it first: People are all to likely to think of something other than what I meant.
+
+Anders_H 7 Feb 2016 19:45 UTC
+0 points
+
+0
+
+I run the Less Wrong meetup group in Palo Alto. After we announced the events at Meetup.com, we often get a lot of guests who are interested in rationality but who have not read the LW sequences. I have an idea for a introductory session where we have the participants do a sorting exercise. Therefore, I am interested in getting 3D printed versions of rubes, bleggs and other items references in this post.
+
+Does anyone have any thoughts on how to do this cheaply? Is there sufficient interest in this to get a kickstarter running? I expect that these items may be of interest to other Less Wrong meetup groups, and possibly to CFAR workshops and/​or schools?
+
+Back to top

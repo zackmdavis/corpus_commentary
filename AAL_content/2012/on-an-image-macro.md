@@ -1,0 +1,10 @@
+Title: On an Image Macro
+Date: 2012-11-04 05:00
+Status: published
+Category: verse
+Tags: Friendship Is Magic
+
+For the haters are going to hate,  
+And the ponies are going to pwn,  
+As for me, I will bear all the burden and weight  
+And uncertainty of the alone.

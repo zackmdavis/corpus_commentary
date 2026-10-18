@@ -1,0 +1,1658 @@
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+Special Issue: Controversial Issues in Human Sexuality Research: The State of the Science
+Original Articles and Reviews
+
+Autogynephilia and the Typology
+of Male-to-Female Transsexualism
+Concepts and Controversies
+Anne A. Lawrence
+Department of Psychology, University of Lethbridge, AB, Canada
+Abstract: Sexual scientists have recognized for over a century that biologic males who seek sex reassignment – male-to-female (MtF)
+transsexuals – are not a homogeneous clinical population but comprise two or more distinct subtypes with different symptoms and
+developmental trajectories. The most widely used typologies of MtF transsexualism have been based on sexual orientation and have
+distinguished between persons who are androphilic (exclusively sexually attracted to males) and those who are nonandrophilic (sexually
+attracted to females, both males and females, or neither gender). In 1989, psychologist Ray Blanchard proposed that most nonandrophilic MtF
+transsexuals display a paraphilic sexual orientation called autogynephilia, defined as the propensity to be sexually aroused by the thought or
+image of oneself as a woman. Studies conducted by Blanchard and colleagues provided empirical support for this proposal, leading to the
+hypothesis that almost all nonandrophilic MtF transsexuals are autogynephilic, whereas almost all androphilic MtF transsexuals are not.
+Blanchard’s ideas received increased attention in 2003 after they were discussed in a book by psychologist J. Michael Bailey. The concept of
+autogynephilia subsequently became intensely controversial among researchers, clinicians, and MtF transsexuals themselves, causing
+widespread repercussions. This article reviews the theory of autogynephilia, the evidence supporting it, the objections raised by its critics, and
+the implications of the resulting controversy for research and clinical care.
+Keywords: autogynephilia, transsexualism, sexual orientation, paraphilia, gender dysphoria
+
+Despite increasing recognition of the wide range of genderatypical identities and behaviors that humans exhibit,
+there is still considerable popular and scientific interest in
+adolescents and adults who manifest extreme discomfort
+with their biologic sex or assigned gender. These persons
+are referred to as transsexuals. Transsexualism remains
+an official diagnosis in the most recent edition of the
+International Classification of Diseases (World Health
+Organization, 1992). In the Diagnostic and Statistical
+Manual of Mental Disorders (DSM), the diagnosis of
+Transsexualism appeared in the DSM-III and DSM-III-R
+(American Psychiatric Association [APA], 1980, 1987) but
+was subsumed under the more inclusive diagnoses of
+Gender Identity Disorder (GID) in the DSM-IV and
+DSM-IV-TR (APA, 1994, 2000) and Gender Dysphoria in
+the DSM-5 (APA, 2013). The DSM-5 GID Subworkgroup
+(Zucker et al., 2013) proposed that the term transsexualism
+was applicable to
+a person who identifies completely with the other
+gender, can only relax when permanently living in
+the other gender role, has a strong aversion against
+Ó 2017 Hogrefe Publishing
+
+the sex characteristics of his/her body, and wants
+to adjust his/her body as much as technically possible
+in the direction of the desired gender. (p. 905)
+Biologic males with transsexualism, referred to as male-tofemale (MtF) transsexuals, significantly outnumber their
+female-to-male (FtM) counterparts and display greater
+clinical diversity. Accordingly, particular scientific and clinical interest has been devoted to formulating descriptive
+typologies of MtF transsexualism, some of which have also
+been applied to FtM transsexualism. Most MtF transsexual
+typologies have used either sexual orientation or age of
+onset of symptoms as the basis for categorization (for a
+review, see Lawrence, 2010a). Typologies based on sexual
+orientation have been more widely utilized and were
+relatively uncontroversial until about 2003. Specifiers based
+on sexual orientation (i.e., sexually attracted to males,
+females, both, or neither) were used to define typologies
+(subtypes) of transsexualism and GID in the DSM-III, III-R,
+IV, and IV-TR (APA, 1980, 1987, 1994, 2000). When
+applied to MtF transsexuals, these four-category typologies have often been simplified to distinguish only two
+European Psychologist (2017), 22(1), 39–54
+DOI: 10.1027/1016-9040/a000276
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+40
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+fundamental subtypes: persons attracted exclusively to
+males (androphilic MtF transsexuals) and persons attracted
+to females, males and females, or neither gender
+(nonandrophilic MtF transsexuals). Androphilic MtF
+transsexuals are also called homosexual MtF transsexuals,
+because they are exclusively homosexual relative to natal
+sex, whereas nonandrophilic MtF transsexuals are also
+called nonhomosexual MtF transsexuals, because they are
+not exclusively homosexual relative to natal sex (Lawrence,
+2013).
+In the late 1980s, psychologist Ray Blanchard proposed
+that almost all nonandrophilic MtF transsexuals exhibit a
+paraphilic sexual orientation he called autogynephilia
+(literally “love of oneself as a woman”; Blanchard, 1989a,
+p. 323), which he formally defined as “a male’s propensity
+to be sexually aroused by the thought of himself as a
+female” (Blanchard, 1989b, p. 616). Autogynephilia was
+recognized in the DSM-IV-TR (APA, 2000) as a symptom
+of many cases of GID in males (p. 578) and most cases of
+Transvestic Fetishism (p. 574). Autogynephilia became a
+controversial topic after it was discussed in a contentious
+book by psychologist Bailey (2003). Autogynephilia and
+the ideas associated with it, including transsexual typologies
+based on sexual orientation, have subsequently been
+criticized by some clinicians and researchers and by many
+transsexual activists. Autogynephilia and the typology of
+MtF transsexualism is therefore an appropriate topic for this
+special issue of European Psychologist.
+
+History and Development of the Concept
+of Autogynephilia
+Several detailed accounts of the clinical observations and
+research that gave rise to the concept of autogynephilia
+and the theories associated with it have been published
+(Blanchard, 2005; Lawrence, 2011, 2013). This section
+offers a concise summary, intended to provide the background necessary to understand the ensuing controversies.
+Blanchard’s realization of the conceptual link between
+transsexual subtypes based on sexual orientation and the
+phenomenon that he would later call autogynephilia
+derived from decades of earlier observations concerning
+transvestism or erotic cross-dressing, MtF transsexualism,
+and the relationship between them. By the early 1980s,
+many clinicians had recognized that there were at least
+two distinctly different types of MtF transsexualism,
+plausibly reflecting entirely different etiologies (for a
+review, see Lawrence, 2010a). No one MtF transsexual
+typology, however, was generally accepted. Although
+transvestism was generally regarded as a disorder of
+sexuality – a paraphilia – and MtF transsexualism as a
+disorder of gender identity, clinicians had observed many
+European Psychologist (2017), 22(1), 39–54
+
+similarities and connections between the two conditions.
+Specifically:
+ transvestism sometimes evolved into MtF transsexualism (Lukianowicz, 1959);
+ the boundary separating transvestism and MtF
+transsexualism was not distinct (Benjamin, 1966);
+ both transvestites and MtF transsexuals experienced
+types of cross-gender identities (Stoller, 1968);
+ some MtF transsexuals were effeminate and androphilic, whereas others were primarily sexually attracted to
+women (gynephilic) and had a history of transvestic
+fetishism (Money & Gaskin, 1970–1971);
+ the essential fantasy for transvestites, as well as for
+MtF transsexuals, was becoming a woman, not just
+dressing as one (Ovesey & Person, 1976);
+ MtF transsexualism was nearly always associated with
+either (a) androphilia and childhood femininity or (b)
+gynephilia and erotic arousal in association with
+cross-dressing or cross-gender fantasy (Freund,
+Steiner, & Chan, 1982).
+Operating from this background, Blanchard began to
+investigate the relationship between sexual orientation
+and what he would later call autogynephilia. In an early
+study, Blanchard (1985) divided 163 MtF transsexual
+participants into four groups based sexual orientation: a
+androphilic group, a gynephilic group, a bisexual group
+(attracted to both sexes), and an analloerotic group (not
+attracted to other people). He found that 73% of the
+combined gynephilic, bisexual, and analloerotic participants
+reported a history of sexual arousal with cross-dressing,
+compared with only 15% of the androphilic participants.
+The observed relationship between sexual orientation and
+sexual arousal with cross-dressing was statistically strong,
+with a calculated effect size of .58 (see Table 1). Based on
+this evidence, Blanchard reaffirmed Freund et al.’s (1982)
+conclusion that there were probably only two basic subtypes
+of MtF transsexuals: a nonandrophilic subtype, composed
+of persons who, like transvestites, had a history of sexual
+arousal with cross-dressing; and an androphilic subtype,
+composed of persons without any history of erotic crossdressing.
+More evidence of the strong relationship between autogynephilia and sexual orientation emerged in research by
+Blanchard, Clemmensen, and Steiner (1987). They studied
+125 gender dysphoric males and found that 82% of nonandrophilic participants gave a history of sexual arousal with
+cross-dressing, compared with only 10% of androphilic
+participants, yielding an effect size of .72 (see Table 1).
+The nonandrophilic participants were also significantly
+older at time of assessment and reported a significantly later
+onset of cross-gender wishes. Blanchard et al. interpreted
+these data as “consistent with the view that heterosexual
+Ó 2017 Hogrefe Publishing
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+41
+
+Table 1. Associations between sexual orientation and autogynephilia in male-to-female transsexuals and transgender persons
+Nonandrophilic/
+Autogynephilic
+
+Nonandrophilic/
+Nonautogynephilic
+
+Androphilic/
+Autogynephilic
+
+Androphilic/
+Nonautogynephilic
+
+Cohen’s ω
+
+46
+
+17
+
+15
+
+85
+
+.58
+
+Blanchard, Clemmensen, and Steiner (1987)
+
+60
+
+13
+
+5
+
+47
+
+.72
+
+Lawrence (2005)
+
+178
+
+21
+
+6
+
+9
+
+.36
+
+Smith, van Goozen, Kuiper, and Cohen-Kettenis (2005)
+
+28
+
+16
+
+18
+
+40
+
+.32
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+Study
+Blanchard (1985)
+
+Nuttbrock et al. (2011)
+
+131
+
+48
+
+90
+
+301
+
+.48
+
+Total
+
+443
+
+115
+
+134
+
+482
+
+.58
+
+Note. The four center columns display numbers of participants.
+
+[nonandrophilic] and homosexual [androphilic] gender
+dysphoria are likely to prove etiologically distinct conditions” (p. 149). The postulated etiological distinction was
+this: Androphilic MtF transsexuals were extremely feminine
+androphilic men whose cross-gender identities derived from
+their female-typical attitudes, behaviors, and sexual
+preferences. Nonandrophilic MtF transsexuals, in contrast,
+were conventionally masculine, fundamentally gynephilic
+men who resembled transvestites in that they experienced
+paraphilic arousal from the fantasy of being women
+(autogynephilia); their cross-gender identities derived from
+their autogynephilic sexual orientations.
+
+The Concept of Autogynephilia
+Blanchard introduced the term autogynephilia in two
+articles published in 1989. In the first of these (Blanchard,
+1989a), he described past and current efforts to frame
+clinically useful typologies of MtF transsexualism; he
+concluded that autogynephilia was an appropriate term to
+describe the paraphilic sexual interest that apparently gave
+rise to both transvestism and nonandrophilic MtF
+transsexualism. He noted that many different fantasies or
+behaviors could be a source of autogynephilic arousal:
+wearing women’s clothing, having female-typical physical
+features or physiologic capabilities (e.g., becoming
+pregnant), engaging in female-typical social behaviors, or
+being admired or sexually desired as a woman by another
+person.
+In a second article, Blanchard (1989b) described new
+scales for measuring elements of autogynephilia. He studied 212 MtF transsexuals, whom he again divided into
+four groups based on sexual orientation. On the Core
+Autogynephilia Scale, which measured self-reported sexual
+arousal in association with the fantasy of having female
+anatomic features, the three nonandrophilic groups
+reported significantly higher scores than the androphilic
+group. On the Autogynephilic Interpersonal Fantasy scale,
+which measured self-reported sexual arousal in association
+with the fantasy of being admired as a female by another
+
+Ó 2017 Hogrefe Publishing
+
+person, the bisexual group reported significantly higher
+scores than the other three groups. This latter finding suggested that bisexual MtF transsexuals’ “interest in male
+sexual partners is mediated by a particularly strong desire
+to have their physical attractiveness as women validated
+by others” (Blanchard, 1989b, p. 622). This point is
+essential to understanding how autogynephilia affects
+self-reported sexual orientation: Blanchard theorized that
+a substantial number of fundamentally gynephilic MtF
+transsexuals develop a secondary sexual interest in male
+partners – he called this interest pseudoandrophilia – based
+on the autogynephilic desire to have their femininity
+validated by the admiration or sexual interest of men.
+Pseudoandrophilic transsexuals might describe themselves
+as bisexual or might declare that they had become
+exclusively attracted to men (i.e., androphilic).
+Other studies have also investigated the relationship
+between autogynephilia and sexual orientation in MtF
+transsexuals (Lawrence, 2005; Smith, van Goozen, Kuiper,
+& Cohen-Kettenis, 2005) and in MtF transgender persons,
+only some of whom could be classified as transsexuals
+(Nuttbrock et al., 2011). The results of these three investigations are summarized in Table 1: All reported medium-tolarge effect sizes. When data from the five studies in the
+Table 1 are combined, the overall effect size is .58. In each
+of these studies, however, many ostensibly androphilic MtF
+persons reported experiencing autogynephilia, whereas
+many ostensibly nonandrophilic persons denied experiencing it. How could Blanchard’s theory account for these
+deviations from its predictions?
+
+Explaining Deviations From the Predicted
+Relationship Between Autogynephilia
+and Sexual Orientation
+Autogynephilic transsexuals tend to underreport autogynephilic arousal and overreport androphilic attraction, and
+these tendencies provide the most straightforward explanation of deviations from the predicted relationship between
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+42
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+autogynephilia and sexual orientation. MtF transsexuals and
+transgender persons routinely minimize or deny autogynephilic arousal in association with cross-dressing or crossgender fantasy for reasons that probably are often unintentional but sometimes are clearly deliberate. Blanchard,
+Racansky, and Steiner (1986) measured changes in penile
+blood volume in 37 transvestites and nonandrophilic gender
+dysphoric males who listened to audio recordings describing
+various sexual and nonsexual scenarios, including crossdressing and solitary nonsexual activity. Participants who
+denied experiencing sexual arousal with cross-dressing
+during the past year – some of whom denied ever having
+experienced it – displayed significantly greater increases in
+penile blood volume in response to the cross-dressing
+scenario than to the nonsexual scenario, indicating
+measurable, albeit perhaps unrecognized, physiologic
+arousal. Moreover, Blanchard, Clemmensen, and Steiner
+(1985) reported that in nonandrophilic men with gender
+dysphoria, a tendency to describe oneself in a socially
+desirable way was correlated with a tendency to deny sexual
+arousal with cross-dressing, suggesting an explanation for
+the underreporting of autogynephilic arousal. More recently,
+Zucker et al. (2012) found that, among 96 adolescent boys
+referred to a gender clinic because of transvestism, 47%
+denied sexual arousal on every item of a 10-item scale
+measuring transvestic fetishism, although this was precisely
+the problem for which they had been referred. In this study,
+too, a tendency to socially desirable responding was
+associated with denial of sexual arousal with cross-dressing.
+Although denial of autogynephilic arousal may often be
+unintentional, sometimes it is deliberate: Walworth (1997)
+reported that 13% of 52 MtF transsexuals she surveyed
+admitted having lied to or misled their therapists about
+sexual arousal while wearing women’s clothing.
+Lawrence (2013) presented several narratives by MtF
+transsexuals who had concealed or lied about autogynephilic
+arousal, both to psychotherapists and to other transgender
+persons.
+Similarly, MtF transsexuals often inaccurately report
+being sexually oriented toward men (androphilic), either
+unintentionally or deliberately. For example, in a study by
+Nieder et al. (2011), of 44 males diagnosed with late-onset
+gender dysphoria – many of whom were plausibly
+autogynephilic – 52% reported that they were sexually
+attracted to men; but the clinicians who evaluated them
+believed that only 9% were actually androphilic. In some
+cases, autogynephilic MtF transsexuals who claim to be
+attracted to men may simply be experiencing attraction to
+the idea of having their femininity validated by men, a
+different phenomenon. Some nonandrophilic MtF
+transsexuals, however, candidly admit to having lied to
+their therapists about attraction to men (Blanchard, Steiner,
+
+European Psychologist (2017), 22(1), 39–54
+
+& Clemmensen, 1985; Walworth, 1997). Cohen-Kettenis
+and Pfäfflin (2010) also drew attention to this tendency:
+It is likely that, depending on the criteria of access to
+treatment in a specific treatment facility, applicants
+adjust their biographical data with regard to sexuality. This makes the quality of the information,
+especially when given during clinical assessment,
+questionable. (p. 507)
+Cohen-Kettenis and Pfäfflin even proposed that resistance
+to the concept of autogynephilia might itself be responsible
+for some of the unreliability in the reporting of sexual
+orientation:
+The term autogynephilia, which is used for one
+subtype, is considered highly offensive by some. . .
+It is therefore likely that. . . the increased awareness
+regarding the sexual orientation issue has led to less
+reliable reports of sex reassignment applicants on
+their sexual orientation. (p. 508)
+Thus, many observed deviations from the theorized
+association between autogynephilia and sexual orientation
+in MtF transsexuals are plausibly attributable to misreporting of either autogynephilic arousal or sexual orientation
+(but not both) by putatively nonandrophilic MtFs.
+Misreporting of both autogynephilic arousal and sexual
+orientation by putatively nonandrophilic MtFs undoubtedly
+also occurs but would not result in any discrepancy from
+the predicted association.
+Yet another factor probably also contributes to observed
+deviations from the predictions of Blanchard’s theory:
+Not all cases of MtF transsexualism are clearly related to
+either extreme femininity in androphilic men or sexual
+arousal with cross-dressing or cross-gender fantasy in
+nonandrophilic men. Some cases of MtF transsexualism
+are associated with and plausibly attributable to other
+comorbid psychiatric disorders, especially psychotic
+conditions such as schizophrenia or bipolar disorder.
+Á Campo, Nijman, Merckelbach, and Evers (2003)
+reported on a large survey of Dutch psychiatrists, who
+had evaluated 584 patients with cross-gender identification
+and possible GID; in 46% of these patients, the psychiatrists interpreted cross-gender identification as an
+epiphenomenon of other psychiatric problems, including
+psychotic, mood, dissociative, and personality disorders.
+Brown and Jones (2016) observed that, among 5,135
+persons (69% male) diagnosed with GID, transsexualism,
+or transvestism who had received care from the U.S.
+Veterans Administration, 32% had also received a diagnosis
+of “serious mental illness,” meaning “diagnoses associated
+
+Ó 2017 Hogrefe Publishing
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+with psychotic symptoms” (p. 128), including schizophrenia- and bipolar-spectrum disorders. Thus, comorbid
+psychotic disorders and other severe mental illnesses may
+account for some cases of MtF transsexualism in nonandrophilic persons who deny autogynephilia – and for some
+cases of MtF transsexualism in androphilic persons as well.
+
+Autogynephilia as a Paraphilic Sexual
+Orientation
+When Blanchard first introduced the term autogynephilia,
+he described it as not merely an erotic propensity but as
+a genuine sexual orientation, theorizing that “all gender
+dysphoric males who are not sexually oriented toward
+men are instead sexually oriented toward the thought or
+image of themselves as women” (Blanchard, 1989a,
+pp. 322–323). He later elaborated:
+Autogynephilia might be better characterized as an
+orientation than as a paraphilia. The term orientation
+encompasses behavior, correlated with sexual
+behavior but distinct from it, that may ultimately
+have a greater impact on the life of the individual.
+For heterosexual and homosexual men, such
+correlated behavior includes courtship, love, and
+cohabitation with a partner of the preferred sex; for
+autogynephilic men, it includes the desire to achieve,
+with clothing, hormones, or surgery, an appearance
+like the preferred self-image of their erotic fantasies.
+(Blanchard, 1993, p. 306)
+Sexual orientations are characterized by feelings of attraction, idealization, and attachment in addition to feelings
+of erotic desire (Diamond, 2003). Autogynephilia, like other
+sexual orientations, can encompass all the phenomena
+commonly associated with the word love (Lawrence,
+2007). Autogynephilic MtF transsexuals are sexually
+aroused by imagining themselves as female but also
+idealize the idea of being female, derive feelings of security
+and comfort from their autogynephilic fantasies and
+enactments, and typically want to embody their feminine
+identities in an enduring way (i.e., by undergoing sex
+reassignment).
+Of the elements that comprise sexual orientations, erotic
+desire is often the most evanescent in any particular
+relationship: attraction and attachment can persist long
+after erotic arousal has diminished. For autogynephilic
+MtF transsexuals, this implies the potential to feel
+continuing attraction to and comfort from autogynephilic
+fantasies and enactments that may have lost much of their
+initial erotic charge. Blanchard (1991) observed:
+In later years, however, autogynephilic sexual arousal
+may diminish or disappear, while the transsexual
+Ó 2017 Hogrefe Publishing
+
+43
+
+wish remains or grows even stronger. . . It is therefore
+feasible that the continuing desire to have a female
+body, after the disappearance of sexual response to
+that thought, has some analog in the permanent
+love-bond that may remain between two people after
+their initial strong sexual attraction has largely
+disappeared. (p. 248)
+Among nonandrophilic MtF transsexuals who report that
+they have ceased to experience sexual arousal from
+autogynephilic fantasies or behaviors, it is plausible that
+loving the idea of being a woman, finding this comforting,
+and wanting to enact a woman’s role permanently may
+continue to be important ongoing manifestations of an
+autogynephilic orientation.
+
+Autogynephilia as a Motive for Seeking
+Sex Reassignment
+In addition to describing a sexual orientation and defining a
+transsexual typology, autogynephilia provides an implicit
+theory of motivation for the pursuit of sex reassignment
+by autogynephilic males: It suggests that they seek sex
+reassignment because they love (i.e., experience attraction,
+sexual arousal, and comfort from) the prospect of having
+bodies that resemble women’s bodies and living in the
+world as women (Lawrence, 2007). These MtF transsexuals
+undergo sex reassignment to actualize their autogynephilic
+fantasies. This explanation is no more remarkable than the
+explanation that men with fetishistic transvestism crossdress because they want to actualize their transvestic
+fantasies.
+Autogynephilia appears to give rise to the desire for sex
+reassignment gradually and indirectly, however, through
+the creation of cross-gender identities that are eventually
+associated with gender dysphoria and then provide most
+of the proximate motivation for the pursuit of sex reassignment. The cross-gender identities of autogynephilic MtF
+transsexuals are thus theorized to be secondary phenomena
+that develop incrementally after years of partial and
+complete cross-dressing in private, cross-dressing in public,
+and choosing a female name. Docter (1988) observed that
+in the nonandrophilic cross-dressing men he studied,
+including those who eventually sought sex reassignment:
+79% did not appear in public cross dressed prior to
+age 20; at that time, most of the subjects had already
+had several years of experience with cross dressing.
+The average number of years of practice with cross
+dressing prior to owning a full feminine outfit was
+15. The average number of years of practice with
+cross dressing prior to adoption of a feminine name
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+44
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+was 21. Again, we have factual evidence indicative of
+the considerable time required for the development
+of the cross-gender identity. (p. 209)
+The inability to actualize one’s cross-gender identity,
+including the inability to inhabit a body that is congruent
+with that identity, is experienced as gender dysphoria.
+Thus, autogynephilia can result in cross-gender identification and gender dysphoria in nonandrophilic men, and
+these phenomena can act as the principal proximate
+motivation for the pursuit of sex reassignment (Lawrence,
+2013).
+
+Further Evidence Supporting a MtF
+Transsexual Typology Based on Sexual
+Orientation
+Blanchard’s MtF transsexual typology, which distinguishes
+feminine androphilic MtFs from autogynephilic nonandrophilic MtFs, is also supported by anthropometric
+measurements, studies of gender-related behavior, and
+neuroanatomic studies. The available evidence suggests
+that androphilic MtFs are physically, behaviorally, and
+neuroanatomically feminized (or demasculinized), whereas
+this has not been shown for nonandrophilic MtFs, albeit the
+latter have been less frequently studied.
+In a study of 422 MtF transsexuals, Blanchard, Dickey,
+and Jones (1995) found that androphilic MtFs were significantly shorter than nontranssexual males and significantly
+shorter and lighter in weight than nonandrophilic MtFs,
+with the latter comparisons showing small-to-medium
+effect sizes. In a subsequent report involving only 113 MtFs,
+Smith et al. (2005) could not confirm the latter findings,
+but Lawrence (2010a) noted that this study was underpowered to find small-to-medium effect sizes significant.
+Smith et al. did observe, however, that androphilic MtFs
+had a more feminine appearance than nonandrophilic
+MtFs. Androphilic MtFs also report more childhood crossgender behavior than their nonandrophilic counterparts
+(Blanchard, 1988; Money & Gaskin, 1970–1971; Whitam,
+1987).
+In a comprehensive review of neuroanatomic findings in
+transsexualism, Guillamon, Junque, and Gómez-Gil (2016)
+observed that androphilic MtFs “show a distinctive brain
+morphology, reflecting a brain phenotype” (p. 1643)
+involving both feminized and demasculinized features.
+Limited data from nonandrophilic MtFs (Savic & Arver,
+2011), in contrast, revealed neither feminization nor
+demasculinization of the brain, but rather “morphological
+peculiarities in [cortical] regions in which male and female
+controls do not differ” (Guillamon et al., p. 1624).
+Guillamon et al. concluded that neuroanatomic differences
+European Psychologist (2017), 22(1), 39–54
+
+probably underlie the MtF transsexual typology suggested
+by Blanchard:
+The review of the available data seems to support
+two existing hypotheses: (1) a brain-restricted
+intersexuality in homosexual MtFs and FtMs and
+(2) Blanchard’s insight on the existence of two brain
+phenotypes
+that
+differentiate
+“homosexual”
+[androphilic] and “nonhomosexual” [nonandrophilic]
+MtFs. (p. 1643)
+
+Clinical Relevance of the Theory of
+Autogynephilia
+In addition to offering descriptive value, the theory of
+autogynephilia and its associated MtF transsexual typology
+also have significant relevance for clinical care. In particular, they can help clinicians achieve an empathetic
+understanding of their autogynephilic clients’ behaviors,
+choices, and associated psychopathology. Clinicians who
+recognize that the gender dysphoria of autogynephilic MtFs
+derives from their paraphilic sexual orientation can more
+easily understand why these clients “are likely to feel a
+powerful drive to enact their paraphilic desires (e.g., by
+undergoing sex reassignment), sometimes with little
+concern for possible consequences” (Lawrence, 2009,
+p. 198), which can include loss of employment, family,
+friends, and reputation. The concept of autogynephilic
+interpersonal fantasy can help make sense of the otherwise
+puzzling fact that gynephilic MtFs sometimes develop a
+newfound interest in male partners late in life. Clinicians
+who understand the concept of autogynephilia can better
+interpret the sometimes ambivalent reactions of
+nonandrophilic MtF transsexuals to feminizing hormone
+therapy: Hormones can induce desired physical changes
+and reduce ego-dystonic autogynephilic arousal, but they
+can also diminish the desire to pursue sex reassignment
+by blunting the autogynephilic sexual excitement that partly
+fuels this desire (Lawrence, 2013). Realizing the paraphilic
+etiology of nonandrophilic MtF transsexualism can sensitize
+clinicians to the possible presence of other comorbid
+paraphilias, some of which may be of greater relevance to
+the lives of their clients (Lawrence, 2009). Finally, with
+those MtF clients who recognize the paraphilic origin of
+their gender dysphoria, clinicians who are familiar with
+the concept of autogynephilia can provide more accurate
+information and can reassure their clients that
+autogynephilic MtF transsexualism is a recognized
+condition – one for which hormone therapy and sex
+reassignment can sometimes offer significant therapeutic
+benefit (Lawrence, 2013).
+Ó 2017 Hogrefe Publishing
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+The Controversy Surrounding
+Autogynephilia
+Blanchard’s concept of autogynephilia and the MtF
+transsexual typology associated with it received little critical
+attention until they were discussed in the book The Man
+Who Would Be Queen, a work of popular science by psychologist Bailey (2003). Bailey’s book ignited a firestorm of
+controversy, the history of which was reviewed by Dreger
+(2008).
+Both critics and defenders of autogynephilia have
+subsequently written extensively about the concept and its
+implications. Some criticisms of autogynephilia involve
+technical details that are too lengthy and complicated to
+address in a brief review. Many of the substantive criticisms
+of autogynephilia, however, can be presented and
+examined in a concise manner. These include:
+1. Although autogynephilia exists, it is of little genuine
+importance, either because it is widespread and unremarkable in natal women or because it is a predictable
+but trivial epiphenomenon of gender dysphoria.
+2. Although autogynephilia currently exists, it is a disappearing phenomenon that is likely to soon become
+extinct.
+3. Blanchard’s autogynephilia-based typology is descriptively inadequate: There are too many observed
+exceptions to its predictions.
+4. Although autogynephilia is theorized to be a paraphilia, it does not resemble most paraphilias, particularly
+because it persists despite pharmacologic treatments
+that reduce sex drive.
+5. Autogynephilia’s sexuality-based theory of motivation
+inappropriately emphasizes lust and ignores the
+importance of gender identity.
+6. Blanchard’s theory of autogynephilia contradicts the
+widely accepted idea that sexual orientation and
+gender identity are independent concepts.
+7. The theory of autogynephilia disrespects the identities
+of MtF transsexuals and perpetuates harmful stereotypes about them.
+
+Is Autogynephilia Ubiquitous in Natal
+Women or Merely an Epiphenomenon?
+Most critics of autogynephilia concede that the
+phenomenon exists (“No one disputes that autogynephilia
+exists or that it can explain the motivation of some MTFs;
+many MTFs readily admit that this construct describes their
+sexual interest and motivation”; Moser, 2010b, p. 791).
+A rare dissenter was Bettcher (2014), who appeared to take
+
+Ó 2017 Hogrefe Publishing
+
+45
+
+metaphoric descriptions of autogynephilia literally: She
+argued that ‘“attraction to oneself’ is literally impossible
+and, therefore, so is autogynephilia” (p. 606).
+But despite widespread agreement that autogynephilia
+exists, critics often dismiss it as unimportant. Many contend
+that natal women commonly experience autogynephilia,
+implying that autogynephilia therefore is a natural, nonpathological element of sexuality in women, including
+MtF transsexuals. Two studies (Moser, 2009; Veale, Clarke,
+& Lomax, 2008) have supposedly demonstrated the
+existence of autogynephilia in natal women; both have a
+superficial plausibility, especially if one does not examine
+their data closely.
+Veale et al. (2008) administered modified versions of
+Blanchard’s (1989b) Core Autogynephilia and Autogynephilic Interpersonal Fantasy scales to 127 natal female
+participants. On average, the participants endorsed several
+items on each scale. But interpretation of the results was
+complicated, because Veale et al. altered the wording of
+the items “to make them more applicable to biological
+females” (p. 589), modified the skip instructions of the original scales, and had to reclassify participants’ original ordinal responses as dichotomous because of misleading
+phrasing. Consequently, Veale et al. expressed significant
+reservations about their own results:
+Although a number of biological female participants
+endorsed items on the Core Autogynephilia and
+Autogynephilic Interpersonal Fantasy scales. . . it is
+unlikely that these biological females actually
+experience sexual attraction to oneself as a woman
+in the way that Blanchard conceptualized it. . . The
+scales used in this research were not sufficient for
+examining this. (p. 595)
+These reservations, however, have rarely if ever been
+acknowledged in scholarly critiques of Blanchard’s ideas.
+For example, neither Moser (2010b) nor Serano (2010)
+cited or referred to Veale et al.’s disclaimers.
+Moser (2009) reported the responses of 29 female
+hospital employees to his Female Autogynephilia Scale,
+which used items modified from scales originally devised
+by Blanchard (1985, 1989b) to measure autogynephilia
+and related traits (Lawrence, 2010b). About half of respondents reported at least occasional “autogynephilic” arousal.
+But Moser modified Blanchard’s original language on the
+advice of female colleagues and friends, to better
+investigate the specifics of their self-reported arousal or to
+provide “needed context” (Moser, 2010a, p. 694).
+Consequently, Moser’s modified items arguably did not
+adequately distinguish between being aroused by wearing
+sexy clothing or by imagining that a potential romantic
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+46
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+partner finds one attractive – which natal women apparently do experience – and being aroused simply by the idea
+that one is wearing women’s clothing or has a woman’s body
+– which natal women probably rarely if ever experience
+(Lawrence, 2010b). Moser (2009) conceded that “It is possible that autogynephilia among MTFs and natal women
+are different phenomena and the present inventories lack
+the sophistication to distinguish these differences”
+(p. 544). Lawrence (2010b) argued that this was probable,
+on the grounds that Moser’s items “fail[ed] to adequately
+assess the essential element of autogynephilia – sexual
+arousal simply to the thought of being a female” (p. 3).
+Another basis for declaring autogynephilia in MtF
+transsexuals to be unimportant is the claim that it is merely
+a temporary mechanism for coping with incongruence
+between one’s gender identity and sexed body characteristics: that is, that autogynephilia is an effect rather than a
+cause of gender dysphoria. Serano (2010) wrote:
+It makes sense that pretransition transsexuals (whose
+gender identity is discordant with their physical sex)
+might imagine themselves inhabiting the “right”
+body in their sexual fantasies and during their sexual
+experiences with other people. Indeed, critics of
+autogynephilia theory have argued that such sex
+embodiment fantasies appear to be an obvious coping
+mechanism for pretransition transsexuals. (p. 184)
+This argument does not explain, however, why MtF
+transsexuals often experience unintended or unwanted
+sexual arousal while wearing women’s clothing or why
+autogynephilic fantasies sometimes persist for years or
+decades after sex reassignment has corrected much of the
+incongruity between gender identity and physical sex
+(Lawrence, 2005, 2013). Cross-dressing and cross-gender
+behavior are associated with sexual arousal in both sexual
+and nonsexual contexts for many MtF transsexuals, both
+before and after sex reassignment – arguably because autogynephilia is their genuine, persistent sexual orientation.
+
+Is Autogynephilia a Disappearing
+Phenomenon That Will Soon Become
+Extinct?
+Nuttbrock et al. (2011) proposed an “important, albeit
+highly theoretical, hypothesis – that transvestic fetishism
+may be a historically fading phenomenon” (p. 256). Their
+conjecture derived from their study of transvestic fetishism
+– the most prevalent manifestation of autogynephilia – in a
+diverse group of transgender males, including a discrete
+subgroup of nonandrophilic cross-dressers. Because these
+cross-dressers, unlike most other participants, were
+European Psychologist (2017), 22(1), 39–54
+
+primarily older and white (Hwahng & Nuttbrock, 2007),
+Nuttbrock et al. found that transvestic fetishism was
+correlated with older age and white ethnicity as well as
+nonandrophilic orientation. Accordingly, Nuttbrock et al.
+argued that transvestic fetishism could theoretically be
+primarily a generational phenomenon, because among
+older white MtFs, “dressing in the female role was
+frequently a highly secretive and exotic phenomenon. . .
+[which] may largely account for the[ir] higher levels of
+transvestic fetishism” (p. 256). Nichols (2014) made a
+similar argument concerning autogynephilia generally,
+albeit without offering either evidence or explanation:
+“Autogynephilia is disappearing. . . Blanchard’s theory is
+not a description of an essentialist phenomenon but rather
+of a cultural one, a presentation of gender bound by time
+and place” (p. 72).
+Reports of the impending disappearance of autogynephilia, however, appear to be premature. Erotic crossdressing and other manifestations of autogynephilia have
+been documented for centuries, in both Western and
+non-Western cultures (Lawrence, 2013). Adolescents with
+transvestic fetishism continue to be referred for clinical
+evaluation in the twenty-first century (Zucker et al., 2012).
+Moreover, some MtF transsexuals who have completed sex
+reassignment and live publicly as women report that they
+continue to experience autogynephilic arousal (Lawrence,
+2005, 2013), suggesting that the secretive cross-dressing
+invoked by Nuttbrock et al. (2011) is not a prerequisite for
+such arousal. Concluding that autogynephilia is disappearing
+because it is more often reported by older MtF transgender
+persons makes as much sense as concluding that Alzheimer’s
+disease is disappearing because it is diagnosed primarily in
+older adults. Autogynephilia seems likely to remain a
+clinically important phenomenon for the foreseeable future.
+
+Is Blanchard’s Autogynephilia-Based
+Transsexual Typology Descriptively
+Inadequate?
+A consistent criticism of Blanchard’s autogynephilia-based
+transsexual typology is that it is descriptively inadequate:
+In the opinion of the critics, there are simply too many
+deviations from the predicted relationship between
+autogynephilia and sexual orientation. Moser (2010b)
+summarized the problem: “It appears that substantial
+minorities of homosexual [androphilic] MTFs are
+autogynephilic and non-homosexual [nonandrophilic]
+MTFs are not” (p. 795). As noted previously, all the studies
+presented in Table 1 found some deviations from the
+predicted association between autogynephilia and sexual
+orientation, although the overall statistical relationship
+was strong.
+Ó 2017 Hogrefe Publishing
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+The study by Veale et al. (2008), discussed previously,
+raised further questions about the descriptive accuracy of
+Blanchard’s typology. The authors divided their 169 MtF
+transsexual participants into “autogynephilic” and “nonautogynephilic” groups using hierarchical cluster analysis,
+based on participants’ responses to the same modified versions of Blanchard’s Core Autogynephilia and Autogynephilic Interpersonal Fantasy scales that the authors had
+used with their natal female participants, along with two
+other scales of less obvious relevance. Contrary to the predictions of Blanchard’s theory, Veale et al. found no significant
+differences in patterns of sexual orientation between the
+two transsexual groups. In yet another study that employed
+a similar methodology, Veale (2014) examined Blanchard’s
+two-category typology using a taxometric analysis of the
+responses of 308 MtF transsexuals on scales purportedly
+measuring aspects of autogynephilia, related elements of
+sexuality, and sexual orientation. Veale concluded that the
+structure of the data was dimensional rather than taxonic
+(i.e., that two distinct transsexual types could not be
+ascertained).
+Supporters of Blanchard’s typology have attributed such
+discrepancies from the theory’s predictions primarily to
+the recognized tendency of MtF transsexuals to underreport
+autogynephilic arousal and overreport androphilic orientation and secondarily to the probable contribution of comorbid mental illness to the etiology of gender dysphoria. They
+have also emphasized the limitations of Veale’s taxometric
+studies. Lawrence and Bailey (2009) criticized the methodology and the conclusions of Veale et al. (2008): They
+noted that the study’s sample size was too small for a valid
+taxometric analysis and that both transsexual groups displayed substantial autogynephilic arousal: “They are best
+described as the ‘autogynephilic’ and ‘even more autogynephilic’ groups” (p. 173). With regard to Veale's (2014) failure to confirm Blanchard’s typology, Lawrence (2014)
+argued that Veale had used poorly constructed measures,
+some of which were of dubious relevance, and had
+recruited too few genuinely androphilic MtF transsexuals
+for her study to be capable of demonstrating the taxonic
+structure that Blanchard’s theory predicted.
+Opponents of Blanchard’s theory have replied that such
+counterarguments effectively make Blanchard’s typology
+“unfalsifiable” (Winters, 2008, para. 6), because any
+departures from the theory’s predictions can simply be
+dismissed as attributable to misreporting, measurement
+errors, sampling problems, or psychiatric comorbidity.
+As Lawrence (2010a) noted, however, Blanchard’s typology
+is not in principle unfalsifiable: One can imagine more
+reliable methods of measuring sexual orientation and autogynephilic arousal (e.g., Rönspies et al., 2015) that could
+eliminate reliance on questionable self-report measures
+
+Ó 2017 Hogrefe Publishing
+
+47
+
+and contribute to the resolution of disputed issues. For the
+present, however, disagreements concerning the explanation of departures from the predictions of Blanchard’s
+autogynephilia-based typology remain unresolved.
+
+If Autogynephilia Is a Paraphilia, Why
+Doesn’t it Resemble Other Paraphilias?
+Moser (2010b) claimed that autogynephilia is unlikely to be
+a paraphilia because in MtF transsexuals with autogynephilia, the wish for sex reassignment usually persists despite
+hormone treatments that reduce testosterone and male
+sex drive:
+If the impetus for gender transition is a paraphilia
+(autogynephilia), then reduction of the sex interest
+should decrease the desire for the transition. . .
+Estrogen acts to decrease testosterone levels. . . often
+to the undetectable range. The result is often
+decreased sexual interest, as expected, but. . . most
+MTFs report their drive for gender transition is
+unabated. (pp. 799–800)
+A reduction in the drive for gender transition, however, is
+actually not uncommon following the initiation of feminizing hormone therapy: The associated reduction in sex drive
+is sometimes accompanied by disappearance of the desire
+to pursue sex reassignment. Sometimes the cycle of starting
+hormones, losing the desire to transition, stopping
+hormones, and then experiencing a resurgence of the desire
+to transition occurs repeatedly in the same patient
+(Lawrence, 2013, pp. 150–151).
+Yet in many cases the desire to transition clearly does
+persist, just as Moser (2010b) described. As noted
+previously, autogynephilia is a sexual orientation, encompassing elements of attraction, idealization, and attachment
+as well as erotic desire; the former elements can provide
+continuing motivation to pursue gender transition, despite
+a decline in sex drive. Moreover, autogynephilic arousal
+in MtF transsexuals is sometimes unwanted (Blanchard &
+Clemmensen, 1988) and ego-dystonic (Lawrence, 2004,
+2013), because autogynephilic arousal can seem inconsistent with one’s feminine gender identity. These factors help
+explain the persistence of the desire for sex reassignment in
+MtF transsexuals who experience hormone-induced reductions in sex drive. Moser expressed skepticism about parts
+of this explanation, suggesting (without citing evidence)
+that “ego-dystonic paraphilic arousal is not a common
+problem motivating individuals with traditional paraphilias
+to seek professional help” (p. 800). Even if Moser were
+correct, however, autogynephilia may simply be unlike
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+48
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+most traditional paraphilias, in part because it has such
+powerful implications for identity.
+One piece of evidence suggesting that autogynephilia is
+indeed a paraphilia is the increased comorbidity of other
+paraphilias, especially sexual masochism, observed in MtF
+transsexuals who are primarily nonandrophilic (Bolin,
+1988; Walworth, 1997) and in males with transvestitic
+fetishism (Gosselin & Wilson, 1980). Paraphilias tend to
+cluster or co-occur, and having one paraphilia makes it
+much more likely that a person will also have one or more
+other paraphilias (Abel & Osborn, 1992). The fact that
+other paraphilias often accompany autogynephilia is
+consistent with the idea that autogynephilia is also a
+paraphilia.
+
+Does Autogynephilia’s Theory of
+Motivation Overemphasize Lust and Ignore
+Gender Identity?
+Critics sometimes object that the theory of autogynephilia understands the motivation of autogynephilic
+MtF transsexuals exclusively in terms of lust and
+assumes autogynephilic sexual arousal to be the sole
+proximate cause of the desire for sex reassignment, ignoring the importance of gender identity. Here are two
+examples:
+[Bailey, 2003, argued that autogynephilic] heterosexual men. . . changed gender so they could lust after
+their now female bodies. The idea that any of them
+were changing to seek an identity that would enable
+them to feel better about themselves was simply
+not an option. (Bancroft, 2008, p. 426)
+Lawrence (2004) suggests that sexual motivation
+(autogynephilia) explains why successful men in
+masculine professions choose to become women. . .
+Sexual motivation for SRS seems more unlikely as
+men age. . . Yet, older, often autogynephilic, MTFs
+continue to pursue SRS. (Moser, 2010b, p. 805)
+These descriptions are oversimplifications of Blanchard’s
+theory. Autogynephilia is indeed a sexual phenomenon,
+but it is not merely a lusty phenomenon; it encompasses
+other elements of sexual orientation, including attraction,
+admiration, and attachment (Blanchard, 1991, 1993;
+Lawrence, 2007, 2013). Moreover, autogynephilia in MtF
+transsexuals eventually gives rise to cross-gender identities
+and gender dysphoria, and these, not lust, provide most of
+the proximate motivation for the pursuit of sex reassignment in most cases (Lawrence, 2013).
+
+European Psychologist (2017), 22(1), 39–54
+
+Do Blanchard’s Ideas Contradict the
+Independence of Sexual Orientation
+and Gender Identity?
+Some commentators have claimed that Blanchard’s theory
+of autogynephilia is inconsistent with the belief – supposedly widely held by both sexual scientists and members
+of the transgender movement – that gender identity and
+sexual orientation are separate and distinct concepts or
+dimensions:
+[Blanchard’s theory proposes that] autogynephilia,
+sexual orientation, and gender identity are interrelated and interdependent in MTFs. . . By connecting
+both gender identity and sexual orientation,
+[Blanchard’s autogynephilia theory] connects two
+distinct concepts in sexology usually thought of as
+independent. (Moser, 2010b, p. 791)
+[Blanchard’s] findings have sociopolitical implications far beyond scientific circles because they
+directly contradict basic tenets of the worldwide
+transgender movement: sex and gender are deemed
+to be separate, socially constructed dimensions of
+personal identity characterized by individual
+variation and social diversity. (Nuttbrock et al.,
+2011, p. 249)
+It may indeed be useful at times to think of gender identity
+and sexual orientation as distinct conceptual entities. But as
+measurable clinical phenomena, these entities are not
+statistically independent in MtF transsexuals. Rather, there
+is a strong statistical association between nonandrophilic
+sexual orientation and the autogynephilic variety of MtF
+transsexualism and transgenderism, with a mean effect size
+of .58, based on the data in Table 1. There are also
+plausible, albeit still controversial, explanations for the
+small but consistently observed deviations from
+Blanchard’s theorized association between sexual orientation and autogynephilia.
+Notwithstanding the descriptive power of Blanchard’s
+theory, Serano (2010) outlined a supposed alternative
+model that she considered more satisfactory:
+A more nuanced view [is] the gender variance model,
+which holds that gender identity, gender expression,
+sexual orientation, and physical sex are largely separable traits that may tend to correlate in the general
+population but do not all necessarily align in the same
+direction within any given individual. . . If autogynephilia is to be taken seriously as a theory, it should
+explain the observed differences in MtF transsexuals
+
+Ó 2017 Hogrefe Publishing
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+at least as well as (if not better than) the gender variance model. (p. 179)
+It is not clear, however, that Serano’s gender variance
+model differs much from Blanchard’s model. Blanchard,
+too, proposed that autogynephilia and nonandrophilic
+orientation tend to correlate – very highly – in MtF
+transsexuals, but he also acknowledged that these
+characteristics do not always align exactly as his theory predicts. Some observed misalignments are plausibly attributable to inaccurate reporting of autogynephilic arousal or
+sexual orientation; others probably reflect the influence of
+comorbid psychopathology. Because Serano never offered
+details of the correlations she alluded to or explanations
+for potential deviations from them, it would seem that
+any observed relationship between gender identity, gender
+expression, sexual orientation, anatomic sex, and
+autogynephilia – or none at all – would be consistent with
+her model. Serano’s gender variance model therefore has
+no real predictive value and is unfalsifiable.
+
+Does the Theory of Autogynephilia
+Disrespect the Identities of MtF
+Transsexuals or Perpetuate Harmful
+Stereotypes About Them?
+These allegations constitute the most prevalent objections
+to Blanchard’s ideas, and they are issues about which many
+critics of autogynephilia are full of passionate intensity.
+Serano (2009) declared that “the overwhelming majority
+of trans women feel that autogynephilia theory is not
+merely ‘wrong,’ but oppressive and invalidating” (p. 13).
+Her claim, however, was probably overstated: A survey
+conducted by Veale, Clarke, and Lomax (2011) found that
+only a bare majority – 52% – of MtF transsexuals expressed
+negative opinions about Blanchard’s theory of autogynephilia, whereas 32% and 16%, respectively, expressed
+neutral or positive opinions.
+One widespread criticism of the theory of autogynephilia
+is that it disrespects the identities of MtF transsexuals.
+The terminology associated with the theory has been a
+particular source of contention:
+Many transgender activists and advocates feel that
+autogynephilia theory (and the terminology associated with it) is not merely incorrect, but unnecessarily
+stigmatizing. . . The theory conceptualizes and
+describes transsexual women as either homosexual
+or autogynephilic men, thus undermining their female
+gender identities and lived experiences as women.
+(Serano, 2010, pp. 184–185)
+
+Ó 2017 Hogrefe Publishing
+
+49
+
+Homosexual MTFs often self-identify as heterosexual
+females, thus, the use of the term homosexual can
+appear inaccurate and disrespectful (contradicting
+their self-identity). Similarly, non-homosexual MTFs
+may self-identify as lesbians; and again, the term
+can appear inaccurate and disrespectful. It may be
+more accurate and sensitive to define the sexual
+interests of MTFs as androphilic, gynephilic, bi-philic,
+[etc.]. (Moser, 2010b, pp. 792–793)
+Moser’s recommended terminology is both concise and
+unambiguous when it is applied to transsexuals of only
+one gender category (MtFs or FtMs), as in this article.
+Critics have also taken exception to the observation that
+MtF transsexuals sometimes lie about or deliberately
+misrepresent their autogynephilic interests or sexual
+orientations:
+Some proponents of [Blanchard’s theory] have
+asserted that non-homosexual MTFs who do not
+report autogynephilia are “autogynephiles in denial”
+and that homosexual MTFs who report autogynephilia are mistaken. Invalidating the experiences
+of those MTFs on the basis of our current level of
+knowledge is inappropriate, disrespectful, and
+possibly detrimental to individual [sic]. (Moser,
+2010b, p. 806)
+There are lesbian, bisexual and asexual trans women
+who have never experienced crossgender arousal,
+and there are heterosexual [i.e., androphilic] trans
+women who have. In his writings, Blanchard
+routinely mischaracterizes the first group as autogynephiles who are lying about not having experienced
+crossgender arousal, and the second group as
+autogynephiles who are lying about their sexual
+orientation. (Serano, 2009, p. 14)
+More than a few MtF transsexuals, however, have admitted
+to lying about their sexual orientations or about autogynephilic arousal (Blanchard et al., 1985; Lawrence, 2013;
+Walworth, 1997). As noted earlier, Cohen-Kettenis and
+Pfäfflin (2010) argued that misrepresentation of sexual
+orientation by transsexuals was so prevalent that typologies
+based on sexual orientation had become unreliable.
+Because the theory of autogynephilia understands some
+forms of MtF transsexualism to derive from a paraphilic
+sexual interest, some critics contend that the theory leads
+to guilt by association with other paraphilic phenomenon:
+Blanchard and collaborators have grouped “autogynephilia” ([in] lesbian, bisexual and asexual transwomen) with pedophilia, fetishism and even
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+50
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+apotemnophilia (desire for limb amputation). . . This
+reinforces some of the most stigmatizing and dehumanizing false stereotypes that transsexual women
+bear in society. (Winters, 2008, para. 7)
+The theory is extremely pathologizing, especially for
+those transsexual women who are classified as autogynephiles and, thus, lumped into a psychiatric category (paraphilia) that includes several criminal sexual
+offenses (e.g., pedophilia, frotteurism, and exhibitionism) as well as other. . . stigmatized sexual behaviors.
+(Serano, 2010, p. 185)
+These arguments reflect a willingness to accept rather than
+dispute popular misconceptions that persons who experience paraphilic sexual interests are always mentally
+disordered, less than fully human, or invariably guilty of
+criminal behavior. Paraphilic sexual interests are not considered mental disorders unless they are associated with
+significant distress or disability (APA, 2013), and paraphilic
+interests such as pedophilia, frotteurism, and exhibitionism
+do not constitute criminal offenses unless acted upon. It is
+difficult to understand why some critics of Blanchard’s
+ideas seem so willing to tacitly accept the stigmatization
+of unusual sexual interests in their attempts to discredit
+his theory.
+Going farther still, some critics contend that Blanchard’s
+theory delegitimizes, maligns, or humiliates MtF
+transsexuals:
+“Autogynephilia” implies that all lesbian and bi[sexual] transwomen are motivated to transition primarily by sexual paraphilia or deviance, undermining
+their legitimacy and dignity as women. “Autogynephilia” denies that transwomen. . . possess an inner
+feminine gender identity or “essence”. (Winters,
+2008, para. 10)
+[By advancing Blanchard’s theory, Bailey, 2003]
+invalidate[d] the lived experiences and identities of
+an entire group of oppressed people about whom he
+[had] no first-order knowledge. . . In doing so, he maligned and humiliated an entire group of oppressed
+people, notwithstanding the few self-identified autogynephiles who agreed with his views. (Mathy,
+2008, p. 464)
+The claim that the theory of autogynephilia “invalidates”
+(Mathy, 2008; Moser, 2010b; Serano, 2009) or “undermines” (Serano, 2010; Winters, 2008) the identities of some
+MtF transsexuals seems untenable. Admittedly, the theory
+is inconsistent with the identities of some MtF transsexuals,
+but it is not clear how the theory invalidates or undermines
+European Psychologist (2017), 22(1), 39–54
+
+those identities in any meaningful sense: The persons in
+question remain free to assert whatever identities they wish.
+Identities that are rendered invalid if not affirmed without
+exception by others would seem to be tenuous at best.
+The notion that scholars have an ethical duty to validate
+or endorse the identities of all MtF transsexuals (assuming
+they can know what these identities are), even at the cost of
+rejecting a scientific theory they consider accurate and useful, seems intellectually indefensible.
+Veale (2015) recently made even more sweeping claims.
+Criticizing research on autogynephilia by Hsu, Rosenthal,
+and Bailey (2015), Veale asserted an “ethical obligations
+that researchers have when conducting research on
+marginalized and vulnerable groups to ensure that their
+findings are not misrepresented or misused in a way that
+can cause harm to the group being researched” (p. 1745).
+Ensuring that one’s findings could never be misrepresented
+or misused would seemingly require researchers to possess
+superhuman abilities to read the minds and predict the
+intentions of other people, including those not yet born;
+but that is what Veale apparently demanded.
+One could argue that describing autogynephilic MtF
+transsexuals as males who choose to undergo sex reassignment in order to effectively address their paraphilic sexual
+orientation portrays them as courageous and determined,
+not as dishonorable or morally suspect (Lawrence, 2013).
+Moreover, some MtF transsexuals freely admit to
+experiencing autogynephilia or identify as autogynephilic
+(Moser, 2010b); from their perspective, the idea that there
+is something invalidating about being described as an
+autogynephilic transsexual probably feels transphobic.
+
+Implications of the Autogynephilia
+Controversy for Diagnosis,
+Treatment, and Research
+Arguably the most significant consequences of the
+controversy about autogynephilia and its associated transsexual typology have been ongoing efforts to reduce or
+eliminate discussion of these topics in diagnostic nosologies, clinical treatment guidelines, and research reports.
+For example, the term autogynephilia, which had appeared
+in the discussion of GID in the DSM-IV-TR (APA, 2000,
+p. 578), was eliminated from the discussion of Gender
+Dysphoria in DSM-5 (APA, 2013). Specifiers based on sexual orientation, which had been part of the diagnoses of
+Transsexualism and GID in every edition of the DSM since
+1980, were also removed from the DSM-5. Winters, a
+transgender activist, had recommended that the term
+autogynephilia be eliminated, arguing that, “It serves no
+Ó 2017 Hogrefe Publishing
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+constructive purpose in an evidence-based diagnostic
+nosology. I strongly urge the American Psychiatric
+Association to remove this offensive term from the
+supporting text of the GID diagnosis. . . in the DSM-V.”
+(Winters, 2008, para. 11). Her recommendation was
+adopted for the DSM-5 diagnosis of Gender Dysphoria.
+Cohen-Kettenis and Pfäfflin (2010), writing on behalf of
+the DSM-5 GID Subworkgroup (Zucker et al., 2013),
+contended that the use of specifiers based on sexual
+orientation in the DSM-IV (APA, 1994) and DSM-IV-TR
+(APA, 2000) was “largely based on the work of Blanchard
+and colleagues (e.g., Blanchard, 1989b; Blanchard, Clemmensen, & Steiner, 1987)” (p. 507). Their contention was
+historically inaccurate, given that identical specifiers had
+been part of the DSM since 1980. Nevertheless, this assertion gave Cohen-Kettenis and Pfäfflin additional grounds
+for advocating elimination of subtypes based on sexual
+orientation from the DSM-5:
+In the transgender community, there is strong resistance against subtyping on the basis of sexual orientation and activity and even against having to give
+this information for scientific purposes only. The
+term autogynephilia, which is used for one subtype,
+is considered highly offensive by some (e.g., Winters,
+2008). (p. 508)
+The fact that Cohen-Kettenis and Pfäfflin cited
+Winters (2008) suggests that complying with the demands
+of transgender activists by suppressing references
+to Blanchard’s ideas in the DSM-5 was clearly on their
+minds.
+Similarly, when the World Professional Association for
+Transgender Health issued the most recent edition of its
+Standards of Care for the Health of Transsexual, Transgender,
+and Gender-Nonconforming People (Coleman et al., 2011),
+autogynephilia and typologies based on sexual orientation
+were never mentioned, even though some MtF transsexuals
+were known to identify as autogynephilic (e.g., Lawrence,
+2009; Moser, 2010b), and typologies based on sexual orientation were recognized as having significant descriptive,
+predictive, and heuristic value (Lawrence, 2010a; Zucker
+et al., 2013). As Zucker, Lawrence, and Kreukels (2016)
+subsequently observed:
+In the seventh revision to the Standards of Care. . .
+terms such as sexual orientation, transvestic fetishism, and autogynephilia are never mentioned. We
+would argue that this reflects a kind of intellectual
+erasure in the discourse on phenomenology, which
+may inadvertently (or, perhaps, intentionally) obscure
+the importance of these parameters with regard to
+
+Ó 2017 Hogrefe Publishing
+
+51
+
+theoretical issues, empirical research on causal
+mechanisms, and therapeutic care. (p. 221)
+A similar pattern of erasure of information about sexual
+orientation in MtF transsexuals and other gender dysphoric
+males has occurred in recent publications from the
+European Network for the Investigation of Gender
+Incongruence (ENIGI; Kreukels et al., 2012). In an early
+ENIGI article discussed previously, Nieder et al. (2011)
+compared MtF transsexuals’ self-reported sexual orientation data with ratings by treating clinicians, observing that
+“self-report and clinician’s report data appeared to be quite
+incongruent. With a negative Cohen’s kappa (κ = 0.39),
+the [MtF] participants’ and clinicians’ ratings. . . largely
+disagreed” (p. 787). There would seem to be obvious value
+in continuing to report clinicians’ ratings of sexual
+orientation, including the possibility of comparing
+correlations between clinical variables of interest and
+clinician-rated (versus self-reported) sexual orientation.
+However, subsequent ENIGI publications that have
+addressed sexual orientation in gender dysphoric males
+(e.g., Becker et al., 2016; Cerwenka et al., 2014; van de
+Grift et al., 2016) have presented no detailed clinician-rated
+sexual orientation data, although van de Grift et al. reported
+the correlation between clinician-rated and self-reported
+sexual orientation for their combined group of MtF and
+FtM participants (pp. 577–578), suggesting that clinicians’
+ratings were still being collected as of 2012. If analyzed
+and published, clinician-rated sexual orientation data might
+confirm Lawrence’s (2010a) conclusion that transsexual
+typologies based on sexual orientation are superior to the
+age of onset-based typologies that many ENIGI researchers
+seem to favor. Perhaps this partly explains why the ENIGI
+clinician-rated data remain unpublished. Meanwhile, the
+ENIGI researchers have sometimes concluded that
+typologies based on sexual orientation have superior
+predictive value (e.g., van de Grift et al., 2016, p. 581), even
+when these rely on potentially inaccurate self-report data.
+
+The Future of a Controversial
+Theory and Typology
+Notwithstanding the controversy surrounding the theory of
+autogynephilia and recent attempts to deemphasize or
+eliminate discussion of autogynephilia and its associated
+transsexual typology in diagnostic nomenclatures, clinical
+guidelines, and research reports, some scholarly discourse
+and scientific investigation concerning these topics has
+continued. A few researchers (e.g., Hsu et al., 2015) have
+persisted in studying autogynephilia, albeit not in the
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+52
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+clinical populations where their findings would be of greatest relevance. Meanwhile, the descriptive and clinical value
+of Blanchard’s theory remains undiminished by the
+controversy: Like Darwin’s theory of evolution and similar
+disputed ideas, the theory of autogynephilia continues to
+be useful to researchers and clinicians despite its failure
+to achieve universal acceptance.
+Perhaps the future development of innovative
+methodologies for accurately assessing autogynephilic
+arousal and sexual orientation will eventually resolve many
+current disagreements. Until that time, autogynephilia and
+its associated sexual orientation-based typology of MtF
+transsexualism are likely to remain important but
+controversial topics.
+
+References
+á Campo, J., Nijman, H., Merckelbach, H., & Evers, C. (2003).
+Psychiatric comorbidity of gender identity disorders: A survey
+among Dutch psychiatrists. The American Journal of Psychiatry,
+160, 1332–1336. doi: 10.1176/appi.ajp.160.7.1332
+Abel, G. G., & Osborn, C. (1992). The paraphilias. The extent and
+nature of sexually deviant and criminal behavior. The Psychiatric Clinics of North America, 15, 675–687.
+American Psychiatric Association. (1980). Diagnostic and statistical manual of mental disorders (3rd ed.). Washington, DC:
+Author.
+American Psychiatric Association. (1987). Diagnostic and statistical manual of mental disorders (3rd ed., revised). Washington,
+DC: Author.
+American Psychiatric Association. (1994). Diagnostic and statistical manual of mental disorders (4th ed.). Washington, DC:
+Author.
+American Psychiatric Association. (2000). Diagnostic and statistical manual of mental disorders (4th ed., text revision).
+Washington, DC: Author.
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th ed.). Arlington, VA: Author.
+Bailey, J. M. (2003). The man who would be queen: The science of
+gender-bending and transsexualism. Washington, DC: Joseph
+Henry Press.
+Bancroft, J. (2008). Lust or identity? [Commentary]. Archives of
+Sexual Behavior, 37, 426–428. doi: 10.1007/s10508-008-9317-1
+Benjamin, H. (1966). The transsexual phenomenon. New York, NY:
+Julian Press.
+Becker, I., Nieder, T. O., Cerwenka, S., Briken, P., Kreukels, B. P.,
+Cohen-Kettenis, P. T., . . . Richter-Appelt, H. (2016). Body image
+in young gender dysphoric adults: A European multi-center
+study. Archives of Sexual Behavior, 45, 559–574. doi: 10.1007/
+s10508-015-0527-z
+Bettcher, T. M. (2014). When selves have sex: What the
+phenomenology of trans sexuality can teach us about
+sexual orientation. Journal of Homosexuality, 61, 605–620.
+doi: 10.1080/00918369.2014.865472
+Blanchard, R. (1985). Typology of male-to-female transsexualism.
+Archives of Sexual Behavior, 14, 247–261.
+Blanchard, R. (1988). Nonhomosexual gender dysphoria. Journal
+of Sex Research, 24, 188–193.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18,
+315–334.
+
+European Psychologist (2017), 22(1), 39–54
+
+Blanchard, R. (1989b). The concept of autogynephilia and the
+typology of male gender dysphoria. The Journal of Nervous and
+Mental Disease, 177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies
+of autogynephilia. Journal of Sex & Marital Therapy, 17,
+235–251.
+Blanchard, R. (1993). Partial versus complete autogynephilia and
+gender dysphoria. Journal of Sex & Marital Therapy, 19,
+301–307.
+Blanchard, R. (2005). Early history of the concept of autogynephilia. Archives of Sexual Behavior, 34, 439–446. doi: 10.1007/
+s10508-005-4343-8
+Blanchard, R., & Clemmensen, L. H. (1988). A test of the
+DSM-III-R’s implicit assumption that fetishistic arousal and
+gender dysphoria are mutually exclusive. Journal of Sex
+Research, 25, 426–432.
+Blanchard, R., Clemmensen, L. H., & Steiner, B. W. (1985). Social
+desirability response set and systematic distortion in the selfreport of adult male gender patients. Archives of Sexual
+Behavior, 14, 505–516.
+Blanchard, R., Clemmensen, L. H., & Steiner, B. W. (1987).
+Heterosexual and homosexual gender dysphoria. Archives of
+Sexual Behavior, 16, 139–152.
+Blanchard, R., Dickey, R., & Jones, C. L. (1995). Comparison of
+height and weight in homosexual vs. nonhomosexual male
+gender dysphorics. Archives of Sexual Behavior, 24, 543–554.
+Blanchard, R., Racansky, I. G., & Steiner, B. W. (1986).
+Phallometric detection of fetishistic arousal in heterosexual
+male cross-dressers. Journal of Sex Research, 22, 452–462.
+Blanchard, R., Steiner, B. W., & Clemmensen, L. H. (1985). Gender
+dysphoria, gender reorientation, and the clinical management
+of transsexualism. Journal of Consulting and Clinical
+Psychology, 53, 295–304.
+Bolin, A. (1988). In search of Eve: Transsexual rites of passage.
+New York, NY: Bergin & Garvey.
+Brown, G. R., & Jones, K. T. (2016). Mental health and medical
+health disparities in 5135 transgender veterans receiving
+healthcare in the Veterans Health Administration: A casecontrol study. LGBT Health, 3, 122–131. doi: 10.1089/lgbt.
+2015.0058
+Cerwenka, S., Nieder, T. O., Briken, P., Cohen-Kettenis, P. T., De
+Cuypere, G., Haraldsen, I. R. H., . . . Richter-Appelt, H. (2014).
+Intimate partnerships and sexual health in gender-dysphoric
+individuals before the start of medical treatment. International
+Journal of Sexual Health, 26, 52–65. doi: 10.1080/19317611.
+2013.829153
+Cohen-Kettenis, P. T., & Pfäfflin, F. (2010). The DSM diagnostic
+criteria for gender identity disorder in adolescents and adults.
+Archives of Sexual Behavior, 39, 499–513. doi: 10.1007/s10508009-9562-y
+Coleman, E., Bockting, W., Botzer, M., Cohen-Kettenis, P.,
+De Cuypere, G., Feldman, J., . . . Zucker, K. (2011). Standards
+of care for the health of transsexual, transgender, and gendernonconforming people, version 7. International Journal of
+Transgenderism, 13, 165–232. doi: 10.1080/15532739.2011.
+700873
+Diamond, L. M. (2003). What does sexual orientation orient? A
+biobehavioral model distinguishing romantic love and sexual
+desire. Psychological Review, 110, 173–192. doi: 10.1037/0033295X.110.1.173
+Docter, R. F. (1988). Transvestites and transsexuals: Toward a
+theory of cross-gender behavior. New York, NY: Plenum Press.
+Dreger, A. (2008). The controversy surrounding The Man Who
+Would Be Queen: A case history of the politics of science,
+identity, and sex in the Internet age. Archives of Sexual
+Behavior, 37, 366–421. doi: 10.1007/s10508-007-9301-1
+
+Ó 2017 Hogrefe Publishing
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+Freund, K., Steiner, B. W., & Chan, S. (1982). Two types of crossgender identity. Archives of Sexual Behavior, 11, 47–63.
+Gosselin, C., & Wilson, G. (1980). Sexual variations: Fetishism,
+sadomasochism, transvestism. New York, NY: Simon and
+Schuster.
+Guillamon, A., Junque, C., & Gómez-Gil, E. (2016). A review of the
+status of brain structure research in transsexualism. Archives
+of Sexual Behavior, 45, 1615–1648. doi: 10.1007/s10508-0160768-5
+Hsu, K. J., Rosenthal, A. M., & Bailey, J. M. (2015). The
+psychometric structure of items assessing autogynephilia.
+Archives of Sexual Behavior, 44, 1301–1312. doi: 10.1007/
+s10508-014-0397-9
+Hwahng, S. J., & Nuttbrock, L. (2007). Sex workers, fem queens,
+and cross-dressers: Differential marginalizations and HIV
+vulnerabilities among three ethnocultural male-to-female
+transgender communities in New York City. Sex Research &
+Social Policy, 4, 36–59.
+Kreukels, B. P., Haraldsen, I. R., De Cuypere, G., Richter-Appelt,
+H., Gijs, L., & Cohen-Kettenis, P. T. (2012). A European network
+for the investigation of gender incongruence: The ENIGI initiative. European Psychiatry, 27, 445–450. doi: 10.1016/j.eurpsy.
+2010.04.009
+Lawrence, A. A. (2004). Autogynephilia: A paraphilic model
+of gender identity disorder. Journal of Gay & Lesbian
+Psychotherapy, 8(1/2), 69–87. doi: 10.1300/J236v08n01_06
+Lawrence, A. A. (2005). Sexuality before and after male-to-female
+sex reassignment surgery. Archives of Sexual Behavior, 34,
+147–166. doi: 10.1007/s10508-005-1793-y
+Lawrence, A. A. (2007). Becoming what we love: Autogynephilic
+transsexualism conceptualized as an expression of romantic
+love. Perspectives in Biology and Medicine, 50, 506–520.
+Lawrence, A. A. (2009). Transgenderism in nonhomosexual males
+as a paraphilic phenomenon: Implications for case conceptualization and treatment. Sexual and Relationship Therapy, 24,
+188–206. doi: 10.1080/14681990902937340
+Lawrence, A. A. (2010a). Sexual orientation versus age of onset as
+bases for typologies (subtypes) of gender identity disorder in
+adolescents and adults. Archives of Sexual Behavior, 39,
+514–545. doi: 10.1007/s10508-009-9594-3
+Lawrence, A. A. (2010b). Something resembling autogynephilia in women: Comment on Moser (2009) [Letter to the
+Editor]. Journal of Homosexuality, 57, 1–4. doi: 10.1080/
+00918360903445749
+Lawrence, A. A. (2011). Autogynephilia: An underappreciated
+paraphilia. Advances in Psychosomatic Medicine, 31, 135–148.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. New York, NY: Springer.
+Lawrence, A. A. (2014). Veale’s (2014) critique of Blanchard’s
+typology was invalid [Commentary]. Archives of Sexual
+Behavior, 43, 1679–1683. doi: 10.1007/s10508-014-0383-2
+Lawrence, A. A., & Bailey, J. M. (2009). Transsexual groups in
+Veale et al. (2008) are “autogynephilic” and “even more
+autogynephilic” [Letter to the editor]. Archives of Sexual
+Behavior, 38, 173–175. doi: 10.1007/s10508-008-9431-0
+Lukianowicz, N. (1959). Survey of various aspects of transvestism
+in the light of our present knowledge. The Journal of Nervous
+and Mental Disease, 128, 36–64.
+Mathy, R. M. (2008). Cowboys, sheepherders, and The Man Who
+Would Be Queen: “I know” vs. first-order lived experience
+[Commentary]. Archives of Sexual Behavior, 37, 462–465.
+doi: 10.1007/s10508-008-9335-z
+Money, J., & Gaskin, R. J. (1970–1971). Sex reassignment.
+International Journal of Psychiatry, 9, 249–269.
+Moser, C. (2009). Autogynephilia in women. Journal of Homosexuality, 56, 539–547. doi: 10.1080/00918360903005212
+
+Ó 2017 Hogrefe Publishing
+
+53
+
+Moser, C. (2010a). A rejoinder to Lawrence (2010): It helps if you
+compare the correct items [Letter to the editor]. Journal of
+Homosexuality, 57, 693–696. doi: 10.1080/00918369.2010.
+485859
+Moser, C. (2010b). Blanchard’s autogynephilia theory: A critique.
+Journal of Homosexuality, 57, 790–809. doi: 10.1080/00918369.
+2010.486241
+Nichols, M. (2014). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism, by Anne Lawrence [Book
+review]. Journal of Sex & Marital Therapy, 40, 71–73.
+doi: 10.1080/0092623X.2013.854559
+Nieder, T. O., Herff, M., Cerwenka, S., Preuss, W. F.,
+Cohen-Kettenis, P. T., De Cuypere, G., . . . Richter-Appelt, H.
+(2011). Age of onset and sexual orientation in transsexual
+males and females. The Journal of Sexual Medicine, 8,
+783–791. doi: 10.1111/j.1743-6109.2010.02142.x
+Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum,
+A., Macri, M., & Becker, J. (2011). A further assessment of
+Blanchard’s typology of homosexual versus non-homosexual or
+autogynephilic gender dysphoria. Archives of Sexual Behavior,
+40, 247–257. doi: 10.1007/s10508-009-9579-2
+Ovesey, L., & Person, E. (1976). Transvestism: A disorder of the
+sense of self. International Journal of Psychoanalytic
+Psychotherapy, 5, 219–236.
+Rönspies, J., Schmidt, A. F., Melnikova, A., Krumova, R., Zolfagari, A.,
+& Banse, R. (2015). Indirect measurement of sexual orientation:
+Comparison of the implicit relational assessment procedure,
+viewing time, and choice reaction time tasks. Archives of Sexual
+Behavior, 44, 1483–1492. doi: 10.1007/s10508-014-0473-1
+Savic, I., & Arver, S. (2011). Sex dimorphism of the brain in
+male-to-female transsexuals. Cerebral Cortex, 21, 2525–2533.
+doi: 10.1093/cercor/bhr032
+Serano, J. M. (2009, June). Psychology, sexualization and transinvalidations . Paper presented at the 8th Annual Philadelphia
+Trans-Health Conference, Philadelphia, PA. Retrieved from
+http://www.juliaserano.com/av/Serano-TransInvalidations.pdf
+Serano, J. M. (2010). The case against autogynephilia. International Journal of Transgenderism, 12, 176–187. doi: 10.1080/
+15532739.2010.514223
+Smith, Y. L. S., van Goozen, S. H. M., Kuiper, A. J., &
+Cohen-Kettenis, P. T. (2005). Transsexual subtypes: Clinical
+and theoretical significance. Psychiatry Research, 137,
+151–160. doi: 10.1016/j.psychres.2005.01.008
+Stoller, R. J. (1968). Sex and gender: On the development of
+masculinity and femininity. New York, NY: Science House.
+van de Grift, T. C., Cohen-Kettenis, P. T., Steensma, T. D.,
+De Cuypere, G., Richter-Appelt, H., Haraldsen, I. R., . . .
+Kreukels, B. P. (2016). Body satisfaction and physical appearance in gender dysphoria. Archives of Sexual Behavior, 45,
+575–585. doi: 10.1007/s10508-015-0614-1
+Veale, J. F. (2014). Evidence against a typology: A taxometric
+analysis of the sexuality of male-to-female transsexuals.
+Archives of Sexual Behavior, 43, 1177–1186. doi: 10.1007/
+s10508-014-0275-5
+Veale, J. F. (2015). Comments on ethical reporting and interpretations of findings in Hsu, Rosenthal, and Bailey’s (2014) “The
+psychometric structure of items assessing autogynephilia”
+[Letter to the editor]. Archives of Sexual Behavior, 44,
+1743–1746. doi: 10.1007/s10508-015-0552-y
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of maleto-female transsexuals. Archives of Sexual Behavior, 37,
+586–597. doi: 10.1007/s10508-007-9306-9
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2011). Male-to-female
+transsexuals’ impressions of Blanchard’s autogynephilia
+theory. International Journal of Transgenderism, 13, 131–139.
+doi: 10.1080/15532739.2011.669659
+
+European Psychologist (2017), 22(1), 39–54
+
+http://econtent.hogrefe.com/doi/pdf/10.1027/1016-9040/a000276 - Anne Lawrence <alawrence@mindspring.com> - Thursday, March 23, 2017 12:32:28 PM - IP Address:67.100.125.182
+
+54
+
+A. A. Lawrence, Autogynephilia and the Typology of Male-to-Female Transsexualism
+
+Walworth, J. R. (1997). Sex-reassignment surgery in male-tofemale transsexuals: Client satisfaction in relation to selection
+criteria. In B. Bullough, V. L. Bullough, & J. Elias (Eds.), Gender
+blending (pp. 352–369). Amherst, NY: Prometheus Books.
+Whitam, F. L. (1987). A cross-cultural perspective on homosexuality, transvestism, and transsexualism. In G. D. Wilson (Ed.),
+Variant sexuality: Research and theory (pp. 176–201). Baltimore, MD: Johns Hopkins University Press.
+Winters, K. (2008). Autogynephilia: The infallible derogatory hypothesis, part 2. Retrieved from http://gidreform.wordpress.com/
+2008/11/19/autogynephilia-the-infallible-derogatory-hypothesispart-2/
+World Health Organization. (1992). International statistical
+classification of diseases and related health problems
+(10th rev., Vol. 1). Geneva, Switzerland Author.
+Zucker, K. J., Bradley, S., Owen-Anderson, A., Kibblewhite, S. J.,
+Wood, H., Singh, D., & Choi, K. (2012). Demographics, behavior
+problems, and psychosexual characteristics of adolescents
+with gender identity disorder or transvestic fetishism. Journal
+of Sex & Marital Therapy, 38, 151–189. doi: 10.1080/
+0092623X.2011.611219
+Zucker, K. J., Cohen-Kettenis, P. T., Drescher, J., Meyer-Bahlburg,
+H. F., Pfäfflin, F., & Womack, W. M. (2013). Memo outlining
+evidence for change for Gender Identity Disorder in the DSM-5.
+Archives of Sexual Behavior, 42, 901–914. doi: 10.1007/s10508013-0139-4
+Zucker, K. J., Lawrence, A. A., & Kreukels, B. P. C. (2016). Gender
+dysphoria in adults. Annual Review of Clinical Psychology, 12,
+217–247. doi: 10.1146/annurev-clinpsy-021815-093034
+
+European Psychologist (2017), 22(1), 39–54
+
+Received March 6, 2016
+Revision received July 9, 2016
+Accepted September 8, 2016
+Published online March 23, 2017
+Anne A. Lawrence
+6801 28th Ave NE
+Seattle, WA 98115
+USA
+alawrence@mindspring.com
+
+Anne A. Lawrence, MD, PhD, is an
+Adjunct Associate Professor in the
+Department of Psychology at the
+University of Lethbridge, AB,
+Canada. She is the author of Men
+Trapped in Men’s Bodies: Narratives
+of Autogynephilic Transsexualism
+(Springer, 2013) and over 50 book
+chapters, research studies, review
+articles, and commentaries concerning gender identity disorders
+and paraphilias.
+
+Ó 2017 Hogrefe Publishing
+
+

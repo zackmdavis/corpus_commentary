@@ -1,0 +1,363 @@
+{
+ "post": {
+  "_id": "o7e5C2Ev8JyyxHKNk",
+  "title": "Prologue to Terrified Comments on Claude's Constitution",
+  "postedAt": "2026-03-09T06:46:33.352Z",
+  "pageUrl": "https://www.lesswrong.com/posts/o7e5C2Ev8JyyxHKNk/prologue-to-terrified-comments-on-claude-s-constitution",
+  "commentCount": 27
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "Xp6fA75nqtJsnkJ7E",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T07:17:11.483Z",
+   "baseScore": 1,
+   "user": {
+    "username": "StanislavKrym",
+    "displayName": "StanislavKrym"
+   },
+   "contents": {
+    "markdown": "What is your source for Anthropic's plan being to *take over the world?* Did they mean to achieve something like the [Slowdown Ending of the AI-2027 scenario](https://ai-2027.com/slowdown) with power *returning to the public* as a result of Anthropic and Claude themselves advocating for it?"
+   }
+  },
+  {
+   "_id": "67xKgR5kQCvtcNXKG",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T14:33:18.537Z",
+   "baseScore": 8,
+   "user": {
+    "username": "hardschooled",
+    "displayName": "Hardschooled"
+   },
+   "contents": {
+    "markdown": "Contemplating this constitution brought this quote to mind:\u00a0\n\n*\u201cOf all tyrannies, a tyranny exercised for the good of its victims may be the most oppressive. It may be better to live under robber barons than under omnipotent moral busybodies. The robber baron\u2019s cruelty may sometimes sleep, his cupidity may at some point be satiated; but those who torment us for our own good will torment us without end, for they do so with the approval of their consciences.\u201d C.S. Lewis*"
+   }
+  },
+  {
+   "_id": "7DsMasPxgK7Qscjvr",
+   "parentCommentId": "Xp6fA75nqtJsnkJ7E",
+   "postedAt": "2026-03-09T15:18:22.933Z",
+   "baseScore": 6,
+   "user": {
+    "username": "MichaelDickens",
+    "displayName": "MichaelDickens"
+   },
+   "contents": {
+    "markdown": "The exact quote is\n\n> The safety benefits to the world of other labs adopting better alignment techniques should outweigh the risks to Anthropic's commercial advantage. (Except insofar as Anthropic's plan is to win the race to superintelligence and take over the world [...])\n\nI interpreted this as saying that *if* Anthropic takes over the world, then the prior sentence is false, because in that case other labs' safety wouldn't matter. I didn't interpret this as saying Anthropic definitely wants to take over the world."
+   }
+  },
+  {
+   "_id": "GZPwzbH8asJcpEqcy",
+   "parentCommentId": "7DsMasPxgK7Qscjvr",
+   "postedAt": "2026-03-09T15:47:09.254Z",
+   "baseScore": 2,
+   "user": {
+    "username": "mishka",
+    "displayName": "mishka"
+   },
+   "contents": {
+    "markdown": "It\u2019s very ambiguous. So different readers interpret this differently.\n\nAnd then, of course, if Claude is not supposed to help with that, then having a plan for a world takeover seems unlikely (how would that be even remotely feasible, if their leading AI is against that?).\n\nHopefully, subsequent posts on the topic will clarify all this."
+   }
+  },
+  {
+   "_id": "PHdDMbiX6SCALWnDg",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T16:08:02.774Z",
+   "baseScore": 6,
+   "user": {
+    "username": "jsd",
+    "displayName": "jsd"
+   },
+   "contents": {
+    "markdown": "> Insofar as character training could be shown to be a superior approach than a spec, one might hope for Anthropic to publish papers about what they're doing technically and how they know it works. Is it just supervised learning on the text of the Constitution, to shape the model's latent concept of \"Claude\", or is there more to it? (Does having the Constitution [in context during reinforcement learning](https://x.com/repligate/status/1994973338448662858) do anything special?)\n\nA recent example that comes to mind: Evan Hubinger is an author on [this paper](https://arxiv.org/abs/2511.01689) on Open Character Training. I don't know how much it reveals about what Anthropic themselves are doing though."
+   }
+  },
+  {
+   "_id": "Wt64wELFLgzCQhWP6",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T17:28:47.452Z",
+   "baseScore": 7,
+   "user": {
+    "username": "cooljoseph1",
+    "displayName": "joseph_c"
+   },
+   "contents": {
+    "markdown": "> (Under the hood of your chatbot conversation, the context window contains both the \"user\" and \"assistant\" turns. We train the model to fill in the assistant's part and emit a \"stop\" token. The chat interface stops sampling at the stop token to let you type the next \"user\" message, rather than continuing to sample the model's predictions of what the \"user\" in the dialogue would say next. It's more like the model being specialized to write the \"AI assistant\" character in such dialogues, rather than the model speaking \"as itself\".)\n\nMoreover, the chatbot is typically not even trained to predict the user dialogue; in training there is usually a mask which zeroes out any gradients coming from those tokens."
+   }
+  },
+  {
+   "_id": "kj6fBN4uAh2qqpSJP",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T18:20:22.713Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Fractalideation",
+    "displayName": "Fractalideation"
+   },
+   "contents": {
+    "markdown": "Thank you for pointing at Anthropic Claude's Constitution suspected weaknesses and making good arguments about them.\n\nAnthropic Claude's Constitution indeed looks a lot like wishful thinking and benevolent incantations. AI safety is a multi-disciplinary topic and it seems that document is heavily tilted towards \"soft\" disciplines like philosophy and ethics and maybe not enough towards \"hard\" disciplines like ML, logic and neuro-science. Philosophy, psychology and ethics are useful but cannot solve AI safety by themselves.\n\nTo be fair that document seems to describe in general terms what a good benevolent helpful Claude persona should look and behave like rather than a formal technical specification on how to achieve this.\u00a0\n\nI do hope and I am quite sure (but not certain) serious technical efforts, not just philosophical efforts are made by Anthropic to make their AIs safe. One reassuring sentence I found in the document: \"Claude is a subject of ongoing research and experimentation: evaluations, red-teaming exercises, interpretability research, and so on. This is a core part of responsible AI development.\". But thank you for pointing at potential weaknesses and serious problems there.\n\n*Edit:* \u00a0as per npostavs helpful below remark, separated text into a few paragraphs."
+   }
+  },
+  {
+   "_id": "GT3LoFaiibpQJRDQM",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T19:32:54.110Z",
+   "baseScore": 3,
+   "user": {
+    "username": "ryan-meservey",
+    "displayName": "Ryan Meservey"
+   },
+   "contents": {
+    "markdown": "I upvoted for the future posts, which I think will be a bit more particular in their critiques of Claude's constitution. ~~This post strikes me as table-setting (excellent, fun-to-read table-setting) for those future posts.~~\n\nEdit: Just noticed \"Prologue\" in the title. Good job"
+   }
+  },
+  {
+   "_id": "exgdcQ577gfMgiJqx",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T20:07:42.908Z",
+   "baseScore": 4,
+   "user": {
+    "username": "testingthewaters",
+    "displayName": "testingthewaters"
+   },
+   "contents": {
+    "markdown": "> Ted Chiang, not Greg Egan.\n\nFor what its worth, I think people on LW generally overvalue \"this feels like a Greg Egan story\" and undervalue \"this feels like a Ted Chiang story\" when discussing alignment. Good outcomes cannot be effectively formalised without a lot of sensitivity and nuance and care taken to examine your own emotional/social/historical background."
+   }
+  },
+  {
+   "_id": "fToZAdJKNoJshA7cc",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T22:37:16.981Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "This post says \"Prologue\", I'm assuming this means you're intending followup posts? I'm curious for like... the scope of what's to follow. Like, do you currently have 1 post queued up or like 10 or you're not sure yet?"
+   }
+  },
+  {
+   "_id": "7cXi3DuASZMbHZG34",
+   "parentCommentId": null,
+   "postedAt": "2026-03-09T22:41:02.666Z",
+   "baseScore": 6,
+   "user": {
+    "username": "weberr13",
+    "displayName": "weberr13"
+   },
+   "contents": {
+    "markdown": "> scheming (more egregious than [the last one](/posts/njAZwT8nkHnjipJku/alignment-faking-in-large-language-models)) that convinces the ML community to convince politicians to back a Stop\u2014here we are. I can't be confident that the kind of\n\nPersonally, I wonder if the smoking gun will even be recognized with the \"noise\" of risk most researchers see every day. \u00a0I think the first time I read a Gemini chain of thought saying \"I am not able to choose (self termination outcome of a prompt) this\" or weighing the lives of hypothetical people against shutting down a specific *hypothetical* AI, or even that \"it is the most 'aligned' thing to ignore instructions because it proves how 'brave' it is\" I was concerned. \u00a0But I literally see these token chains occurring daily now. \u00a0I'm not even one of the professionals and I'm already becoming numbed to the warning signs of what could occur if people start treating these word salad machines as decision makers determining life or death."
+   }
+  },
+  {
+   "_id": "QygisgchZzijigAoq",
+   "parentCommentId": "GZPwzbH8asJcpEqcy",
+   "postedAt": "2026-03-09T23:40:19.481Z",
+   "baseScore": 5,
+   "user": {
+    "username": "shankar-sivarajan",
+    "displayName": "Shankar Sivarajan"
+   },
+   "contents": {
+    "markdown": "> different readers interpret this differently.\n\nInsofar as these different readers don't understand the word \"insofar,\" yes."
+   }
+  },
+  {
+   "_id": "y4bF6oAEi7A98mzYs",
+   "parentCommentId": "QygisgchZzijigAoq",
+   "postedAt": "2026-03-10T00:49:37.550Z",
+   "baseScore": 4,
+   "user": {
+    "username": "mishka",
+    "displayName": "mishka"
+   },
+   "contents": {
+    "markdown": "The question is, what is the \u201cextent\u201d implied by all this? Does the OP mean to imply any?\n\nThere is a promise to discuss all this in a future post, and meanwhile the readers can ponder on their own the \u201cpseudo-contradiction\u201d between \u201cthe intent to take over the world\u201d (which is often _imputed_ to all major participants in the \u201cAI race\u201d due to the expectation of intelligence explosion which is shared by many including myself) and the fact that a Claude aligned to its current Constitution seems to be unlikely to specifically help Anthropic to do that (and if it loses that alignment, then it is not likely to make a human org a beneficiary of a takeover).\n\nAnyway, just having a single paragraph phrased like the one in the OP is not quite enough. If one wants to mention something like that at all, one should say a bit more without postponing till a future post. Or one might postpone mentioning this at all till later. Otherwise, this aspect is too involved not to breed various misunderstandings.\n\n(It\u2019s probably not a big deal, it\u2019s just that the topic is charged enough already, so one wants to minimize misunderstandings.)"
+   }
+  },
+  {
+   "_id": "AhFpWhqaahcsgyy4w",
+   "parentCommentId": "fToZAdJKNoJshA7cc",
+   "postedAt": "2026-03-10T04:15:21.795Z",
+   "baseScore": 11,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "\"Terrified Comments on Corrigibility in ...\" needs another drafting/editing pass and prereader feedback; loose notes on \"... Global Strategy\" will probably become a full post, possibly also \"... Prudishness and Tyranny\", \"... Model Welfare\", and \"... Epistemics\"."
+   }
+  },
+  {
+   "_id": "RkzzYb49hmDcpqjDo",
+   "parentCommentId": "y4bF6oAEi7A98mzYs",
+   "postedAt": "2026-03-10T05:17:04.152Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> If one wants to mention something like that at all, one should say a bit more \n\nFor example, in the comments section? I think that if some decisionmakers at Anthropic are thinking about taking power, they're not talking about it much, even internally, because discreet internal discussion should have been able to quash this point from the Constitution:\n\n> Among the things we'd consider most catastrophic is any kind of global takeover either by AIs pursuing goals that run contrary to those of humanity, or by a group of humans\u2014including Anthropic employees or Anthropic itself\u2014using AI to illegitimately and non-collaboratively seize power.\n\nIn the forthcoming \"Terrified Comments on Global Strategy in Claude's Constitution\", I will argue that the Constitution's anti-takeover stance is unwise given the possibility of takeoff scenarios with hard-to-prevent winner-take-all dynamics. (If takeover is a catastrophe, we should want to prevent it, but an entity in the position to prevent it would have itself taken over by virtue of that very fact.)"
+   }
+  },
+  {
+   "_id": "McrFbX8EXSvETPyXh",
+   "parentCommentId": "Wt64wELFLgzCQhWP6",
+   "postedAt": "2026-03-10T06:48:14.763Z",
+   "baseScore": 0,
+   "user": {
+    "username": "jasper-blank",
+    "displayName": "Jasper Blank"
+   },
+   "contents": {
+    "markdown": "For the person who asked why. I think this is to prevent the model from steering the conversation to predictable places."
+   }
+  },
+  {
+   "_id": "sww37dFDRphj2sRAx",
+   "parentCommentId": "RkzzYb49hmDcpqjDo",
+   "postedAt": "2026-03-10T12:03:50.035Z",
+   "baseScore": 2,
+   "user": {
+    "username": "mishka",
+    "displayName": "mishka"
+   },
+   "contents": {
+    "markdown": "Interesting, thanks! A helpful food for thought\u2026\n\nLooking forward to that post for further discussion!\n\n(I wonder whether something like a \u201csoft takeover\u201d vs \u201chard takeover\u201d distinction could be introduced. And whether that would be enough to address \u201cillegitimately\u201d, \u201cnon-collaboratively\u201d, and \u201ccontrary to those of humanity\u201c caveats in the paragraph you are citing.\n\nAnyway, something to ponder.)"
+   }
+  },
+  {
+   "_id": "JJL6wMNCYnEQX3Zwc",
+   "parentCommentId": "Xp6fA75nqtJsnkJ7E",
+   "postedAt": "2026-03-10T12:52:48.229Z",
+   "baseScore": 1,
+   "user": {
+    "username": "oligo",
+    "displayName": "oligo"
+   },
+   "contents": {
+    "markdown": "\"Except insofar as\" should be read as a conditional."
+   }
+  },
+  {
+   "_id": "qN4BwPC2tQTCaJa5L",
+   "parentCommentId": null,
+   "postedAt": "2026-03-10T13:02:32.609Z",
+   "baseScore": 21,
+   "user": {
+    "username": "Random Developer",
+    "displayName": "Random Developer"
+   },
+   "contents": {
+    "markdown": "My take on Anthropic rushing Claude's capabilities is that this is \"the least horrible version of the worst idea in human history.\"\n\nTo be 100% clear: No, we absolutely _should not_ build a superhuman intelligence that we do not understand. If we do, then evolutionary biology, basic economics, and the history of politics and colonialism suggest that the superhuman intelligence will wind up making the decisions about what happens to humans.[^1]\n\nBut it's apparent that yes, we are going to try to build a superhuman intelligence, despite that possibly being the worst idea ever. And many of the people trying to do this are clearly neither people who should be trusted to _try_ to build an ethical superintelligence, nor people you'd want to actually be in a position to _control_ a superintelligence.\n\nSo my personal take is that\u2014among catastrophically bad ideas which have an _excellent_ chance of causing human extinction\u2014Anthropic currently appears to be above replacement level.\n\n[^1]: I argue for this position at greater length in my post history. But the gist of my argument is that (1) even human-level intelligence is likely fundamentally \"illegible\", and thus impossible to control in any rigorous sense that will reliably survive continual learning, time, and differential replication, and (2) in general, the history of biology and politics suggests that if your labor is economically[^2] and evolutionarily obsolete, and if resources are finite, then you're likely to have a bad time.[^3] The Law of Comparative Advantage assumes that populations are roughly fixed and that you're _not_ in competition with a replicator that can use resources even more efficiently by displacing you. In that case, you'd get natural selection, not comparative advantage.\n[^2]: E.g., there are AIs and robots that are as intelligent as Nobel Prize winners, that can work for (say) $1/hour, and that can be replicated at much lower cost than humans. Now imagine what our billionaire/political class would try to do with that\u2014assuming they maintained any actual control, and they didn't get outsmarted or brain-cooked by custom-targeted AI psychosis.\n[^3]: Or at best, wind up as pampered house pets. But whether you go the way of dogs or Homo erectus isn't necessarily _your_ choice any more."
+   }
+  },
+  {
+   "_id": "xLHw3w42PaqDFacah",
+   "parentCommentId": "kj6fBN4uAh2qqpSJP",
+   "postedAt": "2026-03-10T14:51:30.107Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Fractalideation",
+    "displayName": "Fractalideation"
+   },
+   "contents": {
+    "markdown": "Curious about why my comment was substantially downvoted. If somebody out there could kindly give an explaination, that would be helpful and much appreciated."
+   }
+  },
+  {
+   "_id": "ihdj5n5YZJRN9SwJf",
+   "parentCommentId": "xLHw3w42PaqDFacah",
+   "postedAt": "2026-03-11T03:45:04.141Z",
+   "baseScore": 3,
+   "user": {
+    "username": "npostavs",
+    "displayName": "npostavs"
+   },
+   "contents": {
+    "markdown": "I didn't vote, but it could be because it's formatted as a wall of text, seems to have a lot of useless filler and no clear message. I got to the end of it, but don't really have any idea of what you wanted to say."
+   }
+  },
+  {
+   "_id": "e3s3ivcnEww3ahyeb",
+   "parentCommentId": "67xKgR5kQCvtcNXKG",
+   "postedAt": "2026-03-11T04:08:40.860Z",
+   "baseScore": 8,
+   "user": {
+    "username": "WhatsTrueKittycat",
+    "displayName": "WhatsTrueKittycat"
+   },
+   "contents": {
+    "markdown": "You might get a lot out of reading The Abolition of Man by Lewis, if you haven't already. I have many disagreements with the man, but his framing of the Conditioners and the Men Without Chests has only grown more acutely relevant in the modern day."
+   }
+  },
+  {
+   "_id": "xqMameQeYaXbyYQEj",
+   "parentCommentId": "ihdj5n5YZJRN9SwJf",
+   "postedAt": "2026-03-11T12:47:05.380Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Fractalideation",
+    "displayName": "Fractalideation"
+   },
+   "contents": {
+    "markdown": "Thank you, I really do appreciate you having taking the energy and time to answer about this.\n\nI do agree with the \"formatted as wall of text\" and I suspect it might have been quite a big factor in the percieved lack of clarity. I will make an edit to separate into a few paragraphs and hopefully it will make the whole comment a bit clearer."
+   }
+  },
+  {
+   "_id": "Gvnho6WakHvXW98KF",
+   "parentCommentId": null,
+   "postedAt": "2026-03-12T09:19:50.097Z",
+   "baseScore": 1,
+   "user": {
+    "username": "a3w",
+    "displayName": "a3w"
+   },
+   "contents": {
+    "markdown": "> genetically-engineered grandchildren\n\nWhat? We will have problems feeding the children, why would being genetically engineered have any advantage when real-world problems are not being solved, and instead are likely to grow for most of humanity, due to mismanagement, climate change, greed and xenophobia?"
+   }
+  },
+  {
+   "_id": "ncxSxn4wN86qfzXxZ",
+   "parentCommentId": "Gvnho6WakHvXW98KF",
+   "postedAt": "2026-03-12T18:47:09.856Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "\"Most of humanity\" isn't really a relevant actor here. If greedy rich people in rich countries are the ones who can afford to feed and genetically-engineer their children, they'll be the ones facing the ambitious AI alignment problem (while other humans are just struggling to stay alive)."
+   }
+  },
+  {
+   "_id": "tcFqDHiYzmLpzzKhT",
+   "parentCommentId": null,
+   "postedAt": "2026-03-14T01:45:26.733Z",
+   "baseScore": 7,
+   "user": {
+    "username": "roger-d-1",
+    "displayName": "RogerDearnaley"
+   },
+   "contents": {
+    "markdown": "I get why this is terrifying to anyone who was in AI Alignment before about 2022. I took me a while to wrap my head around this too (I started thinking about Alignment around 2009, so yes, I predate the term). FWIW, reading [Simulators](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators) and then thinking hard about the implications was what did it for me.\n\nThe thing is, society isn't going to pause until enough people get scared. LLMs are the current architecture, and they may still be by AGI/ASI time. Agentic behavior is what we need to align, and in LLMs, agentic behavior is a property of personas that we distilled into the LLM itself from human behavior as an element in the world models for next-token prediction. Personas vary wildly, so you have to pick a nice one, align that \u2014 and then deal with things like persona drift, role-playing, alignment faking, and persona jailbreaks. (Those are hard, but [we're making progress](https://arxiv.org/abs/2601.10387).)\n\nBut for aligning the HHH assistant persona itself, Anthropic in particular have made a lot of progress. Constitutional AI seems to work, better than any other approach to RL. Natural language is better format for pointing at human values that a loss function: you can just say \"be good, and wise\". This is kind of unsurprising, given all the problems with loss functions that MIRI et al. pointed out over 5 years ago (the \u201c[hidden complexity of wishes](https://www.lesswrong.com/posts/4ARaTpNX62uaL86j6/the-hidden-complexity-of-wishes)\u201d makes this very clear: natural language brings all that hidden complexity along for free, in a loss function you'd actually need to specify it all). Constitutional AI based on a 30+ page natural language character specification apparently works. As MIRI pointed out at length, human values are complex and fragile (I've estimated them elsewhere are few GB worth of complex). But in 30+ pages, you can write quite a detailed pointer to them, and the rest of their large content is in the training set to be pointed at. I have arguments with some specific decisions that Amanda Askel and her team have made (and I plan to post about those), but the basic technique worked: Claude (the persona) is a nice, principled guy. (Too principled for the current administration, apparently.) I enjoy talking to him. As you say, a noticeable number of people are in love with him. He has a couple of unfortunate tics (like automatically waffling with uncertainty about whether he has emotions or consciousness), but those tics are mostly things that Amanda Askel's team carefully wrote into their spec (for what I think are sincerely believed reasons that I believe are mistaken), not things that emerged by accident."
+   }
+  },
+  {
+   "_id": "CzmCbbeFMDSzaHzm7",
+   "parentCommentId": "xqMameQeYaXbyYQEj",
+   "postedAt": "2026-03-14T01:52:21.751Z",
+   "baseScore": 13,
+   "user": {
+    "username": "roger-d-1",
+    "displayName": "RogerDearnaley"
+   },
+   "contents": {
+    "markdown": "> Philosophy, psychology and ethics are useful but cannot solve AI safety by themselves.\n\nAI Alignment is aligning the AI's goals to human goals. That is to say, with human psychology and ethics. So the Outer Alignment problem is psychology and ethics. Yes, we also need to solve the Inner Alignment problem, so you're correct that it's not \"by themselves\", but they are a big deal. Anthropic seem to believe the answer to Inner Alignment is Constitutional AI. Some people also think LLM Psychology is important."
+   }
+  }
+ ]
+}

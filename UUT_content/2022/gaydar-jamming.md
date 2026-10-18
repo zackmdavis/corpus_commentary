@@ -1,0 +1,32 @@
+Title: Gaydar Jamming
+Date: 2022-05-21 18:12
+Category: commentary
+Tags: anecdotal, ideology, homosexuality
+
+In my high school journalism class back in the mid-'aughts, there was this fat Latino boy, L., who had distinctly "feminine" mannerisms. (I'm not even sure how to describe it in terms of lower-level observations, [as if the memory is encoded as the category rather than the precepts](/2020/Dec/crossing-the-line/). You know it when you see it.)
+
+One day in class, the topic of gender and handwriting came up, and it was remarked that L. also "wrote like a girl." Being the [proud antisexist ideologue that I was at the time](/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/#antisexism), I [wrote in my notebook](/images/crossdreaming_notebook_samples.png) about how this observation about L.'s handwriting was disturbing, in a way.
+
+Naïvely, of course, you'd think it would be ideologically _validating_: L. and his manner and his handwriting were living proof that not all boys are masculine! But everyone knew _that_—even the smart sexists. No, the disturbing part was that if "feminine" handwriting—potentially—indicated "feminine" behavior more generally, that implied that _"femininity" was a valid concept_, which was itself not a notion I was inclined to grant. (Because why should a person's reproductive anatomy imply _anything_ else about their _mind_, even if the occasional exception is admitted to? The whole idea is sexist.)
+
+Ideology isn't my style anymore—or rather, these days, my ideology is about the accuracy of my probabilistic predictions, rather than denying the possibility or morality of making probabilistic predictions about humans. Looking back, I will not only unhesitatingly bite the bullet on femininity being a real thing, I'm also tempted to make a bold and seemingly "unrelated" prediction: L. was gay.
+
+I mean, I don't _know_ that; I have no recollection of the kid ever _saying_ so in my presence. Nevertheless, as a probabilistic prediction, it seems like a good guess. I'm no longer afraid of stereotypes to the quantitative extent that I expect the stereotype to actually get the right answer, in contrast to my teenage ideological fever dream of not wanting that to be possible.
+
+Something I still can't reconstruct from memory—or maybe [lack the exact concepts to express](https://www.lesswrong.com/posts/sXHQ9R5tahiaXEZhR/algorithmic-intent-a-hansonian-generalized-anti-zombie)—is to what extent I "sincerely" thought that stereotyping didn't _work_, and to what extent I was self-righteously "playing dumb". Though my notebooks bear no record of it, I surely must have known _about_ the stereotype—that _bad people_ (not me) would assume that L. was gay. What did I think the bad people were _doing_, that would have them make that _particular_ assumption out of the space of possible assumptions? (But without a concept of Bayesian reasoning as normative ideal, it never would have occured to me to ask myself that particular question, out of the space of possible questions.)
+
+Maybe another anecdote from a few years later is also relevant. In the early 'tens, while [slumming in community college](/2022/Apr/student-dysphoria-and-a-previous-lifes-war/#back-to-school), I took the "Calculus III" course from one Prof. H., a really great teacher who respected my intellectual autonomy—and, as it happens, the man had a very distinctive voice. I'm not even sure how to describe it in terms of lower-level precepts, but you know it when you hear it. And I wondered, on the basis of his voice, whether _he_ was gay.
+
+At this point in my ideological evolution, I _did_ have a concept of Bayesian reasoning as normative ideal. But I thought to myself, well, base rates: _most_ people aren't gay, and the professor's voice isn't _enough_ evidence to overcome that prior; he's probably not gay.
+
+Looking back, I'm suspicious that I was reaching for [base rate neglect](https://en.wikipedia.org/wiki/Base_rate_fallacy) as an excuse as an excuse for my old egalitarian assumption that stereotypes are invalid—notwithstanding the fact that base rate neglect is, in fact, a thing.
+
+Although when I try to put numbers on it now, it's actually looking like I happened to get this one right: if 3% of men are gay, you need log<sub>2</sub>(97/3) ≈ 5 [bits of evidence](/2018/Oct/the-information-theory-of-passing/) to think that someone probably is. Is a sufficiently distinctive "gay voice" that much evidence—something you're 32 times more likely to hear from a gay man than a straight man?
+
+It looks like you have to go awfully far into the tail to get that sufficiently distinctive. Table 2 in Smyth _et al._'s ["Male Voices and Perceived Sexual Orientation"](/papers/smyth_et_al-male_voices_and_perceived_sexual_orientation.pdf) works out to [Cohen's _d_](/2019/Sep/does-general-intelligence-deflate-standardized-effect-sizes-of-cognitive-sex-differences/) ≈ 1.09. Assuming normality and equal variances for that effect size, you need to be 3.43 standard deviations out from the straight male mean in order to get that much evidence. (Because Φ(1.09 − 3.43)/Φ(−3.43) ≈ 32, where Φ is the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) of the normal distribution.)
+
+I don't think Prof. H.'s voice was quite that extreme? Maybe it was only 2 or 2.5 standard deviations out, for a likelihood ratio of around 8–12.7, which is about 3–3.7 bits of evidence—which is an update from 3% to about 20–28%?
+
+And the effect size of childhood sex-typed behavior on sexual orientation [is around _d_ ≈ 1.3](/papers/bailey-zucker-childhood_sex-typed_behavior_and_sexual_orientation.pdf), so I'll actually go with roughly similar numbers for L.
+
+I could easily be wrong about the specific numbers. (My gut expects a _skilled_ "gaydar operator" to be more reliable than _d_ ≈ 1.1, which could still be true if the published statistics are [deflated by the measurement error](/2019/Sep/does-general-intelligence-deflate-standardized-effect-sizes-of-cognitive-sex-differences/) of less perceptive raters?) But I'm confident that this is the correct _methodology_. (Assuming that predictions don't causally [or otherwise](https://arxiv.org/abs/1710.05060) affect the things being predicted—but how likely is _that?_) My old anxieties about committing heresy have dissolved in the knowledge that it is, really, just a math problem.

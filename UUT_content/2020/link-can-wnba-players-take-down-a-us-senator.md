@@ -1,0 +1,12 @@
+Title: Link: "Can WNBA Players Take Down a U.S. Senator?"
+Date: 2020-10-31 14:16
+Category: other
+Tags: linkpost, news, sports, Kelly Loeffler, Sports Illustrated
+
+From Julie Kliegman for _Sports Illustrated_, [a story on the conflict between social-justice-activist WNBA players and Atlanta Dream half-owner Sen. Kelly Loeffler (R–Georgia)](https://www.si.com/wnba/2020/10/30/wnba-vs-loeffler-daily-cover). [(Archived.)](https://archive.is/GIsvw)
+
+The dispute seems to have been sparked by Loeffler's non-support for the Black Lives Matter movement—see also [ESPN's coverage from August](https://www.espn.com/wnba/story/_/id/29732604/inside-wnba-kelly-loeffler-stalemate-give-somebody-go) [(archived)](https://archive.is/AifaD)—but the _Sports Illustrated_ reporter places special focus on the more recent development of Loeffler's sponsorship of [Senate Bill 4649](https://www.congress.gov/bill/116th-congress/senate-bill/4649/text), the Protection of Women and Girls in Sports Act, which, if passed (Kliegman helpfully informs us that it doesn't have a chance), would only allow federal funding of women's sports for programs that define "women" on the basis of [developmental sex](/2019/Sep/terminology-proposal-developmental-sex/).
+
+I want to react to the "whether or not [sponsoring the bill] was meant as a direct shot at the WNBA" and "Loeffler's pivot to attacking WNBA players and their interests" narration—but what could I possibly say? What kind of partisan would dare accuse Kliegman of the sin of editorializing when the thirty-third graf of the story clearly acknowledges that the science remains unsettled? 
+
+The Atlanta Dream are named after [Martin Luther King's famous speech about having one](https://en.wikipedia.org/wiki/I_Have_a_Dream). I had one too—something about a globe—[a map?](/2019/Aug/the-social-construction-of-reality-and-the-sheer-goddamned-pointlessness-of-reason/#a-dream-about-the-use-of-maps) But I can never remember my dreams, nor follow their false, private logic after awakening into the consensus day. I could predict that sooner or later, the WNBA will have its [Laurel Hubbard](https://en.wikipedia.org/wiki/Laurel_Hubbard) or [Andraya Yearwood](/2017/Jun/questions-such-as-wtf-is-wrong-with-you-people/) moment—but why would that make any difference? Would I deny any other woman her night of glory under the arena's [five lights](/2018/Aug/interlude-xii/)?

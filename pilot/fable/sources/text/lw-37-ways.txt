@@ -1,0 +1,1441 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+37 Ways That Words Can Be Wrong
+
+Eliezer Yudkowsky6 Mar 2008 5:09 UTC
+267 points
+78 comments9 min readLW linkArchive
+Philosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Some reader is bound to declare that a better title for this post would be “37 Ways That You Can Use Words Unwisely”, or “37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition”.
+
+But one of the primary lessons of this gigantic list is that saying “There’s no way my choice of X can be ‘wrong’” is nearly always an error in practice, whatever the theory. You can always be wrong. Even when it’s theoretically impossible to be wrong, you can still be wrong. There is never a Get-Out-Of-Jail-Free card for anything you do. That’s life.
+
+Besides, I can define the word “wrong” to mean anything I like—it’s not like a word can be wrong.
+
+Personally, I think it quite justified to use the word “wrong” when:
+
+A word fails to connect to reality in the first place. Is Socrates a framster? Yes or no? (The Parable of the Dagger.)
+
+Your argument, if it worked, could coerce reality to go a different way by choosing a different word definition. Socrates is a human, and humans, by definition, are mortal. So if you defined humans to not be mortal, would Socrates live forever? (The Parable of Hemlock.)
+
+You try to establish any sort of empirical proposition as being true “by definition”. Socrates is a human, and humans, by definition, are mortal. So is it a logical truth if we empirically predict that Socrates should keel over if he drinks hemlock? It seems like there are logically possible, non-self-contradictory worlds where Socrates doesn’t keel over—where he’s immune to hemlock by a quirk of biochemistry, say. Logical truths are true in all possible worlds, and so never tell you which possible world you live in—and anything you can establish “by definition” is a logical truth. (The Parable of Hemlock.)
+
+You unconsciously slap the conventional label on something, without actually using the verbal definition you just gave. You know perfectly well that Bob is “human”, even though, on your definition, you can never call Bob “human” without first observing him to be mortal. (The Parable of Hemlock.)
+
+The act of labeling something with a word, disguises a challengable inductive inference you are making. If the last 11 egg-shaped objects drawn have been blue, and the last 8 cubes drawn have been red, it is a matter of induction to say this rule will hold in the future. But if you call the blue eggs “bleggs” and the red cubes “rubes”, you may reach into the barrel, feel an egg shape, and think “Oh, a blegg.” (Words as Hidden Inferences.)
+
+You try to define a word using words, in turn defined with ever-more-abstract words, without being able to point to an example. “What is red?” “Red is a color.” “What’s a color?” “It’s a property of a thing?” “What’s a thing? What’s a property?” It never occurs to you to point to a stop sign and an apple. (Extensions and Intensions.)
+
+The extension doesn’t match the intension. We aren’t consciously aware of our identification of a red light in the sky as “Mars”, which will probably happen regardless of your attempt to define “Mars” as “The God of War”. (Extensions and Intensions.)
+
+Your verbal definition doesn’t capture more than a tiny fraction of the category’s shared characteristics, but you try to reason as if it does. When the philosophers of Plato’s Academy claimed that the best definition of a human was a “featherless biped”, Diogenes the Cynic is said to have exhibited a plucked chicken and declared “Here is Plato’s Man.” The Platonists promptly changed their definition to “a featherless biped with broad nails”. (Similarity Clusters.)
+
+You try to treat category membership as all-or-nothing, ignoring the existence of more and less typical subclusters. Ducks and penguins are less typical birds than robins and pigeons. Interestingly, a between-groups experiment showed that subjects thought a dis
+
+ease was more likely to spread from robins to ducks on an island, than from ducks to robins. (Typicality and Asymmetrical Similarity.)
+
+A verbal definition works well enough in practice to point out the intended cluster of similar things, but you nitpick exceptions. Not every human has ten fingers, or wears clothes, or uses language; but if you look for an empirical cluster of things which share these characteristics, you’ll get enough information that the occasional nine-fingered human won’t fool you. (The Cluster Structure of Thingspace.)
+
+You ask whether something “is” or “is not” a category member but can’t name the question you really want answered. What is a “man”? Is Barney the Baby Boy a “man”? The “correct” answer may depend considerably on whether the query you really want answered is “Would hemlock be a good thing to feed Barney?” or “Will Barney make a good husband?” (Disguised Queries.)
+
+You treat intuitively perceived hierarchical categories like the only correct way to parse the world, without realizing that other forms of statistical inference are possible even though your brain doesn’t use them. It’s much easier for a human to notice whether an object is a “blegg” or “rube”; than for a human to notice that red objects never glow in the dark, but red furred objects have all the other characteristics of bleggs. Other statistical algorithms work differently. (Neural Categories.)
+
+You talk about categories as if they are manna fallen from the Platonic Realm, rather than inferences implemented in a real brain. The ancient philosophers said “Socrates is a man”, not, “My brain perceptually classifies Socrates as a match against the ‘human’ concept”. (How An Algorithm Feels From Inside.)
+
+You argue about a category membership even after screening off all questions that could possibly depend on a category-based inference. After you observe that an object is blue, egg-shaped, furred, flexible, opaque, luminescent, and palladium-containing, what’s left to ask by arguing, “Is it a blegg?” But if your brain’s categorizing neural network contains a (metaphorical) central unit corresponding to the inference of blegg-ness, it may still feel like there’s a leftover question. (How An Algorithm Feels From Inside.)
+
+You allow an argument to slide into being about definitions, even though it isn’t what you originally wanted to argue about. If, before a dispute started about whether a tree falling in a deserted forest makes a “sound”, you asked the two soon-to-be arguers whether they thought a “sound” should be defined as “acoustic vibrations” or “auditory experiences”, they’d probably tell you to flip a coin. Only after the argument starts does the definition of a word become politically charged. (Disputing Definitions.)
+
+You think a word has a meaning, as a property of the word itself; rather than there being a label that your brain associates to a particular concept. When someone shouts, “Yikes! A tiger!”, evolution would not favor an organism that thinks, “Hm… I have just heard the syllables ‘Tie’ and ‘Grr’ which my fellow tribemembers associate with their internal analogues of my own tiger concept and which aiiieeee CRUNCH CRUNCH GULP.” So the brain takes a shortcut, and it seems that the meaning of tigerness is a property of the label itself. People argue about the correct meaning of a label like “sound”. (Feel the Meaning.)
+
+You argue over the meanings of a word, even after all sides understand perfectly well what the other sides are trying to say. The human ability to associate labels to concepts is a tool for communication. When people want to communicate, we’re hard to stop; if we have no common language, we’ll draw pictures in sand. When you each understand what is in the other’s mind, you are done. (The Argument From Common Usage.)
+
+You pull out a dictionary in the middle of an empirical or moral argument. Dictionary editors are historians of usage, not legislators of language. If the common definition contains a problem—if “Mars” is defined as the God of War, or a “dolphin” is defined as a kind of fish, or “Negroes” are defined as a separate category from humans, the dictionary will reflect the standard mistake. (The Argument From Common Usage.)
+
+You pull out a dictionary in the middle of any argument ever. Seriously, what the heck makes you think that dictionary editors are an authority on whether “atheism” is a “religion” or whatever? If you have any substantive issue whatsoever at stake, do you really think dictionary editors have access to ultimate wisdom that settles the argument? (The Argument From Common Usage.)
+
+You defy common usage without a reason, making it gratuitously hard for others to understand you. Fast stand up plutonium, with bagels without handle. (The Argument From Common Usage.)
+
+You use complex renamings to create the illusion of inference. Is a “human” defined as a “mortal featherless biped”? Then write: “All [mortal featherless bipeds] are mortal; Socrates is a [mortal featherless biped]; therefore, Socrates is mortal.” Looks less impressive that way, doesn’t it? (Empty Labels.)
+
+You get into arguments that you could avoid if you just didn’t use the word. If Albert and Barry aren’t allowed to use the word “sound”, then Albert will have to say “A tree falling in a deserted forest generates acoustic vibrations”, and Barry will say “A tree falling in a deserted forest generates no auditory experiences”. When a word poses a problem, the simplest solution is to eliminate the word and its synonyms. (Taboo Your Words.)
+
+The existence of a neat little word prevents you from seeing the details of the thing you’re trying to think about. What actually goes on in schools once you stop calling it “education”? What’s a degree, once you stop calling it a “degree”? If a coin lands “heads”, what’s its radial orientation? What is “truth”, if you can’t say “accurate” or “correct” or “represent” or “reflect” or “semantic” or “believe” or “knowledge” or “map” or “real” or any other simple term? (Replace the Symbol with the Substance.)
+
+You have only one word, but there are two or more different things-in-reality, so that all the facts about them get dumped into a single undifferentiated mental bucket. It’s part of a detective’s ordinary work to observe that Carol wore red last night, or that she has black hair; and it’s part of a detective’s ordinary work to wonder if maybe Carol dyes her hair. But it takes a subtler detective to wonder if there are two Carols, so that the Carol who wore red is not the same as the Carol who had black hair. (Fallacies of Compression.)
+
+You see patterns where none exist, harvesting other characteristics from your definitions even when there is no similarity along that dimension. In Japan, it is thought that people of blood type A are earnest and creative, blood type Bs are wild and cheerful, blood type Os are agreeable and sociable, and blood type ABs are cool and controlled. (Categorizing Has Consequences.)
+
+You try to sneak in the connotations of a word, by arguing from a definition that doesn’t include the connotations. A “wiggin” is defined in the dictionary as a person with green eyes and black hair. The word “wiggin” also carries the connotation of someone who commits crimes and launches cute baby squirrels, but that part isn’t in the dictionary. So you point to someone and say: “Green eyes? Black hair? See, told you he’s a wiggin! Watch, next he’s going to steal the silverware.” (Sneaking in Connotations.)
+
+You claim “X, by definition, is a Y!” On such occasions you’re almost certainly trying to sneak in a connotation of Y that wasn’t in your given definition. You define “human” as a “featherless biped”, and point to Socrates and say, “No feathers—two legs—he must be human!” But what you really care about is something else, like mortality. If what was in dispute was Socrates’s number of legs, the other fellow would just reply, “Whaddaya mean, Socrates’s got two legs? That’s what we’re arguing about in the first place!” (Arguing “By Definition”.)
+
+You claim “Ps, by definition, are Qs!” If you see Socrates out in the field with some biologists, gathering herbs that might confer resistance to hemlock, there’s no point in arguing “Men, by definition, are mortal!” The main time you feel the need to tighten the vise by insisting that something is true “by definition” is when there’s other information that calls the default inference into doubt. (Arguing “By Definition”.)
+
+You try to establish membership in an empirical cluster “by definition”. You wouldn’t feel the need to say, “Hinduism, by definition, is a religion!” because, well, of course Hinduism is a religion. It’s not just a religion “by definition”, it’s, like, an actual religion. Atheism does not resemble the central members of the “religion” cluster, so if it wasn’t for the fact that atheism is a religion by definition, you might go around thinking that atheism wasn’t a religion. That’s why you’ve got to crush all opposition by pointing out that “Atheism is a religion” is true by definition, because it isn’t true any other way. (Arguing “By Definition”.)
+
+Your definition draws a boundary around things that don’t really belong together. You can claim, if you like, that you are defining the word “fish” to refer to salmon, guppies, sharks, dolphins, and trout, but not jellyfish or algae. You can claim, if you like, that this is merely a list, and there is no way a list can be “wrong”. Or you can stop playing nitwit games and admit that you made a mistake and that dolphins don’t belong on the fish list. (Where to Draw the Boundary?)
+
+You use a short word for something that you won’t need to describe often, or a long word for something you’ll need to describe often. This can result in inefficient thinking, or even misapplications of Occam’s Razor, if your mind thinks that short sentences sound “simpler”. Which sounds more plausible, “God did a miracle” or “A supernatural universe-creating entity temporarily suspended the laws of physics”? (Entropy, and Short Codes.)
+
+You draw your boundary around a volume of space where there is no greater-than-usual density, meaning that the associated word does not correspond to any performable Bayesian inferences. Since green-eyed people are not more likely to have black hair, or vice versa, and they don’t share any other characteristics in common, why have a word for “wiggin”? (Mutual Information, and Density in Thingspace.)
+
+You draw an unsimple boundary without any reason to do so. The act of defining a word to refer to all humans, except black people, seems kind of suspicious. If you don’t present reasons to draw that particular boundary, trying to create an “arbitrary” word in that location is like a detective saying: “Well, I haven’t the slightest shred of support one way or the other for who could’ve murdered those orphans… but have we considered John Q. Wiffleheim as a suspect?” (Superexponential Conceptspace, and Simple Words.)
+
+You use categorization to make inferences about properties that don’t have the appropriate empirical structure, namely, conditional independence given knowledge of the class, to be well-approximated by Naive Bayes. No way am I trying to summarize this one. Just read the blog post. (Conditional Independence, and Naive Bayes.)
+
+You think that words are like tiny little LISP symbols in your mind, rather than words being labels that act as handles to direct complex mental paintbrushes that can paint detailed pictures in your sensory workspace. Visualize a “triangular lightbulb”. What did you see? (Words as Mental Paintbrush Handles.)
+
+You use a word that has different meanings in different places as though it meant the same thing on each occasion, possibly creating the illusion of something protean and shifting. “Martin told Bob the building was on his left.” But “left” is a function-word that evaluates with a speaker-dependent variable grabbed from the surrounding context. Whose “left” is meant, Bob’s or Martin’s? (Variable Question Fallacies.)
+
+You think that definitions can’t be “wrong”, or that “I can define a word any way I like!” This kind of attitude teaches you to indignantly defend your past actions, instead of paying attention to their consequences, or fessing up to your mistakes. (37 Ways That Suboptimal Use Of Categories Can Have Negative Side Effects On Your Cognition.)
+
+Everything you do in the mind has an effect, and your brain races ahead unconsciously without your supervision.
+
+Saying “Words are arbitrary; I can define a word any way I like” makes around as much sense as driving a car over thin ice with the accelerator floored and saying, “Looking at this steering wheel, I can’t see why one radial angle is special—so I can turn the steering wheel any way I like.”
+
+If you’re trying to go anywhere, or even just trying to survive, you had better start paying attention to the three or six dozen optimality criteria that control how you use words, definitions, categories, classes, boundaries, labels, and concepts.
+
+What links here?
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+Less Wrong Ra­tion­al­ity and Main­stream Philosophy by lukeprog (20 Mar 2011 20:28 UTC; 173 points)
+
+Philos­o­phy: A Diseased Discipline by lukeprog (28 Mar 2011 19:31 UTC; 156 points)
+
+Mo­ral­ity is Awesome by [deleted] (6 Jan 2013 15:21 UTC; 146 points)
+
+Where to Draw the Boundaries? by Zack_M_Davis (13 Apr 2019 21:34 UTC; 131 points)
+
+Towards a New Im­pact Measure by TurnTrout (18 Sep 2018 17:21 UTC; 104 points)
+
+A sum­mary of ev­ery “High­lights from the Se­quences” post by Orpheus16 (15 Jul 2022 23:01 UTC; 99 points)
+
+Con­cep­tual Anal­y­sis and Mo­ral Theory by lukeprog (16 May 2011 6:28 UTC; 97 points)
+
+9 kinds of hard-to-ver­ify tasks
+by Cleo Nardo (20 Apr 2026 14:43 UTC; 92 points)
+
+Bayesi­anism for Humans by ChrisHallquist (29 Oct 2013 23:54 UTC; 92 points)
+
+The Ul­ti­mate Source by Eliezer Yudkowsky (15 Jun 2008 9:01 UTC; 84 points)
+
+Con­ver­sa­tion Halters by Eliezer Yudkowsky (20 Feb 2010 15:00 UTC; 82 points)
+
+A Pat­tern Lan­guage For Rationality by Vaniver (5 Jul 2022 19:08 UTC; 75 points)
+
+Bayesian Mindset by Holden Karnofsky (EA Forum; 21 Dec 2021 19:54 UTC; 74 points)
+
+Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (14 Oct 2019 7:04 UTC; 73 points)
+
+The pos­si­ble shared Craft of de­liber­ate Lex­i­co­ge­n­e­sis
+by TsviBT (20 May 2023 5:56 UTC; 71 points)
+
+Four Fo­cus Areas of Effec­tive Altruism by lukeprog (9 Jul 2013 0:59 UTC; 68 points)
+
+Scott Alexander's comment on Blues, Greens and abortion by Snowyowl (5 Mar 2011 20:03 UTC; 67 points)
+
+Zack_M_Davis's comment on Re­ply to Nate Soares on Dolphins by Zack_M_Davis (11 Jun 2021 3:57 UTC; 67 points)
+
+Effi­cient Cross-Do­main Optimization by Eliezer Yudkowsky (28 Oct 2008 16:33 UTC; 65 points)
+
+Plu­ral­is­tic Mo­ral Reductionism by lukeprog (1 Jun 2011 0:59 UTC; 64 points)
+
+An Overview of For­mal Episte­mol­ogy (links) by lukeprog (6 Jan 2011 19:57 UTC; 63 points)
+
+Schel­ling Cat­e­gories, and Sim­ple Mem­ber­ship Tests by Zack_M_Davis (26 Aug 2019 2:43 UTC; 60 points)
+
+The Gen­er­al­ized Anti-Zom­bie Principle by Eliezer Yudkowsky (5 Apr 2008 23:16 UTC; 57 points)
+
+What is Eliezer Yud­kowsky’s meta-eth­i­cal the­ory? by lukeprog (29 Jan 2011 19:58 UTC; 51 points)
+
+If Clar­ity Seems Like Death to Them by Zack_M_Davis (30 Dec 2023 17:40 UTC; 51 points)
+
+A sum­mary of ev­ery “High­lights from the Se­quences” post by [deleted] (EA Forum; 15 Jul 2022 23:05 UTC; 47 points)
+
+Dreams of AI Design by Eliezer Yudkowsky (27 Aug 2008 4:04 UTC; 46 points)
+
+The Na­ture of Logic by Eliezer Yudkowsky (15 Nov 2008 6:20 UTC; 43 points)
+
+Zack_M_Davis's comment on Com­ment sec­tion from 05/​19/​2019 by habryka (19 May 2019 1:05 UTC; 42 points)
+
+Our Phyg Is Not Ex­clu­sive Enough by [deleted] (14 Apr 2012 21:08 UTC; 42 points)
+
+De­sign­ing Ra­tion­al­ist Projects by calcsam (12 May 2011 3:38 UTC; 41 points)
+
+A Blog­ger’s Guide To The 21st Century by Screwtape (30 Nov 2025 8:20 UTC; 40 points)
+
+Rudi­men­tary Cat­e­go­riza­tion of Less Wrong Topics by ScottL (5 Sep 2015 7:32 UTC; 39 points)
+
+Blood Is Thicker Than Water 🐬 by Zack_M_Davis (28 Sep 2021 3:21 UTC; 39 points)
+
+A Suggested Read­ing Order for Less Wrong [2011] by jimrandomh (8 Jul 2011 1:40 UTC; 38 points)
+
+Eval­u­at­ing ex­per­tise: a clear box model by JustinShovelain (15 Oct 2020 14:18 UTC; 37 points)
+
+Will_Newsome's comment on Open Thread, Septem­ber, 2010-- part 2 by NancyLebovitz (23 Sep 2010 12:36 UTC; 37 points)
+
+At­tack­ing enlightenment by Elo (28 Sep 2018 1:18 UTC; 36 points)
+
+Agree­ing With Stalin in Ways That Ex­hibit Gen­er­ally Ra­tion­al­ist Principles by Zack_M_Davis (2 Mar 2024 22:05 UTC; 35 points)
+
+Qiaochu_Yuan's comment on How to offend a ra­tio­nal­ist (who hasn’t thought about it yet): a life lesson by mszegedy (6 Feb 2013 17:42 UTC; 34 points)
+
+Zack_M_Davis's comment on Feed­back Re­quested! Draft of a New About/​Wel­come Page for LessWrong by Ruby (1 Jun 2019 2:49 UTC; 34 points)
+
+romeostevensit's comment on A non-mys­ti­cal ex­pla­na­tion of in­sight med­i­ta­tion and the three char­ac­ter­is­tics of ex­is­tence: in­tro­duc­tion and preamble by Kaj_Sotala (5 May 2020 20:57 UTC; 32 points)
+
+The Im­plicit As­so­ci­a­tion Test by Scott Alexander (25 Mar 2009 0:11 UTC; 32 points)
+
+Time-Binding by Viliam (14 Aug 2015 17:38 UTC; 31 points)
+
+The Art of the Ar­tifi­cial: In­sights from ‘Ar­tifi­cial In­tel­li­gence: A Modern Ap­proach’ by TurnTrout (25 Mar 2018 6:55 UTC; 31 points)
+
+A re­ply to Mark Linsen­mayer about philosophy by lukeprog (5 Jan 2013 11:25 UTC; 30 points)
+
+Book Re­view: Free Will by Ape in the coat (11 Oct 2021 18:41 UTC; 30 points)
+
+An un­offi­cial “High­lights from the Se­quences” tier list by Orpheus16 (5 Sep 2022 14:07 UTC; 29 points)
+
+Schematic Think­ing: heuris­tic gen­er­al­iza­tion us­ing Korzyb­ski’s method by romeostevensit (14 Oct 2019 19:29 UTC; 28 points)
+
+Fuzzy Boundaries, Real Concepts by orthonormal (7 May 2018 3:39 UTC; 28 points)
+
+Head­ing Toward Morality by Eliezer Yudkowsky (20 Jun 2008 8:08 UTC; 28 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+Idols of the Mind Pt. 2 (Novum Or­ganum Book 1: 53-68) by Francis Bacon (26 Sep 2019 22:24 UTC; 28 points)
+
+Idols of the Mind Pt. 1 (Novum Or­ganum Book 1: 38–52) by Francis Bacon (24 Sep 2019 19:53 UTC; 27 points)
+
+Set­ting Up Metaethics by Eliezer Yudkowsky (28 Jul 2008 2:25 UTC; 27 points)
+
+Star­tups are like firewood by Biff Wiff (5 Mar 2023 23:09 UTC; 26 points)
+
+Reflect­ing on the 2022 Guild of the Rose Workshops by moridinamael (10 Dec 2022 21:21 UTC; 25 points)
+
+Al­gorithms of De­cep­tion! by Zack_M_Davis (19 Oct 2019 18:04 UTC; 25 points)
+
+[deleted]'s comment on The Pur­pose of a Sys­tem is what it Rewards by Rob Ennals (27 Jul 2025 19:36 UTC; 25 points)
+
+badger's comment on Holy Books (Or Ra­tion­al­ist Se­quences) Don’t Im­ple­ment Themselves by calcsam (10 May 2011 12:34 UTC; 24 points)
+
+[deleted]'s comment on sun­willrise’s Shortform by [deleted] (18 Jun 2025 12:08 UTC; 24 points)
+
+Jacob Falkovich's comment on “3 Rea­sons It’s Ir­ra­tional to De­mand ‘Ra­tion­al­ism’ in So­cial Jus­tice Ac­tivism” by PhilGoetz (29 Mar 2016 16:13 UTC; 23 points)
+
+Com­ment on “De­cep­tion as Co­op­er­a­tion” by Zack_M_Davis (27 Nov 2021 4:04 UTC; 23 points)
+
+Zack_M_Davis's comment on iald­abaoth is banned by Vaniver (16 Dec 2019 4:57 UTC; 22 points)
+
+Ex­per­i­men­tal psy­chol­ogy on word confusion by lukeprog (14 Sep 2012 5:44 UTC; 21 points)
+
+Blegg Mode by Zack_M_Davis (11 Mar 2019 15:04 UTC; 21 points)
+
+17 Rules to Make a Defi­ni­tion that Avoids the 37 Ways of Words Be­ing Wrong by mathnerd314 (22 Feb 2014 5:16 UTC; 21 points)
+
+Leaky Concepts by Elo (5 Mar 2019 22:01 UTC; 20 points)
+
+RobertLumley's comment on Ra­tion­al­ity Quotes July 2012 by RobertLumley (2 Jul 2012 18:06 UTC; 19 points)
+
+Ex­am­ples of the Mind Pro­jec­tion Fal­lacy? by fiddlemath (13 Dec 2011 15:27 UTC; 19 points)
+
+Nick At­tains Aligntenment by rank-biserial (6 Apr 2022 4:24 UTC; 19 points)
+
+Q: What has Ra­tion­al­ity Done for You? by atucker (2 Apr 2011 4:13 UTC; 18 points)
+
+Vladimir_Nesov's comment on Without models by Richard_Kennaway (4 May 2009 15:29 UTC; 18 points)
+
+Vladimir_Nesov's comment on Theists are wrong; is the­ism? by Will_Newsome (20 Jan 2011 14:39 UTC; 18 points)
+
+Zack_M_Davis's comment on Blood Is Thicker Than Water 🐬 by Zack_M_Davis (12 Oct 2021 16:02 UTC; 18 points)
+
+ScottL's comment on Which LW /​ ra­tio­nal­ist blog posts aren’t cov­ered by my books & courses? by iarwain1 (5 Aug 2015 2:41 UTC; 17 points)
+
+Zack_M_Davis's comment on A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (18 Jul 2023 19:50 UTC; 17 points)
+
+Con­ti­nen­tal Philos­o­phy as Un­der­grad­u­ate Mathematics by Jan (26 Apr 2022 8:05 UTC; 17 points)
+
+Richard_Ngo's comment on AGIs as collectives by Richard_Ngo (26 May 2020 23:07 UTC; 16 points)
+
+Benquo's comment on My ex­pe­rience at and around MIRI and CFAR (in­spired by Zoe Curzi’s writeup of ex­pe­riences at Lev­er­age) by jessicata (17 Oct 2021 15:08 UTC; 16 points)
+
+Richard_Kennaway's comment on [Link] Eric S. Ray­mond—Me and Less Wrong by philh (7 Dec 2014 22:31 UTC; 16 points)
+
+The role of math­e­mat­i­cal truths by SilasBarta (24 Apr 2010 16:59 UTC; 15 points)
+
+Zack_M_Davis's comment on A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (28 Jul 2023 2:45 UTC; 15 points)
+
+Anders_H's comment on Is Prag­matar­i­anism (Tax Choice) Less Wrong? by Xerographica (12 Feb 2015 7:37 UTC; 15 points)
+
+Z_M_Davis's comment on You Are A Brain by Liron (10 May 2009 15:00 UTC; 15 points)
+
+[deleted]'s comment on Stuff That Makes Stuff Happen by Eliezer Yudkowsky (18 Oct 2012 2:00 UTC; 14 points)
+
+Four fo­cus ar­eas of effec­tive altruism by lukeprog (EA Forum; 8 Jul 2013 4:00 UTC; 13 points)
+
+hylleddin's comment on Post ridicu­lous munchkin ideas! by D_Malik (28 May 2013 4:56 UTC; 13 points)
+
+Viliam_Bur's comment on Open thread, Jan. 12 - Jan. 18, 2015 by Gondolinian (20 Jan 2015 8:37 UTC; 13 points)
+
+Zack_M_Davis's comment on Ap­peal to Con­se­quence, Value Ten­sions, And Ro­bust Organizations by Trinley Goldenberg (20 Jul 2019 5:33 UTC; 13 points)
+
+Vladimir_Nesov's comment on Open Thread, Septem­ber 1-15, 2012 by OpenThreadGuy (2 Sep 2012 20:08 UTC; 13 points)
+
+ESRogs's comment on Hello, is it you I’m look­ing for? by Knuckels McGinty (5 Feb 2020 5:52 UTC; 13 points)
+
+Zack_M_Davis's comment on Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (25 Dec 2019 6:14 UTC; 13 points)
+
+Vladimir_Nesov's comment on Open Thread, April 1-15, 2012 by OpenThreadGuy (1 Apr 2012 21:05 UTC; 12 points)
+
+Eliezer Yudkowsky's comment on Open Thread: Novem­ber 2009 by [deleted] (5 Nov 2009 13:05 UTC; 12 points)
+
+DaFranker's comment on The non­cen­tral fal­lacy—the worst ar­gu­ment in the world? by Scott Alexander (14 Sep 2012 2:06 UTC; 12 points)
+
+DaFranker's comment on The Won­der of Evolution by Eliezer Yudkowsky (31 Oct 2012 15:30 UTC; 11 points)
+
+Qiaochu_Yuan's comment on Ra­tion­al­ity Quotes March 2013 by Jayson_Virissimo (1 Mar 2013 18:18 UTC; 10 points)
+
+Vladimir_Nesov's comment on The Sin­gu­lar­ity as Reli­gion (yes/​no links) by lukeprog (25 Apr 2011 20:59 UTC; 10 points)
+
+Zack_M_Davis's comment on Con­tain­ment Thread on the Mo­ti­va­tion and Poli­ti­cal Con­text for My Philos­o­phy of Lan­guage Agenda by Zack_M_Davis (16 May 2021 2:12 UTC; 10 points)
+
+[Pile of links] Miscommunication by Grognor (21 Feb 2012 22:02 UTC; 10 points)
+
+dugancm's comment on The ra­tio­nal ra­tio­nal­ist’s guide to ra­tio­nally us­ing “ra­tio­nal” in ra­tio­nal post titles by Vaniver (28 May 2012 13:27 UTC; 9 points)
+
+asparisi's comment on Be care­ful with thought experiments by lukeprog (18 May 2012 18:30 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+Trinley Goldenberg's comment on Ap­peal to Con­se­quence, Value Ten­sions, And Ro­bust Organizations by Trinley Goldenberg (20 Jul 2019 6:02 UTC; 8 points)
+
+drc500free's comment on Why abor­tion looks more okay to us than kil­ling babies by cousin_it (1 Dec 2010 21:10 UTC; 8 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (13 Mar 2019 3:05 UTC; 8 points)
+
+nshepperd's comment on (Sub­jec­tive Bayesi­anism vs. Fre­quen­tism) VS. For­mal­ism by Ronny Fernandez (27 Nov 2011 17:32 UTC; 8 points)
+
+[deleted]'s comment on How to deal with some­one in a LessWrong meet­ing be­ing creepy by Douglas_Reay (10 Sep 2012 14:47 UTC; 8 points)
+
+Richard_Ngo's comment on Some re­flec­tions on the LW com­mu­nity af­ter sev­eral months of ac­tive engagement by M. Y. Zuo (26 Jun 2022 19:39 UTC; 8 points)
+
+[deleted]'s comment on How to Not Lose an Argument by Scott Alexander (13 Dec 2011 23:13 UTC; 7 points)
+
+Epiphany's comment on What if “sta­tus” IS a ter­mi­nal value for most peo­ple? by The Dao of Bayes (25 Dec 2012 23:51 UTC; 7 points)
+
+While we’re on the sub­ject of meta-ethics... by CronoDAS (17 Apr 2009 8:01 UTC; 7 points)
+
+nshepperd's comment on De­bunk­ing Fal­la­cies in the The­ory of AI Motivation by [deleted] (12 May 2015 15:38 UTC; 7 points)
+
+Antisuji's comment on Poli­tics Fil­ter­ing and Higher Stan­dard Discussions by ikrase (19 Feb 2013 21:56 UTC; 7 points)
+
+Gunnar_Zarncke's comment on The Pink Sparkly Ball Thing (Use unique, non-ob­vi­ous terms for nu­anced con­cepts) by MalcolmOcean (21 Feb 2016 9:16 UTC; 6 points)
+
+Richard_Kennaway's comment on Without models by Richard_Kennaway (6 May 2009 7:26 UTC; 6 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (16 Mar 2019 1:01 UTC; 6 points)
+
+CronoDAS's comment on Cur­rently Buy­ing AdWords for LessWrong by Louie (30 Oct 2010 5:44 UTC; 6 points)
+
+CronoDAS's comment on The Trou­ble With “Good” by Scott Alexander (17 Apr 2009 19:42 UTC; 6 points)
+
+Qiaochu_Yuan's comment on Thoughts On The Re­la­tion­ship Between Life and Intelligence by IsaacLewis (14 Mar 2013 17:37 UTC; 6 points)
+
+Yoav Ravid's comment on Fun­da­men­tal Uncer­tainty: Chap­ter 6 - How can we be cer­tain about the truth? by Gordon Seidoh Worley (6 Mar 2023 16:20 UTC; 6 points)
+
+Zack_M_Davis's comment on [Site Meta] Fea­ture Up­date: More Tags! (Ex­per­i­men­tal) by Ruby (19 May 2020 4:20 UTC; 6 points)
+
+[deleted]'s comment on Wel­come to Less Wrong! (6th thread, July 2013) by KnaveOfAllTrades (20 Sep 2014 17:39 UTC; 6 points)
+
+Amanojack's comment on What is Me­taethics? by lukeprog (27 Apr 2011 23:22 UTC; 6 points)
+
+nhamann's comment on What is Me­taethics? by lukeprog (27 Apr 2011 20:33 UTC; 6 points)
+
+Qiaochu_Yuan's comment on How An Al­gorithm Feels From Inside by Eliezer Yudkowsky (13 Feb 2013 7:32 UTC; 6 points)
+
+DaFranker's comment on The non­cen­tral fal­lacy—the worst ar­gu­ment in the world? by Scott Alexander (24 Sep 2012 14:30 UTC; 6 points)
+
+Ar­ti­cle idea: Good argumentation by Ezekiel (27 Nov 2011 19:57 UTC; 5 points)
+
+Mo Putera's comment on Mo Putera’s Shortform by Mo Putera (10 Nov 2025 7:41 UTC; 5 points)
+
+Sniffnoy's comment on The Sin­gu­lar­ity as Reli­gion (yes/​no links) by lukeprog (26 Apr 2011 22:38 UTC; 5 points)
+
+MBlume's comment on Spring 2010 Meta Thread by FAWS (14 Apr 2010 16:35 UTC; 5 points)
+
+johnsonmx's comment on The mys­tery of pain and pleasure by johnsonmx (11 May 2013 5:46 UTC; 5 points)
+
+Vladimir_Nesov's comment on Pu­n­ish­ing fu­ture crimes by Bongo (29 Jan 2011 10:19 UTC; 5 points)
+
+RobinZ's comment on Open Thread: July 2010 by komponisto (7 Jul 2010 11:45 UTC; 5 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (13 Mar 2019 1:17 UTC; 5 points)
+
+Amanojack's comment on Sin­gle Point of Mo­ral Failure by Alexandros (7 Apr 2010 19:02 UTC; 5 points)
+
+Viliam_Bur's comment on 17 Rules to Make a Defi­ni­tion that Avoids the 37 Ways of Words Be­ing Wrong by mathnerd314 (22 Feb 2014 9:50 UTC; 5 points)
+
+Crux's comment on How could one (and should one) con­vert some­one from pseu­do­science? by Vilx- (5 Oct 2015 16:15 UTC; 5 points)
+
+Said Achmiz's comment on Ar­gu­ments Against Speciesism by Lukas_Gloor (1 Aug 2013 2:50 UTC; 5 points)
+
+Meetup : Mon­treal Mee­tups—Now weekly! by DaFranker (16 Nov 2012 18:01 UTC; 5 points)
+
+dxu's comment on Fun­da­men­tal Doubts by Eliezer Yudkowsky (22 Mar 2015 5:17 UTC; 4 points)
+
+Eugine_Nier's comment on 6 Tips for Pro­duc­tive Arguments by John_Maxwell (19 Mar 2012 4:31 UTC; 4 points)
+
+kilobug's comment on Less Wrong ar­ti­cles cat­e­go­rized by read­ing difficulty by lukeprog (3 Sep 2012 8:18 UTC; 4 points)
+
+Scott Alexander's comment on Soft­ware tools for com­mu­nity truth-seeking by Johnicholas (11 Mar 2009 0:29 UTC; 4 points)
+
+DaFranker's comment on Fake Utility Functions by Eliezer Yudkowsky (27 Aug 2012 16:24 UTC; 4 points)
+
+DSherron's comment on Three more ways iden­tity can be a curse by gothgirl420666 (3 May 2013 5:29 UTC; 4 points)
+
+Meetup : Moscow meetup: gen­eral rationality by Yuu (17 May 2012 17:08 UTC; 4 points)
+
+Eliezer Yudkowsky's comment on Ex­clud­ing the Supernatural by Eliezer Yudkowsky (12 Sep 2008 19:33 UTC; 4 points)
+
+JoshuaZ's comment on Mir­a­cle Min­eral Supplement by Eliezer Yudkowsky (23 Nov 2012 17:35 UTC; 4 points)
+
+Tor Økland Barstad's comment on God vs AI scientifically by Donatas Lučiūnas (22 Mar 2023 10:13 UTC; 3 points)
+
+[deleted]'s comment on Unem­ploy­ment explanations by Stuart_Armstrong (28 Jan 2015 3:28 UTC; 3 points)
+
+John_Maxwell's comment on Learn A New Lan­guage! by [deleted] (20 May 2012 23:04 UTC; 3 points)
+
+loup-vaillant's comment on Philo­soph­i­cal Landmines by [deleted] (12 Feb 2013 12:12 UTC; 3 points)
+
+Code Switch by Elo (29 Sep 2018 0:32 UTC; 3 points)
+
+Zack_M_Davis's comment on Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (25 Dec 2019 5:41 UTC; 3 points)
+
+fubarobfusco's comment on A re­sponse to “Tor­ture vs. Dust­speck”: The Ones Who Walk Away From Omelas by Logos01 (30 Nov 2011 9:02 UTC; 3 points)
+
+AnthonyC's comment on Ex­pla­na­tions as Hard to Vary Assertions by Alexander (28 Sep 2021 14:47 UTC; 3 points)
+
+Zetetic's comment on Best ar­ti­cles to link to when in­tro­duc­ing some­one to Less Wrong? by FiftyTwo (6 Jul 2011 4:09 UTC; 3 points)
+
+Vladimir_Nesov's comment on Open Thread, March 16-31, 2012 by OpenThreadGuy (20 Mar 2012 12:22 UTC; 3 points)
+
+Karl Krueger's comment on I asked LLMs for words hu­mans wouldn’t understand by Daniel Navarro Medrano (22 Sep 2026 3:44 UTC; 2 points)
+
+RobinZ's comment on Un­der­stand­ing your understanding by SilasBarta (9 Jun 2010 20:52 UTC; 2 points)
+
+Eugine_Nier's comment on Why is Men­cius Mold­bug so pop­u­lar on Less Wrong? [An­swer: He’s not.] by arborealhominid (26 Nov 2012 23:31 UTC; 2 points)
+
+[deleted]'s comment on How to Not Lose an Argument by Scott Alexander (13 Dec 2011 20:15 UTC; 2 points)
+
+[deleted]'s comment on The mys­tery of pain and pleasure by johnsonmx (11 May 2013 4:34 UTC; 2 points)
+
+lukeprog's comment on Ex­per­i­men­tal psy­chol­ogy on word confusion by lukeprog (15 Sep 2012 5:21 UTC; 2 points)
+
+Benquo's comment on De­mon Threads by Raemon (13 Jan 2018 13:04 UTC; 2 points)
+
+gwern's comment on Open Thread: July 2010 by komponisto (6 Jul 2010 8:00 UTC; 2 points)
+
+David_Gerard's comment on Open Thread, May 26 - June 1, 2014 by BarbaraB (1 Jun 2014 13:51 UTC; 2 points)
+
+Vladimir_Nesov's comment on There is no such thing as pleasure by Richard_Kennaway (8 Oct 2010 9:12 UTC; 2 points)
+
+Ghatanathoah's comment on The Be­drock of Mo­ral­ity: Ar­bi­trary? by Eliezer Yudkowsky (16 May 2012 0:33 UTC; 2 points)
+
+Qiaochu_Yuan's comment on Open Thread, April 1-15, 2013 by Vaniver (9 Apr 2013 5:15 UTC; 2 points)
+
+Дмитрий Зеленский's comment on In defense of the MBTI by ZZZZZZ (6 Feb 2023 18:29 UTC; 2 points)
+
+laofmoonster's comment on 2014 Sur­vey Results by Scott Alexander (11 Jan 2015 7:49 UTC; 2 points)
+
+Meetup : Atlanta by hankx7787 (3 Apr 2012 16:00 UTC; 2 points)
+
+nshepperd's comment on De­bunk­ing Fal­la­cies in the The­ory of AI Motivation by [deleted] (15 May 2015 4:10 UTC; 2 points)
+
+satt's comment on What Scarcity Is and Isn’t by [deleted] (10 Mar 2015 5:40 UTC; 2 points)
+
+Coun­ter­ing Self-De­cep­tion: When De­cou­pling, When De­con­tex­tu­al­iz­ing? by a gently pricked vein (10 Dec 2020 15:28 UTC; 2 points)
+
+[deleted]'s comment on What is Me­taethics? by lukeprog (27 Apr 2011 22:10 UTC; 2 points)
+
+[deleted]'s comment on What Science got Wrong and Why by JoshuaZ (25 Nov 2010 17:58 UTC; 2 points)
+
+kpreid's comment on Con­ver­sa­tion Halters by Eliezer Yudkowsky (27 Mar 2014 0:29 UTC; 2 points)
+
+komponisto's comment on [LINK] Autis­tic woman banned from hav­ing sex in lat­est Court of Pro­tec­tion case by mstevens (9 Feb 2012 18:35 UTC; 2 points)
+
+Vaniver's comment on Reread­ing At­las Shrugged by Vaniver (3 Aug 2020 19:30 UTC; 2 points)
+
+Yoav Ravid's comment on If Clar­ity Seems Like Death to Them by Zack_M_Davis (31 Dec 2023 16:05 UTC; 2 points)
+
+Milan Griffes's comment on ‘Longter­mism’ by William_MacAskill (EA Forum; 25 Jul 2019 22:32 UTC; 1 point)
+
+MichaelHoward's comment on Define Rationality by Marshall (5 Mar 2009 21:21 UTC; 1 point)
+
+taryneast's comment on Disput­ing Definitions by Eliezer Yudkowsky (10 Dec 2010 10:08 UTC; 1 point)
+
+DaFranker's comment on Cyn­i­cal ex­pla­na­tions of FAI crit­ics (in­clud­ing my­self) by Wei Dai (22 Aug 2012 16:36 UTC; 1 point)
+
+RobinZ's comment on Open Thread: July 2010 by komponisto (6 Jul 2010 0:06 UTC; 1 point)
+
+[deleted]'s comment on Wel­come to Less Wrong! (2012) by orthonormal (1 Mar 2012 15:27 UTC; 1 point)
+
+Said Achmiz's comment on Why Eat Less Meat? by Peter Wildeford (24 Jul 2013 6:42 UTC; 1 point)
+
+vals tutor's comment on If you, a hu­man, can imag­ine red and green be­ing swapped, you are prob­a­bly conscious by vals tutor (13 Jun 2026 14:46 UTC; 1 point)
+
+Vladimir_Nesov's comment on The prob­lem of pseudofriendliness by [deleted] (16 Mar 2010 22:22 UTC; 1 point)
+
+Vladimir_Nesov's comment on Athe­ism = Un­the­ism + Antitheism by Eliezer Yudkowsky (2 Jul 2009 17:55 UTC; 1 point)
+
+Dagon's comment on Com­ment sec­tion from 05/​19/​2019 by habryka (19 May 2019 15:24 UTC; 1 point)
+
+TekhneMakre's comment on Com­ment on “De­cep­tion as Co­op­er­a­tion” by Zack_M_Davis (27 Nov 2021 9:25 UTC; 1 point)
+
+A1987dM's comment on Open Thread, Oc­to­ber 7 - Oc­to­ber 12, 2013 by Thomas (16 Oct 2013 14:00 UTC; 1 point)
+
+Ritalin's comment on NKCDT: The Big Bang Theory by [deleted] (13 Nov 2012 17:14 UTC; 1 point)
+
+Z._M._Davis's comment on Three Dialogues on Identity by Eliezer Yudkowsky (21 Apr 2008 19:31 UTC; 1 point)
+
+Vladimir_Nesov's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (7 Sep 2011 23:41 UTC; 1 point)
+
+[deleted]'s comment on What Scarcity Is and Isn’t by [deleted] (5 Mar 2015 6:47 UTC; 1 point)
+
+Wes_W's comment on A sense of logic by NancyLebovitz (9 May 2015 3:23 UTC; 1 point)
+
+Document's comment on Is­sues, Bugs, and Re­quested Features by Eliezer Yudkowsky (5 Apr 2010 0:17 UTC; 1 point)
+
+Eliezer Yudkowsky's comment on In­gre­di­ents of Time­less De­ci­sion Theory by Eliezer Yudkowsky (20 Aug 2009 18:23 UTC; 1 point)
+
+Meetup : West LA Meetup 12-14-2011 by [deleted] (14 Dec 2011 1:46 UTC; 1 point)
+
+dxu's comment on Con­cepts Don’t Work That Way by lukeprog (17 Apr 2015 20:59 UTC; 1 point)
+
+Chrysophylax's comment on Con­ver­sa­tion Halters by Eliezer Yudkowsky (27 Mar 2014 0:48 UTC; 1 point)
+
+David_Gerard's comment on Hard philos­o­phy prob­lems to test peo­ple’s in­tel­li­gence? by Solvent (15 Feb 2012 8:55 UTC; 1 point)
+
+Elo's comment on Wel­come to Less Wrong! (11th thread, Jan­uary 2017) (Thread B) by Richard Korzekwa (17 Jan 2017 1:39 UTC; 0 points)
+
+endoself's comment on Bayesi­anism ver­sus Crit­i­cal Rationalism by Jayson_Virissimo (7 Apr 2011 4:09 UTC; 0 points)
+
+hyporational's comment on Open Thread, Jul. 13 - Jul. 19, 2015 by MrMind (20 Jul 2015 8:51 UTC; 0 points)
+
+DanielLC's comment on What do ra­tio­nal­ists think about the af­ter­life? by Biff Wiff (16 May 2014 16:48 UTC; 0 points)
+
+beoShaffer's comment on LW Women- Crowd­sourced re­search on Cog­ni­tive bi­ases and gender by daenerys (15 Feb 2013 21:43 UTC; 0 points)
+
+Nic_Smith's comment on Novem­ber 2013 Me­dia Thread by ArisKatsaris (3 Nov 2013 22:50 UTC; 0 points)
+
+RobertLumley's comment on Open ques­tion on the cer­tain ‘hot’ global is­sue of im­por­tance to FAI by Dmytry (24 Mar 2012 4:57 UTC; 0 points)
+
+fortyeridania's comment on Skep­ti­cism about Probability by Carinthium (2 Feb 2014 6:30 UTC; 0 points)
+
+nhamann's comment on What is the Archimedean point of moral­ity? by draq (30 Oct 2010 7:42 UTC; 0 points)
+
+DaFranker's comment on Wel­come to Less Wrong! (July 2012) by Paul Crowley (14 Sep 2012 17:33 UTC; 0 points)
+
+Eugine_Nier's comment on Cargo Cult Language by Said Achmiz (6 Feb 2012 1:03 UTC; 0 points)
+
+[deleted]'s comment on 2012 Sur­vey Results by Scott Alexander (29 Dec 2012 16:19 UTC; 0 points)
+
+Amanojack's comment on Con­figu­ra­tions and Amplitude by Eliezer Yudkowsky (8 May 2012 18:48 UTC; -1 points)
+
+A1987dM's comment on Quan­tum Me­chan­ics and Per­sonal Identity by Eliezer Yudkowsky (27 Sep 2013 16:25 UTC; -1 points)
+
+DaFranker's comment on What if Strong AI is just not pos­si­ble? by listic (8 Jan 2014 15:00 UTC; -1 points)
+
+lukeprog's comment on A Defense of Naive Metaethics by Will_Sawin (7 Jul 2011 18:45 UTC; -1 points)
+
+DaFranker's comment on A con­fu­sion about de­on­tol­ogy and consequentialism by [deleted] (13 Feb 2013 19:28 UTC; -2 points)
+
+Epiphany's comment on Near-Term Risk: Killer Robots a Threat to Free­dom and Democracy by Epiphany (15 Jun 2013 1:03 UTC; -2 points)
+
+A brief guide to not get­ting downvoted by nhamann (30 Oct 2010 2:32 UTC; -3 points)
+
+Amanojack's comment on The two mean­ings of math­e­mat­i­cal terms by JamesCole (2 May 2011 3:15 UTC; -4 points)
+
+From Ca­puch­ins to AI’s, Set­ting an Agenda for the Study of Cul­tural Co­op­er­a­tion (Part1) by diegocaleiro (27 Jun 2013 6:08 UTC; -5 points)
+
+From Ca­puch­ins to AI’s, Set­ting an Agenda for the Study of Cul­tural Co­op­er­a­tion (Part2) by diegocaleiro (28 Jun 2013 10:20 UTC; -5 points)
+
+Randaly's comment on Let’s be friendly to our allies by JGWeissman (15 Aug 2012 17:01 UTC; -6 points)
+
+JohnH's comment on The Power of Agency by lukeprog (7 May 2011 7:22 UTC; -6 points)
+
+Eliezer Yudkowsky6 Mar 2008 5:09 UTC
+267 points
+78 comments9 min readLW linkArchive
+Philosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: Vari­able Ques­tion FallaciesNext: An In­tu­itive Ex­pla­na­tion of Bayes’s Theorem
+
+Psychohistorian2 6 Mar 2008 6:35 UTC
+24 points
+
+0
+
+This summary is quite useful. Eliezer, it would be very nice if you added forward links to your post. I often find myself wanting to recommend reading a series you’ve written to a friend, but in order to read it they would need to start at the end and link their way back to the beginning. If a link to follow ups were provided at the top or bottom of prior posts, it would make these a lot easier to follow write on a particular topic, since I could recommend one post and my friend could hopefully figure out the rest.
+
+PhilGoetz 17 Dec 2017 16:17 UTC
+0 points
+
+0
+Parent
+
+[moved to top level of replies]
+
+[deleted] 8 Aug 2015 6:43 UTC
+0 points
+
+0
+Parent
+
+Yes, thanks for the summary EY! I’m so grateful that you go the lengths to make your work accessible to people who might want some periodic reminders of what you’ve written about without reading back everything. I feel reminding myself of this stuff tops up and primes rationality when the depression kicks in :)
+
+Robin2 6 Mar 2008 7:43 UTC
+−3 points
+
+0
+
+Hmm… while these are all useful guidelines for how to use words, but I don’t think all of them define wrong ways of using words. For example “You use a short word for something that you won’t need to describe often, or a long word for something you’ll need to describe often. This can result in inefficient thinking, or even misapplications of Occam’s Razor, if your mind thinks that short sentences sound “simpler”″ Which sounds more plausible, “God did a miracle” or “A supernatural universe-creating entity temporarily suspended the laws of physics”? How is either of those sentences wrong? Sure one is longer than the other, but just because somebody doesn’t know the word god or wants to explicitly define it doesn’t mean they are wrong.
+
+Ultimately, I think somebody can only be wrong when using a word if they contradict their own definition. Any other misusages are probably just using words inefficiently, rather than incorrectly.
+
+Rixie 10 Apr 2013 13:06 UTC
+12 points
+
+−1
+Parent
+
+Oh, the irony.
+
+It doesn’t matter that Eliezer defined the word “wrong” in a different way than you. You still understand what he means, there’s no point to redefining “wrong” in this case.
+
+MugaSofer 10 Apr 2013 14:55 UTC
+6 points
+
+0
+Parent
+
+“You use a short word for something that you won’t need to describe often, or a long word for something you’ll need to describe often. This can result in inefficient thinking, or even misapplications of Occam’s Razor, if your mind thinks that short sentences sound “simpler”″ Which sounds more plausible, “God did a miracle” or “A supernatural universe-creating entity temporarily suspended the laws of physics”? How is either of those sentences wrong? Sure one is longer than the other, but just because somebody doesn’t know the word god or wants to explicitly define it doesn’t mean they are wrong.
+
+The point is that the longer sentence sounds less plausible. Using shorthand (“God” for “A supernatural universe-creating entity” and “miracle” for “temporarily suspended the laws of physics”) makes the concept sound less improbable. Thus it is “wrong”, in that it is a bad idea (supposedly.)
+
+PhilGoetz 17 Dec 2017 16:02 UTC
+−2 points
+
+0
+Parent
+
+But you’re arguing against Eliezer, as “God” and “miracle” were (and still are) commonly-used words, and so Eliezer is saying those are good, short words for them.
+
+MugaSofer 5 Jan 2018 19:37 UTC
+2 points
+
+0
+Parent
+
+I don’t think so—I think Eliezer’s just being sloppy here.
+“God did a miracle” is supposed to be an example of something that sounds simple in plain English but is actually complex:
+
+One observes that the length of an English sentence is not a good way to measure “complexity”. [...] An enormous bolt of electricity comes out of the sky and hits something, and the Norse tribesfolk say, “Maybe a really powerful agent was angry and threw a lightning bolt.” The human brain is the most complex artifact in the known universe. [...] The complexity of anger, and indeed the complexity of intelligence, was glossed over by the humans who hypothesized Thor the thunder-agent.
+
+To a human, Maxwell’s Equations take much longer to explain than Thor.
+
+Manon_de_Gaillande 6 Mar 2008 8:27 UTC
+4 points
+
+0
+
+What’s the bad thing that happens if I do 35? It’s a mistake, but how will it prevent me from using words correctly? I’d still be able to imagine a triangular lightbulb.
+
+Ben_Jones 6 Mar 2008 10:19 UTC
+16 points
+
+0
+
+Good post. The various wordy posts over the last month and a half will make a very nice chapter indeed. HOWEVER!
+
+I take issue with #32, as I did in the original post. Perhaps I am the sort of guy who has a Jones for green-eyed, black-haired girls. Now [green-eyes] and [black-hair] may have exactly zero correlation with one another—having one makes you no more or less likely to have the other. However, for ease of reference (which is surely what it’s all about anyway) I talk about green-eyed, black-haired girls as ‘Wigginettes’. Now as long as I’m careful not to sneak in any connotations or start pigeonholing, how is ‘Wigginettes’ wrong?
+
+Being my own Devil’s Advocate for a sec—I understand how a word that doesn’t correspond to a pattern in Thingspace doesn’t describe anything coherent in Reality-Land. And that’s fine. Outside my head, and the heads of people I talk to, sure, Wigginettes is a Wrong Word.
+
+However, as Eliezer points out, we tailor our use of language to what is useful, what helps us get by. Pigheaded obstinacy and nitpicking are bad for communication, not good. People have utility functions, and language should be a tool for moving us in the right directions. Wigginettes does that for me, regardless of whether or not it describes a cluster.
+
+faul_sname 14 Feb 2012 0:05 UTC
+28 points
+
+0
+Parent
+
+Perhaps I am the sort of guy who has a Jones for green-eyed, black-haired girls.
+
+Then [green eyes], [girl], and [black hair] are positively correlated with [has a Jones for]. Which is a valid Bayesian inference.
+
+Venkat 6 Mar 2008 13:49 UTC
+1 point
+
+0
+
+Definitely one of the most useful posts I’ve seen on overcoming bias. I shall be referring back to this list often. I am surprised though, that you did not reference that incisive philosopher, Humpty Dumpty, who had views about a word meaning exactly what he wanted it to mean :) While I haven’t thought through the taxonomy of failures through quite as thoroughly, I spent a fair amount of time figuring out the uses of the words ‘strategy’ and ‘tactics’ in collaboration with a philosopher of language, and wondering about the motivated bias that enters into deliberately making these ambiguous words more fuzzy than they need to be. The result was a piece on the semantics of decision-making words. Somewhere in this dictionary, there is also probably a need to connect up with notions of conceptual metaphor (Lakoff) and the Sapir-Whorf hypothesis. It’ll probably come to me in a day or two. Something connecting intent, connotation, denotation… hmm.
+
+Venkat
+
+Caledonian2 6 Mar 2008 14:25 UTC
+−4 points
+
+0
+
+Besides, I can define the word “wrong” to mean anything I like—it’s not like a word can be wrong.
+
+We’ve been over this before. You can define the word however you like IF and ONLY IF you 1) explicitly state the new definition, and 2) maintain consistency by not using the word in its old sense and not permitting previous usages of that word to be compared to your new one.
+
+Words cannot be wrong. Words can be used incorrectly… as has been so repeatedly demonstrated.
+
+Ben_Jones 6 Mar 2008 15:00 UTC
+7 points
+
+0
+
+Caledonian—I don’t think anyone’s suggesting that a word can be ‘wrong’ in and of itself. Of course it comes down to usage; usage is what gives words their power (for good or bad). The idea is that words can be defined or used in such a way that they do not help us describe reality, hence a ‘wrong word’. I’m sure you’re aware of this.
+
+Of course you can define a word any way you like, no-one’s going to stop you doing so. However, some consideration is required if you wish to communicate (and, often, think) effectively. I’m sure you agree with this as well, so:
+
+Demonstrate, without using any of the loaded terms involved, how and where you disagree with the original post.
+
+spindizzy 6 Mar 2008 16:08 UTC
+−3 points
+
+1
+
+You say: “The act of defining a word to refer to all humans, except black people, seems kind of suspicious”
+
+This is gratuitously emotive and doesn’t help to clarify your point.
+
+Are you hoping to impress with your egalitarian conscience? Or are you hoping to politically bully your readers into agreement?
+
+Please allow your arguments to rest on their own merits.
+
+iwdw 6 Mar 2008 16:23 UTC
+8 points
+
+0
+
+Wigginettes does that for me, regardless of whether or not it describes a cluster.
+
+Isn’t it describing the cluster of women whom you expect to be attracted to? Surely one of the dimensions in your the subset of thingspace that you work with can be based upon your expected reaction to a set of physical features.
+
+StuartBuck 6 Mar 2008 16:45 UTC
+1 point
+
+0
+
+Great post, Eliezer.
+
+On a separate note, a lot of readers here would probably like Venkat’s blog linked above.
+
+Ben_Jones 6 Mar 2008 17:48 UTC
+0 points
+
+0
+
+iwdw,
+
+You draw your boundary around a volume of space where there is no greater-than-usual density
+
+This suggests otherwise.
+
+Remember, Thingspace doesn’t morph to one’s utility function—it is a representation of things in reality, outside one’s head. Wigginettes aren’t an identifiable cluster in Thingspace, since the two attributes they all possess aren’t correlated in any way, in stark and shocking defiance of #32.
+
+Seriously though, I’m a sucker for dark hair and green eyes.
+
+Eliezer Yudkowsky 6 Mar 2008 17:52 UTC
+9 points
+
+0
+
+Manon: What’s the bad thing that happens if I do 35?
+
+You waste years of your life on dreadful AI designs based around suggestively named LISP tokens. See Drew McDermott’s classic Artificial Intelligence Meets Natural Stupidity. More on this later.
+
+Ben Jones: Perhaps I am the sort of guy who has a Jones for green-eyed, black-haired girls.
+
+Yes, by putting arbitrary boundaries into the utility function, I can force an AI to develop concepts for things that are bound only by those boundaries. But human utility boundaries are typically around otherwise-interesting higher-density regions, due to the evolutionary origins of our psychology. In other words, this is theoretically correct, but I’ve yet to see the issue arise in real life.
+
+Spindizzy: This is gratuitously emotive and doesn’t help to clarify your point.
+
+In the original case, I talked about wiggins. Here, summarizing, I have to pick a better-known example of how arbitrarily excluding something is not only bad, but a case of trying to get away with something without justifying it.
+
+peatey 6 Mar 2008 18:14 UTC
+0 points
+
+0
+
+You waste years of your life on dreadful AI designs based around suggestively named LISP tokens. See Drew McDermott’s classic Artificial Intelligence Meets Natural Stupidity. More on this later.
+
+I take it that Eliezer is not a fan of Cyc.
+
+iwdw 6 Mar 2008 18:24 UTC
+8 points
+
+0
+
+@Ben Jones:
+
+Remember, Thingspace doesn’t morph to one’s utility function—it is a representation of things in reality, outside one’s head.
+
+But… your head is part of reality, is it not?
+
+Could you not theoretically devise an experiment that showed a correlation between the presence of black hair /​ green eyes and biochemical changes in your brain and hormonal systems?
+
+This particular cluster in Thingspace—female features which Ben Jones, specifically, finds attractive—may not be of any use to anyone but you (with the possible exception of women in your social circle who wish to pick out contact lenses and hair dye), but I don’t see how it doesn’t represent a cluster in Thingspace, unless I’m misunderstanding something. Just not a terribly useful one.
+
+I’m not disagreeing that it’s a useless word for communication, simply because of the utility of to others, I’m only thinking of the idea that if there seems to be a need for a word (i.e. to group features you find attractive), then there probably is a corresponding cluster in Thingspace, but it might be one that only you care about.
+
+spindizzy 6 Mar 2008 18:55 UTC
+8 points
+
+0
+
+Eliezer: “In the original case, I talked about wiggins. Here, summarizing, I have to pick a better-known example of how arbitrarily excluding something is not only bad, but a case of trying to get away with something without justifying it.”
+
+At the risk (certainty?) of sounding churlish, ad Hitlerum is not a convenient shorthand. It’s a logical fallacy which you’ve used a couple of times here. Being on guard against such thought patterns is the point of this blog.
+
+Suppose that I referred to the non-human status of a 20 week foetus as an example of how “arbitrarily excluding something is not only bad, but a case of trying to get away with something without justifying it”.
+
+This isn’t the space to air our political views.
+
+Incidentally, I am pro-death and well aware that negroes are human (although I don’t need quotation marks around the word “negro”, except where required by grammar).
+
+As I said, sorry to sound churlish.
+
+TraderJoe 27 Apr 2012 8:27 UTC
+0 points
+
+0
+Parent
+
+[comment deleted]
+
+MixedNuts 27 Apr 2012 9:54 UTC
+7 points
+
+0
+Parent
+
+Wait, is that the opposite of “pro-life”, or the opposite of “pro-immortality”?
+
+JulianMorrison 6 Mar 2008 19:57 UTC
+0 points
+
+0
+
+“You waste years of your life on dreadful AI designs based around suggestively named LISP tokens.” → Actually it’s worse. Any theory of mind that contradicts subjective experience must dismiss it (cf Behaviorism). Experience is an axiomatic fact. Putting theory before facts locally destroys science and stalls any attempt to progress beyond that point—it becomes a “semantic stop-sign”.
+
+LazyDave 6 Mar 2008 20:39 UTC
+1 point
+
+0
+
+Ben—remember that the original article referenced in point #32 stated that it was useful to have a word for something with traits A and B if (A correlates with B) OR (A,B correlates with something else, C). So even though green eyes do not positively correlate with dark hair, the combination does correlate with your desire.
+
+I know this is basically repeating what others have already said, but I just wanted to stress that A nd B do not have to correlate.
+
+Caledonian2 6 Mar 2008 23:53 UTC
+−3 points
+
+0
+
+it was useful to have a word for something with traits A and B if (A correlates with B) OR (A,B correlates with something else, C)
+
+It’s useful to have a word for such a thing even if we can predict nothing more from A and B.
+
+Benquo 7 Mar 2008 8:32 UTC
+0 points
+
+0
+
+What is the difference between 27 and 28?
+
+Ben_Jones 7 Mar 2008 12:27 UTC
+0 points
+
+0
+
+But… your head is part of reality, is it not?
+
+I sometimes wonder. Maybe it’s the other way round....
+
+iwdw & Dave—it’s a tempting idea, but I’d say that ultimately it’s wrong.
+
+My liking of Wigginettes is a fact about me, not a fact about Wigginettes. I can’t spontaneously create a new Thingspace dimension, say ‘look, Wigginettes glow when you look through this dimension, hence Wigginettes is an objectively valid category’. My liking is based on two unrelated properties, A and B, and maybe that ‘creates’ a third property C, but that property only describes me. Yes, my liking can be described neurochemically if you like, but that’s information about my brain. It doesn’t tell you anything about Wigginettes.
+
+I hope Eliezer will back me up on this. Remember that Thingspace should be based on Scientific Facts About Things—that’s the only way it can help us think about the world.( I guess you could argue that we each carry our own little Thingspace around with us, but, well, meh. Ideal Thingspace is (supposed to be) a direct, exhaustive map of the territory, not a map of my map.) Assigning the property ‘liked by Ben’ to Wigginettes (rather than me) is a mistake.
+
+[Hence Eliezer’s word ‘arbitrary’ when talking about trying to give this category/​utility function to an AI. I suppose the measure of an ‘arbitrary utility function’ is whether or not it requires a hack to be transferred to a machine?]
+
+But my original question stands. I’m not drawing a boundary around any objective pattern in Thingspace. Is Wigginettes a wrong word? Maybe this comes down to whether words are based on Facts About Things or Human Utility, Sticking To The Facts. And surely the latter is the more useful of the two. Eliezer, where do you go to define your words, Thingspace, or your head?
+
+-Apologies for length, all.
+
+Caledonian2 7 Mar 2008 13:31 UTC
+−2 points
+
+0
+
+Referring to objective properties statistically associated is not the only purpose of language, and it’s not the only way language helps us think.
+
+Your arguments are predicated upon a false assumption.
+
+iwdw 7 Mar 2008 18:32 UTC
+0 points
+
+0
+
+@Ben Jones:
+
+I don’t disagree about the utility of the term, I’m just trying to figure out what should be considered a dimension in “thingspace” and what shouldn’t. Obviously our brain’s hormonal environment is a rather important and immediate aspect of the environment, so we tend to lend undue importance to those things which change it.
+
+To continue to play Devil’s Advocate, where does the line get drawn?
+
+If you extend the hypothetical experiment out to a sufficiently sized random sampling of other people, and find that Wigginettes are more likely than default to induce biochemical “attractive” responses in people (despite not occurring with any greater frequency), I assume that that would then then justify the term. Even though it’s still not a word about Wigginettes themselves, but about other people’s reactions to them? Describing things in the real world doesn’t seem as simple as entity.property.
+
+I understand the point here, that using words to create meaningless divisions is either mistaken or malicious. I was just trying to see how an example played out.
+
+po8crg 24 Mar 2012 18:57 UTC
+1 point
+
+0
+Parent
+
+And, indeed, we have words or phrases for particular female physical traits that men find attractive. Look how many words there are for different shades of yellow or light brown hair, compared to just “brunette” for darker brown /​ black.
+
+[Blonde, and the many pat phrases like platinum blonde, golden blonde, dirty blonde, etc]
+
+Why? Because men find blondes more attractive on average.
+
+Similarly, there’s a set of looks that are not particularly well-correlated or particularly common but is known as “English Rose” because men find it attractive.
+
+Sure, there’s not a particular need for a word that is “woman that Ben Jones fancies”, but there’s plenty of value in “woman that has a particular look that lots of men like”
+
+celeriac 7 Mar 2008 19:39 UTC
+0 points
+
+0
+
+My first thought was to bookmark this so that I can name numbers whenever I’m having a disagreement on the Internet. This list is an excellent Fully General Counterargument.
+
+trlkly 27 Apr 2012 17:22 UTC
+1 point
+
+1
+Parent
+
+You can do that, but you’ll very likely find that whoever you linked won’t be able to understand what is being said. The author seems to have a real problem with expressing things on a level that can be understood by people who aren’t already intelligent enough to have already figured out everything he says.
+
+Joseph_Ward 4 Aug 2018 2:54 UTC
+2 points
+
+1
+Parent
+
+I would disagree with this, from personal experience. I am intelligent enough that I could have figured out these things if I thought about it hard enough and long enough, but I had not focused my attention here until I read these articles. Eliezer did a great job of expressing things that I had not thought about yet, in ways that I can understand.
+
+Of course, I’m not a random person on the Internet (literally random, that is), so that is worth taking into account when deciding whether the person you are talking to is likely to understand. Some posts are easier to understand than others, but overall I have been impressed with how accessible the Sequences are.
+
+Benya_Fallenstein 16 Dec 2008 15:53 UTC
+1 point
+
+0
+
+You give an absolute train wreck of a purported definition, then do your best to relive the crash over and over. Intelligence is not merely objective reason, but includes nonlinear subconscious processing, intuition, and emotional intelligence. Therefore, AGI needs quantum computing.
+
+Benya_Fallenstein 17 Dec 2008 10:50 UTC
+0 points
+
+0
+
+(To be clear, the previous comment was meant as a joke, not as a serious addition to the list—at least not as it stands :-))
+
+Sniffnoy 2 Mar 2010 18:52 UTC
+7 points
+
+0
+
+Something seems to have gone wrong with the markup on this page; the list now goes from 1-5 and 1-32 instead of 1-37.
+
+Amanojack 11 Mar 2010 18:12 UTC
+4 points
+
+0
+
+If everyone internalized all the points in this post (especially #11, #18, and #30), I think the world would be a lot better place.
+
+That said, for anyone overwhelmed by the prospect of keeping all these 37 points in mind, there’s a much simpler way to encapsulate most of them: Words are not the concepts they represent. That one simple fact people seem to need constant reminding of. Reflecting deeply on the unexpectedly far-reaching implications of this little reminder will probably yield all the rest of the points.
+
+RPMcMurphy 4 Oct 2014 9:08 UTC
+−7 points
+
+0
+Parent
+
+That said, for anyone overwhelmed by the prospect of keeping all these 37 points in mind, there’s a much simpler way to encapsulate most of them: Words are not the concepts they represent.
+
+Amen! Most of this site and Overcoming Bias could be condensed with such advice, leaving room for (mostly) data analysis, charts, graphs, etc.
+
+Instead, in order to discuss high-level political concepts, one has to start off with describing the defendant who has been sentenced to 10 years for a victimless crime crying, because he won’t see his little kids grow up, won’t get to make love to his wife, will be stuck inside a concrete cage that smells like human excrement, won’t have any freedom to do anything he wants, won’t be able to build a business or meet with clients, won’t be able to… (You might get the point.) So, in describing all of this suffering, then we can make a likely claim that jurors in a proper, constitutional system might have comprehended this suffering, and that their mirror neurons might have fired in sympathy with the defendant. Then, we can figure the prosecution’s odds as (percent of society that favors the law as a decimal)^12. Then we can analyze the prosecutor for the incentive data they have seemingly responded to, and the sensory and disincentive data that they seemingly have ignored, and come to the conclusion: they are sociopaths.
+
+Then we can follow a similar thread for all politicians, providing meticulously collected data from the overwhelming universe of raw, mostly-uncollected data that exists.
+
+Then we can note that cops, judges, prosecutors, and prohibitionist politicians don’t change, even if the “opposite” party is elected every single election. The perverse incentives apply to each group.
+
+Then, after haggling more about high-level definitions such as “libertarian,” “austrian economics,” “oppression” and “selective enforcement” we’re ready to begin talking politics (replete with the screeching and finger-pointing).
+
+Or, we can just admit that language does a “good enough” job for humans that are relatively smart, and that humans that are relatively stupid will purposefully misinterpret everything their perceived opposition does, with the intention of discrediting a straw man, and “defeating their enemy” (often for reasons of personal “conflict of interest”).
+
+...But that’s fine, I can tie every argument back to undeserved suffering, because our sociopath-dominated government and society causes a mountain of such suffering every day, and most other governments worldwide are even worse.
+
+Why, if I was a syntellect (superhuman synthetic intellect), I’d just kill all these “gad-damn dirty apes.”
+
+Learning to distrust human servility and conformity is a liberal tradition. Without using terms like “liberal,” in the Hayekian sense, this evolutionary kludge is difficult to convey. No amount of logic will exorcise irrational bigotries and servility from someone who is a part of modern society. The sociopathic networks have “too many (‘educational’) hooks” sunk into such people. They have been educated with 1,000 ways that wrong words can be right, to combat EY’s 37 ways that words can be manipulated to be wrong, yet sound right.
+
+At the end of the day, an appeal to the evidence is all that is possible, pointing to the cages we’ve built (in becoming the world’s number one jailor), and asking if we want to put everyone inside of them (except for our public masters, of course) or if we want to “tear down the walls.”
+
+The jury is an institution designed (by dint of the unanimity requirement) to give liberals (and anarchists, and libertarians, and people resentful of government power, and people who are religious, and people who are overly emotional, and people who are confused) the ability to overpower the servile masses and their sociopath overlords. The jury is not just a “feature” of western civilization, it is the enabler of western civilization’s “market predictability under the rule of law.” Together with jury trials (enabled empathy), and markets, western civilization has outperformed state collectivism.
+
+But it’s over now: juries worldwide have been carefully eliminated by
+1) voir dire
+2) high stakes plea bargaining combined with “cruel and unusual punishments”
+3) wrongful judicial instruction
+4) bar-licensing of lawyers (in service of the elimination of high-hierarchical-level defense speech)
+5) “contempt of court” threatening of defendant (in service of the elimination of defense speech that might arouse empathy or logic from the jury—such as high-hierarchical-level arguments)
+
+So, although “mind-killed” as I may be, I have very thick skin, and I also have a WORKABLE solution to the problem of UNFRIENDLY HUMANITY.
+
+I view solving the problem of unfriendly humanity as a necessary precursor to developing Friendly Artificial General Intelligence (FAGI?). …One more reason to call AGI “Synthetic General Intelligence.”
+
+Perhaps if we can get the SGIs to see that not all humans are sociopaths worthy of destruction, we can prevent the extermination of the human race based on the fruit our sociopath-captured governments have borne.
+
+KristyLynn 11 May 2010 23:41 UTC
+0 points
+
+0
+
+It disgusts me to realize that I make so many mistakes so regularly. Perhaps disgust isn’t the right word, though...
+
+ata 12 May 2010 0:21 UTC
+4 points
+
+0
+Parent
+
+These are mistakes that are made by almost everybody who tries to do any reasoning about philosophical, scientific, policy, or other complex issues we didn’t evolve to deal with. (Exceptions include (some) people who’ve spent a long time studying cognitive science and linguistics, and Less Wrong readers.) No need to feel disgusted at your humanness; just be grateful that you’re among the (currently few) people who will have an opportunity to do better.
+
+I’m hoping Eliezer’s eventual book becomes a best-seller and that this sequence is a prominent part of it. This is the sort of thing that everybody should know about.
+
+Taure 13 Jul 2010 8:17 UTC
+14 points
+
+0
+
+This is a good post—there are a good number of philosophers who would benefit from reading this.
+
+I’d like to add a 38, if I may, though it isn’t mine. It’s what Daniel Dennett calls a “deepity”.
+
+A deepity is a statement with two possible interpretations, such as “love is a word”.
+
+One of the interpretations is trivially true and trivially unspectacular. In this case, “love”—the word—is a word. The second interpretation is either false or suspect, but if it were true it would be profound. In this case, the non-existence of love as anything other than a verbal construct.
+
+The “deepity” is therefore able to achieve undeserved profundity via a conflation of these two interpretations. People see the trivial but true interpretation and then think that there must be some kind of truth to the false but profound one.
+
+What links here?
+Rudi­men­tary Cat­e­go­riza­tion of Less Wrong Topics by ScottL (5 Sep 2015 7:32 UTC; 39 points)
+
+Mel32 6 Sep 2010 22:50 UTC
+0 points
+
+0
+
+If I were to start referring to apples as, say, “oranges”, instead, would I have any right to say someone was “wrong” if they were to call one an “apple”? As many before me have said, it is all a matter of perspective. If a sentence in a book said, “The grass was bloodstained red,” the author would be pointing out that the grass is differing from green, which, in the author’s perspective, is the expected color for grass.
+
+The post was quite enlightening, very informative.
+
+I’m somewhat new to this site, so if I have managed to use any of my words “wrong” by the definitions listed above, inform me, please.
+
+[deleted] 27 Oct 2011 21:40 UTC
+1 point
+
+0
+
+Which sounds more plausible, “God did a miracle” or “A supernatural universe-creating entity temporarily suspended the laws of physics”?
+
+This specific example was broken for me when I first read it not long after high school. Schooling does some weird things to your brain.
+
+Sword_of_Apollo 17 Mar 2012 22:11 UTC
+1 point
+
+0
+
+I find a lot of these guidelines to be consistent with my own view. (Especially common and destructive to mental functioning in philosophy is 26.) But, to clarify, this view is one of concepts, not of words, per se. The concept is the actual mental integration for which the word is a conventional symbol. (Different languages assign different words to the same concepts, like “agua” and “water.”) Certain concepts can vary from one person/​culture to another, but in order to actually be concepts, they must be formed in accordance with a certain method.
+
+A theory of the method of forming concepts is described in Introduction to Objectivist Epistemology by Ayn Rand. I highly recommend this book to anyone who hasn’t read it.
+
+The example of “sound” in 15 is a case of a single word representing two different concepts, which can be neatly pried apart. But if the partner in a discussion or opponent in a debate is really using an invalid concept, then I consider it worthwhile to state that the concept is invalid, and to argue over it, rather than simply doing a definition comparison. This is because concepts are not reducible to their definitions. The definition specifies the essential characteristics that set the boundaries of the concept in our current context, but it leaves out a lot of information pertinent to the entities subsumed by the concept.
+
+For example, Aristotle’s (and Ayn Rand’s) definition of man is “the rational animal.” But humans have a lot of other, non-defining characteristics in common (being naturally bipedal, having a single heart, etc). If an alien came to earth that was a rational animal, but had tentacles, claws and two hearts, calling this creature a “man” or “human” would destroy the concept. To protect the integrity of the concept, the definition would have to be a bit more specific; say, “the rational animal that developed on earth.”
+
+So, a particular concept’s definition depends on the sum of knowledge available at a given time, but the concept itself subsumes the same open-ended set of entities or phenomena in reality, based on their essential similarities.
+
+I think if you understand Ayn Rand’s theory of concepts, you will find that a lot of the guidelines on this page will stem from her theory.
+
+chaosmosis 3 May 2012 5:12 UTC
+0 points
+
+0
+
+Given the extent to which the proper use of general categories of reason depends upon the ends you wish to use the concept for, and the extent to which goals and values are entangled, I’m wondering if it’s even possible to create an intelligent but non omniscient agent which uses these categories but that does not have some kind of implicit value preference structure.
+
+I don’t think it is possible, which makes FAI even harder to achieve.
+
+logicophilosophicus 4 May 2012 7:38 UTC
+0 points
+
+0
+
+I think the list strangely avoids a few very useful words and phrases. 5 is the fallacy of Reification, for example—really useful tag for a pervasive error.
+
+Wittgenstein’s concept of Family Resemblance would have been very useful in streamlining the several references to definition (e.g. defining a human being).
+
+I also missed Equivocation in there.
+
+(13 seems very dismissive of Platonic Forms—Penrose, for one, might demur.)
+
+Shanya 30 Jul 2012 13:05 UTC
+0 points
+
+0
+
+A word fails to connect to reality in the first place. Is Socrates a framster? Yes or no?
+
+What does framster mean?
+
+SusanBrennan 30 Jul 2012 13:25 UTC
+7 points
+
+0
+Parent
+
+That’s the point.
+
+beoShaffer 30 Jul 2012 15:02 UTC
+6 points
+
+0
+Parent
+
+Exactly :-) Or to be less obtuse framster isn’t supposed to mean anything in this context, hence how the sentence is an example of words being wrong.
+Also welcome to less wrong.
+
+Shanya 30 Jul 2012 17:20 UTC
+4 points
+
+0
+Parent
+
+But this word do has a meaning, at least Google Translator tells me that in Norwegian it means “the residue”. If you want meaningless word, the example should be like this “Socrates is a camipoundling”. But “Socrates is a framster” sounds like “Socrates is an abasic”, the sentence puts the subject in some weird category of objects.
+
+A1987dM 30 Jul 2012 22:13 UTC
+5 points
+
+0
+Parent
+
+at least Google Translator tells me that in Norwegian it means “the residue”
+
+Coincidence?
+
+DaFranker 30 Jul 2012 15:19 UTC
+2 points
+
+0
+Parent
+
+To explain even further, it could be seen as a demonstration of wrong usage of categorization and labels, where even if framster did have a meaning in the mental model of the speaker, it is completely arbitrary and there is no way to communicate this meaning effectively.
+
+And then, even if it were communicated properly somehow, the question would be meaningless and one would want to know what hidden real question was actually behind it; the speaker having created the term framster from nothing, the question of whether Socrates is one or not is literally to be answered by definition.
+
+Thus, the whole thing could (and really should) resolve instantly to a different question, e.g.: “Does Socrates have a large influence on the political ideals of local youths?”
+
+[deleted] 30 Jul 2012 22:45 UTC
+0 points
+
+0
+
+Your argument, if it worked, could coerce reality to go a different way by choosing a different word definition. Socrates is a human, and humans, by definition, are mortal. So if you defined humans to not be mortal, would Socrates live forever? (The Parable of Hemlock.)
+
+I don’t understand this one. If you changed the word’s definition, wouldn’t the argument just then be unsound (though valid)? Argument-by-definition doesn’t have a lot going for it, but I don’t think this is a problem. Reading the linked article hasn’t cleared things up for me. Can anyone explain what’s meant here?
+
+bigjeff5 2 Sep 2012 18:14 UTC
+2 points
+
+0
+Parent
+
+I think that’s basically the point—the argument is technically valid, but it is wrong, and you got there by using “human” wrong in the first place.
+
+Socrates is clearly human, and the definition on hand is “bipedal, featherless, and mortal”. If Socrates is mortal, then he is susceptible to hemlock. When Socrates takes hemlock and survives, you can’t change the definition of “human” to “bipedal, featherless, not mortal”. You’re still using the word “human” wrong.
+
+What’s telling here is that you don’t say “Socrates is not human” because you already know he is. If you do go down that route, even though your arguments are correct the conclusion will be intuitively wrong—just another valid but incorrect argument. There are undefined characteristics regarding what it is to be human which carry significantly more weight than the definition itself, and instead of encapsulating them in the definition you’ve tried to ignore them—tried to make reality fit your definition rather than the other way around.
+
+[deleted] 2 Sep 2012 19:49 UTC
+0 points
+
+0
+Parent
+
+I think that’s basically the point—the argument is technically valid, but it is wrong, and you got there by using “human” wrong in the first place.
+
+Well, the problem with the argument ‘Socrates is human, humans are immortal, therefore Socrates is immortal’ is that the second premise is false. Is it because the word ‘human’ is used wrongly in the argument? I don’t see how. If the problem is that my definition of ‘human’ is wrong, this still seems to be just a problem of having false beliefs about the world, not an incorrect use of language.
+
+Epiphany 25 Oct 2012 8:01 UTC
+2 points
+
+0
+
+Unsupported claim: “Everything you do in the mind has an effect, and your brain races ahead unconsciously without your supervision.”
+
+I’ve studied psychology enough to think this could be a problem, but why should anyone else think so?
+
+This is a powerful point but it’s unsupported.
+
+There is also a minor typo: “dis ease” (It’s the space.)
+
+DanielLC 22 Feb 2014 6:01 UTC
+0 points
+
+0
+
+The act of labeling something with a word, disguises a challengable inductive inference you are making. If the last 11 egg-shaped objects drawn have been blue, and the last 8 cubes drawn have been red, it is a matter of induction to say this rule will hold in the future. But if you call the blue eggs “bleggs” and the red cubes “rubes”, you may reach into the barrel, feel an egg shape, and think “Oh, a blegg.” (Words as Hidden Inferences.)
+
+The alternative is worse. When I talk about a piano, I’m disguising the inference that an object with a certain outward appearance has a series of high tension cables running through it, each carefully set up with just the right tension so that the resonant frequency of each is 2^(1/​12) times the last, with each positioned so that it can be struck with a hammer attached to each key, etc. But do you really expect me to say all that explicitly whenever I mention a piano?
+
+Polymeron 23 Mar 2015 7:48 UTC
+1 point
+
+0
+Parent
+
+That’s why the rule says challengable inductive inference. If in the context of the discussion this is not obvious then maybe yes, but in almost every other instance it’s fine to make these shortcuts, so long as you’reunderstood.
+
+[deleted] 23 Mar 2015 13:00 UTC
+1 point
+
+0
+Parent
+
+Or if it is not relevant.
+
+I certainly don’t know how a Piano works on the inside, but I don’t need others to give me a complete description of the inner workings of a Piano to understand that a Piano makes sounds when they play it.
+
+Vulture 23 Feb 2014 1:32 UTC
+0 points
+
+0
+Parent
+
+No, but it would be good to bear in mind if you ever find yourself in an argument over whether instrument X is “really” a piano.
+
+matteyas 4 Oct 2014 20:20 UTC
+1 point
+
+0
+
+It’s a bit unfortunate that these articles are so old; or rather that people aren’t as active presently. I’d have enjoyed some discussion on a few thoughts. Take for instance #5, I shall paste it for convenience:
+
+If the last 11 egg-shaped objects drawn have been blue, and the last 8 cubes drawn have been red, it is a matter of induction to say this rule will hold in the future. But if you call the blue eggs “bleggs” and the red cubes “rubes”, you may reach into the barrel, feel an egg shape, and think “Oh, a blegg.”
+
+It struck me that this is very deeply embedded in us, or at least in me. I read this and noticed that my thought was along the lines of “yes, how silly, it could be a non-colored egg.” What’s wrong with this? What’s felt is an egg shape, not an egg. Might as well be something else entirely.
+
+So how deep does this one go; and how deep should we unravel it? I guess “all the way down” is the only viable answer. I can assign a high probability that it is an egg, I simply shouldn’t conclude anything just yet. When is it safe to conclude something? I take it the only accurate answer would be “never.” So we end up with something that I believe most of us holds as true already: Nothing is certain.
+
+It is of course a rather subtle distinction going from ‘certain’ to ‘least uncertain under currently assessed information’. Whenever I speak about physics or other theoretical subjects, I’m always in the mindset that what I’m discussing is on the basis of “as is currently understood,” so in that area it feels rather natural. I suppose it’s just a bit startling to find that the chocolate I just ate is only chocolate as a best candidate rather than as a true description of reality; that biases can be found in such “personal” places.
+
+[deleted] 15 Jun 2015 9:40 UTC
+0 points
+
+0
+
+this was a misleading comment, removed and replaced by this placeholder comment
+
+Anders_H 15 Jun 2015 16:58 UTC
+4 points
+
+0
+Parent
+
+The person who taught your epidemiology course is incorrect: As Ilya correctly points out, differential misclassification can certainly occur even in a prospective cohort study. Unfortunately, this exact confusion is very common in epidemiology.
+
+Some reading on how to reason about mismeasurement bias using causal graph is available in Chapter 9 of the Hernan and Robins textbook, which is freely available at http://​​www.hsph.harvard.edu/​​miguel-hernan/​​causal-inference-book/​​ .The chapter contains all the relevant principles, but doesn’t explicitly answer your questions. I also have a set of slides that I use for teaching this material, these slides contain some directly relevant examples and graphs. I can send these to you if you contact me at ahuitfeldt@mail.harvard.edu.
+
+The distinction between “cohort” and “case-control” is not relevant here. The professor is using it as shorthand for retrospective/​prospective. The most useful definition of “prospective” and “retrospective” is that in a prospective study, the exposure variable is measured before the outcome variable is instantiated. This is a useful definition because under this definition of prospective, there cannot be a directed path from the outcome to the measurement error on the exposure, which reduces the potential for bias. However, there can still be common causes of the outcome and the measurement error on the exposure, which will results in differential misclassification of the exposure.
+
+[deleted] 16 Jun 2015 2:42 UTC
+0 points
+
+0
+Parent
+
+this was an unhelpful comment, removed and replaced by this comment
+
+IlyaShpitser 16 Jun 2015 9:53 UTC
+0 points
+
+0
+Parent
+
+I think it would be very valuable for thinking about bias etc. in epi studies to learn about d-separation, good work on being proactive about it!
+
+[deleted] 17 Jun 2015 6:52 UTC
+0 points
+
+0
+Parent
+
+Thank you, I hope I indeed follow through on it! My interest in epi stems from an interest in stats, which was sparked from reading about Bayesian statistics through LW and being utterly overwhelmed from it!
+
+IlyaShpitser 15 Jun 2015 17:16 UTC
+0 points
+
+0
+Parent
+
+Thanks—I was worried I was missing something. Incidentally, I wrote something that you might be interested in on missing data under MNAR that is generalizable to some measurement error contexts.
+
+IlyaShpitser 15 Jun 2015 9:52 UTC
+1 point
+
+0
+Parent
+
+The answer given was that according to the differential measurement lecture, differential measurement of exposure has to
+be dependent on the outcome for there to be error, that’s not going to happen for cohort study cause it’s not till years later
+that the outcome is known.
+
+How are exposures set in this study? What if the final outcome depends on an unobserved cause (health status maybe?), and that cause also influences an intermediate outcome that does determine the measurement of some exposure along the way (via doctor assigning the exposure based on it, maybe?)
+
+Or am I misunderstanding the question? (This is entirely possible, I don’t fully understand epi lingo, I just construct counterexamples via d-separation/​d-connection in graphs directly).
+
+Where are you taking this class, if you don’t mind me asking?
+
+[deleted] 16 Jun 2015 2:29 UTC
+0 points
+
+0
+Parent
+
+this was an unhelpful comment, removed and replaced by this comment
+
+IlyaShpitser 16 Jun 2015 9:44 UTC
+0 points
+
+0
+Parent
+
+In cohort studies, the experimenter doesn’t set exposures
+
+Yes I understand, but somehow they are set (maybe by Nature?) The real question I was getting at is whether they were randomized at all, or pseudo-randomized somehow. I was guessing not, so you get time-varying confounding issues alluded to in my earlier post.
+
+So by unobserved you’re referring to say, self report of health status?
+
+Well, if it’s self-report you observe a proxy. I meant actually unobserved (e.g. we don’t even ask them, but the variable is still there and relevant).
+
+In epi this is meets the causal pathways definition for a confounder, if I’m not mistaken.
+
+You are right, in this case, but should be careful about the definition of a confounder, see:
+
+http://​​arxiv.org/​​abs/​​1304.0564
+
+Did you mean “confounding” rather than “confounder”? The difference is important (the former is much easier to define, it is just related to what is called conditional ignorability in epi, the latter is quite tricky).
+
+Is there another question you might be getting at that I can answer without identifying myself?
+
+No, that was enough information, thank you.
+
+PhilGoetz 17 Dec 2017 16:28 UTC
+1 point
+
+0
+
+Yep, nice list. One I didn’t see: Defining a word in a way that is less useful (that conveys less information) and rejecting a definition that is more useful (that conveys more information). Always choose the definition that conveys more information; eliminate words that convey zero information. It’s common for people to define words that convey zero information.
+But if everything has the Buddha nature, nothing empirical can be said about what it means and it conveys no information.
+
+Along similar lines, always define words so that no other word conveys too much mutual information about them. For instance, many people have argued with me that I should use the word “totalitarian” to mean “the fascist nations of the 20th century”. Well, we already have a word for that, which is “fascist”, so to define “totalitarian” as a synonym makes it a useless word.
+
+The word “fascist” raises the question of when to use extensional vs. intensional definitions. It’s conventionally defined extensionally, to mean the Axis powers in World War 2. This is not a useful definition, as we already have a label for that. Worse, people define it extensionally but pretend they’ve defined it intensionally. They call people today “fascist”, conveying connotations in a way that can’t be easily disputed, because there is no intensional definition to evaluate the claim.
+
+Sometimes you want to switch back and forth between extensional and intensional definitions. In art history, we have a term for each period or “movement”, like “neo-classical” and “Romantic”. The exemplars of the category are defined both intensionally and extensionally, as those artworks having certain properties and produced in certain geographic locations during a certain time period. It is appropriate to use the intensional definition alone if describing a contemporary work of art (you can call it “Romantic” if it looks Romantic), but inappropriate to use examples that fit the intension but not the extension as exemplars, or to deduce things about the category from them. This keeps the categories stable.
+
+A little ways back I talked about defining the phrase “Buddha nature”. Phrases also have definitions—words are not atoms of meaning. Analyzing a phrase as if our theories of grammar worked, ignoring knowledge about idioms, is an error rationalists sometimes commit.
+
+Pretending words don’t have connotations is another error rationalists commit regularly—often in sneaky ways, deliberately using the connotations, while pretending they’re being objective. Marxist literary criticism, for instance, loads a lot into the word “bourgeois”.
+
+Another category missing here is gostoks and doshes. This is when a word’s connotations and tribal affiliation-signalling displace its semantic content entirely, and no one notices it has no meaning. Extremely common in Marxism and in “theory”; “capitalism” and “bourgeois” being the most-common examples. “Bourgeoisie” originally meant people like Rockefeller and the Borges, but as soon as artists began using the word, they used it to mean “people who don’t like my scribbles,” and now it has no meaning at all, but demonic connotations. “Capitalism” has no meaning that can single out post-feudal societies in the way Marxists pretend it does; any definition of it that I’ve seen includes things that Marxists don’t want it to, like the Soviet Union, absolute monarchies, or even hunter-gatherer tribes. It should be called simply “free markets”, which is what they really object to and much more accurate at identifying the economic systems that they oppose, but they don’t want to admit that the essence of their ideology is opposition to freedom.
+
+Avoid words with connotations that you haven’t justified. Don’t say “cheap” if you mean “inexpensive” or “shoddy”. Especially avoid words which have a synonym with the opposite connotation: “frugal” and “miserly”. Be aware of your etymological payloads: “awesome” and “awful” (full of awe), “incredible” (not credible), “wonderful” (thought-provoking).
+
+Another category is when 2 subcultures have different sets of definitions for the same words, and don’t realize it. For instance, in the humanities, “rational” literally means ratio-based reasoning, which rejects the use of real numbers, continuous equations, empirical measurements, or continuous changes over time. This is the basis of the Romantic/​Modernist hatred of “science” (by which they mean Aristotelian rationality), and of many post-modern arguments that rationality doesn’t work. Many people in the humanities are genuinely unaware that science is different than it was 2400 years ago, and most were 100% ignorant of science until perhaps the mid-20th century. A “classical education” excludes all empiricism.
+
+Another problem is meaning drift. When you use writings from different centuries, you need to be aware of how the meanings of words and phrases have changed over time. For instance, the official academic line nowadays is that alchemy and astrology are legitimate sciences; this is justified in part by using the word “science” as if it meant the same as the Latin “scientia”.
+
+A problem in translation is decollapsing definitions. Medieval Latin conflated some important concepts because their neo-Platonist metaphysics said that all good things sort of went together. So for instance they had a single word, “pulchrum”, which meant “beautiful”, “sexy”, “appropriate to its purpose”, “good”, and “noble”. Translators will translate that into English based on the context, but that’s not conveying the original mindset. This comes up most frequently when ancient writers made puns, like Plato’s puns in the Crito, or “Jesus’” (Greek) puns in the opening chapters of John, which are destroyed in translation, leaving the reader with a false impression of the speaker’s intent.
+
+I disagree that saying “X is Y by definition” Is usually wrong, but I should probably leave my comment on that post instead of here.
+
+garett black 26 Oct 2020 23:17 UTC
+1 point
+
+−1
+
+If my son wanted to be a poet, I’d keep this article away from him. I feel you are at war with the fluidity of language. I can describe what a volcano is to you with these amazing tools that are always subject to mishandling (in 37,000 ways) by speaker or listener, ever inferior to explanation by Action or intimate experience—throwing you into a volcano is real communication!
+
+Jake_NB 20 Sep 2021 21:17 UTC
+1 point
+
+0
+
+No. 6 - I go again to logic and formal math, where you can never define any term by extensions because sensory perceptions aren’t reliable enough to give the needed certainty of Truths. Then you will have to start from some undefined elementary terms and work up from there. Other than this, though, this rule of thumb seems quite trustworthy.
+
+No. 29 - that’s just inaccurate. As you said, there are more and less typical examples of a cluster. Hinduism is a typical example, so we stop there. But if a case is a borderline member of a cluster, you will need to run it by the definition to know for sure. And sometimes this will be more reliable or feasible than checking the desired query directly. Whether atheism is a religion will then depend on the definition of religion, which in turn SHOULD depend on the purpose of the categorization.
+
+No.30 - maybe I have a use for “animals that look like fish”. “Belonging together” is not such a trivial matter, And there is sometimes serious merit for reclustering.
+But it’s still the listmaker’s responsibility to show that the list has value.
+
+Mati_Roy 14 Jan 2022 22:25 UTC
+2 points
+
+0
+
+this video has a good guide to how humans use (and misuse) categories: 1. Introduction to Human Behavioral Biology
+
+ship_shlap 11 Mar 2022 21:08 UTC
+1 point
+
+0
+
+Number 9, “dis ease” typo
+
+lesswronguser123 29 Apr 2024 9:38 UTC
+1 point
+
+0
+
+37 spotted! Fun fact 37 is one of the subs-consciously more typical 2 digit number our mind stores for the similarity cluster of random number. I found a good video and website on this topic.
+
+Back to top

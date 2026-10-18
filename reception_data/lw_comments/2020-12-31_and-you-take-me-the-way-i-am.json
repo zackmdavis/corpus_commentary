@@ -1,0 +1,77 @@
+{
+ "post": {
+  "_id": "8B5DpBwMdNPxXfDrM",
+  "title": "And You Take Me the Way I Am",
+  "postedAt": "2020-12-31T05:45:24.952Z",
+  "pageUrl": "https://www.lesswrong.com/posts/8B5DpBwMdNPxXfDrM/and-you-take-me-the-way-i-am",
+  "commentCount": 5
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "npZJSGu5xBz2EDLWS",
+   "parentCommentId": null,
+   "postedAt": "2020-12-31T06:38:56.226Z",
+   "baseScore": 10,
+   "user": {
+    "username": "EpicNamer27098",
+    "displayName": "EpicNamer27098"
+   },
+   "contents": {
+    "markdown": "In the course of speaking honestly, you might not be speaking with everything you know and identify with present in mind. Maybe your working memory can't easily reconcile everything known at once. To take one instance of honest expression and deem it decisively representative of a person's entire potential honesty, as if you had never confronted a complex dilemma and spoke based on formative impressions, is an act of bad faith, or just very naive.\n\nListeners might have misconceptions about the required implications of the spoken words as well.\u00a0  \n  \nWe can accept all of:\u00a0  \nA. The spoken words tell us something about the person's mindset  \nB. The spoken words don't tell us everything about the person's mindset\u00a0  \nC. The background assumptions with which we make inferences about the person's mindset given their spoken words might be flawed  \nD. The speaker might not mean all of the connotations perceived by the listeners  \nE. Listeners are predisposed to hearing things in extremely simplistic terms, especially on certain topics, and are irrationally unprepared to even entertain background information from which the speaker makes sense  \nF. The speaker is being honest with respect to the information they are biologically capable of thinking about at one time, which may not be all the information they can notice, and future versions of themselves could readily disavow old positions once this information is recalled; \"future\" being as soon as during the course of the same conversation, awkward though it may be to reveal your imperfection."
+   }
+  },
+  {
+   "_id": "CKmD59dkqqQTszvj5",
+   "parentCommentId": null,
+   "postedAt": "2020-12-31T07:15:09.923Z",
+   "baseScore": 1,
+   "user": {
+    "username": "arxhy",
+    "displayName": "arxhy"
+   },
+   "contents": {
+    "markdown": "Listeners are probably not assuming that the person they are listening to is being honest."
+   }
+  },
+  {
+   "_id": "7YimXvzfrWB8Y3Dvq",
+   "parentCommentId": null,
+   "postedAt": "2020-12-31T19:01:38.589Z",
+   "baseScore": 8,
+   "user": {
+    "username": "stuart-anderson",
+    "displayName": "Stuart Anderson"
+   },
+   "contents": {
+    "markdown": "-"
+   }
+  },
+  {
+   "_id": "WqpPCqAu7bJmSCMkv",
+   "parentCommentId": null,
+   "postedAt": "2020-12-31T19:16:01.463Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Zvi",
+    "displayName": "Zvi"
+   },
+   "contents": {
+    "markdown": "Do you believe that all strategy is deception?"
+   }
+  },
+  {
+   "_id": "r6FWNqLbiAfSTmJdK",
+   "parentCommentId": null,
+   "postedAt": "2021-01-02T02:59:22.248Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "I am many, and very often not at my best. \u00a0I'm fine with people knowing that, but I don't want them to mistakenly think that what they saw was the best they can expect, ever. \u00a0I'd much rather them know that I routinely review my actions and correct the ones I am able to.\n\n\"wait, I didn't mean that\" is just a common way to point this out.\n\nedited to add:\n\n> You wouldn't want people to have *false beliefs*, would you!?\n\nPeople are going to have false beliefs. \u00a0I'd rather they have slightly more nuanced and less-false beliefs. \u00a0Failing that, I'd rather their false beliefs are less personally harmful to me."
+   }
+  }
+ ]
+}

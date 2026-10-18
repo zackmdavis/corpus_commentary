@@ -1,0 +1,705 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+The Cluster Structure of Thingspace
+
+Eliezer Yudkowsky8 Feb 2008 0:07 UTC
+170 points
+32 comments4 min readLW linkArchive
+Carving / Clustering RealityThingspacePhilosophy of LanguageWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+The notion of a “configuration space” is a way of translating object descriptions into object positions. It may seem like blue is “closer” to blue-green than to red, but how much closer? It’s hard to answer that question by just staring at the colors. But it helps to know that the (proportional) color coordinates in RGB are 0:0:5, 0:3:2 and 5:0:0. It would be even clearer if plotted on a 3D graph.
+
+In the same way, you can see a robin as a robin—brown tail, red breast, standard robin shape, maximum flying speed when unladen, its species-typical DNA and individual alleles. Or you could see a robin as a single point in a configuration space whose dimensions described everything we knew, or could know, about the robin.
+
+A robin is bigger than a virus, and smaller than an aircraft carrier—that might be the “volume” dimension. Likewise a robin weighs more than a hydrogen atom, and less than a galaxy; that might be the “mass” dimension. Different robins will have strong correlations between “volume” and “mass”, so the robin-points will be lined up in a fairly linear string, in those two dimensions—but the correlation won’t be exact, so we do need two separate dimensions.
+
+This is the benefit of viewing robins as points in space: You couldn’t see the linear lineup as easily if you were just imagining the robins as cute little wing-flapping creatures.
+
+A robin’s DNA is a highly multidimensional variable, but you can still think of it as part of a robin’s location in thingspace—millions of quaternary coordinates, one coordinate for each DNA base—or maybe a more sophisticated view that . The shape of the robin, and its color (surface reflectance), you can likewise think of as part of the robin’s position in thingspace, even though they aren’t single dimensions.
+
+Just like the coordinate point 0:0:5 contains the same information as the actual HTML color blue, we shouldn’t actually lose information when we see robins as points in space. We believe the same statement about the robin’s mass whether we visualize a robin balancing the scales opposite a 0.07-kilogram weight, or a robin-point with a mass-coordinate of +70.
+
+We can even imagine a configuration space with one or more dimensions for every distinct characteristic of an object, so that the position of an object’s point in this space corresponds to all the information in the real object itself. Rather redundantly represented, too—dimensions would include the mass, the volume, and the density.
+
+If you think that’s extravagant, quantum physicists use an infinite-dimensional configuration space, and a single point in that space describes the location of every particle in the universe. So we’re actually being comparatively conservative in our visualization of thingspace—a point in thingspace describes just one object, not the entire universe.
+
+If we’re not sure of the robin’s exact mass and volume, then we can think of a little cloud in thingspace, a volume of uncertainty, within which the robin might be. The density of the cloud is the density of our belief that the robin has that particular mass and volume. If you’re more sure of the robin’s density than of its mass and volume, your probability-cloud will be highly concentrated in the density dimension, and concentrated around a slanting line in the subspace of mass/​volume. (Indeed, the cloud here is actually a surface, because of the relation VD = M.)
+
+“Radial categories” are how cognitive psychologists describe the non-Aristotelian boundaries of words. The central “mother” conceives her child, gives birth to it, and supports it. Is an egg donor who never sees her child a mother? She is the “genetic mother”. What about a woman who is implanted with a foreign embryo and bears it to term? She is a “surrogate mother”. And the woman who raises a child that isn’t hers genetically? Why, she’s an “adoptive mother”. The Aristotelian syllogism would run, “Humans have ten fingers, Fred has nine fingers, therefore Fred is not a human” but the way we actually think is “Humans have ten fingers, Fred is a human, therefore Fred is a ‘nine-fingered human’.”
+
+We can think about the radial-ness of categories in intensional terms, as described above—properties that are usually present, but optionally absent. If we thought about the intension of the word “mother”, it might be like a distributed glow in thingspace, a glow whose intensity matches the degree to which that volume of thingspace matches the category “mother”. The glow is concentrated in the center of genetics and birth and child-raising; the volume of egg donors would also glow, but less brightly.
+
+Or we can think about the radial-ness of categories extensionally. Suppose we mapped all the birds in the world into thingspace, using a distance metric that corresponds as well as possible to perceived similarity in humans: A robin is more similar to another robin, than either is similar to a pigeon, but robins and pigeons are all more similar to each other than either is to a penguin, etcetera.
+
+Then the center of all birdness would be densely populated by many neighboring tight clusters, robins and sparrows and canaries and pigeons and many other species. Eagles and falcons and other large predatory birds would occupy a nearby cluster. Penguins would be in a more distant cluster, and likewise chickens and ostriches.
+
+The result might look, indeed, something like an astronomical cluster: many galaxies orbiting the center, and a few outliers.
+
+Or we could think simultaneously about both the intension of the cognitive category “bird”, and its extension in real-world birds: The central clusters of robins and sparrows glowing brightly with highly typical birdness; satellite clusters of ostriches and penguins glowing more dimly with atypical birdness, and Abraham Lincoln a few megaparsecs away and glowing not at all.
+
+I prefer that last visualization—the glowing points—because as I see it, the structure of the cognitive intension followed from the extensional cluster structure. First came the structure-in-the-world, the empirical distribution of birds over thingspace; then, by observing it, we formed a category whose intensional glow roughly overlays this structure.
+
+This gives us yet another view of why words are not Aristotelian classes: the empirical clustered structure of the real universe is not so crystalline. A natural cluster, a group of things highly similar to each other, may have no set of necessary and sufficient properties—no set of characteristics that all group members have, and no non-members have.
+
+But even if a category is irrecoverably blurry and bumpy, there’s no need to panic. I would not object if someone said that birds are “feathered flying things”. But penguins don’t fly!—well, fine. The usual rule has an exception; it’s not the end of the world. Definitions can’t be expected to exactly match the empirical structure of thingspace in any event, because the map is smaller and much less complicated than the territory. The point of the definition “feathered flying things” is to lead the listener to the bird cluster, not to give a total description of every existing bird down to the molecular level.
+
+When you draw a boundary around a group of extensional points empirically clustered in thingspace, you may find at least one exception to every simple intensional rule you can invent.
+
+But if a definition works well enough in practice to point out the intended empirical cluster, objecting to it may justly be called “nitpicking”.
+
+What links here?
+Diseased think­ing: dis­solv­ing ques­tions about disease by Scott Alexander (30 May 2010 21:16 UTC; 580 points)
+
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+Is be­ing sexy for your homies? by Valentine (13 Dec 2023 20:37 UTC; 210 points)
+
+The First Sam­ple Gives the Most Information by Mark Xu (24 Dec 2020 20:39 UTC; 162 points)
+
+Com­ment on “En­doge­nous Epistemic Fac­tion­al­iza­tion” by Zack_M_Davis (20 May 2020 18:04 UTC; 161 points)
+
+Defend­ing the non-cen­tral fallacy by Matthew Barnett (9 Mar 2021 21:42 UTC; 141 points)
+
+Where to Draw the Boundaries? by Zack_M_Davis (13 Apr 2019 21:34 UTC; 131 points)
+
+In praise of fake frameworks by Valentine (11 Jul 2017 2:12 UTC; 130 points)
+
+Con­ver­gent Ab­strac­tion Hypothesis by Jan_Kulveit (15 May 2026 0:04 UTC; 125 points)
+
+EA con­sid­er­a­tions re­gard­ing in­creas­ing poli­ti­cal polarization by Alfred Dreyfus (EA Forum; 19 Jun 2020 8:25 UTC; 109 points)
+
+SotW: Be Specific by Eliezer Yudkowsky (3 Apr 2012 6:11 UTC; 109 points)
+
+Towards a Less Bul­lshit Model of Semantics by johnswentworth (17 Jun 2024 15:51 UTC; 108 points)
+
+Nat­u­ral La­tents: The Concepts by johnswentworth (20 Mar 2024 18:21 UTC; 96 points)
+
+Ar­gu­ing “By Defi­ni­tion” by Eliezer Yudkowsky (20 Feb 2008 23:37 UTC; 95 points)
+
+Where to Draw the Boundary? by Eliezer Yudkowsky (21 Feb 2008 19:14 UTC; 94 points)
+
+Un­nat­u­ral Cat­e­gories Are Op­ti­mized for Deception by Zack_M_Davis (8 Jan 2021 20:54 UTC; 94 points)
+
+What should ex­pe­rienced ra­tio­nal­ists know? by sapphire (13 Oct 2020 17:32 UTC; 89 points)
+
+A sum­mary of Con­den­sa­tion and its re­la­tion to Nat­u­ral Latents by Jeremy Gillen (4 Mar 2026 22:22 UTC; 87 points)
+
+Cat­e­go­riz­ing Has Consequences by Eliezer Yudkowsky (19 Feb 2008 1:40 UTC; 85 points)
+
+[Valence se­ries] 3. Valence & Beliefs by Steven Byrnes (11 Dec 2023 20:21 UTC; 84 points)
+
+Numer­acy ne­glect—A per­sonal postmortem by vlad.proex (27 Sep 2020 15:12 UTC; 81 points)
+
+Su­per­ex­po­nen­tial Con­ceptspace, and Sim­ple Words by Eliezer Yudkowsky (24 Feb 2008 23:59 UTC; 81 points)
+
+How to pick your categories by [deleted] (11 Nov 2010 15:13 UTC; 78 points)
+
+Sel­ling Nonapples by Eliezer Yudkowsky (13 Nov 2008 20:10 UTC; 77 points)
+
+Mu­tual In­for­ma­tion, and Den­sity in Thingspace by Eliezer Yudkowsky (23 Feb 2008 19:14 UTC; 77 points)
+
+The pos­si­ble shared Craft of de­liber­ate Lex­i­co­ge­n­e­sis
+by TsviBT (20 May 2023 5:56 UTC; 71 points)
+
+Neu­ral Categories by Eliezer Yudkowsky (10 Feb 2008 0:33 UTC; 71 points)
+
+Plan for mediocre al­ign­ment of brain-like [model-based RL] AGI by Steven Byrnes (13 Mar 2023 14:11 UTC; 69 points)
+
+When Are Cir­cu­lar Defi­ni­tions A Prob­lem? by johnswentworth (28 May 2024 20:00 UTC; 68 points)
+
+Re­duc­tive Reference by Eliezer Yudkowsky (3 Apr 2008 1:37 UTC; 66 points)
+
+Plu­ral­is­tic Mo­ral Reductionism by lukeprog (1 Jun 2011 0:59 UTC; 64 points)
+
+Mo Putera's comment on Mo Putera’s Shortform by Mo Putera (29 May 2026 16:07 UTC; 62 points)
+
+What I’d change about differ­ent philos­o­phy fields by Rob Bensinger (8 Mar 2021 18:25 UTC; 57 points)
+
+Zack_M_Davis's comment on There’s no such thing as a tree (phy­lo­ge­net­i­cally) by eukaryote (3 May 2021 4:54 UTC; 54 points)
+
+The Game of Masks by Slimepriestess (27 Apr 2022 18:03 UTC; 51 points)
+
+Re­ply to Nate Soares on Dolphins by Zack_M_Davis (10 Jun 2021 4:53 UTC; 49 points)
+
+Challenges to Yud­kowsky’s Pro­noun Re­form Proposal by Zack_M_Davis (13 Mar 2022 20:38 UTC; 48 points)
+
+Pro­posal: Con­sider not us­ing dis­tance-di­rec­tion-di­men­sion words in ab­stract discussions by moridinamael (9 Aug 2022 20:44 UTC; 46 points)
+
+Why I think the Foun­da­tional Re­search In­sti­tute should re­think its approach by MikeJohnson (EA Forum; 20 Jul 2017 20:46 UTC; 45 points)
+
+The Nat­u­ral Ab­strac­tion Hy­poth­e­sis: Im­pli­ca­tions and Evidence by CallumMcDougall (14 Dec 2021 23:14 UTC; 44 points)
+
+Clas­si­cal Con­figu­ra­tion Spaces by Eliezer Yudkowsky (15 Apr 2008 8:40 UTC; 44 points)
+
+The Na­ture of Logic by Eliezer Yudkowsky (15 Nov 2008 6:20 UTC; 43 points)
+
+Mass_Driver's comment on The Ne­glected Virtue of Scholarship by lukeprog (5 Jan 2011 8:36 UTC; 40 points)
+
+Un­nat­u­ral Categories by Eliezer Yudkowsky (24 Aug 2008 1:00 UTC; 40 points)
+
+No Log­i­cal Pos­i­tivist I by Eliezer Yudkowsky (4 Aug 2008 1:06 UTC; 40 points)
+
+Blood Is Thicker Than Water 🐬 by Zack_M_Davis (28 Sep 2021 3:21 UTC; 39 points)
+
+Be­ing For­eign and Be­ing Sane by fowlertm (25 May 2013 0:58 UTC; 35 points)
+
+Book Re­view: Philo­soph­i­cal In­ves­ti­ga­tions by Wittgenstein by Chris_Leong (12 Oct 2021 20:14 UTC; 35 points)
+
+AXRP Epi­sode 15 - Nat­u­ral Ab­strac­tions with John Wentworth by DanielFilan (23 May 2022 5:40 UTC; 34 points)
+
+The Uni­vari­ate Fallacy by Zack_M_Davis (15 Jun 2019 21:43 UTC; 34 points)
+
+Rocks to Rules: Climb­ing a Rick­ety-But-In­ter­op­er­a­ble Se­man­tic Ladder by Lorxus (3 Oct 2026 8:07 UTC; 29 points)
+
+What wheels do EAs and ra­tio­nal­ists rein­vent? by Arepo (EA Forum; 17 Oct 2024 4:42 UTC; 28 points)
+
+Fuzzy Boundaries, Real Concepts by orthonormal (7 May 2018 3:39 UTC; 28 points)
+
+paulfchristiano's comment on Let’s See You Write That Cor­rigi­bil­ity Tag by Eliezer Yudkowsky (20 Jun 2022 4:16 UTC; 28 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+CFAR 2017 Retrospective by Valentine (19 Dec 2017 19:38 UTC; 26 points)
+
+Ap­prox­i­mate Nat­u­ral La­tents Have Ex­act Prices by Haru (4 Jul 2026 1:57 UTC; 25 points)
+
+What are some good ex­am­ples of myths that en­cap­su­lates gen­uine, non­triv­ial wis­dom? by SpectrumDT (22 Jul 2025 9:26 UTC; 25 points)
+
+Why officers vs. en­listed? by JoshuaFox (30 Oct 2013 20:14 UTC; 23 points)
+
+How can I strate­gi­cally write a com­plex best­sel­ler? (4HS001) by Neotenic (12 Jun 2013 8:47 UTC; 22 points)
+
+Nam­ing and poin­ter thickness by Biff Wiff (28 Apr 2021 6:35 UTC; 22 points)
+
+Valentine's comment on The In­tel­li­gent So­cial Web by Valentine (23 Feb 2018 18:23 UTC; 21 points)
+
+johnswentworth's comment on Four Com­po­nents of Au­dac­ity by lsusr (21 Jun 2021 16:53 UTC; 20 points)
+
+Lighthaven Se­quences Read­ing Group #6 (Tues­day 10/​15) by Aella (10 Oct 2024 20:34 UTC; 19 points)
+
+Marginal Cases, On Trial by Devin Kalish (EA Forum; 22 Jun 2022 20:06 UTC; 18 points)
+
+In­tro­duc­tion to Con­nec­tion­ist Model­ling of Cog­ni­tive Pro­cesses: a chap­ter by chap­ter re­view by Kaj_Sotala (30 Sep 2012 4:24 UTC; 18 points)
+
+johnswentworth's comment on Why I’m not a Bayesian by Richard_Ngo (6 Oct 2024 20:30 UTC; 17 points)
+
+Declus­ter­ing, reclus­ter­ing, and filling in thingspace by Stuart_Armstrong (6 Dec 2021 20:53 UTC; 16 points)
+
+AnnaSalamon's comment on Har­dened Prob­lems Make Brit­tle Models by cousin_it (7 May 2009 12:49 UTC; 15 points)
+
+The Use­ful Defi­ni­tion of “I” by plex (28 May 2014 11:44 UTC; 15 points)
+
+Mak­ing it harder for an AGI to “trick” us, with STVs by Tor Økland Barstad (9 Jul 2022 14:42 UTC; 15 points)
+
+Learn­ing Nor­ma­tivity: Language by Bunthut (5 Feb 2021 22:26 UTC; 14 points)
+
+Mass_Driver's comment on Wel­come to Less Wrong! by MBlume (22 Dec 2011 9:49 UTC; 14 points)
+
+Get­ting from an un­al­igned AGI to an al­igned AGI? by Tor Økland Barstad (21 Jun 2022 12:36 UTC; 14 points)
+
+Com­mon Uses of “Ac­cep­tance” by Yi-Yang (26 Jul 2024 11:18 UTC; 14 points)
+
+Cal­ibrat­ing Against Un­de­tectable Utilons and Goal Chang­ing Events (part1) by diegocaleiro (20 Feb 2013 9:09 UTC; 13 points)
+
+Zack_M_Davis's comment on Lo­cal Or­di­nances of Fun by Alicorn (24 Jun 2012 7:10 UTC; 12 points)
+
+An in­tro­duc­tion to mod­u­lar in­duc­tion and some at­tempts to solve it by Thomas Kehrenberg (23 Dec 2025 22:35 UTC; 12 points)
+
+Steven Byrnes's comment on Deep Deceptiveness by So8res (23 Mar 2023 3:35 UTC; 12 points)
+
+Valentine's comment on Gears in understanding by Valentine (15 May 2017 22:30 UTC; 11 points)
+
+What does “lat­tice of ab­strac­tion” mean? by Biff Wiff (13 Dec 2025 21:19 UTC; 11 points)
+
+Cal­ibrat­ing Against Un­de­tectable Utilons and Goal Chang­ing Events (part2and1) by diegocaleiro (22 Feb 2013 1:09 UTC; 10 points)
+
+Natália's comment on Rob B’s Short­form Feed by Rob Bensinger (27 Aug 2021 3:24 UTC; 10 points)
+
+The many types of blog posts by Biff Wiff (26 Nov 2022 3:57 UTC; 10 points)
+
+johnswentworth's comment on Test­ing The Nat­u­ral Ab­strac­tion Hy­poth­e­sis: Pro­ject Intro by johnswentworth (9 Apr 2021 15:57 UTC; 10 points)
+
+johnswentworth's comment on The Plan − 2023 Version by johnswentworth (31 Dec 2023 18:43 UTC; 9 points)
+
+What Is the Idea Be­hind (Un-)Su­per­vised Learn­ing and Re­in­force­ment Learn­ing? by Morpheus (30 Sep 2022 16:48 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+MichaelA🔸's comment on Ask Re­think Pri­ori­ties Any­thing (AMA) by Marcus_A_Davis (EA Forum; 18 Dec 2020 12:24 UTC; 8 points)
+
+Lenses, Me­taphors, and Meaning by WillPetillo (8 Jul 2025 19:46 UTC; 8 points)
+
+fubarobfusco's comment on Diseased think­ing: dis­solv­ing ques­tions about disease by Scott Alexander (26 Sep 2012 16:44 UTC; 8 points)
+
+johnswentworth's comment on The Plan − 2022 Update by johnswentworth (20 Jan 2023 0:42 UTC; 8 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (13 Mar 2019 3:05 UTC; 8 points)
+
+Valentine's comment on Here’s the exit. by Valentine (29 Dec 2023 20:15 UTC; 8 points)
+
+Zack_M_Davis's comment on Un­nat­u­ral Cat­e­gories Are Op­ti­mized for Deception by Zack_M_Davis (19 Mar 2021 18:18 UTC; 8 points)
+
+Zack_M_Davis's comment on Tran­shu­man­ism and Gen­der Relations by daenerys (12 Nov 2011 1:43 UTC; 8 points)
+
+What’s the LessWrongist philos­o­phy of math­e­mat­ics? by Warty (19 Apr 2026 12:04 UTC; 7 points)
+
+johnswentworth's comment on The Track Record of Fu­tur­ists Seems … Fine by HoldenKarnofsky (1 Jul 2022 18:34 UTC; 7 points)
+
+[Link] Self­hood bias by [deleted] (16 Jan 2013 16:05 UTC; 7 points)
+
+[SEQ RERUN] The Cluster Struc­ture of Thingspace by MinibearRex (12 Jan 2012 8:37 UTC; 7 points)
+
+Com­mu­ni­cat­ing con­cepts in value learning by Manfred (14 Dec 2015 3:06 UTC; 7 points)
+
+Biff Wiff's comment on Yes, It’s Sub­jec­tive, But Why All The Crabs? by johnswentworth (30 Jul 2023 6:58 UTC; 7 points)
+
+Viliam's comment on How to talk ra­tio­nally about cults by Viliam (25 Mar 2018 16:04 UTC; 7 points)
+
+pragmatist's comment on Ra­tion­al­ity Quotes July 2013 by Vaniver (24 Jul 2013 12:40 UTC; 7 points)
+
+jaimeastorga2000's comment on Is That Your True Re­jec­tion? by Eliezer Yud­kowsky @ Cato Unbound by XiXiDu (8 Sep 2011 0:24 UTC; 6 points)
+
+Where does the phrase “cen­tral ex­am­ple” come from? by Alex_Altair (12 Mar 2021 5:57 UTC; 6 points)
+
+Sting's comment on Mak­ing a con­ser­va­tive case for alignment by Cameron Berg (20 Nov 2024 4:25 UTC; 6 points)
+
+Viliam's comment on A Re­turn to Discussion by sarahconstantin (9 Dec 2016 13:57 UTC; 5 points)
+
+lesswronguser123's comment on Emer­gence Spirals—what Yud­kowsky gets wrong by James Stephen Brown (11 Jun 2025 13:15 UTC; 5 points)
+
+lessdazed's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (16 Nov 2011 15:29 UTC; 5 points)
+
+Viliam's comment on Open Thread, Apr. 13 - Apr. 19, 2015 by Gondolinian (14 Apr 2015 8:16 UTC; 5 points)
+
+Eugine_Nier's comment on Lan­guage, in­tel­li­gence, rationality by curiousepic (13 Apr 2011 3:04 UTC; 5 points)
+
+Steven Byrnes's comment on [In­tu­itive self-mod­els] 3. The Ac­tive Self by Steven Byrnes (24 Oct 2024 15:51 UTC; 4 points)
+
+ESRogs's comment on QNR prospects are im­por­tant for AI al­ign­ment research by Eric Drexler (21 Feb 2022 4:04 UTC; 4 points)
+
+TurnTrout's comment on Wor­ry­ing about the Vase: Whitelisting by TurnTrout (16 Jun 2018 22:45 UTC; 4 points)
+
+CronoDAS's comment on Killing Socrates by Duncan Sabien (Inactive) (12 Apr 2023 0:14 UTC; 4 points)
+
+torekp's comment on Con­scious­ness as a con­fla­tion­ary al­li­ance term for in­trin­si­cally val­ued in­ter­nal experiences by Andrew_Critch (17 Jul 2023 23:21 UTC; 4 points)
+
+Rafael Harth's comment on Frame Control by Aella (28 Nov 2021 11:46 UTC; 4 points)
+
+Biff Wiff's comment on Public Static: What is Ab­strac­tion? by johnswentworth (11 Jun 2020 3:53 UTC; 4 points)
+
+Zack_M_Davis's comment on I Want to Learn About Education by fiddlemath (22 Jan 2011 20:19 UTC; 3 points)
+
+dlthomas's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (9 Nov 2011 2:13 UTC; 3 points)
+
+Towards_Keeperhood's comment on Nat­u­ral La­tents: The Math by johnswentworth (4 Mar 2024 18:23 UTC; 3 points)
+
+Mo Putera's comment on Yes, It’s Sub­jec­tive, But Why All The Crabs? by johnswentworth (17 Aug 2023 4:11 UTC; 3 points)
+
+Wei Dai's comment on Be­ware Selec­tive Nihilism by Wei Dai (28 Dec 2012 20:55 UTC; 3 points)
+
+Naming by CTA (15 Dec 2025 23:00 UTC; 3 points)
+
+DaFranker's comment on Ra­tion­al­ity Quotes Novem­ber 2012 by [deleted] (15 Nov 2012 16:20 UTC; 3 points)
+
+lukeprog's comment on Con­cep­tual Anal­y­sis and Mo­ral Theory by lukeprog (24 May 2011 4:58 UTC; 2 points)
+
+ChristianKl's comment on What I’d change about differ­ent philos­o­phy fields by Rob Bensinger (10 Mar 2021 0:29 UTC; 2 points)
+
+A Bayesian Ex­pla­na­tion of Causal Models by Menotim (27 Oct 2025 23:16 UTC; 2 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (15 Mar 2019 7:42 UTC; 2 points)
+
+Wittgen­stein and Word2vec: Cap­tur­ing Re­la­tional Mean­ing in Lan­guage and Thought by cleanwhiteroom (28 Jul 2024 19:55 UTC; 2 points)
+
+Xachariah's comment on Why No Wire­head­ing? by [deleted] (20 Jun 2011 22:00 UTC; 2 points)
+
+Viliam_Bur's comment on Open Thread: March 4 − 10 by Scott Garrabrant (6 Mar 2014 11:57 UTC; 2 points)
+
+ESRogs's comment on A Prob­lem With Patternism by B Jacobs (21 May 2020 1:20 UTC; 2 points)
+
+faul_sname's comment on Eval­u­at­ing Mul­ti­ple Met­rics (where not all are re­quired) by imbatman (20 Feb 2012 20:31 UTC; 2 points)
+
+ryan_greenblatt's comment on Dreams of AI al­ign­ment: The dan­ger of sug­ges­tive names by TurnTrout (13 Feb 2024 16:32 UTC; 2 points)
+
+Muyyd's comment on My Model of Gen­der Identity by Iris of Rosebloom (1 Apr 2023 11:22 UTC; 2 points)
+
+Owen_Richardson's comment on Another treat­ment of Direct In­struc­tion get­ting more into the tech­ni­cal de­tails of the theory by Owen_Richardson (3 Sep 2011 20:53 UTC; 1 point)
+
+Valentine's comment on We’re already in AI takeoff by Valentine (13 Mar 2022 14:38 UTC; 1 point)
+
+MichaelA's comment on Risk and un­cer­tainty: A false di­chotomy? by MichaelA (19 Jan 2020 2:51 UTC; 1 point)
+
+RobinZ's comment on A Less Wrong sin­gu­lar­ity ar­ti­cle? by Kaj_Sotala (19 Nov 2009 1:11 UTC; 1 point)
+
+orthonormal's comment on Athe­ism = Un­the­ism + Antitheism by Eliezer Yudkowsky (4 Jul 2009 2:31 UTC; 1 point)
+
+Houshalter's comment on Open Thread, Jul. 6 - Jul. 12, 2015 by MrMind (8 Jul 2015 0:23 UTC; 1 point)
+
+Biff Wiff's comment on Open Thread, May 25 - May 31, 2015 by Gondolinian (27 May 2015 17:06 UTC; 1 point)
+
+komponisto's comment on Theists are wrong; is the­ism? by Will_Newsome (20 Jan 2011 9:55 UTC; 1 point)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (4 Aug 2011 9:08 UTC; 1 point)
+
+[deleted]'s comment on I would have shit in that alley, too by Declan Molony (21 Jun 2024 1:56 UTC; 1 point)
+
+Viliam's comment on Autism, or early iso­la­tion? by JonahS (18 Jun 2015 14:10 UTC; 1 point)
+
+Viliam's comment on Open Thread, May 4 - May 10, 2015 by Gondolinian (5 May 2015 11:54 UTC; 1 point)
+
+orthonormal's comment on What is Eliezer Yud­kowsky’s meta-eth­i­cal the­ory? by lukeprog (30 Jan 2011 0:30 UTC; 0 points)
+
+Douglas_Reay's comment on Un­der­stand­ing Who You Really Are by ozziegooen (31 May 2015 19:54 UTC; 0 points)
+
+jsalvatier's comment on The “I Already Get It” Slide by jsalvatier (10 Feb 2017 21:18 UTC; 0 points)
+
+[deleted]'s comment on What Bayesi­anism taught me by Tyrrell_McAllister (16 Aug 2013 15:40 UTC; 0 points)
+
+math10's comment on Am I Really an X? by Gram_Stone (8 Mar 2017 7:22 UTC; 0 points)
+
+jacob_cannell's comment on Sub­jec­tive Rel­a­tivity, Time Dila­tion and Divergence by jacob_cannell (12 Feb 2011 22:46 UTC; 0 points)
+
+ESRogs's comment on Can crimes be dis­cussed liter­ally? by Benquo (29 Mar 2020 6:39 UTC; 0 points)
+
+Dreaded_Anomaly's comment on In Rus­sian we have the word ‘Miroz­danie’, which means all that exists by kononov (3 Jan 2011 4:38 UTC; 0 points)
+
+diegocaleiro's comment on [Poll] Less Wrong and Main­stream Philos­o­phy: How Differ­ent are We? by Jayson_Virissimo (4 Oct 2012 3:24 UTC; 0 points)
+
+Eugine_Nier's comment on [LINK] Bets do not (nec­es­sar­ily) re­veal beliefs by Cyan (1 Jun 2013 3:23 UTC; -2 points)
+
+Technologos's comment on The Feather­less Biped by Annoyance (8 Sep 2009 16:23 UTC; -2 points)
+
+Eugine_Nier's comment on Any ex­is­ten­tial risk an­gles to the US pres­i­den­tial elec­tion? by Stuart_Armstrong (22 Sep 2012 3:11 UTC; -3 points)
+
+CEV Se­quence—On What is a Self—Part 1 by diegocaleiro (10 Jan 2012 18:13 UTC; -12 points)
+
+Eliezer Yudkowsky8 Feb 2008 0:07 UTC
+170 points
+32 comments4 min readLW linkArchive
+Carving / Clustering RealityThingspacePhilosophy of LanguageWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: Typ­i­cal­ity and Asym­met­ri­cal SimilarityNext: Dis­guised Queries
+
+komponisto2 8 Feb 2008 1:33 UTC
+3 points
+
+0
+
+But if a definition works well enough in practice to point out the intended empirical cluster, objecting to it may justly be called “nitpicking”.
+
+You should probably put in a disclaimer excepting mathematics from this—assuming that you agree it should be excepted. (That is, assuming you agree that “Aristotelian” precision—what mathematicians call “rigor”—is appropriate in mathematics.)
+
+What links here?
+jsalvatier's comment on The “I Already Get It” Slide by jsalvatier (10 Feb 2017 21:21 UTC; 0 points)
+
+DanielLC 12 Jan 2012 18:56 UTC
+20 points
+
+1
+Parent
+
+“Definition” has a different definition in math.
+
+CornellEngr2008 8 Jun 2011 16:49 UTC
+9 points
+
+0
+Parent
+
+Mathematics is largely already excepted from the above discussion—this post is talking about empirical clusters only (“When you draw a boundary around a group of extensional points empirically clustered in thingspace”), and mathematics largely operates in a priori truths derived from axioms. For example, no one needs to do a study of triangles to see whether their angle all do, indeed, add up to 180 degrees—when that’s not part of the definition of triangles, it follows from the other definitions and axioms.
+
+Benoit_Essiambre 8 Feb 2008 2:17 UTC
+8 points
+
+0
+
+What’s interesting about “Thingspace” (I sometimes call it “orderspace”) is that it flattens out all the different combinations of properties into a mutually exclusive space of points. An observable “thing” in the universe can’t be classified in two different points in Thingspace. Yes you can have a range in Thingspace representing your uncertainty about the classification (If you’re a mere mortal you always have this error bar) but the piece-of-universe-order you are trying to classify is in ideal terms only one point in the space.
+
+IMO this could explain the way we deal with causality. Why do we say effects have only one cause? Where does the Principle of Sufficient Reason come from? The universe is not actually quantized in pieces that have isolated effects on each other. However, causes and effects are “things”, they are points in Thingspace and as “things” they actually represent aggregates, bunches of variable values that when recognized as a whole have, by definition, unique cause-effect relationships with other “things”. I see causality as arrows from one area of thing space to another. Some have tried to account for causality with complex Bayesian networks based on graph theory that are hard to compute. But I think applying causality to labeled clusters in Thingspace instead of trying to apply it to entangled real values seems simpler and more accurate. And you can do it at different levels of granularity to account for uncertainty. The space is then most useful classified hierarchically into an ontology. Uncertainty about classification is then represented by using bigger, vaguer, all encompassing clusters or “categories” in the Thingspace and high level of certainty is represented by a specified small area.
+
+I once tried (and pretty much failed) to create a novel machine learning algorithm based on a causality model between hierarchical EM clusters. I’m not sure why it failed. It was simple and beautiful but I had to use greedy approaches to reduce complexity which might have broken my EM-algorithm. Well at least it (just barely) got me a masters degree. I still believe in my approach and I hope someone will figure it out some day. I’ve been reading and questioning the assumptions underlying all of this lately and specially pondering the link between the physical universe and probability theory and I got stuck at the problem of the arrow of time which seems to be the unifying principle but which also seems not that well understood. A well… maybe in another life.
+
+Jman9107 20 Apr 2020 21:41 UTC
+1 point
+
+0
+Parent
+
+Why would more uncertainty = bigger cluster? Wouldn’t uncertainty be expressed by using smaller clusters? I.e. if you’re uncertain about a cluster you fall-back on a smaller subset of things that you are more certain pertain to that classification?
+
+Psy-Kosh 8 Feb 2008 2:21 UTC
+5 points
+
+0
+
+If we find a category that has a very tight cluster, such that for that category it’s reasonably straightforward to define that cluster, and only a tiny handful of distant outliers that seem to only shakily fit with the rest of the category, than it may be wise in some cases to conciously redefine that category in terms of the explicit definition that represents the tight cluster, and maybe use a different category, or a broader one, to represent or include those outliers.
+
+Ben_Jones 8 Feb 2008 11:14 UTC
+−5 points
+
+0
+
+Psy-Kosh, dangerous heuristic. Isn’t that how the Nazis thought of the Jews? We should look first and foremost at ways things fit into clusters, not ways they don’t—otherwise nine-fingered Fred gets ruled out of being human at an early hurdle. I’m sure you’ll agree Fred fits better into ‘human’ than ‘broad general-human-type’, despite his missing digit.
+
+Ostriches are a long way from that tight, feathery birdy cluster, but we leave them out of ‘general bird-ness’ at our peril. Mr Ostrich scores 84% on birdiness, not 16% on not-birdiness. (He also scores in the high 60s in dinosauriness, but that’s another matter.)
+
+tcpkac 8 Feb 2008 11:41 UTC
+0 points
+
+0
+
+I sense these 6 essays on cognitive semantics are going to bring us back to transhumanism sooner or later. As of right now, whatever the radial distance from the prototype, and except on the Island of Dr Moreau, you are DEFINITELY human or definitely not, definitely a bird or definitely not.
+Pluto is DEFINITELY a pla...… whoops.
+
+Nick_Tarleton 8 Feb 2008 14:05 UTC
+11 points
+
+0
+
+or maybe a more sophisticated view that .
+
+?
+
+What links here?
+novalis's comment on Look­ing for al­ter­a­tion sug­ges­tions for the offi­cial Se­quences ebook by alexvermeer (17 Oct 2012 1:00 UTC; 2 points)
+
+Ramana Kumar 26 Oct 2009 21:59 UTC
+−1 points
+
+0
+
+What are the dimensions of thingspace?
+
+Are “number of sides”, “IQ”, “age”, and “font” all dimensions?
+
+And what are the points in thingspace? It sounds like they include anything that is somewhat “mother” and anything that is somewhat “robin”. (And I should think thingspace is a point in thingspace too.)
+
+I think this post makes some good points, the main one, for me, being that words are centers of (indefinitely extending) clusters rather than boundaries of sets. But I think the notion of thingspace rests on shaky foundations: it assumes the world is broken down into things and those things have attributes.
+
+We don’t all share the same thingspace do we?
+
+taryneast 9 Dec 2010 20:33 UTC
+6 points
+
+0
+Parent
+
+I think thingspace is meant to be an abstraction.
+It’s just a map to help us think about categorisation of objects.
+
+David_Gerard 10 Jan 2011 15:15 UTC
+1 point
+
+0
+
+Thingspace seems rather like cladistics, in which you come up with groups of characteristics and then work out trees of evolutionary descent. Note that this originated in studying the evolution of life on Earth and piecing together the Tree of Life, but is applicable anywhere an evolutionary process can work, e.g. linguistic evolution. Without necessarily going as far as the actual sorting stuff into trees, cladistics may be useful in helping conceptualise thingspace and distance in thingspace.
+
+Psy-Kosh 26 Feb 2011 17:16 UTC
+15 points
+
+0
+
+A thought I recently had: Shouldn’t we be interested in “anti-clusters” too? ie, regions of comparatively low density compared to the surroundings/​Patterns of stuff that tends to conspicuously fail to happen compared to what would be otherwise expected.
+
+NancyLebovitz 26 Feb 2011 18:25 UTC
+3 points
+
+0
+
+This essay reminds me of Samuel Delany saying that the word “the” seems like a gray ellipse to him, and each adjective modifies the ellipse.
+
+Pt_a 27 Apr 2011 18:24 UTC
+1 point
+
+0
+
+does thingspace remain static? that is; would definitional/​structural changes within the space correspond to a folding or reorienting of the space where the clusters become reorganized?
+
+Owen_Richardson 4 Sep 2011 4:57 UTC
+1 point
+
+0
+
+You could give relatively simple verbal intensional definitions to try and lead someone to the bird cluster, yes. But if you had someone who wasn’t practically accessible through those verbal communications, how would you do it?
+
+You’d have to show extensional examples, positives and negatives, and indicate the value of each example by some clear and consistent signal.
+
+You couldn’t give all possible extensional examples, so you would have to select some. And you couldn’t give them all at once, so you’d have to present them in a particular order.
+
+What is the theory for finding optimized selections and orderings of examples for leading the learner to the cluster? How does that theory extend to the more complicated case where you have to communicate the subtypes within the “bird” cluster?
+
+This is one of the many things that the Theory of Direct Instruction that’s presented in Engelmann and Carnine’s text Theory of Instruction: Principles and Applications addresses. [They call it a “multi-dimensional non-comparative concept” (non-comparative” meaning the value of any example is absolute rather than relative to the last), or “noun” for short.]
+
+And of course, if you had to select and order the presentation of simple verbal definitions/​descriptions as examples themselves, the theory would also have application.
+
+Please see here for a clarification of what “someone who wasn’t practically accessible through those verbal communications” means, and a more concrete example of teaching the higher-order class ‘vehicles’ and sub-classes.
+
+What links here?
+Owen_Richardson's comment on What are good top­ics for liter­a­ture re­view prizes? by jsalvatier (4 Sep 2011 5:24 UTC; 0 points)
+
+Owen_Richardson's comment on What are good top­ics for liter­a­ture re­view prizes? by jsalvatier (4 Sep 2011 5:05 UTC; 0 points)
+
+On Eliezer’s post “The Cluster Struc­ture of Thingspace” by Owen_Richardson (4 Sep 2011 5:02 UTC; -3 points)
+
+Benevolence 11 Jul 2012 6:15 UTC
+5 points
+
+1
+
+Hi there, fairly new here to LW. I’m reading through the sequences in order. went through map and territory and mysterious answers to mysterious questions. Now going through this 37 ways words can be wrong sequence, as its recommended before i delve into reductionism.
+
+Its been said several times that LW tries to cater to a broad audience, but i find myself lost here. I have not extensively studied physics, only having done 1 year of engineering so far, and the physics references here are pretty much unintelligible to me. I don’t know what configuration space is, or quaternary coordinates, or thingspace, or what strings are being referred to. I find myself struggling to grasp this post.
+
+EDIT: I’ve read through this a few times. I still have almost no idea on most of the math, but I’m guessing the “moral” of this post is basically “don’t become overly obsessed with definitions”?
+
+PetjaY 2 May 2015 18:22 UTC
+0 points
+
+0
+Parent
+
+Reading Eliezers quantum physics sequence should help with configuration spaces and thingspaces, probably some other physics references aswell.
+
+[deleted] 30 Aug 2012 22:48 UTC
+−2 points
+
+0
+
+The Aristotelian syllogism would run, “Humans have ten fingers, Fred has nine fingers, therefore Fred is not a human” but the way we actually think is “Humans have ten fingers, Fred is a human, therefore Fred is a ‘nine-fingered human’.”
+
+It’s not important to your central claim, but this is the strawmanniest thing since Straw Man came to Straw Town.
+
+PhilGoetz 3 Nov 2021 14:53 UTC
+10 points
+
+0
+Parent
+
+No; most philosophers today do, I think, believe that the alleged humanity of 9-fingered instances *homo sapiens* is a serious philosophical problem. It comes up in many “intro to philosophy” or “philosophy of science” texts or courses. Post-modernist arguments rely heavily on the belief that any sort of categorization which has any exceptions is completely invalid.
+
+linkhyrule5 17 Aug 2013 2:31 UTC
+0 points
+
+0
+
+A robin’s DNA is a highly multidimensional variable, but you can still think of it as part of a robin’s location in thingspace—millions of quaternary coordinates, one coordinate for each DNA base—or maybe a more sophisticated view that .
+
+Um. That...?
+
+A1987dM 6 Sep 2013 16:28 UTC
+0 points
+
+0
+
+or maybe a more sophisticated view that .
+
+I guess there was a misformatted link in there or something?
+
+dspeyer 24 Jan 2014 4:51 UTC
+9 points
+
+0
+
+One small (hopefully not too obvious) addition: the cluster-nature of thing-space is dependent on the distance function, and there is no single obviously corrent one. Is a penguin more like an eagle or a salmon? Depends on what you mean by “more like”. It’s perfectly reasonable to say “right now, the most useful concept of ‘more like’ is ‘last common ancestor’ so penguins are more like eagles and ‘birds’ is a cluster’ and then as your needs change to say “right now, the most useful concept of ‘more like’ is similarity of habitat so penguins are more like salmon and ‘sealife’ is a cluster.”
+
+alicey 24 Jan 2014 7:16 UTC
+0 points
+
+0
+Parent
+
+why yes
+
+clusters can overlap, and the word “more like” uses different clusters of clusters depending on context
+
+Regex 5 Oct 2014 20:27 UTC
+2 points
+
+0
+
+Before reading this article, I had already been using this visualization technique to think of probability densities. I wonder how common that is? Probably happened because of exposure to statistics.
+
+pSinigaglia 6 Jun 2015 10:21 UTC
+5 points
+
+0
+
+“Humans have ten fingers, Fred has nine fingers, therefore Fred is not a human” but the way we actually think is “Humans have ten fingers, Fred is a human, therefore Fred is a ‘nine-fingered human’.”
+
+What I actually thought reading this was: “Frodo is a nine-fingered Hobbit”...
+
+PhilGoetz 3 Nov 2021 14:31 UTC
+13 points
+
+0
+
+I’m glad to see Eliezer addressed this point. This post doesn’t get across how absolutely critical it is to understand that {categories always have exceptions, and that’s okay}. Understanding this demolishes nearly all Western philosophy since Socrates (who, along with Parmenides, Heraclitus, Pythagoras, and a few others, corrupted Greek “philosophy” from the natural science of Thales and Anaximander, who studied the world to understand it, into a kind of theology, in which one dictates to the world what it must be like).
+
+Many philosophers have recognized that Aristotle’s conception of categories fails; but most still assumed that that’s how categories must work in order to be “real”, and so proving that categories don’t work that way proved that categorizations “aren’t real”. They them became monists, like the Hindus /​ Buddhists /​ Parmenides /​ post-modernists. The way to avoid this is to understand nominalism, which dissolves the philosophical understanding of that quoted word “real”, and which I hope Eliezer has also explained somewhere.
+
+Sqrt-1 23 Feb 2024 10:42 UTC
+1 point
+
+0
+
+I found some criticism of this post on a RationalWiki talk page.
+
+For another example, “Clusters in Thingspace” has a number of issues. Most simply, it seriously undersells Aristotle’s ability to handle a nine-fingered person. Certainly, if you make ‘has ten fingers’ part of the definition of human, then you will be able to infer that a person without ten fingers is not a human; nobody, though, has ever seriously put forward such a proposal. For Aristotle’s part, he would simply say that having a certain number of fingers is not an essential property of being human (and so should not be factored into the definition). Yudkowsky is also wrong to say that the coordinate point (0,0,5) contains the same information as the HTML color blue. To the contrary, the coordinate point by itself contains no information; it can contain color information only when paired with some interpretation function I (in the case of HTML, the software provides this function). As for where else these ideas can be found, philosophers have been working on conceptual vagueness intensely since the mid-20th century, and cluster concepts were a relatively early innovation. The philosophical literature also has the benefit of being largely free of nebulous speculations about cognition and needless formalism (and the discussion of configuration space here is needless formalism, since Yudkowsky is drawing only qualitative conclusions and the practical constraints on constructing a configuration space even for robins alone are severe). The literature also uses terminology in the ordinary way familiar to everybody engaging these issues professionally (compare Yudkowsky’s muddled understanding of intension) and avoids the invention of needless terms like “thingspace”, which mainly achieve the isolation of LessWrong from the external literature (whose relative richness and rigor would doubtlessly benefit them far more than the Sequences, the works of a single, self-aggrandizing amateur). That’s not to say that there’s no good ideas in the article, only that it is unoriginal, muddled, imprecise, and parochial.
+
+What do you guys think?
+
+https://​​rationalwiki.org/​​wiki/​​Talk:LessWrong#EA_orgs_praising_AI_pseudoscience_charity._Is_it_useful.3F
+
+Ben Winchester 16 Apr 2024 19:06 UTC
+3 points
+
+1
+Parent
+
+As for where else these ideas can be found, philosophers have been working on conceptual vagueness intensely since the mid-20th century, and cluster concepts were a relatively early innovation. The philosophical literature also has the benefit of being largely free of nebulous speculations about cognition and needless formalism … The literature also uses terminology in the ordinary way familiar to everybody engaging these issues professionally … and avoids the invention of needless terms like “thingspace”, which mainly achieve the isolation of LessWrong from the external literature.
+
+I think there’s some validity to this critique. I read The Cluster Structure of Thingspace (TCSOTS) and was asking myself “isn’t this just talking about the problem of classification?” And classification definitely doesn’t require us to treat ‘birdness’ or ‘motherhood’ as a discrete, as if a creature either has it or doesn’t. Classification can be on a spectrum, with a score for ‘birdness’ or ‘motherhood’ that’s a function of many properties.
+
+I welcome (!!) making these concepts more accessible to those who are unfamiliar with them, and for that reason I really enjoyed TCSOTS.But it also seems like there’d also be a lot of utility in then tying these concepts to the fields of math/​CS/​philosophy that are already addressing these exact questions. These ideas presented in The Cluster of Thingspace are not new; not even a little—so why not use them as a jumping-off-point for the broader literature on these subjects, to show how researchers in the field have approached these issues, and the solutions they’ve managed to come up with?
+
+See: Fuzzy Math, Support Vector Machines, ANNs, Decision Trees, etc.
+
+So: I think posts like this would have a stronger impact if tied into the broader literature that already covers the same subjects. The reader who started the article unfamiliar with the subject would, at the end, have a stronger idea of where the field stands, and they would also be better resourced for further exploring the subject on their own.
+
+Note: this is probably also why most scientific papers start with a discussion of previous related work.
+
+Sqrt-1 17 Apr 2024 17:24 UTC
+3 points
+
+2
+Parent
+
+I do agree that a lot of seqeunces pages would benefit a lot from having discussion of previous work or at least stating what these ideas are called in the mainstream, but I feel Yudkowskys neologisms are just… better. Among the examples of similar concepts you mentioned, I definitely felt Yudkowsky was hinting at them with the whole dimensions thing, but I think “thingspace” is still a useful word and not even that complicated; if it was said in a conversation with someone familiar with ANNs I feel they would get what it meant. (Unlike a lot of other Yudkowskisms usually parroted around here, however...)
+
+lesswronguser123 15 Apr 2024 16:58 UTC
+2 points
+
+0
+Parent
+
+Most of this just seems to be nitpicking lack of specificity of implicit assumptions which were self-evident (to me), the criticism regarding “blue” pretty much depends on whether the html blue also needs an interpreter(Eg;human brain) to extract the information.
+
+The lack of formality seems (to me as a new user) a repeated criticism of the sequences but, I thought that was also a self-evident assumption (maybe I’m just falling prey to the expecting short inferential distance bias) I think Eliezer has mentioned 16 years ago here:
+
+“This blog is directed at a wider audience at least half the time, according to its policy. I’m not sure how else you think this post should have been written.”
+
+I personally find sequences to be useful aggregator of various ideas I seem to find intriguing at the moment...
+
+orthonormal 14 Oct 2024 0:46 UTC
+2 points
+
+0
+
+intensional terms
+
+Should probably link to Extensions and Intensions; not everyone reads these posts in order.
+
+Back to top

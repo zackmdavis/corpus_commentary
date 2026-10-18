@@ -1,0 +1,328 @@
+{
+ "post": {
+  "_id": "6tmirPEdHPJm26MSk",
+  "title": "Just Make a New Rule!",
+  "postedAt": "2025-07-21T05:54:56.464Z",
+  "pageUrl": "https://www.lesswrong.com/posts/6tmirPEdHPJm26MSk/just-make-a-new-rule",
+  "commentCount": 25
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "fnYKeyF8DttfyqjgB",
+   "parentCommentId": null,
+   "postedAt": "2025-07-21T06:37:15.324Z",
+   "baseScore": 13,
+   "user": {
+    "username": "T3t",
+    "displayName": "RobertM"
+   },
+   "contents": {
+    "markdown": "Why did the early computer vision scientists not write succeed in writing a formal ruleset for [recognizing birds](https://xkcd.com/1425/), and ultimately it took a [messy cludge of inscrutable learned heuristics](https://en.wikipedia.org/wiki/Deep_learning) to solve that task?\n\nI disapprove of Justice Potter in many respects, but \"[I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it)\" is indeed sometimes the only practical[^kxl3t6ujsv]\u00a0way to carve reality.\n\n(This is not meant to be a robust argument, just a couple of pointers at countervailing considerations.)\n\n[^kxl3t6ujsv]: For humans."
+   }
+  },
+  {
+   "_id": "7ixYisJvd5bfHwYz9",
+   "parentCommentId": null,
+   "postedAt": "2025-07-21T08:23:27.805Z",
+   "baseScore": 36,
+   "user": {
+    "username": "quetzal_rainbow",
+    "displayName": "quetzal_rainbow"
+   },
+   "contents": {
+    "markdown": "Nobody likes rules. Rules are costly: first, they constrict the space of available actions or force you to expend resources to do something. Second, rules are costly to follow: you need to pay attention and remember all relevant rules and calculate all ways they interact. Third, in real life, rules aren't simple! After you left area of \"don't kill\", every rule has ambiguities and grey areas and *strict dependency on judgement of enforcing authority*.\u00a0\n\nIf everybody was good and smart, we wouldn't need rules. We would just publish \"hey, lead is toxic, don't put it into dishes\" and everybody would just stop using lead. After that, even if somebody continued using lead, everybody would just ask and conduct analysis and stop buying lead-tainted commodities and everybody still using lead would go bankrupt.\u00a0\n\nConversely, if everybody was good and smart, we wouldn't need authorities! Everybody would just do what's best.\n\nYou don't need to be utility minimizer to do the damage through rules. You need just to be the sort of person who likes to argue over rules to paralyze functioning of almost every group. Like, 95% of invocations of authority outside of legal sphere can be described as \"I decided to stop this argument about rules, so I stop it\". Heck, even Supreme Court functions mostly in this way.\u00a0\n\nThere are different societies. In broad society, whose goal is just \"live and let live\", sure, you can go for simple univerally-enforceable rules. In inclusive parts of society, like public libraries and parks and streets - same. it doesn't work for everything else. Like, there can't be comprehensive rules why you can('t) be fired from startup. There are CEOs and HRs and they make judgements about how productive you are et cetera and if their judgement is unfavorable, you get fired. Sure, there is a labor law, but your expences (including reputational) on trying to stay are probably going to be much higher than whatever you can hope to get. There are some countries where it's very hard to be fired, but such countries also don't have rich startup culture."
+   }
+  },
+  {
+   "_id": "nczPy4RAW78rFSkEQ",
+   "parentCommentId": "fnYKeyF8DttfyqjgB",
+   "postedAt": "2025-07-21T16:28:27.159Z",
+   "baseScore": 18,
+   "user": {
+    "username": "Nick_Tarleton",
+    "displayName": "Nick_Tarleton"
+   },
+   "contents": {
+    "markdown": "I think this point and Zack's argument are pretty compatible (and both right).\n\nRules don't have to be formally specified, just clear to humans and consistent and predictable in their interpretation. Common law demonstrates social tech, like judicial precedent and the [reasonable-person standard](https://en.wikipedia.org/wiki/Reasonable_person), for making interpretation consistent and predictable when interpretation is necessary (discussed in [Free to Optimize](https://www.lesswrong.com/posts/EZ8GniEPSechjDYP9/free-to-optimize))."
+   }
+  },
+  {
+   "_id": "LMawFgsr7qRyvKKoS",
+   "parentCommentId": null,
+   "postedAt": "2025-07-21T17:52:04.656Z",
+   "baseScore": 20,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Who are these \"people who think rules are unworkable and want to empower an Authority to make judgement calls controlling the minute details of everyone's behaviour\"?\n\nI don't think I've knowingly ever encountered such a person, and I'm trying to work out whether I just move in different circles from Zack, or whether I'm failing to see something real, or whether Zack is seeing something that isn't real.\n\n(The first hypothesis seems the most likely, but whichever is correct a few concrete examples seem like our best bet for making one of us less wrong.)\n\n(Those aren't literally all the hypotheses; e.g., it could be that Zack and I are seeing compatible things but Zack's describing them in a way I'm understanding differently. E.g., perhaps Zack's talking about people whose position I'd express as \"sometimes the rules need to allow for an element of human judgement\" -- cf. Nick Tarleton's comment elsewhere in the thread -- and arguing for a position I'd express as \"a society's laws need to be 100% explicitly nailed down with no room for manoeuvre\". Again, concrete examples will help clarify.)"
+   }
+  },
+  {
+   "_id": "JZATsoGGEgoW6db4W",
+   "parentCommentId": "7ixYisJvd5bfHwYz9",
+   "postedAt": "2025-07-21T19:33:11.218Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Nick_Tarleton",
+    "displayName": "Nick_Tarleton"
+   },
+   "contents": {
+    "markdown": "Nobody likes rules that are excessive or poorly chosen, or bad application of rules. I like rules that do things like[^1]:\n\n* Prohibit others from doing things that would harm me, where either I don't want to do those things, or I prefer the equilibrium where nobody does to that where everybody does.\n* Require contributing to common goods. (sometimes)\n* Take the place of what would otherwise be unpredictable judgments of my actions.\n\n[^1]: not a complete list"
+   }
+  },
+  {
+   "_id": "tgqTebWJpeGCiRZ5Y",
+   "parentCommentId": null,
+   "postedAt": "2025-07-21T19:58:29.256Z",
+   "baseScore": 20,
+   "user": {
+    "username": "Screwtape",
+    "displayName": "Screwtape"
+   },
+   "contents": {
+    "markdown": "Continually making new rules has downsides, both in administration attention and also in negative impacts for bystanders. I think those downsides outweigh the benefits of just making new rules in many cases.\n\nI wrote a bit about this in [Pick Two: Clear, Concise, or Comprehensive](https://www.lesswrong.com/posts/CzyGJzESo7vm75KKz/pick-two-concise-comprehensive-or-clear-rules). It's often the case that trying to specifically rule out undesired behavior takes a lot of exasperating, detailed work *or* is going to involve reserving the ability to make broad judgement calls. For instance, imagine you don't want people calling each other morons, so you make a rule saying don't do that. Ten minutes later Bella calls Carl an idiot, so you make a rule not to call people idiots either. Five minutes after that, Carl calls Bella a numbskull, so you make a rule not to call people numbskulls. One minute later, Bella calls Carl a dumbass. They can obviously keep coming up with new rude things to call each other, and eventually the number of banned insults will impede normal communication.\n\nImagine Carl calls Bella a child, you ban calling people children because this has been going on for weeks and you're a little bit on autopilot, and then the next day Dean posts a picture of his family where he says \"Here's my husband Evan and our children Frankie and George!\" You, in your bountiful wisdom, let this slide, and then later Carl starts arguing that moderation is totally inconsistent, he got in trouble for calling someone a child but for some reason it's fine when Dean does it.\u00a0\n\nOkay, so maybe the rule is \"no insulting people.\"\u00a0\n\nWell, you've given up having a comprehensive list of insults in favour of having more concise rules. You're now going to have to make moderation judgments about what counts as an insult.\u00a0\n\n*   Does calling someone a rat count as an insult? It totally would at a church picnic. It probably doesn't at a LessWrong meetup.\n*   [Countersignalling exists.](https://slatestarcodex.com/2014/04/23/friendship-is-countersignaling/)\n*   Does saying someone's essays are boring count as an insult, or is it an honest review? How about calling them a plagiarist?\n\n> The work of coming up with rules to ensure socially beneficial outcomes can be frustrating, because you won't always get the rules exactly right the first time. You might need to iterate. But it's a finite and achievable amount of work, not an unwinnable unending battle against the formidable intelligence of an adversary who hates everything your Society stands for, because *those mostly aren't a real thing either*.\n\nOkay, so I want to point out that sometimes \"a battle against an adversary who hates everything your Society stands for\" is a passable description of what's actually going on. Like, take a look at the relationship between Hamas and the IDF for a second. I'm not saying one side of that is an evil mutant who hates all that is good in the world, but if I was in charge of writing rules (for a ceasefire, for rules of warfare, etc) I would actually be thinking about how someone might argue loopholes in whatever I came up with. That's an extreme example, sure, but if I imagine spending a year in a conflict like that, trying to write down specifically what I did not want people to do, I can imagine eventually winding up with rules that amounted to \"stay out, don't send anything to the other side, don't even think about it.\" Either that or I'd wind up with a book of rules too big to physically print in one book.\n\nAnd there's things that would break a rule (\"send normal water to the other side via this river\") which I might still want to happen. I can try and make carveouts and exceptions and more detailed rules, but the thing I really want is for whatever inner generator of ideas and actions they're using to be a bit more in tune with my preferences for the space. There's violations that are fine if they happen once or twice and not if they happen all the time[^f84u9kdo318], there's violations that are fine because it was *done well* but are bad if they're done badly[^h9qjapnxlbh], there's violations that might just get a warning if it's a small amount but not if it's a big amount[^3p29jq89kh]\u00a0and trying to write that down as a rule *in advance* rather than leaving it up to moderator judgement sounds . . . maybe still finite and achievable, but it's finite and achievable for the U.S. government, not random forum administrators.\n\n(Remember, if you want it in advance then you have to write it down for every situation that might come up. If you don't need to have it in advance, then someone can still get punished for breaking a rule they didn't know about.)\n\nFor spaces I don't need to be in (e.g. my local YMCA, or my favourite internet forum) I prefer the administration have a more high level strategy than just making a new rule whenever someone does something undesirable.\u00a0\n\n[^f84u9kdo318]: Don't constantly ask for money. If once or twice a year when hanging out you go 'shoot, I forgot my wallet, do you mind covering me?' this is probably fine. If you never cover your bar tab then people will likely stop going out drinking with you. \n\n[^h9qjapnxlbh]: Don't hit on people badly. If you walk up to someone for the first time and say 'I'm Ted, I want to have sex with you.' then this will not go well. If after a couple weeks of hanging out and enjoying each other's company you say 'hey, I'd like to go on a date with you sometime. Would you like to see a movie next week?' this is probably fine. \n\n[^3p29jq89kh]: Compare \"Man, I feel like you're being a little dense here\" vs \"you fucking imbecilic waste of air.\" Both insults! Or compare a light punch to the shoulder vs a full power haymaker to the temple. Both are punches! But the former might well correctly get off with an informal warning, while the later would be a pretty strong argument for a ban in many venues."
+   }
+  },
+  {
+   "_id": "XqhEJP6BJD3XTYtDs",
+   "parentCommentId": null,
+   "postedAt": "2025-07-21T19:58:46.039Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "> I think the normal people have it basically right, and the people who aren't normal are being scared of ghosts\n\nI think both sides are missing a VERY important element. \u00a0No society or decision process is *purely* driven by rules. \u00a0There are all sorts of incentives and societal consequences to legal-but-unpleasant behaviors. \u00a0Human judgement fills in most of the gaps.  \n  \nYou only make more rules when there's some reason that natural coordination (aka: bullying) isn't doing the job. \u00a0 And the non-normal people are right to point out that this is underspecified and probably fragile in many edge-cases. \u00a0And the normals are right that it's mostly worked so far."
+   }
+  },
+  {
+   "_id": "sQmShX26nzbmsyebA",
+   "parentCommentId": "LMawFgsr7qRyvKKoS",
+   "postedAt": "2025-07-21T22:59:09.329Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Who are these \u201cpeople who think rules are unworkable and want to empower an Authority to make judgement calls controlling the minute details of everyone\u2019s behaviour\u201d?\r\n\r\nThat would be the mods of *Less Wrong*."
+   }
+  },
+  {
+   "_id": "oHgkTq8S3DLFAJukv",
+   "parentCommentId": "sQmShX26nzbmsyebA",
+   "postedAt": "2025-07-22T01:05:45.855Z",
+   "baseScore": 14,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "(I'm not sure whether that's a serious answer or snark, but I'll treat it as the former since I don't think I have anything much to say to the latter.)\n\nIf that's what Zack means, then it seems odd that the OP puts so much emphasis on how rules can be an effective way to keep people safer from literal death, brain damage, and the like.\n\n> The rules are just there to stop ourselves from trying to kill each other when your freedom and dignity is getting in the way of my freedom and dignity, so that we can focus on creating Value instead of wasting effort trying to kill each other. \\[...\\] Traffic laws make it clear to everyone when it's safe to enter the road. If everyone just entered the road whenever they felt like it, that would be dangerous \\[...\\] Lead paint is an environmental hazard, so [it was banned in 1978](https://en.wikipedia.org/wiki/Lead-based_paint_in_the_United_States). Because of the ban, paint manufacturers stopped making lead paint. \\[...\\] So paint manufacturers still ended up using mercury in some paints [until 1991 when that was banned, too](https://en.wikipedia.org/wiki/Mercury_regulation_in_the_United_States#Product-related_restrictions). But once it was banned, they stopped.\n\nZack did mention *one* example of a rule that was about something less life-and-death-y, namely income tax -- but that was an example of where nice clear rules *aren't* so effective.\n\nSo I think *either* Zack wasn't primarily taking aim at the LW moderators *or* his choices of examples are systematically ill-fitted to what they're meant to be illustrating."
+   }
+  },
+  {
+   "_id": "CdNm23t2LhCoRw38y",
+   "parentCommentId": "oHgkTq8S3DLFAJukv",
+   "postedAt": "2025-07-22T01:12:39.705Z",
+   "baseScore": -3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> If that\u2019s what Zack means, then it seems odd that the OP puts so much emphasis on how rules can be an effective way to keep people safer from literal death, brain damage, and the like.\r\n\r\nOh, I didn\u2019t mean that the LW mods are the *only* examples of this sort of thing. But you did mention that you\u2019d never encountered such people, and my response was to say that yes, you have indeed.\r\n\r\nAs for Zack\u2019s examples, I think that they illustrate fairly well the general principle that he\u2019s describing. I\u2019ll leave it to him (or others) to answer the criticism beyond that."
+   }
+  },
+  {
+   "_id": "6EahTZ4r9HTJBXjCg",
+   "parentCommentId": "oHgkTq8S3DLFAJukv",
+   "postedAt": "2025-07-22T01:47:12.296Z",
+   "baseScore": 7,
+   "user": {
+    "username": "T3t",
+    "displayName": "RobertM"
+   },
+   "contents": {
+    "markdown": "I believe this post to be substantially motivated by Zack's disagreement with LessWrong moderators about appropriate norms on LessWrong. \u00a0(Epistemic status: I am one of the moderators who spoke to Zack on the subject, as indicated[^1lp7c9rtuq1]\u00a0in the footer of his post.)\n\n[^1lp7c9rtuq1]: Sort of."
+   }
+  },
+  {
+   "_id": "ex9ngfbeZiK9yHF9k",
+   "parentCommentId": "JZATsoGGEgoW6db4W",
+   "postedAt": "2025-07-22T07:22:04.306Z",
+   "baseScore": 7,
+   "user": null,
+   "contents": {
+    "markdown": "> Nobody likes rules that are excessive or poorly chosen, or bad application of rules.\n\nYes, but for most people, in practice a \"bad application\" of rules means \"the rules being applied to me.\"[^fkxnj007fl]\n\nThat's the primary sense in which people don't like rules.\n\n[^fkxnj007fl]: When I feel like I have an excuse for why I should get special treatment, even though I wouldn't say this excuse was reasonable if someone else tried to use it"
+   }
+  },
+  {
+   "_id": "BxxbvWPgj4SS7BYg5",
+   "parentCommentId": "fnYKeyF8DttfyqjgB",
+   "postedAt": "2025-07-22T07:54:05.770Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "I don't think this is relevant and endorse Nick Tarleton's sister comment.\n\nThe thing about [_Jacobellis v. Ohio_](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio) is that, even if Justice Stewart had to make a judgement call on whether _Les Amants_ constituted an obscene film, at least Ohio _did_ have a law banning obscene films. That law was written down, such that people considering distributing pornography in Ohio could _reason about what the law said was allowed_, rather than having to proactively infer and conform to Ohio law-enforcement officials' personal preferences about how they want citizens to behave.\n\n[Quetzal_rainbow's comment](https://www.lesswrong.com/posts/6tmirPEdHPJm26MSk/just-make-a-new-rule?commentId=7ixYisJvd5bfHwYz9) points out that how much you want to rely on authority _vs._ rules depends on what social system you're talking about: for example, public libraries should be more rule-based than a private company.\n\nIn the case of, say, a public web forum, I think you clearly want it to be more like a public library, because all sorts of people might have something interesting to say about the forum's topic. There's no good reason to expect loyalty or mission-orientedness the way you would at a company.\n\nSo if, say, the administrators of a web forum want to make sure that authors feel comfortable using their moderation tools, and they're worried that authors won't feel comfortable if banned users retaliate for being banned by complaining on their shortform, they should _make a rule_ that says, \"Don't complain about being banned,\" so that users can _reason about what the rules say are allowed_, rather than having to proactively infer and conform to moderators' personal preferences about how users should behave.\n\nIt's true that we don't have a hand-coded Python program that classifies whether a comment constitutes a \"complaint\", much as we don't have a hand-coded Python program that classifies whether an image contains a bird, but that level of rigor just isn't what's being asked for. It's okay if the rules have to be written in English instead of Python, but for clarity's sake _just make a rule!_"
+   }
+  },
+  {
+   "_id": "FycHZzLxkXmMChuHb",
+   "parentCommentId": "BxxbvWPgj4SS7BYg5",
+   "postedAt": "2025-07-22T08:44:46.613Z",
+   "baseScore": 9,
+   "user": null,
+   "contents": {
+    "markdown": "> The thing about [*Jacobellis v. Ohio*](https://en.wikipedia.org/wiki/Jacobellis_v._Ohio) is that, even if Justice Stewart had to make a judgement call on whether *Les Amants* constituted an obscene film, at least Ohio *did* have a law banning obscene films. That law was written down, such that people considering distributing pornography in Ohio could *reason about what the law said was allowed*, rather than having to proactively infer and conform to Ohio law-enforcement officials' personal preferences about how they want citizens to behave.\n\nThis observation is insufficient to prove the conclusion you're using it for. This is because there's yet *another* layer of abstraction/reasoning involved, namely the constitutional one. Justice Stewart was not making a local comment about the scope of a specific state law.[^bhobsc0z9i4]\u00a0He was interpreting and judging state law *in light of* the Constitution.\u00a0\n\nIt's worth it to be precise about all the layers involved:\n\n1.  The relevant part of the [1st Amendment](https://constitution.congress.gov/constitution/amendment-1/) to the federal Constitution says \"Congress shall pass no law \\[...\\] abridging the freedom of speech, or of the press\"\n2.  Despite the text of 1st Amendment literally saying only Congress, its protections are [incorporated](https://en.wikipedia.org/wiki/Incorporation_of_the_Bill_of_Rights) under the 14th Amendment against actions by *state* governments under Gitlow v New York.\n3.  Despite the text of 1st Amendment literally saying only \"speech\" or \"press,\" it also covers films under [Joseph Burstyn, Inc., v. Wilson](https://supreme.justia.com/cases/federal/us/343/495/).\n4.  Despite the text of 1st Amendment literally saying \"no law abridging,\" [it is in fact constitutional](https://en.wikipedia.org/wiki/United_States_free_speech_exceptions) to pass laws restricting freedom of speech as long as they belong to one of a few categories.\n5.  Notably, these categories are *not written down* anywhere in an authoritative and conclusive manner; they are instead a somewhat ineffable part of custom and history. SCOTUS has literally described them as [\"historic and traditional categories long familiar to the bar,\"](https://supreme.justia.com/cases/federal/us/559/460/) i.e., the sort of thing lawyers are taught as more of an art than a precise science.\n6.  It was also unclear at the time what the list of exceptions was, and what precisely it covered, and whether \"new\" items could be added. It took until [2010](https://supreme.justia.com/cases/federal/us/559/460/) for the latter question to be answered in the negative.\n7.  It was terribly unclear what the meaning of \"obscenity\" was at that time. It's still unclear today! For example, former Justice Scalia once [said](https://www.youtube.com/watch?v=jmv5Tz7w5pk) that, for him, *all of pornography* is obscenity and thus capable of being constitutionally outlawed by legislatures.\n8.  Despite judges and justices usually reading laws in light of their [clear, unambiguous text](https://en.wikipedia.org/wiki/Reading_Law:_The_Interpretation_of_Legal_Texts), there is also a doctrine known as [constitutional avoidance](https://en.wikipedia.org/wiki/Constitutional_avoidance), where laws are usually interpreted to be constitutional if there's any plausible way of narrowing them to stay within the bounds of the Constitution (i.e., even if the most natural/intended meaning of a law makes it unconstitutional, judges/justices will bend over backwards to find a different, plausible-but-less-likely interpretation that keeps it constitutional).\n\nSo the question the Court was facing wasn't \"is *Les Amants* obscene according to the Ohio law?\"\u00a0\n\nThe question they were actually facing was \"is *Les Amants* obscene according to an judicially-created re-interpretation of what Ohio law means by the word 'obscene' that makes it the most constitutional, so that it can fit into a poorly defined category that we deem an exception to the literal text in the Constitution because of our unwritten understanding of history and tradition?\"\n\n[^bhobsc0z9i4]: Undergoing this endeavor is generally the province of state court judges/justices, except for constitutional avoidance purposes... more on that below"
+   }
+  },
+  {
+   "_id": "kecMFpfsFfadbzx2r",
+   "parentCommentId": "FycHZzLxkXmMChuHb",
+   "postedAt": "2025-07-22T16:51:58.843Z",
+   "baseScore": 9,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "This is all interesting, but let\u2019s recall that *Jacobellis v. Ohio* was not the last Supreme Court ruling on this! The important subsequent case was [*Miller v. California*](https://en.wikipedia.org/wiki/Miller_v._California):\r\n\r\n> the Court acknowledged \"the inherent dangers of undertaking to regulate any form of expression\", and said that \"State statutes designed to regulate obscene materials must be carefully limited.\"[\\[1\\]](https://en.wikipedia.org/wiki/Miller_v._California#cite_note-:0-1) The Court, in an attempt to set such limits, devised a set of three criteria which must be met for a media item to be legitimately subjected to state regulatory bans:\r\n> \r\n> 1. whether the average person, applying contemporary [community standards](https://en.wikipedia.org/wiki/Community_standards), would find that the work, taken as a whole, appeals to the [prurient](https://en.wiktionary.org/wiki/prurient) interest;\r\n> 2. whether the work depicts or describes, in an offensive way, sexual conduct or excretory functions, as specifically defined by applicable state law; and\r\n> 3. whether the work, taken as a whole, lacks serious [literary](https://en.wikipedia.org/wiki/Literature), [artistic](https://en.wikipedia.org/wiki/Art), [political](https://en.wikipedia.org/wiki/Politics), or [scientific](https://en.wikipedia.org/wiki/Science) value.[\\[1\\]](https://en.wikipedia.org/wiki/Miller_v._California#cite_note-:0-1)\r\n> \r\n> This test clarified the definition of [obscenity](https://en.wikipedia.org/wiki/United_States_obscenity_law) originally set out in the *Memoirs* precedent.[\\[6\\]](https://en.wikipedia.org/wiki/Miller_v._California#cite_note-Memoirs-6) This three-part analysis became known as the [Miller test](https://en.wikipedia.org/wiki/Miller_test).[\\[2\\]](https://en.wikipedia.org/wiki/Miller_v._California#cite_note-:2-2)\r\n\r\n> The *Miller* ruling, and particularly the resulting [Miller test](https://en.wikipedia.org/wiki/Miller_test), was the Supreme Court's first comprehensive explication of obscene material that does not qualify for [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution) protection and thus can be banned by governmental authorities with criminal charges for those who distribute it. Furthermore, due to the three-part test's stringent requirements, very few types of content can now be completely banned, and material that is appropriate for consenting adults can only be partially restricted per delivery method.[\\[13\\]](https://en.wikipedia.org/wiki/Miller_v._California#cite_note-GodwinReason-13)\r\n\r\nI recommend reading the linked page in its entirety. In short, the conclusion of later Supreme Courts was that Justice Stewart\u2019s standard does *not* suffice, and that **there need to be actual rules**. Those rules have been created, and have greatly improved the state of free speech protections in the United States, precisely by both *limiting* the scope of what sorts of actions are out of bounds, and by *creating greater clarity* about what sorts of actions are out of bounds."
+   }
+  },
+  {
+   "_id": "wFYthekQdkHdqo4pq",
+   "parentCommentId": "CdNm23t2LhCoRw38y",
+   "postedAt": "2025-07-22T16:52:51.642Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Noted. For what it's worth, I haven't as yet seen much reason to believe that the LW moderators think they are empowered \"to make judgement calls controlling the minute details of everyone's behaviour\".\n\nIf you delete the word \"the\", or better yet make things more explicit along the lines of \"to make judgement calls about small details of what behaviour is acceptable when posting/commenting on Less Wrong\", then I dare say the moderators consider themselves empowered to do that. But that's very much not the sort of thing that I understand when I read \"make judgement calls controlling the minute details of everyone's behaviour\", especially not at the end of an article full of examples about regulation of neurotoxic chemicals and road safety.\n\nSo perhaps this is yet another case where Zack says something that *can with substantial stretching* be interpreted as something true, but that (at least as it seems to me; others' intuitions may differ) is an *extremely unnatural* way to say what he claims was all he was saying, and that *strongly suggests* something much worse but that is not actually true. I am beginning to find it rather tiring."
+   }
+  },
+  {
+   "_id": "opbh9rsbbegYCmaFc",
+   "parentCommentId": "BxxbvWPgj4SS7BYg5",
+   "postedAt": "2025-07-22T16:58:06.345Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "[See also:](https://www.lesswrong.com/posts/duxy4Hby5qMsv42i8/the-real-rules-have-no-exceptions#7CPwzCKsH3B8C4k73)\r\n\r\n> And while we gain *little* by spelling out the \u201cactual rule\u201d in these \u201ccomplex and/or illegible exception-judging criteria\u201d situations, nevertheless we do gain something\u2014namely, making explicit (and therefore salient) the fact that unexpected exceptions (driven by irreducible judgment) are a possibility. What is explicit, can be better prepared for, and can be discussed, and problems addressed; so this is a benefit, if not a very great one.\r\n\r\n(Of course, to the degree that \u201cunexpected exceptions (driven by irreducible judgment)\u201d are expected\u2014or known!\u2014to be *frequent* occurrences, the above is a proportionally greater benefit.)"
+   }
+  },
+  {
+   "_id": "Te8akW8hyg72pRB9M",
+   "parentCommentId": "ex9ngfbeZiK9yHF9k",
+   "postedAt": "2025-07-22T20:34:30.601Z",
+   "baseScore": 1,
+   "user": {
+    "username": "M. Y. Zuo",
+    "displayName": "M. Y. Zuo"
+   },
+   "contents": {
+    "markdown": "This seems a bit tautological\u2026 since roughly half the population is below average in virtue, and will engage in all sorts of bad behavior if they think they can get away with it. Partly because we define good and bad relative to the population average.\n\nAnd for most of the rest, strong enough incentives can induce them to behave the same, it happens even on this very forum, so when combined that\u2019s most people already."
+   }
+  },
+  {
+   "_id": "78RTaNhARDSGyydxJ",
+   "parentCommentId": "oHgkTq8S3DLFAJukv",
+   "postedAt": "2025-07-22T21:54:22.274Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "The post is about the philosophy of rulemaking. In order to ground my thinking about the topic, I need to mention some concrete examples: I think it would be a much worse post if I just talked about rules in general without considering any specific examples of rules. But I don't think the philosophical substance is particularly affected by how \"life-or-deathy\" the examples were, and I don't understand why you think it would be. (If for some reason I wrote a blog post about how $2x + 3x = 5x$, the claim would hold whether $x = 1$ or $x = 99999$.) Can you explain why you think the life-or-deathness is relevant? (As it happens, I had considered using a \"noise pollution\" example about people who like to throw parties before ultimately going with the lead paint example. I'm having trouble reconstructing from introspection and memory why I went with the paint rather than the parties, but I don't think it matters much.)\n\nNow, it's also true that the _reason_ I was thinking about these aspects of the philosophy of rulemaking recently is because it had been relevant to a moderation dispute on this website. To spell it out, I think that harms from commenters who hurt other users' feelings can be successfully mitigated by rules, because such commenters are just trying to make what they see as good comments rather than being sadistic emotional damage maximizers, similarly to how paint manufacturers are just trying to make high-quality paint rather than being environmental lead maximizers.\n\nThe fact that that's why I was thinking about the philosophy of rulemaking is not a secret. You're allowed to notice that, and I'm happy to spell it out in the comments. But I dispute that that's what the post is \"really\" about (at least for some relevant notion of \"really\"). "
+   }
+  },
+  {
+   "_id": "wjqMw4KnGdikBEMnQ",
+   "parentCommentId": "JZATsoGGEgoW6db4W",
+   "postedAt": "2025-07-23T00:41:26.263Z",
+   "baseScore": 7,
+   "user": {
+    "username": "D0TheMath",
+    "displayName": "Garrett Baker"
+   },
+   "contents": {
+    "markdown": "For each of these, the answer about whether the rule is good depends on what margins we're talking about. \n\nFor example, lets take your first point, rules that \"prohibit others from doing things that would harm me\". One way in which you could be harmed is by someone selling a drug to you which has negative side-effects which out-weigh the positive side-effects. Therefore should we ban the selling of those drugs?\n\nI think we shouldn't. Not only do people have a right to put whatever they want in their body which this infringes upon, but the cost of actually following this rule is much higher than the benefit of being able to not (as the seller, selling to many) worry about whether there's a 1% chance this particular customer regrets their purchase.\n\nYou may not agree with the sign of that particular example, however, generally speaking, there are *costs* to following rules, outside of poorly chosen rules or bad application of rules. If the *benefit* to your rule is less than the *cost* of following that rule, then no matter how well the rule is chosen or how benevolent the application, its a bad rule! \n\nAnd note that as the number of rules grows, the cost of following all of them does too (sometimes super-linearly, as rules can interact), while the benefit of the marginal rule decreases. Therefore there's an optimal number of rules, and we should expect that on average adding a new rule is just bad[^1].\n\nI will also note that this point was made in the comment you were responding to\n\n> Second, rules are costly to follow: you need to pay attention and remember all relevant rules and calculate all ways they interact.\n\n[^1]: Assuming we in a rule-optimal society, I think few would argue we make *too few* rules in general."
+   }
+  },
+  {
+   "_id": "G5PJYuBZZ3dye2Pcd",
+   "parentCommentId": "7ixYisJvd5bfHwYz9",
+   "postedAt": "2025-07-23T02:47:08.259Z",
+   "baseScore": 5,
+   "user": {
+    "username": "martin-randall",
+    "displayName": "Martin Randall"
+   },
+   "contents": {
+    "markdown": "I disagree that nobody likes rules.\n\nYour comment itself gives a counter-example, when it refers to \"the sort of person who likes to argue over rules\". Generally this sort of person likes rules. The post you are responding to is another counter-example, Zach writes that \"Rules are a critical social technology for helping people live and work together in peace\", which sounds like the words of someone who likes rules. Another counter-example is that I like rules. I am not a rule-maximizer, I don't like all rules in all contexts, and I have other values, but in general I like rules more than my peers.\n\nWe see in various aspects of leisure, where people are less constrained by instrumental concerns, that some people like rules. There are \"rules-heavy\" and \"rules-light\" RPGs, and there are people who prefer each. Some forms of music and dance and other art have more rules than others. Some prefer poems that follow rules of rhyme and meter, others prefer free verse poetry. Some prefer complex sports, others prefer to play tag.\n\n----\n\nI disagree that if everybody was good and smart, we wouldn't need rules. When good and smart people play chess with each other, they still follow the rules of chess. When good and smart people trade with each other, they still follow property rules. In a world where only good and smart people drive, they would be faster and safer if there were still rules for what side of the road to drive on, who has right of way, how to overtake, etc. In the recently viral red/blue pill hypothetical, where blue pill takers die if less than 50% of people take the blue pill, the risk of death is lower if there is a rule about what pill to take.\n\nOne reason not to have rules in the real world is the enforcement cost. In a world where everyone is good, that cost is lower, so we might have more rules. On the other hand, one reason to have rules in the real world is that people make bad decisions. In a world where everyone is smart, there are fewer bad decisions, so we might have fewer rules. And in a world where everyone is good and smart, everyone would agree with me that $SYSTEM is the best way to run the world, haha, which has $IMPLICATIONS for the number of rules. But I don't think that means no rules."
+   }
+  },
+  {
+   "_id": "8yQG4MPKnTb9AFYtc",
+   "parentCommentId": "G5PJYuBZZ3dye2Pcd",
+   "postedAt": "2025-07-23T03:10:56.809Z",
+   "baseScore": 8,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> There are \u201crules-heavy\u201d and \u201crules-light\u201d RPGs, and there are people who prefer each.\r\n\r\nHmm, I think that this is not a good example. I like \u201crules-heavy\u201d RPGs (indeed, I think that designers and fans of \u201crules-light\u201d RPGs are very often thoroughly confused about what the consequences of \u201crules-lightness\u201d actually are). But the \u201crules\u201d of an RPG and the kinds of \u201crules\u201d that I think [@quetzal_rainbow](/users/quetzal_rainbow?mention=user)\u2019s comment is talking about are not really the same thing.\r\n\r\nThe \u201crules\u201d of an RPG are mostly not *constraints* that *prevent* players from doing things, but rather *mechanisms* that *enable* players to do things. (For example, the 3rd edition of D&D has rules for crafting magic items; the 5th edition of D&D has no such rules. The effect of this is *not* that players in 5e are more free and less constrained than players in 3e. The effect, rather, is that players in 3e can do something that players in 5e generally cannot.)\r\n\r\nOf course there are some rules in an RPG that are mostly constraints\u2026 but, well, those are also the rules that people are least likely to like. (Although they may be necessary in order for the game as a whole to be enjoyable! In this, they mirror the sorts of rules we\u2019re most likely to encounter in real life.)"
+   }
+  },
+  {
+   "_id": "qrRPFSoCKRp8Xj5qv",
+   "parentCommentId": "8yQG4MPKnTb9AFYtc",
+   "postedAt": "2025-07-24T02:55:44.436Z",
+   "baseScore": 3,
+   "user": {
+    "username": "martin-randall",
+    "displayName": "Martin Randall"
+   },
+   "contents": {
+    "markdown": "I'm happy with the example of rules-heavy/crunchy RPGs as evidence that some people like rules, but I agree it is not a good evidence for whether people like constraints. I don't know what [@quetzal_rainbow](https://www.lesswrong.com/users/quetzal_rainbow?mention=user) might have meant by \"nobody likes rules\", other than the surface meaning. Maybe they will clarify. I wouldn't have replied to a statement like \"nobody likes to be constrained by complex rules that are costly to follow and have no benefits\", for example, but that's not what they said.\n\nI completely agree that rules can be mechanisms that enable people to do things. For example, many social partner dances have rules about how the dancers move and dance together. At first glance these look like pure constraints. However, they are also enabling mechanisms for joint movements that otherwise would not work (at all, as well, as easily, etc.) in partnered freestyle. This is one of the things I like about rules."
+   }
+  },
+  {
+   "_id": "rwwTpfFrDHGwYy3DT",
+   "parentCommentId": "78RTaNhARDSGyydxJ",
+   "postedAt": "2025-07-27T14:54:40.451Z",
+   "baseScore": 19,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "(Apologies for the very slow response.)\n\nWell, the post is claiming *something* along the lines of \"our rules shouldn't try to do too much, and if they don't then it isn't impractical to make them all explicit and leave little to individuals' judgement\", but ...\n\n... if it's claiming that this is *universally* true, which seems like a strong and counterintuitive claim, then I don't think it's made much of an attempt to make its case ...\n\n... but if it's claiming only that it's true *in some particular set of contexts* then your choice of examples is highly relevant, because the examples give some indication of what that particular set of contexts is, and because the plausibility of your argument leans on the plausibility of the examples.\n\nSo I think I could buy \"this post is a very general and philosophical one so what examples I use doesn't matter much\", or I could buy \"this post gives some reason to accept the claims it makes\", but I don't think I buy them *together*.\n\nI'd been assuming we were in the second case, but from what you now say it seems like maybe we're in the first, so let me explain why I find the arguments unconvincing if they are meant to be so general.\n\n*   You don't so much *argue for* the claim you're making as *counter arguments against* it. And, in fact, pretty much the only argument against that you consider goes like this: \"The space of *all possible behaviors* is unthinkably vast. What if the formidable intelligence of an adversary who hates everything our Society stands for, comes up with a behavior that's really bad but isn't forbidden by any of Society's rules?\"\n    *   This is, to my mind, a *weird* argument. I have never once heard anyone argue for rules that leave some things to human judgement by appealing to the *unthinkable vastness* of the space of possibilities as opposed to its thinkable and quite comprehensible, but still pretty large, vastness, or by postulating someone \"who hates everything our Society stands for\" as opposed to someone who merely has some interests or purposes that don't fit well with ours.\n    *   (So I assumed that you had in mind some particular set of contexts in which, for whatever reason, those who want more flexibility in the rules than you do were concerned about such things. If you're arguing in full generality, then I say: no, most of the time when people think rules need to allow for individual judgement they aren't appealing to anything so dramatic.)\n*   You say that those who want more flexibility in the rules than you do think that \"we need to empower leaders with the Authority to make judgement calls\u2014even to control the minute details of anyone's behavior, if that's what it takes to safeguard Society's Values\".\n    *   Again, this is a *weird* thing for them to think, and doesn't seem like a good fit for the position of more than a tiny fraction of people I have encountered.\n    *   (So I assumed that you had in mind some particular set of contexts in which either the advocates of More Space For Human Judgement are unusually authoritarian, or the domain within which they might seek to \"control the minute details of everyone's behaviour\" is so constrained that seeking to do that doesn't require one to be unusually authoritarian. If you're arguing in full generality, then I say: no, this is not what the people you profess to be talking about generally want.)\n*   You say that the rules aren't there to express society's values, but only to enable people not to kill one another while they express their values. (I take it that \"society\" and \"kill\", at least, should be interpreted somewhat flexibly.)\n    *   Whether that's what some particular set of rules is for or not will vary. It seems to me more credibly true in cases where the sanctions for breaking the rules can be ruinous (as e.g. when the rules are a nation's laws) and less credibly true when they are much more minor (as e.g. when they are rules about posting on an internet forum).\n    *   (So I assumed that you had in mind some particular set of contexts where it's, at least, plausible that someone might find it self-evident that the rules-with-sanctions-attached should cover only the essentials. If you're arguing in full generality, then I say: no, there are tradeoffs governing what aspects of your values if any should be covered by rules. You say that human history since Hammurabi has shown that \"it mostly works pretty great\" but in approximately zero cases since Hammurabi have the rules in fact had scope as limited as you describe.)\n*   Having made the assumption that the best argument for weakly-formalized rules is the existence of ingenious adversaries opposed to everything that you stand for, you then say that such adversaries \"mostly aren't a real thing\".\n    *   That's true in many contexts, but I'm not sure it's true in full generality. Suppose \"your Society\" is a political group, for instance; of course your political opponents don't oppose literally all your values, but they may oppose all the ones that distinguish you as a group, and that \"your Society\" is working together to promote.\n    *   (So I assumed that you had in mind some particular set of contexts that doesn't face ingenious genuinely-hostile actors. If you're arguing in full generality, you can't assume that, and not having to worry about such people is a load-bearing part of your argument.)\n\nPerhaps your point isn't that you were making an argument so broad that the details of the examples don't matter, but only that the examples *were so* appropriate to the particular cases you had in mind. And, in particular, that the life-and-death-ness of the examples isn't particularly relevant. -- But it seems quite relevant to me, because a key part of your argument is that rules should be narrowly scoped: in your words, they are \"just there to stop ourselves from trying to kill each other when your freedom and dignity is getting in the way of my freedom and dignity\". Now, to be sure, \"kill\" might be understood in some metaphorical way. But when you say \"the rules are just there to stop ourselves from trying to kill each other\" and present a bunch of examples in which the rules are literally there to stop people dying, along with one example in which they aren't and which you explicitly say *isn't* an example of what you're pointing at ... well, I don't think you can be too surprised if someone draws the conclusion that your arguments were aimed at life-and-death cases.\n\nAnd that life-or-death-ness *is*, it seems to me, relevant. Because, as I said above, it becomes more plausible that rules-with-sanctions should be narrow in scope and precisely defined when the consequences of breaking them are more severe. Laws whose violation can get you locked up or executed? Yup, it sure seems important that we not have more of those than we need and that you should be able to tell what will and won't make those things happen to you. The moderation rules of an internet forum, where the absolute worst thing that can happen is that you can no longer post or comment there? Maybe not so much.\n\n* * *\n\nDropping down a level or two of meta, what about the object-level claim that\n\n> harms from commenters who hurt other users' feelings can be successfully mitigated by rules, because such commenters are just trying to make what they see as good comments rather than being sadistic emotional damage maximizers\n\n? I'm not convinced by the argument, just yet; internet forums are fairly well known for sometimes harbouring commenters who *are* something like sadistic emotional damage maximizers, and even someone who can't fairly be described that way can get a bee in their bonnet about some other person or community or set of ideas and start *behaving* rather like a damage-maximizer. Less Wrong seems to me to have fewer such people than most online communities (which may be partly because the moderators work hard to make it so; I don't know) but it also has *more ingenious* people than most online communities, and when someone goes wholly or partly damage-maximizer on LW I think we have more of a \"nearest unblocked strategy\" problem than most places do.\n\nI am not claiming that your *conclusion* is wrong. It might be right. But I am not convinced by your argument for it.\n\n(I am also not convinced that someone has to be a damage-maximizer in order to behave unhelpfully in the presence of inevitably-incomplete rules.)"
+   }
+  },
+  {
+   "_id": "dPrbzKb4xm7YgJgmN",
+   "parentCommentId": null,
+   "postedAt": "2025-11-08T17:18:30.545Z",
+   "baseScore": 3,
+   "user": null,
+   "contents": {
+    "markdown": "You've gotten what normal people think almost precisely backwards. Normal people understand that it's infeasible to explicitly spell out all desired and undesired behaviors, which is why the fact that it's important to follow the spirit as well as the letter of the law is so commonly repeated as to be clich\u00e9, \"rules-lawyering\" is pejorative, and work-to-rule strikes are even possible to conceptualize. Why, Wikipedia tells me that even the Bible has an insult for that! It's, well, *autists* who, being impaired in the understanding-the-spirit-of-people's-words department, want all appropriate behaviors exhaustively spelled out in written law. (Since we're on LessWrong it is indeed appropriate to err in that direction\u2014certainly many recent problems could've been prevented with an explicit rule against giving people shit for comment-blocking you :P\u2014but let's not pretend that's what *normies* believe in).\n\nYou also paint an overly-rosy picture of how normal people react to having to add a new rule; typically, it's seen as quite negative if one behaves in such a way as to require the creation of a rule specifically banning that behavior. This is because the response to rules *normal* people expect is for the would-be rulebreaker to use those rules as information about the intentions of the rulemaker, and then refrain from behavior the rulemaker would be displeased with in expectation. I think your characterization of rules as freeing people from the burden of socially modeling others is more fantasy than fact.\n\nWith regards to lead paint: paint manufacturers aren't lead-maximizers, sure: they're *profit*-maximizers. They are in fact optimizing in an orthogonal direction from human values! (Consider e.g. FTX: they weren't trying to financially harm customers, it's just that customer accounts were made of dollars they could use for something else). It's for this reason that financial regulations especially have to be so tightly-specified and nitpicky; when they aren't, companies generally do in fact use the nearest unblocked strategy. (And even when they are, companies sometimes just ignore the law! It's not universal but it's not as unheard-of as you seem to imply.)  \n  \n(And for that matter, how do you think rules are *enforced?* It's by authorities making judgement calls about whether the fine details of peoples' behavior broke the rules!)\n\nI think this post would be stronger if it focused on arguing for your position, which is a reasonable one, rather than on drawing these dubious associations."
+   }
+  }
+ ]
+}

@@ -1,0 +1,1092 @@
+Philosophical Psychology
+
+ISSN: 0951-5089 (Print) 1465-394X (Online) Journal homepage: https://www.tandfonline.com/loi/cphp20
+
+Research on group differences in intelligence: A
+defense of free inquiry
+Nathan Cofnas
+To cite this article: Nathan Cofnas (2019): Research on group differences in intelligence: A
+defense of free inquiry, Philosophical Psychology, DOI: 10.1080/09515089.2019.1697803
+To link to this article: https://doi.org/10.1080/09515089.2019.1697803
+
+© 2019 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 23 Dec 2019.
+
+Submit your article to this journal
+
+View related articles
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=cphp20
+
+PHILOSOPHICAL PSYCHOLOGY
+https://doi.org/10.1080/09515089.2019.1697803
+
+ARTICLE
+
+Research on group diﬀerences in intelligence: A defense
+of free inquiry
+Nathan Cofnas
+Balliol College, University of Oxford, Oxford, UK
+ABSTRACT
+
+ARTICLE HISTORY
+
+In a very short time, it is likely that we will identify many of
+the genetic variants underlying individual diﬀerences in intelligence. We should be prepared for the possibility that these
+variants are not distributed identically among all geographic
+populations, and that this explains some of the phenotypic
+diﬀerences in measured intelligence among groups.
+However, some philosophers and scientists believe that we
+should refrain from conducting research that might demonstrate the (partly) genetic origin of group diﬀerences in IQ.
+Many scholars view academic interest in this topic as inherently morally suspect or even racist. The majority of philosophers and social scientists take it for granted that all
+population diﬀerences in intelligence are due to environmental factors. The present paper argues that the widespread practice of ignoring or rejecting research on
+intelligence diﬀerences can have unintended negative consequences. Social policies predicated on environmentalist
+theories of group diﬀerences may fail to achieve their aims.
+Large swaths of academic work in both the humanities and
+social sciences assume the truth of environmentalism and are
+vulnerable to being undermined. We have failed to work
+through the moral implications of group diﬀerences to prepare for the possibility that they will be shown to exist.
+
+Received 31 October 2018
+Accepted 20 February 2019
+KEYWORDS
+
+Intelligence research; group
+diﬀerences in intelligence;
+psychometrics; censorship;
+free inquiry; values in science
+
+1. Introduction
+
+The idea that all human groups have, on average, the same potential to
+develop all psychological traits and abilities is an empirically testable
+claim, but in some important ways it is unlike most other empirical claims
+investigated by scientists. Many scientists, philosophers, and even laypeople hold that, for a variety of reasons, we are morally obligated to
+aﬃrm this proposition, or refrain from conducting research that might
+undermine it (e.g., Block & Dworkin, 1974; Chomsky, 1976, 1988;
+Dummett, 1981; Gardner, 2001; Horgan, 2013; Kourany, 2016;
+Sternberg, 2005). Prominent researchers who publicly endorse hereditarianism about group diﬀerences in intelligence1 have been condemned as
+CONTACT Nathan Cofnas
+
+nathan.cofnas@balliol.ox.ac.uk
+
+Balliol College, University of Oxford
+
+© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.
+org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+
+2
+
+N. COFNAS
+
+immoral, ﬁred from their positions, and physically threatened (examples
+are documented in Ceci & Williams, 2009; Cofnas, 2016; Gottfredson,
+2010; Sesardic, 2005). Many scholars assume that there is no legitimate
+reason to be interested in group diﬀerences. According to Rose (2009), the
+fact that psychometricians focus on the IQ gap between some groups (e.g.,
+Blacks vs. Whites) rather than others (e.g., north vs. south Welsh) “calls
+into question the motivation behind looking for such speciﬁc group
+diﬀerences in intelligence, sheds doubt on whether such research is wellfounded, and begs whether answers could possibly be put to good use” (p.
+786). He concludes that “in a society in which racism and sexism were
+absent, the questions of whether whites or men are more or less intelligent
+than blacks or women would not merely be meaningless – they would not
+even be asked” (p. 788). Virtually no scientiﬁc hypothesis besides race and
+sex diﬀerences is rejected in this way.
+The fact that the majority of genetic variation in our species exists
+within rather than between races, as Lewontin (1972) discovered, does not
+rule out the possibility of signiﬁcant race diﬀerences in psychological
+traits like intelligence. Lewontin argued that, because there is more
+genetic variation within than between races, racial classiﬁcations do not
+correspond to any (genetically based) population structure. That implies
+that there can be no genetically based racial classiﬁcation, thus there can
+be no genetically based racial diﬀerences. This argument overlooks the
+fact that racial classiﬁcation can be based on small diﬀerences in gene
+frequencies at multiple polymorphic loci. Looking at a single locus gives
+us almost no taxonomically useful information, but looking simultaneously at multiple loci allows us to classify people into ethnic groups
+with accuracy that can approach 100% (Edwards, 2003; Tal, 2012). David
+Reich, who runs a leading genetics lab at Harvard University, recently
+acknowledged that Lewontin’s argument has been used by geneticists to
+“deliberately” conceal the possibility of signiﬁcant genetically based population diﬀerences:
+I have deep sympathy for the concern that genetic discoveries about diﬀerences
+among populations may be misused to justify racism. But it is precisely because of
+this sympathy that I am worried that people who deny the possibility of substantial
+biological diﬀerences among populations across a range of traits are digging themselves into an indefensible position, one that will not survive the onslaught of science.
+In the last couple of decades, most population geneticists have sought to avoid
+contradicting the orthodoxy. When asked about the possibility of biological diﬀerences among human populations, we have tended to obfuscate, making mathematical
+statements in the spirit of Richard Lewontin about the average diﬀerence between
+individuals from within any one population being around six times greater than the
+average diﬀerence between populations . . . . But this carefully worded formulation is
+deliberately masking the possibility of substantial average diﬀerences in biological
+traits across populations. (Reich, 2018, p. 254)
+
+PHILOSOPHICAL PSYCHOLOGY
+
+3
+
+Reich (2018) addresses another common argument used to reject the possibility of substantial race diﬀerences: even if there is genetically based
+variation “aﬀecting cognition or behavior,” these diﬀerences must be small
+because “so little time has passed since the separation of populations” (p.
+258). He ﬁnds this argument untenable in the light of recent ﬁndings in
+genetics:
+The average time separation between pairs of human populations since they diverged
+from common ancestral populations, which is up to around ﬁfty thousand years for
+some pairs of non-African populations, and up to two hundred thousand years or
+more for some pairs of sub-Saharan African populations, is far from negligible on the
+time scale of human evolution. If selection on height and infant head circumference
+can occur within a couple of thousand years, it seems a bad bet to argue that there
+cannot be similar average diﬀerences in cognitive or behavioral traits. Even if we do
+not yet know what the diﬀerences are, we should prepare our science and our society
+to be able to deal with the reality of diﬀerences instead of sticking our heads in the
+sand and pretending that diﬀerences cannot be discovered. (Reich, 2018, p. 258)
+
+Section 2 explains why, from a scientiﬁc perspective, it is so diﬃcult to
+determine the cause of group diﬀerences in intelligence. Although the genetic
+origin of race diﬀerences can only be deﬁnitively established when the ﬁelds of
+genetics and neuroscience are uniﬁed in a way that will not happen for several
+years, less deﬁnitive evidence that is currently available seems to implicate genes.
+Section 3 raises a question of values: should science be absolutely committed to
+the truth, or, as some philosophers and scientists believe, are topics such as race
+diﬀerences in intelligence just too dangerous to face openly? Section 4 argues
+that utilitarian considerations favor open inquiry into the cause of race diﬀerences. Section 5 argues that truth has value independent of its consequences,
+though this value should be balanced against the potential dangers of truth.
+Section 6 argues that philosophers should help devise an ethical way to respond
+to group diﬀerences in intelligence in anticipation of the possibility that they will
+be shown to exist
+2. The scientiﬁc controversy
+
+The mere fact that populations diﬀer in IQ tells us little or nothing about the
+source of the diﬀerence. The diﬀerence could be due to genes, but it could also be
+due to some environmental factor(s) – education, nutrition, cultural bias in IQ
+tests, and so on. How can we disentangle the eﬀects of genes and environment?
+Behavioral geneticists have two principal methods for probing the role of genes
+in phenotypic diﬀerences: (a) behavioral genetic studies on adoptees and twins,
+and (b) genome-wide association studies.
+The heritability of a trait – the proportion of the variance in a population
+explained by genetic diﬀerences – can be determined by adoption and twin
+studies. If adopted children grow up to resemble their biological rather than
+
+4
+
+N. COFNAS
+
+their adoptive parents, this implicates genes. If (genetically identical) monozygotic twins raised together grow up to resemble each other more than
+(genetically related but nonidentical) dizygotic twins raised together, this, too,
+implicates genes (on certain testable assumptions, such as equal environments,
+or, in the case of adoption studies, random placement into adoptive environments). Adoption and twin studies show that, in the contemporary United
+States, the heritability of IQ in adulthood is around 60 to 80% (Plomin & Deary,
+2015).
+Even if IQ has high heritability within racial groups, this does not imply
+that race diﬀerences are genetic. We cannot infer between-group heritability
+from within-group heritability. Lewontin (1970, pp. 7–8) illustrates this
+point with the following example. Suppose we have a sack of genetically
+variable corn seeds, and we plant a handful on two plots of soil. Conditions
+within each plot are carefully controlled so that each plant receives the same
+nutrients, sunlight, and so on. Since there is no variation in the environmental factors that aﬀect growth, diﬀerences in height within each plot will
+be due entirely to genes – height will be 100% heritable. But suppose one
+plot contains a low concentration of nitrates. The corn in the low-nitrates
+plot will grow shorter on average for purely environmental reasons. Withingroup (i.e., within-plot) heritability will be 100%, while between-group
+heritability will be 0%.
+Heritability studies cannot show deﬁnitively that race diﬀerences in
+intelligence have a genetic cause. It is always possible that there is some
+hidden environmental factor(s) – a so-called “X factor,” analogous to
+nitrates in the corn example – that explains diﬀerences between – but not
+within – races (an X factor that explains the Black–White IQ gap would have
+to aﬀect all Blacks equally in order to preserve high heritability and shift the
+population mean downwards without changing the variance). Nevertheless,
+the high within-group heritability of IQ can be part of a package of evidence
+for between-group heritability. This point was made by Jensen (1969), who
+was widely misunderstood as naively inferring between- from within-group
+heritability (see Sesardic, 2005, pp. 128–138). Expounding on Jensen’s
+argument, Flynn (1980) writes that “the probability of a genetic hypothesis
+will be much enhanced if, in addition to evidencing high [heritability]
+estimates, we ﬁnd we can falsify literally every plausible environmental
+hypothesis [i.e., X factor] one by one” (p. 40; quoted in Sesardic, 2005,
+p. 136). The obvious candidate X factor that could explain race diﬀerences
+is, of course, racism. If racism lowers IQ, this could explain why the mean is
+shifted downwards for victimized groups. However, as Flynn argues, attributing diﬀerences to racism
+is simply an escape from hard thinking and hard research. Racism is not some magic
+force that operates without a chain of causality. Racism harms people because of its
+
+PHILOSOPHICAL PSYCHOLOGY
+
+5
+
+eﬀects and when we list those eﬀects, lack of conﬁdence, low self-image, emasculation
+of the male, the welfare mother home, poverty, it seems absurd to claim that any one
+of them does not vary signiﬁcantly within both black and white America.
+(Flynn, 1980, p. 60; quoted in Sesardic, 2005, pp. 141–142)
+
+Now, after decades of intensive searching, the X factor remains elusive. The
+adult Black–White IQ gap has remained stubbornly constant at approximately
+one standard deviation (15 IQ points) among cohorts born since around 1970
+(Murray, 2007). Dickens and Flynn (2006) report that “Blacks gained 4 to 7 IQ
+points on non-Hispanic Whites between 1972 and 2002” (p. 913), but these
+gains appear to be among Blacks born before the early seventies. Dickens and
+Flynn (2006, Figure 3) indicate that, in 2002, the Black–White IQ gap in
+among 20-year-olds was approximately one standard deviation, or 15 points.
+Nisbett (2017) writes that “Dickens and Flynn found [the Black–White gap in
+IQ to be] around 9.5 points,” but this is only the gap if we include children (as
+R. Nisbett conﬁrmed in a personal communication, December 24, 2018).
+More recent evidence indicates that the gap has persisted or even widened.
+Frisby and Beaujean (2015, Table 8) ﬁnd a Black–White IQ gap of 1.16
+standard deviations among a population-representative sample of adults
+used to norm the Wechsler Adult Intelligence Scale IV in 2007. Intensive
+interventions can raise IQ substantially during childhood when the heritability of IQ is low. But despite some misleading claims about the success of early
+intervention programs, gains tend to dissolve by late adolescence or early
+adulthood (Baumeister & Bacharach, 2000; Lipsey, Farran, & Durkin, 2018;
+Protzko, 2015). Adoption by white families – one of the most extreme
+interventions possible – has virtually no eﬀect on the IQ of black adoptees
+by adulthood. Black children adopted by middle- and upper-middle-class
+white families in Minnesota obtained IQ scores at age 17 that were roughly
+identical to the African American average. Adoptees with one black biological
+parent obtained IQ scores that were intermediate between the black and white
+means (Loehlin, 2000, Table 9.3).2
+To reiterate, the high within-group heritability of IQ combined with the
+failure to ﬁnd an environmental X factor to explain the IQ gap does not
+show decisively that race diﬀerences are genetic, because it is possible that
+an X factor will be discovered in the future. However, the environmentalist
+theory of race diﬀerences has not, by normal scientiﬁc standards, been an
+especially progressive research program (in the sense of Lakatos, 1970).
+Environmentalists never predicted that the Black–White IQ gap would,
+after reaching one standard deviation, remain impervious to early education, adoption, massive improvements in the socioeconomic status of
+Blacks, and the (apparent) waning of overt racism and discrimination.
+Commenting 45 years ago on environmentalist theories that appeal to an
+X factor, Urbach (1974) noted that “any data in the world can be made
+consistent with any theory by invoking nameless and untested factors” (p.
+
+6
+
+N. COFNAS
+
+134). Nevertheless, we cannot technically say that the environmentalist
+explanation for the IQ gap has been falsiﬁed. The fact that the gap did
+narrow since the early twentieth century gives some credibility to the idea
+that environment is playing a role.
+Let us turn to the second method for investigating the role of genes in
+development: genome-wide association studies (GWAS). Unlike heritability
+studies, GWAS can uncover speciﬁc genetic variants – or single-nucleotide
+polymorphisms (SNPs) – associated with IQ. In just the last couple years,
+GWAS has identiﬁed hundreds of such SNPs (Davies et al., 2018; Savage
+et al., 2018; Sniekers et al., 2017), which together explain around 11% of the
+variance in IQ (Allegrini et al., 2019).
+If we ﬁnd that the SNPs implicated in IQ are diﬀerentially distributed
+across racial groups, this would not necessarily imply that race diﬀerences
+in intelligence are genetic. SNPs might have diﬀerent eﬀects across races
+and environments due to gene–gene and gene–environment interactions.
+SNPs with no causal relation to intelligence can be genetically linked to
+SNPs that do have a causal relation in some populations but not others, so
+SNP–intelligence correlations may not always hold across races
+(Rosenberg, Edge, Pritchard, & Feldman, 2019). But if we ﬁnd that many
+of the same SNPs predict intelligence in diﬀerent racial groups, a risky
+prediction made by the hereditarian hypothesis will have passed a crucial
+test. Even then, however, GWAS will only establish a correlation between
+SNPs and IQ without revealing the causal chain linking SNP to phenotype.
+It would still be theoretically possible that these SNPs lead to diﬀerences in
+intelligence as a consequence of environmental factors (e.g., parenting
+eﬀects) that can be manipulated so as to eliminate race diﬀerences. But if
+work on the genetics and neuroscience of intelligence becomes suﬃciently
+advanced, it may soon become possible to give a convincing causal account
+of how speciﬁc SNPs aﬀect brain structures that underlie intelligence
+(Haier, 2017). If we can give a biological account of how genes with
+diﬀerent distributions lead to race diﬀerences, this would essentially constitute proof of hereditarianism. As of now, there is nothing that would
+indicate that it is particularly unlikely that race diﬀerences will turn out to
+have a substantial genetic component. If this possibility cannot be ruled
+out scientiﬁcally, we must face the ethical question of whether we ought to
+pursue the truth, whatever it may be.
+3. Should science be absolutely committed to truth?
+
+Truth was traditionally thought of – and is still often advertised – as the
+fundamental commitment of science (e.g., Dawkins, 2006). Some of the
+great heroes of science – most famously Galileo – are celebrated for resisting
+moral and religious authorities who feared that free inquiry would bring
+
+PHILOSOPHICAL PSYCHOLOGY
+
+7
+
+disaster. But the fact that the censors of previous eras were wrong does not
+mean that those of today cannot be right (Dummett, 1981, pp. 287–288).
+Sesardic (1992), who ultimately defends free inquiry, observes that since the
+days when “truth was . . . regarded as the categorical imperative for scientists,” we have “learned from some dramatic instances that there is no
+guarantee that . . . new knowledge [will] serve the good of mankind” (p.
+129). Just as physics can produce an atom bomb with the potential to
+destroy us physically, perhaps social science can produce an equivalent –
+a discovery that would undermine the social order and destroy us just the
+same.
+Many scientists claim to be absolutely committed to truth while at the
+same time advocating or tolerating varying degrees of suppression of
+controversial work. In his famous article “The Responsibility of
+Intellectuals,” Chomsky (1967) makes the bald statement that “it is the
+responsibility of intellectuals to speak the truth and to expose lies.”
+Elsewhere, however, he says that scientists should not pursue the truth
+about group diﬀerences in intelligence because this could have dangerous social consequences (Chomsky, 1976, pp. 294–295). He says that
+while people “surely . . . diﬀer in their biologically determined qualities,”
+it is wrong to investigate an association between group membership and
+IQ because to do so is to indicate “that the answer to the question makes
+a diﬀerence; it does not, except to racists, sexists, and the like” (Chomsky,
+1988, p. 164; quoted in Cofnas, 2016, p. 486). “To anyone not aﬄicted
+with these disorders, it is of zero interest whether the average value of IQ
+for some category of persons is such-and-such” (Chomsky, 1988, p. 164).
+Cofnas (2016) documented several prominent scientists and philosophers
+opposing the study or dissemination of ﬁndings related to group diﬀerences
+in intelligence. Howard Gardner, for example, who is known for his theory
+of multiple intelligences (Gardner, 1983), writes: “I myself do not condone
+investigations of racial diﬀerences in intelligence, because I think that the
+results of these studies are likely to be incendiary” (Gardner, 2001, p. 8). He
+also says that we should reject the work of hereditarian IQ theorists such as
+Arthur Jensen (whom he calls “the bad guys”) because even if they
+turn out to be more correct scientiﬁcally than I am, life is short, and we have to make
+choices about how we spend our time. And that’s where I think the multiple
+intelligences way of thinking about things will continue to be useful even if the
+scientiﬁc evidence doesn’t support it. (Gardner, 2009, 45:11)
+
+The leading intelligence researcher Robert Sternberg (2005) argues that
+good science is characterized by “taste in the selection of problems to
+solve” (p. 295), and that it is in bad taste to investigate the genetic basis of
+race diﬀerences. Sam Harris, a neuroscientist famous for aggressively promoting a “reason-and-evidence” based worldview, recently interviewed Bell
+
+8
+
+N. COFNAS
+
+Curve (Herrnstein & Murray, 1994) coauthor Charles Murray. Harris
+accepted all of Murray’s claims about hereditarianism, yet in the introduction to the interview he said:
+I do remain skeptical about the wisdom of looking for cross-cultural or interracial
+diﬀerences in things like intelligence. I’m not sure what it gets you apart from a lot
+of pain. So many of the topics I discussed in the podcast with Murray are not
+topics I would ordinarily think about, or recommend that you think about.
+(Harris, 2017, 8:53)
+
+Although he does not argue that the information should be suppressed, he
+does believe that facts about group diﬀerences conduce to “pain,” and we
+might be better oﬀ not thinking about them.
+A degree of censorship is already in operation when it comes to ﬁndings
+supporting hereditarianism about group diﬀerences. Mainstream media
+coverage of the race-and-IQ controversy almost always falsely claims that
+there is a consensus among the relevant experts that hereditarianism has
+been refuted. In fact, anonymous surveys reveal that a substantial proportion of experts on intelligence believe that there is a genetic component to
+race diﬀerences (Rindermann, Becker, & Coyle, 2016, 2020, Figure 3;
+Snyderman & Rothman, 1987, 1988). Research supporting both hereditarian
+and environmentalist explanations of race diﬀerences is routinely published
+in major psychology journals, particularly in psychometrics journals like
+Intelligence and Personality and Individual Diﬀerences. However, work
+supporting hereditarianism can be much more diﬃcult to publish and
+disseminate, and research testing the possible genetic basis of race diﬀerences is rarely funded. As James Flynn (after whom the “Flynn eﬀect” is
+named) notes, “if universities have their way, the necessary research [on race
+and intelligence] will never be done. They fund the most mundane research
+projects, but never seem to have funds to test for genetic diﬀerences” (Flynn,
+2012, p. 36). Flynn (2018) says that “scholars at one of America’s most
+distinguished universities . . . admitted [to him] that they had never
+approved a research grant that might clarify whether black[s] and white[s]
+had equivalent genes for IQ” (p. 128). When he suggested some ways to test
+if there is a genetic component to the Black–White IQ gap, “they evaded the
+issue” (J. Flynn, personal communication, January 7, 2019). And because the
+state of the science is often misrepresented to the public (hence the common
+belief that there is no evidence at all for hereditarianism), ﬁndings are
+subject to de facto censorship. In some academic ﬁelds such as sociology
+and history, virtually all mainstream scholars refuse to consider the implications of group diﬀerences in intelligence for the problems they address. The
+questions before us are: should research on group diﬀerences be conducted?;
+should ﬁndings related to diﬀerences be publicly disseminated?; and ﬁnally,
+what role should philosophers – who often act as intermediaries between
+
+PHILOSOPHICAL PSYCHOLOGY
+
+9
+
+science and the humanities, and between science and society at large – play
+in supporting or opposing work on the genetics of group diﬀerences?
+Arguments in favor of restricting scientiﬁc research generally, or research
+on group diﬀerences speciﬁcally, are almost always utilitarian: they contend
+that free inquiry can, in some cases, be expected to have an overall negative
+eﬀect on human well-being (e.g., Block & Dworkin, 1974; Chomsky, 1976;
+Dummett, 1981; Kourany, 2016). The present paper argues that utilitarian
+arguments in favor of restricting research on group diﬀerences in intelligence have generally given short shrift to the potential and actual serious
+harms that have resulted from the current practice of stigmatizing and
+dismissing controversial work, and they have also ignored the potential
+beneﬁts that might follow from openly confronting evidence about group
+diﬀerences.
+This paper suggests that there are also at least two compelling nonutilitarian reasons to allow free inquiry (compelling, that is, to those who
+are not utilitarians). First, truth is (to some degree) valuable independent of
+its feliciﬁc consequences. Proscribing the study of group diﬀerences undermines the integrity of huge swaths of work in biology, psychology, economics, sociology, history, and moral and political philosophy. If we accept that
+truth is intrinsically valuable, then this is a cause for concern. Second, if not
+all groups have identical distributions of potential, then it is unjust to
+assume that some people must be blamed for average diﬀerences in performance among groups.
+4. Utilitarian reasons to favor free inquiry
+
+In 2001, virologists at the State University of New York at Stony Brook
+created a synthetic version of the poliovirus using strands of DNA purchased by mail order. They obtained the RNA sequence of the virus from the
+Internet, where it is freely available for all to see. Other researchers have
+published what are essentially instructions for recreating a smorgasbord of
+viruses that could potentially kill tens of millions of people were they to be
+released in the modern world (Kourany, 2016, pp. 784–785). In response,
+prominent medical authorities have called for restrictions on creating
+deadly viruses or publishing information that could help terrorists to do
+so (National Research Council, 2004).
+Kourany (2016) asks: “is there any reason new policy constraints like
+these for the life sciences should not be put into eﬀect for the social
+sciences – new policy constraints that include research guidelines for weighing societal harms of research against societal beneﬁts . . . ?” (p. 786). As to
+the suggestion that the potential harm from deadly viruses is greater than
+the harm from research on intelligence diﬀerences, she urges us not to
+minimize the latter: intelligence research
+
+10
+
+N. COFNAS
+
+has already been shown to cause signiﬁcant harm . . . to lots more people [than
+a virus] – to all the people whose self-esteem, self-eﬃcacy, ambitions, and successes
+are lessened as a result of direct or indirect exposure to the research or aspects of the
+research . . . ; to all the people whose self-esteem, self-eﬃcacy, ambitions, and successes are lessened as a result of the treatment they receive from others who have been
+directly or indirectly exposed to the research or aspects of the research; and so on – in
+short, to all or most women and, in the United States at least, to most minority men
+and many men of color in other parts of the world . . . .Cognitive group diﬀerences
+research, then, arguably does pose harms to society near – perhaps even exceeding –
+the harms posed by the recent synthetic genomics research. (p. 787)
+
+The reality of all these harms cannot, however, be taken for granted. As for
+the situation in the United States, it is a well-established ﬁnding that the
+average levels of self-esteem in ethnic groups has, contra common wisdom,
+a negative relationship with average IQ. At least since the 1980s, Blacks have
+scored signiﬁcantly higher than Whites, who in turn have scored higher
+than Asians, on measures of self-esteem (Bachman, O’Malley, FreedmanDoan, Trzesniewski, & Donnellan, 2011; Twenge & Crocker, 2002). Is the
+success of members of some ethnic groups impaired by hearing about
+research on intelligence diﬀerences? That depends on the strength of the
+eﬀect of stereotype threat. According to the theory of stereotype threat,
+telling people that their group has a low mean score on a cognitive test
+(i.e., priming them with a negative stereotype) impairs their performance
+(Steele & Aronson, 1995). In recent years, stereotype threat has run into
+trouble.
+The “replication crisis” in psychology has revealed that many widely
+touted discoveries – particularly in social psychology and, within social
+psychology, speciﬁcally in regard to priming eﬀects – may be completely
+false (Kahneman, 2012; Open Science Collaboration, 2015; Yong, 2012).
+Some psychologists have suggested that stereotype threat could end up
+being another casualty of the crisis. Ganley et al. (2013) failed to replicate
+the eﬀect in three large studies of female mathematics performance. Using
+statistical techniques to test for publication bias, Flore and Wicherts (2015)
+found evidence that publication bias may “seriously distort the literature on
+the eﬀects of stereotype threat” (p. 25) on math performance in girls. In
+a pre-registered study of more than two thousand Dutch high school
+students, Flore, Mulder, and Wicherts (2018) failed to ﬁnd any evidence
+that gender stereotype threat aﬀects math performance. There has not yet
+been an authoritative replication attempt of studies on the eﬀect of priming
+with racial stereotypes. As of now, we certainly cannot say that stereotype
+threat “has already been shown to cause signiﬁcant harm” (Kourany, 2016,
+p. 787). If stereotype threat is not real, then conducting research on group
+diﬀerences in IQ will not harm lower-scoring groups via a nonexistent
+eﬀect. Even if it does turn out to be real, it is not clear that it is responsible
+
+PHILOSOPHICAL PSYCHOLOGY
+
+11
+
+for “signiﬁcant harm,” since the Black–White IQ gap remains unchanged
+even when stereotype threat is eliminated. Stereotype threat is alleged only
+to increase the gap under controlled test-taking conditions (Sackett,
+Hardison, & Cullen, 2004; Steele & Aronson, 2004, p. 48). If stereotype
+threat turns out to be both real and to cause some devastating harm, that
+could raise ethical problems for intelligence research – but even its reality is
+far from being established.
+There is also an important sense in which restrictions on publishing
+instructions to create deadly viruses and restrictions on intelligence research
+are not analogous. In the former case, the proposal is to conceal knowledge
+while being open about our motives: we should not (according to the
+proposals) publish instructions about how to make deadly viruses because
+we do not want terrorists to use them to make biological weapons. In the
+latter case, however, the proposal is to, if necessary, misrepresent the state of
+knowledge while being dishonest about our motives – to assert that there are
+no innate diﬀerences between groups while pretending that this is an
+established discovery of science. Given the disanalogy, we cannot so easily
+make an inference from the acceptability of limits on publishing work in
+virology to the acceptability of censoring or prohibiting work on intelligence, even if ﬁndings concerning intelligence diﬀerences could be shown to
+produce some sort of harm.
+It is also easy to overlook the harms that have been caused by uncritical
+commitment to environmentalism. Kourany (2016) comments:
+Finding out that blacks have lower IQ scores than whites . . . could be the beginning of
+educational and training programs to work with the strengths and work on the
+weaknesses of every group to help make them the very best they can be, and even
+to use the special talents of each group to help the others. Finding these things out
+could be the beginning of innovative programs that support rather than undermine
+the right to equality. That this does not happen, or seldom happens, is a function of
+the . . . racism of society. (pp. 783–784)
+
+But the reason that these programs, which Kourany rightly says ought to
+exist, have never been created is not because of racism but because of the
+taboo on talking about genetic diﬀerences among policy makers. No mainstream politician can acknowledge that there are diﬀerences that might call
+for the creation of a program to “work with the strengths and work on the
+weaknesses of every [ethnic] group to help make them the very best they can
+be.” It is hereditarians who have advocated these programs and environmentalists who have resisted them. The abstract to Jensen’s (1969) paper –
+the ﬁrst major modern defense of hereditarianism – says (written in the
+third person):
+Jensen examines other mental abilities [besides g] that might be capitalized on in an
+educational program, discussing recent ﬁndings on diverse patterns of mental abilities
+
+12
+
+N. COFNAS
+
+between ethnic groups and his own studies of associative learning abilities that are
+independent of social class. He concludes that educational attempts to boost IQ have
+been misdirected and that the educational process should focus on teaching much
+more speciﬁc skills. He argues that this will be accomplished most eﬀectively if
+educational methods are developed which are based on other mental abilities besides
+IQ. (p. 2)
+
+Contemporary hereditarians have also called for tailored training programs
+(e.g., Gottfredson, 2005a, 2005b, p. 318; Lubinski & Humphreys, 1997).
+Accumulating evidence suggests that education can indeed be eﬀective in
+raising speciﬁc cognitive skills (Ritchie, Bates, & Deary, 2015).
+Decades ago, Jensen (1969) was viliﬁed for predicting that Head Start –
+a program based on the environmentalist assumption that early intervention
+can permanently raise intelligence and academic performance – would not
+have its intended eﬀects. In The Bell Curve, hereditarians Herrnstein and
+Murray (1994) marshaled compelling evidence that Head Start was not
+working.3 In 2012, a congress-mandated report by the United States
+Department of Health and Human Services (HHS) stated that the eﬀects
+of Head Start disappear by third grade (Puma et al., 2012, p. xxi) – that is,
+Head Start was not working. Of course, the report did not endorse hereditarianism or recommend that Head Start be discontinued. It suggested that
+the program may confer some as-yet-undetectable beneﬁts that last many
+years after participation.4 Nevertheless, in the years immediately following
+HHS’s report, the government increased funding for Head Start by hundreds of millions of dollars (Enriquez, 2016). If we had followed Jensen’s
+recommendation in 1969 to devote money to programs that were tailored to
+the strengths of diﬀerent groups rather than to Head Start, around two
+hundred billion dollars would have gone to improving lives instead of
+accomplishing nothing that can be detected. This is one of many examples
+of how basing social policies on questionable scientiﬁc premises can have
+enormous opportunity costs.
+
+4.1. Unknown dangers
+
+It is impossible to know exactly what the consequences would be if race
+diﬀerences were proven to have a substantial genetic component and this
+ﬁnding became widely accepted. We ought to try to anticipate the potential
+harms and – keeping in mind the poor track record of even the most
+talented prognosticators of cultural trends – determine how seriously we
+should take them.
+In the liberal West, many of our institutions, laws, and moral values are
+predicated on the assumption that race diﬀerences are either nonexistent or
+environmentally caused. If the hereditarian theory of race diﬀerences
+became widely accepted, it seems inevitable that there would be signiﬁcant
+
+PHILOSOPHICAL PSYCHOLOGY
+
+13
+
+cultural changes, even if we cannot predict what those changes would be
+with any precision. Just about any radical change – even if it ultimately
+beneﬁts the vast majority of people – will have some negative consequences,
+but the fact that change always has negative consequences is not by itself
+a compelling reason to preserve the status quo. Every instance of progress
+has negative byproducts: alternative energy puts coal miners out of work,
+teaching evolution causes distress to creationists, and so on. Many examples
+throughout history show that attempts to block scientiﬁc progress, for
+whatever reason, are generally both futile and ultimately harmful. Is
+research on race diﬀerences a special case? Would ﬁnding a genetic origin
+to race diﬀerences pose a uniquely serious threat?
+A common fear is that, if race diﬀerences were proven to have
+a genetic basis, this would cause people to turn to Nazism. Indeed,
+the study of race diﬀerences is often explicitly equated with Nazism.
+This fear seems to be based on a historical misunderstanding. Nazi
+ideology was not based on scientiﬁc discoveries. The Nazis were
+ﬂagrant pseudoscientists whose research in biology and psychology
+was permeated with ideology. Contrary to a popular myth, both the
+Nazis and their ideological predecessors (such as Joseph Arthur Comte
+de Gobineau and Houston Stewart Chamberlain) rejected
+Darwinism (Richards, 2013).5 Most important for the present discussion, Nazi scientists rejected mainstream intelligence testing and the
+concept of IQ (i.e., general intelligence, or the g factor derived by
+factor analysis), preferring a mystical view of intelligence tied to race.
+Erich Jaensch, an inﬂuential Nazi psychologist at the University of
+Marburg, claimed that IQ tests advanced the “supremacy of
+Bourgeoisie spirit” and would be a tool “of Jewry [to] fortify its
+hegemony” (Rindermann, 2018, p. 61). Jaensch’s student Friedrich
+Becker advocated “intelligence measurement according to a national
+and typological point of view,” and called for what was essentially
+a version of multiple-intelligences theory that accounted for “realism,”
+“conscientiousness,” “the character value of intelligence,” and “practical intelligence” (Rindermann, 2018, p. 61).
+The fact that the Nazis rejected Darwinism and the concept of IQ does
+not necessarily mean that the study of race diﬀerences could never inspire
+a dangerous political movement. It does mean, however, that we cannot
+point to Nazi Germany as an illustration of what is liable to happen when
+people adopt a biologically informed view of the evolution of intelligence. In
+Nazi Germany, “science” followed from ideology, not the other way around.
+Some contemporary neo-Nazis claim to ﬁnd support for their Nazi-inspired
+views in Darwinism and IQ research, but their ideology tends to dictate their
+interpretation of the science – which is usually grossly uninformed.
+
+14
+
+N. COFNAS
+
+There is a legitimate fear that ﬁndings on race diﬀerences could be widely
+misunderstood in ways that would promote racial discrimination, hatred,
+and conﬂict. Our tendency for “folk essentialism,” which manifests in early
+childhood (Gelman, 2003), is a possible source of danger. People tend to
+explain why each entity has the properties it does by appealing to invisible
+essences shared by all members of a particular category that generate those
+properties (Gelman, 2003). Thus, children believe that rocks, men, women,
+and trees belong to categories whose members possess rock-ness, maleness,
+etc. The fear is that the discovery of race diﬀerences could reinforce our
+tendency to see members of diﬀerent races as possessing diﬀerent essences,
+which would in turn foster stereotypical thinking and discrimination.
+There is reason to think that this dismal outcome is not inevitable.
+First, cross-cultural studies have found that “essentialist intuitions
+[vary] enormously across cultures and education levels” (Olivola &
+Machery, 2014, p. 499), and are thus highly plastic. Some evidence
+suggests, for example, that in cultures which recognize transsexual
+women as a third gender people do not essentialize males (Olivola &
+Machery, 2014). Perhaps we should not be too pessimistic about
+people’s capacity to learn the error of essentializing race. Second,
+outside of certain university departments, virtually everyone believes
+that there are physical and psychological diﬀerences (on average)
+between men and women, and most people essentialize these diﬀerences. The fact that most people in the West essentialize the diﬀerences between men and women did not stop men from supporting
+women’s rights, and did not prevent societies from making great
+progress toward that end. Even if people continued to (erroneously)
+essentialize races, this need not create an insuperable barrier to racial
+harmony.
+We should also keep in mind that we have to weigh the danger of
+open inquiry against the alternative, which is opposing open inquiry.
+If there is a legitimate fear that disseminating ﬁndings about race
+diﬀerences could lead people to essentialize race and then lead to
+racial conﬂict, we have to consider the possibility that concealing
+these ﬁndings could lead to a similar or perhaps worse result. As
+long as people believe that race diﬀerences have a purely environmental cause, diﬀerences will, in practice, most likely be attributed to
+racism or institutional racism. Denying the possible genetic cause of
+race diﬀerences will not stop people from being focused on race. If
+people believe that members of certain races are victimized or beneﬁted by racism, this could also foster essentialist thinking. It may be
+more likely to lead to racial conﬂict, since, as discussed below, some
+people will invariably be blamed, and whole races are likely to be held
+collectively accountable.
+
+PHILOSOPHICAL PSYCHOLOGY
+
+15
+
+5. Non-utilitarian considerations in favor of free inquiry
+5.1. The intrinsic value of truth
+
+From a utilitarian perspective, there is nothing inherently wrong with
+falsehood. If not “productive of any material eﬀects, [it] can never, upon
+the principle of utility, constitute any oﬀense at all” (Bentham, [1823] 1876,
+§16.24). However, many utilitarians take it to be an empirical fact that the
+feliciﬁc consequences of falsehood tend to be negative, and they oppose it on
+those grounds. Singer (1996), for example, advocates freedom of inquiry as
+far as what can be investigated, and speciﬁcally opposes restrictions on
+intelligence research.6 Naturally, he opposes methods of inquiry that
+would harm human or animal subjects without being justiﬁed on utilitarian
+grounds. Bentham says that, “combined with other circumstances, there is
+scarce any sort of pernicious eﬀect which [falsehood] may not be instrumental in producing” (Bentham, [1823] 1876, §16.24; cf. James, [1896]
+1907). When it comes to extolling truth, even philosophers who are not
+utilitarians often emphasize its instrumental usefulness rather than its
+intrinsic value. Cliﬀord ([1877] 1999), citing practical dangers, famously
+suggests that it is immoral to believe anything without suﬃcient evidence.
+He reasons that even if no harm follows from a particular false belief, we
+must guard against cultivating a habit of credulousness, which would
+eventually lead to our destruction. When Frankfurt (2006) considers why
+truth is important, the ﬁrst thing that comes to his mind is that “truth often
+possesses very considerable practical utility. Any society that manages to be
+even minimally functional must have . . . a robust appreciation of the endlessly protean utility of truth” (p. 15). He expounds:
+Our success or failure in whatever we undertake, and therefore in life altogether, depends
+on whether we are guided by truth or whether we proceed in ignorance or on the basis of
+falsehood. [To] the extent that we recognize what dealing eﬀectively with the problems of
+life entails, we cannot help loving truth. (Frankfurt, 2006, pp. 35–36, 48)
+
+All the reasons Frankfurt gives for why we should be concerned with truth
+connect directly or indirectly to its usefulness in helping us to satisfy our
+desires or otherwise achieve our goals.
+There is also a long-standing tradition that truth has some intrinsic value,
+and that comprehending the truth and acting in conformity with it are
+worthwhile goals even if, in some cases, “he who increases knowledge
+increases sorrow” (Ecclesiastes 1:18 NKJV). When Democritus said that
+he would “rather discover one causal law than be King of Persia” (Pearl,
+2000, p. 41), he was probably expressing his deep commitment to truth
+rather than claiming that understanding leads to the greatest possible
+pleasure. Nozick (1974) took it for granted that most people (under normal
+circumstances) would reject a life of pleasure in an “experience machine” at
+
+16
+
+N. COFNAS
+
+the cost of being unaware that their perceived reality was a simulation and
+thus not really true.7
+People do have diﬀerent intuitions and views about whether truth is
+intrinsically valuable, but it seems likely that many professional philosophers and scientists are driven by a desire to attain some degree of true
+understanding of the world, ourselves, and our place in it. For these scholars, having wrong views is a tragedy even if they never suﬀer pain because of
+their mistake.
+If there is meaningful, evolved, genetically based psychological diversity
+among geographic human populations, this has far-reaching implications
+for several areas of science (Winegard, Winegard, & Boutwell, 2017) as well
+as philosophy. We cannot understand the nature and evolution of intelligence unless we can explain why selection favored diﬀerent levels of general
+intelligence, or speciﬁc intelligences, under diﬀerent conditions. Since IQ is
+the best predictor of many individual and group outcomes that are studied
+in social science (Deary, 2012; Gottfredson, 2004; Haier, 2017; Jones, 2016;
+Rindermann, 2018), we will be in the dark about many sociological phenomena if we refuse to confront intelligence diﬀerences. Most theories in
+moral and political philosophy acknowledge the possibility of diﬀerences
+among individuals, but do not address the possibility of group diﬀerences. If
+holding ethical views that are consistent, justiﬁed, and applicable to the real
+world is valuable to us, then we must consider the implications of human
+diversity.
+Those who believe the pursuit of truth to be valuable for its own sake
+recognize other competing values. No sane person would pursue some
+interesting truth at the cost of destroying society or instigating genocide –
+the results feared by some opponents of research on race diﬀerences. The
+point is only that the intrinsic value of truth should at least be part of our
+moral calculation.
+5.2. Justice
+
+Linda Gottfredson (2005b) observes that “currently, racial parity in outcomes is often treated as the ultimate standard for fairness and lack of
+parity as a measure of White racism” (p. 317). Those who deny that there
+is evidence in favor of hereditarianism are forced to conclude that phenotypic diﬀerences between groups “must be artiﬁcial, manmade, manufactured. Someone must be at fault” (p. 318). However, if hereditarianism
+is true, then it may be that no one should necessarily be blamed for
+diﬀerent average outcomes among groups. There is no theory of justice
+that says it is right to falsely blame a group of people for wrongs they did
+not commit because confronting the exculpatory evidence causes us
+discomfort.
+
+PHILOSOPHICAL PSYCHOLOGY
+
+17
+
+Some environmentalists may blame structural racism for group diﬀerences in IQ.8 Structural racism refers to the lingering eﬀects of past racism
+that are embodied in our institutions, and which have pernicious eﬀects
+regardless of whether or not living people are personally racist. Although the
+theory that IQ gaps are due to structural racism does not imply that living
+people are racist, it still implies that living people should be blamed in some
+ways for unequal outcomes. If the theory is correct, people who beneﬁt from
+structural racism have a moral obligation to oppose it and counteract its
+eﬀects. So long as racial gaps remain, people will be blamed for failing to
+extirpate structural racism.
+6. Conclusion: The responsibility of philosophers
+
+The strategy – advocated by some inﬂuential scholars – of stigmatizing,
+suppressing, or downplaying evidence in favor of hereditarianism about
+group diﬀerences has been tried and has not worked. Research on this topic
+has been done and the results are widely available. Major psychology
+journals continue to publish work that deals openly with group diﬀerences
+(though researchers still debate about the relative contribution of genes and
+environment, and the question has not been settled deﬁnitively). Any
+measures that would be eﬀective in preventing further work, such as those
+advocated by Kourany (2016), would have to be so severe that they would
+only attract even more attention to the ﬁndings they aimed to suppress.
+Science will carry on, and these questions will be answered. We should
+prepare in advance for the possibility that the genes underlying intelligence
+diﬀerences will not be distributed identically among ethnic groups. Failure
+to do this will only create a vacuum for “cranks rather than scientists” to
+opine on the nature and consequences of group diﬀerences (Anomaly, 2017,
+p. 293). Reich (2018) warns that if scientists “willfully abstain from laying
+out a rational framework for discussing human diﬀerences, [they] will leave
+a vacuum that will be ﬁlled by pseudoscience” (p. 258).
+This paper has argued that the usual utilitarian reasons given for restricting intelligence research are not convincing and, in fact, there are strong
+reasons, both utilitarian and non-utilitarian, to favor free inquiry. For
+philosophers speciﬁcally, there is an additional consideration. For decades,
+the contribution of philosophers to this debate has consisted mostly in
+providing alternative explanations for evidence seeming to support hereditarianism about race diﬀerences (see Sesardic, 2000, 2005), and advocating
+various kinds of restriction and censorship (see Cofnas, 2016). This may be
+because hereditarianism is controversial, and philosophers are strongly
+disincentivized from pursuing lines of argument that lead to truly controversial conclusions. Testifying to how serious this problem is, Jeﬀ
+McMahan, Francesca Minerva, and Peter Singer recently founded the
+
+18
+
+N. COFNAS
+
+Journal of Controversial Ideas, which will allow scholars to publish pseudonymously. Singer (2017) commented that “it’s unfortunate that such
+a journal should ever be considered necessary to enable controversial
+ideas to be published, but perhaps we have got to the point where it is.” It
+is not clear what kind of controversial ideas Singer had in mind, and the
+journal has not yet released its ﬁrst issue, but it is hard to ﬁnd a more
+controversial idea than hereditarianism about race diﬀerences in
+intelligence.
+There is a danger for the philosophical community in putting our
+credibility on the line over the claim that race diﬀerences are entirely
+environmental. If work on genetics and neuroscience within the next
+decade produces convincing evidence that diﬀerences in measured intelligence among groups have a signiﬁcant genetic component, there will be
+no way to conceal this information. The hereditarian explanation will
+have to be accepted, and people will know that philosophers were on
+the wrong side of the issue both scientiﬁcally and morally: scientiﬁcally,
+because we are supposed to be careful, disinterested commentators on
+scientiﬁc controversies, not activists supporting only the politically popular side; morally, because we did not help lay the groundwork for responding in a moral way to these facts that we should have known might be
+coming.
+
+Notes
+1. Virtually all informed scholars are, to varying degrees, hereditarians about individual
+diﬀerences in intelligence (Neisser et al., 1996). The controversy centers on the role of
+genes in group diﬀerences. Hereditarians about group diﬀerences believe that genes
+play a nontrivial role in these diﬀerences – environmentalists, that genes play no
+signiﬁcant role.
+2. The researchers who carried out the Minnesota Transracial Adoption Study argue
+that the “results...provide little or no conclusive evidence for genetic inﬂuences
+underlying racial diﬀerences in intelligence” (Waldman, Weinberg, & Scarr, 1994,
+p. 29). They give two main reasons for this conclusion. First, the mean IQ of Asian/
+Indian adoptees was lower than that of white adoptees, despite the fact that mean
+(East) Asian IQ is higher than that of Whites. This contradicts the hereditarian
+prediction that the rank ordering of the adoptees would reﬂect the rank ordering of
+their respective racial groups. Second, black children had worse early adoptive
+experiences than white children: Whites were placed with an adoptive family sooner
+and spent more time with them than Blacks (although half-black children were placed
+sooner than white children). Controlling for early experience explained a small
+proportion of the variance in IQ at age 17, but the fact remains that adoption did
+not have a signiﬁcant eﬀect on the IQ gap. Scarr (1998) later wrote: “The test
+performance of the Black/Black adoptees was not diﬀerent from that of ordinary
+Black children reared by their own families in the same area of the country. My
+colleagues and I reported the data accurately and as fully as possible, and then tried to
+
+PHILOSOPHICAL PSYCHOLOGY
+
+19
+
+make the results palatable to environmentally committed colleagues. In retrospect,
+this was a mistake” (p. 230).
+3. Herrnstein and Murray (1994) conclude that “it seems highly likely...that both genes
+and environment have something to do with racial diﬀerences” (p. 311). They do not
+give an estimate as to the relative importance of one or the other.
+4. Some scholars claim that early intervention programs, such as the Abecedarian
+Project, have produced lasting beneﬁts. As noted, the evidence for these claims is
+often questionable (see Baumeister & Bacharach, 2000).
+5. Richards (2013) magisterially documents the lack of a connection between Darwinism
+and Nazism.
+6. Although it is not entirely clear what his views are, Singer (2007) appears to
+believe that, given the state of the science (at least in 2007), advocating hereditarianism about group diﬀerences “raise[s] the suspicion of racism” because hereditarianism “lacks a solid scientiﬁc foundation.” In this passage, Singer was
+responding to DNA co-discoverer James Watson, who wrote that “the overwhelming desire of society today is to assume that equal powers of reason are a universal
+heritage of humanity. It may well be. But simply wanting this to be the case is not
+enough. This is not science. To question this is not to give in to racism” (Watson,
+2007). Singer (2007) agrees that “questioning this assumption is not, in itself,
+racist.”
+7. “We learn that something matters to us in addition to experience by imagining an
+experience machine and then realizing that we would not use it” (Nozick, 1974, p. 44).
+8. It is not clear why structural racism would lead to higher mean IQs for East Asians
+and Jews, but whether the “structural racism” explanation for group diﬀerences is
+plausible is not the point at issue here.
+
+Acknowledgments
+Thanks to Timothy Bates, Rafael De Clercq, Hrishikesh Joshi, Neven Sesardić, Omri Tal,
+and two anonymous reviewers for helpful comments on earlier drafts of this paper.
+
+Notes on contributor
+Nathan Cofnas is reading for a DPhil in philosophy at the University of Oxford.
+
+References
+Allegrini, A. G., Selzam, S., Rimfeld, K., von Stumm, S., Pingault, J. B., & Plomin, R. (2019).
+Genomic prediction of cognitive traits in childhood and adolescence. Molecular
+Psychiatry, 24, 819–827.
+Anomaly, J. (2017). Race research and the ethics of belief. Journal of Bioethical Inquiry, 14,
+287–297.
+Bachman, J. G., O’Malley, P. M., Freedman-Doan, P., Trzesniewski, K. H., &
+Donnellan, M. B. (2011). Adolescent self-esteem: Diﬀerences by race/ethnicity, gender,
+and age. Self and Identity, 10, 445–473.
+Baumeister, A. A., & Bacharach, V. R. (2000). Early generic educational intervention has no
+enduring eﬀect on intelligence and does not prevent mental retardation: The infant health
+and development program. Intelligence, 28, 161–192.
+
+20
+
+N. COFNAS
+
+Bentham, J. ([1823] 1876). An introduction to the principles of morals and legislation. Oxford:
+Clarendon Press.
+Block, N. J., & Dworkin, G. (1974). IQ, heritability and inequality, part 2. Philosophy &
+Public Aﬀairs, 4, 40–99.
+Ceci, S. J., & Williams, W. M. (2009). Should scientists study race and IQ? YES: The scientiﬁc
+truth must be pursued. Nature, 457, 788–789.
+Chomsky, N. (1967, February 23). The responsibility of intellectuals. The New York Review
+of Books. Retrieved from http://www.nybooks.com/articles/1967/02/23/a-specialsupplement-the-responsibility-of-intelle/
+Chomsky, N. (1976). The fallacy of Richard Herrnstein’s IQ. In N. J. Block & G. Dworkin
+(Eds.), The IQ controversy: Critical readings (pp. 285–298). New York: Pantheon Books.
+Chomsky, N. (1988). Language and problems of knowledge: The Managua lectures.
+Cambridge, MA: MIT Press.
+Cliﬀord, W. K. ([1877] 1999). The ethics of belief. In W. K. Cliﬀord (Ed.), The ethics of belief
+and other essays (pp. 70–96). New York: Prometheus Books.
+Cofnas, N. (2016). Science is not always “self-correcting”: Fact–Value conﬂation and the
+study of intelligence. Foundations of Science, 21, 477–492.
+Davies, G., Lam, M., Harris, S. E., Trampush, J. W., Luciano, M., Hill, W. D., . . . Deary, I. J.
+(2018). Study of 300,486 individuals identiﬁes 148 independent genetic loci inﬂuencing
+general cognitive function. Nature Communications, 9, 2098.
+Dawkins, R. (2006). The god delusion. New York: Houghton Miﬄin.
+Deary, I. J. (2012). Intelligence. Annual Review of Psychology, 63, 453–482.
+Dickens, W. T., & Flynn, J. R. (2006). Black Americans reduce the racial IQ gap: Evidence
+from standardization samples. Psychological Science, 17, 913–920.
+Dummett, M. (1981). Ought research to be unrestricted? Grazer Philosophische Studien, 12,
+281–298.
+Edwards, A. W. F. (2003). Human genetic diversity: Lewontin’s fallacy. BioEssays, 25,
+798–801.
+Enriquez, B. (2016). FY 2016 Head Start funding increase. Retrieved from https://eclkc.ohs.
+acf.hhs.gov/sites/default/ﬁles/docs/policy-pi/2016-08/acf-pi-hs-16-03_0.pdf
+Flore, P. C., Mulder, J., & Wicherts, J. M. (2018). The inﬂuence of gender stereotype threat
+on mathematics test scores of Dutch high school students: A registered report.
+Comprehensive Results in Social Psychology, 3, 140–174.
+Flore, P. C., & Wicherts, J. M. (2015). Does stereotype threat inﬂuence performance of girls
+in stereotyped domains? A meta-analysis. Journal of School Psychology, 53, 25–44.
+Flynn, J. R. (1980). Race, IQ and Jensen. London: Routledge & Kegan Paul.
+Flynn, J. R. (2012). Are we getting smarter? Rising IQ in the twenty-ﬁrst century. New York:
+Cambridge University Press.
+Flynn, J. R. (2018). Academic freedom and race: You ought not to believe what you think
+may be true. Journal of Criminal Justice, 59, 127–131.
+Frankfurt, H. G. (2006). On truth. New York: Knopf.
+Frisby, C. L., & Beaujean, A. A. (2015). Testing Spearman’s hypotheses using a bi-factor
+model with WAIS-IV/WMS-IV standardization data. Intelligence, 51, 79–97.
+Ganley, C. M., Mingle, L. A., Ryan, A. M., Ryan, K., Vasilyeva, M., & Perry, M. (2013). An
+examination of stereotype threat eﬀect on girls’ mathematics performance.
+Developmental Psychology, 49, 1886–1897.
+Gardner, H. (1983). Frames of mind: The theory of multiple intelligences. New York: Basic
+Books.
+Gardner, H. (2001). The ethical responsibilities of professionals. Retrieved from http://
+thegoodproject.org/wp-content/uploads/2012/09/GoodWork2.pdf
+
+PHILOSOPHICAL PSYCHOLOGY
+
+21
+
+Gardner, H. (2009). Intelligence: It’s not just IQ. New York: Rockefeller University. Retrieved
+from http://www.youtube.com/watch?v=cP4CBpLNEyE&feature=related
+Gelman, S. A. (2003). The essential child: Origins of essentialism in everyday thought. Oxford:
+Oxford University Press.
+Gottfredson, L. S. (2004). Life, death, and intelligence. Journal of Cognitive Education and
+Psychology, 4, 23–46.
+Gottfredson, L. S. (2005a). Suppressing intelligence research: Hurting those we intend to
+help. In R. H. Wright & N. A. Cummings (Eds.), Destructive trends in mental health: The
+well-intentioned path to harm (pp. 155–186). New York: Routledge.
+Gottfredson, L. S. (2005b). What if the hereditarian hypothesis is true? Psychology, Public
+Policy, and Law, 11, 311–319.
+Gottfredson, L. S. (2010). Lessons in academic freedom as lived experience. Personality and
+Individual Diﬀerences, 49, 272–280.
+Haier, R. J. (2017). The neuroscience of intelligence. New York: Cambridge University Press.
+Harris, S. (2017). Foridden knowledge: A conversation with Charles Murray. Retrieved from
+https://samharris.org/podcasts/forbidden-knowledge/
+Herrnstein, R. J., & Murray, C. (1994). The bell curve: Intelligence and class structure in
+American life. New York: Free Press.
+Horgan, J. (2013, May 16). Should research on race and IQ be banned? Scientiﬁc American.
+Retrieved from https://blogs.scientiﬁcamerican.com/cross-check/should-research-onrace-and-iq-be-banned/
+James, W. ([1896] 1907). The will to believe. In W. James (Ed.), The will to believe and other
+essays in popular philosophy (pp. 1–31). New York: Longmans Green.
+Jensen, A. R. (1969). How much can we boost IQ and scholastic achievement? Harvard
+Educational Review, 39, 1–123.
+Jones, G. (2016). Hive mind: How your nation’s IQ matters so much more than your own.
+Stanford, CA: Stanford University Press.
+Kahneman, D. (2012). A proposal to deal with questions about priming eﬀects. Nature.
+Retrieved from https://www.nature.com/polopoly_fs/7.6716.1349271308!/suppinfoFile/
+Kahneman%20Letter.pdf
+Kourany, J. A. (2016). Should some knowledge be forbidden? The case of cognitive diﬀerences research. Philosophy of Science, 83, 779–790.
+Lakatos, I. (1970). Falsiﬁcation and the methodology of scientiﬁc research programmes. In
+I. Lakatos & A. Musgrave (Eds.), Criticism and the growth of knowledge: Proceedings of the
+International Colloquium in the Philosophy of Science, London, 1965, volume 4 (pp.
+91–195). London: Cambridge University Press.
+Lewontin, R. C. (1970). Race and intelligence. Bulletin of the Atomic Scientists, 26, 2–8.
+Lewontin, R. C. (1972). The apportionment of human diversity. Evolutionary Biology, 6,
+381–398.
+Lipsey, M. W., Farran, D. C., & Durkin, K. (2018). Eﬀects of the Tennessee Prekindergarten
+Program on children’s achievement and behavior through third grade. Early Childhood
+Research Quarterly, 45, 155–176.
+Loehlin, J. C. (2000). Group diﬀerences in intelligence. In R. J. Sternberg (Ed.), Handbook of
+intelligence (pp. 176–193). Cambridge, UK: Cambridge University Press.
+Lubinski, D., & Humphreys, L. G. (1997). Incorporating general intelligence into epidemiology and the social sciences. Intelligence, 24, 159–201.
+Murray, C. (2007). The magnitude and components of change in the black–white IQ
+diﬀerence from 1920 to 1991: A birth cohort analysis of the Woodcock–Johnson standardizations. Intelligence, 35, 305–318.
+
+22
+
+N. COFNAS
+
+National Research Council. (2004). Biotechnology research in an age of terrorism.
+Washington, DC: National Academies Press.
+Neisser, U., Boodoo, G., Bouchard, T. J., Jr., Boykin, A. W., Brody, N., Ceci, S. J., . . .
+Urbina, S. (1996). Intelligence: Knowns and unknowns. American Psychologist, 51,
+77–101.
+Nisbett, R. E. (2017, June 17). Who is cherry-picking? Vox. Retrieved from https://www.vox.
+com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics
+Nozick, R. (1974). Anarchy, state, and utopia. New York: Basic Books.
+Olivola, C. Y., & Machery, E. (2014). Is psychological essentialism an inherent feature of
+human cognition? Behavioral and Brain Sciences, 37, 499.
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science.
+Science, 349, aac4716.
+Pearl, J. (2000). Causality: Models, reasoning, and inference. Cambridge, UK: Cambridge
+University Press.
+Plomin, R., & Deary, I. J. (2015). Genetics and intelligence diﬀerences: Five special ﬁndings.
+Molecular Psychiatry, 20, 98–108.
+Protzko, J. (2015). The environment in raising early intelligence: A meta-analysis of the
+fadeout eﬀect. Intelligence, 53, 202–210.
+Puma, M., Bell, S., Cook, R., Heid, C., Broene, P., Jenkins, F., . . . Downer, J. (2012). Third
+grade follow-up to the Head Start impact study ﬁnal report. Washington, DC: U.S.
+Department of Health and Human Services. Retrieved from http://www.acf.hhs.gov/
+sites/default/ﬁles/opre/head_start_report.pdf
+Reich, D. (2018). Who we are and how we got here: Ancient DNA and the new science of the
+human past. New York: Pantheon Books.
+Richards, R. J. (2013). Was Hitler a Darwinian? In R. J. Richards (Ed.), Was Hitler
+a Darwinian? Disputed questions in the history of evolutionary theory (pp. 192–242).
+Chicago: University of Chicago Press.
+Rindermann, H. (2018). Cognitive capitalism: Human capital and the wellbeing of nations.
+Cambridge, UK: Cambridge University Press.
+Rindermann, H., Becker, D., & Coyle, T. R. (2016). Survey of expert opinion on intelligence:
+Causes of international diﬀerences in cognitive ability tests. Frontiers in Psychology, 7,
+399.
+Rindermann, H, Becker, D, & Coyle, T. R. (2020). Survey of expert opinion on intelligence:
+Intelligence research, experts’ background, controversial issues, and the media.
+Intelligence, 78, 1–18.
+Ritchie, S. J., Bates, T. C., & Deary, I. J. (2015). Is education associated with improvements in
+general cognitive ability, or in speciﬁc skills? Developmental Psychology, 51, 573–582.
+Rose, S. (2009). Should scientists study race and IQ? NO: Science and society do not beneﬁt.
+Nature, 457, 786–788.
+Rosenberg, N. A., Edge, M. D., Pritchard, J. K., & Feldman, M. W. (2019). Interpreting
+polygenic scores, polygenic adaptation, and human phenotypic diﬀerences. Evolution,
+Medicine, and Public Health, 2019, 26–34.
+Sackett, P. R., Hardison, C. M., & Cullen, M. J. (2004). On interpreting stereotype threat as
+accounting for African American–white diﬀerences on cognitive tests. American
+Psychologist, 59, 7–13.
+Savage, J. E., Jansen, P. R., Stringer, S., Watanabe, K., Bryois, J., de Leeuw, C. A., . . .
+Posthuma, D. (2018). Genome-wide association meta-analysis in 269,867 individuals
+identiﬁes new genetic and functional links to intelligence. Nature Genetics, 50, 912–919.
+Scarr, S. (1998). On Arthur Jensen’s integrity. Intelligence, 26, 227–232.
+
+PHILOSOPHICAL PSYCHOLOGY
+
+23
+
+Sesardic, N. (1992). Science and politics: Dangerous liaisons. Journal for General Philosophy
+of Science, 23, 129–151.
+Sesardic, N. (2000). Philosophy of science that ignores science: Race, IQ and heritability.
+Philosophy of Science, 67, 580–602.
+Sesardic, N. (2005). Making sense of heritability. Cambridge, UK: Cambridge University
+Press.
+Singer, P. (1996). Ethics and the limits of scientiﬁc freedom. The Monist, 79, 218–229.
+Singer, P. (2007, November 1). Should we talk about race and intelligence? Project Syndicate.
+Retrieved from https://www.project-syndicate.org/commentary/should-we-talk-aboutrace-and-intelligence
+Singer, P. (2017). What is it like to be a philosopher? Retrieved from http://www.whatisitli
+ketobeaphilosopher.com/peter-singer/
+Sniekers, S., Stringer, S., Watanabe, K., Jansen, P. R., Coleman, J. R. I., Krapohl, E., . . .
+Posthuma, D. (2017). Genome-wide association meta-analysis of 78,308 individuals
+identiﬁes new loci and genes inﬂuencing human intelligence. Nature Genetics, 49,
+1107–1112.
+Snyderman, M., & Rothman, S. (1987). Survey of expert opinion on intelligence and aptitude
+testing. American Psychologist, 42, 137–144.
+Snyderman, M., & Rothman, S. (1988). The IQ controversy, the media and public policy. New
+Brunswick, NJ: Transaction.
+Steele, C. M., & Aronson, J. A. (1995). Stereotype threat and the intellectual test performance
+of African Americans. Journal of Personality and Social Psychology, 69, 797–811.
+Steele, C. M., & Aronson, J. A. (2004). Stereotype threat does not live by Steele and Aronson
+(1995) alone. American Psychologist, 59, 47–48.
+Sternberg, R. J. (2005). There are no public-policy implications: A reply to Rushton and
+Jensen (2005). Psychology, Public Policy, and Law, 11, 295–301.
+Tal, O. (2012). The cumulative eﬀect of genetic markers on classiﬁcation performance:
+Insights from simple models. Journal of Theoretical Biology, 293, 206–218.
+Twenge, J. M., & Crocker, J. (2002). Race and self-esteem: Meta-analyses comparing whites,
+blacks, hispanics, Asians, and American Indians and comment on Gray-Little and
+Hafdahl (2000). Psychological Bulletin, 128, 371–408.
+Urbach, P. (1974). Progress and degeneration in the ‘IQ debate’ (I). The British Journal for
+the Philosophy of Science, 25, 99–135.
+Waldman, I. D., Weinberg, R. A., & Scarr, S. (1994). Racial-group diﬀerences in IQ in the
+Minnesota transracial adoption study: A reply to Levin and Lynn. Intelligence, 19, 29–44.
+Watson, J. (2007, October 19). To question genetic intelligence is not racism. The
+Independent. Retrieved from https://www.independent.co.uk/voices/commentators/
+james-watson-to-question-genetic-intelligence-is-not-racism-5328720.html
+Winegard, B., Winegard, B., & Boutwell, B. (2017). Human biological and psychological
+diversity. Evolutionary Psychological Science, 3, 159–180.
+Yong, E. (2012). Nobel laureate challenges psychologists to clean up their act. Nature.
+Retrieved from https://www.nature.com/news/nobel-laureate-challenges-psychologiststo-clean-up-their-act-1.11535
+
+

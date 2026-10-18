@@ -1,0 +1,35 @@
+1. Arch Sex Behav. 2010 Feb;39(1):5-56. doi: 10.1007/s10508-009-9556-9. Epub 2010
+ Jan 5.
+
+Agreement of self-reported and genital measures of sexual arousal in men and 
+women: a meta-analysis.
+
+Chivers ML(1), Seto MC, Lalumière ML, Laan E, Grimbos T.
+
+Author information:
+(1)Department of Psychology, Queen's University, Kingston, ON, K7L 3N6, Canada. 
+Meredith.Chivers@queensu.ca
+
+The assessment of sexual arousal in men and women informs theoretical studies of 
+human sexuality and provides a method to assess and evaluate the treatment of 
+sexual dysfunctions and paraphilias. Understanding measures of arousal is, 
+therefore, paramount to further theoretical and practical advances in the study 
+of human sexuality. In this meta-analysis, we review research to quantify the 
+extent of agreement between self-reported and genital measures of sexual 
+arousal, to determine if there is a gender difference in this agreement, and to 
+identify theoretical and methodological moderators of subjective-genital 
+agreement. We identified 132 peer- or academically-reviewed laboratory studies 
+published between 1969 and 2007 reporting a correlation between self-reported 
+and genital measures of sexual arousal, with total sample sizes of 2,505 women 
+and 1,918 men. There was a statistically significant gender difference in the 
+agreement between self-reported and genital measures, with men (r = .66) showing 
+a greater degree of agreement than women (r = .26). Two methodological 
+moderators of the gender difference in subjective-genital agreement were 
+identified: stimulus variability and timing of the assessment of self-reported 
+sexual arousal. The results have implications for assessment of sexual arousal, 
+the nature of gender differences in sexual arousal, and models of sexual 
+response.
+
+DOI: 10.1007/s10508-009-9556-9
+PMCID: PMC2811244
+PMID: 20049519 [Indexed for MEDLINE]

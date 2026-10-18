@@ -1,0 +1,376 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Autogynephilia discourse is so absurdly bad on all sides
+
+tailcalled23 Jul 2023 13:12 UTC
+44 points
+24 comments2 min readLW link
+Sex & GenderAutosexualityWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+In Blanchard’s Dangerous Idea and the Plight of the Lucid Crossdreamer, Zack criticizes the rationalist community and the trans community for various things, including denial of autogynephilia as a cause of transness:
+
+I could go on … but do I need to? After having seen enough of these laughable denials of autogynephilia, the main question in my mind has become less, “Is the two-type androphilic/​autogynephilic taxonomy of MtF transsexuality approximately true?” (answer: yes, obviously) and more, “How dumb do you (proponents of gender-identity theories) think we (the general public) are?” (answer: very, but correctly).
+
+In some ways this is not a completely unreasonable critique, but I think it has a lot less bite once one realizes just how dysfunctional the discourse on this subject is, even among the ideology that Zack endorses as a replacement.
+
+A microcosm of the dysfunction can be seen in Michael Bailey and Kevin Hsu’s study, How Autogynephilic Are Natal Females? (pdf).[1] They are responding to a debate where Charles Moser, Scott Alexander, Julia Serano, and Jaimie Veale argue that cis women are often autogynephilic too, and that this suggests that autogynephilia in trans women is not so significant.
+
+In response, Michael Bailey (the effective leader of autogynephilia theory) recruited samples of highly active members of online erotic AGP communities, and found that these samples are on average much more AGP than cis women, and therefore conclude that AGP in cis women is dubious.
+
+Substituting a sample of highly active members of online erotic AGP communities for trans women is an insanely biased methodology! And when called out on it (pdf), Michael Bailey essentially goes “well the debate isn’t about trans women, it’s about AGPs, so it’s totally appropriate” (pdf), which again is just an insane response when very obviously the debate is about trans women! All the people Bailey is responding to were clearly talking about trans women in their texts!
+
+One would think that people would point out these problems so the study would be appropriately rejected. I have tried to do so, and some trans activists have tried to do so, but people on the Blanchardian side have generally accepted Bailey’s study and rejected making critiques.
+
+Now here’s a thought experiment for you: If people cannot converge to the truth on objectively observable facts about who has said what that can be seen by reading the debates, how can they ever be expected to converge to the truth about complex psychological causal and distributional inference questions? Especially when the objectively observable facts concern what psychological causal and distributional inference questions are under dispute?
+
+Even if the specific point of AGP in cis women doesn’t move you much (I don’t think it should[2]), this dysfunctional discourse might make you tempted to infer that Blanchardians do a lot of other shenanigans to make their theories look better than they really are. And I think you would be right to make that inference, because I have a lot of points of critique on my gender blog that go unaddressed.[3] But my critiques aren’t the core point I’m raising here, rather I’m pointing out that people have good reasons to be exhausted with autogynephilia theorists.
+
+^
+
+See Transvestism vs gender dysphoria vs … and Michael Bailey doubles down on his lies 🤣 for in-depth analysis. The latter post has direct quotes.
+
+^
+
+I am so confused about AGP in cis women that I am essentially agnostic on the question. I think it is a question that is relatively independent of other questions of interest, and I don’t think we have any satisfactory measurements of the rate of AGP in cis women. My best guess is that a large fraction of cis women (maybe 80%) have something that superficially looks like AGP but isn’t, and that a substantial fraction of cis women (maybe 15%) are truly AGP in some meaningful sense. (Not necessarily super strongly, but also, a lot of the evidence for the existence of AGP in trans women doesn’t show trans women to be super strongly AGP.)
+
+^
+
+The mathematical consequences of a toy model of gender transition, Meta-attraction cannot account for all autogynephiles’ interest in men, Contra James Cantor on desistance, Autogynephilia and masochism: A tale of two assessment biases, Book Review: Autoheterosexuality, Autogynephilia vs pseudoautogynephilia?, Why most studies on autogynephilia and sexual orientation are of no evidentiary value for ETLE, also some general mentions of autoandrophilia that I don’t think I’ve written up well anywhere
+
+tailcalled23 Jul 2023 13:12 UTC
+44 points
+24 comments2 min readLW link
+Sex & GenderAutosexualityWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Dagon 23 Jul 2023 16:08 UTC
+8 points
+
+3
+
+There are very few politically-charged topics that have sane discourse, even in otherwise-calm pockets of the ’net. I’m constantly surprised that this gets forgotten so easily here.
+
+tailcalled 23 Jul 2023 18:01 UTC
+2 points
+
+0
+Parent
+
+I think it’s important to highlight because Blanchardians position themselves as careful honest truthseekers. But yes, you are right.
+
+anon03 23 Jul 2023 19:17 UTC
+7 points
+
+−8
+
+I know nothing about this topic. In particular, I haven’t heard of Michael Bailey and Kevin Hsu before.
+
+But I do know that there are terrible arguments on both sides of every issue—even issues where there is also healthy discourse and very good arguments.
+
+Are Michael Bailey and Kevin Hsu the least-bad arguers for their position? Or are they especially well-known /​ famous /​ widely-respected figure-heads of that side of the debate? If so, you should say that somewhere.
+
+Otherwise it sounds (to non-knowledgeable ears like mine) like you were just searching for an idiot on that side of the aisle, and hey you found one, and now you can call them out for their idiocy and spread guilt-by-association to everyone else who has wound up reaching similar conclusions.
+
+tailcalled 23 Jul 2023 19:26 UTC
+10 points
+
+3
+Parent
+
+Michael Bailey is the most prominent and well-respect figure in this debate:
+
+He is friends with Ray Blanchard, inventor of the term “autogynephilia”,
+
+He wrote a book on homosexuality and transness titled “The Man Who Would Be Queen”, with a substantial part of the book being about autogynephilia,
+
+He is one of the biggest advocates for autogynephilia theory, perhaps seconded by Kay Brown, Rod Fleming, Steve Sailer, or some radical feminists I don’t know about; but also certainly the most respectable figure among the autogynephilia advocates,
+
+He runs SEXNET, an intellectual dark web mailing list for research into sexuality,
+
+He is arguably the main academic researcher in the topic of autogynephilia.
+
+Kevin Hsu used to be his grad student. I think the badness of autogynephilia discourse in this case is due to Bailey, since e.g. it was only him on the response paper, so let’s not bring Kevin Hsu into it. I only mentioned him because he was on the author list for the paper.
+
+Also it should be said that e.g. Ray Blanchard isn’t necessarily better; for instance, he endorsed the Bailey study that I complained about in the OP.
+
+What links here?
+Au­to­g­y­nephilia dis­course is so ab­surdly bad on all sides by tailcalled (23 Jul 2023 13:12 UTC; 44 points)
+
+tailcalled 23 Jul 2023 20:08 UTC
+2 points
+
+0
+Parent
+
+Oh and I should say, Zack regularly cites Michael Bailey’s crew in the post I linked. By my count, Bailey is referenced 4 times, Blanchard is referenced 2 times, Lawrence is referenced 7 times, Cantor is referenced 1 time, Zucker is referenced 2 times, and Lippa is referenced 1 time.
+
+anon03 23 Jul 2023 20:26 UTC
+1 point
+
+0
+Parent
+
+That’s helpful, thanks!
+
+Vaniver 24 Jul 2023 1:44 UTC
+6 points
+
+0
+
+I’m guessing one of Aella’s surveys contains a better sample with data on that particular question, which you could find and then add to the debate.
+
+[Sorry, I don’t care enough about the debate to evaluate your complaint, which on priors seems plausible to me.]
+
+tailcalled 24 Jul 2023 8:49 UTC
+4 points
+
+0
+Parent
+
+I think it’s best to get new, better data: https://​​www.lesswrong.com/​​posts/​​oHn8yvzn5uGvPYmsb/​​i-think-michael-bailey-s-dismissal-of-my-autogynephilia?commentId=Xq96prSNjwBYQoMaM
+
+Vaniver 24 Jul 2023 17:36 UTC
+2 points
+
+0
+Parent
+
+Ah, I didn’t realize that you were the likely source of those questions!
+
+tailcalled 8 Oct 2023 6:56 UTC
+2 points
+
+0
+
+Another example of autogynephilia discourse being abysmal: https://​​surveyanon.wordpress.com/​​2023/​​10/​​08/​​contra-kay-brown-on-sampling/​​
+
+cubefox 1 Aug 2023 5:27 UTC
+1 point
+
+0
+
+The headline doesn’t seem to fit the rest of the post, especially not the last sentence. You seem to be pointing not to “all sides” but to one side (autogynephilia theorists). Maybe the headline is unclear?
+
+tailcalled 1 Aug 2023 5:36 UTC
+1 point
+
+0
+Parent
+
+I guess I just took it for granted, given Zack’s post and my own experiences with the anti-autogynephilia-theory side, that autogynephilia discourse is also bad on the opposite side. But yes you are right that I didn’t do much to justify this, and others might disagree.
+
+Stephen Bennett 24 Jul 2023 7:03 UTC
+1 point
+
+0
+
+Even if the specific point of AGP in cis women doesn’t move you much (I don’t think it should[2]), this dysfunctional discourse might make you tempted to infer that Blanchardians do a lot of other shenanigans to make their theories look better than they really are. And I think you would be right to make that inference, because I have a lot of points of critique on my gender blog that go unaddressed.[3] But my critiques aren’t the core point I’m raising here, rather I’m pointing out that people have good reasons to be exhausted with autogynephilia theorists.
+
+I strongly dislike this paragraph since it seems to me to optimize for heat over light. If I were strongly convinced that the Blanchardian camp were up to no good, then I wouldn’t be as put off by dismissing the entirety of their work from a single case of malfeasance. However, I don’t think you come close to demonstrating that in the preceding post, so when you try to convince me that I should be exhausted with them (and imply that I should therefore ignore them), I’m peeved.
+
+Reluctantly, I’ll spend a minute skimming the actual Blanchardian 2022 paper you linked since that’ll help me make an informed decision about how much “shenanigans” are in fact happening.\
+
+.
+
+From what I can tell, they’re merely saying that the AGP group and the female group are indeed rather different from eachother in terms of how much AGP they have. My main criticism is something like “well no shit”, but I don’t really see how you can take that and then say that they’re up to no good. Are they using this specific claim elsewhere to do something that isn’t actually supported by this paper? That would be the problem, not what they’re up to here.
+
+It seems to me that this is basically a semantic debate about what it means to “have AGP”. If you take AGP to mean something like “a fetish that you regularly masturbate to”, then I don’t think it’s terribly surprising that females typically don’t “have AGP”. Now, you might wanna push back on that definition of AGP. Sure, go for it. You might claim that the actual rate of females with AGP is high enough that it has significant overlap with the trans women with AGP (Sure, go for it). Your post here, however, seems to go a step much further and assume that I’m convinced that they’re pretty egregiously wrong here and then leverage that presumed-convinced-ness into thinking they’re all a bunch of grifters. I don’t like that, and I trust you less because of it.
+
+tailcalled 24 Jul 2023 7:32 UTC
+5 points
+
+1
+Parent
+
+I strongly dislike this paragraph since it seems to me to optimize for heat over light. If I were strongly convinced that the Blanchardian camp were up to no good, then I wouldn’t be as put off by dismissing the entirety of their work from a single case of malfeasance. However, I don’t think you come close to demonstrating that in the preceding post, so when you try to convince me that I should be exhausted with them (and imply that I should therefore ignore them), I’m peeved.
+
+In the paper, they claim to be responding to people such as Charles Moser and Scott Alexander, and as I said Charles Moser and Scott Alexander are talking about AGP in trans women. Furthermore, elsewhere on social media they claim that their paper is a rebuttal of these papers they are responding to.
+
+From what I can tell, they’re merely saying that the AGP group and the female group are indeed rather different from eachother in terms of how much AGP they have. My main criticism is something like “well no shit”, but I don’t really see how you can take that and then say that they’re up to no good. Are they using this specific claim elsewhere to do something that isn’t actually supported by this paper? That would be the problem, not what they’re up to here.
+
+It seems to me that this is basically a semantic debate about what it means to “have AGP”. If you take AGP to mean something like “a fetish that you regularly masturbate to”, then I don’t think it’s terribly surprising that females typically don’t “have AGP”. Now, you might wanna push back on that definition of AGP. Sure, go for it. You might claim that the actual rate of females with AGP is high enough that it has significant overlap with the trans women with AGP (Sure, go for it). Your post here, however, seems to go a step much further and assume that I’m convinced that they’re pretty egregiously wrong here and then leverage that presumed-convinced-ness into thinking they’re all a bunch of grifters. I don’t like that, and I trust you less because of it.
+
+I don’t understand why you consider my description in the post dishonest when it seems to me that it is basically the same as how you describe it:
+
+Michael Bailey (the effective leader of autogynephilia theory) recruited samples of highly active members of online erotic AGP communities, and found that these samples are on average much more AGP than cis women, and therefore conclude that AGP in cis women is dubious.
+
+As I described in the post, I think it’s dishonest because of the greater context of the debate.
+
+Stephen Bennett 27 Jul 2023 23:32 UTC
+10 points
+
+−2
+Parent
+
+In the paper, they claim to be responding to people such as Charles Moser and Scott Alexander, and as I said Charles Moser and Scott Alexander are talking about AGP in trans women.
+
+From my understanding, they’re talking about AGP in natal males of any kind as compared to AGP in cis women. Scott and others found evidence of “yes, cis women have some AGP”, whereas they find that the degree to which cis women have AGP is much less than those for whom AGP is a major component of their sexual life. I don’t think it’s crazy to then go on to say “no, really, when we talk about AGP in natal males we’re talking about something distinct from the typical sexual experience of cis women”.
+
+As I described in the post, I think it’s dishonest because of the greater context of the debate.
+
+If you want to make this argument, you have to actually make this argument, which I did not see you do in the post. As I said in my initial criticism, “Are they using this specific claim elsewhere to do something that isn’t actually supported by this paper? That would be the problem, not what they’re up to [in this paper].”
+
+tailcalled 28 Jul 2023 8:26 UTC
+4 points
+
+1
+Parent
+
+From my understanding, they’re talking about AGP in natal males of any kind as compared to AGP in cis women. Scott and others found evidence of “yes, cis women have some AGP”, whereas they find that the degree to which cis women have AGP is much less than those for whom AGP is a major component of their sexual life.
+
+Yes, that’s my point.
+
+Charles Moser and Scott Alexander made a claim about autogynephilia in trans women and cis women, Michael Bailey decided that he could just ignore the “trans women” part and replace it with “highly active members of online erotic AGP communities”.
+
+I don’t think it’s crazy to then go on to say “no, really, when we talk about AGP in natal males we’re talking about something distinct from the typical sexual experience of cis women”.
+
+They found similar, arguably lower rates of AGP in ordinary male samples compared to ordinary female samples. It is when they filter for highly active members of online erotic AGP communities that they find the highest degrees of AGP.
+
+If you want to make this argument, you have to actually make this argument, which I did not see you do in the post.
+
+I did actually make the argument:
+
+All the people Bailey is responding to were clearly talking about trans women in their texts!
+
+alexgieg 23 Jul 2023 14:05 UTC
+1 point
+
+1
+
+Yep, the idea autogynephilia explains transgender identities can be shown to be false by referring a single piece of direct evidence: it isn’t difficult to find aro-ace trans people. That right there shows autogynephilia isn’t a universal explanation. It may apply to some cases, maybe, but transgender identities definitely go way beyond that.
+
+Besides, but also mainly, we have evidence for physiological causes:
+
+Frigerio, Alberto, Lucia Ballerini, and Maria Valdés Hernández. “Structural, Functional, and Metabolic Brain Differences as a Function of Gender Identity or Sexual Orientation: A Systematic Review of the Human Neuroimaging Literature.” Archives of Sexual Behavior 50, no. 8 (November 2021): 3329–52. https://​​doi.org/​​10.1007/​​s10508-021-02005-9.
+
+And it takes lots of handwaving, or deliberately ignoring the data, to stick with the autogynephilic hypothesis as the most general explanation.
+
+tailcalled 23 Jul 2023 14:41 UTC
+7 points
+
+−2
+Parent
+
+Yep, the idea autogynephilia explains transgender identities can be shown to be false by referring a single piece of direct evidence: it isn’t difficult to find aro-ace trans people. That right there shows autogynephilia isn’t a universal explanation. It may apply to some cases, maybe, but transgender identities definitely go way beyond that.
+
+Feels like an example of bad discourse that you dismiss it on the basis of ace trans women without responding to what Blanchardians have to say about ace trans women.
+
+Besides, but also mainly, we have evidence for physiological causes:
+
+Frigerio, Alberto, Lucia Ballerini, and Maria Valdés Hernández. “Structural, Functional, and Metabolic Brain Differences as a Function of Gender Identity or Sexual Orientation: A Systematic Review of the Human Neuroimaging Literature.” Archives of Sexual Behavior 50, no. 8 (November 2021): 3329–52. https://​​doi.org/​​10.1007/​​s10508-021-02005-9.
+
+And it takes lots of handwaving, or deliberately ignoring the data, to stick with the autogynephilic hypothesis as the most general explanation.
+
+Idk, I find the neurological research kind of unreadable and sketchy. Like small sample sizes and unclear theories. I would enjoy if someone could lay it out in a more comprehensible manner.
+
+alexgieg 23 Jul 2023 15:19 UTC
+4 points
+
+0
+Parent
+
+Feels like an example of bad discourse that you dismiss it on the basis of ace trans women without responding to what Blanchardians have to say about ace trans women.
+
+Thanks for the link, but I’d say the text actually confirms my point rather than contradicting it. The numbers referred to:
+
+“In this study, Blanchard (...) found that 75% of his asexual group answered yes. Similarly, Nuttbrock found that 67% of his asexual group had experienced transvestic arousal at some point in their lives. (...) 45.2% of the asexuals feel that it applies at least a little bit to them (...)”
+
+Can all be reversed to show that, respectively, 25% /​ 33% /​ 54.8% of aro-ace trans individuals answer in the negative, and the rebuttal of the universality of the hypothesis needs only these numbers to be non-zero. That they’re this high comes as an added bonus, so to speak.
+
+I would enjoy if someone could lay it out in a more comprehensible manner.
+
+This is being constantly done. Over the last 20+ years, as neuroimaging and autopsy techniques advance, and new studies are done using those more advanced techniques, we mostly get corroborations with more precision, not falsifications. There are occasional null results, so that isn’t strictly always the case, but those come as outliers, not forming a new, contrary body of evidence, and not significantly affecting the trend identified as meta-analyses keep being done.
+
+I’m not aware of someone having done a formal Bayesian calculation on this, but my impression is it’d show the scale constantly sliding toward the physiological hypothesis, and away from the autogynephilic one, as time advances, with only small backslides along the way.
+
+tailcalled 23 Jul 2023 15:38 UTC
+1 point
+
+0
+Parent
+
+Thanks for the link, but I’d say the text actually confirms my point rather than contradicting it.
+
+I mean sure if you take self-reports as the absolute truth rather than suspecting various problems with them, but then why go with the convoluted point about aro-ace trans women instead of just saying “most trans women disagree with autogynephilia theory”?
+
+(I don’t think self-reports should be taken as an absolute truth, but in arguing about that we get into the complicated weeds of the typology that I don’t feel like arguing about here. Feel free to start a top-level thread about it or engage about it in one of the other places where it is relevant, e.g. here.)
+
+This is being constantly done. Over the last 20+ years, as neuroimaging and autopsy techniques advance, and new studies are done using those more advanced techniques, we mostly get corroborations with more precision, not falsifications. There are occasional null results, so that isn’t strictly always the case, but those come as outliers, not forming a new, contrary body of evidence, and not significantly affecting the trend identified as meta-analyses keep being done.
+
+More studies != better integration of the information from those studies into a coherent explanation.
+
+alexgieg 23 Jul 2023 16:18 UTC
+1 point
+
+0
+Parent
+
+I mean sure if you take self-reports as the absolute truth (...)
+
+Absolute truth doesn’t exist, the range is always ]0;1[. 0 and 1 require infinitely strong evidence. What imprecisions in self-reporting do generate is higher variance, skewing, bias etc., and these can be solved by better causal hypotheses. However, those causal hypotheses must be predictive and falsifiable.
+
+why go with the convoluted point about aro-ace trans women (...)
+
+Because that’s central to the falsifiability requirement. Consider: if transgender individuals explicitly telling researchers they never experienced autogynephilic impulses, nor any sexual impulse or attraction at all, is dismissed by the autogynephilic hypothesis proponents and considered invalid, with proponents suggesting they actually did experience it but {ad hoc rationalization follows}, then what is the autogynephilic hypothesis’ falsifiability criteria? Is there any?
+
+More studies != better integration of the information from those studies into a coherent explanation.
+
+There are several moments in research.
+
+The initial hypothesis is simple: there are identifiable physiological differences between human male and female brains, and transgender individuals’ brains show distinctive traits typical of the brains of the other sex, while cisgender individuals don’t.
+
+This is testable, with clear falsifiability criteria, and provides a pathway for the development of a taxonomy of such differences, including typical values, typical variances, normal distributions for each sex, a full binomial distribution to cover both sexes, and the ability to position an individual’s brain somewhere along that binomial distribution.
+
+Following that taxonomic mapping, if it pans out, there come questions of causality, such as what causes some individual brains to fall so distantly from the average for their birth sex. But that’s a further development way down the line. Right now what matters is the first stage is falsifiable and has been experiencing constant corroboration, not constant falsification.
+
+So now it’s a matter of contrasting this theory’s falsifiability track record with the autogynephilic hypothesis’s falsifiability track record—supposing there’s one.
+
+tailcalled 23 Jul 2023 16:34 UTC
+2 points
+
+0
+Parent
+
+Absolute truth doesn’t exist, the range is always ]0;1[. 0 and 1 require infinitely strong evidence. What imprecisions in self-reporting do generate is higher variance, skewing, bias etc., and these can be solved by better causal hypotheses. However, those causal hypotheses must be predictive and falsifiable.
+
+Yeah I know, I’ve put a lot of effort into this. See also: my blog.
+
+Because that’s central to the falsifiability requirement. Consider: if transgender individuals explicitly telling researchers they never experienced autogynephilic impulses, nor any sexual impulse or attraction at all, is dismissed by the autogynephilic hypothesis proponents and considered invalid, with proponents suggesting they actually did experience it but {ad hoc rationalization follows}, then what is the autogynephilic hypothesis’ falsifiability criteria? Is there any?
+
+In some of the studies, it included asking wives, looking at prior patient reports, or measuring erections in response to being read stories. Personally, I have done the research by looking at prior responses prior to transition.
+
+There are several moments in research.
+
+The initial hypothesis is simple: there are identifiable physiological differences between human male and female brains, transgender individuals’ brains show distinctive traits typical of the brains of the other sex, while cisgender individuals don’t.
+
+This is testable, with clear falsifiability criteria, and provides a pathway for the development of a taxonomy of such differences, including typical values, typical variances, normal distributions for each sex, a full binomial distribution to cover both sexes, and the ability to position an individual’s brain somewhere along that binomial distribution.
+
+Following that taxonomic mapping, if it pans out, there come questions of causality, such as what causes some individual brains to fall so distantly from the average for their birth sex. But that’s a further development way down the line. Right now what matters is the first stage is falsifiable and has been experiencing constant corroboration, not constant falsification.
+
+So now it’s a matter of contrasting this theory’s falsifiability track record with the autogynephilic hypothesis’s falsifiability track record—supposing there’s one.
+
+I’d think this only works if you have a shitton of data, which these studies don’t. Maybe I’m confused though, which is where a more coherent explanation would help.
+
+See also: 5-HTTLPR: A POINTED REVIEW.
+
+alexey 22 Aug 2023 16:11 UTC
+1 point
+
+0
+Parent
+
+That right there shows autogynephilia isn’t a universal explanation.
+
+Do any prominent pro-AGP people claim it is? Even when I see them described by their opponents, the claim is that there are two clusters of trans women and AGP people are one of them, so aroace trans women could belong to the other cluster without contradicting that theory.
+
+tailcalled 22 Aug 2023 16:29 UTC
+2 points
+
+0
+Parent
+
+AGP theorists generally claim that aroace trans women belong to the AGP cluster. The other cluster is named “homosexual” because they are attracted to men (not aroace). AGP is supposed to be the universal explanation among those who are not exclusively androphilic.
+
+Back to top

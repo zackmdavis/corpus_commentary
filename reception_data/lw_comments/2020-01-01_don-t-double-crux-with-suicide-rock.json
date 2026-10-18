@@ -1,0 +1,399 @@
+{
+ "post": {
+  "_id": "jrLkMFd88b4FRMwC6",
+  "title": "Don't Double-Crux With Suicide Rock",
+  "postedAt": "2020-01-01T19:02:55.707Z",
+  "pageUrl": "https://www.lesswrong.com/posts/jrLkMFd88b4FRMwC6/don-t-double-crux-with-suicide-rock",
+  "commentCount": 30
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "68ruNKHfY3jmMt3Rm",
+   "parentCommentId": null,
+   "postedAt": "2020-01-01T19:07:10.417Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "Go one step further.\n\n> *Honest* rational agents should never agree to disagree.\n\nThere are no such agents. On many topics, NOBODY, including you and including me, is sufficiently honest NOR sufficiently rational for Aumann's theorem to apply."
+   }
+  },
+  {
+   "_id": "pEqrmjpHFHJhCqpwR",
+   "parentCommentId": "68ruNKHfY3jmMt3Rm",
+   "postedAt": "2020-01-01T20:39:02.221Z",
+   "baseScore": 6,
+   "user": {
+    "username": "quanticle",
+    "displayName": "quanticle"
+   },
+   "contents": {
+    "markdown": "The other problem with Aumann's agreement theorem is that it's often applied too broadly. It should say, \"Honest rational agents should never agree to disagree on matters of *fact*.\" What to do about those facts is definitely up for disagreement, insofar as two honest, rational agents may value wildly different things."
+   }
+  },
+  {
+   "_id": "ACwv84g3yy2kpw7B9",
+   "parentCommentId": "pEqrmjpHFHJhCqpwR",
+   "postedAt": "2020-01-01T20:46:38.669Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "An earlier draft actually specified \"... on questions of fact\", but I deleted that phrase because I didn't think it was making the exposition stronger. (Omit needless words!) People who understand the fact/value distinction, [instrumental goals](https://www.lesswrong.com/posts/n5ucT5ZbPdhfGNLtP/terminal-values-and-instrumental-values), _&c._ usually don't have trouble \"relativizing\" policy beliefs. (Even if _I_ don't want to maximize paperclips, I can still have a lawful discussion about what the paperclip-maximizing thing to do would be.)"
+   }
+  },
+  {
+   "_id": "rbWmmvxSicx9xfoRH",
+   "parentCommentId": null,
+   "postedAt": "2020-01-01T20:51:47.651Z",
+   "baseScore": 26,
+   "user": {
+    "username": "steven0461",
+    "displayName": "steven0461"
+   },
+   "contents": {
+    "markdown": "Honest rational agents can still disagree if the fact that they're all honest and rational isn't common knowledge."
+   }
+  },
+  {
+   "_id": "3SJnRjKvT2caF2ceC",
+   "parentCommentId": null,
+   "postedAt": "2020-01-01T21:09:01.287Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Dustin",
+    "displayName": "Dustin"
+   },
+   "contents": {
+    "markdown": "I just want to spring off of this to point out something about Aumann's agreement theorem. I often see it used as a kind of cudgel because people miss an important aspect.\n\nIt can take us human beings time and effort to converge on a view.\n\nOftentimes it's just not worth it to one or more of the participants to invest that time and effort."
+   }
+  },
+  {
+   "_id": "Gxkk4EtmsJKRZHmWZ",
+   "parentCommentId": "ACwv84g3yy2kpw7B9",
+   "postedAt": "2020-01-01T21:16:23.290Z",
+   "baseScore": 10,
+   "user": {
+    "username": "quanticle",
+    "displayName": "quanticle"
+   },
+   "contents": {
+    "markdown": "I understand the point about omitting needless words, but I think the words are needed in this case. I think there's a danger here of Aumann's agreement theorem being misused to prolong disagreements when those disagreements are on matters of values and future actions rather than on the present state of the world. This is especially true in \"hot\" topics (like politics, religion, etc) where matters of fact and matters of value are closely intertwined."
+   }
+  },
+  {
+   "_id": "8dmcbDNrkuiiqJu2o",
+   "parentCommentId": null,
+   "postedAt": "2020-01-01T21:25:29.813Z",
+   "baseScore": 36,
+   "user": {
+    "username": "RobinHanson",
+    "displayName": "RobinHanson"
+   },
+   "contents": {
+    "markdown": "You are a bit too quick to allow the reader the presumption that they have more algorithmic faith than the other folks they talk to. Yes if you are super rational and they are not, you can ignore them. But how did you come to be confident in that description of the situation?"
+   }
+  },
+  {
+   "_id": "t7BicHKMq2DoTpth3",
+   "parentCommentId": "68ruNKHfY3jmMt3Rm",
+   "postedAt": "2020-01-01T21:36:10.374Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "A slightly different frame on this (I *think* less pessimistic) is something like \"honesty hasn't been invented *yet\".* Or, rather, explicit knowledge of how to implement honesty does not exist in a way that can be easily transferred. ([Tacit knowledge](https://www.lesswrong.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-rationality-ama#wKZPMakMHt3myvZmv) of such may exist but it's hard to validate and share)\n\n(I'm referring, I think, to the same [sort of honesty Zack is getting at here](https://www.lesswrong.com/posts/MN4NRkMw7ggt9587K/firming-up-not-lying-around-its-edge-cases-is-less-broadly), although the aspects of it that are relevant to doublecrux that didn't come up in that previous blogpost)\n\nI think, obviously, that there have been massive strides (across human history, and yes on LW in particular) in how to implement \"Idealized Honesty\" (for lack of a better term for now). So, the problem seems pretty tractable. But it does not feel like a thing within spitting distance."
+   }
+  },
+  {
+   "_id": "HSKkqYwNy6sREaABY",
+   "parentCommentId": null,
+   "postedAt": "2020-01-01T23:06:53.945Z",
+   "baseScore": 40,
+   "user": {
+    "username": "Vaniver",
+    "displayName": "Vaniver"
+   },
+   "contents": {
+    "markdown": "Presumably double crux with Suicide Rock would reveal that the Rock doesn't have any cruxes, and double crux with someone suffering from algorithmic bad faith would also reveal that, tho perhaps more subtly?"
+   }
+  },
+  {
+   "_id": "bXJag88CzM5dDrwKn",
+   "parentCommentId": "rbWmmvxSicx9xfoRH",
+   "postedAt": "2020-01-02T00:02:36.859Z",
+   "baseScore": 2,
+   "user": {
+    "username": "TAG",
+    "displayName": "TAG"
+   },
+   "contents": {
+    "markdown": "Yep. \"Mutually trusting\" would be better than \"honest\". "
+   }
+  },
+  {
+   "_id": "uYNnneitwrhW2gzTf",
+   "parentCommentId": "8dmcbDNrkuiiqJu2o",
+   "postedAt": "2020-01-02T00:04:38.795Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Everything I'm saying is definitely symmetric across persons, even if, as an author, I prefer to phrase it in the second person. (A [previous post](https://www.lesswrong.com/posts/y4bkJTtG3s5d6v36k/stupidity-and-dishonesty-explain-each-other-away) included a clarifying parenthetical to this effect at the end, but this one did not.)\n\nThat is, if someone who trusted _your_ rationality noticed that you seemed visibly unmoved by their strongest arguments, they might think that the lack of agreement implies that they should update towards your position, but another possibility is that their trust has been misplaced! If they find themselves living a world of painted rocks where _you are one of the rocks_, then it may come to pass that protecting the sanctity of their map would require them to master the technique of lonely dissent.\n\nYou could argue that my author's artistic preference to phrase things in the second person is misleading, but I'm not sure what to do about that while still accomplishing everything else I'm trying to do with my writing: my [reply to Wei Dai](https://www.lesswrong.com/posts/tCwresAuSvk867rzH/speaking-truth-to-power-is-a-schelling-point#S3WDjfrf2RHBbTDn7) and [a Reddit user's commentary](https://www.lesswrong.com/posts/tCwresAuSvk867rzH/speaking-truth-to-power-is-a-schelling-point#AFxeTwLLpyWcjQpsm) on another previous post seem relevant."
+   }
+  },
+  {
+   "_id": "ceqE2yfdd7RiisScD",
+   "parentCommentId": null,
+   "postedAt": "2020-01-02T00:07:37.930Z",
+   "baseScore": 4,
+   "user": {
+    "username": "TAG",
+    "displayName": "TAG"
+   },
+   "contents": {
+    "markdown": ">there\u2019s only one reality\r\n\r\nBut there's no agreement about what constitutes evidence of something being real, so even agreement about fact is going to be extremely difficult. "
+   }
+  },
+  {
+   "_id": "eqJEGBG5wYoRKwycu",
+   "parentCommentId": null,
+   "postedAt": "2020-01-02T01:09:57.863Z",
+   "baseScore": 8,
+   "user": null,
+   "contents": {
+    "markdown": "Important note about Aumann\u2019s agreement theorem: both agents have to have the same priors. With human beings this isn\u2019t always the case, especially when it comes to values. But even with perfect Bayesian reasoners it isn\u2019t always the case, since their model of the world is their prior. Two Bayesians with the same data can disagree if they are reasoning from different causal models.\n\nNow with infinite data, abandonment of poor performing models, and an Occam prior it is much more likely that they will agree. But not mathematically guaranteed AFAIK.\n\nIt\u2019s a good heuristic in practice. But don\u2019t draw strong conclusions from it without corroborating evidence."
+   }
+  },
+  {
+   "_id": "C9egGFTkCm46mRwqH",
+   "parentCommentId": "8dmcbDNrkuiiqJu2o",
+   "postedAt": "2020-01-02T01:58:05.561Z",
+   "baseScore": 8,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "Being able to parse philosophical arguments is evidence of being rational.  When you make philosophical arguments, you should think of yourself as only conveying content to those who are rationally parsing things, and conveying only appearance/gloss/style to those who aren't rationally parsing things."
+   }
+  },
+  {
+   "_id": "F9Yb6AHQn49yWZeEp",
+   "parentCommentId": null,
+   "postedAt": "2020-01-02T02:31:51.687Z",
+   "baseScore": 29,
+   "user": {
+    "username": "romeostevensit",
+    "displayName": "romeostevensit"
+   },
+   "contents": {
+    "markdown": "In practical terms, agreeing to disagree can simply mean that given resource constraints it isn't worth reaching convergence on this topic given the delta in expected payoffs."
+   }
+  },
+  {
+   "_id": "wEJdkL2mGZGG8EpbD",
+   "parentCommentId": null,
+   "postedAt": "2020-01-02T05:51:51.021Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Pattern",
+    "displayName": "Pattern"
+   },
+   "contents": {
+    "markdown": "> \\[1\\] Honest rational agents should \\[2\\] never agree to disagree.\n\n> \\[3\\] This idea is formalized in \\[4\\] [Aumann's agreement theorem](https://en.wikipedia.org/wiki/Aumann%27s_agreement_theorem)\n\nThe conditions \\[1\\] are sufficient for the conclusion \\[2\\] (as shown by \\[4\\]) but are not all necessary.\n\nHonesty is not required.\n\n  \n\nIf this is surprising, then it might be useful to consider that 'having common priors' is kind of like being able to read people's minds - what they are thinking will be within the space of possibilities you consider. Things such rational agents say to each other may be surprising, but never un-conceived of; never inconceivable. And with each (new) piece of information they acquire they come closer to the truth - whether the words they hear are \"true\" or \"false\", it matters not - only what evidence 'hearing those words' is. Under such circumstances lies may be useless. Not because rational agents are incapable of lying, but because, they possess impossible computational abilities that ensure convergence of shared beliefs* (in their minds) after they meet - a state of affairs which does not tell you anything about their words.\n\nEvents may proceed in a fashion such that a third observer (that isn't a \"rational agent\") such as you or I, might say \"they agreed to disagree\". Aumann's agreement theorem doesn't tell us that this will never happen, only that such an observer would be wrong about what actually happened to their (internal) beliefs, however their professed (or performed beliefs) hold otherwise.\n\nOne consequence of this is how such a conversation might go - the rational agents might simply state the probabilities they give for a proposition, rather than discussing the evidence, because they can assess the evidence from each other's responses, because they already know all the evidence that 'might be'.\n\n  \n\n*Which need not be at or between where they started. Two Bayesian with different evidence that has led them to believe something is very unlikely, after meeting may conclude that it is very likely - if that is the assessment they would give had they had both pieces of information to begin with."
+   }
+  },
+  {
+   "_id": "4CWw3Hfgqr7do6twj",
+   "parentCommentId": "eqJEGBG5wYoRKwycu",
+   "postedAt": "2020-01-02T07:44:19.755Z",
+   "baseScore": 7,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "The usual formalization of \"Occam's prior\" is the Solomonoff prior, which still depends on the choice of a Universal Turing Machine, so such agents can still disagree because of different priors."
+   }
+  },
+  {
+   "_id": "RJ8Pgdx9Exp6jushq",
+   "parentCommentId": "wEJdkL2mGZGG8EpbD",
+   "postedAt": "2020-01-02T07:49:23.108Z",
+   "baseScore": 8,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "If an agent is not honest, ey can decide to say only things that provide no evidence regarding the question in hand to the other agent. In this case convergence is not guaranteed. For example, Alice assigns probability 35% to \"will it rain tomorrow\" but, when asked, says the probability is 21% *regardless of what the actual evidence is*. Bob assigns probability 89% to \"will it rain tomorrow\" but, when asked, says the probability is 42% *regardless of what the actual evidence is*. Alice knows Bob always answers 42%. Bob knows Alice always answers 21%. If they talk to each other, their probabilities will not converge (they won't change at all).\n\nYes, it can luckily happen that the lies still contain enough information for them to converge, but I'm not sure why do you seem to think it is an important or natural situation?"
+   }
+  },
+  {
+   "_id": "Xh5pQYhnjtFNJhx8S",
+   "parentCommentId": "t7BicHKMq2DoTpth3",
+   "postedAt": "2020-01-02T15:53:30.150Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "The kind of honesty Zack is talking about is desirable, but it's unclear whether it's sufficient for Aumann's theorem to apply."
+   }
+  },
+  {
+   "_id": "B7FFKt6PFqD5afECw",
+   "parentCommentId": "C9egGFTkCm46mRwqH",
+   "postedAt": "2020-01-02T16:20:04.660Z",
+   "baseScore": 5,
+   "user": {
+    "username": "mr-hire",
+    "displayName": "Trinley Goldenberg"
+   },
+   "contents": {
+    "markdown": "I think being smart is only very small evidence for being rational (especially globally rational, as Zach is assuming here, rather than locally rational).\n\nI think most of the evidence towards being rational of understanding philosophical evidence is screened off by being smart (which again, is a very very weak correlation already)."
+   }
+  },
+  {
+   "_id": "9qhN99BL8c6TPQWKe",
+   "parentCommentId": "RJ8Pgdx9Exp6jushq",
+   "postedAt": "2020-01-02T18:26:18.646Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Pattern",
+    "displayName": "Pattern"
+   },
+   "contents": {
+    "markdown": "I don't think the 'rational agents' in question are a good model for people, or that the theoretical situation is anything close to natural. Aside from the myriad ways they are different*, the result of 'rational people'** interacting seems like an empirical question. Perhaps a theory that models people better will come up with the same results - and offer suggestions for how people can improve.\n\nThe addition of the word \"honest\" seems like it comes from an awareness of how the model is flawed. I pointed out how this differs from the model, because the model is somewhat unintuitive, and makes rather large assumptions - and it's not clear how well the result holds up as the gap between those assumptions and reality are removed.\n\nYes, to ask for a theory that enables constructing, or approximating, the agents described therein would be asking for a lot, but that might clearly establish how the theory relates to reality/people interacting with each other.\n\n  \n\n*like having the ability to compute uncomputable things instantly (with no mistakes),\n\n**Who are computationally bounded, etc."
+   }
+  },
+  {
+   "_id": "umzc38h9kpKGjPP4R",
+   "parentCommentId": "9qhN99BL8c6TPQWKe",
+   "postedAt": "2020-01-02T19:58:45.368Z",
+   "baseScore": 10,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "The addition of the word \"honest\" *doesn't* come from an awareness of how the model is flawed. It is one of the explicit assumptions in the model. So, I'm still not sure what point are you going for here.\n\nI think that applying Aumann's theorem to people is mostly interesting in the prescriptive rather than descriptive sense. That is, the theorem tells us that our ability to converge can serve as a *test* of our rationality, to the extent that we are honest and share the same prior, and all of this is common knowledge. (This last assumption might be the hardest to make sense of. Hanson tried to justify it but IMO not quite convincingly.) Btw, you don't need to compute uncomputable things, much less instantly. Scott Aaronson derived a [version of the theorem](https://www.scottaaronson.com/papers/agreestoc.pdf) with explicit computational complexity and query complexity bounds that don't seem prohibitive.\n\nGiven all the difficulties, I am not sure how to apply it in the real world and whether that's even possible. I do think it's interesting to think about it. But, to the extent it *is* possible, it definitely requires honesty."
+   }
+  },
+  {
+   "_id": "X3R5t84ifw3qmAcew",
+   "parentCommentId": "F9Yb6AHQn49yWZeEp",
+   "postedAt": "2020-01-02T22:45:49.983Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gworley",
+    "displayName": "Gordon Seidoh Worley"
+   },
+   "contents": {
+    "markdown": "I think this is an important consideration of bounded rational agents, and much more so for embedded agents, which is unfortunately often ignored. The result is that you should not expect to ever meet an agent where Aumann fully applies in all cases because neither of you has the computational resources necessary to always reach agreement."
+   }
+  },
+  {
+   "_id": "hf3TLEqK5CMzGvyKz",
+   "parentCommentId": "F9Yb6AHQn49yWZeEp",
+   "postedAt": "2020-01-03T00:20:50.241Z",
+   "baseScore": 5,
+   "user": {
+    "username": "jay-molstad",
+    "displayName": "Jay Molstad"
+   },
+   "contents": {
+    "markdown": "I frequently find myself in situations where:\n\n1) I disagree with someone\n\n2) My opinion is based on fairly large body of understanding accumulated over many years\n\n3) I think I understand where the other person is going wrong\n\n4) trying to reach convergence would, in practice, look like a pointless argument that would only piss everyone off.\n\nIf there are real consequences at stake, I'll speak up. Often I'll have to take it offline and write a few pages, because some positions too complex for most people to follow orally. But if the agreement isn't worth the argument, I probably won't."
+   }
+  },
+  {
+   "_id": "kLmicYcFX3b7wNdDr",
+   "parentCommentId": "hf3TLEqK5CMzGvyKz",
+   "postedAt": "2020-01-03T03:26:50.172Z",
+   "baseScore": 7,
+   "user": {
+    "username": "romeostevensit",
+    "displayName": "romeostevensit"
+   },
+   "contents": {
+    "markdown": "And if the problem formulation is much simpler than the solution then there will be a recurring explanatory debt to be paid down as multitudes of idiots re-encounter the problem and ignore existing solutions."
+   }
+  },
+  {
+   "_id": "rKyXjjbuZ3dBCPmGC",
+   "parentCommentId": null,
+   "postedAt": "2020-01-03T09:30:34.203Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Mitchell_Porter",
+    "displayName": "Mitchell_Porter"
+   },
+   "contents": {
+    "markdown": "\"Honest rational agents should never agree to disagree.\"\n\nI never really looked into Aumann's theorem. But can one not envisage a situation where they \"agree to disagree\", because the alternative is to argue indefinitely?"
+   }
+  },
+  {
+   "_id": "xiATpzFuC7QEcwjTD",
+   "parentCommentId": "rKyXjjbuZ3dBCPmGC",
+   "postedAt": "2020-01-03T16:27:54.900Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "No, the alternative (and only outcome for honest rational agents) is to converge to one belief. Each takes the other's stated (and mutually known to be honest and rational) beliefs as evidence, on which they update their own."
+   }
+  },
+  {
+   "_id": "XkrvJpyo7M7D7i3hq",
+   "parentCommentId": "kLmicYcFX3b7wNdDr",
+   "postedAt": "2020-01-03T22:42:44.271Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "This is what FAQs are for. On LW, The Sequences are our FAQ."
+   }
+  },
+  {
+   "_id": "5tooYBXWPxxJ25ypd",
+   "parentCommentId": "rKyXjjbuZ3dBCPmGC",
+   "postedAt": "2020-01-03T23:13:19.494Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "The title of Aumann's paper is just a pithy slogan. What the slogan means as the title of his paper is the actual mathematical result that he proves. This is that if two agents have the same priors, but have made different observations, then if they share only their posteriors, and each properly updates on the other's posterior, and repeat, then they will approach agreement without ever having to share the observations themselves. In other papers there are theorems placing practical bounds on the number of iterations required.\n\nIn actual human interaction, there is a large number of ways in which disagreements among us may fall outside the scope of this theorem. Inaccuracy of observation. All the imperfections of rationality that may lead us to process observations incorrectly. Non-common priors. Inability to articulate numerical priors. Inability to articulate our observations in numerical terms. The effort required may exceed our need for a resolution. Lack of good faith. Lack of common knowledge of our good faith.\n\nNotice that these are all imperfections. The mathematical ideal remains. How to act in accordance with the eternal truths of mathematical theorems when we lack the means to satisfy their hypotheses is [the theme of a large part of the Sequences](https://www.lesswrong.com/posts/QrhAeKBkm2WsdRYao/searching-for-bayes-structure)."
+   }
+  },
+  {
+   "_id": "sQPod22BKx6W7DYCr",
+   "parentCommentId": "C9egGFTkCm46mRwqH",
+   "postedAt": "2020-01-04T21:17:13.226Z",
+   "baseScore": 5,
+   "user": {
+    "username": "RobinHanson",
+    "displayName": "RobinHanson"
+   },
+   "contents": {
+    "markdown": "Uh, we are talking about holding people to MUCH higher rationality standards than the ability to parse Phil arguments."
+   }
+  }
+ ]
+}

@@ -1,0 +1,899 @@
+ORIGINAL RESEARCH
+
+INTERSEX AND GENDER IDENTITY
+
+Age-Related Differences for Male-to-Female Transgender Patients
+Undergoing Gender-Afﬁrming Surgery
+Dmitry Zavlin, MD,1,2 Richard J. Wassersug, PhD,3,4 Vishwanath Chegireddy, MD,5 Jürgen Schaff, MD,2 and
+Nikolaos A. Papadopulos, MD, PhD, FACS2,6
+
+ABSTRACT
+
+Introduction: It has been theorized that there are 2 subgroups within the male-to-female (MtF) transgender
+population: individuals who are predominantly androphilic and those who are predominantly gynephylic or
+interested in both male and female partners.
+Aim: To explore the role of a dichotomous distribution of age at dysphoria onset in individuals diagnosed with
+MtF gender dysphoria.
+Methods: 40 patients who presented to a surgical clinic in Germany for gender-afﬁrming surgery (GAS) were
+included in this study. Their age distribution was plotted as a histogram and the population was then divided at
+the median self-reported age of onset of gender dysphoria—that is, those 17 years and younger and those 18 years
+and older. The 2 groups were then compared with regard to demographic data, partnership history, various
+quality of life parameters, as well as sexual orientation and sexual history.
+Main Outcome Measure: Self-designed questionnaires for demographics and sexuality, Questions on Life
+Satisfaction and Body Image (FLZM), Freiburg Personality Inventory, Rosenberg Self-Esteem Scale, and Patient
+Health Questionnaire were used.
+Results: Early-onset, gender-dysphoric MtF patients underwent GAS at a much younger age (mean 32.7 vs 43.8
+years, P ¼ .004), but had similar characteristics regarding weight, height, body mass index, marital status, and
+living situation to individuals who reported later onset of gender dysphoria. Preoperatively, they showed greater
+depressive symptoms (4.6 vs 3.3 points, P ¼ .045), which disappeared after GAS. Following surgery, the younger
+MtFs were predominantly attracted to men (52.6%), whereas individuals who were diagnosed with late-onset of
+gender dysphoria preferred women or both men and women (85.7%) as sexual partners (P ¼ .010). Younger
+trans individuals were more frequently sexually active (73.7% vs 42.9%, P ¼ .049).
+Conclusion: Our ﬁndings suggest that there are 2 MtF populations that differ in age of dysphoria onset, sexual
+history, and multiple personal details including sexual orientation. These data may be used to improve care to
+transgender individuals by providing treatment reﬂecting their sexual interests. Zavlin D, Wassersug RJ,
+Chegireddy V, et al. Age-Related Differences for Male-to-Female Transgender Patients Undergoing
+Gender-Afﬁrming Surgery. Sex Med 2018;XX:XXXeXXX.
+Copyright  2018, The Authors. Published by Elsevier Inc. on behalf of the International Society for Sexual Medicine.
+This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Key Words: Transgender; Male-to-Female; Gender-Afﬁrming Surgery; Sexuality; Age; Quality of Life
+
+Received May 17, 2018. Accepted November 25, 2018.
+1
+
+Department of Surgery, Easton Hospital, Drexel University College of
+Medicine, Easton, PA, USA;
+
+2
+
+Department of Plastic and Hand Surgery, University Hospital Rechts der
+Isar, Technical University Munich, Munich, Germany;
+
+3
+
+Department of Cellular and Physiological Sciences, University of British
+Columbia, Vancouver, British Columbia, Canada;
+
+4
+
+Australian Research Centre in Sex, Health and Society, Latrobe University,
+Melbourne, Australia;
+
+Sex Med 2018;-:e1ee8
+
+5
+
+Institute for Reconstructive Surgery, Houston Methodist Hospital, Weill
+Cornell Medicine, Houston, TX, USA;
+
+6
+
+Department of Plastic Surgery and Burns, Alexandroupoli University
+Hospital, Democritus University of Thrace, Alexandroupoli, Greece
+
+Copyright ª 2018, The Authors. Published by Elsevier Inc. on behalf of
+the International Society for Sexual Medicine. This is an open access
+article under the CC BY-NC-ND license (http://creativecommons.org/
+licenses/by-nc-nd/4.0/).
+https://doi.org/10.1016/j.esxm.2018.11.005
+
+e1
+
+e2
+
+INTRODUCTION
+According to the 5th edition of Diagnostic and Statistical
+Manual of Mental Disorders (DSM-5), the nomenclature of
+gender dysphoria characterizes persons that have signiﬁcant
+distress and the desire to live in another gender.1 The World
+Professional Association for Transgender Health regularly publishes treatment guidelines and recommendations for transgender
+individuals that include mental health counseling, hormonal
+therapy, and surgical interventions.2 To provide the best
+healthcare for male-to-female (MtF) individuals, the professionals treating them need to be aware of the diversity in that
+population in terms of desires, expectations, and comorbidities.
+Offering the same treatment approach for every individual
+diagnosed with MtF gender dysphoria may not be the best
+standard of care.3e5
+Blanchard was one of the ﬁrst scientists to suggest the existence of subgroups in the cohort of MtF trans persons based on
+demographic and sexual characteristics.6,7 He reported that some
+were sexually interested in men (classiﬁed as homosexual or
+androphilic), whereas others were more attracted to women
+(gynephilic) or both men and women. Blanchard subsequently
+suggested that individuals who ﬁrst sought medical attention for
+MtF gender dysphoria at an older age more frequently had
+children and were commonly married to females. Furthermore,
+those individuals were more likely to ﬁt in the latter category.8
+Blanchard’s hypothesis was built upon data suggesting that
+one motivating factor for late-transitioning gynophilic MtFs was
+autogynophila—that is, that the individuals were not only
+sexually attracted to females but were aroused by envisioning
+themselves as females. Lawrence supported Blanchard’s theory in
+her review of various typologies for MtF transgender individuals
+related to age and sexual orientation.9,10 The cause of these
+subtypes is not uncontested, and currently the subject of various
+discussions and investigations.10e13
+In a large retrospective chart review, Jackowich et al14 were the
+ﬁrst to demonstrate a bimodal age distribution for MtF patients
+presenting for gender-afﬁrming surgery (GAS). Their brief
+communication was based on a sample from Canada that did not
+include details regarding the patients’ personal characteristics,
+sexual orientation, or sexual history.
+
+AIM
+After Papadopulos et al15 reported on an independent clinical
+sample of MtFs seeking GAS in Europe, we hypothesized that
+there would be a similarly bimodal age distribution in their raw
+data. We made use of the fact that they had independently
+collected self-reported personality, quality of life (QOL) outcomes,
+and sexual behavior data that could be used to assess whether there
+were 2 distinct populations of MtFs distinguishable on their age of
+onset for gender dysphoria and sexual orientation. Given that the
+idea of 2 populations is a controversial topic,10 we decided to
+investigate this from a different perspective. Here, we used the self-
+
+Zavlin et al
+
+reported age of onset of gender dysphoria in our surgical patients as
+the independent variable.
+In this study, we test the hypothesis that there is an association
+between age at gender dysphoria onset and sexual orientation.
+We also investigate secondary outcome measures, such as QOL,
+depression/anxiety, and operative satisfaction between early- and
+late-onset MtF patients.
+
+METHODS
+Participants
+All adult transgender patients who underwent their ﬁrst GAS
+for MtF gender dysphoria with penectomy, orchiectomy, and
+creation of a neovagina performed by the senior plastic surgeon
+(J.S.) between 2012 and 2014 were contacted preoperatively for
+study enrollment by the ﬁrst author (D.Z.). Exclusion criteria
+were patients who had previous genital surgery and were thus
+presenting for revision, as well as patients not ﬂuent in German.
+A baseline questionnaire was ﬁrst ﬁlled out at that time. 6
+months later, the vast majority of participating patients received
+their second procedure to address any cosmetic or functional
+issues, such as scar revisions, removal of dog-ears, and breast
+augmentations. 12 months following the initial GAS, patients
+were contacted again by the ﬁrst author (D.Z.) to complete a
+second set of questionnaires.
+Of the 47 patients who initially consented to participate and
+completed the baseline questionnaires, 40 completed the
+12-month postoperative questionnaires (response rate, 85.1%)
+and were included in our ﬁnal data analysis. For more details
+about the operative technique, please see our previous article.16
+
+Questionnaires
+The patients’ demographic details and information about their
+personal life were collected via a set of non-validated questions
+speciﬁcally designed for this study (Tables 1, 2, and 3). We asked
+questions about their marital status, whether they cohabit with
+others, children, self-assessed health, prior psychotherapy, and
+feeling of femininity. Sexual history including preferred gender of
+partners and details on frequency of intercourse were obtained
+both before and after GAS. This part of our survey largely followed the closed-question pattern with multiple-choice options
+for answers, or used 0e10 or 1e5 Likert scales.
+In addition, we used the German versions of standardized
+and validated QOL questionnaires during both time points in
+our study (Table 4). These included the German Questions on
+Life Satisfaction questionnaire (FLZM, Fragebogen zur Lebenszufriedenheit Module), which has 3 modules: General,
+Health, and Body Image.17,18 The patients also answered the
+Patient Health Questionnaire 4 (PHQ-4)19 assessing symptoms
+of depression or anxiety, the Freiburg Personality Inventory—
+Revised Version20 used to evaluate emotional status, as well as
+the Rosenberg Self-Esteem Scale (RSES)21 for estimates of
+patients’ self-esteem.
+Sex Med 2018;-:e1ee8
+
+Early vs Late MtF Transitioning
+
+e3
+
+Table 1. Demographic details of the patients
+Demographic
+Age at onset of gender dysphoria, y (mean ± SD)
+Age at surgery, y (mean ± SD)
+Weight, kg (mean ± SD)
+Height, cm (mean ± SD)
+BMI, kg/m2 (mean ± SD)
+Marital status† (%)
+Unmarried
+Married
+Separated
+Divorced
+Living situation (%)
+Alone
+With partner
+With children, no partner
+With parents
+With relatives
+With roommates
+Children (%)
+
+Dysphoria onset
+17 years (N ¼ 19)
+
+Dysphoria onset
+18 years (N ¼ 21)
+
+12.3 ± 3.9
+32.7 ± 10.9
+76.6 ± 10.4
+178.6 ± 4.8
+24.0 ± 3.3
+
+34.8 ± 13.1
+43.8 ± 11.9
+78.8 ± 16.6
+179.3 ± 5.9
+24.5 ± 5.0
+
+14 (73.7)
+1 (5.3)
+1 (5.3)
+3 (15.8)
+
+10 (47.6)
+3 (14.3)
+3 (14.3)
+5 (23.8)
+
+6 (31.6)
+7 (36.8)
+1 (5.3)
+3 (15.8)
+0 (0.0)
+2 (10.5)
+5 (26.3)
+
+11 (52.4)
+5 (23.8)
+0 (0.0)
+1 (4.8)
+1 (4.8)
+3 (14.8)
+10 (47.6)
+
+P value
+<.001*
+.004*
+.635
+.705
+.744
+.380
+
+.426
+
+.165
+
+BMI ¼ body mass index.
+*Signiﬁcant at P < .05.
+†
+Only refers to marriage to female partners before male-to-female transition.
+
+Statistics and Ethics
+The age distribution of our 40 MtF transgender patients is
+shown in Figure 1 in 2 forms. The patients’ age at the time of
+surgery ranged from 19 to 66 years (green). Meanwhile, their
+self-reported onset of gender dysphoria was between 4 and 63
+
+years (orange). This second age variable was used to stratify the
+patients into 2 cohorts, dividing the population into those age
+17 years and younger and age 18 years and older. The split was
+based on the overall median age of onset of gender dysphoria,
+which was 18.5 years. For the statistical assessment of our data
+
+Table 2. Personal self-designed questions
+Personal details
+Subjective impression of own health (%)
+Very good
+Good
+Mediocre
+Bad
+Very bad
+Length of preoperative psychotherapy, mo (mean ± SD)
+“Was the psychotherapy useful to you?”* (%)
+Yes
+Unsure
+No
+“How feminine do you feel?”*,† (mean ± SD)
+Baseline
+12 mo later
+“How feminine do you appear to others?”*,† (mean ± SD)
+Baseline
+12 mo later
+*All questions in quotes are translated from German.
+†
+0 ¼ very unfeminine; 10 ¼ very feminine.
+
+Sex Med 2018;-:e1ee8
+
+Dysphoria onset
+17 years (N ¼ 19)
+
+Dysphoria onset
+18 years (N ¼ 21)
+
+6 (31.6)
+10 (52.6)
+3 (15.8)
+0 (0.0)
+0 (0.0)
+31.2 ± 14.3
+
+8 (38.1)
+12 (57.1)
+1 (4.8)
+0 (0.0)
+0 (0.0)
+25.6 ± 11.4
+
+11 (57.9)
+1 (5.3)
+7 (37.8)
+
+19 (90.5)
+0 (0.0)
+2 (9.5)
+
+7.9 ± 1.4
+8.7 ± 1.2
+
+7.3 ± 2.1
+9.3 ± 1.0
+
+.333
+.103
+
+7.6 ± 1.7
+8.1 ± 1.4
+
+6.9 ± 1.6
+7.4 ± 2.2
+
+.183
+.267
+
+P value
+.504
+
+.174
+.054
+
+e4
+
+Zavlin et al
+
+Table 3. Sexuality
+Sexual details
+At baseline and before surgery
+Interest in . (%)
+Male
+Female/Both/Neither
+Sexually active (%)
+12 mo later, after surgery
+Interest in . (%)
+Male
+Female/Both/Neither
+Sexually active (%)
+Satisfaction with intercourse (mean ± SD)†
+
+Dysphoria onset
+17 years (N ¼ 19)
+
+Dysphoria onset
+18 years (N ¼ 21)
+
+P value
+.026*
+
+10 (52.6)
+9 (47.4)
+4 (21.1)
+
+4 (19.0)
+17 (81.0)
+3 (14.3)
+
+10 (52.6)
+9 (47.4)
+14 (73.7)
+6.6 ± 2.2
+
+3 (14.3)
+18 (85.7)
+9 (42.9)
+6.8 ± 1.9
+
+.574
+.010*
+
+.049*
+.881
+
+*Signiﬁcant with P < .05.
+†
+0 ¼ very unsatisﬁed; 10 ¼ very satisﬁed.
+
+we used SPSS software (IBM SPSS Statistics for Windows,
+Version 24.0., IBM Corp, Armonk, NY, USA). The level of
+signiﬁcance was set at 5% or less (P < .05) using the 2-sided
+t-test for continuous and the chi-square test for categorical
+variables. This study had written approval from the institutional
+ethics committee where the GAS procedures took place.
+Informed consent was obtained from all patients. Nonparticipation in this purely observational cohort study did not
+affect the treatment of any patient. The work described here has
+been carried out in accordance with the Declaration of
+Helsinki.
+
+RESULTS
+The histogram in Figure 1 clearly shows bimodal age distributions for the MtF population undergoing GAS, both for their
+age at surgery and their age of onset for gender dysphoria. The
+average age at onset of transgender symptomatology was naturally earlier in the early-onset than the late-onset cohort (12.3 vs
+34.8 years, P < .001). Early MtF patients also underwent GAS at
+an earlier age in their life (32.7 vs 43.8 years, P ¼ .004).
+With regard to the preoperatively collected demographic
+details, our younger and older groups had similar mean body
+
+Table 4. Validated questionnaires
+Psychometric ﬁndings
+At baseline and before surgery
+FLZM: sum scores (mean ± SD)
+General module
+Health module
+Body image module
+PHQ-4 (mean ± SD)
+PHQ-4 score over 2 (%)
+FPI-R (mean ± SD)
+RSES (mean ± SD)
+12 mo later, after surgery
+FLZM: sum scores (mean ± SD)
+General module
+Health module
+Body image module
+PHQ-4 (mean ± SD)
+PHQ-4 score over 2 (%)
+FPI-R (mean ± SD)
+RSES (mean ± SD)
+
+Dysphoria onset
+17 years (N ¼ 19)
+
+Dysphoria onset
+18 years (N ¼ 21)
+
+P value
+
+44.0 ± 30.8
+61.8 ± 49.1
+94.7 ± 89.8
+4.6 ± 2.7
+16 (84.2)
+7.0 ± 4.1
+32.2 ± 5.7
+
+38.4 ± 23.8
+63.2 ± 31.2
+79.5 ± 67.5
+3.3 ± 2.2
+12 (57.1)
+6.0 ± 3.8
+33.1 ± 6.0
+
+.520
+.911
+.546
+.045*
+.062
+.429
+.635
+
+64.4 ± 33.3
+80.3 ± 43.2
+167.5 ± 76.2
+2.0 ± 1.9
+6 (31.6)
+4.8 ± 3.3
+35.3 ± 3.8
+
+53.9 ± 26.7
+79.3 ± 32.3
+141.3 ± 80.7
+1.7 ± 2.1
+5 (23.8)
+4.9 ± 3.4
+34.6 ± 5.9
+
+.278
+.932
+.108
+.659
+.583
+.954
+.552
+
+FLZM ¼ Fragebogen zur Lebenszufriedenheit Module; FPI-R ¼ Freiburger Personality Inventory e Revised Version; PHQ-4 ¼ Patient Health Questionnaire 4;
+RSES ¼ Rosenberg Self Esteem Scale.
+*Signiﬁcant at P < .05.
+Sex Med 2018;-:e1ee8
+
+Early vs Late MtF Transitioning
+
+e5
+
+Figure 1. Age distribution for male-to-female patients when they ﬁrst experienced gender dysphoria (orange bars) and the age when they
+underwent gender-afﬁrming surgery (GAS) (green bars). Total N ¼ 40. The vertical dotted line to the left represents the median age when
+the patients reported ﬁrst experiencing gender dysphoria. The vertical line to the right represents the low point between the 2 peaks for the
+bimodal distribution in age at the time of GAS. Our data support the hypothesis that individuals who had an early onset of gender
+dysphoria and GAS before the age of 35 years are signiﬁcantly more likely to be androphylic than the late-onset individuals, who had GAS
+after 35 years (refer to Table 3).
+
+weight (76.6 vs 78.8 kg, P ¼ .635), height (178.6 vs 179.3 cm,
+P ¼ .705), and body mass index, which were within normal
+range (24.0 vs 24.5, P ¼ .744). No differences were observed
+with regard to marital status, living situation, or the presence of
+children when the study population was divided by the selfdeclared age of onset of gender dysphoria. All marriages were
+established with female partners before gender transitioning
+because same-sex marriage was not yet legal in Germany at the
+time of the study (Table 1). But when the sample was divided by
+the age at surgery (with a low point between 30 and 39,
+Figure 1), those patients who had GAS past the age of 35 years
+were signiﬁcantly more frequently married and had fathered
+children.
+Both cohorts displayed a similar subjective impression of their
+own physical health and reported similar lengths of pre-GAS
+psychotherapy. Nevertheless, patients in the younger cohort
+deemed these therapy sessions less useful (57.9%) than our older
+cohort (90.5%, P ¼ .054). No differences were detected between
+the 2 cohorts concerning their subjective feeling of femininity on
+a 0e10 Likert scale either before or after GAS. These ﬁndings are
+summarized in Table 2.
+Preoperatively, our younger MtF participants were more often
+sexually attracted to men (52.6%), whereas the older group
+showed more interest in women or rated themselves as bisexual or
+rather asexual (81.0%). These preoperative differences were
+statistically signiﬁcant (P ¼ .026). Moreover, this trend was
+ampliﬁed after GAS when assessed at the later time point
+(P ¼ .010). In other words, patients who developed gender
+dysphoria before the age of 17 years were mostly attracted to men
+(52.6%), whereas patients who developed dysphoria as adults
+favored women, both men and women, or neither gender (85.7%)
+as their targets of sexual interest. Patients in the younger group
+Sex Med 2018;-:e1ee8
+
+were also more often sexually active with others at 12 months after
+GAS (P ¼ .049) than those in the older group (Table 3).
+The 2 cohorts did not score statistically differ on the General,
+Health, and Body Image modules of the German FLZM, either
+preoperatively nor postoperatively. However, individuals in the
+younger group appeared to have higher scores on the Body Image
+module at 12 months after GAS (167.5 vs 141.3), indicating a
+slightly higher satisfaction with their overall appearance, although
+these data did not reach signiﬁcance (P ¼ .108).
+Before surgery, younger patients had signiﬁcantly higher
+values of anxiety/depression on the PHQ-4 (4.6 vs 3.3,
+P ¼ .045). These differences, however, disappeared when
+assessed 12 months after GAS. Additionally, the self-esteem
+evaluated through the RSES questionnaire showed no difference between the 2 groups at both time points (Table 4).
+
+DISCUSSION
+There is an ongoing debate about whether individuals with MtF
+gender dysphoria can be realistically sorted into 2 subcategories
+based on their targets of sexual interest—that is, into androphilic
+and gynephilic groups.22 Advocates of this 2-population model
+suggest that the 2 groups can be further distinguished on demographic criteria and clinical presentation.9,23 Those who
+endorse this taxonomy have suggested, for example, that androphilic MtF individuals generally seek GAS earlier than those in the
+gynephilia group.24 They have also suggested that individuals in
+the androphilic group are less likely to have a history of being
+married to women and to have fathered children.
+Opponents to the 2-population model claim that dichotomizing MtF transgender persons along the lines of sexual
+orientation is too generalized and inaccurate for many MtF
+
+e6
+
+individuals with gender dysphoria. Nuttbrock et al,25 for
+instance, suggested that there are more than these 2 subcategories
+of MtFs and more research is necessary to deﬁne those additional
+subgroups. However, Lawrence rebutted this, arguing that
+further categorization tended to cause confusion and distract
+from the validity of the basic dichotomy.26
+The DSM-5 itself does not divide transgender women into 2
+groups based on sexual orientation. It does describe differences in
+the characteristics of early vs late individuals with clinically signiﬁcant MtF gender dysphoria. In our study, we aimed to
+investigate whether there was a correlation between the age of
+dysphoric onset and sexual orientation within an MtF-only
+transgender cohort. Given the controversies around distinguishing MtF individuals on sexual orientation,10 we speciﬁed age as
+the independent and sexual orientation as the primary dependent
+variable in our statistical analyses.
+Our data overall support such a 2-population model.
+Although our sample size is smaller, Figure 1 conﬁrms the
+observation of Jackowich et al14 that there is indeed a bimodal
+age distribution for when MtF transsexuals undergo GAS.
+2 subpopulations emerged from our histogram with the lowest
+point between the 2 age peaks occurring around age 35 years
+(green). The reason for this trough in Figure 1 is not known, but
+various factors may account for this low point in both our and
+Jackowich et al’s14 age distribution graphs. Transgender individuals in their 30s may be focused on career advancement,
+unable to take time off from work to transition, or fear
+discrimination at their job. Such factors may account for the
+underrepresentation of individuals in their 30s having GAS. It
+should be pointed out that this pattern results solely from when
+the individuals came forward seeking surgical intervention and
+not from any exclusion from the age range shown in Figure 1.
+This incidental ﬁnding is also concordant with our main
+ﬁnding that there are 2 cohorts of MtFs based on whether a
+patient’s onset of gender dysphoria occurred during childhood
+(ie, 17 years and younger) or as adults (ie, 18 years and older).
+Splitting the population at 18 years has not only statistical signiﬁcance, but also clinical implications. In Germany, surgical
+treatment is prohibited for transgender persons who have not yet
+reached the legal age of 18 years. However, psychological and
+endocrine counseling are frequently offered in pediatric cases. As
+shown in Table 1, those who develop transgender symptoms
+earlier also tend to undergo GAS at a signiﬁcantly younger age.
+In addition to showing a bimodal age distribution among MtF
+seeking GAS, we have further identiﬁed other characteristics that
+distinguish the 2 populations and are in accord with recognizing
+2 populations of MtFs. These are drawn from demographic
+details, sexual history obtained through our self-designed questionnaire, as well as QOL determined via standardized and
+previously validated survey instruments.
+We demonstrated, for example, that our patients were more
+frequently sexually attracted to women or bisexual, if they
+
+Zavlin et al
+
+belonged to the older cohort (Table 3). These ﬁndings are
+consistent with those of Gaither et al,24 who reported that
+gynephilic MtFs presenting for GAS were signiﬁcantly older than
+heterosexual or bisexual controls. A study reporting on a
+consecutive series of predominantly young MtF patients in Spain
+with a mean age of 29.4 years at their day of surgery showed that
+89.9% were sexually interested in men.27 In contrast, the population of Docter and Fleming28 with an average age of 44
+years—similar to our older cohort—was preferably interested in
+females (47%), with few individuals interested only in males
+(19%), or both males and females (17%). These differences in
+sexual orientation persisted when the variable of age of onset of
+gender dysphoria was used as a basis for calculations,9 which are
+hereby replicated by our prospective study. Using the 2010
+National Transgender Discrimination Survey with more than
+6,000 participants, Kattari and Hasche29 discovered a plurality of
+signiﬁcant distinctions between younger and older transgender
+individuals regarding their sexual characteristics. Regrettably
+though, they did not separately analyze MtFs from female-tomale data. Although the sexual orientation of our 40 surgical
+patients did not change between baseline and the 1-year followup, further time and acclimatization to the new anatomy could
+potentially impact the sexual orientation during longer follow-up
+periods and improve the power of our current study.
+Our data also statistically distinguish younger and older MtFs
+populations in terms of improvements in their sexual life
+(regardless of sexual practices) subsequent to GAS, as well as
+other factors that contribute to QOL. Not only did we identify
+differences between the 2 age cohorts of MtFs, but we were also
+able to assess the impact of GAS because the data were collected
+at 2 different time points: preoperatively and postoperatively.
+Some new ﬁndings are that the younger patients showed
+higher symptoms of depression and anxiety on the PHQ-4 (4.6
+vs 3.3, P ¼ .045) before GAS. Concordant with another recent
+study,30 our preoperative data demonstrated that the majority of
+our patients, both young and old, had high rates of mild to major
+depressive symptoms, with over 2 points on the PHQ-4 questionnaire, 84.2% and 57.1%, respectively. After surgery, however, this discrepancy disappeared (Table 4). This suggests that
+despite the differences in psychological assessment between the 2
+subgroups of MtFs before surgery, both groups beneﬁted from
+the surgical intervention when measured a year after treatment.
+Last, our data suggest that, although younger patients were
+just as dissatisﬁed with their external appearance as the older MtF
+patients before surgery, they tend to be happier with their body
+image postoperatively (Table 4). This change was not statistically
+signiﬁcant, but was consistent with some previously reported
+data.31 The differences in satisfaction with their self-image and
+their sexual activity between the MtF in the 2 populations suggest that younger individuals may have an advantage in passing as
+females, perhaps in facial structures, although we did not
+objectively assess that. However, they would have an endocrinologic advantage with earlier hormonal therapy. Merely because
+Sex Med 2018;-:e1ee8
+
+Early vs Late MtF Transitioning
+
+of their younger age, they were less likely to have experienced the
+androgenic alopecia that commonly leads to cranial hair loss as
+males age.
+The differences in satisfaction with postoperative appearance
+and sexual activity between the 2 populations suggest that the
+postsurgical psychological support needs may differ between individuals in the younger vs older cohorts. Our ﬁndings may also
+be important for reconstructive surgeons performing GAS.
+Younger MtF patients, who tend to be more attracted to men,
+may desire being the receptive partner in penetrative intercourse,
+and would thus require larger neovaginal depth. However, in our
+surgical experience, those MtF patients desiring sex with females,
+will be more interested in clitoral stimulation. As such, careful
+dissection of the neovascular bundle supplying the glans penis is
+crucial to achieve a sensitive neoclitoris. A detailed sexual history
+is thus of utmost importance during the preoperative assessment
+and physical exam of new patients presenting for GAS. An
+interdisciplinary approach with psychiatrists and endocrinologists
+is not only recommended but—in Germany—even mandated to
+obtain treatment coverage by public and private insurers.32
+To the best of our knowledge, this is the ﬁrst study to describe
+a statistically signiﬁcant association between age, on the one
+hand, and sexual orientation and QOL, on the other hand, for
+individuals treated surgically for MtF gender dysphoria. Our
+ﬁndings are concordant with descriptions in the DSM-5
+regarding certain common differences between early and late
+MtF transgender persons.1 Although our data are consistent with
+hypotheses about the origin of gynophilic MtF transsexuals,6e10
+they cannot be said to validate those hypotheses. That is because
+all of our data on the age of onset of gender dysphoria is retrospective and prone to recall bias.
+This report is thus not without certain limitations. Owing to
+the retrospective design of our study, all signiﬁcant ﬁndings have
+associative and not causative character; that is, we cannot
+determine whether age or sexual orientation is the antecedent
+variable. The age of onset of gender dysphoria, which was used as
+the independent variable, was obtained by brieﬂy questioning the
+patient at the time of admission to our surgical department and
+was not based on a psychiatric evaluation. Further, our sample
+size was small and included individuals treated only in 1 plastic
+surgery department, which admittedly treats the largest number
+of transgender patients in Germany. Thus these data may not be
+representative of all MtF individuals. Indeed, a signiﬁcant
+portion of individuals with MtF gender dysphoria may never
+undergo operative procedures or be recruited for research.33
+Furthermore, the data here originate from Germany with all
+German-speaking patients and may not apply to other countries,
+nationalities, or ethnic groups, especially any with vast cultural
+differences.34 Larger international studies will hopefully follow to
+reproduce these results.
+
+Sex Med 2018;-:e1ee8
+
+e7
+
+CONCLUSION
+Our study strengthens the theory that there are 2 distinct agerelated subgroups within the MtF transgender population undergoing GAS. Patients who report experiencing gender
+dysphoria at a younger age (ie, as children), tend to be more
+androphilic and are likely to have GAS before the age of 35 years.
+Older patients, who report ﬁrst experiencing gender dysphoria as
+adults, are more frequently gynophilic and often undergo GAS
+after the age of 35 years. Meanwhile, younger patients are in
+general signiﬁcantly more sexually active. These ﬁndings may
+have implications on the outcomes of psychotherapeutic,
+endocrinologic, and operative treatment and could ultimately
+inﬂuence therapeutic strategies.
+Corresponding Author: Dmitry Zavlin, MD, Department of
+Surgery, Easton Hospital, 250 S. 21st Street, Easton, PA 18042,
+USA. Tel: 610-250-4375; Fax: 610-250-4851;
+E-mail:
+research@zavlin.com
+Conﬂict of Interest: The authors report no conﬂicts of interest.
+Funding: None.
+
+STATEMENT OF AUTHORSHIP
+Category 1
+(a) Conception and Design
+Dmitry Zavlin; Nikolaos A. Papadopulos
+(b) Acquisition of Data
+Dmitry Zavlin; Jürgen Schaff
+(c) Analysis and Interpretation of Data
+Richard J. Wassersug; Vishwanath Chegireddy
+Category 2
+(a) Drafting the Article
+Dmitry Zavlin
+(b) Revising It for Intellectual Content
+Richard J. Wassersug; Vishwanath Chegireddy; Jürgen Schaff;
+Nikolaos A. Papadopulos
+Category 3
+(a) Final Approval of the Completed Article
+Dmitry Zavlin; Richard J. Wassersug; Vishwanath Chegireddy;
+Jürgen Schaff; Nikolaos A. Papadopulos
+
+REFERENCES
+1. American Psychiatric Association. Diagnostic and statistical
+manual of mental disorders. 5th ed. Washington, DC: American Psychiatric Press; 2013.
+2. Coleman E, Bockting W, Botzer M, et al. Standards of care for the
+health of transsexual, transgender, and gender-nonconforming
+people, version 7. Int J Transgenderism 2012;13:165-232.
+
+e8
+
+Zavlin et al
+
+3. Costa R, Colizzi M. The effect of cross-sex hormonal treatment
+on gender dysphoria individuals’ mental health: A systematic
+review. Neuropsychiatr Dis Treat 2016;12:1953-1966.
+
+19. Kroenke K, Spitzer RL, Williams JBW, et al. An ultra-brief
+screening scale for anxiety and depression: The PHQ-4. Psychosomatics 2009;50:613-621.
+
+4. Fisher AD, Castellini G, Bandini E, et al. Cross-sex hormonal
+treatment and body uneasiness in individuals with gender
+dysphoria. J Sex Med 2014;11:709-719.
+
+20. Fahrenberg J, Hampel R, Selg H. Das Freiburger Persönlichkeits-inventar FPI. Revidierte Fassung FPI-R und teilweise
+geänderte Fassung FPI-A1. Göttingen, Germany: HogrefeVerlag; 1994.
+
+5. Fisher AD, Castellini G, Ristori J, et al. Cross-sex hormone
+treatment and psychobiological changes in transsexual persons: Two-year follow-up data. J Clin Endocrinol Metab 2016;
+101:4260-4269.
+6. Blanchard R. The classiﬁcation and labeling of nonhomosexual
+gender dysphorias. Arch Sex Behav 1989;18:315-334.
+
+21. Schmitt DP, Allik J. Simultaneous administration of the
+Rosenberg Self-Esteem Scale in 53 nations: Exploring the
+universal and culture-speciﬁc features of global self-esteem.
+J Pers Soc Psychol 2005;89:623-642.
+22. Blanchard R. Clinical observations and systematic studies of
+autogynephilia. J Sex Marital Ther 1991;17:235-251.
+
+7. Blanchard R. The concept of autogynephilia and the typology of male gender dysphoria. J Nerv Ment Dis 1989;
+177:616-623.
+
+23. Blanchard R, Clemmensen LH, Steiner BW. Heterosexual
+and homosexual gender dysphoria. Arch Sex Behav 1987;
+16:139-152.
+
+8. Blanchard R. A structural equation model for age at clinical
+presentation in nonhomosexual male gender dysphorics. Arch
+Sex Behav 1994;23:311-320.
+
+24. Gaither TW, Awad MA, Osterberg EC, et al. Impact of sexual
+orientation identity on medical morbidities in male-to-female
+transgender patients. LGBT Health 2017;4:11-16.
+
+9. Lawrence AA. Sexual orientation versus age of onset as bases
+for typologies (subtypes) for gender identity disorder in adolescents and adults. Arch Sex Behav 2010;39:514-545.
+
+25. Nuttbrock L, Bockting W, Mason M, et al. A further assessment of Blanchard’s typology of homosexual versus nonhomosexual or autogynephilic gender dysphoria. Arch Sex
+Behav 2011;40:247-257.
+
+10. Lawrence AA. Autogynephilia and the typology of male-tofemale transsexualism. Eur Psychol 2017;22:39-54.
+11. Cantor JM. New MRI studies support the Blanchard typology
+of male-to-female transsexualism. Arch Sex Behav 2011;
+40:863-864.
+12. Bailey JM, Vasey PL, Diamond LM, et al. Sexual orientation,
+controversy, and science. Psychol Sci Public Interest 2016;
+17:45-101.
+13. Lawrence AA. Men trapped in men’s bodies. Focus on sexuality research. New York: Springer; 2013.
+14. Jackowich RA, Johnson TW, Brassard P, et al. Age of sex
+reassignment surgery for male-to-female transsexuals. Arch
+Sex Behav 2014;43:13-15.
+15. Papadopulos NA, Zavlin D, Lelle JD, et al. Male-to-female sex
+reassignment surgery using the combined technique leads to
+increased quality of life in a prospective study. Plast Reconstr
+Surg 2017;140:286-294.
+16. Papadopulos NA, Zavlin D, Lelle JD, et al. Combined vaginoplasty technique for male-to-female sex reassignment
+surgery: Operative approach and outcomes. J Plast Reconstr
+Aesthet Surg 2017;70:1483-1492.
+17. Henrich G, Herschbach P. Questions on life satisfaction
+(FLZM): A short questionnaire for assessing subjective quality
+of life. Eur J Psychol Assess 2000;16:10.
+18. Papadopulos NA, Lelle JD, Zavlin D, et al. Quality of life and
+patient satisfaction following male-to-female sex reassignment surgery. J Sex Med 2017;14:721-730.
+
+26. Lawrence AA. Further validation of Blanchard’s typology: A
+reply to Nuttbrock, Bockting, Rosenblum, et al (2010). Arch
+Sex Behav 2011;40:1089-1091; author reply 1093e1086.
+27. Gomez-Gil E, Trilla A, Salamero M, et al. Sociodemographic,
+clinical, and psychiatric characteristics of transsexuals from
+Spain. Arch Sex Behav 2009;38:378-392.
+28. Docter RF, Fleming JS. Measures of transgender behavior.
+Arch Sex Behav 2001;30:255-271.
+29. Kattari SK, Hasche L. Differences across age groups in
+transgender and gender non-conforming people’s experiences
+of health care discrimination, harassment, and victimization.
+J Aging Health 2016;28:285-306.
+30. White Hughto JM, Reisner SL. Social context of depressive
+distress in aging transgender adults. J Appl Gerontol 2016;
+37:1517-1539.
+31. Lawrence AA. Factors associated with satisfaction or regret
+following male-to-female sex reassignment surgery. Arch Sex
+Behav 2003;32:299-315.
+32. Sohn MH, Hatzinger M, Wirsam K. Genital reassignment
+surgery in male-to-female transsexuals: Do we have
+guidelines or standards? Handchir Mikrochir Plast Chir
+2013;45:207-210.
+33. Kockott G, Fahrner EM. Transsexuals who have not undergone
+surgery: A follow-up study. Arch Sex Behav 1987;16:511-522.
+34. Lawrence AA. Societal individualism predicts prevalence of
+nonhomosexual orientation in male-to-female transsexualism.
+Arch Sex Behav 2010;39:573-583.
+
+Sex Med 2018;-:e1ee8
+
+

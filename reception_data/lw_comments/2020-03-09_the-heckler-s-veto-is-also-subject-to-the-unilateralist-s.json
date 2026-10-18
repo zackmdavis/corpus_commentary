@@ -1,0 +1,90 @@
+{
+ "post": {
+  "_id": "oREzdHpzaB2RaY2fA",
+  "title": "The Heckler's Veto Is Also Subject to the Unilateralist's Curse",
+  "postedAt": "2020-03-09T08:11:58.886Z",
+  "pageUrl": "https://www.lesswrong.com/posts/oREzdHpzaB2RaY2fA/the-heckler-s-veto-is-also-subject-to-the-unilateralist-s",
+  "commentCount": 6
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "jaGpkvhTZhPWMsogW",
+   "parentCommentId": null,
+   "postedAt": "2020-03-09T08:38:22.402Z",
+   "baseScore": 24,
+   "user": {
+    "username": "jimrandomh",
+    "displayName": "jimrandomh"
+   },
+   "contents": {
+    "markdown": "> It occurs to me that a karma system (such as that used on this website) has the potential to be an adequate check against the unilateralist's curse as described by Bostrom *et al*. if we assume that the penalty applied to downvoted posts is sufficient to prevent the harm of the putative infohazard.\n\nI think it provides feedback about whether a post was infohazardous or otherwise bad to post, but for many types of infohazard it pretty clearly doesn't prevent them from causing harm; doxxing, for example, is not so easily undone. Luckily most things are small and iterated, and people learn from the scores on each others' posts, so voting does significantly reduce the unilateralist's curse problem.\n\nThere can be circumstances where experts can see that something is an infohazard, while laypeople can't; in that case, voting only works if the experts explain their reasoning in addition to downvoting. Explaining one's reasoning under those circumstances looks very similar to trying to exercise a heckler's veto. In that case votes on the explanation are informative about whether the original post was an infohazard, but things get hard to interpret."
+   }
+  },
+  {
+   "_id": "ikcGSWDMZmBF4jFg4",
+   "parentCommentId": null,
+   "postedAt": "2020-03-09T08:48:20.026Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Davidmanheim",
+    "displayName": "Davidmanheim"
+   },
+   "contents": {
+    "markdown": "> It occurs to me that a karma system (such as that used on this website) has the potential to be an adequate check against the unilateralist's curse\n\nAn assumption here is that people downvote infohazards on that basis. However, in fact we see that many communities have no problem sharing damaging and dangerous information - just look at Reddit."
+   }
+  },
+  {
+   "_id": "5DscNRLexZBYZR3vu",
+   "parentCommentId": "ikcGSWDMZmBF4jFg4",
+   "postedAt": "2020-03-09T18:07:37.987Z",
+   "baseScore": 20,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "The quoted sentence claims that karma systems are a check against the unilateralist's curse specifically, not infohazards in general, as is made explicit in the final sentence of that paragraph (\"Conversely, while a net-upvoted post might still be infohazardous [...]\").\n\nI've been envisioning \"unilateralist's curse\" as referring to situations where the _average_ error in individual agents' estimates of the value of the initiative (what I called _E_ in the post, but Bostrom _et al._ calls the error _d_ and says it's from a [cdf](https://en.wikipedia.org/wiki/Cumulative_distribution_function) _F(d)_) is zero, and the harm comes from the fact that the _variance_ in error terms makes someone unilaterally act/veto when they shouldn't, in a way that could be corrected by \"listening to their peers.\" If the community as a whole is _systematically_ biased about the value of the initiative, that seems like a different, and harder, problem."
+   }
+  },
+  {
+   "_id": "r88jbCEvE8qmtWxu2",
+   "parentCommentId": null,
+   "postedAt": "2020-03-09T20:27:55.884Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "There's a bit of difference between action and veto depending on substitutability of alternatives. If a UN member vetos something, a separate coalition (or single member) can often take the action without sanction (and can veto censure), so the UN is less effective, but not actually blocking of the action.\n\nOther kinds of acts are fully prevented by a veto.\n\nThis is relevant to friendly AI thinking, in the tradeoff of power and safety in an untrusted agent."
+   }
+  },
+  {
+   "_id": "Gw9p5rJ2hspX9HiJe",
+   "parentCommentId": null,
+   "postedAt": "2020-03-10T11:08:18.953Z",
+   "baseScore": 5,
+   "user": {
+    "username": "willbradshaw",
+    "displayName": "willbradshaw"
+   },
+   "contents": {
+    "markdown": "I don't understand what work the term \"Heckler's Veto\" is doing here. In my understanding, \"the heckler's veto\" refers to situations where someone can prevent someone else from speaking by being loudly offended, either directly (by shouting them down) or indirectly (through laws or norms against \"offensive\" speech). A heckler's veto is one kind of veto, but I'm not sure what the value is in applying the term to vetoes in general.\n\n> This re-framing of the underlying statistical insight (the unilateral veto being \"dual\" to the unilateral act) seems relevant to its application to censorship: an author deciding to publish a blog post (even if other forum members think it's harmful) is in the position of taking unilateralist action\u2014but so is a member of a board of pre-readers of whom any one has the power to censor the post (even if the other reviewers think it's fine).\n\nI'm not sure you can call it a reframing when it's present fairly prominently in the original paper espousing the concept. But yes, if any number of pre-readers can unilaterally veto publication of a topic, then you might run into the unilateralist's curse. That doesn't mean pre-reading for info hazards is a bad idea: the pre-readers (including the authors) can simply take a vote to avoid unilateralist issues. "
+   }
+  },
+  {
+   "_id": "ohzAWw3Hcq8zksxWd",
+   "parentCommentId": "5DscNRLexZBYZR3vu",
+   "postedAt": "2020-03-10T11:10:11.181Z",
+   "baseScore": 3,
+   "user": {
+    "username": "willbradshaw",
+    "displayName": "willbradshaw"
+   },
+   "contents": {
+    "markdown": "This seems basically right if the community of possible actors is the same as the community of voters assigning karma. If the community of voters is different from, or much larger than, the community of actors, you might still encounter the unilateralist's curse as seen from the perspective of the community of actors, especially if the latter is better-informed than the former.\n\n"
+   }
+  }
+ ]
+}

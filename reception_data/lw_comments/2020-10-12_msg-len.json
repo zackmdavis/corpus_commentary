@@ -1,0 +1,64 @@
+{
+ "post": {
+  "_id": "ex63DPisEjomutkCw",
+  "title": "Msg Len",
+  "postedAt": "2020-10-12T03:35:05.353Z",
+  "pageUrl": "https://www.lesswrong.com/posts/ex63DPisEjomutkCw/msg-len",
+  "commentCount": 4
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "4PqpRpak9eKS56ER5",
+   "parentCommentId": null,
+   "postedAt": "2020-10-12T10:40:11.452Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Gurkenglas",
+    "displayName": "Gurkenglas"
+   },
+   "contents": {
+    "markdown": "I approve the haikuesque format.\n\nDo you agree that the \"bijection\" Intelligence -> Prediction preserves more structure than Prediction -> Compression?"
+   }
+  },
+  {
+   "_id": "dHq9hoQavxTA5TxaL",
+   "parentCommentId": null,
+   "postedAt": "2020-10-12T14:02:21.305Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Tyrrell_McAllister",
+    "displayName": "Tyrrell_McAllister"
+   },
+   "contents": {
+    "markdown": "Did your really need to say that you'd be brief? Wasn't it enough to say that you'd omit needless words? :)"
+   }
+  },
+  {
+   "_id": "5jkPReQ2brTn635Dd",
+   "parentCommentId": "dHq9hoQavxTA5TxaL",
+   "postedAt": "2020-10-12T19:38:12.973Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zian",
+    "displayName": "Zian"
+   },
+   "contents": {
+    "markdown": "But then he'd lose the Strunk and White allusion. "
+   }
+  },
+  {
+   "_id": "gaX5BnuwepBrzo27k",
+   "parentCommentId": null,
+   "postedAt": "2020-10-17T10:53:41.263Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Radamantis",
+    "displayName": "NunoSempere"
+   },
+   "contents": {
+    "markdown": "And prediction strategies are almost optimization procedures?"
+   }
+  }
+ ]
+}

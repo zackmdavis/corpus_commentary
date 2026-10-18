@@ -1,0 +1,7 @@
+Title: Text From an Analyst to a Friend
+Date: 2012-12-07 05:00
+Status: published
+Category: asides
+Tags: analysis
+
+ur gr(8+ε) for arbitrary ε > 0

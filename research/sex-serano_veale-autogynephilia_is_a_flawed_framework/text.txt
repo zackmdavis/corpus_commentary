@@ -1,0 +1,1051 @@
+Archives of Sexual Behavior
+https://doi.org/10.1007/s10508-022-02414-4
+1
+
+LETTER TO THE EDITOR
+
+Autogynephilia Is a Flawed Framework for Understanding Female
+3
+Embodiment Fantasies: A Response to Bailey and Hsu (2022)
+2
+
+4
+
+Julia M. Serano1 · Jaimie F. Veale2
+
+5
+6
+
+Received: 19 August 2022 / Revised: 21 August 2022 / Accepted: 22 August 2022
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022
+
+7
+
+In this paper, we critically evaluate Bailey and Hsu’s (2022)
+article, which attempts to refute the existence of “autogynephilia in women.” Blanchard’s (1989a, 1989b) theory of
+autogynephilia posits that non-heterosexual trans women are
+motivated to transition by a paraphilic sexual desire to be
+female. This theory has been widely critiqued in the years
+since its inception, with many arguing that it is based on
+harmful stereotypes about trans women, gender, and sexuality. Bailey and Hsu’s article fails to address the many
+lines of evidence that have been put forward in recent years
+showing that autogynephilia theory is flawed. Moreover, we
+believe that Bailey and Hsu’s study suffers from a number of
+methodological and interpretive flaws. In particular, we take
+issue with their use of language that is disparaging toward
+trans women, their selection of study samples pre-selected
+for autogynephilia, their use of survey questions that are
+not likely to have equivalent meaning across groups, and
+their dismissal of more nuanced and accurate alternatives
+to Blanchard’s theory. We believe that these flaws call into
+question the conclusions of Bailey and Hsu’s study, and ultimately underscore the need for a more nuanced and accurate
+understanding of female embodiment fantasies.
+Bailey and Hsu (2022) begin their article with a synopsis of Blanchard’s (1989a, 1989b) theory of autogynephilia.
+They rightfully emphasize that the theory provides a taxonomy and etiology for trans women—i.e., individuals who
+are assigned male at birth (AMAB) but transition to female.
+Bailey and Hsu insinuate—in both their abstract and throughout the paper—that the only argument that has been levied
+against Blanchard’s theory is the potential existence of “autogynephilia in women” (the sole focus of their study). But this
+is far from the case. A series of research studies and critical
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+
+A1
+A2
+A3
+A4
+A5
+
+O
+F
+
+PR
+O
+
+12
+
+reviews have been published providing numerous lines of
+evidence that together undermine or outright disprove Blanchard’s taxonomical and etiological claims (Bettcher, 2014;
+Moser, 2009, 2010a; Nuttbrock et al., 2011a, 2011b; Serano,
+2010, 2020a, 2020b; Veale, 2014; Veale et al., 2008). Even if
+“autogynephilia in women” did not exist (which we believe
+this paper does not demonstrate), it would have no bearing on
+the fact that other studies have shown that trans women do not
+neatly fall into two subtypes, and that there is no compelling
+evidence and plenty of counterevidence (see Serano, 2010,
+2020b) that “autogynephilia” is causative of gender dysphoria and desire to transition in non-heterosexual trans women.
+According to Blanchard’s theory (and Bailey and Hsu’s
+conceptualization of it), “autogynephilia” refers to a paraphilia that arises from a “misdirected heterosexual sex drive,”
+and is the cause of any gender dysphoria and desire to transition in trans women who experience it—premises that have
+no empirical basis (reviewed in Serano, 2010, 2020a, 2020b).
+For this reason, we will instead refer to the sexual fantasies
+or patterns of arousal themselves as “female embodiment
+fantasies” (FEFs), which accurately reflects what is being
+assessed in this study (i.e., subjects stating whether they have
+had sexual fantasies about having a female body) without
+unnecessary assumptions or conjecture about the cause or
+nature of said fantasies.
+Bailey and Hsu (2022) appear to depart from the guidelines for language outlined in the publication manual for
+the referencing style that Archives of Sexual Behavior uses
+(American Psychological Association, 2020). For example, the publication manual rightly notes that terms like
+“natal male” and “natal female” are disparaging and should
+be avoided; not only do these terms “imply that sex is an
+immutable characteristic without sociocultural influence”
+(American Psychological Association, 2020, p. 139), they
+may also be confusing for contemporary readers. As Veale
+(2015) noted in a previous Letter to this journal, to minimize the possibility of harmful misinterpretation or misuse
+by anti-transgender activists that could lead to increased
+
+ED
+
+11
+
+IS
+
+10
+
+EV
+
+9
+
+R
+
+8
+
+* Jaimie F. Veale
+jveale@waikato.ac.nz
+1
+
+Independent Scholar, Oakland, CA, USA
+
+2
+
+School of Psychology, The University of Waikato, Private
+Bag 3105, Hamilton 3240, New Zealand
+
+13
+
+Vol.:(0123456789)
+Journal : Large 10508
+
+Article No : 2414
+
+Pages : 5
+
+MS Code : 2414
+
+Dispatch : 3-9-2022
+
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+
+Archives of Sexual Behavior
+
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+
+O
+F
+
+82
+
+PR
+O
+
+81
+
+The fact that any “natal females” responded positively
+to Blanchard’s Core Autogynephilia Scale is noteworthy
+given that Blanchard crafted these questions specifically
+with AMAB trans people in mind. While thoughts of “having a female body” would likely strike most cisgender men as
+“alien” or “taboo,” it would be the taken-for-granted baseline
+state for the average cisgender woman. For pre-transition
+and non-transition trans women, fantasies of having a female
+body may play a role in mitigating the gender dysphoria they
+experience, whereas for post-transition trans women it might
+represent their everyday state of being (akin to cisgender
+women in this regard). As many critics of Blanchard’s theory
+have argued, acknowledgement of the latter situation provides an explanation for the sharp decrease in FEFs reported
+in post-transition trans women (see Serano, 2010 for further
+discussion plus a critique of Blanchard’s hypothesis that
+these trans women have formed a “pair-bond” with their
+female selves).
+The fact that Blanchard’s survey questions would likely
+hold different meanings for different groups was precisely the
+reason why Veale et al. (2008) and Moser (2009) altered the
+language somewhat to make them more relatable or relevant
+to cisgender women (see also Moser, 2010b). Bailey and
+Hsu (2022) acknowledged that “most natal females may find
+the idea of endorsing this item to be odd,” but they did not
+consider that this was a threat to the validity of their study’s
+findings. The idea of being attracted to having a “nude female
+form” may have different meaning to participants in the different groups that they compared across; it seems reasonable
+to expect that the different groups will have different understandings of the question depending on whether they do or
+do not have such a body. This issue—often overlooked in
+social science research—is called measurement equivalence
+or measurement invariance. As Vandenberg and Lance (2000,
+p. 9) described, if a scale “means one thing to one group and
+something different to another group, a group mean comparison may be tantamount to comparing apples and sparkplugs.” While neither Bailey and Hsu’s, Moser’s, nor Veale
+et al.’s studies tested for measurement invariance across
+groups, both Moser’s and Veale et al.’s studies would have
+been more likely to produce valid comparisons because they
+used scales that were adapted to have more similar meanings,
+or measurement equivalence/invariance, across the groups
+being compared.
+In addition to discounting Moser’s and Veale et al.’s
+alternative questions, Bailey and Hsu (2022) also dispensed
+entirely with Blanchard’s Cross-Gender Fetishism Scale and
+Autogynephilic Interpersonal Fantasy Scale, both of which
+played a central role in Blanchard’s (1989b) original study.
+Their omission of Blanchard’s Autogynephilic Interpersonal
+Fantasy Scale is particularly noteworthy given Bailey and
+Hsu’s claims that subjects who exhibit “autogynephilia” are
+devoid of interpersonal sexual interests (see Bettcher, 2014
+
+ED
+
+80
+
+IS
+
+79
+
+stigma and prejudice, researchers should be careful and
+sensitive with the language that they use when publishing
+on this topic. Ethical research practice would be to involve
+transgender researchers who are experts on this topic or
+a transgender community advisory group to help ensure
+that this work is not inadvertently used in harmful ways
+(Adams et al., 2017).
+In addition to being disparaging when applied to trans
+women, the descriptor “natal males” seems to purposely
+obfuscate Bailey and Hsu’s “autogynephilic” samples. Specifically, it seems likely that Samples 1, 2, and 4 were disproportionately not trans woman-identified, but rather cisgender men and crossdressers who may never transition. The
+one exception to this is Sample 3, in which Bailey and Hsu
+selected for trans-identified AMAB individuals (e.g., current
+or potential trans women) who are not exclusively attracted
+to men (and who, by definition, should be “autogynephilic”
+according to Blanchard’s theory). Notably, this sample
+reported a lot of variability and scored significantly lower
+on Blanchard’s Core Autogynephilia Scale than the other
+three samples: almost 25% reported no FEFs, and roughly
+35% of the sample were fairly evenly distributed between 1
+and 6 (i.e., below the 7–8 range where most of Samples 1, 2,
+and 4 reside). In other words, while Blanchard proposed a
+taxonomy and etiology for trans women, this study appears
+largely bereft of actual trans women subjects, and the few
+who are included appear to call Blanchard’s “autogynephilic”
+category into question.
+Bailey and Hsu’s study strikes us as an exercise in “begging the question.” They purposely selected four samples of
+“autogynephilic natal males,” compared them to unselected
+samples of “natal males” and “natal females,” and concluded,
+“The autogynephilic samples had much higher mean scores
+compared with non-autogynephilic natal males and natal
+females, who were similar.” Well, of course they did, they
+were pre-selected for that! It is only through intentionally creating this disparity that they are able to claim, “Our findings
+refute the contention that autogynephilia is common among
+natal females.” However, Contrast II of Table 2 shows that
+FEFs were more common, on average, in cisgender women
+than “non-autogynephilic natal males.” Indeed, if one closely
+examines Fig. 2, Sample 10 (which Bailey and Hsu describe
+as “more representative” of natal females), approximately
+60% of the participants reported at least some FEFs (i.e., a 1
+or greater on the Core Autogynephilia Scale), with roughly
+30% scoring 3 or higher, almost 15% scoring 5 or higher, and
+almost 5% falling in the highest range (7–8). These numbers
+are not insignificant, and we believe that the appropriate conclusion here is that FEFs vary among cisgender women, just
+as they vary among trans women (see e.g., Sample 3). But this
+variability is erased by Bailey and Hsu’s focus on comparing
+unselected “natal females” to pre-selected “autogynephilic
+natal males.”
+
+EV
+
+78
+
+R
+
+77
+
+13
+Journal : Large 10508
+
+Article No : 2414
+
+Pages : 5
+
+MS Code : 2414
+
+Dispatch : 3-9-2022
+
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+
+Archives of Sexual Behavior
+
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+
+O
+F
+
+188
+
+PR
+O
+
+187
+
+Bailey and Hsu) conceptualized it as a “natal male”-specific
+paraphilia that is also a misdirected heterosexual sex drive,
+as well as a cause of gender dysphoria and desire to transition in trans women, it seems unfathomable that cisgender
+women might also experience it. However, if we instead view
+this phenomenon simply in terms of sexual fantasies—which
+individuals may (or may not) have, to varying degrees and for
+various reasons, and the presence of which is not indicative
+of being a particular “type” of person or suffering from a particular underlying pathology—then the existence of FEFs in
+cisgender women and their absence in some non-heterosexual trans women would not cause any consternation. This is
+precisely what Serano (2020a) proposed in her embodiment
+fantasies model, which Bailey and Hsu (2022) mentioned in
+passing toward the beginning of their article, then discounted
+as “speculation” in their Discussion, without ever describing
+it so that readers could make up their own minds. Since it is
+germane to the interpretation of FEFs, what follows is a brief
+summary of that model.
+The embodiment fantasies model observes that embodiment is a common feature of sexual fantasies—even mundane
+fantasies of having sex with another person typically involves
+our own bodies to some degree (Bettcher, 2014). “Embodiment fantasies” refer to sexual fantasies in which an individual’s embodiment becomes a more prominent or salient
+feature of the fantasy, and this may occur for a number of reasons. For instance, if we imagine our body as being different
+in some way from how it exists or how others perceive it in
+everyday life, then that embodiment might be foregrounded
+in the fantasy—this would certainly apply to trans individuals
+whose current embodiment does not align with their gender identity, for whom imagining being able to achieve their
+desired embodiment may be completely understandable and
+even be an adaptive way to alleviate any gender incongruence they may feel (as previously discussed). Second, in our
+hetero-male-centric culture, femaleness and femininity are
+routinely objectified and sexualized to a far greater extent
+than maleness and masculinity, and women often internalize this perspective (Fredrickson & Roberts, 1997). Consistent with this, research into sexual fantasies (e.g., Lehmiller,
+2018; Leitenberg & Henning, 1995) has found that while
+men’s sexual fantasies tend to focus more on the bodies of the
+people they desire, women’s sexual fantasies are often centered on their own bodies being the objects of other people’s
+desires—this would help explain why FEFs are not uncommon in women. Third, someone who does not find female or
+feminine traits attractive in others would likely find FEFs less
+arousing or compelling than those who do—this could help
+explain previously identified correlations between sexual
+orientation and embodiment fantasies without requiring a
+complicated theory involving misdirected heterosexual sex
+drives and sexual fantasies that lead “natal males” to “pursue
+sex reassignment surgery” (Bailey & Hsu, 2022).
+
+ED
+
+186
+
+IS
+
+185
+
+and Moser, 2010a for critiques of this assumption). Moser’s
+survey included numerous questions that were analogous
+to questions from Blanchard’s Cross-Gender Fetishism and
+Autogynephilic Interpersonal Fantasy scales, and significant
+numbers of his female subjects said they experienced those
+fantasies “on occasion” or “frequently” (Moser, 2009). Given
+this, one cannot help but wonder whether Bailey and Hsu’s
+“natal female” samples would have come across as even more
+“autogynephilic” had they been administered these surveys
+as well.
+Blanchard (1991) explicitly stated that he coined autogynephilia “to refer to the full gamut of erotically arousing
+cross-gender behaviors and fantasies,” and considered what
+he called “anatomic autogynephilia” (“static fantasies…
+consisting of little more than the idea of having a woman’s
+body”) to be a small subset of the former (pp. 235–237).
+So essentially, Bailey and Hsu (2022) appear to have redefined autogynephilia as consisting only of “anatomic autogynephilia.” Of course, they are free to do this, as there is
+nothing sacrosanct about Blanchard’s original formulation.
+However, such a maneuver would have extraordinary ramifications for Blanchard’s taxonomy. Specifically, far fewer
+of Blanchard’s original non-heterosexual trans woman subjects would likely have been categorized as “autogynephilic”
+based upon this more stringent criterion, thus making his
+already dubious taxonomy even more untenable as a result
+(see Serano, 2020b for further consideration of this point).
+Similarly, in the final section of their article, Bailey and
+Hsu argued that we should ignore the “61% of natal females
+in Sample 10 [who] had scores of at least 1 on the scale”
+because “it equates small positive scores on the Core Autogynephilia Scale with meaningful elevation on trait autogynephilia.” This raises questions about what counts as
+“meaningful” and who gets to decide whether any given score
+represents “genuine autogynephilia” or merely “something
+superficially resembling autogynephilia” (discussed further in Moser, 2010b and Serano, 2020b). But even if we
+accept Bailey and Hsu’s assessment that small positive scores
+should be discounted, then should we not also dismiss the
+roughly 60% of Sample 3 (selected for non-heterosexual trans
+women) who scored below 7–8 on the Core Autogynephilia
+Scale? If we did that, it would falsify Blanchard’s assertion
+that this group is inherently “autogynephilic.”
+Proponents of Blanchard’s theory cannot have it both
+ways: If they define autogynephilia broadly enough to ensure
+that most non-heterosexual trans women can be said to have
+it, then a significant number of cisgender women will also test
+positive for it. Alternatively, if they define it more narrowly to
+prevent significant overlap with cisgender women’s experiences with FEFs, then too few trans women will qualify as
+“autogynephilic” for Blanchard’s theory to be viable.
+This dilemma stems directly from the flawed concept of
+autogynephilia itself. Because Blanchard (and subsequently
+
+EV
+
+184
+
+R
+
+183
+
+13
+Journal : Large 10508
+
+Article No : 2414
+
+Pages : 5
+
+MS Code : 2414
+
+Dispatch : 3-9-2022
+
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+
+Archives of Sexual Behavior
+
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+
+O
+F
+
+294
+
+PR
+O
+
+293
+
+Article No : 2414
+
+Pages : 5
+
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+361
+
+Funding The authors have not disclosed any funding.
+
+362
+
+Declarations
+
+363
+
+Conflict of interest The authors have not disclosed any competing interests.
+
+364
+365
+
+References
+
+366
+
+Adams, N., Pearce, R., Veale, J. F., Radix, A., Castro, D., Sarkar, A.,
+& Thom, K. C. (2017). Guidance and ethical considerations for
+undertaking transgender health research and Institutional Review
+Boards adjudicating this research. Transgender Health, 2(1),
+165–175.
+American Psychological Association. (2020). Publication manual of the
+American Psychological Association (7th ed.). Author.
+Bailey, J. M., & Hsu, K. J. (2022). How autogynephilic are natal
+females? Archives of Sexual Behavior. https://​doi.​org/​10.​1007/​
+s10508-​022-​02359-8
+Bettcher, T. M. (2014). When selves have sex: What the phenomenology
+of trans sexuality can teach about sexual orientation. Journal of
+Homosexuality, 61, 605–620.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18, 315–334.
+Blanchard, R. (1989b). The concept of autogynephilia and the typology
+of male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies of
+autogynephilia. Journal of Sex & Marital Therapy, 17(4), 235–251.
+Bockting, W., Benner, A., & Coleman, E. (2009). Gay and bisexual
+identity development among female-to-male transsexuals in North
+America: Emergence of a transgender sexuality. Archives of Sexual
+Behavior, 38(5), 688–701.
+Dubberley, E. (2013). Garden of desires: The evolution of women’s
+sexual fantasies. Black Lace.
+
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+
+13
+Journal : Large 10508
+
+342
+
+360
+
+ED
+
+292
+
+2009; Nuttbrock et al., 2011a, 2011b; Veale, 2014; Veale
+et al., 2008). Bailey and Hsu’s (2022) article follows a long
+line of pro-autogynephilia interventions (see e.g., Lawrence,
+2010a, 2010b, 2014; Lawrence & Bailey, 2009) that chastised
+these more recent studies for not doing things precisely the
+way that Blanchard did when he conducted his original studies back in the 1980s. This is simply not how science is supposed to work. The point of research is to better understand
+the world around us, not to perfectly duplicate the results and
+interpretations of one psychologist working over 30 years
+ago. If multiple independent research groups obtain different
+findings and/or reach different conclusions, perhaps the problem does not reside with their studies or analyses, but rather
+with the thirty-plus-year-old theory that they were testing.
+We believe that it is time for proponents of autogynephilia
+theory to move on, and for the rest of us to embrace a more
+inclusive, accurate, and affirming understanding of human
+sexuality.
+
+IS
+
+291
+
+This embodiment fantasies model can account for the
+trends in FEFs observed in past studies, including its frequency or intensity in non-heterosexual trans women (who
+may straddle all three of the aforementioned situations). But
+it also accounts for the variability of FEFs found within any
+given cohort, as such fantasies are not conceptualized as a
+condition that certain “types” of people must either have
+or not have. Furthermore, unlike Blanchard’s theory, this
+embodiment fantasies model can also accommodate the
+existence of sexual fantasies centered on male or masculine
+embodiment, which have been observed in some cisgender
+women and gay, bisexual, and trans men (Bockting et al.,
+2009; Dubberley, 2013; Lehmiller, 2018). Crucially, understanding FEFs in terms of sexual fantasies (which are contextual, rather than a permanent or integral condition) helps
+to explain not only individual differences over time (e.g.,
+in trans women before versus after transition), but also the
+fact that other social factors have been shown to influence
+the phenomenon (e.g., FEFs vary considerably among trans
+women depending upon their age and race; Nuttbrock et al.,
+2011a, 2011b).
+Bailey and Hsu (2022) ended their article with a discussion of stigma that completely misses the mark, in which they
+argue that it is “transgender activists” who are responsible
+for stigmatizing autogynephilia. Virtually all critics (trans
+or otherwise) of the theory that we have encountered believe
+that there is nothing wrong with FEFs; they (and we) are simply striving to provide a more accurate and nuanced account
+of them. If anyone is stigmatizing anyone here, it is proponents of autogynephilia theory, who have repeatedly argued
+that trans people who object to the theory must suffer from
+“narcissistic rage” and are guilty of “lying,” “deceiving,” or
+“misleading” researchers and the general public (reviewed in
+Serano, 2010, 2020b). Furthermore, anti-transgender activists have increasingly latched onto autogynephilia theory’s
+monolithic portrayal of trans women as “sexually deviant”
+and “paraphilic” “men” (ideas reinforced throughout Bailey and Hsu’s article) in an attempt to roll back transgender
+healthcare and rights (Serano, 2020a, 2021). Let’s be clear:
+Transgender people are the stigmatized sexual minority here,
+so blaming them for stigmatizing autogynephilia appears to
+be blaming the victim. To portray transgender people’s legitimate scientific concerns about theory, and their fears about
+how it is being wielded in social and political settings, as
+“stigmatizing” is entirely misplaced.
+Finally, Blanchard’s autogynephilia theory was based on
+research he conducted in a single Canadian gender identity
+clinic during the 1980s, and he drew heavily from past studies
+and ideas that most contemporary researchers would describe
+as rudimentary or outdated today. Numerous independent
+groups have since tested Blanchard’s claims using slightly
+different protocols and subjects, which have yielded different results and pointed toward different conclusions (Moser,
+
+EV
+
+290
+
+R
+
+289
+
+MS Code : 2414
+
+Dispatch : 3-9-2022
+
+Archives of Sexual Behavior
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+
+Publisher's Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+452
+453
+
+PR
+O
+
+O
+F
+
+Serano, J. M. (2010). The case against autogynephilia. International
+Journal of Transgenderism, 12(3), 176–187.
+Serano, J. (2020a). Autogynephilia: A scientific review, feminist analysis, and alternative ‘embodiment fantasies’ model. Sociological
+Review, 68(4), 763–778.
+Serano. J. (2020b). Autogynephilia, ad hoc hypotheses, and handwaving. Medium. Retrieved from https://​julia​serano.​medium.​com/​
+autog​yneph​ilia-​ad-​hoc-​hypot​heses-​and-​handw​aving-​cecca​4f656​
+3d
+Serano. J. (2021). Autogynephilia and anti-transgender activism.
+Medium. Retrieved from https://​julia​serano.​medium.​com/​autog​
+yneph​ilia-​and-​anti-​trans-​activ​ism-​23c0c​6ad7e​9d
+Vandenberg, R. J., & Lance, C. E. (2000). A review and synthesis of
+the measurement invariance literature: Suggestions, practices,
+and recommendations for organizational research. Organizational
+Research Methods, 3, 4–70.
+Veale, J. F. (2014). Evidence against a typology: A taxometric analysis
+of the sexuality of male-to-female transsexuals. Archives of Sexual
+Behavior, 43, 1177–1186.
+Veale, J. F. (2015). Comments on ethical reporting and interpretations of
+findings in Hsu, Rosenthal, and Bailey’s (2014) “The Psychometric
+Structure of Items Assessing Autogynephilia” [Letter to the Editor]. Archives of Sexual Behavior, 44(7), 1743–1746.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of maleto-female transsexuals. Archives of Sexual Behavior, 36, 586–597.
+
+454
+
+EV
+
+IS
+
+ED
+
+Fredrickson, B. L., & Roberts, T.-A. (1997). Objectification theory:
+Toward understanding women’s lived experiences and mental
+health risks. Psychology of Women Quarterly, 21(2), 173–206.
+Lawrence, A. A. (2010a). Something resembling autogynephilia in
+women: Comment on Moser (2009). Journal of Homosexuality,
+57(1), 1–4.
+Lawrence, A. A. (2010b). A validation of Blanchard’s typology: Comment on Nuttbrock et al. (2010b) [Letter to the Editor]. Archives
+of Sexual Behavior, 39(5), 1011–1015.
+Lawrence, A. A. (2014). Veale’s (2014) critique of Blanchard’s typology
+was invalid [Commentary]. Archives of Sexual Behavior, 43(8),
+1679–1683.
+Lawrence, A. A., & Bailey, J. M. (2009). Transsexual groups in Veale
+et al. (2008) are “autogynephilic” and “even more autogynephilic”
+[Letter to the Editor]. Archives of Sexual Behavior, 38(2), 173–175.
+Lehmiller, J. J. (2018). Tell me what you want. De Capo Press.
+Leitenberg, H., & Henning, K. (1995). Sexual fantasy. Psychological
+Bulletin, 117(3), 469–496.
+Moser, C. (2009). Autogynephilia in women. Journal of Homosexuality, 56, 539–547.
+Moser, C. (2010a). Blanchard’s autogynephilia theory: A critique. Journal of Homosexuality, 57(6), 790–809.
+Moser, C. (2010b). A rejoinder to Lawrence (2010): It helps if you compare the correct items. Journal of Homosexuality, 57(6), 693–696.
+Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A.,
+Macri, M., & Becker, J. (2011a). A further assessment of Blanchard’s typology of homosexual versus non-homosexual or autogynephilic gender dysphoria. Archives of Sexual Behavior, 40(2),
+247–257.
+Nuttbrock, L., Bockting, W., Rosenblum, A., Mason, M., & Hwahng,
+S. (2011b). Sexual arousal associated with private as compared to
+public feminine dressing among male-to-female transgender persons: A further response to Lawrence (2011) [Letter to the Editor].
+Archives of Sexual Behavior, 40(6), 1093–1096.
+
+R
+
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+
+13
+Journal : Large 10508
+
+Article No : 2414
+
+Pages : 5
+
+MS Code : 2414
+
+Dispatch : 3-9-2022
+
+

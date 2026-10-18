@@ -1,0 +1,2104 @@
+CP12CH09-Zucker
+
+ANNUAL
+REVIEWS
+
+ARI
+
+24 February 2016
+
+11:49
+
+Further
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Click here to view this article's
+online features:
+• Download ﬁgures as PPT slides
+• Navigate linked references
+• Download citations
+• Explore related articles
+• Search keywords
+
+Gender Dysphoria in Adults
+Kenneth J. Zucker,1,∗ Anne A. Lawrence,2
+and Baudewijntje P.C. Kreukels3
+1
+
+Gender Identity Clinic, Child, Youth, and Family Services, Centre for Addiction and Mental
+Health and Department of Psychiatry, University of Toronto, Toronto, Ontario M5T 1R8,
+Canada; email: ken.zucker@utoronto.ca
+
+2
+
+Department of Psychology, University of Lethbridge, Lethbridge, Alberta T1K 3M4, Canada
+
+3
+
+Department of Medical Psychology, VU University Medical Center and EMGO Institute for
+Health and Care Research, Amsterdam 1081 HV, The Netherlands
+
+Annu. Rev. Clin. Psychol. 2016. 12:217–47
+
+Keywords
+
+First published online as a Review in Advance on
+January 18, 2016
+
+gender dysphoria, gender identity disorder, transsexualism, causal
+mechanisms, treatment
+
+The Annual Review of Clinical Psychology is online at
+clinpsy.annualreviews.org
+This article’s doi:
+10.1146/annurev-clinpsy-021815-093034
+c 2016 by Annual Reviews.
+Copyright 
+All rights reserved
+∗
+
+Corresponding author
+
+Abstract
+Gender dysphoria (GD), a term that denotes persistent discomfort with one’s
+biologic sex or assigned gender, replaced the diagnosis of gender identity
+disorder in the Diagnostic and Statistical Manual of Mental Disorders in 2013.
+Subtypes of GD in adults, defined by sexual orientation and age of onset,
+have been described; these display different developmental trajectories and
+prognoses. Prevalence studies conclude that fewer than 1 in 10,000 adult
+natal males and 1 in 30,000 adult natal females experience GD, but such
+estimates vary widely. GD in adults is associated with an elevated prevalence
+of comorbid psychopathology, especially mood disorders, anxiety disorders,
+and suicidality. Causal mechanisms in GD are incompletely understood,
+but genetic, neurodevelopmental, and psychosocial factors probably all contribute. Treatment of GD in adults, although largely standardized, is likely
+to evolve in response to the increasing diversity of persons seeking treatment, demands for greater client autonomy, and improved understanding of
+the benefits and limitations of current treatment modalities.
+
+217
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Contents
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 218
+TERMINOLOGY AND PHENOMENOLOGY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+Developmental Trajectories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 219
+EPIDEMIOLOGY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+Prevalence and Incidence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 221
+Sex Ratio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 222
+DIAGNOSIS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+Placement in the Nomenclature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+Substantive Changes in the DSM-5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 223
+Gender Dysphoria and the ICD-11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 224
+ASSESSMENT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Psychological Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 225
+Biological Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+ASSOCIATED PSYCHOPATHOLOGY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Increased Prevalence of Associated Psychopathology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 226
+Studies that Find Little or No Increased Prevalence
+of Associated Psychopathology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 228
+Self-Report Measures of Associated Psychological Symptoms . . . . . . . . . . . . . . . . . . . . . 229
+Increased Prevalence of Suicidality and Self-Harm . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+Explanations of Associated Psychopathology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 229
+CAUSAL MECHANISMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 230
+Biological Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 231
+Psychosocial Processes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 234
+THERAPEUTICS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 235
+Diagnosing GD and Comorbid Conditions and the Role
+of Mental Health Professionals . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 236
+Counseling and Psychotherapy for Adults with Gender Dysphoria . . . . . . . . . . . . . . . . 237
+Real-Life Experience in the Preferred Gender Role . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 238
+Hormone Therapy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+Sex Reassignment Surgery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 239
+SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 240
+
+INTRODUCTION
+Gender dysphoria (GD) is a technical term that is familiar to specialist clinicians and researchers,
+but it is perhaps less familiar to clinicians who have little or no experience in this area. It is also
+a diagnostic term: In the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders
+(DSM-5; Am. Psychiatr. Assoc. 2013), GD replaced prior diagnostic labels, including transsexualism and gender identity disorder.
+In the past few years, GD has received an unprecedented amount of attention in all forms of
+media, perhaps under the broader rubric of the terms “transgender” or “transgenderism.” In 2014,
+an essay in Time suggested that a “tipping point” had been reached with regard to “transgender
+visibility” (Gray 2014). In his State of the Union address on January 20, 2015, Barack Obama was
+the first US President to use the term “transgender” in public:
+218
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+As Americans, we respect human dignity. . . . That’s why we defend free speech, and advocate for
+political prisoners, and condemn the persecution of women, or religious minorities, or people who are
+lesbian, gay, bisexual, or transgender. We do these things not only because they’re right, but because
+they make us safer. (Steinmetz 2015)
+
+On May 4, 2015, the New York Times launched a series of editorials, entitled “Transgender
+Today,” and around the same time, the American public appeared captivated by the very public
+gender change from male to female, at the age of 65, of Olympic athlete Bruce (aka Caitlyn)
+Jenner, whose name yielded 79,500,000 “hits” on Google as of July 1, 2015 (Bissinger 2015).
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+TERMINOLOGY AND PHENOMENOLOGY
+The term “gender dysphoria” was first introduced by Fisk (1974) to describe individuals who
+experience sufficient discomfort with their biological sex to form the wish for sex reassignment.
+In the DSM-5, GD is defined as “an individual’s affective/cognitive discontent with the assigned
+gender [usually at birth and referred to as natal gender]” (Am. Psychiatr. Assoc. 2013, p. 451).
+The specialist clinician will be well aware of the multitude of terms currently in use to describe individuals whose gender identity or gender role behavior does not match up with societal
+expectations or stereotypes associated with the (biological) male-female binary: apart from GD,
+there are many other terms, such as gender variant, gender nonconforming, gender queer, gender fluid, bigender, gender neutral, agender, and nonbinary, along with “trans∗ ,” transsexual, and
+transgender. And, cross-culturally, there are many terms used to label individuals whose behavior
+and subjective identity fall under the rubric of a “third gender” (Herdt 1994).
+
+Developmental Trajectories
+Table 1 shows the DSM-5 diagnostic criteria for GD in both children and adolescents/adults.
+It is important to include the criteria for children because the phenomenology of GD in adults,
+particularly in natal males, has at least two distinct pathways. Some adults with GD will recall a
+childhood pattern of sex-typed behavior that corresponds to the behavioral indicators of GD in
+childhood. In the contemporary literature, this is known as early-onset GD (Nieder et al. 2011)
+or an early-onset of cross-gender identification, which might be present in the absence of an
+explicit desire to be of the other gender. For other adults with GD, there is no clear evidence of
+childhood cross-gender identification; rather, the indicators of GD emerge at puberty, if not much
+later, which is called late-onset GD. An important methodological and interpretive issue pertains
+to what “counts” as early onset. On this point, the literature is quite variable: Some researchers
+consider early onset to be any time prior to puberty, whereas other researchers consider early
+onset to be during the toddler and preschool years, the developmental period in which both
+gender identity and gender role behaviors are first expressed (Lawrence 2010, pp. 531–532).
+If age of onset is used as the independent variable, one can ask if it correlates with any other
+variables that might be of importance from a clinical perspective. One such variable is sexual
+orientation. Nieder et al. (2011) found that early-onset female-to-male (FtM) clients were more
+likely to be sexually attracted to females than were late-onset clients, and early-onset male-tofemale (MtF ) clients were more likely to be sexually attracted to males than were late-onset
+clients, particularly when it was the clinician who classified the client’s sexual orientation.
+If sexual orientation is used as the independent variable, one can also ask which, if any, variables
+it is correlated with. In the best-studied sexual orientation typological scheme, adults with GD are
+divided into two subtypes: in the case of males, the two subtypes are those who are sexually attracted
+to males versus those who are sexually attracted to females, both males and females, or neither males
+www.annualreviews.org • Gender Dysphoria in Adults
+
+219
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Table 1 Diagnostic and Statistical Manual of Mental Disorders, fifth edition (DSM-5) criteria for gender dysphoria in
+children, adolescents, and adults
+Criteria for gender dysphoria in children
+A. A marked incongruence between one’s experienced/expressed gender and assigned gender, of at least six months’
+duration, as manifested by at least six of the following (one of which must be Criterion A1):
+1. A strong desire to be of the other gender or an insistence that one is the other gender (or some alternative gender different from
+one’s assigned gender)
+2. In boys (assigned gender), a strong preference for cross-dressing or simulating female attire; in girls (assigned gender), a strong
+preference for wearing only typical masculine clothing and a strong resistance to the wearing of typical feminine clothing
+3. A strong preference for cross-gender roles in make-believe play or fantasy play
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+4. A strong preference for the toys, games, or activities stereotypically used or engaged in by the other gender
+5. A strong preference for playmates of the other gender
+6. In boys (assigned gender), a strong rejection of typically masculine toys, games, and activities and a strong avoidance of
+rough-and-tumble play; or in girls (assigned gender), a strong rejection of typically feminine toys, games, and activities
+7. A strong dislike of one’s sexual anatomy
+8. A strong desire for the primary and/or secondary sex characteristics that match one’s experienced gender
+B. The condition is associated with clinically significant distress or impairment in social, school, or other important areas
+of functioning.
+Specify if: with a disorder of sex development
+Criteria for gender dysphoria in adolescents and adults
+A. A marked incongruence between one’s experienced/expressed gender and assigned gender, of at least six months’
+duration, as manifested by at least two of the following:
+1. A marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics (or in
+young adolescents, the anticipated secondary sex characteristics)
+2. A strong desire to be rid of one’s primary and/or secondary sex characteristics because of a marked incongruence with one’s
+experienced/expressed gender (or in young adolescents, a desire to prevent the development of the anticipated secondary sex
+characteristics)
+3. A strong desire for the primary and/or secondary sex characteristics of the other gender
+4. A strong desire to be of the other gender (or some alternative gender different from one’s assigned gender)
+5. A strong desire to be treated as the other gender (or some alternative gender different from one’s assigned gender)
+6. A strong conviction that one has the typical feelings and reactions of the other gender (or some alternative gender different from
+one’s assigned gender)
+B. The condition is associated with clinically significant distress or impairment in social, occupational, or other
+important areas of functioning.
+Specify if: with a disorder of sex development
+Specify if: posttransition, the individual has transitioned to full-time living in the desired gender (with or without legalization of
+gender change) and has undergone (or is preparing to have) at least one cross-sex medical procedure or treatment
+regimen—namely, regular cross-sex hormone treatment or gender reassignment surgery confirming the desired gender (e.g.,
+penectomy, vaginoplasty in a natal male; mastectomy or phalloplasty in a natal female)
+
+nor females (Blanchard 1989). In the case of females, the two subtypes are those who are sexually
+attracted to females versus those who are sexually attracted to males, both males and females, or
+neither males nor females. Gender-dysphoric males who are not exclusively sexually attracted to
+males often have transvestic disorder (Blanchard 2010), in which there is sexual arousal associated
+with cross-dressing or autogynephilia, defined in the DSM-5 as sexual arousal associated with a
+man’s thought or image of himself as a woman (for details, see Blanchard 2005, Lawrence 2013).
+Although this taxonomic scheme did not begin to receive empirical validation until the 1980s,
+220
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+the importance of sexual orientation as a subtype goes back to some of the earliest writings by
+clinicians who worked with transsexual clients. For example, Harry Benjamin, an endocrinologist
+considered to be the father of transsexualism (Green 2009), described quite clearly male clients
+who could be classified as either homosexual or nonhomosexual (in relation to birth sex) (Schaefer
+& Wheeler 1995).
+For natal females, the older literature suggested an almost complete predominance of the
+early-onset form of GD, with a corresponding sexual orientation toward females. More recently,
+however, a greater proportion of natal females with the late-onset form of GD have been described
+in the literature, with a sexual attraction to natal males and who from a subjective point of view
+identify as gay men (Bockting et al. 2009, Chivers & Bailey 2000).
+In contemporary times, consideration of sexual orientation in relation to GD has been an
+extremely contentious issue. Some clinicians and transgender activists object to the idea that GD
+in males might be associated with autogynephilia because they worry that this might result in the
+GD being taken less seriously and viewed simply as a paraphilic sexual condition (Dreger 2008,
+Lawrence 2013).
+There is a historical reason for this concern. When sex reassignment surgery (SRS), or what
+is now called gender-confirming surgery, for adults with GD began to receive more credence as
+a legitimate therapeutic option in the 1960s and 1970s (Meyerowitz 2002), clinicians were wary
+about recommending this treatment for late-onset males. For example, a male client who had a
+history of transvestic fetishism, was (or had been) married to a woman, had children, and had
+lived for a long time in the male gender role was viewed as a more dubious candidate for SRS in
+comparison with other male clients. And such male clients often present with the request for SRS at
+a later age than do early-onset males (Blanchard 1994, Lawrence 2010, Nieder et al. 2011). Indeed,
+Stoller (1968) considered such clients to be “secondary” rather than “primary” transsexuals. Other
+clinicians in this era noted that such clients had a more episodic history with regard to GD and
+the wish for sex reassignment, which was deemed to be a reason for caution in recommending
+an irreversible medical treatment (Wise & Meyer 1980). And perhaps there was good reason to
+be cautious, as there is evidence that instances of “regrets” after SRS are more common in this
+subgroup (Blanchard et al. 1989).
+The primary-secondary classificatory scheme has now been largely abandoned, and eligibility
+for SRS takes into account different parameters, which are described more fully in the section
+on therapeutics, but it is noted here that the debate has remained a very political, contentious
+issue. In the seventh revision to the Standards of Care for the Health of Transsexual, Transgender,
+and Gender-Nonconforming People (SOC-7) published by the World Professional Association for
+Transgender Health (Coleman et al. 2011), terms such as sexual orientation, transvestic fetishism,
+and autogynephilia are never mentioned. We would argue that this reflects a kind of intellectual
+erasure in the discourse on phenomenology, which may inadvertently (or, perhaps, intentionally)
+obscure the importance of these parameters with regard to theoretical issues, empirical research
+on causal mechanisms, and therapeutic care.
+
+EPIDEMIOLOGY
+Prevalence and Incidence
+In the late 1970s, the epidemiology of psychiatric disorders was examined with the use of the
+Diagnostic Interview Schedule (DIS) (Robins et al. 1981), which was designed to assess DSM-III
+diagnoses. Interestingly, Robins and colleagues (1981) noted that the module pertaining to transsexualism was “omitted” because it “had not been cleared by NIMH for submission to [the] OMB
+www.annualreviews.org • Gender Dysphoria in Adults
+
+221
+
+ARI
+
+24 February 2016
+
+11:49
+
+[the US Office of Management and Budget]” (p. 388). Thus, in the 1980s, the US studies on DIS
+prevalence did not contain any specific information on transsexualism. However, Hwu et al. (1989)
+reported on the prevalence of transsexualism in Taiwan for 11,004 adults ranging in age from 18
+to 64+ years. Depending on geographic area, lifetime prevalence ranged from 0.3 to 2.0:1,000,
+with a higher prevalence for females than for males (range, 0.7–4.2:1,000 versus 0–0.4:1,000).
+One-year prevalence ranged from 0 to 1.0:1,000. Stefánsson et al. (1994) reported prevalence data
+on 862 Icelanders at the age of 55 to 57 years, who were all born in 1931: Lifetime prevalence was
+0.1%, and point prevalence (one month to one year) was 0.0%.
+Estimates of prevalence have also relied on less rigorous methods, such as the number of adults
+seeking clinical care at specialized gender identity clinics in a particular country or the number
+of such clients approved for or already receiving cross-sex or gender-affirming hormonal treatment. Zucker & Lawrence (2009) reviewed this quasi-epidemiological literature on prevalence and
+identified 25 relevant studies. Population-based data from European countries provided the best
+estimates of the prevalence of GD in Western societies. In Belgium, for example, the prevalence
+of transsexualism, defined as having undergone sex reassignment, was 1:12,900 for adult males
+and 1:33,800 for adult females; data from the Netherlands were similar: 1:11,900 adult males and
+1:30,400 adult females.
+Since the 2009 review, two new studies have been published. Dhejne et al. (2014) reported a
+point prevalence in December 2010 of 1:7,750 adult males and 1:13,120 females in Sweden who
+had applied for a legal name change, and Judge et al. (2014) reported a prevalence of 1:10,154
+adult males and 1:27,668 adult females referred for hormonal treatment in Ireland. Arcelus et al.
+(2015) provided a meta-analytic review of 21 studies (many of which were included in Zucker
+& Lawrence 2009) and concluded that the prevalence of transsexualism in (predominantly) adult
+males was 1:14,705 and 1:38,461 in (predominantly) adult females.
+Because these studies have relied on clients seen by gender identity specialists or clinics, it has
+been argued that the true prevalence of GD (transsexualism) could be underestimated because
+not all affected individuals might seek out such care at specialized centers. Veale (2008) gauged
+the prevalence of transsexualism in New Zealand on the basis of the number of individuals,
+15 years of age and older, who requested, for example, an “X” on their passport instead of M (for
+male) or F (for female) after they had been living as a member of the opposite sex and had made
+a legal name change. On this basis, Veale reported a higher prevalence rate of 1:3,630 in males
+and 1:22,714 in females.
+In the past few years, some novel data have emerged that also suggest higher prevalence rates;
+however, these studies have tended to use definitions of “caseness” that are looser than the definitions used for clients seen in specialty clinics. Conron et al. (2012) examined a probability sample
+of 28,176 adults (age range 18–64 years) who participated in a telephone health survey. They
+found that 0.5% of the adults considered themselves to be transgender (e.g., “a person born into
+a male body, but who feels female or lives as a woman”) (see also Kuyper & Wijsen 2014, Van
+Caenegem et al. 2015). Although these new data should be interpreted with caution because of the
+less restricted definition of caseness, they may well reflect a bona fide increase in the prevalence
+of adults who self-identify somewhere along the transgender spectrum; some of these individuals
+may eventually seek out gender change with biomedical treatments.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+Sex Ratio
+From the clinic-based studies, it is apparent that the prevalence of male-to-female transsexualism is
+consistently higher than female-to-male transsexualism in adults. If these estimates reflect, even in
+a crude way, sex differences in true prevalence, one can ask why GD is more common in biological
+222
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+males than in biological females. One explanation pertains to sex differences in the prevalence of
+subtypes of GD. As noted previously, the best-established evidence for a sex difference in subtypes
+pertains to sexual orientation. This sex × sexual orientation difference may well explain the higher
+prevalence in biological males (of course, the interaction itself also requires an explanation).
+
+DIAGNOSIS
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Placement in the Nomenclature
+Transsexualism as a psychiatric diagnosis (for adolescents and adults) appeared for the first time
+in the DSM in 1980 (the corresponding diagnosis for children was gender identity disorder of
+childhood). In 1994, transsexualism and gender identity disorder of childhood were merged into
+one diagnosis, gender identity disorder (GID), with distinct criteria sets for children and adolescents/adults (Am. Psychiatr. Assoc. 1994). In the DSM-5 (Am. Psychiatr. Assoc. 2013), GID was
+renamed GD, with a chapter of its own.
+
+Substantive Changes in the DSM-5
+Zucker et al. (2013) outlined the key changes to the diagnosis of GID between DSM-IV and
+DSM-5. Before describing the changes relevant to adults, it should be noted that the subworkgroup
+on Sexual and Gender Identity Disorders reflected on a more fundamental matter, namely, whether
+to retain the diagnosis in the DSM-5 at all. Some transgendered activists and some clinicians
+wanted the diagnosis to be removed in its entirety, arguing that GID was not a mental disorder,
+and the arguments for removal drew on many of the same reasons that led homosexuality to be
+removed in 1973 from the DSM-II (Am. Psychiatr. Assoc. 1968) (Bayer 1981): Transsexualism
+or GID was nothing more than a normal variant of a cisgender identity, that its presence in the
+DSM contributed to stigma, and that there was nothing inherently “wrong” with a gender identity
+incongruent with one’s natal sex (Ault & Brzuzy 2009, Vance et al. 2010). Two members of the
+DSM-5 subworkgroup wrote reviews that, in part, considered the question of whether to leave
+the diagnosis in the DSM or take it out (Drescher 2010, Meyer-Bahlburg 2010; see also Zucker
+& Duschinsky 2016).
+The recommendation of the subworkgroup to retain the diagnosis was based on at least two
+key considerations: access to care and a reconceptualization of the diagnosis. If there were no psychiatric diagnosis, access to care, including insurance coverage for SRS, would be threatened. The
+argument that GID is a nonpsychiatric medical condition [e.g., a neural, central nervous system
+(CNS)-limited intersex condition] (Meyer-Bahlburg 2011) was considered, but it was deemed that
+the evidence for this was far from clear and could not be justified.
+To retain the diagnosis in the DSM-5, a reconceptualization was articulated in which “identity”
+per se was not considered a sign of a mental disorder. Rather, it was the incongruence between
+one’s felt gender and assigned sex/gender (usually at birth) leading to distress and/or impairment
+that was the core feature of the diagnosis. As a result, the subworkgroup argued for a change in
+name from GID to GD in order to better reflect this incongruence. Once a consensus within the
+subworkgroup was reached with regard to retention, five substantive changes were proposed and
+implemented:
+1. The diagnostic criteria for adolescents and adults moved to a more detailed polythetic format
+(Table 1), replacing the rather vague criteria that were used in the DSM-IV. The threshold
+of two symptoms (out of six) was based, in part, on secondary data analyses, which indicated
+that the presence of at least two indicators yielded a sensitivity rate of 94.2% and a specificity
+rate of 99.3%.
+www.annualreviews.org • Gender Dysphoria in Adults
+
+223
+
+ARI
+
+24 February 2016
+
+11:49
+
+2. A lower-bound six-month duration criterion was introduced based on clinical consensus,
+but, unfortunately, without formal empirical evidence. The inclusion of a duration criterion
+was, however, deemed important for clinical reasons, namely, to caution against a hasty
+diagnosis with the potential unintended consequence of inappropriate treatment for clients
+in which the symptoms might well prove to be transitory.
+3. Whether or not individuals with a physical intersex condition, now termed a disorder of sex
+development (DSD), should be diagnosed with GD has had a back-and-forth history since
+the DSM-III (Kraus 2015; Meyer-Bahlburg 1994, 2010, 2015). Since the publication of the
+DSM-IV, considerable evidence has accumulated that some individuals with a DSD experience GD and may wish to change their assigned gender (Berenbaum & Meyer-Bahlburg
+2015, Meyer-Bahlburg 2010, Pasterski et al. 2015, Richter-Appelt & Sandberg 2010). Although the percentage of DSD clients who develop GD is DSD syndrome dependent, such
+clients express a phenomenology that is both similar to and different from clients with GD
+with no known DSD, and similarities and differences also exist in developmental trajectories.
+Because the presence of a DSD suggests a specific causal mechanism that may not be present
+in individuals without a DSD, it was included as a specifier in the DSM-5.
+4. For adolescents and adults, the DSM-IV specifier for sexual attraction (to males, to females,
+to both, to neither) was removed in the DSM-5. This was an issue that was debated intensely
+by the subworkgroup. On the one hand, there is considerable evidence, particularly for natal males, that sexual orientation in adults with GD is related to a whole host of variables,
+including developmental phenomenology and trajectories, and is likely related to somewhat
+distinct causal mechanisms. Indeed, sexual orientation (or sexual attraction) fits well with the
+DSM-IV definition of a subtype (“mutually exclusive and jointly exhaustive phenomenological subgroupings”), and there is considerable evidence for its validity as a subtype (Lawrence
+2010). On the other hand, it can be argued that sexual orientation per se does not, in and of
+itself, constitute a symptom of GD (“symptom expression”), which is a cornerstone of the
+meaning of a specifier in DSM-5. As a result, the subworkgroup recommended that sexual
+attraction be removed as a specifier but described in the text as an important component of
+variations in developmental trajectories and with regard to research on causal mechanisms.
+5. A posttransition specifier was added to the GD criteria for adolescents and adults. The addition of this specifier was deemed necessary because there are many individuals who, after a
+gender transition (social and/or biomedical), no longer meet the criteria set for GD; however,
+they continue to undergo chronic hormone treatment, further gender-confirming surgery,
+or intermittent psychotherapy/counseling to facilitate the adaptation to life in the desired
+gender and the social consequences of the transition. Although the concept of posttransition
+was modeled on the concept “in [partial or full] remission” as used for mood disorders, “remission” has implications in terms of symptom reduction that do not apply directly to GD.
+Cross-sex hormone treatment of gonadectomized individuals could, of course, be coded as
+treatment of hypogonadism, but this would not apply to individuals who have not undergone
+gonadectomy but receive hormone treatments. In the DSM-5 text, it is noted that the course
+specifier of “full remission” in its original meaning does apply to a small number of adults.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+Gender Dysphoria and the ICD-11
+The World Health Organization intends to publish the eleventh revision to its International Classification of Diseases and Related Health Problems (ICD-11) in 2018. Advisory groups have been
+assembled for the Mental and Behavioural Disorders section (First et al. 2015). Two members
+of the DSM-5 Work Group on Sexual and Identity Disorders, Cohen-Kettenis and Drescher,
+224
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+served on a subgroup of three. A general proposal has been made to move the ICD-10 diagnoses
+pertaining to GD, the sexual dysfunctions, and the paraphilic disorders out of the Mental and Behavioural Disorders section to a new section provisionally entitled Conditions Related to Sexual
+Health (Drescher 2013, 2015; Drescher et al. 2012), with the DSM-5 “gender dysphoria” label
+replaced with the label of “gender incongruence.” This proposal appears to be based in part on
+the argument that such a section would be agnostic with regard to whether or not gender incongruence is best conceptualized as a psychiatric or nonpsychiatric medical condition. Retention in
+the ICD-11 in this new section would, in theory, allow national health care systems or private
+insurance companies to continue to provide coverage and thereby not threaten access to care for
+clients unable to pay for medical care out of pocket.
+
+ASSESSMENT
+Psychological Assessment
+Psychological assessment of GD, particularly dimensional evaluation, can be used to complement
+a detailed clinical history, including an appraisal of the symptoms that constitute the DSM-5 diagnosis. For example, the gender-related scales [masculinity-femininity, masculine gender, feminine
+gender (Mf, GM, and GF, respectively)] of the Minnesota Multiphasic Personality Inventory-2
+(MMPI-2) (Martin & Finn 2010) provide objective measures of clients’ gender-typical or atypical
+attitudes and interests (Gómez-Gil et al. 2008). The Feminine Gender Identity Scale for Males
+(Freund et al. 1977) and the Masculine Gender Identity Scale for Females (Blanchard & Freund
+1983) were developed, in part, to provide dimensional assessment of some indicators of transsexualism (both historic and concurrent) during the period when the diagnosis was either about to
+appear in the DSM-III or shortly thereafter.
+More recently, the Gender Identity/Gender Dysphoria Questionnaire for Adolescents and
+Adults (GIDYQ-AA) has been developed (Deogracias et al. 2007). The GIDYQ-AA consists of
+27 items that pertain to gender identity and GD and are designed to capture multiple indicators
+of gender identity and GD, including subjective (n = 13 items), social (n = 9 items), somatic (n = 3
+items), and sociolegal (n = 2 items) parameters. The GIDYQ-AA has parallel male and female
+versions. Each item is rated on a 5-point response scale ranging from 1 (never) to 5 (always) based
+on a time frame of the past 12 months. A total score is calculated by summing scores on the
+completed items and dividing by the number of marked responses.
+The psychometric properties of the GIDYQ-AA were examined by Deogracias et al. (2007)
+with a sample of 462 participants that included both university students and gender identity clients.
+A principal factor analysis indicated a one-factor solution was the best fit, accounting for 61.3%
+of the total variance. The measure successfully discriminated gender identity clients from both
+heterosexual and nonheterosexual controls, with large effect sizes. Using a cut-point of ≤3.00,
+selected on the basis of visual inspection of the frequency distributions of mean scores, Deogracias
+et al. (2007) found the scale to have excellent sensitivity (90.4%) and specificity (99.7%). Similarly,
+using clinical controls, Singh et al. (2010) found a specificity rate of 100% and sensitivity rates
+of 93.3% and 87.3% for adolescents and adults with GID, respectively. These findings suggest
+that the GIDYQ-AA can be used to identify ‘‘caseness” in clients referred to a specialized gender
+identity clinic and that the questionnaire does not simply identify clinical problems in general. It
+has also been used to identify potential “cases” in client groups for whom it has been surmised
+contain an overrepresentation of individuals with GD, such as women with borderline personality
+disorder (Singh et al. 2011). Other contemporary dimensional measures of GD include the Utrecht
+Gender Dysphoria Scale (Schneider et al. 2015); however, one advantage of the GIDYQ-AA is
+www.annualreviews.org • Gender Dysphoria in Adults
+
+225
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+that it uses a specific time frame and has parallel items for males and females, whereas the Utrecht
+Gender Dysphoria Scale does not have identical items for the two sexes.
+An important component of GD pertains to body image and body dissatisfaction. Although
+signs of body image dissatisfaction, including anatomic dysphoria, can be detected in some prepubertal children with GD, this becomes much more salient with the onset of puberty, which
+accentuates the incongruence between one’s felt gender and somatic sex with the emergence of
+secondary sex characteristics (Feusner et al. 2015).
+Several measures have been used to assess this body image dissatisfaction, including the Body
+Image Scale (Lindgren & Pauly 1975, van de Grift et al. 2015), the Body Uneasiness Test (Bandini
+et al. 2013), and the Hamburg Body Drawing Scale (Becker et al. 2015). Becker and colleagues
+found the expected elevation in body image dissatisfaction with regard to sex-specific body features,
+but they also found some elevations in more general aspects of body image. Along similar lines,
+Vocks et al. (2009) reported that gender-dysphoric adults showed impairment in body image
+related to eating disorders (e.g., restrained eating behavior). Body image is an important variable
+to assess because a reduction in dissatisfaction is an important metric in identifying improvement
+in psychosocial well-being following a gender social transition and corresponding biomedical
+treatments (Kraemer et al. 2008).
+
+Biological Assessment
+Physical examination and laboratory testing are generally viewed as having limited value for clients
+with GD. For adults who have a co-occurring DSD, this has invariably been documented prior
+to an assessment for GD. Almost all clients with GD have a normal sex chromosome karyotype (Auer et al. 2013a). Nonautosomal positive findings in males most commonly indicate the
+presence of Klinefelter syndrome (47,XXY) or an XYY karyotype (Auer et al. 2013a, Buhrich &
+McConaghy 1978). Only a few case reports in the literature have identified a sex chromosomal
+abnormality in females with GD (Auer et al. 2013a, Khandelwal et al. 2010).
+
+ASSOCIATED PSYCHOPATHOLOGY
+Understanding the nature and prevalence of psychopathologic conditions that occur in association
+with GD can potentially improve diagnostic precision, inform treatment planning, and provide
+insights into the causes and consequences of GD. A review of existing research in this area,
+however, reveals a wide range of inconsistent, confusing, and at times seemingly contradictory
+results. Many studies have significant limitations. These include the use of small and potentially
+unrepresentative samples and reliance on brief self-report measures rather than structured clinical
+interviews. Some investigators have combined male-to-female (MtF ) and female-to-male (FtM)
+persons for purposes of analysis, and subtypes based on sexual orientation or age of onset have
+rarely been taken into consideration.
+
+Increased Prevalence of Associated Psychopathology
+
+Supplemental Material
+
+226
+
+Comorbid psychopathology is significantly more prevalent in adults with GD than in the general
+population. Mood and anxiety disorders are especially likely to occur in association with GD.
+Two large, recently published, methodologically strong studies illustrate these points; they also
+provide a standard against which the results of other investigations can be compared. These two
+reports are summarized in the first two rows of Supplemental Table 1 (follow the Supplemental
+Material link in the online version of this article or at http://www.annualreviews.org).
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Dhejne et al. (2011) reported the results of a longitudinal, population-based follow-up study
+of all persons who underwent SRS in Sweden between 1973 and 2003, a cohort consisting of
+191 MtF and 131 FtM transsexuals. Data were obtained from several Swedish national registries, which contain information about births, deaths, hospital discharges and diagnoses, criminal
+records, etc. Each client was compared with 10 randomly selected, age-matched persons of both
+their birth sex and their reassigned or final sex. Dhejne et al. (2011) found that 19% of MtF clients
+and 17% of FtM clients had been hospitalized for psychiatric problems other than GD prior to
+undergoing sex reassignment, compared to only 3–4% of both birth-sex and final-sex matched controls. After SRS, clients with GD were 2.8 times more likely than controls to have been hospitalized
+for a psychiatric problem other than GD, even after adjustment for prior psychiatric comorbidity;
+they were 4.2 times more likely prior to this adjustment. After SRS, transsexual clients were 4.9
+times more likely to have made a suicide attempt and 19.1 times more likely to have died from
+suicide, again after adjusting for prior psychiatric comorbidity. The prevalence of these conditions
+was similar in MtFs and FtMs. The multiple strengths of this study—longitudinal design, absence
+of selection bias, well-chosen control groups, and unusually long follow-up times—suggest that
+its findings are likely to be highly reliable.
+Heylens et al. (2014a) described the prevalence of current and lifetime comorbid psychopathology in 305 clients with GD (182 MtFs, 123 FtMs) seen from 2007 through 2010 in gender clinics
+in Belgium, Germany, the Netherlands, and Norway that participated in the European Network
+for the Investigation of Gender Incongruence. Data were collected using the Mini International
+Neuropsychiatric Interview-Plus and the Structured Clinical Interview for DSM-IV Axis II Personality Disorders. Approximately 38% of clients had a current Axis I disorder and about 69%
+had a lifetime Axis I disorder, with similar prevalence figures in MtFs and FtMs. The most common Axis I conditions were mood disorders (27% current, 60% lifetime) and anxiety disorders
+(17% current, 28% lifetime). Although this study did not employ a formal control group, these
+figures substantially exceed prevalence rates of comorbid psychopathology in the general population in Western European countries. For example, Alonso & Lépine (2007) used the Composite
+International Diagnostic Interview and found that, in a representative sample of adults from six
+European countries, only 26% reported a lifetime prevalence of any mental disorder. About 30%
+of both MtFs and FtMs had either attempted suicide or reported recent suicidal ideation. About
+15% of GD clients had one or more DSM-IV Axis II disorders, a prevalence similar to that of
+the general population in the countries that participated in the European Network for the Investigation of Gender Incongruence. There were no significant differences in comorbid conditions
+between early-onset and late-onset GD groups, except for a higher prevalence of Axis II disorders
+in late-onset FtMs.
+Eight other studies that used structured clinical interviews for data collection (Colizzi et al.
+2015; Gómez-Gil et al. 2009; Guzmán-Parra et al. 2015; Haraldsen & Dahl 2000; Hepp et al.
+2005; Madeddu et al. 2009; Mazaheri Meybodi et al. 2014a,b) reported generally similar results
+(see Supplemental Table 1): Most found about a 30–40% prevalence of current comorbid psychopathology and about a 50–80% prevalence of lifetime comorbid psychopathology in adults
+with GD, including a 20–60% prevalence of personality disorders. Another large study by Landén
+et al. (1998), which used data from Swedish national registries—the same method that Dhejne
+et al. (2011) subsequently employed—reported similar results, as did three smaller studies by
+Miach et al. (2000) and De Cuypere et al. (1995, 2006), all of which found a high prevalence
+of associated psychopathology despite the use of unstructured clinical interviews. The studies by
+Dhejne et al. (2011) and Heylens et al. (2014a) and these 12 other studies, summarized in the first
+14 rows of Supplemental Table 1, probably provide the most reliable estimates of the prevalence
+of associated psychopathology in adults with GD.
+www.annualreviews.org • Gender Dysphoria in Adults
+
+Supplemental Material
+
+227
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+Supplemental Material
+
+11:49
+
+Four other studies have used self-report screening instruments to assess current depression,
+anxiety, and psychological distress in large cohorts of US transgender adults, some of whom
+probably would not have met full diagnostic criteria for GD (Bockting et al. 2013, Budge et al.
+2013, Clements-Nolle et al. 2006, Nuttbrock et al. 2013). All of these studies found that current
+depression and anxiety were significantly more prevalent in adults with GD than in the general
+population: about a 45–60% prevalence of current depression and about a 35–40% prevalence of
+current anxiety. The results of these studies are summarized in the final four rows of Supplemental
+Table 1.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Studies that Find Little or No Increased Prevalence
+of Associated Psychopathology
+Some studies have identified no or little increased prevalence of associated psychopathology. These
+reports are sometimes cited to support the idea that GD is “usually an isolated diagnosis” (Cole
+et al. 1997, p. 13) or one that is “associated with a low level of psychopathology” (Fisher et al.
+2013, p. 417). Few of these studies, however, employed structured clinical interviews. Hoshiai
+et al. (2010) observed that investigations that use structured clinical interviews typically report
+higher comorbidity rates than investigations that do not, and they suggested that the latter studies
+could easily underestimate the prevalence of comorbid conditions:
+Studies using the structured clinical interview revealed a relatively high comorbidity rate of Axis I
+disorders (30–67%), while studies without a structured interview showed a lower comorbidity rate of
+Axis I disorders (4–19%). The possibility that clinical diagnosis without a structured interview missed
+psychiatric comorbidity among GID patients cannot be denied. (p. 517)
+
+Some reports that found a relatively low prevalence of comorbid psychopathology also have
+other methodological limitations that render their conclusions questionable.
+Five studies that found little or no increased prevalence of associated psychopathology in adults
+with GD are summarized in Supplemental Table 2 (follow the Supplemental Material link
+in the online version of this article or at http://www.annualreviews.org). The report by Fisher
+et al. (2013) is arguably the most detailed and methodologically sound; the prevalence figures it
+found for current and lifetime associated psychopathology (approximately 15–20% current, and
+approximately 30% lifetime) are lower than most of the studies listed in Supplemental Table 1
+and are not greatly different from general population estimates in Western countries. Fisher et al.
+found an especially low prevalence of personality disorders—lower than in the general population.
+The report by Colizzi et al. (2014) described the same client cohort as the report by Colizzi
+et al. (2015) in Supplemental Table 1 but found much lower prevalence figures for associated
+psychopathology; the reasons for this difference are unclear, although it was noted that there were
+“several patients with substantial functional impairment that did not receive a standard diagnosis
+based on the DSM-IV-TR criteria due to an insufficient number/duration of symptoms” (p. 71).
+The final three studies listed in Supplemental Table 2 are methodologically less strong
+and may have underestimated the prevalence of comorbid psychopathology. The low prevalence
+figures reported by Hoshiai et al. (2010) are especially puzzling, given the very high prevalence
+of suicidal ideation, suicide attempts, and self-harm among their participants. Reports by Terada
+et al. (2011, 2012), which examined subsets of the larger client cohort described by Hoshiai et al.
+and which are not included in the table, found almost identical results: Comorbid psychiatric
+diagnoses were uncommon, but approximately three-quarters of clients reported suicidal ideation
+or suicide attempts.
+228
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Self-Report Measures of Associated Psychological Symptoms
+Several investigators have used self-report measures, including the Symptom Checklist-90-Revised
+(SCL-90-R), MMPI, and MMPI-2, to examine psychiatric symptoms in adults with GD. Reports
+using the SCL-90-R have generally found that GD clients—at least prior to treatment—have significantly higher mean scores than healthy control subjects (Auer et al. 2013b, Davey et al. 2014,
+Haraldsen & Dahl 2000, Heylens et al. 2014b, Simon et al. 2011). Haraldsen & Dahl (2000) also
+found, however, that the GD clients had significantly lower mean scores than clinical clients with
+personality disorders. Differences between the mean SCL-90-R scores of GD clients and healthy
+control subjects, although statistically significant, were typically small and in most cases clinically
+unimportant. Unfortunately, investigators have not systematically examined differences in the percentages of clinically elevated SCL-90-R scores between GD clients and healthy control subjects.
+Several studies have used the MMPI or MMPI-2 to assess psychopathology in adults with GD.
+Most investigations conducted prior to 2000, however, involved small numbers of participants,
+and their results have been inconsistent or contradictory (for reviews, see Gómez-Gil et al. 2008,
+Miach et al. 2000). In one of the larger pre-2000 studies, which involved 93 MtFs and 44 FtMs,
+Cole et al. (1997) found that mean MMPI clinical scale scores were in the normal range for both
+MtF and FtM participants, but more than 20% of participants had T scores ≥70 on at least one
+clinical scale, excluding the Gender Identity Scale (Mf ). Miach et al. (2000) and Gómez-Gil et al.
+(2008) found similar results using the MMPI-2: Clients with GD had mean clinical scale scores
+in the normal range, but 28% of MtFs and 27% of FtMs had T scores ≥65 on one or more
+clinical scales (excluding Mf ), especially those measuring depressive, psychopathic, paranoid, or
+schizophrenic traits.
+
+Increased Prevalence of Suicidality and Self-Harm
+Supplemental Table 3 (follow the Supplemental Material link in the online version of this article or at http://www.annualreviews.org) summarizes the results of 13 studies that investigated
+suicidality and self-harm in adults with GD. These studies suggest that about one in three adults
+with GD has experienced suicidal ideation, attempted suicide, or engaged in suicidal or nonsuicidal self-harm. The results described by Dhejne et al. (2011)—a greatly increased likelihood of
+attempted and completed suicide a decade or more after completion of SRS—are particularly disconcerting. Prevalence figures for suicide attempts, which usually reflect self-reports, vary widely
+between studies—probably a result of varying standards for what constitutes an attempt. Dhejne
+et al. (2011) found a 9.0% prevalence of documented suicide attempts in adults with GD over
+a minimum 10-year follow-up period, compared to a 1.4% prevalence in age- and sex-matched
+control subjects.
+
+Supplemental Material
+
+Explanations of Associated Psychopathology
+Mental health professionals who agree that GD is a genuine mental disorder would probably
+consider the increased prevalence of associated psychopathology in adults with GD unsurprising,
+given that different types of mental disorders are significantly correlated with each other and that
+having one mental disorder greatly increases the probability of having one or more other mental
+disorders (Caspi et al. 2014, Newman et al. 1998). Mental health professionals who doubt that
+GD is a genuine mental disorder generally invoke other explanations to account for the increased
+prevalence of associated psychopathology; these include the psychological consequences of gender
+incongruence and especially the effects of minority stress (Meyer 2003), a term that refers to the
+www.annualreviews.org • Gender Dysphoria in Adults
+
+229
+
+ARI
+
+24 February 2016
+
+11:49
+
+stressful consequences of the prejudice, discrimination, and victimization that persons with GD
+often experience.
+Meta-analytic reviews (Pascoe & Smart Richman 2009, Pieterse et al. 2012) demonstrate that
+perceived prejudice and discrimination are associated with an increased prevalence of mental
+health problems in minority groups, although effect sizes are small to medium: typical correlations
+are about 0.20. Moreover, direction of effect cannot be conclusively determined (i.e., whether
+prejudice and discrimination lead to a greater likelihood of developing mental health problems,
+or whether mental health problems lead to a greater likelihood of experiencing—or perceiving—
+prejudice and discrimination).
+Several studies have investigated the relationship between psychosocial variables and associated
+psychopathology or related symptoms (suicidality or self-harm) in persons with GD. Perceived
+prejudice and discrimination have been found to be positively associated with general mental health
+symptoms (Bockting et al. 2013), depression (Nuttbrock et al. 2013), suicidality (Clements-Nolle
+et al. 2006), and self-harm (Claes et al. 2015). One study with implications for direction of effect
+(Nuttbrock et al. 2013) found that gender-related abuse that had been experienced a year earlier
+was associated with current depression in MtFs age 30 or younger—but not in MtFs older than
+age 30. Bauer et al. (2015) found that greater social support was associated with less suicidality.
+A number of studies have found that receiving treatment for GD, especially hormone treatment, is associated with lower levels of psychopathology (Colizzi et al. 2014, 2015; Gorin-Lazard
+et al. 2013; Heylens et al. 2014b; Murad et al. 2010; Newfield et al. 2006) and suicidality (Bauer
+et al. 2015). Conversely, anxiety and depression are more prevalent early in the transition process
+(Budge et al. 2013). Clients who have completed at least a year of hormone therapy and cross-living
+and are applying for SRS demonstrate less psychopathology than clients undergoing evaluation
+for hormone therapy (Gómez-Gil et al. 2008). In contrast to many of these findings, Dhejne et al.
+(2011) reported that even after successful completion of SRS—and after adjustment for pretreatment psychopathology—transsexuals exhibited much higher prevalence rates for psychopathology
+and suicidality than age- and sex-matched control groups.
+Investigators have also reported a few findings that are not easy to reconcile with the hypotheses that gender incongruence and minority stress are causally related to a higher prevalence
+of psychopathology in adults with GD. For example, Bockting et al. (2013) found no significant association between self-reported GD (as a symptom, not a formal diagnosis) and symptoms
+of psychopathology in transgender adults. Moreover, Heylens et al. (2014a) and Terada et al.
+(2012) found no significant relationship between age of onset of GD and prevalence of comorbid
+psychopathology, which seems contrary to the expectation that an earlier onset of GD and a consequent lengthier exposure to experiences of prejudice and discrimination ought to be associated
+with more prevalent psychopathology. Interestingly, Terada et al. (2012) found that nonhomosexual orientation in MtFs and analloeroticism (lack of attraction to either men or women) in FtMs
+was positively associated with comorbid psychopathology.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+CAUSAL MECHANISMS
+Understanding the genesis of GD has relied on some general principles about “normative” or sextypical psychosexual development. A simple model is that the mechanisms involved in normative
+sex-dimorphic psychosexual differentiation (including gender identity itself ) are inverted in the
+development of GD. Thus, a normative sex differentiation model, not only as used in human
+studies but also in scores of animal studies (Wallen 2009), has guided much of the causal mechanism
+research on the development of GD, whether such research is biological or psychosocial. It is,
+
+230
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+however, important to note that within-sex models have also been utilized; such models involve
+the identification of mechanisms that might explain a within-sex difference in a sex-dimorphic
+trait. An example of this would be the fraternal birth order effect, namely, the finding that gay
+men have more older brothers than do heterosexual men. Although there is an enormous sex
+difference in sexual orientation, the hypothesized mechanism regarding the fraternal birth order
+effect applies only to males (Blanchard 2004).
+
+Biological Processes
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+In this section, we summarize research on biological mechanisms in two areas: genetics and the
+role of prenatal sex hormones, including their effects on putative sex-dimorphic neural structures.
+Genetics. Family and twin studies have examined whether genetic factors contribute to the development of gender identity, GD, and related phenomena (Burri et al. 2011, Gómez-Gil et al.
+2010, Heylens et al. 2012, Loehlin et al. 2005). Loehlin et al. (2005) examined the heritability of
+gender diagnosticity, a scale that predicts whether an individual is masculine or feminine based on
+gender-related interests: 25% to 47% of the total variance was explained by genetic factors. Recalled gender nonconformity was studied in adult twins, with heritability estimates ranging from
+0.50 to 0.57 in men and from 0.37 to 0.40 in women (Bailey et al. 2000). Burri et al. (2011) examined recalled childhood gender typicality, sexual orientation, and adult gender identity. Heritability for the Adult Gender Identity Scale was only 0.11. A study in twins of which one was diagnosed with GID showed that 39.1% of the monozygotic twins were concordant for GID, whereas
+none of the dizygotic twins were concordant (Heylens et al. 2012).
+Genes that are involved in either sex steroid biosynthesis or action have been investigated
+because it is known that sex steroids contribute to the sexual differentiation of the brain. Complete
+loss of function of the androgen receptor in XY individuals with complete androgen insensitivity
+syndrome almost invariably results in a female gender identity; therefore, it may be a candidate
+gene that affects gender identity development. In MtFs, a longer CAG repeat length polymorphism
+in the androgen receptor was found (Hare et al. 2009), but another study with a larger sample failed
+to replicate this finding (Fernández et al. 2014b). Estrogen receptor (ER) genes have also been
+studied. The prevalence of a long CA repeat in ERβ was found to be higher in MtF transsexuals
+than in control men (Henningsson et al. 2005). Because the CYP19 is important for aromatization
+of androgens into estrogens, this gene may be another candidate, but none of the studies found
+support for this gene’s involvement in the development of GD (Fernández et al. 2014b, Hare et al.
+2009, Henningsson et al. 2005, Ujike et al. 2009). In FtMs, there was a link to the CYP17 gene
+(Bentz et al. 2008) and to polymorphism of the ERβ gene (Fernández et al. 2014a), but another
+study did not find any associations with these polymorphisms (Ujike et al. 2009).
+At present, no strong candidate gene has been found that can account for the development
+of GD. Many human traits and diseases have a polygenic architecture, where the phenotype is
+determined by variation in many genes. This is plausibly the case for GD, and future studies
+should determine if the architecture is polygenic or if there are specific loci with larger effects. In
+addition, gender identity is most likely a complex trait that results from a combination of multiple
+genetic and environmental factors. In twin, adoption, or family studies, these factors can be dissected. Furthermore, phenotypes should be carefully defined, and homogeneous groups should be
+compared. In neuroimaging studies (see below), attention has now been drawn to the importance
+of describing the phenotypes and taking into account sexual orientation and age of onset.
+
+www.annualreviews.org • Gender Dysphoria in Adults
+
+231
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Prenatal sex hormones. Sexual differentiation of all somatic tissues has long been ascribed to
+exposure of androgenic hormones in the fetus (Bocklandt & Vilain 2007), resulting in masculine
+phenotypes in the presence of androgenic hormones and feminine phenotypes in the absence
+of these hormones. These early effects of sex hormones on the brain are denoted as organizing
+effects, as opposed to effects of circulating hormones later during life on the already organized
+neural system (Phoenix et al. 1959). It is hypothesized that feelings of gender incongruence may
+arise from atypical sexual differentiation of the brain under the influence of prenatal hormones
+(Swaab & Garcia-Falgueras 2009). Time windows for prenatal development of genitals and the
+brain are believed to differ; thus, exposure to atypical levels of prenatal hormones during a certain
+gestational period may have an effect on the brain but not the body.
+
+Supplemental Material
+
+232
+
+Sex-dimorphic neural structures. In the search for neurobiological underpinnings of GD, brain
+structure and function have been studied to determine whether the brains of transgender individuals show atypical sexual differentiation. A series of Dutch studies fueled this line of research
+by showing female-typical hypothalamic nuclei in MtF transsexuals (Garcia-Falgueras & Swaab
+2008, Kruijver et al. 2000, Zhou et al. 1995). The aim of subsequent imaging studies was to determine whether the brains of people with GD would show more resemblance to their experienced
+gender than their natal sex. Supplemental Table 4 (follow the Supplemental Material link
+in the online version of this article or at http://www.annualreviews.org) summarizes imaging
+studies in adults with GD before the start of cross-sex hormone treatment.
+Gray matter is one of the main components of the CNS and largely consists of neuronal cell bodies. Studies of nonhomosexual MtFs have shown that gray matter volumes were largely in line with
+their natal sex (Luders et al. 2009, Savic & Arver 2011). For homosexual MtFs, some differences
+have been observed: Like control women, homosexual MtFs showed larger gray matter volumes in
+comparison with male controls and FtMs in several cortical regions (Simon et al. 2013). Another
+measure of gray matter volume is cortical thickness (CTh). CTh is generally higher in women
+than in men. Homosexual MtFs showed CTh similar to that of female controls but increased
+CTh compared with male controls in the orbito-frontal, insular, and medial occipital regions of
+the right hemisphere (Zubiaurre-Elorza et al. 2013). Using this measure, nonhomosexual MtFs
+also showed higher CTh compared with control men (Luders et al. 2012).
+The putamen, a nucleus that is part of the basal ganglia and mainly associated with motor
+regulation, is the only subcortical structure that has shown differences, although the findings are
+diverse: The right putamen of nonhomosexual MtFs was larger than that of control men and was
+in the female range in one study (Luders et al. 2009), but relatively smaller than that of male and
+female controls in another study (Savic & Arver 2011). In homosexual MtFs, the volume of the
+putamen was comparable to that of male and female controls (Zubiaurre-Elorza et al. 2013).
+White matter mainly contains myelinated nerve fibers. Diffusion tensor imaging (DTI) is a
+technique that is used to visualize white matter microstructure. One DTI study found that homosexual MtFs had a pattern that was significantly different from control men and control women
+(Rametti et al. 2011b) and the values were in between male and female controls. A similar picture,
+but with another DTI measure, was found in MtFs (in both homosexual and nonhomosexual subgroups): Mean diffusivity values were increased compared to control males (Kranz et al. 2014b).
+Structural connectivity networks were also examined in the same participants (Hahn et al. 2014).
+A decreased hemispheric connectivity ratio in subcortical/limbic regions was found in mainly
+nonhomosexual MtFs compared to control men and women, which seemed to be related to an
+increased interhemispheric lobar connectivity.
+With regard to the sexual differentiation hypothesis, the following picture now emerges, taking
+sexual orientation into account: Homosexual MtFs are dissimilar to their natal sex in gray matter
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+volume (Simon et al. 2013), CTh (Zubiaurre-Elorza et al. 2013), and white matter microstructure (Rametti et al. 2011b). For nonhomosexual MtFs, the picture is less clear: Their gray matter
+volumes were in line with their natal sex (Luders et al. 2009, Savic & Arver 2011), but they do
+show differences in white matter microstructure compared to control men (Kranz et al. 2014b).
+However, all groups in the Kranz et al. study were mixed with regard to sexual orientation, which
+may have affected the results. Overall, evidence supports the sexual differentiation hypothesis in
+homosexual MtFs, but not in nonhomosexual MtFs. Natal women with GD are more homogeneous with regard to sexual orientation (most are homosexual). FtMs (like control men) had larger
+gray matter volumes than female controls and MtFs in several areas (Simon et al. 2013), and similar
+CTh to control women (Zubiaurre-Elorza et al. 2013). Like male controls, they had a larger volume of the putamen than female controls (Zubiaurre-Elorza et al. 2013). White matter FA values
+of FtMs were significantly greater than those of female controls but similar to those of male controls in several fascicles (Rametti et al. 2011a). In one of the fascicles, the corticospinal tract, FtMs
+had values in between male and female controls. Kranz et al. (2014b) found a significant decrease
+in mean diffusivity values in FtMs compared with control females. Intrahemispheric connectivity
+between the right subcortical/limbic and right frontal and temporal lobes was decreased in FtMs
+compared with male and female controls and MtFs (Hahn et al. 2014). All structural studies in
+adult FtMs thus far render support for atypical sexual differentiation of their brains.
+
+Neural functioning. Functional connectivity is a method to evaluate interactions between regions while performing a task (task-related functional connectivity) or while not performing a
+particular task (resting-state connectivity). While viewing erotic and nonerotic interactions of
+male-female couples, the functional connectivity of MtFs and FtMs (as a group) showed an increase between the ventral tegmental area and the anterior cingulate cortex subregions compared
+to controls (men and women together) (Ku et al. 2013). It was argued that because the ventral
+tegmental area is associated with dimorphic genital representation and the anterior cingulate cortex is central in conflict monitoring and social processing, the pattern could be a substrate of the
+psychological distress of transgender individuals. These findings should thus not be viewed in
+the realm of the sexual differentiation hypothesis, but rather are more suggestive of the brain’s
+substrate for incongruence between body and identity.
+Functional studies that focus on homosexual MtF adults do not exist, nor are there studies
+that compare homosexual with nonhomosexual MtF adults. In nonhomosexual MtFs, a femalelike response in hypothalamic activation while smelling odorous steroids (Berglund et al. 2008)
+and brain activity while viewing erotic videos (Gizewski et al. 2009) were detected, arguing for
+sex-atypical reactions in these groups. Brain activation patterns during voice perception of a sexualorientation mixed group of MtFs differed from those of men and, partly, also of women ( Junger
+et al. 2014). Differences were shown in brain activation during a visuospatial task in MtFs with
+unknown sexual orientation in comparison with controls of their natal sex (Schöning et al. 2010).
+While processing positive affective images, FtMs under gonadal suppression with
+gonadotropin-releasing hormone agonists (GnRHa) showed less activation in the right superior temporal lobe compared to control women (Soleman et al. 2016). The findings may well be
+related to their GD instead of the GnRHa treatment because no associations with hormonal levels
+were found.
+Kranz et al. (2014a) studied the hemispheric asymmetry in the cerebral serotonin transporter
+system in males, females, and MtF transsexuals because lateralization of emotional processing
+has been shown. Serotonin is known to play an important role in emotional processing, and
+hemispheric asymmetry of the serotonin system has been reported as well. MtFs differed from
+www.annualreviews.org • Gender Dysphoria in Adults
+
+233
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+male controls in the midcingulate cortex (rightward asymmetry for male controls but not for MtFs
+and female controls) and from female controls in the calcarine gyrus. It was concluded that MtFs
+show asymmetries of the serotonin transporter system “that relate to both genetic sex, gender and
+a special feature of gender dysphoria” (p. 180).
+In sum, findings indicate structural as well as functional alterations in the brains of transgender
+individuals, either as a consequence of atypical sexual differentiation or as a result of a mismatch
+between their anatomical sex characteristics and their gender identity. Brain changes may also be
+triggered by psychological distress. Future studies should carefully consider the phenotypes of
+participants, ideally combining genetic profiles with neuroimaging measures.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Psychosocial Processes
+Nascent markers of gender identity emerge very early in development (Martin et al. 2002). To
+the extent that gender identity is a stable trait, psychosocial factors—to truly merit causal status—
+should be able to account for the emergence of a cross-gender identity in the first few years of life,
+when it is first expressed. Otherwise, psychosocial factors would be better conceptualized as having
+a perpetuating role. If psychosocial factors can also account for instances of a cross-gender identity
+that first manifest in adolescence or even later (the late-onset form of GD discussed previously),
+they should also be operative prior to the time of onset.
+Given these assumptions, it is obvious that the study of causal psychosocial factors in adults
+with GD faces methodological barriers because it largely relies on retrospective methods, which
+are subject to many interpretive problems. As an example, Cohen-Kettenis & Arrindell (1990) had
+both MtF and FtM adult clients rate their parents on the Egna Minnen av Barndoms Uppfostran (My
+Memories of Upbringing) questionnaire with regard to three dimensions of behavior: rejection,
+emotional warmth, and overprotection (e.g., intrusiveness, strictness). Compared to a volunteer
+sample of male community controls, the MtF clients did not differ significantly in their recollection
+of maternal behavior; however, fathers were rated as significantly more rejecting, less warm, and
+more overprotective. The FtM clients rated their mothers as significantly more rejecting, less
+warm, and more overprotective than the female controls. They also rated their fathers as more
+rejecting and less warm.
+Regarding the MtF data, it could be argued that there was no support for the maternal overcloseness hypothesis theorized to play a role in the development of GD (Stoller 1968); however,
+ratings of the fathers could be interpreted as support for a distance hypothesis (Green 1987).
+Regarding the FtM data, it could be argued that there was support for a maternal undercloseness
+hypothesis that has been theorized (Stoller 1975), but there was no support for an overcloseness
+hypothesis with the father, since the fathers were also rated as more rejecting and less warm.
+Consider three challenges in interpreting these kinds of data. First is the direction-of-effect
+conundrum. For example, perhaps fathers of MtF clients were more rejecting because they
+themselves were alienated by the feminine-gendered behaviors of their son in childhood, so the
+direction of effect was from son to father, not father to son (Freund & Blanchard 1983). Second,
+the community controls were volunteers, so it is conceivable that this was a source of bias (e.g.,
+perhaps they were more likely than a truly random sample to come from families that were more
+harmonious). Third, the study lacked a clinical control group. A control group would have been desirable to determine whether the adult clients with GD recalled patterns of parental behavior that
+were unique or simply characteristic of clinical populations in general (Garber & Hollon 1991).
+One conceptual issue is the extent to which gender identity is a stable, within-person trait,
+almost impervious to external influences once it has become internalized. An ideal study would be
+to sample a representative cohort of young children who have a clear-cut identity as a boy or as
+234
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+a girl and to assess their gender identity again much later in development (e.g., in adolescence or
+adulthood) in order to examine its stability. Although the data are limited, some evidence suggests
+that gender identity is likely a very stable trait. In Green’s (1987) study of very feminine boys, a
+control sample of boys, who were all behaviorally masculine in childhood and presumably had a
+male gender identity, all had a male gender identity at follow-up in late adolescence. Steensma
+et al. (2013b) used data from a longitudinal study of 879 Dutch children to assess the stability in
+gender identity at two time points: any time between 4 and 12 years of age and then 24 years later
+(mean ages, 7.5 years and 30.9 years, respectively). On the Child Behavior Checklist, 818 parents
+indicated that their child did not express a wish to be of the other gender or to behave like the
+other gender. At follow-up, 98.8% of these now grown-up children did not self-report a desire to
+be of the other gender.
+In clinical populations of children with GD, however, gender identity stability is less certain.
+A number of studies have shown that the majority of these children do not persist in their desire
+to be of the other gender when followed up in late adolescence or adulthood (Drummond et al.
+2008, Green 1987, Singh 2012, Wallien & Cohen Kettenis 2008), particularly in samples in which
+a social transition to living as the desired gender has not occurred prior to puberty (Steensma et al.
+2013a).
+If children with GD shift their gender identity in a direction that is more congruent with
+their natal sex, and if there are some adults who initially identify as a sexual orientation minority
+(Diamond & Butterworth 2008) but then shift their gender identity so that it is no longer congruent with their natal sex, then it becomes important to understand the proximal factors that might
+contribute to this change. One such factor may involve an iterative matching process between surface expressions of gender role behavior and identity. Many children with GD show a diminution
+of their cross-gender role behavior over time, which may lead to a shift in their underlying gender
+identity or identification. Conversely, adults with a minority sexual identity and who have a history of marked gender-nonconforming behavior may eventually settle on a cross-gender identity
+that is more comfortable for them, as noted by Diamond & Butterworth (2008). Taken together,
+these data suggest that, for at least some individuals, gender identity may be a more dynamic, fluid
+process than previously thought.
+
+THERAPEUTICS
+The treatment of adults with GD is now largely standardized in developed countries, reflecting the
+influence of clinical guidelines promulgated by professional associations. The Standards of Care
+for the Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7 (SOC-7;
+Coleman et al. 2011) is the best known and most influential guideline; similar recommendations
+have been published by the Royal College of Psychiatrists (Wylie et al. 2014), a task force of
+the American Psychiatric Association (Byne et al. 2012), the Endocrine Society (Hembree et al.
+2009), and other professional groups (for reviews, see Gooren & Asscheman 2014, Lawrence 2014,
+Monstrey et al. 2014). These guidelines represent the views of experienced clinicians and scholars,
+but many of their recommendations reflect a low quality of evidence (i.e., case-series reports and
+expert opinion) (Byne et al. 2012).
+The following subsections examine recent developments and controversies related to the treatment of adults with GD. Two broad themes underlie these analyses. First, the contemporary
+emphasis on reducing barriers to care and promoting client autonomy and self-determination is
+not easily reconciled with some elements of current treatment guidelines. Second, the increasing
+diversity of adults who qualify for a GD diagnosis has not been matched by an expanded range of
+treatment options addressing this diversity.
+www.annualreviews.org • Gender Dysphoria in Adults
+
+235
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Diagnosing GD and Comorbid Conditions and the Role
+of Mental Health Professionals
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+The SOC-7 rescinded the longstanding requirement that the diagnosis of GD and any associated
+psychopathology be made by mental health professionals (MHPs). Now, any “health professional
+who is appropriately trained in behavioral health and competent in the assessment of gender
+dysphoria” (Coleman et al. 2011, p. 181) may make these diagnoses and any contingent treatment
+recommendations. This change, intended to reduce barriers to care, may unintentionally result in
+underdiagnosis of comorbid psychopathology. As noted previously, even experienced MHPs tend
+to underdiagnose comorbid psychopathology unless they employ structured clinical interviews.
+MHPs have historically served as gatekeepers as well as diagnosticians for adults with GD,
+because eligibility for hormone therapy and SRS has traditionally been contingent on assessments
+that only MHPs were considered qualified to make. Some clinicians believe that such gatekeeping
+functions are unnecessarily time consuming and potentially undermine individuals’ autonomy
+and choice (Bouman & Richards 2013). The SOC-7 and other guidelines have deemphasized
+the role of MHPs in recommending hormone therapy: Physicians are now allowed to prescribe
+hormones without a MHP’s recommendation, particularly for clients using hormones without
+medical supervision (Coleman et al. 2011, pp. 187, 191–192; Wylie et al. 2014, pp. 176–177). This
+approach to prescribing is sometimes referred to as the informed consent model (Coleman et al.
+2011, Deutsch 2012).
+This liberalized approach reflects contemporary clinical realities, particularly the widespread
+use of nonprescribed hormones by persons with GD. Gómez-Gil et al. (2009) reported that
+approximately 60% of Spanish MtF applicants for sex reassignment had taken hormones without
+medical supervision (see also Simonsen et al. 2015). Interestingly, some evidence indicates that
+adults with GD who disregard traditional treatment guidelines and undergo hormone therapy
+without the recommendation of a psychiatrist achieve psychosocial outcomes similar to those of
+more compliant clients and achieve them more quickly (Pimenoff & Pfäfflin 2011).
+It is not always clear what the informed consent model means. Deutsch (2012), who surveyed
+12 clinics that claimed to prescribe hormones using this model, found that whereas “only four of
+the 12 sites required any contact with a mental health provider” (p. 141), the average time clients
+spent with MHPs during the intake process was 2.4 hours. Five clinics required a minimum
+number of visits or imposed specified waiting periods before prescribing, suggesting a belief that
+meaningful informed consent cannot be obtained quickly. It remains unclear whether informed
+consent prescribing requires a formal diagnosis of GD or whether any transgender adult who is
+able to give consent can receive hormones, regardless of diagnosis. It is similarly uncertain whether
+informed consent requires that any comorbid psychopathology be satisfactorily controlled. A close
+reading of the SOC-7 suggests that the latter is required—and that the informed consent model
+is not very different from the standard model:
+The difference between the Informed Consent Model and SOC, Version 7, is that the SOC puts greater
+emphasis on the important role that mental health professionals can play in alleviating gender dysphoria . . . In the Informed Consent Model, the focus is on obtaining informed consent as the threshold
+for the initiation of hormone therapy . . . Less emphasis is placed on the provision of mental health
+care . . . unless significant mental health concerns are identified that would need to be addressed before
+hormone prescription. (Coleman et al. 2011, p. 188)
+
+It appears that what one might intuitively consider “informed consent prescribing”—offering
+medically supervised hormone therapy without preconditions or delay to any transgender person
+236
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+who requests it, is competent to consent (i.e., not psychotic or grossly mentally impaired), and
+has received basic information about risks and benefits—is not yet widely available. Given the
+prevalence of unsupervised hormone use, such a development is arguably overdue.
+
+Counseling and Psychotherapy for Adults with Gender Dysphoria
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+In past decades, helping adults with GD find greater acceptance and comfort with their natal sex
+and assigned gender was considered a legitimate goal of counseling and psychotherapy, especially
+when undertaken at the client’s request. Current guidelines, however, describe such efforts as both
+futile and unethical. According to the SOC-7:
+Treatment aimed at trying to change a person’s gender identity and lived gender expression to become
+more congruent with sex assigned at birth has been attempted in the past (Gelder & Marks 1969;
+Greenson 1964), yet without success, particularly in the long-term (Cohen-Kettenis & Kuiper 1984;
+Pauly 1965). Such treatment is no longer considered ethical. (Coleman et al. 2011, p. 186)
+
+The citations allegedly demonstrating that such treatment efforts are “without success” date from
+30 to 50 years ago, when adults with GD were much less prevalent and diverse than today. It is
+recognized that GD can remit in some cases (Marks et al. 2000); perhaps psychotherapy could
+facilitate such remission—or a reduction in GD symptoms, with greater congruence between
+gender identity and expression and assigned sex—in some subset of the diverse group of adults
+whose gender problems now qualify for a diagnosis of GD. Unfortunately, these possibilities have
+not yet been investigated, and such investigations are strongly discouraged in the SOC-7. If a
+client with GD decided that overt cross-gender expression carried too great a risk of unacceptable
+consequences and requested a psychotherapist’s help in trying to make their gender identity
+and gender expression more congruent with their assigned sex, would the therapist’s participation
+always be unethical, as the SOC-7 seems to assert? If so, the SOC’s position would seem to conflict
+with the client’s right to autonomy and self-determination. Perhaps the overarching treatment
+goal of psychotherapy for GD—“long-term comfort in . . . gender identity expression, with realistic
+chances for success in . . . relationships, education, and work” (Coleman et al. 2011, p. 184)—could
+sometimes best be achieved by supporting clients in a decision to forego gender transition or
+overt public cross-gender expression. This psychotherapeutic aim, which was explicitly set forth
+in version 6 of the SOC [i.e., “acceptance of the need to maintain a job, provide for the emotional
+needs of children, honor a spousal commitment, or not to distress a family member as currently
+having a higher priority than the personal wish for constant cross-gender expression” (Meyer et al.
+2001, pp. 19–20)], was expunged from the SOC-7.
+These issues assume greater importance in light of recent evidence that sex reassignment is
+associated with more serious psychological sequelae and more prevalent regret than had previously
+been supposed. Two large population-based studies from Sweden (Dhejne et al. 2011, 2014)
+are particularly relevant. The 2011 study, discussed previously, described the greatly elevated
+prevalence of comorbid psychopathology, death by suicide, and suicide attempts in the cohort of
+clients who underwent SRS between 1973 and 2013. The 2014 study examined the prevalence of
+“regret applications” (applications for reversal of legal sex reassignment) in clients who underwent
+SRS during the 1960–2010 period. Only 2.2% of these clients submitted regret applications, over
+one-quarter of which came from the small cohort of clients who underwent SRS before 1972. But
+regret applications were made a median of eight years after SRS, so some clients who underwent
+SRS recently may yet submit such applications. Moreover, whereas only 10 clients who underwent
+SRS between 1972 and 2000 submitted regret applications, 10 others who underwent SRS between
+www.annualreviews.org • Gender Dysphoria in Adults
+
+237
+
+ARI
+
+24 February 2016
+
+11:49
+
+1973 and 2003 died by suicide, and another 29 made documented suicide attempts (Dhejne et al.
+2011). This suggests that regret applications underestimate the prevalence of genuine regret
+or dissatisfaction after sex reassignment. Moreover, 3.3% of applications for SRS were denied,
+sometimes due to comorbid psychopathology or failure to meet diagnostic criteria; had these
+applicants undergone SRS under more liberal standards, they might have contributed to a still
+greater prevalence of regret. Although a 2.2% prevalence of regret after SRS thus represents a
+conservative estimate, it substantially exceeds figures previously reported by Pfäfflin (1992; 1.0–
+1.5%) and Weitze & Osburg (1996; 0.4%). As Dhejne et al. (2014) noted, “This [difference] might
+be explained by the extensive follow-up time in the present study and by the fact that virtually all
+cases of regrets are captured in the Swedish registry system” (p. 1543).
+A recent meta-analysis by Murad et al. (2010), examining outcomes of sex reassignment in
+1,833 participants, confirmed both the benefits and limitations of this treatment. About 86% of
+FtMs and 71% of MtFs reported improvement in GD symptoms after sex reassignment; about
+84% of MtFs and 78% of FtMs reported improvement in quality of life. Thus, it appears that about
+20% of clients do not experience significant benefit from sex reassignment. Many adults with GD
+who now undergo sex reassignment would have been considered unsuitable or risky candidates in
+years past (Dhejne et al. 2014). Smith et al. (2005) observed that factors predictive of less satisfactory functioning after sex reassignment included nonhomosexual orientation relative to natal sex,
+greater dissatisfaction with secondary sex characteristics, and more comorbid psychopathology,
+yet adults with late-onset GD and nonhomosexual orientation, physical characteristics that are
+highly incongruent with the desired sex, and significant comorbid psychopathology increasingly
+request and undergo sex reassignment. Perhaps the SOC should reinstate its endorsement, at least
+in certain cases, of psychotherapy that aims to increase comfort with assigned sex and gender role
+and discourages sex reassignment.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+Real-Life Experience in the Preferred Gender Role
+It is now accepted that not all persons with GD will want or need all of the treatment elements
+available to them. Accordingly, the SOC-7 endorses hormone therapy, real-life experience (RLE),
+and SRS without psychotherapy; hormone therapy and RLE without SRS; and even RLE and SRS
+without hormone therapy in certain cases. The ordinary eligibility requirements in the SOC-7,
+however, do not allow SRS without a 12-month, full-time RLE, even when the client does not
+desire a RLE. This exception to the principle of client autonomy and self-determination has never
+been seriously challenged, despite a dearth of evidence supporting the value of RLE as an eligibility
+criterion for SRS (Lawrence 2013, Levine 2009). Recognizing that SRS has significant risks, the
+SOC-7 does not require adults with GD to undergo SRS if they can achieve satisfactory relief of
+GD with hormone therapy and RLE alone. But RLE also carries significant psychosocial risks,
+including loss of employment, impaired relationships with family and friends, and gender-based
+discrimination and physical and mental abuse. Given these risks, the SOC arguably should not
+require adults with GD to undertake a RLE if they can achieve satisfactory relief of GD with
+hormone therapy and SRS alone.
+This issue will probably soon become moot in light of language in the DSM-5 specifying
+that adults with “a strong desire for the primary and secondary sex characteristics of the other
+gender” can qualify for a diagnosis of GD on the basis of “a strong desire to be of the other
+gender (or some alternative gender different from one’s assigned gender)” (Am. Psychiatr. Assoc.
+2013, p. 452). Consequently, adults with GD who want to undergo SRS to achieve the primary
+sex characteristics of the other gender but who identify with an “alternative gender” comprising
+both male and female elements could theoretically satisfy the eligibility requirement of living for
+238
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+12 months in a gender role that is congruent with one’s gender identity (Coleman et al. 2011) by
+living part-time in their original gender role (e.g., in public) and part-time in the gender role of
+the other sex (e.g., in private). When this option becomes more widely appreciated, the RLE will
+be recognized as no longer meaningful and will cease to be an eligibility requirement for SRS.
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Hormone Therapy
+Recent investigations have largely confirmed the opinion that hormone therapy is an effective and
+reasonably safe treatment in adults with GD. As noted previously, Murad et al. (2010) found that
+cross-sex hormone treatment, usually accompanied by SRS, was associated with improvement in
+GD, other psychological symptoms, and quality of life in about 80% of MtFs and FtMs. Crosssectional studies have also shown that hormone-treated MtFs and FtMs who have not undergone
+SRS demonstrate significantly better quality of life (Gorin-Lazard et al. 2012), greater self-esteem,
+better mood (Gorin-Lazard et al. 2013), and less psychological distress (Heylens et al. 2014b) than
+persons who have not yet begun hormone treatment. But hormone therapy can be associated with
+significant medical complications. Wierckx et al. (2012) found that, in 50 MtF clients who had
+used feminizing hormones for a mean of 9.2 years, there were 3 (6%) thromboembolic events and
+3 (6%) other cardiovascular complications, including 2 myocardial infarctions; moreover, about
+one-quarter of MtF clients had significant osteoporosis. Wierckx et al. (2012) could not, however,
+document any significant cardiovascular events or other serious complications in 50 FtM clients
+who had used masculinizing hormones for a mean of approximately 10 years. In a subsequent
+prospective study of 53 MtFs and 53 FtMs who received cross-sex hormone therapy for one year,
+Wierckx et al. (2014) found no evidence of serious complications.
+Hormone therapy for adult males with GD has traditionally included testosterone suppression
+with spironolactone, cyproterone acetate (not available in the United States), or GnRH agonists.
+Although both the SOC-7 (Coleman et al. 2011) and the Endocrine Society guidelines (Hembree
+et al. 2009) mentioned the use of GnRH agonists in adult males with GD, the SOC-7 deemphasized GnRH agonists because of their expense and administration by injection or subcutaneous
+implantation; it described cyproterone and spironolactone as more cost effective. In contrast, the
+recent Royal College of Psychiatrists guidelines (Wylie et al. 2014) emphasized the problems
+associated with spironolactone and cyproterone acetate and recommended GnRH agonists as an
+“alternative and preferable” means of testosterone suppression in adult males with GD. GnRH
+agonists may soon supersede traditional antiandrogens in this role.
+
+Sex Reassignment Surgery
+Few controlled studies have examined the psychosocial outcomes of SRS per se. Mate-Kole et al.
+(1990) compared 20 MtFs who underwent vaginoplasty on an expedited basis with 20 wait-list
+control clients; SRS clients were more socially active and displayed less anxiety, depression, and
+obsessionality. Barrett (1998) examined psychological and social functioning in 40 FtMs who had
+undergone phalloplasty an average of four years previously and 23 FtMs who had been approved
+for, but were still awaiting, phalloplasty; there were no significant between-group differences in
+SCL-90-R scores. Udeze et al. (2008) studied 40 MtFs who completed the SCL-90-R before and six
+months after undergoing SRS, with each client acting as her own control; no significant differences
+in pre- and post-SRS scores were found. In a study discussed previously, Heylens et al. (2014b)
+compared SCL-90-R scores in 46 MtFs and 11 FtMs before treatment, after hormone therapy, and
+after SRS. Before treatment, clients’ mean subscale scores were significantly higher than those
+of general population controls. After hormone therapy, clients’ scores no longer differed from
+those of controls, but no further improvement was observed after SRS. Contemporary outcome
+www.annualreviews.org • Gender Dysphoria in Adults
+
+239
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+studies of SRS are therefore consistent with earlier ones: Although the great majority of adults
+with GD report improved subjective satisfaction, objectively measured psychological symptoms
+neither improve nor worsen after SRS.
+
+SUMMARY
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+In this article, we have provided an overview of GD in adults, including terminology and phenomenology, epidemiology, diagnosis and assessment, associated psychopathology, causal mechanisms, and therapeutics. As transgender adults have attained increasing recognition, modern
+cultures have undergone a remarkable change with regard to acceptance and support of people
+with GD, including legal recognition and better access to health care. As more transgender adults
+“come out,” we hope that this article will provide the contemporary clinician with a greater understanding of the research and clinical issues that will inform best practice in working with this
+underserved population.
+
+DISCLOSURE
+Dr. Zucker was the Chair of the DSM-5 Workgroup on Sexual and Gender Identity Disorders.
+LITERATURE CITED
+Alonso J, Lépine JP. 2007. Overview of key data from the European Study of the Epidemiology of Mental
+Disorders (ESEMeD). J. Clin. Psychiatry 68(Suppl. 2):3–9
+Am. Psychiatr. Assoc. 1968. Diagnostic and Statistical Manual of Mental Disorders. Washington, DC: Am.
+Psychiatr. Publ. 2nd ed.
+Am. Psychiatr. Assoc. 1980. Diagnostic and Statistical Manual of Mental Disorders. Washington, DC: Am.
+Psychiatr. Publ. 3rd ed.
+Am. Psychiatr. Assoc. 1994. Diagnostic and Statistical Manual of Mental Disorders. Washington, DC: Am.
+Psychiatr. Publ. 4th ed.
+Am. Psychiatr. Assoc. 2013. Diagnostic and Statistical Manual of Mental Disorders. Arlington, VA: Am. Psychiatr.
+Publ. 5th ed.
+Arcelus J, Bouman WP, Van Den Noortgate W, Claes L, Witcomb G, Fernandez-Aranda F. 2015. Systematic
+review and meta-analysis of prevalence studies in transsexualism. Eur. Psychiatry 30:807–15
+Auer MK, Fuss J, Stalla GK, Athanasoulia P. 2013a. Twenty years of endocrinologic treatment in transsexualism: analyzing the role of chromosomal analysis and hormonal profiling in the diagnostic work-up.
+Fertil. Steril. 22:1103–10
+Auer MK, Höhne N, Bazarra-Castro MÁ, Pfister H, Fuss J, et al. 2013b. Psychopathological profiles in
+transsexuals and the challenge of their special status among the sexes. PLOS ONE 8(10):e78469
+Ault A, Brzuzy S. 2009. Removing gender identity disorder from the Diagnostic and Statistical Manual of Mental
+Disorders: a call for action. Soc. Work 54:187–89
+Bailey JM, Dunne MP, Martin NG. 2000. Genetic and environmental influences on sexual orientation and its
+correlates in an Australian twin sample. J. Personal. Soc. Psychol. 78:524–36
+Bandini E, Fisher AD, Castellini G, Lo Sauro C, Lelli L, et al. 2013. Gender identity disorder and eating
+disorders: similarities and differences in terms of body uneasiness. J. Sex. Med. 10:1012–23
+Barrett J. 1998. Psychological and social function before and after phalloplasty. Int. J. Transgend. 2:1
+Bauer GR, Scheim AI, Pyne J, Travers R, Hammond R. 2015. Intervenable factors associated with suicide
+risk in transgender persons: a respondent driven sampling study in Ontario, Canada. BMC Public Health
+15:525
+Bayer R. 1981. Homosexuality and American Psychiatry: The Politics of Diagnosis. New York: Basic Books
+Becker I, Nieder TO, Cerwenka S, Briken P, Kreukels BPC, et al. 2015. Body image in young gender dysphoric
+adults: a European multi-center study. Arch. Sex. Behav. doi: 10.1007/s10508-015-0527-z
+240
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Bentz EK, Hefler LA, Kaufmann U, Huber JC, Kolbus A, et al. 2008. A polymorphism of the CYP17 gene
+related to sex steroid metabolism is associated with female-to-male but not male-to-female transsexualism.
+Fertil. Steril. 90:56–59
+Berenbaum SA, Meyer-Bahlburg HFL. 2015. Gender development and sexuality in disorders of sex development. Horm. Metab. Res. 47:361–66
+Berglund H, Lindstrom P, Dhejne-Helmy C, Savic I. 2008. Male-to-female transsexuals show sex-atypical
+hypothalamus activation when smelling odorous steroids. Cereb. Cortex 18:1900–8
+Bissinger B. 2015. Call me Caitlyn. Vanity Fair, July. http://www.vanityfair.com/hollywood/2015/06/
+caitlyn-jenner-photos-interview-buzz-bissinger
+Blanchard R. 1989. The classification and labeling of nonhomosexual gender dysphorias. Arch. Sex. Behav.
+18:315–34
+Blanchard R. 1994. A structural equation model for age at clinical presentation in nonhomosexual male gender
+dysphorics. Arch. Sex. Behav. 23:311–20
+Blanchard R. 2004. Quantitative and theoretical analyses of the relation between older brothers and homosexuality in men. J. Theor. Biol. 230:173–87
+Blanchard R. 2005. Early history of the concept of autogynephilia. Arch. Sex. Behav. 34:439–46
+Blanchard R. 2010. The DSM diagnostic criteria for transvestic fetishism. Arch. Sex. Behav. 39:363–72
+Blanchard R, Freund K. 1983. Measuring masculine gender identity in females. J. Consult. Clin. Psychol.
+51:205–14
+Blanchard R, Steiner BW, Clemmensen L, Dickey R. 1989. Prediction of regrets in postoperative transsexuals.
+Can. J. Psychiatry 34:43–45
+Bocklandt S, Vilain E. 2007. Sex differences in brain and behavior: hormones versus genes. Adv. Genet. 59:245–
+66
+Bockting W, Benner A, Coleman E. 2009. Gay and bisexual identity development among female-to-male
+transsexuals in North America: emergence of a transgender sexuality. Arch. Sex. Behav. 38:688–701
+Bockting WO, Miner MH, Swinburne Romine RE, Hamilton A, Coleman E. 2013. Stigma, mental health,
+and resilience in an online sample of the US transgender population. Am. J. Public Health 103:943–51
+Bouman WP, Richards C. 2013. Diagnostic and treatment issues for people with gender dysphoria in the
+United Kingdom. Sex. Relatsh. Ther. 28:165–71
+Budge SL, Adelson JL, Howard KA. 2013. Anxiety and depression in transgender individuals: the roles of
+transition status, loss, social support, and coping. J. Consult. Clin. Psychol. 81:545–57
+Buhrich N, McConaghy N. 1978. Two transsexuals with 47-XYY karyotype. Br. J. Psychiatry 133:77–81
+Burri A, Cherkas L, Spector T, Rahman Q. 2011. Genetic and environmental influences on female sexual
+orientation, childhood gender typicality and adult gender identity. PLOS ONE 6:e21982
+Byne W, Bradley SJ, Coleman E, Eyler AE, Green R, et al. 2012. Report of the American Psychiatric Association Task Force on Treatment of Gender Identity Disorder. Arch. Sex. Behav. 41:759–96
+Caspi A, Houts RM, Belsky DW, Goldman-Mellor SJ, Harrington H, et al. 2014. The p factor: one general
+psychopathology factor in the structure of psychiatric disorders? Clin. Psychol. Sci. 2:119–37
+Chivers ML, Bailey JM. 2000. Sexual orientation of female-to-male transsexuals: a comparison of homosexual
+and nonhomosexual types. Arch. Sex. Behav. 29:259–78
+Claes L, Bouman WP, Witcomb G, Thurston M, Fernandez-Aranda F, Arcelus J. 2015. Non-suicidal selfinjury in trans people: associations with psychological symptoms, victimization, interpersonal functioning,
+and perceived social support. J. Sex. Med. 12:168–79
+Clements-Nolle K, Marx R, Katz M. 2006. Attempted suicide among transgender persons: the influence of
+gender-based discrimination and victimization. J. Homosex. 51(3):53–69
+Cohen-Kettenis PT, Arrindell WA. 1990. Perceived parental rearing style, parental divorce and transsexualism:
+a controlled study. Psychol. Med. 20:613–20
+Cole CM, O’Boyle M, Emory LE, Meyer WJ. 1997. Comorbidity of gender dysphoria and other major
+psychiatric diagnoses. Arch. Sex. Behav. 26:13–26
+Coleman E, Bockting W, Botzer M, Cohen-Kettenis P, DeCuypere G, et al. 2011. Standards of Care for the
+Health of Transsexual, Transgender, and Gender-Nonconforming People, Version 7. Int. J. Transgend. 13:165–
+232
+www.annualreviews.org • Gender Dysphoria in Adults
+
+241
+
+ARI
+
+24 February 2016
+
+11:49
+
+Colizzi M, Costa R, Todarello O. 2014. Transsexual patients’ psychiatric comorbidity and positive effect of
+cross-sex hormonal treatment on mental health: results from a longitudinal study. Psychoneuroendocrinology
+39:65–73
+Colizzi M, Costa R, Todarello O. 2015. Dissociative symptoms in individuals with gender dysphoria: Is the
+elevated prevalence real? Psychiatry Res. 226:173–80
+Conron KJ, Scott G, Stowell GS, Landers SJ. 2012. Transgender health in Massachusetts: results from a
+household probability sample of adults. Am. J. Public Health 102:118–22
+Davey A, Bouman WP, Arcelus J, Meyer C. 2014. Social support and psychological well-being in gender
+dysphoria: a comparison of patients with matched controls. J. Sex. Med. 11:2976–85
+De Cuypere G, Elaut E, Heylens G, Van Maele G, Selvaggi G, et al. 2006. Long-term follow-up: psychosocial
+outcomes of Belgian transsexuals after sex reassignment surgery. Sexologies 15:126–33
+De Cuypere G, Janes C, Rubens R. 1995. Psychosocial functioning of transsexuals in Belgium. Acta Psychiatr.
+Scand. 91:180–84
+Deogracias JJ, Johnson LL, Meyer-Bahlburg HFL, Kessler SJ, Schober JM, Zucker KJ. 2007. The gender
+identity/gender dysphoria questionnaire for adolescents and adults. J. Sex. Res. 44:370–79
+Deutsch MB. 2012. Use of the informed consent model in the provision of cross-sex hormone therapy: a
+survey of the practices of selected clinics. Int. J. Transgend. 13:140–46
+Dhejne C, Lichtenstein P, Boman M, Johansson AL, Långström N, Landén M. 2011. Long-term followup of transsexual persons undergoing sex reassignment surgery: cohort study in Sweden. PLOS ONE
+6(2):e16885
+Dhejne C, Oberg K, Arver S, Landen M. 2014. An analysis of all applications for sex reassignment surgery in
+Sweden, 2016–2010: prevalence, incidence, and regrets. Arch. Sex. Behav. 43:1535–45
+Diamond LM, Butterworth M. 2008. Questioning gender and sexual identity: dynamic links over time. Sex
+Roles 59:365–76
+Dreger AD. 2008. The controversy surrounding The Man Who Would Be Queen: a case history of the politics
+of science, identity, and sex in the Internet age. Arch. Sex. Behav. 37:366–421
+Drescher J. 2010. Queer diagnoses: parallels and contrasts in the history of homosexuality, gender variance,
+and the Diagnostic and Statistical Manual. Arch. Sex. Behav. 39:427–60
+Drescher J. 2013. Controversies in gender diagnoses. LGBT Health 1:10–14
+Drescher J. 2015. Queer diagnoses revisited: the past and future of homosexuality and gender diagnoses in
+DSM and ICD. Int. Rev. Psychiatry 27:386–95
+Drescher J, Cohen-Kettenis P, Winter S. 2012. Minding the body: situating gender identity diagnoses in the
+ICD-11. Int. Rev. Psychiatry 24:568–77
+Drummond KD, Bradley SJ, Badali-Peterson M, Zucker KJ. 2008. A follow-up study of girls with gender
+identity disorder. Dev. Psychol. 44:34–45
+Fernández R, Esteva I, Gómez-Gil E, Rumbo T, Almaraz MC, et al. 2014a. The (CA)n polymorphism of ERβ
+gene is associated with FtM transsexualism. J. Sex. Med. 11:720–28
+Fernández R, Esteva I, Gómez-Gil E, Rumbo T, Almaraz MC, et al. 2014b. Association study of ERβ, AR,
+and CYP19A1 genes and MtF transsexualism. J. Sex. Med. 11:2986–94
+Feusner JD, Dervisic J, Kosidou K, Dhejne C, Bookheimer S, Savic I. 2015. Female-to-male transsexual
+individuals demonstrate different own body identification. Arch. Sex. Behav. doi: 10.1007/s10508-0150596-z
+First MB, Reed GM, Hyman SE, Saxena S. 2015. The development of the ICD-11 clinical descriptions and
+diagnostic guidelines for mental and behavioural disorders. World Psychiatry 14:82–90
+Fisher AD, Bandini E, Casale H, Ferruccio N, Meriggiola MC, et al. 2013. Sociodemographic and clinical
+features of gender identity disorder: an Italian multicentric evaluation. J. Sex. Med. 10:408–19
+Fisk N. 1974. Gender dysphoria syndrome (the how, what, and why of a disease). In Proceedings of the Second
+Interdisciplinary Symposium on Gender Dysphoria Syndrome, ed. D Laub, P Gandy, pp. 7–14. Palo Alto, CA:
+Stanford Univ. Press
+Freund K, Blanchard R. 1983. Is the distant relationship of fathers and homosexual sons related to the sons’
+erotic preference for male partners, of the sons’ atypical gender identity, or to both? J. Homosex. 9:7–25
+Freund K, Langevin R, Satterberg J, Steiner B. 1977. Extension of the Gender Identity Scale for males. Arch.
+Sex. Behav. 6:507–19
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+242
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Garber J, Hollon SD. 1991. What can specificity designs say about causality in psychopathology research?
+Psychol. Bull. 110:129–36
+Garcia-Falgueras A, Swaab DF. 2008. A sex difference in the hypothalamic uncinate nucleus: relationship to
+gender identity. Brain 131:3132–46
+Gizewski ER, Krause E, Schlamann M, Happich F, Ladd ME, et al. 2009. Specific cerebral activation due to
+visual erotic stimuli in male-to-female transsexuals compared with male and female controls: an fMRI
+study. J. Sex. Med. 6:440–48
+Gómez-Gil E, Esteva I, Almaraz MC, Pasaro E, Segovia S, Guillamon A. 2010. Familiality of gender identity
+disorder in non-twin siblings. Arch. Sex. Behav. 39:546–52
+Gómez-Gil E, Trilla A, Salamero M, Godás T, Valdés M. 2009. Sociodemographic, clinical, and psychiatric
+characteristics of transsexuals from Spain. Arch. Sex. Behav. 38:378–92
+Gómez-Gil E, Vidal-Hagemeijer A, Salamero M. 2008. MMPI-2 characteristics of transsexuals requesting sex
+reassignment: comparison of patients in prehormonal and presurgical phases. J. Personal. Assess. 90:368–74
+Gooren L, Asscheman H. 2014. Sex reassignment: endocrinological interventions in adults with gender dysphoria. In Gender Dysphoria and Disorders of Sex Development: Progress in Care and Knowledge, ed. BPC
+Kreukels, TD Steensma, ALC de Vries, pp. 277–97. New York: Springer
+Gorin-Lazard A, Baumstarck K, Boyer L, Maquigneau A, Gebleux S, et al. 2012. Is hormonal therapy associated
+with better quality of life in transsexuals? A cross-sectional study. J. Sex. Med. 9:531–41
+Gorin-Lazard A, Baumstarck K, Boyer L, Maquigneau A, Penochet JC, et al. 2013. Hormonal therapy is
+associated with better self-esteem, mood, and quality of life in transsexuals. J. Nerv. Ment. Dis. 201:996–
+1000
+Gray E. 2014. The transgender tipping point. Time, June 9. http://time.com/135480/transgender-tippingpoint/
+Green R. 1987. The “Sissy Boy Syndrome” and the Development of Homosexuality. New Haven, CT: Yale Univ.
+Press
+Green R. 2009. The three kings: Harry Benjamin, John Money, Robert Stoller. Arch. Sex. Behav. 38:610–13
+Guzmán-Parra J, Sánchez-Álvarez N, de Diego-Otero Y, Pérez-Costillas L, Esteva de Antonio I, et al. 2015.
+Sociodemographic characteristics and psychological adjustment among transsexuals in Spain. Arch. Sex.
+Behav. doi: 10.1007/s10508-015-0557-6
+Hahn A, Kranz GS, Küblböck M, Kaufmann U, Ganger S, et al. 2014. Structural connectivity networks of
+transgender people. Cereb. Cortex 25:3527–34
+Haraldsen IR, Dahl AA. 2000. Symptom profiles of gender dysphoric patients of transsexual type compared
+to patients with personality disorders and healthy adults. Acta Psychiatr. Scand. 102:276–81
+Hare L, Bernard P, Sánchez FJ, Baird PN, Vilain E, et al. 2009. Androgen receptor repeat length polymorphism
+associated with male-to-female transsexualism. Biol. Psychiatry 65:93–96
+Hembree WC, Cohen-Kettenis P, Delemarre-van de Waal HA, Gooren LJ, Meyer WJ 3rd, et al. 2009.
+Endocrine treatment of transsexual persons: an Endocrine Society Clinical Practice Guideline. J. Clin.
+Endocrinol. Metab. 94:3132–54
+Henningsson S, Westberg L, Nilsson S, Lundström B, Ekselius L, et al. 2005. Sex steroid-related genes and
+male-to-female transsexualism. Psychoneuroendocrinology 30:657–64
+Hepp U, Kraemer B, Schnyder U, Miller N, Delsignore A. 2005. Psychiatric comorbidity in gender identity
+disorder. J. Psychosom. Res. 58:259–61
+Herdt G, ed. 1994. Third Sex, Third Gender: Beyond Sexual Dimorphism in Culture and History. New York: Zone
+Books
+Heylens G, De Cuypere G, Zucker KJ, Schelfaut C, Elaut E, et al. 2012. Gender identity disorder in twins: a
+review of the case report literature. J. Sex. Med. 9:751–57
+Heylens G, Elaut E, Kreukels BP, Paap MC, Cerwenka S, et al. 2014a. Psychiatric characteristics in transsexual
+individuals: multicentre study in four European countries. Br. J. Psychiatry 204:151–56
+Heylens G, Verroken C, De Cock S, T’Sjoen G, De Cuypere G. 2014b. Effects of different steps in gender
+reassignment therapy on psychopathology: a prospective study of persons with a gender identity disorder.
+J. Sex. Med. 11:119–26
+Hoshiai M, Matsumoto Y, Sato T, Ohnishi M, Okabe N, et al. 2010. Psychiatric comorbidity among patients
+with gender identity disorder. Psychiatry Clin. Neurosci. 64:514–19
+www.annualreviews.org • Gender Dysphoria in Adults
+
+243
+
+ARI
+
+24 February 2016
+
+11:49
+
+Hwu H-G, Yeh E-K, Chang L-Y. 1989. Prevalence of psychiatric disorders in Taiwan defined by the Chinese
+Diagnostic Interview Schedule. Acta Psychiatr. Scand. 79:136–47
+Judge C, O’Donovan C, Callaghan G, Gaoatswe G, O’Shea D. 2014. Gender dysphoria—prevalence and
+co-morbidities in an Irish adult population. Front. Endocrinol. 5:87
+Junger J, Habel U, Brohr S, Neulen J, Neuschaefer-Rube C, et al. 2014. More than just two sexes: the neural
+correlates of voice gender perception in gender dysphoria. PLOS ONE 9:e111672
+Khandelwal A, Agarwal A, Jiloha RC. 2010. A 47,XXY female with gender identity disorder. Arch. Sex. Behav.
+39:1021–23
+Kraemer B, Delsignore A, Schnyder U, Hepp U. 2008. Body image and transsexualism. Psychopathology 41:96–
+100
+Kranz GS, Hahn A, Baldinger P, Haeusler D, Philippe C, et al. 2014a. Cerebral serotonin transporter asymmetry in females, males and male-to-female transsexuals measured by PET in vivo. Brain Struct. Funct.
+219:171–83
+Kranz GS, Hahn A, Kaufmann U, Küblböck M, Hummer A, et al. 2014b. White matter microstructure in
+transsexuals and controls investigated by diffusion tensor imaging. J. Neurosci. 34:15466–75
+Kraus C. 2015. Classifying intersex in DSM-5: critical reflections on gender dysphoria. Arch. Sex. Behav.
+44:1147–63
+Kruijver FP, Zhou JN, Pool CW, Hofman MA, Gooren LJ, et al. 2000. Male-to-female transsexuals have
+female neuron numbers in a limbic nucleus. J. Clin. Endocrinol. Metab. 85:2034–41
+Ku H-L, Lin C-S, Chao H-T, Tu P-C, Li C-T, et al. 2013. Brain signature characterizing the body-brain-mind
+axis of transsexuals. PLOS ONE 8:e70808
+Kuyper L, Wijsen C. 2014. Gender identities and gender dysphoria in the Netherlands. Arch. Sex. Behav.
+43:377–85
+Landén M, Wålinder J, Lundström B. 1998. Clinical characteristics of a total cohort of female and male
+applicants for sex reassignment: a descriptive study. Acta Psychiatr. Scand. 97:189–94
+Lawrence AA. 2010. Sexual orientation versus age of onset as bases for typologies (subtypes) of gender identity
+disorder in adolescents and adults. Arch. Sex. Behav. 39:514–45
+Lawrence AA. 2013. Men Trapped in Men’s Bodies: Narratives of Autogynephilic Transsexualism. New York:
+Springer
+Lawrence AA. 2014. Treatment of gender dysphoria. In Gabbard’s Treatments of Psychiatric Disorders, ed. GO
+Gabbard, pp. 695–719. Arlington, VA: Am. Psychiatr. Publ. 5th ed.
+Levine SB. 2009. Real-life test experience: recommendations for revisions to the Standards of Care of the
+World Professional Association for Transgender Health. Int. J. Transgend. 11:186–93
+Lindgren TW, Pauly IB. 1975. A body image scale for transsexuals. Arch. Sex. Behav. 4:639–56
+Loehlin JC, Jonsson EG, Gustavsson JP, Stallings MC, Gillespie NA, et al. 2005. Psychological masculinityfemininity via the gender diagnosticity approach: heritability and consistency across ages and populations.
+J. Personal. 73:1295–319
+Luders E, Sanchez FJ, Gaser C, Toga AW, Narr KL, et al. 2009. Regional gray matter variation in male-tofemale transsexualism. NeuroImage 46:904–7
+Luders E, Sanchez FJ, Tosun D, Shattuck DW, Gaser C, et al. 2012. Increased cortical thickness in male-tofemale transsexualism. J. Behav. Brain Sci. 2:357–62
+Madeddu F, Prunas A, Hartmann D. 2009. Prevalence of Axis II disorders in a sample of clients undertaking
+psychiatric evaluation for sex reassignment surgery. Psychiatr. Q. 80:261–67
+Marks I, Green R, Mataix-Cols D. 2000. Adult gender identity disorder can remit. Compr. Psychiatry 41:273–75
+Martin CL, Ruble DN, Szkrybalo J. 2002. Cognitive theories of early gender development. Psychol. Bull.
+128:903–33
+Martin H, Finn SE. 2010. Masculinity and Femininity in the MMPI-2 and MMPI-A. Minneapolis: Univ. Minn.
+Press
+Mate-Kole C, Freschi M, Robin A. 1990. A controlled study of psychological and social change after surgical
+gender reassignment in selected male transsexuals. Br. J. Psychiatry 157:261–64
+Mazaheri Meybodi A, Hajebi A, Ghanbari Jolfaei A. 2014a. Psychiatric Axis I comorbidities among patients
+with gender dysphoria. Psychiatry J. 2014:971814
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+244
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Mazaheri Meybodi A, Hajebi A, Ghanbari Jolfaei A. 2014b. The frequency of personality disorders in patients
+with gender identity disorder. Med. J. Islam. Repub. Iran 28:90
+Meyer IH. 2003. Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations: conceptual
+issues and research evidence. Psychol. Bull. 129:674–97
+Meyer W, Bockting WO, Cohen-Kettenis P, Coleman E, DeCeglie H, et al. 2001. The Standards of Care for
+Gender Identity Disorders, Sixth Version. Düsseldorf, Ger.: Symposion
+Meyer-Bahlburg HFL. 1994. Intersexuality and the diagnosis of gender identity disorder. Arch. Sex. Behav.
+23:21–40
+Meyer-Bahlburg HFL. 2010. From mental disorder to iatrogenic hypogonadism: dilemmas in conceptualizing
+gender identity variants as psychiatric conditions. Arch. Sex. Behav. 39:461–76
+Meyer-Bahlburg HFL. 2011. Transsexualism (“gender identity disorder”): a CNS-limited form of intersexuality? Adv. Exp. Med. Biol. 707:75–79
+Meyer-Bahlburg HFL. 2015. Commentary on Kraus’ (2015) “Classifying Intersex in DSM-5: Critical Reflections on Gender Dysphoria.” Arch. Sex. Behav. 44:1737–40
+Meyerowitz J. 2002. How Sex Changed: A History of Transsexuality in the United States. Cambridge, MA: Harvard
+Univ. Press
+Miach PP, Berah EF, Butcher JN, Rouse S. 2000. Utility of the MMPI-2 in assessing gender dysphoric
+patients. J. Personal. Assess. 75:268–79
+Monstrey SJ, Buncamper M, Bouman M-B, Hoebeke P. 2014. Surgical interventions for gender dysphoria.
+In Gender Dysphoria and Disorders of Sex Development: Progress in Care and Knowledge, ed. BPC Kreukels,
+TD Steensma, ALC de Vries, pp. 299–318. New York: Springer
+Murad MH, Elamin MB, Garcia MZ, Mullan RJ, Murad A, et al. 2010. Hormonal therapy and sex reassignment: a systematic review and meta-analysis of quality of life and psychosocial outcomes. Clin. Endocrinol.
+72:214–31
+Newfield E, Hart S, Dibble S, Kohler L. 2006. Female-to-male transgender quality of life. Qual. Life Res.
+15:1447–57
+Newman DL, Moffitt TE, Caspi A, Silva PA. 1998. Comorbid mental disorders: implications for treatment
+and sample selection. J. Abnorm. Psychol. 107:305–11
+Nieder TO, Herff M, Cerwenka S, Preuss WF, Cohen-Kettenis PT, et al. 2011. Age of onset and sexual
+orientation in transsexual males and females. J. Sex. Med. 8:783–91
+Nuttbrock L, Bockting W, Rosenblum A, Hwahng S, Mason M, et al. 2013. Gender abuse, depressive symptoms, and HIV and other sexually transmitted infections among male-to-female transgender persons: a
+three-year prospective study. Am. J. Public Health 103:300–7
+Pascoe EA, Smart Richman L. 2009. Perceived discrimination and health: a meta-analytic review. Psychol. Bull.
+135:531–54
+Pasterski V, Zucker KJ, Hindmarsh PC, Hughes IA, Acerini C, et al. 2015. Increased cross-gender identification independent of gender role behavior in girls with congenital adrenal hyperplasia: results from a
+standardized assessment of 4- to 11-year-old children. Arch. Sex. Behav. 43:1363–75
+Pfäfflin F. 1992. Regrets after sex reassignment surgery. J. Psychol. Hum. Sex. 5:69–85
+Phoenix CH, Goy RW, Gerall AA, Young WC. 1959. Organizing action of prenatally administered testosterone propionate on the tissues mediating mating behavior in the female guinea pig. Endocrinology 65:369–
+82
+Pieterse AL, Todd NR, Neville HA, Carter RT. 2012. Perceived racism and mental health among Black
+American adults: a meta-analytic review. J. Couns. Psychol. 59:1–9
+Pimenoff V, Pfäfflin F. 2011. Transsexualism: treatment outcome of compliant and noncompliant patients.
+Int. J. Transgend. 13:37–44
+Rametti G, Carrillo B, Gomez-Gil E, Junque C, Segovia S, et al. 2011a. White matter microstructure in female
+to male transsexuals before cross-sex hormonal treatment: a diffusion tensor imaging study. J. Psychiatr.
+Res. 45:199–204
+Rametti G, Carrillo B, Gomez-Gil E, Junque C, Zubiarre-Elorza L, et al. 2011b. The microstructure of white
+matter in male to female transsexuals before cross-sex hormonal treatment: a DTI study. J. Psychiatr. Res.
+45:949–54
+www.annualreviews.org • Gender Dysphoria in Adults
+
+245
+
+ARI
+
+24 February 2016
+
+11:49
+
+Richter-Appelt H, Sandberg DE. 2010. Should disorders of sex development be an exclusion criterion for
+gender identity disorder in DSM 5? Int. J. Transgend. 12:94–99
+Robins LN, Helzer JE, Croughan J, Ratcliff KS. 1981. National Institute of Mental Health Diagnostic Interview Schedule: its history, characteristics, and validity. Arch. Gen. Psychiatry 38:381–89
+Santarnecchi E, Vatti G, Dettore D, Rossi A. 2012. Intrinsic cerebral connectivity analysis in an untreated
+female-to-male transsexual subject: a first attempt using resting-state fMRI. Neuroendocrinology 96:188–93
+Savic I, Arver S. 2011. Sex dimorphism of the brain in male-to-female transsexuals. Cereb. Cortex 21:2525–33
+Schaefer LC, Wheeler CC. 1995. Harry Benjamin’s first ten cases (1938–1953): a clinical historical note. Arch.
+Sex. Behav. 24:73–93
+Schneider C, Cerwenka S, Nieder TO, Briken P, Cohen-Kettenis PT, et al. 2015. Measuring gender dysphoria:
+a multicenter examination and comparison of the Utrecht Gender Dysphoria Scale and the Gender
+Identity/Gender Dysphoria Questionnaire for Adolescents and Adults. Arch. Sex. Behav. In press
+Schöning S, Engelien A, Bauer C, Kugel H, Kersting A, et al. 2010. Neuroimaging differences in spatial
+cognition between men and male-to-female transsexuals before and during hormone therapy. J. Sex.
+Med. 7:1858–67
+Simon L, Kozak LR, Simon V, Czobor P, Unoka Z, et al. 2013. Regional grey matter structure differences
+between transsexuals and healthy controls—a voxel based morphometry study. PLOS ONE 8:e83947
+Simon L, Zsolt U, Fogd D, Czobor P. 2011. Dysfunctional core beliefs, perceived parenting behavior and
+psychopathology in gender identity disorder: a comparison of male-to-female, female-to-male transsexual
+and nontranssexual control subjects. J. Behav. Ther. Exp. Psychiatry 42:38–45
+Simonsen R, Hald GM, Giraldi A, Kristensen E. 2015. Sociodemographic study of Danish individuals diagnosed with transsexualism. Sex. Med. 3:109–17
+Singh D. 2012. A follow-up study of boys with gender identity disorder. PhD Thesis, Univ. Toronto
+Singh D, Deogracias JJ, Johnson LL, Bradley SJ, Kibblewhite SJ, et al. 2010. The gender identity/gender
+dysphoria questionnaire for adolescents and adults: further validity evidence. J. Sex. Res. 47:49–58
+Singh D, McMain S, Zucker KJ. 2011. Gender identity and sexual orientation in women with borderline
+personality disorder. J. Sex. Med. 8:447–54
+Smith YLS, van Goozen SHM, Kuiper AJ, Cohen-Kettenis PT. 2005. Sex reassignment: outcomes and predictors of treatment for adolescent and adult transsexuals. Psychol. Med. 35:89–99
+Soleman RS, Staphorsius AS, Cohen-Kettenis PT, Lambalk CB, Veltman DJ, et al. 2016. Oestrogens are not
+related to emotional processing: a study of regional brain activity in female-to-male transsexuals under
+gonadal suppression. Cereb. Cortex 26:510–16
+Steensma TD, McGuire JK, Kreukels BPC, Beekman AJ, Cohen-Kettenis PT. 2013a. Factors associated with
+desistence and persistence of childhood gender dysphoria: a quantitative follow-up study. J. Am. Acad.
+Child Adolesc. Psychiatry 52:582–90
+Steensma TD, van der Ende J, Verhulst FC, Cohen-Kettenis PT. 2013b. Gender variance in childhood and
+sexual orientation in adulthood: a prospective study. J. Sex. Med. 10:2723–33
+Stefánsson JG, Lı́ndal E, Björnsson JK, Guômundsdóttir Á. 1994. Period prevalence rates of specific mental
+disorders in an Icelandic cohort. Soc. Psychiatry Psychiatr. Epidemiol. 29:119–25
+Steinmetz K. 2015. Why it’s a big deal that Obama said “transgender.” Time, Jan 21. http://time.com/
+3676881/state-of-the-union-2015-barack-obama-transgender/
+Stoller RJ. 1968. Sex and Gender, Vol. 1: On the Development of Masculinity and Femininity. New York: Science
+House
+Stoller RJ. 1975. Sex and Gender, Vol. 2: The Transsexual Experiment. New York: Jason Aronson
+Swaab DF, Garcia-Falgueras A. 2009. Sexual differentiation of the human brain in relation to gender identity
+and sexual orientation. Funct. Neurol. 24:17–28
+Terada S, Matsumoto Y, Sato T, Okabe N, Kishimoto Y, Uchitomi Y. 2011. Suicidal ideation among patients
+with gender identity disorder. Psychiatry Res. 190:159–62
+Terada S, Matsumoto Y, Sato T, Okabe N, Kishimoto Y, Uchitomi Y. 2012. Factors predicting psychiatric
+co-morbidity in gender-dysphoric adults. Psychiatry Res. 200:469–74
+Udeze B, Abdelmawla N, Khoosal D, Terry T. 2008. Psychological functions in male-to-female transsexual
+people before and after surgery. Sex. Relatsh. Ther. 23:141–45
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+246
+
+Zucker
+
+·
+
+Lawrence
+
+·
+
+Kreukels
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+CP12CH09-Zucker
+
+ARI
+
+24 February 2016
+
+11:49
+
+Ujike H, Otani K, Nakatsuka M, Ishii K, Sasaki A, et al. 2009. Association study of gender identity disorder
+and sex hormone-related genes. Prog. Neuropsychopharmacol. Biol. Psychiatry 33:1241–44
+Van Caenegem E, Wierckx K, Elaut E, Buysse A, Dewaele A, et al. 2015. Prevalence of gender nonconformity
+in Flanders, Belgium. Arch. Sex. Behav. 44:1281–87
+van de Grift T, Cohen-Kettenis PT, Steensma TD, De Cuypere G, Richter-Appelt H, et al. 2015. Body
+satisfaction and physical appearance in gender dysphoria. Arch. Sex. Behav. doi: 10.1007/s10508-0150614-1
+Vance SR, Cohen-Kettenis PT, Drescher J, Meyer-Bahlburg HFL, Pfäfflin F, Zucker KJ. 2010. Opinions
+about the DSM gender identity disorder diagnosis: results from an international survey administered to
+organizations concerned with the welfare of transgender people. Int. J. Transgend. 12:1–14
+Veale JF. 2008. Prevalence of transsexualism among New Zealand passport holders. Aust. N. Z. J. Psychiatry
+42:887–89
+Vocks S, Stahn C, Loenser K, Legenbauer T. 2009. Eating and body image disturbances in male-to-female
+and female-to-male transsexuals. Arch. Sex. Behav. 38:364–77
+Wallen K. 2009. The organizational hypothesis: reflections on the 50th anniversary of the publication of
+Phoenix, Goy, Gerall, and Young 1959. Horm. Behav. 55:561–65
+Wallien MSC, Cohen-Kettenis PT. 2008. Psychosexual outcome of gender dysphoric children. J. Am. Acad.
+Child Adolesc. Psychiatry 47:1413–23
+Weitze C, Osburg S. 1996. Transsexualism in Germany: empirical data on epidemiology and application of
+the German Transsexuals’ Act during its first ten years. Arch. Sex. Behav. 25:409–25
+Wierckx K, Mueller S, Weyers S, Van Caenegem E, Roef G, et al. 2012. Long-term evaluation of cross-sex
+hormone treatment in transsexual persons. J. Sex. Med. 9:2641–51
+Wierckx K, Van Caenegem E, Schreiner T, Haraldsen I, Fisher A, et al. 2014. Cross-sex hormone therapy
+in trans persons is safe and effective at short-time follow-up: results from the European Network for the
+Investigation of Gender Incongruence. J. Sex. Med. 11:1999–2011
+Wise TN, Meyer JK. 1980. The border area between transvestism and gender dysphoria: transvestitic applicants for sex reassignment. Arch. Sex. Behav. 9:327–42
+Wylie K, Barrett J, Besser M, Bouman WP, Bridgman M, et al. 2014. Good practice guidelines for the
+assessment and treatment of adults with gender dysphoria. Sex. Relatsh. Ther. 29:154–214
+Zhou JN, Hofman MA, Gooren LJ, Swaab DF. 1995. A sex difference in the human brain and its relation to
+transsexuality. Nature 378:68–70
+Zubiaurre-Elorza L, Junque C, Gomez-Gil E, Segovia S, Carrillo B, et al. 2013. Cortical thickness in untreated
+transsexuals. Cereb. Cortex 23:2855–62
+Zucker KJ, Cohen-Kettenis PT, Drescher J, Meyer-Bahlburg HFL, Pfäfflin F, Womack WM. 2013. Memo
+outlining evidence for change for gender identity disorder in the DSM-5. Arch. Sex. Behav. 42:901–14
+Zucker KJ, Duschinsky R. 2016. Dilemmas encountered by the Sexual and Gender Identity Disorders Work
+Group for DSM-5: an interview with Kenneth J. Zucker. Psychol. Sex. 7:23–33
+Zucker KJ, Lawrence AA. 2009. Epidemiology of gender identity disorder. Int. J. Transgend. 11:8–18
+
+RELATED RESOURCES
+Lin CS, Ku HL, Chao HT, Tu PC, Li CT, Cheng CM, et al. 2014. Neural network of body
+representation differs between transsexuals and cissexuals. PLOS ONE 9:e85914
+Lobato MI, Koff WJ, Manenti C, da Fonseca Seger D, Salvador J, et al. 2006. Follow-up of sex
+reassignment surgery in transsexuals: a Brazilian cohort. Arch. Sex. Behav. 35:711–15
+Mathy RM. 2003. Transgender identity and suicidality in a nonclinical sample: sexual orientation,
+psychiatric history, and compulsive behaviors. J. Psychol. Hum. Sex. 14:47–65
+Nawata H, Ogomori K, Tanaka M, Nishimura R, Urashima H, et al. 2010. Regional cerebral blood
+flow changes in female to male gender identity disorder. Psychiatry Clin. Neurosci. 64:157–61
+Verschoor AM, Poortinga J. 1988. Psychosocial differences between Dutch male and female
+transsexuals. Arch. Sex. Behav. 17:173–78
+
+www.annualreviews.org • Gender Dysphoria in Adults
+
+247
+
+CP12-FrontMatter
+
+ARI
+
+2 March 2016
+
+14:46
+
+Annual Review of
+Clinical Psychology
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Contents
+
+Volume 12, 2016
+
+The Efficacy of Exposure Therapy for Anxiety-Related Disorders and
+Its Underlying Mechanisms: The Case of OCD and PTSD
+Edna B. Foa and Carmen P. McLean p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 1
+History of the Concept of Addiction
+Peter E. Nathan, Mandy Conrad, and Anne Helene Skinstad p p p p p p p p p p p p p p p p p p p p p p p p p p p p p29
+Conducting Clinical Research Using Crowdsourced Convenience
+Samples
+Jesse Chandler and Danielle Shapiro p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p53
+Computerized Adaptive Diagnosis and Testing of Mental Health
+Disorders
+Robert D. Gibbons, David J. Weiss, Ellen Frank, and David Kupfer p p p p p p p p p p p p p p p p p p p p p83
+Diagnostic Issues and Controversies in DSM-5: Return of the False
+Positives Problem
+Jerome C. Wakefield p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 105
+The Importance of Considering Clinical Utility in the Construction of
+a Diagnostic Manual
+Stephanie N. Mullins-Sweatt, Gregory J. Lengel, and Hilary L. DeShong p p p p p p p p p p p p 133
+Internet-Delivered Psychological Treatments
+Gerhard Andersson p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 157
+Developmental Demands of Cognitive Behavioral Therapy for
+Depression in Children and Adolescents: Cognitive, Social,
+and Emotional Processes
+Judy Garber, Sarah A. Frankel, and Catherine G. Herrington p p p p p p p p p p p p p p p p p p p p p p p p p 181
+Gender Dysphoria in Adults
+Kenneth J. Zucker, Anne A. Lawrence, and Baudewijntje P.C. Kreukels p p p p p p p p p p p p p p p 217
+Mental Imagery in Depression: Phenomenology, Potential
+Mechanisms, and Treatment Implications
+Emily A. Holmes, Simon E. Blackwell, Stephanie Burnett Heyes, Fritz Renner,
+and Filip Raes p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 249
+
+vii
+
+CP12-FrontMatter
+
+ARI
+
+2 March 2016
+
+14:46
+
+Resolving Ambiguity in Emotional Disorders: The Nature and Role of
+Interpretation Biases
+Colette R. Hirsch, Frances Meeten, Charlotte Krahé, and Clare Reeder p p p p p p p p p p p p p p p p p 281
+Suicide, Suicide Attempts, and Suicidal Ideation
+E. David Klonsky, Alexis M. May, and Boaz Y. Saffer p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 307
+The Neurobiology of Intervention and Prevention in Early Adversity
+Philip A. Fisher, Kate G. Beauchamp, Leslie E. Roos, Laura K. Noll,
+Jessica Flannery, and Brianna C. Delker p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 331
+
+Annu. Rev. Clin. Psychol. 2016.12:217-247. Downloaded from www.annualreviews.org
+Access provided by University of California - Berkeley on 01/28/17. For personal use only.
+
+Interactive and Mediational Etiologic Models of Eating Disorder
+Onset: Evidence from Prospective Studies
+Eric Stice p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 359
+Paraphilias in the DSM-5
+Anthony R. Beech, Michael H. Miner, and David Thornton p p p p p p p p p p p p p p p p p p p p p p p p p p p p 383
+The Role of Craving in Substance Use Disorders: Theoretical and
+Methodological Issues
+Michael A. Sayette p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 407
+Clashing Diagnostic Approaches: DSM-ICD Versus RDoC
+Scott O. Lilienfeld and Michael T. Treadway p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 435
+Mental Health in Lesbian, Gay, Bisexual, and Transgender (LGBT)
+Youth
+Stephen T. Russell and Jessica N. Fish p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 465
+Risk Assessment in Criminal Sentencing
+John Monahan and Jennifer L. Skeem p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 489
+The Relevance of the Affordable Care Act for Improving Mental
+Health Care
+David Mechanic and Mark Olfson p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 515
+Indexes
+Cumulative Index of Contributing Authors, Volumes 3–12 p p p p p p p p p p p p p p p p p p p p p p p p p p p p 543
+Cumulative Index of Article Titles, Volumes 3–12 p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p p 548
+Errata
+An online log of corrections to Annual Review of Clinical Psychology articles may be
+found at http://www.annualreviews.org/errata/clinpsy
+
+viii
+
+Contents
+
+

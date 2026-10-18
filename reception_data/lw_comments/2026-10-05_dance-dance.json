@@ -1,0 +1,38 @@
+{
+ "post": {
+  "_id": "R7jsxihAzvd6Gf24R",
+  "title": "Dance, Dance",
+  "postedAt": "2026-10-05T23:05:44.938Z",
+  "pageUrl": "https://www.lesswrong.com/posts/R7jsxihAzvd6Gf24R/dance-dance",
+  "commentCount": 2
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "oMGYQLXmPYbwzQuS3",
+   "parentCommentId": null,
+   "postedAt": "2026-10-06T12:58:01.481Z",
+   "baseScore": 10,
+   "user": {
+    "username": "amaury-lorin",
+    "displayName": "momom2"
+   },
+   "contents": {
+    "markdown": "This was well-written, but I kept expecting an insight, and in the end, seems like there was nothing to take away?  \n  \nLike, you could lead from reward sparsity to curriculum training, or from Moravec's paradox in robotics to simulated environments... but in the end, it sounds like nothing you said will help me train in playing the arrow-stomping game, or learning chess or gymnastics."
+   }
+  },
+  {
+   "_id": "qjPuuAFqaxxtKgKsY",
+   "parentCommentId": "oMGYQLXmPYbwzQuS3",
+   "postedAt": "2026-10-08T13:32:59.099Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Gunnar_Zarncke",
+    "displayName": "Gunnar_Zarncke"
+   },
+   "contents": {
+    "markdown": "Yeah, I can kind of relate. I think the insight is more about what kinds of things require what kind of feedback to learn. I can kinda see how this helps better understanding when I learn a thing quickly (such as the stomper) and gives me kind of an idea how to improve learning / education, but it does not guide in that sense. I think it may help with preparing for a future where learning facts doesn't matter but procedural knowledge is king. If we get there."
+   }
+  }
+ ]
+}

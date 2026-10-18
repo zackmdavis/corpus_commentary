@@ -1,0 +1,6 @@
+Title: Link: "The Jenner Shift and Its Consequences"
+Date: 2025-04-09 20:45
+Category: commentary
+Tags: linkpost, autogynephilia, two-type taxonomy
+
+Sorry for the sparse blogging lately—I've been busy with other projects. Fortunately, at least one other blogger has been covering the gender politics and social epistemology beat in my absence: at _Repeal the Common Era_, the author delivers [an excellent 4.3K word piece on "The Jenner Shift and Its Consequences"](https://repealthecommonera.substack.com/p/the-jenner-shift-and-its-consequences): the epochal gender-political realignment in which nerdy men who were demonized by the internet feminism of the early 2010s, found a way in to the progressive stack, at the cost of [an update to the coalition's shared lies](http://unremediatedgender.space/2020/Apr/peering-through-reverent-fingers/). The [broad outlines of this model are probably familiar](/2019/Aug/the-social-construction-of-reality-and-the-sheer-goddamned-pointlessness-of-reason/) to long-time readers of _The Scintillating But Ultimately Untrue Thought_, but R.C.E.'s account is particularly notable for its discussion of the role of T4T-normativity in stabilizing the new equilibrium.

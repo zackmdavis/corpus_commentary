@@ -1,0 +1,57 @@
+Title: [RST][C][EDU] "Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning"
+Subreddit: r/rational
+Author: u/zackmdavis
+Posted: 2020-06-08
+URL: https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/
+Link: https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution
+Source: PullPush archive (scores as captured)
+
+Comments archived: 12
+
+#### u/Sgt_who · 11 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftbxgjs/
+The best part of this post is the implication that, somewhere between now and the hellscape-ification of the planet, LessWrong becomes a sex cult.
+
+#### u/MereInterest · 9 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftc9fp3/
+Even earlier, as it is described as having been a sex cult in the late teens, but a robot cult in the aughts.
+
+#### u/Amargosamountain · 5 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftc9pe8/
+I like you guys just fine but that doesn't mean  I want to start fuckin'
+
+#### u/FeepingCreature · 10 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftcnp9d/
+Is this novel?
+
+I thought this was the standard theory of meaning that everyone already believed.
+
+#### u/RhysDeAnno · 12 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftcr9aw/
+The start of this was an excellent argument for the anti-Hanlon razor and the rest of it was a snooze.
+
+#### u/Bowbreaker · 1 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftcyij0/
+Why is the only thing I'm curious about the Summer of Wolves and how it cane to pass?
+
+#### u/grekhaus · 2 points · 2020-06-08 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftdu3ei/
+I believe this to be a suitable prophecy: https://xkcd.com/1471/
+
+#### u/gazztromple · 8 points · 2020-06-09 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftfbomz/
+> 
+Or rather—this is a good-natured joke. "Good-natured joke" and "gaslighting as a bullying technique" are two descriptions of the same regularity in human psychology, even while no one thinks of themselves as doing the latter. You have no recourse here: the man's housemates would only back him up.
+
+I'm pretty confident that the vast majority of what ought to be called gaslighting - abusive lies which evoke damaging self-doubt - is done with knowing intent to cause that damage. But, I guess I'm not sure anymore...
+
+#### u/ESRogs · 3 points · 2020-06-10 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/ftmsce4/
+Was guessing that part was meant to be coming from an unreliable narrator. (Narrator seems not to have the best decision making, right?) But unsure.
+
+#### u/MilesSand · 2 points · 2020-06-13 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/fuoh2f8/
+So is the reader assumed to be sone kind of stupid? Either way the neighbor was messing with "you," no need to fall apart and start throwing around big words you don't know the meaning of. 
+
+Like gaslighting or photosynthesis.
+
+As for defining meaning, C is the wrong tool for the wrong job.  Better philosophers have already tread this ground, and they didn't even need to use a quarter dozen data structures to do so.
+
+
+I'm pretty sure the only reason I'm this annoyed is the abysmal use of second person combined with the smog superiority of the writing style. Ugh.
+
+#### u/zackmdavis · 2 points · 2020-06-22 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/fvlcufe/
+[(Belatedly replied in the _Less Wrong_ comments.)](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution?commentId=HYHjs98ovtYns9KGo)
+
+#### u/MoNastri · 1 points · 2020-10-21 · https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/g9jiekr/
+Counterpoint: I liked the urgent curiosity of the writing style, and was surprised to find out that some people (like you) thought it was smugly superior. I also thought it was cool how the author provided executable source code so readers could check for themselves the veracity of his reasoning steps, and was surprised to find that others disliked it.

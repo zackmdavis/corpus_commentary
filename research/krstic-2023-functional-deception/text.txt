@@ -1,0 +1,989 @@
+Journal of the American Philosophical Association () – © The Author(s), . Published by
+Cambridge University Press on behalf of the American Philosophical Association. This is an Open Access article,
+distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/
+by/./), which permits unrestricted re-use, distribution and reproduction, provided the original article is
+properly cited.
+DOI:./apa..
+
+A Functional Analysis of Human
+Deception
+ABSTRACT: A satisfactory analysis of human deception must rule out cases where it is
+a mistake or an accident that person B was misled by person A’s behavior.
+Therefore, most scholars think that deceivers must intend to deceive. This article
+argues that there is a better solution: rather than appealing to the deceiver’s
+intentions, we should appeal to the function of their behavior. After all, animals
+and plants engage in deception, and most of them are not capable of forming
+intentions. Accordingly, certain human behavior is deceptive if and only if its
+function is to mislead. This solves our problem because if the function of A’s
+behavior was to mislead, B’s ending up misled was not an accident or a mere
+mistake even if A did not intend to deceive B.
+
+KEYWORDS: deception, misinformation, intention, function, signaling, mimicry
+
+Introduction
+In this article, I argue that a person engages in deception if and only if the function of
+her behavior is to mislead (i.e., cause a false belief or less accurate credence in a
+proposition); she need not actually intend to mislead by behaving the way she
+behaves. This analysis both captures paradigmatic cases of deception, where
+people mislead others intentionally and allows us to identify and understand
+many cases that should rightly count as involving deception though the relevant
+intention is lacking. In fact, people sometimes engage in deception even when they
+intend not to mislead.
+According to the traditional view, something counts as human deception only if
+the deceiver intends to cause epistemic harm or to mislead (see, e.g., Mahon ,
+; Carson : –; Fallis and Lewis ). On this view, causing false
+beliefs or inaccurate credences inadvertently is not a matter of deception but
+rather of misleading others unintentionally (Carson : ). Such a view
+implies that when it comes to human behavior, deceiving someone and
+unintentionally misleading them are two distinct phenomena.
+There have been attempts, however, to show that misleading unintentionally
+should also count as deceiving. Using the lexical approach, in which we use
+dictionary deﬁnitions as models for deﬁning phenomena, Alfred Mele ()
+defends this idea with the following argument:
+I thank Russ Shafer-Landau, Eliot Michaelson, the anonymous reviewer of this journal, and all those colleagues
+who anonymously commented on this paper in good faith. Your professionalism and kindness are much
+appreciated!
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+In a standard use of ‘deceived’ in the passive voice, we properly say such
+things as ‘Unless I am deceived, I left my keys in my car.’ Here ‘deceived’
+means ‘mistaken.’ There is a corresponding use of ‘deceive’ in the active
+voice. In this use, to deceive is ‘to cause to believe what is false’ (my
+authority is the Oxford English Dictionary). Obviously, one can
+intentionally or unintentionally cause someone to believe what is false,
+and one can cause someone to acquire the false belief that p even
+though one does not oneself believe that not-p. Yesterday, mistakenly
+believing that my son’s keys were on my desk, I told him they were
+there. In so doing, I caused him to believe a falsehood. I deceived him,
+in the sense identiﬁed; but I did not do so intentionally, nor did I
+cause him to believe something I disbelieved. (: )
+This argument is problematic. The adjective ‘deceived’ (‘having a false belief’)
+does mean ‘mistaken’ or ‘misled’ (premise ), and it is true that I can cause you to
+believe what is false intentionally or unintentionally (premise ), but these two
+premises do not entail that I can deceive you unintentionally. For the conclusion
+to follow (‘Mele deceived his son’), the argument requires a hidden premise ,
+according to which ‘deceiving’ and ‘causing to believe what is false’ are identical
+in meaning and reference, which they are not. While deceiving indeed involves
+causing others to believe what is false, so does judging erroneously, misperceiving,
+miscalculating, and so on. Therefore, because premise  is false, we cannot infer
+that Mele deceived his son unintentionally.
+Mele is not entirely wrong, however. What makes the idea of deceiving while
+intending not to deceive sound odd is not the thought that people can deceive
+unintentionally, but rather the thought that people can deceive by accident or by
+mistake. Mele wants to count accidental misleading or errors as deception (he
+‘deceives’ his son by mistake), but it does not seem right to think that deception
+can be accidental or that any organism (including lower animals and plants) can
+deceive by mistake (see section .). For example, in their analysis of biological
+deception, Fallis and Lewis (: , emphasis in original) write:
+An analysis of deception must provide a non-arbitrary criterion that
+distinguishes deceptive signals [communication, behavior] from signals
+that are merely misleading. In particular, it must rule out cases where
+it is a mistake or a mere accident that the receiver is misled (see
+Skyrms : ; Fallis a: ; McWhirter : ; Artiga
+and Paternotte : sect. ). The ‘intentionality’ requirement is what
+allows the traditional analysis to do this. If a misleading signal is sent
+intentionally, then it is not an accident.
+I think that we have a better way of discriminating human deception from mere
+accidents and errors. All we need to do is to see what constitutes biological
+deception. Animals and plants engage in deception even when they are not
+capable of forming intentions; their behavior is described in terms of functions of
+behaviors or traits rather than intentions. Human behavior can also be captured
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+by suitable functional descriptions. Therefore, I will put forward an analysis that
+understands human deception in terms of the functions of people’s behavior,
+rather than in terms of their intentions. That is, I will argue that people engage in
+deception only if the function of their behavior is to mislead (i.e., misinform,
+cause epistemic harm) and that they need not be aware of this function or actually
+intend to mislead although human deceivers predominantly do act on this intention.
+There is much to be gained and nothing to be lost from adopting this approach to
+human deception. As Artiga and Paternotte (: ) already argued, there are
+many analogies between intentional behaviors and adaptations (i.e., traits evolved
+by natural selection). Adaptations seem to have a purpose in the same way
+intentional behaviors do. Therefore, by shifting to a functional analysis of human
+deception, we do not lose a distinction between deceiving and simply misleading
+(accidentally, by mistake). Rather, we become capable of understanding a broader
+spectrum of situations that involve deception (see section .). The functional
+approach thus provides a more comprehensive and sophisticated perspective on
+human interpersonal behavior, but this is not all: it may allow us to model
+self-deception nonproblematically on interpersonal deception.
+Modeling self-deception on the traditional analysis of interpersonal deception
+generates an untenable account of self-deception. This approach is untenable
+because it requires that the self-deceiver intentionally causes herself to believe as
+true what she already believes is false (she intentionally deceives herself), which
+seems to be impossible for at least two reasons. First, it entails that, at some point,
+self-deceivers not only consciously and simultaneously believe both that not-p (as
+deceivers) and that p (as dupes) but also that they cause themselves to believe that
+p because they already believe that p is false. What I mean is that if A wants B to
+believe that p and A believes that p is true, then A will not intend to deceive B into
+believing that p. This, then, entails that the person’s belief that p (dupe-self) and
+her belief that not-p (deceiver-self) are inferentially connected and thus cannot be
+suitably separated in different compartments of her mind. Also, to succeed,
+self-deceivers should, at the same time, both be aware of their deceptive intention
+(as deceivers) and not be aware of it (as victims), but it seems wrong to think that
+a uniﬁed and reasonably coherent mind can simultaneously both be and not be
+aware of its intention (see Krstić b: §).
+To avoid this problem many philosophers (e.g., Mele , ; Barnes ;
+Holton ) argue that self-deceivers act intentionally (or subintentionally) but
+deceive themselves unintentionally (and unknowingly); this is a byproduct of their
+behavior. On this view, self-deceivers normally want to believe that p, but they do
+not believe or suspect that p is false. And some philosophers even say that
+self-deception amounts to a simple error of self-knowledge (e.g., Patten ;
+Fernández ). These solutions do not generate a paradoxical account of
+self-deception, but they assume that people deceive themselves accidentally or by
+mistake: the false belief (inaccurate credence) is an unforeseen byproduct of the
+person’s behavior, an error. Therefore, these solutions fail to locate deception in
+self-deception.
+Modeling self-deception on a functional account of interpersonal deception
+neither generates paradoxes of self-deception because the intention to deceive is
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+not necessary for self-deception, nor do mere mistakes and accidental self-misleading
+count as self-deception because deception happens only when the function of the
+behavior that misleads is to mislead. A functional analysis of self-deception, thus,
+should be able to solve two problems at the same time. Unfortunately, I cannot
+provide a complete functional analysis of self-deception here; however, I will draw
+up some basic theses regarding human deception in general that will make such an
+analysis possible (see also Krstić  and especially Krstić b where I offer a
+nonparadoxical analysis of lying to oneself).
+My game plan is simple. I ﬁrst present the functional view (section .), apply it to
+some cases of nonparadigmatic interpersonal deception (section .), and consider a
+possible objection to my argument (section .). In section , I offer some concluding
+remarks.
+
+. A Functional Analysis of Human Deception
+. The Theory
+The traditional analysis of interpersonal deception, according to which deceivers
+must mislead intentionally, rules out the possibility of much deception in the
+nonhuman world. But it seems fairly uncontroversial that animals and even plants
+also engage in deception; fake alarm calls, camouﬂage, and mimicry are obvious
+examples. To capture cases of biological (animal and plant) deception, modern
+theories appeal to payoffs, manipulations, or functions of signals or states, rather
+than to deceivers’ intentions. Allow me to discuss three such views before I put
+forward my preferred analysis of human deception.
+The most common philosophical analyses of biological deception are
+signaling-based. On the standard signaling-based (‘Skyrmsian’) view, a signal S is
+deceptive iff () S carries misinformation (it changes objective probabilities of
+states in the wrong direction); () transmitting S systematically beneﬁts the sender
+(typically, at the receiver’s expense); and () the receiver is misled by the signal
+(e.g., Searcy and Nowicki ; Skyrms ; McWhirter ; Shea,
+Godfrey-Smith, and Cao ; Fallis and Lewis , ). Some scholars
+simply say that the signal is misinformative or that it is misinformation (e.g.,
+Skyrms ) rather than that it carries misinformation, but this distinction is not
+important for my argument. The important point is that the systematic
+sender-beneﬁt condition eliminates situations in which the receiver was misled
+accidentally by providing an explanation for why the misleading signal is not just
+a random occurrence. That is, if the sender systematically beneﬁts from sending a
+misleading signal, there is a mechanism (e.g., selection pressure) that reinforces the
+sending of the misleading signal (Fallis and Lewis : ). Thus, it is not an
+accident or a mistake that the receiver is misled.
+According to one interesting rival signaling-based analysis (Birch ),
+deception requires that by sending a deceptive signal an agent strategically exploits
+an adaptive disposition in the victim by raising the probability, from the victim’s
+standpoint, of a nonactual state of the world. On this view, we have deception if
+and only if () a signal S carries misinformation (it changes subjective
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+probabilities of states in the wrong direction); () sending S is a part of the sender’s
+strategy that exploits a particular adaptive disposition in the receiver to perform
+behavior B in the (nonactual) state of the world whose probability was raised by
+the signal; and () the receiver is misled by S. The fact that the exploitation is
+strategic and that the strategy targets particular dispositions in the receiver
+eliminates situations in which the signal carries misinformation accidentally (Birch
+: ). The sender need not beneﬁt from this.
+Finally, according to the so-called ‘functional’ analysis, a state of the world M is
+deceptive if and only if () M has the function to mislead (or to prevent the
+acquisition of new information) and () M leads to misleading (Artiga and
+Paternotte : ; the authors say ‘cause a misinformative state’ rather than
+‘mislead’. For the sake of simplicity, I use ‘mislead’ in the same meaning.). M
+could be a state of the world in which I lie to you or in which a stick insect mimics
+a branch; it is not my state in which I am lying or the stick’s state in which it has a
+particular appearance. In presenting the functional view, however, I will refer to
+functions of behaviors (or traits) rather than states consistently throughout to
+make reading easier. The fact that the function of M is to mislead eliminates
+situations in which someone’s ending up misled was an accident or an error. The
+deceiver need not beneﬁt from this. The functional view has one more advantage:
+insofar as some strategies of deception do not involve signaling, and I argue that
+this is the case (Krstić, c), this view has a broader scope than the rival
+signaling-based analyses.
+Consider the following case of fake alarm calls. Low-ranked male Kitui monkeys
+sometimes give leopard alarms when a new male tries to join their group and
+challenge them. The call causes other monkeys to ﬂee up nearby trees, thus
+preventing the outsider from joining the group. According to the signaling-based
+analyses, this is deception because () the signal carries misinformation (by raising
+the probability of a state in which a leopard is present); () other monkeys were
+misled, and either (a) the sender beneﬁts from sending the signal (the standard
+signaling-based view); or (b) by sending the signal, the monkey strategically
+exploits the behavior of other monkeys that beneﬁts them in a state of the world in
+which a leopard is genuinely present (the strategic exploitation view). On Artiga
+and Paternotte’s () functional view, this counts as deception because () the
+function of the monkey’s behavior is to mislead, and () this behavior misleads
+other monkeys.
+If a Kitui sends the signal because he mistook a bush for a leopard, this is not
+deception because condition () is not satisﬁed on the signaling-based views, and
+condition () is not satisﬁed on the functional view. Mele’s unknowingly causing
+his son to acquire a false belief about the whereabouts of the keys does not count
+as deception for the same reasons: misleading his son does not beneﬁt Mele; it is
+not a part of Mele’s strategy of exploiting one of his son’s dispositions, and the
+function of Mele’s behavior is not to mislead.
+Thus, none of the three views classiﬁes accidental misleading as deception.
+However, because it sits comfortably with the existence of both altruistic human
+deception and nonadaptive self-deception (deception that does not beneﬁt the
+self-deceiver) and because it is not limited to deception involving signaling (Krstić,
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+c), I propose an analysis of human deception developed along the lines of Artiga
+and Paternotte’s () functional account of deception, Fallis’s (b) functional
+analysis of disinformation, and my analysis of self-deception (Krstić ).
+Let us ﬁrst present the theory on a simple example of biological deception and
+then cash it out as a general theory of human deception. When a Western
+hog-nosed snake deters predators by simulating death, this is deception on my
+rendition of the functional view because
+() ‘deterring predators’ (F) is the (beneﬁcial) result of ‘the snake’s
+simulating death’ (M),
+() simulating death (M ) generates this result by misleading,
+() misleading is the function of simulating death, and
+() predators ended up misled (and, as a result, deterred) because the
+snake simulated death.
+In short, misleading is the function of M, the predators ended up misled as a result
+of M, and because M performs F by misleading, M generated F. When cashed out as a
+general theory, we get that state M is deceptive if
+() F is the (beneﬁcial) result of M,
+() F is generated by misleading,
+() M has the function of misleading, and
+() (in part) because of (), M causally contributes to misleading.
+Some important clariﬁcations are in order here. First, this functional view relies on
+Garson’s () generalized selected effects theory (GSE) of function. According to
+GSE, the function of x is whatever it did in the past that contributed to x’s differential
+reproduction or differential retention within a population. ‘Differential reproduction’
+means that x can acquire a function based on what caused x to multiply. The
+function of zebra stripes is to deter biting ﬂies because that is what helped the striped
+zebras out-reproduce the stripeless ones. Synapses in the brain, however, do not
+reproduce; for them, success means persisting better than your neighbor. Thus,
+‘differential retention’ is about development and maintenance; it explains how things
+like synapses can acquire new functions through operant conditioning (Garson :
+§). ‘In a population’ means that selection always takes place within a group of
+individuals that impact each other’s chances of survival. Finally, the function of x is
+the activity that is most proximal to x; it is the ﬁrst activity in the sequence. The
+function of the heart is to beat, not to circulate blood. The circulation of the blood is
+a beneﬁcial result of the heart’s performing its function (Garson : §).
+This view seems to be good enough for our purposes, and it is better than the view
+I presented in Krstić (). When applied to the proposed functional analysis of
+deception, we get that just as the circulation of blood is a beneﬁcial result of the
+heart performing its function (i.e., beating), deterring predators is the beneﬁcial
+result of the snake simulating death performing its function (i.e., misleading). And
+the result explains why the behavior has this speciﬁc function. Just as the fact
+that the heart’s pumping causes the blood to circulate explains why the heart
+pumps, the fact that simulating death (i.e., misleading) systematically deters
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+predators explains why the snake simulates death (why it engages in misleading
+behavior). The function of the relevant behavior is simply to mislead in a certain
+context; it is neither to mislead someone speciﬁcally nor to mislead always. Playing
+dead can mislead anyone, not just predators, and it can have the function to mislead
+in one context (e.g., ﬁghting for survival) but not in another (e.g., acting in a play).
+Another important clariﬁcation is that satisfying conditions () and () constitutes
+deception (see Artiga and Paternotte ); these are necessary and jointly sufﬁcient
+conditions for deception. Conditions () and () are neither necessary nor jointly
+sufﬁcient. The Western hog-nosed snake plays dead to deter predators, and it does
+this by misleading them, but it may also mislead nonpredators. Because
+misleading is the function of simulating death, misleading nonpredators is not a
+mistake or an accident, and so this counts as deception even though this is not the
+kind of beneﬁcial result that explains why this behavior evolved.
+Having said that, one may naturally wonder why I introduced two conditions that
+are neither necessary nor sufﬁcient for deception. The answer is that the distinction
+between the result and the function of the deceiver’s behavior is crucial for my
+analysis. Normally, the reason for deceiving is the deceiver’s beneﬁt (‘result’), and
+misleading is the means of achieving this end: the deceiver gets what he wants by
+misleading the dupe. For example, if I cause you to falsely believe that your
+distant uncle from Nigeria has left you a fortune, I aim to trick you into wiring me
+ dollars (‘for the transfer fee’). Causing you to acquire the relevant false belief is
+a means by which I get your money. However, my getting your money (the result)
+does not constitute deception—because you may give me the money out of pity,
+knowing full well that I am trying to con you. Rather, it is causing you to believe
+my ‘Nigerian uncle’ lie (the function of my behavior) that constitutes deception,
+and if this happens, we have deception even if you do not give me the money (you
+may not have  dollars). In short, the result explains why the deceiver engages in
+deception, and the function explains why this is deception.
+Capturing the result of deception clearly with the functional analysis—conditions
+() and ()—is vitally important because I argue that human behavior may involve
+deception even if the deceivers do not intend to mislead: they may have the
+behavior’s result in mind (they intend the result) but not its function (they do not
+intend to mislead). Therefore, all four conditions become very important below.
+Let us now consider an example of animal deception discussed by almost every
+philosopher analyzing biological deception. I will use this example as a reference
+point in my analysis of human deception.
+Fireﬂies use their light for sexual signaling. While ﬂying over meadows,
+male ﬁreﬂies ﬂash a species-speciﬁc signal. For instance, the Photinus
+ﬁreﬂy produces a yellow-green ﬂash, whereas the Pyractomena ﬁreﬂy
+produces an amber ﬂash. If a female Photinus on the ground gives the
+proper sort of answering ﬂashes, the male descends, and they mate.
+An exception to this practice is the behavior of female ﬁreﬂies of the
+genus Photuris. When one of these ﬁreﬂies observes the ﬂash of a male
+of the genus Photinus, she may mimic the Photinus female signals in
+order to lure the male Photinus in and eat him.
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+The yellow-green ﬂash is standardly understood as meaning something like ‘I am
+a Photinus female ready to mate’ or as raising the probability of this state (e.g.,
+Skyrms ; Birch ; Shea, Godfrey-Smith, and Cao, ; Skyrms and
+Barrett ; Fallis and Lewis ; however, see Fallis and Lewis ; Krstić,
+c; Krstić and Saville ). Therefore, the signal carries misinformation
+when sent by the predator female (Photuris). According to the functional analysis
+put forward here, this is deception for the following reasons. The predator female
+transmits the yellow-green ﬂash because the food tends to come down to her when
+she sends the signal—condition () is satisﬁed. The food coming down explains
+why she transmits the signal. The signal generates this result (bringing her food)
+by misleading the harmless males (Photinus)—condition () is satisﬁed.
+Misleading is the signal’s function—condition () is satisﬁed. And when males are
+misled by the signal, this is deception—condition () is satisﬁed.
+However, and this is vital for the correct understanding of human deception, the
+predator female does not signal in order to mislead; rather, she simply signals for
+the food to come down. To use anthropomorphic language, she does not transmit
+this signal because it means ‘mate’ for the harmless male but rather because it
+means ‘food’ for her. She neither intends to deceive nor does she realize that she is
+deceiving. She has only the beneﬁcial result ‘in mind’, and this result explains why
+she behaves as she does. What explains why her signal carries misinformation is
+selection pressure, namely, the fact that only misleading will cause the food to descend.
+The crux of my argument is the claim that this exact situation regularly occurs in
+human deception: just like the predator ﬁreﬂy, people may engage in certain behavior
+in situations in which this behavior generates a particular result, and they may be
+aware of their behavior’s result but not of its function (to mislead). Therefore,
+these human deceivers do not intend to mislead. The behavior’s function is an
+adaptation (cultural, evolutionary, etc.) caused by the fact that honesty
+systematically does not generate the required response on the part of the victims.
+But before discussing nonparadigmatic human deception in detail, allow me to
+distinguish two ways of engaging in deception to capture paradigmatic and
+nonparadigmatic human deception: being deceitful and being deceptive.
+Jennifer Lackey () was the ﬁrst to distinguish deceptiveness from deceit, but I
+use the terminology differently. According to her, both kinds of deception are
+intentional: a deceitful person intentionally causes a false belief, whereas a
+deceptive person intentionally conceals relevant information behind her lie(s). On
+my version of this distinction, by w-ing in context C:
+Deceptiveness: A is being deceptive iff the function of w-ing in C is to
+mislead.
+Deceit: A is being deceitful iff A intends to mislead by w-ing in C.
+This distinction will sufﬁce for our purposes. The concept that is of interest here is
+deceptiveness because deceivers who do not intend to deceive are being deceptive but
+not deceitful (deceitfulness is a kind of deceptiveness). The predator ﬁreﬂy and the
+Western hog-nosed snake are being deceptive, and we should not think that all
+kinds of human deception involve deceit, either. In some situations, human
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+deceivers may be aware of their behavior’s result but not of the fact that they get what
+they want by misleading others. This is how the predator ﬁreﬂy ‘knows’ that the
+signal tends to cause the food to come down even though she does not ‘know’
+that the food comes down because the signal misleads it.
+The next section features some cases that seem to involve nonparadigmatic
+human deception in which people deceive others while not intending to cause
+false beliefs or less accurate credences in anyone. I will compare these cases with
+Fireﬂies, show that the analogies between them are striking, and conclude that
+they should, therefore, rightly count as involving deception even though the agents
+did not intend to mislead. I will then consider an objection to my analysis
+(subsection .) and conclude the discussion (section ).
+
+. Nonparadigmatic Human Deception
+When we say that in deception misleading cannot be an accident or result from a
+mistake, we should keep in mind that this does not mean just that the false belief
+that A causes in B is a consequence of A’s behavior. This is a necessary but not
+sufﬁcient condition: if A incorrectly believes that p and causes B to believe it as
+well, it is not a mistake that B now believes that p, but it is a mistake that B
+believes a falsehood, and—as said—it does not seem right to think that any
+organism can deceive by mistake.
+As a warm-up example of nonparadigmatic, functional interpersonal deception
+(derived from Krstić ) consider a reading of an interesting piece of advice for
+job interviews in academia. The advice is Don’t ‘be yourself’ (Arvan ).
+Rather than being yourself, you should create
+a professional persona . . . [namely,] a full-ﬂedged adult who
+demonstrates a tightly organized research program, a calm conﬁdence
+in a research contribution to a ﬁeld or discipline, . . . innovative but
+concise, non-emotional ideas about teaching at all levels of the
+curriculum, . . . and . . . a steely-eyed grasp of the real . . . needs of
+actual hiring departments. (Kelsky )
+This advice is not meant for a person who is simply nervous before an interview (if
+this were the case, the advice would have been ‘Don’t show that you’re nervous’) but
+rather for a person who has spent years on the job market desperately trying to land a
+job. People who have just earned their PhD hardly can have a steely-eyed grasp of the
+real needs of actual hiring departments. For them, the advice ‘don’t be yourself’
+genuinely means something like ‘present yourself as a different person, a person
+who should deﬁnitely be hired’. This advice is very sensible, and it comes with a
+series of useful instructions on how to present oneself in the best possible light.
+However, ‘don’t be yourself’ is exactly what one predator female ﬁreﬂy would say
+to another (if they could speak).
+What I mean is that just as the candidate does not want to transmit a message that
+the committee members will understand as ‘I am not at all conﬁdent in my teaching
+abilities, and I’m losing faith in my research, but I desperately need this job’, the
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+predator female ﬁreﬂies do not ‘want’ to transmit a signal that harmless males will
+understand as ‘I eat harmless males, and I need you to come down’. The
+not-being-himself job candidate mimics the perfect candidate in the same way the
+predator female ﬁreﬂy mimics a sexually receptive female. Therefore, if the
+predator ﬁreﬂy engages in deception, why not say the same about a job candidate,
+call him Penniless, who is not being himself but who misleads only having in mind
+the beneﬁcial result of his behavior (getting the job)? Here are the similarities
+between the two cases (call the latter Job Candidate).
+While Penniless’s intention is to get the job (the beneﬁcial result) rather than
+misleading anyone, misleading is nonetheless the function of his behavior: the
+interlocutors should think that he is ‘a steely-eyed professional persona’ rather
+than a nervous wreck who has lost faith in his research and teaching but
+desperately needs a job. And this function is a product of the fact that misleading
+members of search committees is a more successful strategy for causing them to
+hire nervous wrecks than informing them; the selection pressure explains why
+misleading occurs in this context. Therefore, it will not be an accident if Penniless
+misleads the members of the search committee by not being himself. Penniless and
+the predator female ﬁreﬂy are both being deceptive but not deceitful: they both do
+not intend to mislead anyone, but the function of their behavior is to mislead.
+Nevertheless, it could be objected that, unlike Fireﬂies, Job Candidate does not involve
+deception. The context is such that this is a formal interview, everyone involved
+understands that this is a formal interview, and a job candidate’s behavior is a
+performance; it is like being on stage. Because the interviewers understand all of this,
+it would be peculiar were they to be misled as to this being the ‘the real Penniless’.
+However, from the fact that the context involves general distrust, it does not follow
+that no (mis)information can be communicated. Poker games are an obvious example.
+In poker, one player may think that they have another player ‘ﬁgured out’, and the
+other player can use this to mislead him by manipulating his expectations. For
+instance, if player B has reasons to think that player A expects a lie or a bluff, B may
+double bluff, and if B thinks that A expects a double bluff, B may triple bluff, and so
+on. Likewise, a job candidate can use this general distrust involved in job interviews to
+their own advantage: they may exploit the fact that search committee members can
+never know which part of the interview is actually not a performance. Therefore,
+plausibly assuming that the information obtained in some job interviews makes some
+difference when it comes to hiring people who are being interviewed, job candidates
+being interviewed can cause epistemic harm in this context. And, if so, not being
+oneself at a job interview sometimes counts as engaging in deception.
+Another objection says that Penniless realizes that he is pretending to be someone he
+is not and that, thus, he realizes (expects) that he will thereby mislead the members of
+the search committee. Therefore, he obliquely intends to mislead and is, thus, being
+deceitful after all. If there are twin consequences of an action, x and y, and A wants
+x and is prepared to accept y, then both x and y are considered as A’s intended ends,
+and A is equally responsible for both. In this situation, we say that A intends x
+directly and y obliquely (see Williams ). A man who (directly) intends to kill his
+wife and plants a bomb under the bus she takes every day obliquely intends to kill
+other passengers. Likewise, if Penniless believes that his not being himself has twin
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+consequences, getting the job (x) and misleading his interlocutors (y), and he intends x
+and is prepared to accept y, then he obliquely intends to mislead them, and this—the
+objection concludes—explains why this counts as deception.
+On this interpretation, Job Interview is analogous to a situation from the movie
+Yes Man (Warner Bros. ) in which Carl is playing a ‘Yes’ game, and he needs
+to say ‘yes’ to everything. When Alison, who knows nothing about the ‘Yes’
+game, asks Carl to move in together, he says ‘yes’ but not because he really wants
+to do this but rather because he follows the rules of the game. Because Carl knows
+that he will cause Alice to acquire a false belief, he counts as intentionally
+deceiving her though his intention is oblique (see Krstić , a).
+Positing oblique intentions does not explain all variations of Job Interview: some
+candidates may not realize what they are doing by ‘not being themselves’, and one
+cannot obliquely intend to y if one does not realize that y is a consequence of
+one’s behavior. Besides, there are other examples that obviously do not involve an
+oblique intention to mislead and so do not qualify as involving deceit.
+For instance, some people put on makeup so subtly that it looks like they are not
+wearing makeup at all while their skin looks young, without wrinkles, and naturally
+fresh. Because the function of this behavior is to cause false beliefs about one’s
+appearance, these people are engaged in deception, but we should not think that
+they all (even if some do) intend to cause epistemic harm. Most of them have
+simply perfected applying makeup in a way they think is fashionable, and they do
+this because they think it is fashionable, not because they intend or expect to
+mislead. These people are being deceptive but not deceitful. Consider a TV host, a
+middle-aged man whose makeup is intended to make him look well-rested,
+younger, and without wrinkles. When he applies makeup before a show, he
+engages in deception even though he need not intend or expect to mislead anyone;
+he could just want to look younger and be more attractive to his viewers. He may
+think that this is a ‘demand of the profession’ and try to satisfy this ‘demand’.
+This man is also being deceptive but not deceitful.
+Let us compare this case with Mele’s example from section . Mele writes that,
+mistakenly believing that his son’s keys were on Mele’s desk, Mele misinformed
+his son by telling him they were on Mele’s desk. To show why the TV host’s
+behavior should count as involving deception whereas Mele’s example should not,
+consider Davidson’s (: –) famous example (italics and a comment added):
+I ﬂip the switch, turn on the light, and illuminate the room.
+Unbeknownst to me I also alert a prowler to the fact that I am home.
+Here I do not do four things, but only one, of which four descriptions
+have been given. I ﬂipped the switch because I wanted to turn on the
+light, and by saying I wanted to turn on the light I explain (give my
+reason for, rationalize) the ﬂipping [I ﬂipped the switch because I
+intended to turn on the light]. But I do not, by giving this reason,
+rationalize my alerting of the prowler nor my illuminating of the room.
+When Mele tells his son that the keys are on Mele’s desk, he does this because he
+intends to give his son the correct location of the keys. This gives us the reason for
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+uttering ‘They are on my desk’—it rationalizes Mele’s behavior. But it does not
+rationalize causing a false belief in his son. Causing this false belief is analogous to
+alerting the prowler. This is deception neither on the traditional view because the
+intention is not to mislead nor under a functional description because the function
+of sincerely reporting on your beliefs is not misleading.
+In contrast, when a speciﬁc middle-aged TV host puts some makeup on, the
+rationalization is that he wants to look younger or more attractive to his viewers,
+to satisfy the demands of his profession (beneﬁcial result)—condition () of the
+functional analysis is satisﬁed. He ﬂips the switch (puts on makeup) in order to turn
+on the light (look younger, more attractive)—condition () is satisﬁed (misleading
+generates the beneﬁcial result). And just as the function of turning on the light is
+illuminating the room, the function of looking younger is causing false beliefs or
+incorrect credences—condition (). Therefore, this is deception when the host’s
+behavior misleads the audience, condition (). Just as Davidson nonaccidentally
+illuminates the room by ﬂipping the switch but only intends thereby to turn on the
+light, so the TV host nonaccidentally causes false beliefs about his appearance and
+age, but he intends only to look younger or more attractive.
+However, while Davidson can easily see that by turning on the light he
+illuminates the room, it does not follow that all people who put on makeup to
+look younger, prettier, and so on can easily see that they are being deceptive:
+this is where the analogy breaks down. That is to say, even though the TV host
+intends to look younger, it does not follow that he intends to mislead others
+about his age. Intentionally making yourself look different (i.e., younger) does
+not entail realizing that you are being deceptive. This realization requires a
+further reﬂective inference some people do not make (not right away, at least).
+However, in standard contexts, the function of looking differently just is
+to signal that you are different (the function of turning on the light is
+illuminating the room), and thus, the TV host misleads unintentionally and
+unknowingly but neither accidentally nor by mistake; he is being deceptive but
+not deceitful.
+Interestingly, by consistently applying makeup in such a way, this TV host
+could mislead even himself. He could, for instance, in some foreseeable future
+cause himself to believe that he is younger in his biological age (how old his
+cells are) than in his chronological age (how long he has existed). If
+this happens, we would have a case of self-deceptiveness but not of
+self-deceitfulness because he did not intend to deceive himself but his ending up
+misled by his own behavior was not an accident or a mistake. The Western
+hog-nosed snake misleads nonpredators in the same way. We seem to have a
+plausible and nonproblematic functional reconstruction of self-deception that
+correctly locates deception in self-deception. This reconstruction, of course, is
+far from offering a complete etiology of self-deception, but it is plausible
+enough for our purposes.
+Another example of nonintentional human deception involves using the
+poisonous ‘belladonna’ (Atropa belladonna) plant to make one’s pupils dilate to
+give one’s eyes a dusky and lustrous appearance. Because this dusky and lustrous
+appearance was considered to be the height of beauty in Renaissance Italy
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+(‘belladonna’ means ‘beautiful lady’), women in Renaissance Venice used
+belladonna extract to dilate their pupils (Passos and Mironidou-Tzouveleki :
+; Carlini and Maia : ). For example, Titian’s painting Woman with a
+Mirror’ seems to depict a lady who used belladonna to enhance her beauty
+(Masterson ). But why do large pupils make women look more beautiful?
+According to recent research, people’s pupils grow largest when they are looking
+at someone they ﬁnd sexually stimulating. Men are most attracted by large pupils
+in women, while women are most attracted by medium-sized pupils in men
+(Tombs and Silverman ; Rieger and Savin-Williams ), and women’s
+pupils dilate more than men’s (Lick, Cortland, and Johnson ). One plausible
+explanation for this discrepancy in preferences is that males are most attracted by
+large pupils because it is in their reproductive interest to avoid missing a mating
+opportunity with an interested partner (Tombs and Silverman ; Lick,
+Cortland, and Johnson ), whereas female mating strategies are best served by
+more moderate sexual attentions because then they can avoid physical harm
+(caused by, e.g., forced copulation). This hypothesis is also consistent with the fact
+that homosexual women exhibit male-typical sexual responses (Rieger and
+Savin-Williams : –).
+In short, the false impression that a woman with large pupils is sexually aroused
+made her more attractive in the eyes of men and some mainly homosexual women. In
+functional terms, this is deception because of the following reasons. The beneﬁcial
+result of dilating one’s pupils is to look more attractive—condition (). This result
+is generated by misleading: a woman looks more attractive to particular groups of
+people because of the given false impression that she is sexually aroused in their
+presence—condition (). The function of dilating pupils is to mislead (cause the
+false impression that the woman is sexually aroused)—condition (). And this
+behavior involves deception when it leads to misleading—condition ().
+Finally and vitally, because people in Renaissance Italy did not have access to
+relevant modern studies, women who used belladonna obviously did not intend to
+cause people to think that they are sexually aroused. They just wanted to look
+more attractive (beneﬁcial result), and they did not know that what made them
+more attractive was the false impression that they were sexually aroused
+(function). Rather, they thought that what made them more attractive were larger
+pupils qua larger pupils—in the sense in which a muscular body qua muscular
+body may make a man handsome or in which blue eyes qua blue eyes may make a
+person pretty, and so on. These women, therefore, did not intend to mislead, but
+this was deception nonetheless—deceptiveness, to be exact. The use of belladonna
+in the past stands in sharp contrast with more recent Japanese animated cartoons,
+in which females have exaggerated pupils precisely because they indicate sexual
+arousal (see Durham ). The creators of Japanese animated cartoons clearly
+had deceitful intentions.
+Job Interview, TV Host, and Belladonna involve human deceivers whose behavior is
+analogous to the behavior of the female predator ﬁreﬂy (agents are ‘aware’ of the
+behavior’s result but not of its function), and they show that not intending to deceive
+does not entail that a person did not engage in deception. Wearing red lipstick or
+making your cheeks red (people’s lips and cheeks are red when they are sexually
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+aroused) are also deceptive behaviors in a functional but not intentional sense. The
+traditional analysis, which requires deceivers to intend to deceive, seems to get things
+wrong in these cases. We do feel tricked when we discover that someone is wearing
+excessive makeup and that they actually look different or that they were
+misrepresenting themselves in some way so that we would like them (e.g., in a job
+interview or on a ﬁrst date), and the functional view explains why we have this
+reaction: because misleading is the function of their behavior, we have been genuinely
+tricked.
+
+. A Possible Objection
+My main argument may appear viciously circular: I use cases of nonparadigmatic
+deception to support the functional analysis of human deception, but I then use
+the same functional analysis to support the claim that these cases involve
+deception. If these cases are evidence that the theory is correct, one may say, then
+the theory cannot be used to argue that they involve nonparadigmatic deception
+because this is question-begging. We need reasons independent of the functional
+analysis to support this interpretation. However, the charge of circularity should
+not be raised against my argument because any plausible theory of biological
+deception will easily classify my cases as involving deception. I will demonstrate
+this fact, which further reinforces the functional analysis, by applying the standard
+and Birch’s () analyses to each of the cases discussed. I will then compare
+these cases with their analogues in animal deception just to seal the deal.
+Job Interview, TV Host, and Belladonna all involve deception on the standard
+(Skyrmsian) signaling-based analysis because the signals carry misinformation,
+and the senders systematically beneﬁt from sending them. In fact, the signal
+involves the same kind of misinformation in Job Interview and Fireﬂies: it
+misrepresents the sender as being someone else. And transmitting the signal is to
+the systematic beneﬁt of the senders: they tend to cause the food to come down
+or to cause the members of the search committee to offer the sender a job. In TV
+Host, the signal carries misinformation regarding the age of the man and the
+health of his skin, and in Belladonna, the signal carries misinformation
+regarding the degree of attractiveness of the given woman. And the senders
+systematically beneﬁt from sending these signals because they get what they
+want; they look younger or prettier.
+Birch’s strategic exploitation view gives the same result. To summarize his view
+(Birch : ), a signal S, sent in a state of the world X, is biologically deceptive
+if and only if:
+Receiver exploitation conditions:
+(a) Sending S in X elicits some behavior B in the receiver (victim).
+(b) S elicits B in X not because B beneﬁts the receiver in X, but because
+(i) B beneﬁts receivers in some other state of the world, X’, and
+(ii) P(X’ |S ) > P(X’)— in other words, the signal raises the
+probability of a nonactual state of the world.
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+Sender strategy conditions:
+c) S is sent in X as part of a strategy.
+d) The sender’s strategy has been maintained by selection at least in part
+because of the payoffs conferred by receivers’ performance of B in X.
+Unlike the standard (sender-beneﬁt) analyses of deception, Birch’s analysis talks
+about subjective rather than objective probabilities: the signal increases the
+probability of a false state from the receiver’s standpoint (Birch : ). This
+difference, however, changes nothing with respect to our examples. When we
+apply this theory to Job Interview, we get that in this state of the world X, at least
+for some members of the search committee, the behavior of Penniless raises the
+subjective probability of a nonactual state of the world X’ in which Penniless is a
+professional candidate, and search committees hire candidates (behavior B) when
+they are in X’. Penniless’s behavior is part of a strategy, and this strategy has been
+maintained by selection at least in part because of the payoffs conferred by search
+committee members’ performance of B in X. That is to say, job candidates are not
+being themselves because some members of search committees hire those
+candidates whom they judge to be more professional than their rivals in part
+because of the candidates’ performance in the interviews. Therefore, Penniless
+engages in deception on Birch’s account.
+Similarly, in this state of the world X, wearing makeup in a particular way raises
+the subjective probability of a nonactual state of the world X’ in which a particular
+middle-aged TV host is young(er) and more attractive, and because viewers tend to
+look favorably on such TV hosts, media companies tend to hire TV hosts when they
+are in X’ (behavior B). The host’s behavior is a part of a strategy, and this strategy has
+been maintained by selection at least in part because of the payoffs conferred by the
+audience’s performance of B in X. That is to say, middle-aged male TV hosts are not
+being themselves because TV stations employ people in part because they think that
+these people leave a positive visual impression on their audience. Therefore, the host
+counts as engaging in deception on Birch’s account.
+Finally, in the state of the world X, using belladonna extract raises the subjective
+probability of a nonactual state of the world X’ in which a particular woman is
+sexually receptive in the presence of the person who is looking at her, and some
+parts of the human population are most attracted to such women (behavior B)
+when they are in X’ (when the women’s pupils are dilated). The belladonna-using
+women’s behavior, then, was a part of a strategy, and this strategy has been
+maintained by selection at least in part because of the payoffs conferred by some
+people’s performance of B in X. That is to say, women in Renaissance Venice used
+this dangerous extract (it is essentially a poison) because men were most attracted
+to large pupils. Therefore, they count as having been engaging in deception on
+Birch’s account even though they thought that large pupils qua large pupils are
+what made them more attractive.
+Each example has its clear analogue in animal deception. In Job Interview,
+Penniless is ‘not being himself’ by mispresenting himself as someone else (a
+‘professional persona’). This behavior is analogous to the behavior of the predator
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+female ﬁreﬂy from Fireﬂies: she misrepresents herself as someone else who is ready to
+mate. The ‘not being themselves’ of the Renaissance women and the TV host is
+different: ﬁrst, it does not involve misrepresenting themselves as someone else, and
+second, it does not entail that they lack the relevant qualities (e.g., that they are
+not pretty). A handsome or relatively young person can pretend to be even more
+handsome or younger without knowing that they are causing false beliefs in other
+people—especially when this behavior is expected or encouraged by their
+environment. Their ‘not being themselves’ involves a kind of enhancing of their
+own qualities, and this behavior is comparable to the kind of automimicry in
+animals and plants.
+In a commonly discussed kind of automimicry, some members of a species
+resemble their better-defended conspeciﬁcs. One example is the monarch butterﬂy
+(Danaus plexippus): some monarchs do not contain toxic cardiac glycosides, but
+predators cannot easily know which ones. If we treat job candidates as members
+of one ‘job candidate’ species, the Job Candidate involves this kind of
+automimicry: some candidates who are not ‘professional personas’ mimic
+candidates who are. However, the TV host and the belladonna examples involve
+the kind of automimicry in which some parts of an individual are mimicked in
+other parts of the same individual (animal or plant). In particular, some animals
+have coloration on their head that makes their horns and antlers look bigger, or
+their ears are positioned next to horns to make it look like the animal has more
+horns (Guthrie and Petocz ; West-Eberhard : ), and some plants give
+an impression of more extensive thorns by having colorful elongated organs found
+in some other plants (Lev-Yadun ).
+This kind of automimicry does not involve misrepresenting oneself as someone
+else: these animals actually have (sufﬁciently large) antlers or horns; the coloration
+merely makes them look bigger, and the ears merely make it look like they have
+more horns (four rather than two). And the plants do have thorns: they just have
+fewer of them. ‘Not being yourself’ by using the belladonna extract or putting on
+makeup is analogous to these instances of automimicry. The function here is to
+exaggerate the already existing qualities rather than to represent the organism as
+another organism that has these qualities.
+All in all, these examples seem to show nicely that one may deceive someone even
+if one does not intend to deceive them. In this case, one is deceptive but not deceitful.
+
+. Concluding Remarks
+In this essay, following Fallis (b), Artiga and Paternotte (), and my earlier
+analysis of self-deception (Krstić ), I proposed a functional analysis of human
+deception according to which a person engages in deception if and only if the
+function of her behavior is to mislead (i.e., cause false beliefs or less accurate
+credences); she need not actually intend to mislead. I discussed some examples
+that show that deceiving while not intending to mislead is possible and quite
+common in human behavior.
+And examples of deceiving while intending not to mislead may also be quite
+common. Many people engage in mimicry or automimicry: they make their
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+eyelashes, pupils, or lips look bigger; they make their lips or cheeks look red; they
+display excessive kindness at the beginning of a relationship, at work, or in public
+transport; and so on. But most people want their partners to love them for who
+they are or their environment to respect and accept them for who they really are.
+Given these two features, we may safely assume that some people who engage in
+(auto)mimicry also want to be loved for who they really are. Because they engage
+in (auto)mimicry, these people engage in deception. However, because they want
+to be loved or respected for who they really are, they also intend not to mislead
+their potential romantic partners, their colleagues, or even strangers on the bus. It
+follows, then, not only that they are being deceptive but also that they deceive
+despite intending not to mislead, which is a very interesting situation and
+something we thought is impossible.
+The functional view may also generate a nonproblematic account of
+self-deception. Allow me to sketch the idea brieﬂy here (I aim to provide a detailed
+functional analysis of self-deception soon). Recall that the behavior of
+nonparadigmatic human deceivers is analogous to the behavior of predator female
+ﬁreﬂies: by behaving in a certain way, the deceivers ‘desire’ a practical result, but
+they do not realize that they achieve this result by misleading others. I think that
+something similar can happen in self-deception: a desire that p is true (I am young
+and pretty) or that p comes about (my favorite team wins) can set in motion a
+certain behavior whose function is to mislead about something relevant to
+whether p and which typically generates a tangible (beneﬁcial) result, such as
+reducing anxiety, resolving dissonance, satisfying a desire, and so on.
+This mechanism will mislead the self if, just like Penniless, the TV host, or the
+Belladonna women, the person is not aware of her behavior’s function. These
+people may even ‘want’ the result, which would explain why they engage in
+self-deception, but they will not be intentionally deceiving themselves because they
+are unaware of their behavior’s function; thus, no paradoxes arise. In view of this
+etiology of self-deception, I suggested in section . that the TV host could deceive
+himself into believing that he is biologically younger by consistently applying
+makeup that makes him look younger. Elsewhere (Krstić b), I argue that it is
+even possible to deceive oneself nonparadoxically by lying to oneself (i.e., that
+intentionally deceiving oneself is not conceptually impossible).
+Finally, my functional view generates some new interesting questions relevant
+to interpersonal deception. For example, even if someone did not intend to
+cause false beliefs in us, we feel tricked and often offended when we discover
+that the person in question is wearing lots of makeup that cannot be noticed or
+that they were pretending to be OK with something or that they like the meal
+we made or our hairstyle just to make us like them, and so on. Therefore, the
+fact that one does not intend to mislead does not entail that one is not culpable
+for one’s behavior. Those who engage in deception do cause epistemic harm,
+disappoint some people, fail to live up to certain expectations, and sometimes
+violate our trust. Causing epistemic harm in this way might be relevant for
+moral culpability even if it is not intended. What has been learned, then, is that
+intending to cause false beliefs or inaccurate credences is not necessary for
+moral culpability.
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+A F U N C T I O N A L A N A LY S I S O F H U M A N D E C E P T I O N
+
+
+
+However, it is not immediately clear what makes nonparadigmatic deceivers
+culpable for their behavior or whether they are always culpable for their behavior.
+Young girls who have learned the art of makeup while playing with their parents
+or the people from Renaissance Italy seem to be blameless because they are not in
+a position in which it could be expected of them to realize that they are causing
+epistemic harm. Therefore, the existence of nonparadigmatic deception suggests
+that deception is prima facie (i.e., defeasibly) wrong (see Bok ), rather than
+pro tanto wrong (i.e., the wrong can be outweighed, but it remains). Accordingly,
+my functional analysis solves some problems and allows us to understand human
+behavior better, but it opens some new interesting questions as well.
+VLADIMIR KRSTIĆ
+NAZARBAYEV UNIVERSITY
+
+drpop@yahoo.com
+vladimir.krstic@nu.edu.kz
+
+References
+Artiga, Marc, and Cedric Paternotte. () ‘Deception: A Functional Account’. Philosophical
+Studies, , –.
+Arvan, Marcus. () ‘Job-Market Boot Camp, Part : The APA Interview’. In The Philosophers’
+Cocoon. https://philosopherscocoon.typepad.com/blog///job-market-boot-camp-part-the-apa-interview.html.
+Barnes, Annette. () Seeing Through Self-deception (New York: Cambridge University Press).
+Birch, Jonathan. () ‘Propositional Content in Signaling Systems’. Philosophical Studies, ,
+–.
+Birch, Jonathan. () ‘Altruistic Deception’. Studies in History and Philosophy of Science Part C:
+Studies in History and Philosophy of Biological and Biomedical Sciences, , –.
+Bok, Sissela. () Lying: Moral Choice in Public and Private Life. New York: Vintage Books.
+Carlini, E. A., and Lucas O. Maia. () ‘Plant and Fungal Hallucinogens as Toxic and Therapeutic
+Agents’. In P. Gopalakrishnakone, C. R. Carlini, R. Ligabue-Braun (eds.), Plant Toxins (Springer
+Netherlands), –.
+Carson, Thomas L. (). Lying and Deception: Theory and Practice. Oxford: Oxford University
+Press.
+Davidson, Donald. () ‘Actions, Reasons, and Causes’. Journal of Philosophy, , –.
+Durham, Meenakshi Gigi. () The Lolita Effect: The Media Sexualization of Young Girls and
+What We Can Do About It. Woodstock, NY: Overlook.
+Fallis, Don. (a) ‘Skyrms on the Possibility of Universal Deception’. Philosophical Studies, ,
+–.
+Fallis, Don. (b) ‘What Is Disinformation?’ Library Trends, , –.
+Fallis, Don, and Peter J. Lewis. () ‘Toward a Formal Analysis of Deceptive Signalling’. Synthese,
+, –.
+Fallis, Don, and Peter J. Lewis. () ‘Animal Deception and the Content of Signals’. Studies in
+History and Philosophy of Science, Part A, , –.
+Fernández, Jordi. () ‘Self-deception and Self-knowledge’. Philosophical Studies, , –.
+Garson, Justin. () What Biological Functions are and why They Matter. Cambridge: Cambridge
+University Press.
+Guthrie, R. D., and Ronald G. Petocz. () ‘Weapon Automimicry Among Animals’. The
+American Naturalist, , –.
+Holton, Richard. () ‘What is the Role of Self in Self-deception’. Proceedings of the Aristotelian
+Society, , –.
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+
+
+V L A D I M I R K R S T I Ć
+
+Kelsky, Karen. () The ‘Be Yourself’ Myth: Performing the Academic Self on the Job Market.
+http://theprofessorisin.com////the-be-yourself-myth-performing-the-academic-self-onthe-job-market/.
+Krstić, Vladimir. () ‘On the Nature of Indifferent Lies, a Reply to Rutschmann and Wiegmann’.
+Philosophical Psychology, , –.
+Krstić, Vladimir. () ‘On the Function of Self-Deception’. European Journal of Philosophy, ,
+–.
+Krstić, Vladimir. (a) ‘Lying: Revisiting the Intending to Deceive Condition’. Analysis (Online
+First), –.
+Krstić, Vladimir. (b) ‘Lying to Others, Lying to Yourself, and Literal Self-Deception’. Inquiry
+(Online First), –.
+Krstić, Vladimir. (c) ‘We Should Move on From Signalling-Based Analyses of Biological
+Deception’. Erkenntnis (Online First), –.
+Krstić, Vladimir, and Chantelle Saville. () ‘Deception (Under Uncertainty) as a Kind of
+Manipulation’. Australasian Journal of Philosophy, , –.
+Lackey, Jennifer. () ‘Lies and Deception: An Unhappy Divorce’. Analysis, , –.
+Lev-Yadun, Simcha. () ‘Weapon (Thorn) Automimicry and Mimicry of Aposematic Colorful
+Thorns in Plants’. Journal of Theoretical Biology, , –.
+Lick, David J., Clarissa I. Cortland, and Kerri L. Johnson. () ‘The Pupils are the Windows to
+Sexuality: Pupil Dilation as a Visual Cue to Others’ Sexual Interest’. Evolution and Human
+Behavior, , –.
+Mahon, James E. () ‘A Deﬁnition of Deceiving’. International Journal of Applied Philosophy,
+, –.
+Mahon, James E. () ‘The Deﬁnition of Lying and Deception’. Stanford Encyclopedia of
+Philosophy. https://plato.stanford.edu/archives/win/entries/lying-deﬁnition/.
+Masterson, Meghan. () ‘Bad Decisions in History: Featuring Belladonna’. https://
+meghanmastersonauthor.com/bad-decisions-history-featuring-belladonna/.
+McWhirter, Gregory. () ‘Behavioural Deception and Formal Models of Communication’.
+British Journal for the Philosophy of Science, , –.
+Mele, Alfred R. () ‘Real Self-deception’. Behavioral and Brain Sciences, , –.
+Mele, Alfred R. () Self-Deception Unmasked, Princeton: Princeton University Press.
+Passos, I. D., and M. Mironidou-Tzouveleki. () ‘Hallucinogenic Plants in the Mediterranean
+Countries’. In V. R. Preedy (ed.), Neuropathology of Drug Addictions and Substance Misuse;
+Volume : Stimulants, Club and Dissociative Drugs, Hallucinogens, Steroids, Inhalants and
+International Aspects (London: Academic Press), –.
+Patten, David. () ‘How Do We Deceive Ourselves?’ Philosophical Psychology, , –.
+Rieger Gerulf, and Ritch C. Savin-Williams. () ‘The Eyes Have It: Sex and Sexual Orientation
+Differences in Pupil Dilation Patterns’. PLoS One, , e.
+Searcy, William A., and Stephen Nowicki. () The Evolution of Animal Communication:
+Reliability and Deception in Signaling Systems. Princeton: Princeton University Press.
+Shea, Nicholas, Peter Godfrey-Smith, and Rosa Cao () ‘Content in Simple Signalling Systems’.
+British Journal for the Philosophy of Science, , –.
+Skyrms, Brian. () Signals: Evolution, Learning, and Information. New York: Oxford University
+Press.
+Skyrms, Brian, and Jeffrey A. Barrett. () ‘Propositional Content in Signals’. Studies in History
+and Philosophy of Science Part C: Studies in History and Philosophy of Biological and
+Biomedical Sciences, , –.
+Tombs, Selina, and Irwin Silverman. () ‘Pupillometry: A Sexual Selection Approach’, Evolution
+and Human Behavior, , –.
+West-Eberhard, Mary Jane. () ‘Sexual Selection, Social Competition, and Evolution’.
+Proceedings of The American Philosophical Society, , –.
+Williams, Glanville. () ‘Oblique Intention’. Cambridge Law Journal, , –.
+
+https://doi.org/10.1017/apa.2023.19 Published online by Cambridge University Press
+
+

@@ -1,0 +1,767 @@
+Archives of Sexual Behavior
+https://doi.org/10.1007/s10508-022-02359-8
+
+ORIGINAL PAPER
+
+How Autogynephilic Are Natal Females?
+J. Michael Bailey1
+
+· Kevin J. Hsu2
+
+Received: 28 November 2021 / Revised: 24 May 2022 / Accepted: 31 May 2022
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2022
+
+Abstract
+Blanchard proposed that autogynephilia is a natal male’s paraphilic sexual arousal in response to the thought or fantasy of
+being a woman. Furthermore, based on evidence collected from natal males with gender dysphoria, Blanchard argued that
+autogynephilia is the fundamental motivation among nonhomosexual males (i.e., those not exclusively attracted to men) who
+pursue sex reassignment surgery or live as transgender women. These ideas have been challenged by several writers who
+have asserted, or offered evidence, that autogynephilia is common among women. However, their evidence was weakened by
+problematic measures and limited comparison groups. We compared four samples of autogynephilic natal males (N = 1549),
+four samples of non-autogynephilic natal males (N = 1339), and two samples of natal females (N = 500), using Blanchard’s
+original measure: the Core Autogynephilia Scale. The autogynephilic samples had much higher mean scores compared with
+non-autogynephilic natal males and natal females, who were similar. Our findings refute the contention that autogynephilia
+is common among natal females.
+Keywords Autogynephilia · Females · Transgender · Paraphilias · Sex differences
+
+Introduction
+Autogynephilia has been defined as the paraphilic propensity
+of a natal male to experience sexual arousal by the thought or
+fantasy of being a woman (Blanchard, 1989a, 1991). Blanchard proposed that autogynephilia is one of two distinct
+motivations for transgender identity among natal males.
+The second motivation for transgender identity is exemplified in highly feminine natal males attracted exclusively to
+men, whom Blanchard called “homosexual transsexuals.”
+Autogynephilic transsexuals are fundamentally motivated by
+their erotic interest in being a woman, whereas homosexual
+transsexuals are motivated by their non-erotic affinity with
+women and femininity. Consequently, according to Blanchard, autogynephilia and extreme femininity that is associated with male homosexuality are two distinct reasons why
+natal males pursue sex reassignment surgery. Blanchard’s
+model has received considerable empirical support, although
+* J. Michael Bailey
+jm-bailey@northwestern.edu
+1
+
+Department of Psychology, Northwestern University, 2029
+Sheridan Rd., Evanston, IL 60208, USA
+
+2
+
+Department of Psychological and Social Sciences,
+Pennsylvania State University, Abington, Abington, PA, USA
+
+some aspects have received more support than others (for
+reviews of research on autogynephilia, see Blanchard, 2005;
+Lawrence, 2013, 2017). Lawrence (2010a) has estimated that
+autogynephilic transsexuals are currently the most common
+type of male-to-female transsexual in North America and
+Western Europe.
+The proposition that autogynephilia is a paraphilia exclusively experienced by natal males comprises two related
+ideas: that autogynephilia is a paraphilia and that it occurs
+only in natal males. These ideas are related, because paraphilias have been observed almost exclusively in natal males
+(American Psychiatric Association, 2013; Konrad et al.,
+2015). Thus, if autogynephilia was common in natal females,
+this would be evidence against the idea that it is a paraphilia.
+In his seminal work on autogynephilia, Blanchard (1989b)
+developed the “Core Autogynephilia Scale.” This measure
+includes eight items asking respondents whether they have
+experienced sexual arousal in response to different thoughts
+or fantasies about being a woman or having a woman’s body.
+For example, one item asks: “Have you ever become sexually aroused while picturing yourself having a nude female
+body or with certain features of the nude female form?”
+Blanchard studied gender dysphoric natal males, finding that
+those who were exclusively attracted to men (whom he called
+“homosexual transsexuals”) had substantially lower scores
+
+13
+
+Vol.:(0123456789)
+
+Archives of Sexual Behavior
+
+on the Core Autogynephilia Scale compared with other gender dysphoric natal males (“nonhomosexual transsexuals”;
+Blanchard, 2005). Blanchard did not assess autogynephilia in
+natal females or in non-gender dysphoric natal males.
+
+Studies of Autogynephilia in Natal Females
+In a study focusing mainly on male-to-female transsexuals,
+Veale et al. (2008) also assessed natal females using items
+adapted from Blanchard’s (1989b) Core Autogynephilia
+Scale. Importantly, however, they changed the wording of
+six (out of eight) items from the original measure. Specifically, the words “attractive or more attractive” were added.
+For example, Blanchard’s item “Have you ever been sexually
+aroused by the thought of being a woman?” was changed
+to “Have you ever been sexually aroused by the thought of
+being an attractive or more attractive woman?” The authors
+believed these changes would make the new items more
+applicable to natal females. However, the item modifications
+also altered their meaning. Blanchard’s scale assessed sexual arousal related to the fantasy or idea of being a woman;
+Veale et al.’s revised scale to the fantasy or idea of being
+an attractive, or more attractive, woman. For those whose
+sexuality is expressed interpersonally, being attractive may
+connote interpersonal sexual interaction. In contrast, autogynephilia does not require an interpersonal context. Many
+autogynephilic natal males’ sexual fantasies involve only
+themselves as women. Furthermore, their sexual behaviors
+are often solitary, such as erotic cross-dressing in private
+(Blanchard, 1989a, 1991; Hsu et al., 2015, 2017; Lawrence,
+2013).
+Compared with male-to-female transsexuals, natal
+females scored significantly lower on Veale et al.’s (2008)
+revised scale. Despite this difference, Veale et al. noted
+that “a number of biological females endorsed items on
+the Core Autogynephilia [Scale]” (p. 595). However, they
+expressed skepticism about the existence of autogynephilia
+in natal females for two reasons: first, because the scientific
+and clinical literature was bereft of reports of its existence,
+and second, because they doubted that their measures were
+adequate for demonstrating it. Indeed, they concluded that
+“it is unlikely that these biological females actually experience sexual attraction to oneself as a woman in the way that
+Blanchard conceptualized it” (p. 595).
+Blanchard’s (1989a, 1991) original research on autogynephilia focused on clinical populations of natal males with
+gender dysphoria. He was primarily concerned with clarifying which, if any, were distinct populations of male-to-female
+transsexuals. Thus, neither non-dysphoric natal males nor
+natal females were assessed in this research. Moser (2009)
+suggested that Blanchard’s neglect of the latter populations
+led him astray. Specifically, Moser argued that both men and
+women commonly experience sexual arousal to their own
+
+13
+
+bodies. Consequently, Moser recruited 51 “female professional employees of an urban hospital,” to answer a 9-item
+scale that allegedly accurately assessed autogynephilia; 29
+natal women provided responses. However, only one of these
+items was closely related to an item on the Core Autogynephilia Scale. Moser concluded that 93% of the respondents would be considered autogynephilic, if autogynephilia
+is understood as “ever having erotic arousal to the thought or
+image of oneself as a woman” (p. 539).
+Lawrence (2010b) criticized Moser’s (2009) study, arguing that the items were not good measures of autogynephilia,
+especially for natal women. Lawrence argued that some of
+Moser’s items were inappropriate, because they tended to
+conflate sexual arousal to the idea of having a female body
+(or engaging in stereotypically feminine behavior) with
+arousal to interpersonal sexual fantasies. For example, one
+of Moser’s items, “I have been erotically aroused by preparing (shaving my legs, applying make-up, etc.) for a romantic evening or when hoping to meet a sex partner” was an
+adaptation of Blanchard’s item “Have you ever felt sexually
+aroused when putting on women’s perfume or makeup, or
+when shaving your legs?” (Note that this item was not on
+the Core Autogynephilia Scale [Blanchard, 1989b] but from
+the Cross-Gender Fetishism Scale [Blanchard, 1985].) Only
+Moser’s item has an interpersonal component. Furthermore,
+sexual arousal evoked by “preparing…for a romantic evening” seems quite different than sexual arousal evoked by putting on women’s perfume or makeup or shaving one’s legs in
+a solitary occasion. Lawrence concluded that Moser’s items
+ostensibly measuring autogynephilia were instead measuring “something superficially resembling autogynephilia in
+women” (p. 1).
+Beyond the questionable item content, Moser’s (2009)
+study lacked two important comparison groups: natal males
+with, and without, autogynephilia. If natal females are
+autogynephilic in a similar manner as autogynephilic natal
+males, then both should show autogynephilia to a similar
+degree. Furthermore, both should evidence appreciably more
+autogynephilia compared with non-autogynephilic natal
+males–unless of course Moser would argue that all groups
+are equally autogynephilic.
+Moser (2009) is not the only one to argue that autogynephilia is more common than Blanchard (1989a, 1991) proposed. Serano (2020) asserted that autogynephilia reflects
+female embodiment fantasies, described as “sexual arousal
+in response to one’s real or imagined body and/or expressions
+of gender” (p. 768). Serano also asserted that such fantasies
+are relatively common, based on findings from Veale et al.
+(2008), Moser (2009), and Lehmiller (2018). Lehmiller surveyed 4175 American adults, one-third of whom reported
+that they had fantasized about being the opposite sex. Serano’s analysis did not rely on empirical data beyond these
+three studies.
+
+Archives of Sexual Behavior
+
+The blogger Scott Alexander (2020) surveyed a large
+sample of “cis men,” “cis women,” “trans men,” and “trans
+women,” using the following item: “Picture a very beautiful
+woman. How sexually arousing would you find it to imagine
+being her?” Although trans women tended to endorse more
+sexual arousal to this item compared with other groups, Alexander concluded that these feelings were common among
+cisgender (i.e., non-transgender) people as well. That is,
+Alexander was more impressed with the similarity than with
+the differences among the groups. However, Alexander also
+failed to use Blanchard’s (1989b) Core Autogynephilia Scale.
+Indeed, Alexander’s results depended on a single item that
+was not very similar to any from Blanchard’s scale. Because
+single-item measures often have low reliability and validity,
+and because the item used was not from an existing measure of autogynephilia, interpreting Alexander’s findings is
+difficult.
+Surprisingly, no researcher to date has simply used Blanchard’s (1989b) Core Autogynephilia Scale to study autogynephilia in women. All eight items can be answered by either
+natal males or females. For example, one item is: “Have you
+ever become sexually aroused while picturing yourself having a nude female body or with certain features of the nude
+female form?” This item straightforwardly assesses sexual
+arousal to the thought or fantasy (factual for natal women)
+of having a female body. To be sure, most natal females may
+find the idea of endorsing this item to be odd, but so may most
+natal males. Importantly, none of Blanchard’s original items
+conflates autogynephilia with interpersonal romantic or sexual fantasies, or with the idea of being, especially attractive.
+
+The Current Study
+We compared natal females (two samples), natal males not
+selected for autogynephilia (four samples), and natal males
+selected for autogynephilia (four samples) using Blanchard’s
+(1989b) Core Autogynephilia Scale. To the extent that natal
+females tend to be autogynephilic, their scores should be
+elevated and more similar to those of autogynephilic natal
+males than to those of non-autogynephilic natal males.
+
+Method
+Participants
+Autogynephilic Samples
+Sample 1: Internet-Recruited Autogynephilic Natal
+Males. Participants were 148 adult males (M age = 34.4
+0 years, SD = 11.20) recruited from Internet forums dedicated to erotic fiction and media depicting autogynephilic
+fantasies, including cross-dressing and male-to-female
+
+transformation. Recruitment materials specified that eligible participants were “men, aged 18 years and older, who
+have sexual interest in cross-dressing or being a woman.”
+Data from these participants were previously reported in a
+study by Hsu et al. (2015).
+Sample 2: Autogynephilic Natal Male Crossdressers.
+Participants were 27 male cross-dressers (M age = 45.93
+years, SD = 10.29) recruited using advertisements placed
+in stores, nightclubs, and Internet forums that catered
+to male cross-dressers in the Chicago area. Recruitment
+materials specified that eligible participants were “men,
+aged 18 years and older, who have sexual interest in crossdressing.” Data from these participants were previously
+reported in a study by Hsu et al. (2017).
+Sample 3: Social Media-Recruited Autogynephilic
+Natal Males. Participants were 96 natal males (M age =
+44.67 years, SD = 14.01) recruited through social media
+sites Twitter and Reddit. Recruitment materials provided
+a link to a survey with the explanation that we were seeking
+“anyone who has 15 min to complete the survey, concerning atypical sexual interests. It is not important that you
+have atypical sexual interests to complete it. (We need the
+whole range.) Natal males and females welcome.” For the
+sample reported here, we included only natal males who
+indicated on a dichotomous (“yes” or “no”) item that they
+have ever wondered whether they might be transgender.
+Furthermore, all participants in this sample reported scores
+of 5 or lower on the Kinsey scale, which measures relative
+sexual attraction to the opposite sex versus the same sex
+during adulthood (Kinsey et al., 1948). Exclusive sexual
+attraction to the same sex is indicated by a Kinsey score of
+6. Thus, all other scores on the Kinsey scale indicate that
+a respondent is not exclusively homosexual (i.e., nonhomosexual). According to Blanchard’s (1989a) argument,
+nonhomosexual natal males who have gender dysphoria
+or transgender identity are autogynephilic. The single-item
+assessments of past transgender consideration and of sexual
+orientation used to identify members of Sample 3 were
+far less stringent than the diagnostic assessments used by
+Blanchard. Furthermore, Sample 3 is the only one of the
+four autogynephilic samples recruited in a manner that did
+not focus on likely autogynephilic individuals. Thus, it is
+possible that Sample 3 contains individuals who are not
+autogynephilic.
+Sample 4: Internet-Recruited Autogynephilic Natal Males.
+Participants were 1278 natal males (M age = 29.94 years, S
+D = 10.64) recruited from Internet forums and other online
+websites focused on autogynephilic fantasies or interests,
+such as cross-dressing or being a woman. Recruitment materials specified that eligible participants were “cross-dressers,
+transfeminine people, and others broadly interested in the
+idea of presenting as or being women” and that they must be
+18 years or older.
+
+13
+
+Archives of Sexual Behavior
+
+Presumptively Non‑Autogynephilic Natal Male Samples
+Sample 5: Qualtrics Online Panel of Non-Autogynephilic
+Males. Participants were 441 adult males (M age = 46.04 ye
+ars, SD = 14.52) recruited using the Qualtrics Online Panel.
+The only requirements were that participants be at least
+18 years old, male, and willing to answer questions pertaining to sexuality. No one was excluded from this sample for
+showing evidence of autogynephilia.
+Sample 6: Social Media-Recruited Sample of Non-Autogynephilic Males. Participants were 205 adult males (M ag
+e = 51.45 years, SD = 14.63) recruited through social media
+sites Twitter and Reddit for the same survey as Sample 3 (see
+above). These males indicated on a dichotomous (“yes” or
+“no”) item that they have never wondered if they might be
+transgender. No other exclusions were made.
+Sample 7: Mechanical Turk Sample of Non-Autogynephilic Males. Participants were 392 adult males (M age =
+37.11 years, SD = 12.79) recruited using the Mechanical Turk
+platform for paid research participants. The only requirements were that participants be at least 18 years old, male,
+and willing to answer questions pertaining to sexuality. No
+one was excluded from this sample for showing evidence of
+autogynephilia.
+Sample 8: Prolific Sample of Non-Autogynephilic
+Males. Participants were 301 adult males (M age = 37.66,
+SD = 12.25) recruited using the Prolific platform for paid
+research participants. The only requirements were that participants be at least 18 years old, male, and willing to answer
+questions pertaining to sexuality. No one was excluded from
+this sample for showing evidence of autogynephilia.
+Natal Female Samples
+Sample 9: Social Media-Recruited Sample of Natal Females.
+Participants were 203 adult natal females (M age = 43.76 ye
+ars, SD = 12.01) recruited through social media sites Twitter
+Table 1  Sample means for the
+Core Autogynephilia Scale
+
+Sample
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+and Reddit for the same survey as Samples 3 and 6 (see
+above). No exclusions were made.
+Sample 10: Prolific Sample of Natal Females. Participants
+were 297 adult natal females (M age = 34.30, SD = 11.65)
+recruited using the Prolific platform for paid research participants. The only requirements were that participants be at
+least 18 years old, female, and willing to answer questions
+pertaining to sexuality. No exclusions were made.
+
+Measures
+Core Autogynephilia Scale
+The Core Autogynephilia Scale (Blanchard, 1989b) consists
+of eight items in which respondents indicate dichotomous
+agreement or disagreement with questions about whether
+they have ever experienced sexual arousal by the thought of
+being a woman or having a woman’s body (or specific parts
+of a woman’s body). For example, one item asks: “Have you
+ever become sexually aroused while picturing yourself having a nude female body or with certain features of the female
+form?” Scores range from 0 (no endorsement of any item)
+to 8 (endorsement of all 8 items). Calculated separately for
+each sample, Cronbach’s alpha ranged from 0.83 (Sample 1)
+to 0.93 (Samples 3, 5, and 6).
+
+Results
+Table 1 and Fig. 1 show the mean of the Core Autogynephilia
+Scale for each sample (Blanchard, 1989b). Sample means
+were much higher for the autogynephilic samples (range
+4.27–7.00) than for the non-autogynephilic samples (range
+0.85–1.75). Figure 2 provides the frequency distribution of
+scores for each sample. Consistent with the mean differences,
+the figure reveals striking differences between the autogynephilic and non-autogynephilic groups. For example, every
+
+Group
+
+Autogynephilic natal males
+Autogynephilic natal males
+Autogynephilic natal males
+Autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Natal females
+Natal females
+
+Recruitment
+
+Internet forums
+Chicago local venues
+Social media
+Internet forums
+Qualtrics
+Social media
+Mechanical Turk
+Prolific
+Social media
+Prolific
+
+Core Autogynephilia Scale scores range from 0 to 8
+
+13
+
+Core Autogynephilia Scale
+N
+
+M
+
+SD
+
+SE
+
+148
+27
+96
+1278
+441
+205
+392
+301
+203
+297
+
+7.00
+6.44
+4.27
+6.86
+1.48
+1.11
+1.17
+0.85
+1.26
+1.75
+
+1.73
+2.47
+3.18
+1.91
+2.56
+2.26
+2.35
+1.98
+2.08
+2.11
+
+0.14
+0.48
+0.32
+0.05
+0.12
+0.16
+0.19
+0.11
+0.15
+0.12
+
+Archives of Sexual Behavior
+Fig. 1  Sample means for the
+Core Autogynephilia Scale.
+Error bars indicate the 95%
+confidence intervals
+
+Fig. 2  Distributions of Core Autogynephilia Scale scores for the ten samples. Scores were binned as follows: 0, 1–2, 3–4, 5–6, and 7–8
+
+non-autogynephilic sample had a much higher percentage
+of scores of 0 (indicating no endorsement of any autogynephilia) than of scores of 7 or 8 (indicating endorsement of
+all or nearly all items). In contrast, all autogynephilic samples
+had higher percentages of subjects endorsing 7 or 8 than
+endorsing 0.
+Table 2 shows the results of significance tests of three
+planned contrasts among the various samples. (Examining
+a limited number of planned contrasts is preferable, with
+
+respect to both Type 1 error control and clarity, compared
+with contrasting every pair of samples. All tests were conducted using the pooled error variance.) Contrasts I and II
+are orthogonal and thus statistically independent (Judd et al.,
+2017). Contrast III, comparing natal females and autogynephilic natal males, is not orthogonal to the others, but was
+estimated because of its importance to this study. Exact probabilities are provided so that those who want to make corrections for multiple testing can do so.
+
+13
+
+Archives of Sexual Behavior
+Table 2  Contrast specifications
+and results for statistical tests
+of differences in the Core
+Autogynephilia Scale among
+groups
+
+Sample number
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Contrast results
+
+Group
+
+Contrast
+
+Autogynephilic natal males
+Autogynephilic natal males
+Autogynephilic natal males
+Autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Non-autogynephilic natal males
+Natal females
+Natal females
+Mean
+SE (pooled)
+t
+p
+
+I
+
+II
+
+III
+
++
++
++
++
+−
+−
+−
+−
+−
+−
+4.88
+0.137
+35.7
+6*10–237
+
+0
+0
+0
+0
+−
+−
+−
+−
++
++
+0.36
+0.116
+3.1
+0.003
+
++
++
++
++
+0
+0
+0
+0
+−
+−
+4.64
+0.160
+29.0
+2*10–165
+
+Contrast I compares autogynephilic natal males with non-autogynephilic natal males and natal females.
+Contrast II compares natal females with non-autogynephilic natal males. Contrast III compares autogynephilic natal males with natal females. In the upper portion of the table, columns I–III show which samples are being compared for each contrast (+ indicating a positive coefficient, −indicating a negative coefficient, and 0 indicating the sample is not included in the contrast). Means for contrasts in the lower portion
+of the table represent the unweighted differences between sample means. Significance tests used the pooled
+variance estimates. Denominator degrees of freedom were 3378
+
+Contrast I compared the average sample mean of the autogynephilic samples (Samples 1–4) with the average sample
+mean of the non-autogynephilic samples (Samples 5–10).
+This difference, 4.88 points in favor of the autogynephilic
+samples, was highly significant.
+Contrast II compared the average sample mean of the
+natal females (Samples 9 and 10) with the average sample mean of the non-autogynephilic males (Samples 5–8).
+If female sexuality is autogynephilic to some degree, this
+contrast should reveal it. The difference between females
+and non-autogynephilic males, 0.36 points, was statistically
+significant (p = 0.003), but much smaller than the difference
+between autogynephilic and non-autogynephilic participants.
+It was also much smaller than the highly significant difference
+between autogynephilic participants and natal females, 4.64
+points (Contrast III).
+
+differences affect self-ratings of autogynephilia? Scores on
+the Core Autogynephilia Scale (Blanchard, 1989b) were not
+significantly correlated with sexual orientation, as measured
+via the Kinsey scale, r(185) = -0.02, p = 0.82. Nor did past
+consideration of transgender identity relate significantly
+to scores on the Core Autogynephilia Scale, t(201) = 0.8,
+p = 0.43. Thus, there is little reason to believe that a more
+representative sample of natal females would have very different mean scores on the Core Autogynephilia Scale. The
+other sample of natal females, Sample 10, was recruited in
+a different manner than Sample 9, and was likely more representative. Although Sample 10’s mean for Core Autogynephilia, 1.75, was approximately half a point higher than
+Sample 9’s, t(498) = 2.6, p = 0.01, both female sample means
+were far below those of the autogynephilic natal males (see
+Tables 1 and 2, Figs. 1 and 2).
+
+Variation in Natal Females?
+Probably owing to the Twitter followers of the first author,
+who recruited Samples 3, 6, and 9, one sample of natal
+females (Sample 9) was strikingly variable in at least two
+respects: sexual orientation and past consideration of being
+transgender. Of the 203 natal females, only 22% (N = 45)
+reported Kinsey scores of 0 indicating exclusive heterosexuality, and 30% (N = 61) had considered they might be
+transgender at some point in their lives. Clearly, the female
+sample was unrepresentative on these variables. But did these
+
+13
+
+Discussion
+Contrary to findings by Moser (2009) as well as speculation
+and analysis by Serano (2020), we found very large differences in autogynephilia between natal females and autogynephilic natal males. Our results are consistent with those
+of Veale et al. (2008) and Alexander (2020), who found that
+natal males likely to be autogynephilic scored higher than
+natal females on their measures of autogynephilia.
+
+Archives of Sexual Behavior
+
+A primary advantage of the present study compared with
+the past research reviewed herein was our use of the Core
+Autogynephilia Scale (Blanchard, 1989b), which Blanchard
+designed for scientific research on autogynephilia. All prior
+research comparing natal females to autogynephilic natal
+males used modified or alternative measures that had questionable validity for that purpose. Furthermore, Alexander’s
+(2000) study used a single-item instrument, likely to have
+low reliability.
+A second advantage of the present study was its inclusion of several samples other than autogynephilic natal
+males. Besides natal females, the four samples of non-autogynephilic natal males and four samples of autogynephilic
+natal males, all recruited somewhat differently, allow some
+insight into the consistency of results as well as their interpretation. For example, the natal female samples (Samples
+9 and 10) and the non-autogynephilic natal male samples
+(Samples 5–8) all had similar low mean scores on the Core
+Autogynephilia Scale, compared with the autogynephilic
+natal male samples (Samples 1–4). Thus, our results suggest
+that women are no more autogynephilic than typical men are.
+
+Scales, Traits, Sex, and Stigma
+Someone intent on rescuing the hypothesis that autogynephilia is common in natal females could proceed as follows: “Look at Fig. 2. There are plenty of natal females with
+nonzero scores on the Core Autogynephilia Scale. See, autogynephilia is common in women!” Indeed, for example, 37%
+of natal females in Sample 9 and 61% of natal females in
+Sample 10 had scores of at least 1 on the scale.
+We believe this argument is mistaken, because it equates
+small positive scores on the Core Autogynephilia Scale
+with meaningful elevation on trait autogynephilia. This
+equivalence is especially likely to be incorrect when comparing two groups that fundamentally differ in relevant
+ways, as do natal males and females. An accumulating
+body of research shows that men and women respond very
+differently to erotic stimuli (Bailey, 2009; Safron et al.,
+2020). Men have a more category-specific pattern of sexual
+arousal; that is, they tend to respond to erotic stimuli featuring the gender (or age) they find most attractive. In contrast,
+most women have a relatively undifferentiated pattern of
+sexual arousal in the laboratory. Postoperative trans women
+show the male pattern, consistent with their natal sex (Lawrence et al., 2005). Although research has yet to clarify the
+ways that these differences influence or reflect sexual interests, we suspect they limit generalizability of self-report
+responses from natal males to natal females. This concern
+is compounded by the very different distributions of scores
+between the natal female and the autogynephilic samples.
+It is also magnified by the large sex difference in paraphilic
+phenomena (for a discussion of this issue, see Bailey &
+
+Hsu, 2017). If there were natal women who spent a great
+deal of time and erotic energy focusing on their feminine
+bodies and behavior, and if this sexual interest was sufficiently strong that it interfered with their interpersonal
+sexual relations, we would be much more credulous about
+the idea of autogynephilia in natal females. However, we
+do not know of women like this. A detailed study of natal
+females with high scores on the Core Autogynephilia Scale
+would be illuminating.
+Our results suggest that in contrast to natal females,
+autogynephilic natal males tend to score much higher on
+the Core Autogynephilia Scale (Blanchard, 1989b). The
+percentages of autogynephilic participants with scores of
+7 or 8 (the two highest scores) were 76% (Sample 1), 70%
+(Sample 2), 40% (Sample 3), and 76% (Sample 4). The percentages with scores of 0 (the lowest score) were 3%, 7%,
+24%, and 3%, respectively. A detailed study of natal males
+from putatively autogynephilic samples with Core Autogynephilia Scale scores of 0 would also be illuminating.
+Scientific research on autogynephilia has been heavily
+criticized by some activists (for a review and analysis of
+examples, see Dreger, 2008) and scholars (e.g., Serano, 2010,
+2020), for both alleged scientific deficiencies and the belief
+that it is stigmatizing to transgender persons. To be sure, an
+increasing number of transwomen agree with the theory of
+autogynephilia and support its scientific investigation (e.g.,
+Brown, 2020; Hayton, 2021; Lawrence, 2013, 2017; Yardley, 2017). But autogynephilia currently remains stigmatized
+among an appreciable subset of transgender persons. This
+provides one explanation why some autogynephilic persons,
+especially autogynephilic transwomen, might like to believe
+that autogynephilia is common. If many people experience
+it, then autogynephilia is both normal and unlikely to account
+for transgender identity, which is rare. Furthermore, autogynephilic natal males enjoy the fantasy that they are like
+women. If natal women were autogynephilic, then autogynephilic natal males would be like women in that respect.
+We do not believe that autogynephilia should be stigmatized or associated with moral disapproval. Nevertheless, our data suggest that it is uncommon among both
+natal males and natal females. Indeed, it remains unknown
+whether any natal females experience autogynephilia, as
+originally conceptualized by Blanchard.
+Supplementary Information The online version contains supplementary material available at https://​doi.​org/​10.​1007/​s10508-​022-​02359-8.
+Funding Conru Foundation (Sample 4).
+Availability of Data and Materials The item-level and total scores for
+the Core Autogynephilia Scale are provided as a supplementary file,
+in Excel format.
+Code Availability Not applicable.
+
+13
+
+Archives of Sexual Behavior
+
+Declarations
+Conflict of interest The authors have no conflicts of interests or competing interests to declare.
+Ethical Approval The authors certify that the research complies with
+ethical standards and was approved by the Institutional Review Boards
+of Northwestern University (Samples 1–3, 5–10) and Pennsylvania State
+University (Sample 4).
+
+References
+Alexander, S. (2020). Autogenderphilia is common and not especially
+related to transgender. Slate Star Codex. https://​slate​starc​odex.​
+com/​2020/​02/​10/​autog​ender ​philia-​is-​common-​and-​not-​espec​
+ially-​relat​ed-​to-​trans​gender/
+American Psychiatric Association. (2013). Diagnostic and statistical
+manual of mental disorders (5th ed.). Author.
+Bailey, J. M. (2009). What is sexual orientation and do women have one?
+In D. Hope (Ed.), Contemporary perspectives on lesbian, gay, and
+bisexual identities (pp. 43–63). Springer.
+Bailey, J. M., & Hsu, K. J. (2017). Orienting basic research on chronophilias [Commentary]. Archives of Sexual Behavior, 46, 23–26.
+Blanchard, R. (1985). Research methods for the typological study of
+gender disorders in males. In B. W. Steiner (Ed.), Gender dysphoria: Development, research, management (pp. 227–257). Plenum
+Press.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18, 315–334.
+Blanchard, R. (1989b). The concept of autogynephilia and the typology
+of male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies of
+autogynephilia. Journal of Sex and Marital Therapy, 17, 235–251.
+Blanchard, R. (2005). Early history of the concept of autogynephilia.
+Archives of Sexual Behavior, 34, 439–446.
+Brown, K. (2020). On the science of changing sex: A layman’s guide to
+transsexuality and transgenderism. Self-published.
+Dreger, A. D. (2008). The controversy surrounding The Man Who Would
+Be Queen: A case history of the politics of science, identity, and
+sex in the Internet age. Archives of Sexual Behavior, 37, 366–421.
+Hayton, D. (2021). Why I became trans. Unherd. https://​unherd.​com/​
+2021/​08/​why-i-​became-​trans/.
+Hsu, K. J., Rosenthal, A. M., & Bailey, J. M. (2015). The psychometric
+structure of items assessing autogynephilia. Archives of Sexual
+Behavior, 44, 1301–1312.
+
+13
+
+Hsu, K. J., Rosenthal, A. M., Miller, D. I., & Bailey, J. M. (2017). Sexual
+arousal patterns of autogynephilic male cross-dressers. Archives
+of Sexual Behavior, 46, 247–253.
+Judd, C. M., McClelland, G. H., & Ryan, C. S. (2017). Data analysis: A
+model comparison approach to regression, ANOVA, and beyond.
+Routledge.
+Kinsey, A. C., Pomeroy, W. B., & Martin, C. E. (1948). Sexual behavior
+in the human male. W. B. Saunders.
+Konrad, N., Welke, J., & Opitz-Welke, A. (2015). Paraphilias. Current
+Opinion in Psychiatry, 28, 440–444.
+Lawrence, A. A. (2010a). Societal individualism predicts prevalence
+of nonhomosexual orientation in male-to-female transsexualism.
+Archives of Sexual Behavior, 39, 573–583.
+Lawrence, A. A. (2010b). Something resembling autogynephilia in
+women: Comment on Moser (2009). Journal of Homosexuality,
+57, 1–4.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. Springer.
+Lawrence, A. A. (2017). Autogynephilia and the typology of male-tofemale transsexualism. European Psychologist, 22, 39–54.
+Lawrence, A. A., Latty, E. M., Chivers, M. L., & Bailey, J. M. (2005).
+Measurement of sexual arousal in postoperative male-to-female
+transsexuals using vaginal photoplethysmography. Archives of
+Sexual Behavior, 34, 135–145.
+Lehmiller, J. J. (2018). Tell me what you want. Da Capo Press.
+Moser, C. (2009). Autogynephilia in women. Journal of Homosexuality, 56, 539–547.
+Safron, A., Sylva, D., Klimaj, V., Rosenthal, A. M., & Bailey, J. M.
+(2020). Neural responses to sexual stimuli in heterosexual and
+homosexual men and women: Men’s responses are more specific.
+Archives of Sexual Behavior, 49, 433–445.
+Serano, J. M. (2010). The case against autogynephilia. International
+Journal of Transgenderism, 12, 176–187.
+Serano, J. (2020). Autogynephilia: A scientific review, feminist analysis, and alternative ‘embodiment fantasies’ model. Sociological
+Review, 68(4), 763–778.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of maleto-female transsexuals. Archives of Sexual Behavior, 37, 586–597.
+Yardley, M. (2017). A history of autogynephilia. https://m
+​ irand​ ayard​ ley.​
+com/​en/a-​histo​ry-​of-​autog​yneph​ilia/.
+Publisher's Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+
+

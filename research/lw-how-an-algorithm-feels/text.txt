@@ -1,0 +1,1751 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+How An Algorithm Feels From Inside
+
+Eliezer Yudkowsky11 Feb 2008 2:35 UTC
+328 points
+85 comments4 min readLW linkArchive
+Cognitive ReductionPhilosophy of LanguageRationality
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+“If a tree falls in the forest, and no one hears it, does it make a sound?” I remember seeing an actual argument get started on this subject—a fully naive argument that went nowhere near Berkeleyan subjectivism. Just:
+
+“It makes a sound, just like any other falling tree!”
+″But how can there be a sound that no one hears?”
+
+The standard rationalist view would be that the first person is speaking as if “sound” means acoustic vibrations in the air; the second person is speaking as if “sound” means an auditory experience in a brain. If you ask “Are there acoustic vibrations?” or “Are there auditory experiences?”, the answer is at once obvious. And so the argument is really about the definition of the word “sound”.
+
+I think the standard analysis is essentially correct. So let’s accept that as a premise, and ask: Why do people get into such an argument? What’s the underlying psychology?
+
+A key idea of the heuristics and biases program is that mistakes are often more revealing of cognition than correct answers. Getting into a heated dispute about whether, if a tree falls in a deserted forest, it makes a sound, is traditionally considered a mistake.
+
+So what kind of mind design corresponds to that error?
+
+In Disguised Queries I introduced the blegg/​rube classification task, in which Susan the Senior Sorter explains that your job is to sort objects coming off a conveyor belt, putting the blue eggs or “bleggs” into one bin, and the red cubes or “rubes” into the rube bin. This, it turns out, is because bleggs contain small nuggets of vanadium ore, and rubes contain small shreds of palladium, both of which are useful industrially.
+
+Except that around 2% of blue egg-shaped objects contain palladium instead. So if you find a blue egg-shaped thing that contains palladium, should you call it a “rube” instead? You’re going to put it in the rube bin—why not call it a “rube”?
+
+But when you switch off the light, nearly all bleggs glow faintly in the dark. And blue egg-shaped objects that contain palladium are just as likely to glow in the dark as any other blue egg-shaped object.
+
+So if you find a blue egg-shaped object that contains palladium, and you ask “Is it a blegg?”, the answer depends on what you have to do with the answer: If you ask “Which bin does the object go in?”, then you choose as if the object is a rube. But if you ask “If I turn off the light, will it glow?”, you predict as if the object is a blegg. In one case, the question “Is it a blegg?” stands in for the disguised query, “Which bin does it go in?”. In the other case, the question “Is it a blegg?” stands in for the disguised query, “Will it glow in the dark?”
+
+Now suppose that you have an object that is blue and egg-shaped and contains palladium; and you have already observed that it is furred, flexible, opaque, and glows in the dark.
+
+This answers every query, observes every observable introduced. There’s nothing left for a disguised query to stand for.
+
+So why might someone feel an impulse to go on arguing whether the object is really a blegg?
+
+This diagram from Neural Categories shows two different neural networks that might be used to answer questions about bleggs and rubes. Network 1 has a number of disadvantages—such as potentially oscillating/​chaotic behavior, or requiring O(N2) connections—but Network 1′s structure does have one major advantage over Network 2: Every unit in the network corresponds to a testable query. If you observe every observable, clamping every value, there are no units in the network left over.
+
+Network 2, however, is a far better candidate for being something vaguely like how the human brain works: It’s fast, cheap, scalable—and has an extra dangling unit in the center, whose activation can still vary, even after we’ve observed every single one of the surrounding nodes.
+
+Which is to say that even after you know whether an object is blue or red, egg or cube, furred or smooth, bright or dark, and whether it contains vanadium or palladium, it feels like there’s a leftover, unanswered question: But is it really a blegg?
+
+Usually, in our daily experience, acoustic vibrations and auditory experience go together. But a tree falling in a deserted forest unbundles this common association. And even after you know that the falling tree creates acoustic vibrations but not auditory experience, it feels like there’s a leftover question: Did it make a sound?
+
+We know where Pluto is, and where it’s going; we know Pluto’s shape, and Pluto’s mass—but is it a planet?
+
+Now remember: When you look at Network 2, as I’ve laid it out here, you’re seeing the algorithm from the outside. People don’t think to themselves, “Should the central unit fire, or not?” any more than you think “Should neuron #12,234,320,242 in my visual cortex fire, or not?”
+
+It takes a deliberate effort to visualize your brain from the outside—and then you still don’t see your actual brain; you imagine what you think is there, hopefully based on science, but regardless, you don’t have any direct access to neural network structures from introspection. That’s why the ancient Greeks didn’t invent computational neuroscience.
+
+When you look at Network 2, you are seeing from the outside; but the way that neural network structure feels from the inside, if you yourself are a brain running that algorithm, is that even after you know every characteristic of the object, you still find yourself wondering: “But is it a blegg, or not?”
+
+This is a great gap to cross, and I’ve seen it stop people in their tracks. Because we don’t instinctively see our intuitions as “intuitions”, we just see them as the world. When you look at a green cup, you don’t think of yourself as seeing a picture reconstructed in your visual cortex—although that is what you are seeing—you just see a green cup. You think, “Why, look, this cup is green,” not, “The picture in my visual cortex of this cup is green.”
+
+And in the same way, when people argue over whether the falling tree makes a sound, or whether Pluto is a planet, they don’t see themselves as arguing over whether a categorization should be active in their neural networks. It seems like either the tree makes a sound, or not.
+
+We know where Pluto is, and where it’s going; we know Pluto’s shape, and Pluto’s mass—but is it a planet? And yes, there were people who said this was a fight over definitions—but even that is a Network 2 sort of perspective, because you’re arguing about how the central unit ought to be wired up. If you were a mind constructed along the lines of Network 1, you wouldn’t say “It depends on how you define ‘planet’,” you would just say, “Given that we know Pluto’s orbit and shape and mass, there is no question left to ask.” Or, rather, that’s how it would feel—it would feel like there was no question left—if you were a mind constructed along the lines of Network 1.
+
+Before you can question your intuitions, you have to realize that what your mind’s eye is looking at is an intuition—some cognitive algorithm, as seen from the inside—rather than a direct perception of the Way Things Really Are.
+
+People cling to their intuitions, I think, not so much because they believe their cognitive algorithms are perfectly reliable, but because they can’t see their intuitions as the way their cognitive algorithms happen to look from the inside.
+
+And so everything you try to say about how the native cognitive algorithm goes astray, ends up being contrasted to their direct perception of the Way Things Really Are—and discarded as obviously wrong.
+
+What links here?
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+Eliezer’s Se­quences and Main­stream Academia by lukeprog (15 Sep 2012 0:32 UTC; 256 points)
+
+A Crash Course in the Neu­ro­science of Hu­man Motivation by lukeprog (19 Aug 2011 21:15 UTC; 210 points)
+
+The Tails Com­ing Apart As Me­taphor For Life by Scott Alexander (25 Sep 2018 19:10 UTC; 182 points)
+
+Dis­solv­ing the Question by Eliezer Yudkowsky (8 Mar 2008 3:17 UTC; 169 points)
+
+Philos­o­phy: A Diseased Discipline by lukeprog (28 Mar 2011 19:31 UTC; 156 points)
+
+Reductionism by Eliezer Yudkowsky (16 Mar 2008 6:26 UTC; 142 points)
+
+Disput­ing Definitions by Eliezer Yudkowsky (12 Feb 2008 0:15 UTC; 137 points)
+
+The Poin­t­ers Prob­lem: Hu­man Values Are A Func­tion Of Hu­mans’ La­tent Variables by johnswentworth (18 Nov 2020 17:47 UTC; 135 points)
+
+Com­part­men­tal­iza­tion in epistemic and in­stru­men­tal ra­tio­nal­ity by AnnaSalamon (17 Sep 2010 7:02 UTC; 130 points)
+
+In praise of fake frameworks by Valentine (11 Jul 2017 2:12 UTC; 130 points)
+
+Ir­ra­tional­ity is So­cially Strategic by Valentine (18 Feb 2026 13:28 UTC; 120 points)
+
+The Cat­e­gories Were Made For Man, Not Man For The Categories by Scott Alexander (21 Nov 2014 14:34 UTC; 114 points)
+
+That other kind of status by Scott Alexander (29 Dec 2009 2:45 UTC; 112 points)
+
+Fal­la­cies of Compression by Eliezer Yudkowsky (17 Feb 2008 18:51 UTC; 112 points)
+
+How do you feel about LessWrong these days? [Open feed­back thread] by Bird Concept (5 Dec 2023 20:54 UTC; 108 points)
+
+Mind Pro­jec­tion Fallacy by Eliezer Yudkowsky (11 Mar 2008 0:29 UTC; 106 points)
+
+The Trou­ble With “Good” by Scott Alexander (17 Apr 2009 2:07 UTC; 103 points)
+
+A sum­mary of ev­ery “High­lights from the Se­quences” post by Orpheus16 (15 Jul 2022 23:01 UTC; 99 points)
+
+The Power of Pos­i­tivist Thinking by Scott Alexander (21 Mar 2009 20:55 UTC; 98 points)
+
+Con­cep­tual Anal­y­sis and Mo­ral Theory by lukeprog (16 May 2011 6:28 UTC; 97 points)
+
+By Which It May Be Judged by Eliezer Yudkowsky (10 Dec 2012 4:26 UTC; 97 points)
+
+Course recom­men­da­tions for Friendli­ness researchers by Louie (9 Jan 2013 14:33 UTC; 96 points)
+
+My in­tel­lec­tual influences by Richard_Ngo (22 Nov 2020 18:00 UTC; 95 points)
+
+Qual­i­ta­tively Confused by Eliezer Yudkowsky (14 Mar 2008 17:01 UTC; 80 points)
+
+Model splin­ter­ing: mov­ing from one im­perfect model to another by Stuart_Armstrong (27 Aug 2020 11:53 UTC; 79 points)
+
+Search­ing for Bayes-Structure by Eliezer Yudkowsky (28 Feb 2008 22:01 UTC; 76 points)
+
+An­gry Atoms by Eliezer Yudkowsky (31 Mar 2008 0:28 UTC; 74 points)
+
+Feel the Meaning by Eliezer Yudkowsky (13 Feb 2008 1:01 UTC; 72 points)
+
+Smug­gled frames by Artyom Kazak (1 Feb 2021 1:22 UTC; 72 points)
+
+Pos­si­bil­ity and Could-ness by Eliezer Yudkowsky (14 Jun 2008 4:38 UTC; 70 points)
+
+What (stan­dalone) LessWrong posts would you recom­mend to most EA com­mu­nity mem­bers? by VA 🔸 (EA Forum; 9 Feb 2022 0:31 UTC; 67 points)
+
+Cu­rat­ing “The Epistemic Se­quences” (list v.0.1) by Andrew_Critch (23 Jul 2022 22:17 UTC; 65 points)
+
+Why Real­ists and Anti-Real­ists Disagree by Lukas_Gloor (EA Forum; 5 Jun 2020 7:51 UTC; 63 points)
+
+The Mean­ing of Right by Eliezer Yudkowsky (29 Jul 2008 1:28 UTC; 62 points)
+
+Heat vs. Motion by Eliezer Yudkowsky (1 Apr 2008 3:55 UTC; 61 points)
+
+Ex­ten­u­at­ing Circumstances by Eliezer Yudkowsky (6 Apr 2009 22:57 UTC; 59 points)
+
+Vari­able Ques­tion Fallacies by Eliezer Yudkowsky (5 Mar 2008 6:22 UTC; 58 points)
+
+Time­less Physics by Eliezer Yudkowsky (27 May 2008 9:09 UTC; 56 points)
+
+Head­ing Toward: No-Non­sense Metaethics by lukeprog (24 Apr 2011 0:42 UTC; 55 points)
+
+See­ing Red: Dis­solv­ing Mary’s Room and Qualia by orthonormal (26 May 2011 17:47 UTC; 54 points)
+
+[AN #127]: Re­think­ing agency: Carte­sian frames as a for­mal­iza­tion of ways to carve up the world into an agent and its environment by Rohin Shah (2 Dec 2020 18:20 UTC; 53 points)
+
+Al­gorith­mic In­tent: A Han­so­nian Gen­er­al­ized Anti-Zom­bie Principle by Zack_M_Davis (14 Jul 2020 6:03 UTC; 53 points)
+
+Benquo's comment on Frame Control by Aella (28 Nov 2021 4:25 UTC; 51 points)
+
+Are Deon­tolog­i­cal Mo­ral Judg­ments Ra­tion­al­iza­tions? by lukeprog (16 Aug 2011 16:40 UTC; 50 points)
+
+How Much Thought by jimrandomh (12 Apr 2009 4:56 UTC; 49 points)
+
+How some al­gorithms feel from inside by cousin_it (17 May 2011 11:26 UTC; 48 points)
+
+Self and No-Self by Vaniver (29 Dec 2019 6:15 UTC; 48 points)
+
+cousin_it's comment on What I’ve learned from Less Wrong by Louie (20 Nov 2010 18:17 UTC; 48 points)
+
+A sum­mary of ev­ery “High­lights from the Se­quences” post by [deleted] (EA Forum; 15 Jul 2022 23:05 UTC; 47 points)
+
+Why I think the Foun­da­tional Re­search In­sti­tute should re­think its approach by MikeJohnson (EA Forum; 20 Jul 2017 20:46 UTC; 45 points)
+
+Real­ism and Rationality by bmgarfinkel (16 Sep 2019 3:09 UTC; 45 points)
+
+Ms. Blue, meet Mr. Green by alexei (1 Mar 2018 13:43 UTC; 45 points)
+
+A Study of Scar­let: The Con­scious Men­tal Graph by orthonormal (27 May 2011 20:13 UTC; 44 points)
+
+Prob­a­bil­ity is Sub­jec­tively Objective by Eliezer Yudkowsky (14 Jul 2008 9:16 UTC; 43 points)
+
+The three ex­ist­ing ways of ex­plain­ing the three char­ac­ter­is­tics of existence by Kaj_Sotala (7 Mar 2021 18:20 UTC; 42 points)
+
+The Tech­nol­ogy of Liberalism by L Rudolf L (5 Jan 2026 11:04 UTC; 41 points)
+
+Xachariah's comment on When None Dare Urge Res­traint, pt. 2 by Jay_Schweikert (29 May 2012 6:18 UTC; 40 points)
+
+Why Quan­tum? by Eliezer Yudkowsky (4 Jun 2008 5:34 UTC; 40 points)
+
+Where’s Your Sense of Mys­tery? by Scott Alexander (26 Apr 2009 0:45 UTC; 40 points)
+
+A Suggested Read­ing Order for Less Wrong [2011] by jimrandomh (8 Jul 2011 1:40 UTC; 38 points)
+
+Choos­ing the right dish by Biff Wiff (19 Nov 2022 1:38 UTC; 38 points)
+
+Agree­ing With Stalin in Ways That Ex­hibit Gen­er­ally Ra­tion­al­ist Principles by Zack_M_Davis (2 Mar 2024 22:05 UTC; 35 points)
+
+Rohin Shah's comment on In­tro­duc­tion to Carte­sian Frames by Scott Garrabrant (29 Nov 2020 23:32 UTC; 34 points)
+
+Be­hav­ioral and mechanis­tic defi­ni­tions (of­ten con­fuse AI al­ign­ment dis­cus­sions) by LawrenceC (20 Feb 2023 21:33 UTC; 34 points)
+
+Mo­ral­ity as Parfi­tian-filtered De­ci­sion The­ory? by SilasBarta (30 Aug 2010 21:37 UTC; 34 points)
+
+Hu­man Values by Maitreya (23 Dec 2025 21:08 UTC; 32 points)
+
+[Be­neath Psy­chol­ogy] In­tro­duc­tion Part 2: The Solu­tion and What’s to Come by jimmy (19 May 2025 18:02 UTC; 32 points)
+
+Steve_Rayhawk's comment on Cached Selves by AnnaSalamon (23 Mar 2009 9:29 UTC; 31 points)
+
+Science-in­formed normativity by Richard_Ngo (25 May 2022 18:30 UTC; 31 points)
+
+Devel­op­ing frames by Richard_Ngo (26 Aug 2026 17:41 UTC; 30 points)
+
+Some of the best ra­tio­nal­ity essays by Jack R (19 Oct 2021 22:57 UTC; 29 points)
+
+An un­offi­cial “High­lights from the Se­quences” tier list by Orpheus16 (5 Sep 2022 14:07 UTC; 29 points)
+
+Life as metaphor for ev­ery­thing else. by Charlie Steiner (5 Apr 2020 7:21 UTC; 29 points)
+
+Head­ing Toward Morality by Eliezer Yudkowsky (20 Jun 2008 8:08 UTC; 28 points)
+
+Con­scious­ness as a Self-Refer­en­tial Phys­i­cal Process by Gunnar_Zarncke (24 Nov 2025 22:23 UTC; 28 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+What’s your fa­vorite LessWrong post? by pepe_prime (21 Feb 2019 10:39 UTC; 27 points)
+
+How do you no­tice when you are ig­no­rant of nec­es­sary al­ter­na­tive hy­pothe­ses? by [deleted] (24 Jun 2014 18:12 UTC; 27 points)
+
+Set­ting Up Metaethics by Eliezer Yudkowsky (28 Jul 2008 2:25 UTC; 27 points)
+
+LLM cog­ni­tion is prob­a­bly not hu­man-like by Max H (8 May 2023 1:22 UTC; 27 points)
+
+Co­op­er­a­tionism: first draft for a moral frame­work that does not re­quire consciousness by Épiphanie Gédéon (19 Feb 2026 21:07 UTC; 26 points)
+
+Friendly AI and the limits of com­pu­ta­tional epistemology by Mitchell_Porter (8 Aug 2012 13:16 UTC; 25 points)
+
+fubarobfusco's comment on I Stand by the Sequences by Grognor (15 May 2012 17:25 UTC; 25 points)
+
+My cur­rent take on the Paul-MIRI dis­agree­ment on al­ignabil­ity of messy AI by jessicata (29 Jan 2017 20:52 UTC; 24 points)
+
+The Pro­tag­o­nist Problem by atucker (23 Oct 2011 3:06 UTC; 24 points)
+
+Judg­ment Day: In­sights from ‘Judg­ment in Man­age­rial De­ci­sion Mak­ing’ by TurnTrout (29 Dec 2019 18:03 UTC; 24 points)
+
+You Have Two Brains by Eneasz (23 Jan 2025 0:52 UTC; 24 points)
+
+Zack_M_Davis's comment on Blog posts as epistemic trust builders by Biff Wiff (28 Sep 2020 5:13 UTC; 24 points)
+
+Full toy model for prefer­ence learning by Stuart_Armstrong (16 Oct 2019 11:06 UTC; 24 points)
+
+Is “phys­i­cal non­de­ter­minism” a mean­ingful con­cept? by Liron (16 Jun 2019 15:55 UTC; 23 points)
+
+The two in­sights of materialism by Academian (24 Mar 2010 14:47 UTC; 23 points)
+
+Vaniver's comment on By Which It May Be Judged by Eliezer Yudkowsky (10 Dec 2012 6:44 UTC; 23 points)
+
+Be­ing wrong in ethics by Stuart_Armstrong (29 Mar 2019 11:28 UTC; 22 points)
+
+Rel­a­tive Con­figu­ra­tion Space by Eliezer Yudkowsky (26 May 2008 9:25 UTC; 22 points)
+
+What makes us think _any_ of our ter­mi­nal val­ues aren’t based on a mi­s­un­der­stand­ing of re­al­ity? by bokov (25 Sep 2013 23:09 UTC; 22 points)
+
+At­tempt­ing to De­con­struct “Real” by herschel (9 Jul 2023 16:40 UTC; 21 points)
+
+What is the foun­da­tion of me ex­pe­rienc­ing the pre­sent mo­ment be­ing right now and not at some other point in time? by MvB (17 Jun 2023 20:47 UTC; 20 points)
+
+Act into Fear and Aban­don all Hope by Gordon Seidoh Worley (1 Jan 2017 1:39 UTC; 20 points)
+
+Web of con­no­ta­tions: Bleggs, Rubes, ther­mostats and beliefs by Stuart_Armstrong (19 Sep 2018 16:47 UTC; 20 points)
+
+Un­der­stand­ing Simp­son’s Paradox by Vaniver (18 Sep 2013 19:07 UTC; 19 points)
+
+Lighthaven Se­quences Read­ing Group #6 (Tues­day 10/​15) by Aella (10 Oct 2024 20:34 UTC; 19 points)
+
+Build­ing case-stud­ies of akrasia by Mercurial (14 Dec 2011 18:42 UTC; 19 points)
+
+Wei Dai's comment on My at­tempt to ex­plain Look­ing, in­sight med­i­ta­tion, and en­light­en­ment in non-mys­te­ri­ous terms by Kaj_Sotala (15 Mar 2018 6:54 UTC; 19 points)
+
+Align­ment Newslet­ter #25 by Rohin Shah (24 Sep 2018 16:10 UTC; 18 points)
+
+Strevens on sci­en­tific explanation by Richard_Ngo (14 Feb 2022 8:10 UTC; 17 points)
+
+kilobug's comment on Per­sonal re­search update by Mitchell_Porter (29 Jan 2012 10:57 UTC; 17 points)
+
+Ra­tion­al­ity Read­ing Group: In­tro­duc­tion and A: Pre­dictably Wrong by [deleted] (17 Apr 2015 1:40 UTC; 16 points)
+
+dxu's comment on Can you con­trol the past? by Joe Carlsmith (29 Aug 2021 20:57 UTC; 16 points)
+
+Don’t fall for on­tol­ogy pyra­mid schemes by Lorec (7 Jan 2025 23:29 UTC; 16 points)
+
+Quan­tum Suicide, De­ci­sion The­ory, and The Multiverse by Slimepriestess (22 Jan 2023 8:44 UTC; 16 points)
+
+Biff Wiff's comment on Are con­se­quen­tial­ism and de­on­tol­ogy not even wrong? by Kaj_Sotala (2 Jun 2015 13:03 UTC; 16 points)
+
+[LINK] Be­ing No One (~50 min talk on the self-model in your brain) by machrider (16 Jan 2012 18:18 UTC; 15 points)
+
+Quaerendo's comment on What are the Best Ham­mers in the Ra­tion­al­ist Com­mu­nity? by Bound_up (26 Jan 2018 22:13 UTC; 15 points)
+
+Viliam's comment on Link: An ex­er­cise: meta-ra­tio­nal phe­nom­ena | Meaningness by Kenny (22 Oct 2019 23:24 UTC; 15 points)
+
+Re­in­force­ment, Prefer­ence and Utility by royf (8 Aug 2012 6:23 UTC; 14 points)
+
+Death in Groups II by ryan_b (13 Apr 2018 18:12 UTC; 14 points)
+
+Mercurial's comment on An akra­sia case study by [deleted] (11 Dec 2011 4:50 UTC; 14 points)
+
+Choice begets regret by bryjnar (4 Jan 2018 20:28 UTC; 13 points)
+
+Fight­ing Akra­sia: In­cen­tivis­ing Action by Gordon Seidoh Worley (29 Apr 2009 13:48 UTC; 13 points)
+
+TurnTrout's comment on TurnTrout’s short­form feed by TurnTrout (25 Dec 2019 23:07 UTC; 12 points)
+
+Eliezer Yudkowsky's comment on Less Wrong Ra­tion­al­ity and Main­stream Philosophy by lukeprog (20 Mar 2011 22:28 UTC; 12 points)
+
+Davidmanheim's comment on Re­fut­ing Searle’s wall, Put­nam’s rock, and John­son’s popcorn by Davidmanheim (9 Dec 2024 16:29 UTC; 12 points)
+
+Steven Byrnes's comment on [In­tu­itive self-mod­els] 8. Root­ing Out Free Will Intuitions by Steven Byrnes (14 Nov 2024 18:18 UTC; 11 points)
+
+Kaj_Sotala's comment on De­grees of Freedom by sarahconstantin (3 Apr 2019 10:50 UTC; 11 points)
+
+Eliezer Yudkowsky's comment on Causal Reference by Eliezer Yudkowsky (29 Oct 2012 3:57 UTC; 11 points)
+
+Mercurial's comment on Build­ing case-stud­ies of akrasia by Mercurial (14 Dec 2011 20:02 UTC; 11 points)
+
+ata's comment on Over­com­ing Suffer­ing & Buddhism by Hul-Gil (31 May 2011 6:35 UTC; 10 points)
+
+Fight­ing Akra­sia: Find­ing the Source by Gordon Seidoh Worley (7 Aug 2009 14:49 UTC; 9 points)
+
+Do you need con­scious­ness to mat­ter?
+On LLMs and moral relevance by Épiphanie Gédéon (3 Apr 2026 1:47 UTC; 9 points)
+
+Mitchell_Porter's comment on Smart non-re­duc­tion­ists, philo­soph­i­cal vs. en­g­ineer­ing mind­sets, and religion by Kaj_Sotala (6 Aug 2012 10:09 UTC; 9 points)
+
+WhySpace_duplicate0.9261692129075527's comment on The So­cial Substrate by the gears to ascension (10 Feb 2017 6:40 UTC; 9 points)
+
+Richard_Ngo's comment on Against the Back­ward Ap­proach to Goal-Directedness by adamShimi (20 Jan 2021 16:19 UTC; 9 points)
+
+Lukas_Gloor's comment on Frame Control by Aella (30 Nov 2021 10:30 UTC; 9 points)
+
+On At­tempts to Tran­scend our Models of Numbers by Chris_Leong (17 Mar 2021 8:37 UTC; 9 points)
+
+Manfred's comment on Ar­gu­ments Against Speciesism by Lukas_Gloor (28 Jul 2013 21:34 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+Spurlock's comment on Things you are sup­posed to like by PhilGoetz (24 Oct 2011 16:11 UTC; 8 points)
+
+WrongBot's comment on Book Re­view: The Root of Thought by Scott Alexander (23 Jul 2010 1:20 UTC; 8 points)
+
+[deleted]'s comment on Open Thread Fe­bru­ary 25 - March 3 by Scott Garrabrant (25 Feb 2014 18:20 UTC; 8 points)
+
+Evolu­tion is an ob­ser­va­tion, not a process by Neil (6 Feb 2024 14:49 UTC; 8 points)
+
+lessdazed's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (13 Nov 2011 0:16 UTC; 8 points)
+
+[deleted]'s comment on Leav­ing LessWrong for a more ra­tio­nal life by [deleted] (21 May 2015 20:46 UTC; 8 points)
+
+[SEQ RERUN] How An Al­gorithm Feels From Inside by MinibearRex (18 Jan 2012 5:53 UTC; 8 points)
+
+Manfred's comment on One last roll of the dice by Mitchell_Porter (3 Feb 2012 4:58 UTC; 8 points)
+
+Richard_Ngo's comment on Some re­flec­tions on the LW com­mu­nity af­ter sev­eral months of ac­tive engagement by M. Y. Zuo (26 Jun 2022 19:39 UTC; 8 points)
+
+Defi­ni­tions, char­ac­ter­i­za­tions, and hard-to-ground variables by Sniffnoy (3 Dec 2010 3:18 UTC; 8 points)
+
+What do the baby eaters tell us about ethics? by spookyuser (6 Oct 2019 22:27 UTC; 7 points)
+
+[deleted]'s comment on Open Thread, May 5 − 11, 2014 by Tenoke (6 May 2014 16:42 UTC; 7 points)
+
+MarkusRamikin's comment on The Amanda Knox Test: How an Hour on the In­ter­net Beats a Year in the Courtroom by komponisto (16 Jun 2011 13:32 UTC; 7 points)
+
+Richard_Kennaway's comment on Com­part­men­tal­iza­tion in epistemic and in­stru­men­tal ra­tio­nal­ity by AnnaSalamon (20 Sep 2010 16:14 UTC; 7 points)
+
+Eliezer Yudkowsky's comment on Rais­ing the San­ity Waterline by Eliezer Yudkowsky (12 Mar 2009 21:02 UTC; 7 points)
+
+Satis­fac­tion Levers by ig0r (11 Feb 2017 22:54 UTC; 7 points)
+
+cousin_it's comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (16 Nov 2011 14:06 UTC; 6 points)
+
+[deleted]'s comment on shminux’s Shortform by Shmi (15 Aug 2024 9:08 UTC; 6 points)
+
+Giles's comment on Friendly AI and the limits of com­pu­ta­tional epistemology by Mitchell_Porter (8 Aug 2012 23:05 UTC; 6 points)
+
+kilobug's comment on Mo­ral­ity is not about willpower by PhilGoetz (8 Oct 2011 9:39 UTC; 6 points)
+
+fiddlemath's comment on My Al­gorithm for Beat­ing Procrastination by lukeprog (23 Feb 2012 3:00 UTC; 6 points)
+
+David_Gerard's comment on In Defense of Tone Arguments by OrphanWilde (22 Jul 2012 6:45 UTC; 6 points)
+
+bokov's comment on Sup­pos­ing you in­her­ited an AI pro­ject... by bokov (4 Sep 2013 13:02 UTC; 6 points)
+
+Ini­tial Thoughts on Dis­solv­ing “Could­ness” by DragonGod (22 Sep 2022 21:23 UTC; 6 points)
+
+“View” by herschel (8 Jul 2023 23:19 UTC; 6 points)
+
+jdp's comment on The Rise of Par­a­sitic AI by Adele Lopez (11 Sep 2025 20:30 UTC; 5 points)
+
+lesswronguser123's comment on Emer­gence Spirals—what Yud­kowsky gets wrong by James Stephen Brown (11 Jun 2025 13:15 UTC; 5 points)
+
+WhySpace_duplicate0.9261692129075527's comment on Ex­pert Pre­dic­tion Of Experiments by Scott Alexander (29 Nov 2016 18:12 UTC; 5 points)
+
+Wei Dai's comment on What Are Prob­a­bil­ities, Any­way? by Wei Dai (12 Dec 2009 12:12 UTC; 5 points)
+
+Worked ex­am­ple of a mnemonic Me­mory technique by Elo (7 Feb 2017 10:22 UTC; 5 points)
+
+Dreaded_Anomaly's comment on What both­ers you about Less Wrong? by Will_Newsome (19 May 2011 19:18 UTC; 5 points)
+
+pjeby's comment on Ra­tion­al­ity Quotes: April 2011 by benelliott (6 Apr 2011 20:53 UTC; 5 points)
+
+nBrown's comment on
+In­ter­pre­tive Labor by Benquo (7 Sep 2018 10:43 UTC; 5 points)
+
+bairyn's comment on 2-Place and 1-Place Words by Eliezer Yudkowsky (10 Dec 2012 7:53 UTC; 5 points)
+
+Isnasene's comment on My Jour­ney to the Dark Side by Slimepriestess (11 May 2021 18:35 UTC; 5 points)
+
+“Com­mu­nity or­ga­nizer” is a dou­ble oxymoron by jchan (13 May 2026 15:10 UTC; 5 points)
+
+WhySpace_duplicate0.9261692129075527's comment on A Weird Trick To Man­age Your Identity by Gleb_Tsipursky (20 Sep 2016 20:48 UTC; 5 points)
+
+Richard_Kennaway's comment on The Feather­less Biped by Annoyance (3 Sep 2009 9:47 UTC; 5 points)
+
+pjeby's comment on What big goals do we have? by cousin_it (20 Jan 2010 1:07 UTC; 4 points)
+
+Raemon's comment on Thoughts on LessWrong norms, the Art of Dis­course, and mod­er­a­tor mandate by Ruby (13 May 2023 4:32 UTC; 4 points)
+
+ksvanhorn's comment on Time­less Beauty by Eliezer Yudkowsky (23 Feb 2011 1:31 UTC; 4 points)
+
+RobinZ's comment on Your in­tu­itions are not magic by Kaj_Sotala (10 Jun 2010 19:15 UTC; 4 points)
+
+JenniferRM's comment on Deon­tic Ex­plo­ra­tions In “Pay­ing To Talk To Slaves” by JenniferRM (19 Jan 2025 3:41 UTC; 4 points)
+
+Kaj_Sotala's comment on A non-mys­ti­cal ex­pla­na­tion of “no-self” (three char­ac­ter­is­tics se­ries) by Kaj_Sotala (14 Jan 2022 10:34 UTC; 4 points)
+
+orthonormal's comment on What is bunk? by [deleted] (12 May 2010 2:28 UTC; 4 points)
+
+Vaniver's comment on Good ar­gu­ments against “cul­tural ap­pro­pri­a­tion” by Tyrrell_McAllister (18 Dec 2018 19:27 UTC; 4 points)
+
+richard_ngo's comment on Why Real­ists and Anti-Real­ists Disagree by Lukas_Gloor (EA Forum; 6 Jun 2020 9:30 UTC; 3 points)
+
+Olivier Coutu's comment on Why I hate the “ac­ci­dent vs. mi­suse” AI x-risk di­chotomy (quick thoughts on “struc­tural risk”) by David Scott Krueger (1 Feb 2023 20:11 UTC; 3 points)
+
+RobinZ's comment on Diseased think­ing: dis­solv­ing ques­tions about disease by Scott Alexander (7 Jun 2010 12:22 UTC; 3 points)
+
+quen_tin's comment on Philos­o­phy: A Diseased Discipline by lukeprog (29 Mar 2011 14:03 UTC; 3 points)
+
+CoffeeStain's comment on Ra­tion­al­ity Quotes Oc­to­ber 2013 by A1987dM (14 Oct 2013 23:49 UTC; 3 points)
+
+Dreaded_Anomaly's comment on Reflec­tions on ra­tio­nal­ity a year out by [deleted] (1 Apr 2011 1:56 UTC; 3 points)
+
+Biff Wiff's comment on Con­fes­sion Thread: Mis­takes as an as­piring rationalist by diegocaleiro (4 Jun 2015 15:57 UTC; 3 points)
+
+awenonian's comment on 2-Place and 1-Place Words by Eliezer Yudkowsky (11 Aug 2021 21:28 UTC; 3 points)
+
+Manfred's comment on A Ba­sic Prob­lem of Ethics: Panpsy­chism? by David Scott Krueger (28 Jan 2015 4:51 UTC; 3 points)
+
+Donald Hobson's comment on Solip­sism is Underrated by scasper (28 Mar 2020 23:53 UTC; 3 points)
+
+Philos­o­phy of Num­bers (part 2) by Charlie Steiner (19 Dec 2017 13:57 UTC; 3 points)
+
+drethelin's comment on St. Peters­burg Mug­ging Im­plies You Have Bounded Utility by TimFreeman (8 Jun 2011 17:09 UTC; 3 points)
+
+JoshuaZ's comment on Be­ing a Real­ist (even if you be­lieve in God) by scav (19 May 2012 12:44 UTC; 3 points)
+
+hogwash9's comment on Feed­back for learning by KatjaGrace (2 Feb 2021 22:15 UTC; 3 points)
+
+Valentine's comment on Creat­ing a truly formidable Art by Valentine (18 Oct 2021 16:13 UTC; 3 points)
+
+Kaj_Sotala's comment on Tags Dis­cus­sion/​Talk Thread by Ruby (7 Aug 2020 12:38 UTC; 3 points)
+
+Kaj_Sotala's comment on Look­ing back on my al­ign­ment PhD by TurnTrout (14 Jul 2022 21:02 UTC; 2 points)
+
+[deleted]'s comment on See­ing Red: Dis­solv­ing Mary’s Room and Qualia by orthonormal (7 Apr 2012 22:12 UTC; 2 points)
+
+Adele Lopez's comment on The Rise of Par­a­sitic AI by Adele Lopez (11 Sep 2025 20:59 UTC; 2 points)
+
+Eliezer Yudkowsky's comment on The Ar­gu­ment from Com­mon Usage by Eliezer Yudkowsky (14 Feb 2008 20:10 UTC; 2 points)
+
+Rana Dexsin's comment on LessWrong Feed [new, now in beta] by Ruby (20 Sep 2025 16:56 UTC; 2 points)
+
+Desrtopa's comment on Can any­one ex­plain to me why CDT two-boxes? by Andreas_Giger (4 Jul 2012 15:04 UTC; 2 points)
+
+Richard_Ngo's comment on The Tallest Pygmy Effect by Elizabeth (22 Jan 2018 7:50 UTC; 2 points)
+
+Error's comment on Map­ping the So­cial Mind (But­tons) by Bound_up (28 Apr 2018 22:41 UTC; 2 points)
+
+dxu's comment on Weak foun­da­tion of de­ter­minism
+analysis by aiiixiii (8 Aug 2019 0:08 UTC; 2 points)
+
+Nick_Tarleton's comment on Non­sen­tient Optimizers by Eliezer Yudkowsky (27 Dec 2008 9:16 UTC; 2 points)
+
+Logan Zoellner's comment on I Really Don’t Un­der­stand Eliezer Yud­kowsky’s Po­si­tion on Consciousness by J Bostock (29 Oct 2021 14:32 UTC; 2 points)
+
+MarsColony_in10years's comment on Dis­solv­ing the Question by Eliezer Yudkowsky (2 Mar 2015 0:25 UTC; 2 points)
+
+CoffeeStain's comment on Prob­a­bil­ity and rad­i­cal uncertainty by David_Chapman (24 Nov 2013 23:24 UTC; 2 points)
+
+[deleted]'s comment on Is there a list of cog­ni­tive illu­sions? by [deleted] (6 May 2015 16:40 UTC; 2 points)
+
+pjeby's comment on Ra­tion­al­ity Quotes: April 2011 by benelliott (6 Apr 2011 1:39 UTC; 2 points)
+
+Silas's comment on Head­ing Toward Morality by Eliezer Yudkowsky (20 Jun 2008 22:13 UTC; 2 points)
+
+Kutta's comment on Den­nett’s heterophenomenology by Richard_Kennaway (17 Jan 2010 18:11 UTC; 2 points)
+
+Kaj_Sotala's comment on Crav­ing, suffer­ing, and pre­dic­tive pro­cess­ing (three char­ac­ter­is­tics se­ries) by Kaj_Sotala (6 Feb 2022 12:09 UTC; 2 points)
+
+[deleted]'s comment on The Blue-Min­i­miz­ing Robot by Scott Alexander (3 Jul 2011 20:44 UTC; 2 points)
+
+khafra's comment on Ra­tion­al­ity Quotes June 2013 by Thomas (7 Jun 2013 19:32 UTC; 2 points)
+
+Vaniver's comment on Deutsch and Yud­kowsky on sci­en­tific explanation by Richard_Ngo (21 Jan 2021 18:50 UTC; 2 points)
+
+SilasBarta's comment on Why the be­liefs/​val­ues di­chotomy? by Wei Dai (21 Oct 2009 23:36 UTC; 2 points)
+
+RobinZ's comment on Ra­tion­al­ity quotes: Oc­to­ber 2010 by Morendil (20 Oct 2010 16:15 UTC; 2 points)
+
+JBlack's comment on Wormy the Worm by River Lewis (24 May 2022 4:30 UTC; 1 point)
+
+Mercurial's comment on Mean­ings of Math­e­mat­i­cal Truths by prase (7 Jun 2011 15:37 UTC; 1 point)
+
+lesswronguser123's comment on ″… than av­er­age” is (al­most) meaningless by jwfiredragon (25 Jul 2024 14:45 UTC; 1 point)
+
+lessdazed's comment on Be­ware of Other-Optimizing by Eliezer Yudkowsky (7 Aug 2011 13:31 UTC; 1 point)
+
+Meetup : West LA—In­side the 5-Se­cond Level by OpenThreadGuy (25 Oct 2013 21:17 UTC; 1 point)
+
+kithpendragon's comment on Yes, words can cause harm by kithpendragon (15 Mar 2021 18:03 UTC; 1 point)
+
+orthonormal's comment on Con­fu­sion about New­comb is con­fu­sion about counterfactuals by AnnaSalamon (25 Aug 2009 23:13 UTC; 1 point)
+
+Anubhav's comment on Wel­come to Less Wrong! by MBlume (10 Jan 2012 4:15 UTC; 1 point)
+
+FeepingCreature's comment on Less­wrong Philos­o­phy and Per­sonal Identity by Carinthium (25 Aug 2013 12:55 UTC; 1 point)
+
+nroman's comment on Chantiel’s Shortform by Chantiel (26 Aug 2021 21:56 UTC; 1 point)
+
+topynate's comment on Mind Con­trol and Me by Patrick (21 Mar 2009 17:41 UTC; 1 point)
+
+Meetup : Hous­ton Meetup − 1/​29 by Cog (23 Jan 2012 23:21 UTC; 1 point)
+
+Qiaochu_Yuan's comment on Ar­gu­ments against the Orthog­o­nal­ity Thesis by JonatasMueller (10 Mar 2013 19:41 UTC; 1 point)
+
+Mean­ing and hav­ing names for things vs know­ing how they work by Voltairina (18 Mar 2012 19:25 UTC; 1 point)
+
+Basil Marte's comment on Alarmism by Basil Marte (1 Sep 2020 9:13 UTC; 1 point)
+
+Vladimir_Nesov's comment on Is Ev­i­den­tial De­ci­sion The­ory pre­sump­tu­ous? by Tobias_Baumann (7 Feb 2017 3:18 UTC; 1 point)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (28 Aug 2011 6:26 UTC; 1 point)
+
+pjeby's comment on Three con­sis­tent po­si­tions for computationalists by dfranke (17 Apr 2011 19:58 UTC; 1 point)
+
+Grognor's comment on Time­less Physics by Eliezer Yudkowsky (25 Nov 2011 9:47 UTC; 1 point)
+
+[deleted]'s comment on Mo­ral Real­ity Check (a short story) by jessicata (5 Jan 2024 0:46 UTC; 1 point)
+
+magfrump's comment on What Science got Wrong and Why by JoshuaZ (27 Nov 2010 6:48 UTC; 1 point)
+
+Plasmon's comment on What Science got Wrong and Why by JoshuaZ (27 Nov 2010 8:09 UTC; 1 point)
+
+DaFranker's comment on The non­cen­tral fal­lacy—the worst ar­gu­ment in the world? by Scott Alexander (20 Sep 2012 15:10 UTC; 1 point)
+
+latanius's comment on What Cu­ri­os­ity Looks Like by lukeprog (7 Jan 2012 12:31 UTC; 0 points)
+
+DaFranker's comment on Ra­tion­al­ity Quotes July 2012 by RobertLumley (27 Jul 2012 21:31 UTC; 0 points)
+
+jsbennett86's comment on Lan­guage, Color Per­cep­tion, and Men­tal Maps by jsbennett86 (10 Sep 2011 21:00 UTC; 0 points)
+
+hairyfigment's comment on The Ar­gu­ment from Com­mon Usage by Eliezer Yudkowsky (22 Mar 2015 8:57 UTC; 0 points)
+
+SeanMCoincon's comment on Dou­ble­think (Choos­ing to be Bi­ased) by Eliezer Yudkowsky (31 Jul 2014 19:11 UTC; 0 points)
+
+Will_Newsome's comment on What Is Sig­nal­ing, Really? by Scott Alexander (11 Jul 2012 7:14 UTC; 0 points)
+
+Manfred's comment on Re­quest­ing ad­vice: Do­ing Episte­mol­ogy Right (Warn­ing: Ab­stract main­stream Philos­o­phy herein) by Carinthium (6 Jun 2013 4:13 UTC; 0 points)
+
+AlephNeil's comment on Ra­tion­al­ity Quotes: April 2011 by benelliott (7 Apr 2011 16:41 UTC; 0 points)
+
+pjeby's comment on Ra­tion­al­ity Quotes: April 2011 by benelliott (6 Apr 2011 1:32 UTC; 0 points)
+
+A1987dM's comment on Em­piri­cal claims, prefer­ence claims, and at­ti­tude claims by John_Maxwell (16 Nov 2012 11:03 UTC; 0 points)
+
+Sideways's comment on We are not liv­ing in a simulation by dfranke (12 Apr 2011 18:54 UTC; 0 points)
+
+RobinZ's comment on How to think like a quan­tum monadologist by Mitchell_Porter (20 Oct 2009 13:40 UTC; 0 points)
+
+Mitchell_Porter's comment on How to think like a quan­tum monadologist by Mitchell_Porter (22 Oct 2009 9:04 UTC; 0 points)
+
+Richard_Kennaway's comment on Por­tia’s Shortform by Portia (3 May 2023 9:03 UTC; 0 points)
+
+gilch's comment on Cheat­ing Omega by gilch (24 Apr 2017 0:11 UTC; 0 points)
+
+Bugmaster's comment on Can’t Un­birth a Child by Eliezer Yudkowsky (19 Jun 2012 7:42 UTC; 0 points)
+
+DaFranker's comment on Wel­come to Less Wrong! (July 2012) by Paul Crowley (14 Sep 2012 17:33 UTC; 0 points)
+
+Joshua_Blaine's comment on The idiot sa­vant AI isn’t an idiot by Stuart_Armstrong (18 Jul 2013 20:35 UTC; 0 points)
+
+John_Maxwell's comment on New front page by matt (30 Mar 2012 5:06 UTC; 0 points)
+
+CronoDAS's comment on Com­plex­ity: in­her­ent, cre­ated, and hidden by Swimmer963 (Miranda Dixon-Luinenburg) (27 Sep 2011 6:23 UTC; 0 points)
+
+Manfred's comment on By Which It May Be Judged by Eliezer Yudkowsky (10 Dec 2012 20:04 UTC; 0 points)
+
+Tiiba2's comment on True Sources of Disagreement by Eliezer Yudkowsky (9 Dec 2008 3:25 UTC; -1 points)
+
+Mimosa's comment on Use­ful Con­cepts Repository by Qiaochu_Yuan (11 Jun 2013 21:59 UTC; -1 points)
+
+Anubhav's comment on Wel­come to Less Wrong! by MBlume (8 Jan 2012 6:04 UTC; -2 points)
+
+A brief guide to not get­ting downvoted by nhamann (30 Oct 2010 2:32 UTC; -3 points)
+
+On False Dichotomies by nullproxy (2 Jan 2025 18:54 UTC; -3 points)
+
+I uni­ver­sally try­ing to re­ject the Mind Pro­jec­tion Fal­lacy—consequences by YanLyutnev (30 Aug 2024 17:42 UTC; -3 points)
+
+Eliezer Yudkowsky11 Feb 2008 2:35 UTC
+328 points
+85 comments4 min readLW linkArchive
+Cognitive ReductionPhilosophy of LanguageRationality
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:Con­nect­ing Words to RealityPrevious: Mind Pro­jec­tion FallacyNext: Ex­pect­ing Short In­fer­en­tial Distances
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: Neu­ral CategoriesNext: Disput­ing Definitions
+
+Aaron4 11 Feb 2008 4:11 UTC
+3 points
+
+0
+
+For what it’s worth, I’ve always responded to questions such as “Is Pluto a planet?” in a manner more similar to Network 1 than Network 2. The debate strikes me as borderline nonsensical.
+
+[deleted] 4 Nov 2012 21:17 UTC
+2 points
+
+0
+Parent
+
+Analytically, I’d have to agree, but the first thing that I say when I get this question is no. I explain that it depends on definition, that have a definition for planet, and we know the characteristics of Pluto. Pluto doesn’t match the requirements in the definition, ergo, not a planet.
+
+Lots easier than trying to explain to someone they don’t actually know what question they’re asking, although it’s of course a more elegant answer.
+
+fmgn 16 Apr 2017 10:03 UTC
+−1 points
+
+0
+Parent
+
+So is it a planet or not?
+
+Scott_Aaronson 11 Feb 2008 4:32 UTC
+53 points
+
+2
+
+While “reifying the internal nodes” must indeed be counted as one of the great design flaws of the human brain, I think the recognition of this flaw and the attempt to fight it are as old as history. How many jokes, folk sayings, literary quotations, etc. are based around this one flaw? “in name only,” “looks like a duck, quacks like a duck,” “by their fruits shall ye know them,” “a rose by any other name”… Of course, there wouldn’t be all these sayings if people didn’t keep confusing labels with observable attributes in the first place—but don’t the sayings suggest that recognizing this bug in oneself or others doesn’t require any neural-level understanding of cognition?
+
+Amanojack 11 Mar 2010 17:00 UTC
+7 points
+
+0
+Parent
+
+Exactly. People merely need to keep in mind that words are not the concepts they represent. This is certainly not impossible, but—like all aspects of being rational—it’s harder than it sounds.
+
+bigjeff5 31 Jan 2011 21:46 UTC
+22 points
+
+0
+Parent
+
+I think it goes beyond words.
+
+Reality does not consist of concepts, reality is simply reality. Concepts are how we describe reality. They are like words squared, and have all the same problems as words.
+
+Amanojack 27 Apr 2011 18:58 UTC
+10 points
+
+−1
+Parent
+
+Looking back from a year later, I should have said, “Words are not the experiences they represent.”
+
+As for “reality,” well it’s just a name I give to a certain set of sensations I experience. I don’t even know what “concepts” are anymore—probably just a general name for a bunch of different things, so not that useful at this level of analysis.
+
+tonysr 13 Feb 2013 6:12 UTC
+−13 points
+
+0
+Parent
+
+Ayn Rand defined this for everyone in her book “Introduction to Objectivist Epistemology”.
+Formation of concepts is discussed in detail there.
+
+Existence exists; Only existence exists.
+We exist with a consciousness:
+Existence is identity: Identification is consciousness.
+
+Concepts are the units of Epistemology.
+Concepts are the mental codes we use to identify existants.
+Concepts are the bridges between metaphysics and Epistemology.
+Concepts refer to the similarities of the units, without using the measurements.
+
+Definitions are abbreviations of identification.
+The actual definitions are the existants themselves.
+
+Language is a verbal code which uses concepts as units.
+Written language explains how to speak the phonemes.
+
+Language refers to remembered experiences,
+and uses the concepts which are associated (remembered)
+with the units of experience as units.
+
+Using language is basically reporting your inner experiences using concepts as units.
+
+The process includes, observing, encoding, by the speaker.
+Encoding, Speaking (transmitting) …. receiving, hearing, decoding the general ideas, contextualizing, integrating into the full world model of the listener. Finally the listener will be able to respond from his updated world model using the same process as the original speaker.
+
+This process is rife with opportunities for mis- understanding.
+However the illusion of understanding is what we are left with.
+
+This is generally not known or understood.
+
+The only solution is copious dialog, to confirm that what was intended is that which was understood.
+
+Comments?
+
+Desrtopa 13 Feb 2013 6:42 UTC
+13 points
+
+0
+Parent
+
+Existence exists; Only existence exists. We exist with a consciousness: Existence is identity: Identification is consciousness.
+
+This seems like a tremendously unhelpful attempt at definition, and it doesn’t really get better from there. It seems as if it’s written more to optimize for sounding Deep than for making any concepts understandable to people who don’t already grasp them.
+
+The only solution is copious dialog, to confirm that what was intended is that which was understood.
+
+The necessary amounts of dialogue are a great deal less copious if one does a good job being clear in the first place.
+
+What links here?
+Desrtopa's comment on LW Women: LW Online by daenerys (20 Feb 2013 13:56 UTC; 0 points)
+
+Shmi 13 Feb 2013 7:17 UTC
+2 points
+
+0
+Parent
+
+One thing I learned is to never argue with a Randian.
+
+elriel 8 Apr 2015 18:11 UTC
+0 points
+
+0
+Parent
+
+This seems like a tremendously unhelpful attempt at definition, and it doesn’t really get better from there. It >seems as if it’s written more to optimize for sounding Deep than for making any concepts understandable to >people who don’t already grasp them.
+
+There probably isn’t any one single way of defining this in a way that is understandable by everyone. That being said, being able to make the distinction between direct experience and concepts is very useful and epistemology has helped many people with this, so I’d say there is value in it.
+
+Qiaochu_Yuan 13 Feb 2013 7:32 UTC
+6 points
+
+0
+Parent
+
+How much of the Sequences have you read? In particular, have you read 37 Ways That Words Can Be Wrong?
+
+Shmi 13 Feb 2013 7:19 UTC
+2 points
+
+0
+Parent
+
+Required reading.
+
+Endovior 13 Feb 2013 7:09 UTC
+−1 points
+
+0
+Parent
+
+As a former Objectivist, I understand the point being made.
+
+That said, I no longer agree… I now believe that Ayn Rand made an axiom-level mistake. Existence is not Identity. To assume that Existence is Identity is to assume that all things have concrete properties, which exist and can therefore be discovered. This is demonstrably false; at the fundamental level of reality, there is Uncertainty. Quantum-level effects inherent in existence preclude the possibility of absolute knowledge of all things; there are parts of reality which are actually unknowable.
+
+Moreover, we as humans do not have absolute knowledge of things. Our knowledge is limited, as is the information we’re able to gather about reality. We don’t have the ability to gather all relevant information to be certain of anything, nor the luxury to postpone decision-making while we gather that information. We need to make decisions sooner then that, and we need to make them in the face of the knowledge that our knowledge will always be imperfect.
+
+Accordingly, I find that a better axiom would be “Existence is Probability”. I’m not a good enough philosopher to fully extrapolate the consequences of that… but I do think if Ayn Rand had started with a root-level acknowledgement of fallibility, it would’ve helped to avoid a lot of the problems she wound up falling into later on.
+
+Also, welcome, new person!
+
+Rob Bensinger 27 Apr 2013 21:01 UTC
+0 points
+
+0
+Parent
+
+Existence is frequently defined in terms of identity. ‘exists(a)’ ≝ ‘∃x(a=x)’
+
+To assume that Existence is Identity is to assume that all things have concrete properties, which exist and can therefore be discovered. This is demonstrably false; at the fundamental level of reality, there is Uncertainty.
+
+Only if you’re an Objective Collapse theorist of some stripe. If you accept anything in the vicinity of Many Worlds or Hidden Variables, then nature is not ultimately so anthropocentric; all of its properties are determinate, though those properties may not be exactly what you expect from everyday life.
+
+Quantum-level effects inherent in existence preclude the possibility of absolute knowledge of all things; there are parts of reality which are actually unknowable.
+
+If “there are” such parts, then they exist. The mistake here is not to associate existence with identity, but to associate existence or identity with discoverability; lots of things are real and out there and objective but are physically impossible for us to interact with. You’re succumbing to a bit of Rand’s wordplay: She leaps back and forth between the words ‘identity’ and ‘identification’, as though these were closely related concepts. That’s what allows her to associate existence with consciousness—through mere wordplay.
+
+Accordingly, I find that a better axiom would be “Existence is Probability”.
+
+But that axiom isn’t true. I like my axioms to be true. Probability is in the head, unlike existent things like teacups and cacti.
+
+Kawoomba 27 Apr 2013 21:38 UTC
+3 points
+
+0
+Parent
+
+Existence is frequently defined in terms of identity. ‘exists(a)’ ≝ ‘∃x(a=x)’
+
+Isn’t that just kicking the can down the road? What does it mean for an x to ∃, “there is an x such that …”, there we go with the “is”, with the “be” with the “exist”.
+
+Shmi 28 Apr 2013 3:10 UTC
+3 points
+
+0
+Parent
+
+RobbBB, in my experience, tends to give pseudo-precise answers like that. It seems like a domain confusion. You are asking about observable reality, he talks about mathematical definitions.
+
+[deleted] 28 Apr 2013 4:34 UTC
+4 points
+
+0
+Parent
+
+I’m not a frequent poster here, and I don’t expect my recommendations carry much weight. But I have been reading this site for a few years, and offline I deal with LWish topics and discussions pretty regularly, especially with the more philosophical stuff.
+
+All that said, I think RobbBB is one of the best posters LW has. Like top 10. He stands out for clarity, seriousness, and charity.
+
+Also, I think you shouldn’t do that thing where you undermine some other poster while avoiding directly addressing them or their argument.
+
+Shmi 28 Apr 2013 4:57 UTC
+1 point
+
+0
+Parent
+
+All that said, I think RobbBB is one of the best posters LW has. Like top 10. He stands out for clarity, seriousness, and charity.
+
+It certainly has not been my impression. I found my discussion with him about instrumentalism, here and on IRC, extremely unproductive. Seems like a pattern with other philosophical types here. Maybe they don’t teach philosophers to listen, I don’t know. For comparison, TheOtherDave manages to carry a thoughtful, polite and insightful discussion even when he disagrees. More regulars here could learn rational discourse from him.
+
+Or maybe I’m falling prey to the Bright Dilettante trap and the experts in the subject matter just don’t have the patience to explain things in a friendly and understandable fashion. I’m not sure how to tell.
+
+Also, I think you shouldn’t do that thing where you undermine some other poster while avoiding directly addressing them or their argument.
+
+I take back the “pseudo-” part. His answers were precise, but from a wrong domain.
+
+Expand this thread
+
+wedrifid 28 Apr 2013 8:26 UTC
+5 points
+
+0
+Parent
+
+Seems like a pattern with other philosophical types here. Maybe they don’t teach philosophers to listen, I don’t know. For comparison, TheOtherDave manages to carry a thoughtful, polite and insightful discussion even when he disagrees. More regulars here could learn rational discourse from him.
+
+Agree on both counts. I’ll second your advocacy of a TheOtherDave as a posting style role model. In particular he conveys the impression that he is far better than the average lesswrong participant at understanding what people are saying to him. (Rather than the all to common practice of pattern matching a few keywords to the nearest possible stupid thing that can be refuted.)
+
+[deleted] 28 Apr 2013 18:31 UTC
+3 points
+
+0
+Parent
+
+Maybe they don’t teach philosophers to listen, I don’t know.
+
+I can tell you from experience that ‘they’ don’t. Do you know who does teach this?
+
+Shmi 28 Apr 2013 19:36 UTC
+2 points
+
+0
+Parent
+
+I don’t know. Certainly there is some emphasis on charitable reading and steelmanning on this forum, but the results are mixed. Maybe it’s taught in psychology, nursing and other areas which require empathy.
+
+[deleted] 28 Apr 2013 21:27 UTC
+2 points
+
+0
+Parent
+
+This seems like something a rationalist course could profitably teach, especially if there are no alternative ways to learn it besides informal practice.
+
+Rob Bensinger 28 Apr 2013 10:35 UTC
+1 point
+
+0
+Parent
+
+I’m a little unclear on what your criticism is. Is one of these right?
+
+You’re being too precise, whereas I wanted to have an informal discussion in terms of our everyday intuitions. So definitions are counterproductive; a little unclarity in what we mean is actually helpful for this topic.
+
+There are two kinds of existence, one that holds for Plato’s Realm Of Invisible Mathy Things and one that holds for The Physical World. Your definitions may be true of the Mathy Things, but they aren’t true of things like apples and bumblebees. So you’re committing a category error.
+
+I wanted you to give me a really rich, interesting explanation of what ‘existence’ is, in more fundamental terms. But instead you just copy-pasted a bland uninformative Standard Mathematical Logician Answer from some old textbook. That makes me sad. Please be more interesting next time.
+
+If your point was 1, I’ll want to hear more. If it was 3, then my apologies! If it was 2, then I’ll have to disagree until I hear some argument as to why I should believe in these invisible eternal number-like things that exist in their own unique number-like-thing-specific way. (And what it would mean to believe in them!)
+
+Shmi 28 Apr 2013 20:39 UTC
+2 points
+
+0
+Parent
+
+Thank you, this framework helps. Definitely no to 1. Definitely yes to 2, with some corrections. Yes to some parts of 3.
+
+Re 2. First, let me adopt bounded realism here, with physics (external reality or territory) + logic (human models of reality, or maps). Let me ignore the ultraviolet divergence of decompartmentalization (hence “bounded”), where Many Words, Tegmark IV and modal realism are considered “territory”. To this end, let me put the UV cutoff on logic at the Popper’s boundary: only experimentally falsifiable maps are worth considering. A map is “true” means that it is an accurate representation of the piece of territory it is intended to represent. I apologize in advance if I am inventing new terms for the standard philosophical concepts—feel free to point me to the standard terminology.
+
+Again, “accurate map”, a.k.a. “true map” is a map that has been tested against the territory and found reliable enough to use as a guide for further travels, at least if one does not stray too far. Correspondingly, a piece of territory
+is said to “exist” if it is described by an accurate map.
+
+On the other hand, your “invisible mathy things” live in the world of maps. Some of them use the same term “true”, but in a different way: given a set of rules of how to form strings of symbols, true statements are well-formed finite strings. They also use the same term “exist”, but also in a different way: given a set of rules, every well-formed string is said to “exist”.
+
+Now, I am not a mathematician, so this may not be entirely accurate, but the gist is that conflating “exist” as applied to the territory and “exist” as applied to maps is indeed a category error. When someone talks about existence of physical objects and you write out something containing the existential quantifier, you are talking about a different category: not reality, but a subset of maps related to mathematical logic.
+
+I am not sure whether this answers your objection that
+
+why I should believe in these invisible eternal number-like things that exist in their own unique number-like-thing-specific way. (And what it would mean to believe in them!)
+
+but I hope it makes it clear why I find your replies unconvincing and generally not useful.
+
+Expand this thread
+
+Rob Bensinger 29 Apr 2013 0:28 UTC
+0 points
+
+0
+Parent
+
+You’ve redefined ‘x exists’ to mean ‘x is described by a map that has been tested and so far has seemed reliable to us’, and ‘x is true’ correspondingly. One problem with this is that it’s historical: It commits us to saying ‘Newtonian physics used to be true, but these days it’s false (i.e., not completely reliable as a general theory)‘, and to saying ‘Phlogiston used to exist, but then it stopped existing because someone overturned phlogiston theory’. This is pretty strange.
+
+Another problem is that it’s not clear what it takes to be ‘found reliable enough to use as a guide for further travels’. Surely there’s an important sense in which math is reliable in that sense, hence ‘true’ in the territory-ish sense you outlined above, not just in the map-ish sense. So perhaps we’ll need a more precise definition of territory-ish truth in order to clearly demonstrate why math isn’t in the territory, where the territory is defined by empirical adequacy.
+
+I think your view, or one very close to yours, is actually a lot stronger (can be more easily defended, has broader implications) than your argument for it suggests. You can simply note that things like Abstract Numbers, being causally inert, couldn’t be responsible for the ‘unreasonable efficacy of mathematics’; so that efficacy can’t count as evidence for such Numbers. And nothing else is evidence for Numbers either. So we should conclude, on grounds of parsimony (perhaps fortified with anti-Tegmark’s-MUH arguments), that there are unlikely to be such Numbers. At that point, we can make the pragmatic, merely linguistic decision of saying that mathematicians are using ‘exists’ in a looser, more figurative sense.
+
+Perhaps a few mathematicians are deluded into thinking that ‘exists’ means exactly the same thing in both contexts, but it is more charitable to interpret mathematics in general in the less ontologically committing way, because on the above arguments a platonistic mathematics would be little more than speculative theology. Basically, we end up with a formalist or fictionalist description of math, which I think is very plausible.
+
+You see, we aren’t so different, you and I. Not once we bracket whether unexperienced cucumbers exist out there, anyway!
+
+Shmi 29 Apr 2013 3:55 UTC
+0 points
+
+0
+Parent
+
+You’ve redefined ‘x exists’ to mean ‘x is described by a map that has been tested and so far has seemed reliable to us’, and ‘x is true’ correspondingly.
+
+I disagree that this is a redefinition. You believe that elephants exists because you can go and see them, or talk to someone you trust who saw them, etc. You believe that live T-Rex (almost surely) does not exist because it went extinct some 60 odd million years ago. Both beliefs can be updated based on new information.
+
+’Newtonian physics used to be true, but these days it’s false
+
+That’s not at all what I am saying. Consider resisting your tendency to strawman. Newtonian physics is still true in its domain of applicability, it has never been true where it’s not been applicable, though people didn’t know this until 1905.
+
+‘Phlogiston used to exist, but then it stopped existing because someone overturned phlogiston theory’
+
+Again, a belief at the time was that it existed, a more accurate belief (map) superseded the old one and now we know that phlogiston never existed. Maps thought of as being reliable can be found wanting all the time, so the territory they describe is no longer believed to exist, not stopped existing. This is pretty uncontroversial, I would think. Science didn’t kill gnomes and fairies, and such. At least this is the experiment-bounded realist position, as far as I understand it.
+
+You can simply note that things like Abstract Numbers, being causally inert, couldn’t be responsible for the ‘unreasonable efficacy of mathematics’; so that efficacy can’t count as evidence for such Numbers.
+
+I can’t even parse that, sorry. Numbers don’t physically exist because they are ideas, and as such belong in the realm of logic, not physics. (Again, I’m wearing a realist hat here.) I don’t think parsimony is required here. It’s a postulate, not a conclusion.
+
+Perhaps a few mathematicians are deluded into thinking that ‘exists’ means exactly the same thing in both contexts, but it is more charitable to interpret mathematics in general in the less ontologically committing way
+
+Then I don’t understand why you reply to questions of physical existence with some mathematical expressions...
+
+You see, we aren’t so different, you and I. Not once we bracket whether unexperienced cucumbers exist out there, anyway!
+
+I’m not nearly as optimistic.
+
+Rob Bensinger 29 Apr 2013 4:58 UTC
+0 points
+
+0
+Parent
+
+I disagree that this is a redefinition. You believe that elephants exists because you can go and see them, or talk to someone you trust who saw them, etc.
+
+Sure, but ‘you believe in X because of Y’ does not as a rule let us conclude ‘X = Y’. I believe in elephants because of how they’ve causally impacted my experience, but I don’t believe that elephants are experiences of mine, or logical constructs out of my experiences and predictions. I believe elephants are animals.
+
+Indeed, a large part of the reason I believe in elephants is that I think elephants would still exist even had you severed the causal links between me and them and I’d never learned about them. The territory doesn’t go away when you stop knowing about it, or even when you stop being able to ever know about it. If you shot an elephant in a rocket out of the observable universe, it wouldn’t stop existing, and I wouldn’t believe it had blinked out of existence or that questions regarding its existence were meaningless, once its future state ceased to be knowable to me.
+
+Elephants don’t live in my map. But they also don’t live in my map-territory relation. Nor do they live in a function from observational data to hypotheses-that-help-us-build-rockets-and-iPhones-and-vaccines. They simply and purely live in the territory.
+
+That’s not at all what I am saying. Consider resisting your tendency to strawman.
+
+I’m not trying to strawman you, I’m suggesting a problem for how you stated you view so that you can reformulate your view in a way that I’ll better understand. I’m sorry if I wasn’t clear about that!
+
+Newtonian physics is still true in its domain of applicability, it has never been true where it’s not been applicable, though people didn’t know this until 1905.
+
+Right. But you said “‘accurate map’, a.k.a. ‘true map’ is a map that has been tested against the territory and found reliable enough to use as a guide for further travels”. My objection is that wide-applicability Newtonian Physics used to meet your criterion for truth (i.e., for a long time it passed all experimental tests and remained reliable for further research), but eventually stopped meeting it. Which suggests that it was true until it failed a test, or until it ceased to be a useful guide to further research; after that it became false. If you didn’t mean to suggest that, then I’m not sure I understand “map that has been tested against the territory and found reliable enough to use as a guide for further travels” anymore, which means I don’t know what you mean by “truth” and “accuracy” at this point.
+
+Perhaps instead of defining “true” as “has been tested against the territory and found reliable enough to use as a guide for further travels”, what you meant to say was “has been tested against the territory and will always be found reliable enough to use as a guide for further travels”? That way various theories that had passed all tests at the time but are going to eventually fail them won’t count as ever having been ‘true’.
+
+Numbers don’t physically exist because they are ideas, and as such belong in the realm of logic, not physics. (Again, I’m wearing a realist hat here.) I don’t think parsimony is required here. It’s a postulate, not a conclusion.
+
+Postulates like ‘1 is nonphysical’, ‘2 is nonphysical’, etc. aren’t needed here; that would make our axiom set extraordinarily cluttered! The very idea that ‘ideas’ aren’t a part of the physical world is in no way obvious at the outset, much less axiomatic. There was a time when lightning seemed supernatural, a violation of the natural order; conceivably, we could have discovered that there isn’t really lightning (it’s some sort of illusion), but instead we discovered that it reduced to a physical process. Mental contents are like lightning. There may be another version of ‘idea’ or ‘thought’ or ‘abstraction’ that we can treat as a formalist symbol game or a useful fiction, but we still have to also either reduce or eliminate the natural-phenomenon-concept of abstract objects if we wish to advance the Great Reductionist Project.
+
+It sounds like you want to eliminate them, and indeed stop even talking about them because they’re silly. I can get behind that, but only if we’re careful not to forget that not all mathematicians (etc.) agree on this point, and don’t equivocate between the two notions of ‘abstract’ (formal/​fictive vs. spooky and metaphysical and Tegmarkish).
+
+Then I don’t understand why you reply to questions of physical existence with some mathematical expressions...
+
+Only because the apples are behaving like numbers whether you believe in numbers or not. You might not think our world does resemble the formalism in this respect, but that’s not obvious to everyone before we’ve talked the question over. A logic can be treated as a regimentation of natural language, or as an independent mathematical structure that happens to structurally resemble a lot of our informal reasoning and natural-language rules. Either way, information we get from logical analysis and deduction can tell us plenty about the physical world.
+
+MugaSofer 29 Apr 2013 13:38 UTC
+−4 points
+
+0
+Parent
+
+Re 2. First, let me adopt bounded realism here, with physics (external reality or territory) + logic (human models of reality, or maps). Let me ignore the ultraviolet divergence of decompartmentalization (hence “bounded”), where Many Words, Tegmark IV and modal realism are considered “territory”. To this end, let me put the UV cutoff on logic at the Popper’s boundary: only experimentally falsifiable maps are worth considering. A map is “true” means that it is an accurate representation of the piece of territory it is intended to represent. I apologize in advance if I am inventing new terms for the standard philosophical concepts—feel free to point me to the standard terminology.
+
+I suspect you have, in fact, reinvented something. For reference, how does this “bounded realism” evaluate this statement:
+
+On August 1st 2008 at midnight Greenwich time, a one-foot sphere of chocolate cake spontaneously formed in the center of the Sun; and then, in the natural course of events, this Boltzmann Cake almost instantly dissolved.
+
+It makes no predictions; this is, in a sense, epiphenomenal cake—I know of no test we could perform that would distinguish between a world where this statement is false and one where it is true. Certainly tracking it provides us with no predictive power.
+
+Yet is it somehow invalid? Is it gibberish? Can it be rejected a priori? Is there any sense in which it might be true? Is there any sense in which it might be false?
+
+Sorry if I’m misinterpreting you here; I doubt this has much effect on your overall point.
+
+itaibn0 28 Apr 2013 13:37 UTC
+0 points
+
+0
+Parent
+
+How about this: Mathematicians have a conception of existence which is good enough for doing mathematics, but isn’t necessary correct. When you give a mathematical definition of existence, you are implicitly assuming a certain mathematical framework without justifying it. I think you would consider this criticism to be a variant of #2.
+
+In particular, I also think about things mathematically, but when I do so, I don’t use first-order logic, but rather intuitionistic type theory. Can you give a definition for existence which would satisfy me?
+
+Expand this thread
+
+Rob Bensinger 29 Apr 2013 0:54 UTC
+0 points
+
+0
+Parent
+
+I’m a mathematical fictionalist, so I’m happy to grant that there’s a good sense in which mathematical discourse isn’t strictly true, and doesn’t need to be.
+
+Are you asking for a definition of an intuitionistic ‘exists’ predicate, or for the intuitionistic existential quantifier?
+
+itaibn0 29 Apr 2013 11:16 UTC
+0 points
+
+0
+Parent
+
+(Note: I added a link in my previous comment)
+
+First, if you accept that mathematical constructs are fictional, why do you consider it valid to define a concept in terms of them? Second, I admit I wasn’t clear on this issue: The salient part of intuitionistic type theory isn’t intuitionism, but rather that it is a structural theory. This means that statements of the form “exists x, P(x)” are not well defined, but rather only statements of the form “exists x in A, P(x)” can be made.
+
+[deleted] 27 Apr 2013 22:09 UTC
+0 points
+
+0
+Parent
+
+I should probably let Rob answer for himself, but he did say that existence is frequently defined in terms of identity, not by identity.
+
+Rob Bensinger 28 Apr 2013 2:53 UTC
+−1 points
+
+0
+Parent
+
+I’m not saying it’s a very useful definition, just noting that it’s very standard. If we’re going to reject something it should be because we thought about it for a while and it still seemed wrong (and, ideally, we could understand why others think otherwise). We shouldn’t just reject it because it sounds weird and a Paradigmatically Wrong Writer is associated with it.
+
+I agree with you that there’s something circular about this definition, if it’s meant to be explanatory. (Is it?) But I’m not sure that circularity is quite that easy to demonstrate. ∃ could be defined in terms of ∀, for instance, or in terms of set membership. Then we get:
+
+‘exists(a)’ ≝ ‘¬∀x¬(a=x)’
+
+or
+
+‘exists(a)’ ≝ ‘a∈EXT(=)’
+
+You could object that ∈ is similarly question-begging because it can be spoken as ‘is an element of’, but here we’re dealing we’re dealing with a more predicational ‘is’, one we could easily replace with a verb.
+
+nshepperd 28 Apr 2013 15:32 UTC
+2 points
+
+0
+Parent
+
+I suspect the above definitions look meaningful to those who have studied philosophy and mathematical logic because they have internalised the mathematical machinery behind ‘∃’. But a proper definition wouldn’t simply refer you to another symbol. Rather, you would describe the mathematics involved directly.
+
+For example, you can define an operator that takes a possible world and a predicate, and tells you if there’s anything matching that predicate in the world, in the obvious way. In Newtonian possible worlds, the first argument would presumably be a set of particles and their positions, or something along those lines.
+
+This would be the logical existence operator, ‘∃’. But, it’s not so useful since we don’t normally talk about existence in rigorously defined possible worlds, we just say something exists or it doesn’t — in the real world. So we invent plain “exists”, which doesn’t take a second argument, but tells you whether there’s anything that matches “in reality”. Which doesn’t really mean anything apart from:
+
+)%20=%20\sum_{w%20\in%20\text{models}}%20(1%20\text{%20if%20}%20\exists_w%20Q%20\text{%20else%20}%200)%20P(w))
+
+or in a more suggestive format
+
+)%20=%20\sum_{w%20\in%20\text{models}}%20P(\text{exists}(Q)%20~%7C~%20w)%20P(w))
+
+Where P(w) is your probability distribution over possible worlds, which is itself in turn connected to your past observations, etc.
+
+Anyway, the point is that the above is how “existence” is actually used (things become more likely to exist when you receive evidence more likely to be observed in worlds containing those things). So “existence” is simply a proposition/​function of a predicate whose probability marginalises like that over your distribution over possible worlds, and never mind trying to define exactly when it’s true or false, since you don’t need to. Or something like that.
+
+Kawoomba 28 Apr 2013 6:38 UTC
+0 points
+
+0
+Parent
+
+If a definition is not meant to be explanatory, its usefulness in understanding that which is to be defined is limited.
+
+Taking the two alternate formulations you offered, I can still hear the telltale “is” beating, from beneath the floor planks where you hid it:
+
+‘exists(a)’ ≝ ‘¬∀x¬(a=x)’
+
+The “∀” doesn’t refer to all e.g. logically constructible x, does it? Or to all computable x. For the definition to make sense, it needs to refer to all x that exist, otherwise we’d conclude that ‘exists(flying unicorns)’ is true. Still implicitly refers to that which is to be defined in its definition, rendering it circular.
+
+‘exists(a)’ ≝ ‘a∈EXT(=)’
+
+What is EXT(=)? Some set of all existing things? If so, would that definition do any work for us? Pointing at my chair and asking “does this chair exist”, you’d say “well, if it’s a member of the set of all existing things, it exists”. Why, because all things in the set share the “exist” predicate. But what does it mean for them to have the “exist” predicate in the first place? To be part of the set of all existing things, of course. Round and round …
+
+Not much different from saying “if it exists, it exists”. Well, yes. Now what?
+
+Rob Bensinger 28 Apr 2013 10:18 UTC
+0 points
+
+0
+Parent
+
+If a definition is not meant to be explanatory, its usefulness in understanding that which is to be defined is limited.
+
+Exactly.
+
+The “∀” doesn’t refer to all e.g. logically constructible x, does it? Or to all computable x. For the definition to make sense, it needs to refer to all x that exist, otherwise we’d conclude that ‘exists(flying unicorns)’ is true. Still implicitly refers to that which is to be defined in its definition, rendering it circular.
+
+That’s one option for explaining the domain of ∀. Another is to simply say that that the domain is the universe, or that it’s everything, or that it’s unrestricted. All of those can be expressed without speaking in terms of existence.
+
+If you have no idea what those ideas mean, but understand ‘exists’, then, sure, maybe you’ll need to demand that all those ideas be unpacked in terms of existence. But what of it? If you do understand those terms but not ‘exists’, then interdefining them can be cognitively significant for you. Broadly speaking, the function of a definition is to relate a term that isn’t understood to a term that is. If you already understand both terms, then the definition won’t be useful to you; but that isn’t a criticism of the definition, if other people might not understand both terms as well as you do. It’s just a biographical note about your own level of linguistic/​conceptual expertise.
+
+What is EXT(=)? Some set of all existing things?
+
+It’s the extension of the identity predicate, a set of ordered pairs. Relational predicates of arity n can be treated as sets of n-tuples.
+
+If so, would that definition do any work for us?
+
+Do any work for who? What is it you want, exactly? If you’ve forgotten, the first thing I said to you was “I’m not saying it’s a very useful definition”. You don’t need to prove it’s circular in order to prove it’s useless, and if you did prove it’s circular (‘circular’ in what sense? is there any finite non-circular chain of definitions that define every term?) that very likely wouldn’t help demonstrate its uselessness. So what exactly are you trying to establish, and why?
+
+Expand this thread
+
+Kawoomba 28 Apr 2013 11:12 UTC
+−1 points
+
+0
+Parent
+
+Another is to simply say that that the domain is the universe, or that it’s everything, or that it’s unrestricted. All of those can be expressed without speaking in terms of existence.
+
+Any domain which is not constrained to iterate/​refer only to things which themselves exist would lead to wrong conclusions such as “flying unicorns exist”.
+
+What is it you want, exactly?
+
+To show that the definition you referred to, in all its variants, isn’t useful. I did not forget that you didn’t claim it was useful, just that it was common, but I also noticed you did not explicitly agree that it was not useful. If you do agree on that, there is no need to further dwell on useless rephrasings.
+
+I agree that since the body of human knowledge is limited, any definition must eventually contain circles of some size. However, not all circles are created equal: To be useful, a definition must refer to some different part of your knowledge base, just because without introducing new information, there is nothing which could be useful.
+
+“2 is defined as something with the property of being 2” isn’t useful because there is nothing new introduced. “That which exists, exists” isn’t useful for the same reason. Because all the definitions you referred to still contain “exist”, the additional information (“things in a set”) is superfluously added, the “exist” on the right part of the definition still isn’t unpacked. Hence, no additional information is introduced, and the definition useless, being equivalent to “2 is defined as 2″.
+
+“Pain is when something which is in the set of ‘being able to experience pain’ experiences pain” just reduces to “pain is when pain”, which must be useless since it contains no additional concepts.
+
+If the additional “identity” aspects etcetera helped any in explaining the concept of “exist”, then the definition would not need to refer again to just the same “exist” which the “identity” supposedly helped explain.
+
+Rob Bensinger 28 Apr 2013 11:41 UTC
+−1 points
+
+0
+Parent
+
+Any domain which is not constrained to iterate/​refer only to things which themselves exist would lead to wrong conclusions such as “flying unicorns exist”.
+
+If I’m not misunderstanding you, you’re advocating a view like Graham Priest does here, that our quantifiers should range over anything we can meaningfully talk about (if not wider?) until we restrict them further. I’m inclined to agree. We both dissent from the orthodox definition I posted above, then. You’ll need to dig up a Quinean if you want to hear counter-arguments.
+
+I also noticed you did not explicitly agree that it was not useful.
+
+Well, I’m sure it’s been useful to someone at some point. It lets logicians get away without appealing to an ‘exists’ predicate. Logicians are generally much more attached to ‘is identical to’ than to ‘exists’. Again, you’ll have to explain exactly what kind of use you want out of the ideal Definition of Existence so I can evaluate whether the above ones I tossed about are useful with respect to that goal. What are some examples of new insights or practical goals you were hoping or expecting to achieve by defining ‘exists’?
+
+To be useful, a definition must refer to some different part of your knowledge base
+
+Could you say more about what you mean by ‘different parts of your knowledge base’? Is there a heuristic for deciding when things are parts of the same knowledge base?
+
+“2 is defined as something with the property of being 2” isn’t useful because there is nothing new introduced.
+
+Is “2 is defined as SS∅” useful? Or “2 is defined as {{},{{}}}”? Or “2 is defined as 1+1”? Are there any useful definitions of 2?
+
+Because all the definitions you referred to still contain “exist”
+
+What do you mean by “contain”? They didn’t make reference to existence twice. You noted we could reverse the definitions or build a chain, but that’s true of any definitions. (If they weren’t dreadfully boring, we’d probably not call them definitions.)
+
+Do you mean that they presupposed an understanding of existence, i.e., if you didn’t first understand existence then you couldn’t understand my definitions? Or do you mean that concepts are combinatorial, and the concepts I appealed to all have as components the concept ‘existence’?
+
+“Pain is when something which is in the set of ‘being able to experience pain’ experiences pain” just reduces to “pain is when pain”, which must be useless since it contains no additional concepts.
+
+Your definitions are circular in the strong sense that they’re of the form ‘… a … = … a …’. But interesting and useful identities and equalities can re-use the term on both sides. Generally they then reduce to predications. For instance, “pain occurs when something experiences pain” is a pretty hideous attempt at a definition, but it doesn’t reduce to “pain is when pain” (which isn’t even a sentence); it reduces to “pain is an experience”. That’s potentially useful, but it would’ve been more useful if we hadn’t dressed it up as though it were an analysis.
+
+All of this seems a bit beside the point, though. None of the definitions I cited re-used the same term, whereas all the examples you made up to criticize them do re-use the same term on both sides of the definition. If your goal is to draw an analogy that problematizes certain practices in mathematical logic, you should include at least some problem cases that look like the formulas I first posted.
+
+Kawoomba 28 Apr 2013 15:06 UTC
+−1 points
+
+0
+Parent
+
+What do you mean by “contain”? They didn’t make reference to existence twice (...) None of the definitions I cited re-used the same term
+
+That’s probably our main point of contention, since I’d argue that they do. Not evident when doing shallow parsing on a very superficial level, but plainly there nonetheless.
+
+Say I gave you this definition: “2 is defined as (the following in ROT13) ‘gur ahzrevp inyhr bs gur jbeq gjb’”, with the ROT13 part (for your convenience) spelling “the numeric value of the word two”. I’d say that such a definition still reused the term to be defined in the right part of the definition, wouldn’t you?
+
+Your definitions by necessity reduce to ‘exists(a) =(def) there is an x such that exists(x) and (x=a)’
+
+It is trivial to show that if your universal or your existential quantifier’s domain (i.e. the possible values which x could take) were anything other than precisely those x’s for which exists(x) is true, the definition would be wrong:
+
+Say the domain set contained only {blue, green}, so x could only match to blue or green. Then exists(a) would only return true for blue and green. Not enough!
+
+Say the set allowed for x to match to anything which is conceivable, such as a flying spaghetti monster (or whatever). Then exists(flying spaghetti monster) would evaluate to ‘true’, since there would be such an x. Too much!
+
+The definition works only iff the domain of either the universally quantified or the existentially quantified version of the definition were precisely “the things that exist”, i.e. for which exists(x) returned true.
+
+Hiding in rather plain sight, don’t you think? Even the ROT13 offered more obscurity.
+
+It lets logicians get away without appealing to an ‘exists’ predicate.
+
+If only. I disagree that it does (because of the above).
+
+What are some examples of new insights or practical goals you were hoping or expecting to achieve by defining ‘exists’?
+
+Well, something ‘new’ to work with. Where ‘we’ could go from there would probably depend on the concepts the definition relates ‘exists’ to. As with so much else, no practical goal other than the usual mental onanism. In our particular exchange, mostly showing that the definition you gave cannot be useful.
+
+Could you say more about what you mean by ‘different parts of your knowledge base’? Is there a heuristic for deciding when things are parts of the same knowledge base?
+
+A definition must establish some relation of any kind to some other concept, or predicate. ‘Different part’ as in ‘not only the exact same concept which is to be explained’.
+
+You are right with “pain is an experience” offering a connection to some other concept, and thus being potentially useful. However, the definition for exist we are discussing offers no such additional concept. You can define a set of things which share an attribute for anything (that set could be empty), that’s no new information regarding the thingie in question (unless you start listing examples), it does not constrain the concept space in any way.
+
+FWIW, if someone said “pain: pain is an experience”, that would be quite a poor definition, but as you correctly pointed out, at least we would’ve learned something new.
+
+A good litmus test may be “if you were tasked with explaining your concepts to some strange alien, could it potentially glean anything from your definition”? Pain is an experience: yes (new information). Exists(x): you can define a set for all x’s for which exists(x) is true: no (alien looks at you uncomprehendingly).
+
+Rob Bensinger 28 Apr 2013 15:37 UTC
+0 points
+
+0
+Parent
+
+I’d say that such a definition still reused the term to be defined in the right part of the definition, wouldn’t you?
+
+So your claim is that universal quantification, and identity and/​or set membership, are all in effect just trivial linguistic obfuscations of existence?
+
+Your definitions by necessity reduce to ‘exists(a) =(def) there is an x such that exists(x) and (x=a)’
+
+The idea that existence is in some way a conceptual prerequisite for the particular quantifier is an interesting idea, and I could imagine good arguments being made for it. Certainly Graham Priest would agree with your above claim. But I don’t see any corresponding reason yet to think this about ‘exists(a)’ ≝ ‘a∈EXT(=)’.
+
+It is trivial to show that if your universal or your existential quantifier’s domain (i.e. the possible values which x could take) were anything other than precisely those x’s for which exists(x) is true, the definition would be wrong
+
+Why does that matter? It’s trivial to show that is the set of primary colors were a different set, then extensional definitions of the primary colors would fail. But this doesn’t undermine extensional definitions of primary colors.
+
+Perhaps what you’re trying to get at is that we couldn’t construct the identity set, or the proper domain for our quantifiers, without prior knowledge that amounts to knowledge of which things exist? I.e. we couldn’t build an algorithm that actually gives us the right answers to ‘are a and b identical?’ or ‘is a an object in the domain of discourse?’ without first understanding on some level what sorts of things exist? Is that the idea? A definition then is unexplanatory (or ‘useless’) if the definiens cannot be constructed with perfect reliability without first grasping the definiendum.
+
+The definition works only iff the domain of either the universally quantified or the existentially quantified version of the definition were precisely “the things that exist”, i.e. for which exists(x) returned true.
+
+Yes… but, then, that’s true for every definition. Whatever definition of ‘bird’ we give will, ideally, return precisely the set of birds to us. It would be a problem if the two didn’t coincide, surely; so why is it equally a problem if the two do coincide? I can’t make an objection out of this, unless we go with something like the one in the previous paragraph.
+
+If only. I disagree that it does (because of the above).
+
+Well, it still does. You don’t use an ‘exists’ predicate in the logic. Your claim is philosophical or metasemantic; it’s not about what logical or nonlogical predicates we use in a system. Logicians have found a neat trick for reducing how many primitives they need to be expressively complete; you’re objecting in effect that their trick doesn’t help us understand the True Nature Of Being, but one suspects that this is orthogonal to the original idea, at least as many logicians see it.
+
+Well, something ‘new’ to work with.
+
+How ’bout identity?
+
+‘Different part’ as in ‘not only the exact same concept which is to be explained’.
+
+Are you saying that identity, existence, universal quantification, and particular quantification are all the exact same concept? If so, your concepts must be very multifaceted things!
+
+However, the definition for exist we are discussing offers no such additional concept.
+
+So you’re at a minimum saying that ‘∃’ and ‘exists’ are the same concept. Are you saying the same for ‘∀’, ‘¬’, ‘∈’, ‘=’, etc.?
+
+This paper might interest you; it also discusses translatability into alien languages with different ways e.g. of quantifying: Being, existence, and ontological commitment.
+
+Kawoomba 28 Apr 2013 16:19 UTC
+0 points
+
+0
+Parent
+
+So your claim is that universal quantification, and identity and/​or set membership, are all in effect just trivial linguistic obfuscations of existence?
+
+They are tools which in themselves can construct relationships that further describe that which is to be described. They just don’t in this case. Syntactic concatenation of operators doesn’t equal bountiful semantic content. Just like you can construct meaningless sentences even though those sentences still are composed of letters.
+
+“a exists if there is some x which exists which is the exact same as a”, “If a and x are identical (the same actual thing) and x exists, we can conclude that a exists, since it is in fact x”.
+
+These definitions can be used for most any property replacing “exists”. The particular usage of ‘∀’, ‘¬’, ‘∈’, ‘=’, “identity” or what have you in this case doesn’t add any content, or any concepts, if it’s just bloviating reducing to “if x exists, and x is a, then a exists”, or in short, if P(a) then P(a).
+
+Whatever definition of ‘bird’ we give will, ideally, return precisely the set of birds to us.
+
+Ideally. More leniently, “useful” would mean that given a definition, we would at least have some changed notion of whether at least one thing, or class of things, belongs in the set of birds or not. Even when someone just told you that a duck is a bird and nothing else, you would have learned something about birds. At least as an alien at least you could answer yes when pointed to a duck, if nothing else.
+
+Explaining “is a bird(x)” by referring to a set which by definition contains all things which are birds, without giving any further explanation or examples, and then saying that if x is in the set of all birds, it is a bird, doesn’t give us any information whatsoever about birds, and amounts to saying “well, if it’s a bird, and we postulate a set in which there would be all the birds, that bird would be in that set!”. Who woulda thunk?
+
+Saying “there are chairs which exist” gives us more information about what exists means then the first two definitions we’re talking about.
+
+Concerning the ‘exists(a)’ ≝ ‘a∈EXT(=)‘, I can’t comment because I have no idea what precisely is meant by that ‘extension’ of =. Is it supposed to be exactly restatable as equivalent the other two definitions? If so, naturally the same arguments apply. If not, can you give further information about this mysterious extension?
+
+Rob Bensinger 29 Apr 2013 0:48 UTC
+0 points
+
+0
+Parent
+
+I think we share the same views, at least in spirit. I’m just not satisfied by your arguments for them.
+
+First, your analogies weren’t relevantly similar to the original equations. Second, your previous arguments depended on somewhat mysterious notions of ‘concept containment’, similar to Kant’s original notion of analysis, that I suspect will lead us into trouble if we try to precisely define them. And third, your new argument seems to depend on a notion of these symbols as ‘purely syntactic’, devoid of semantics. But I find this if anything even less plausible than your prior objections. Perhaps there’s a sense in which ‘not not p’ gives us no important or useful information that wasn’t originally contained in ‘p’ (which I think is your basic intuition), but it has nothing to do with whether the symbol ‘not’ is ‘purely syntactic’; if words like ‘all’ and ‘some’ and ‘is’ aren’t bare syntax in English, then I see no reason for them to be so in more formalized languages.
+
+Informally stated, a conclusion like ‘the standard way of defining existence in predicate calculus is kind of silly and uninformative’ is clearly true—its truth is far more certain than is the truth of the premises that have been used so far to argument for it. So perhaps we should leave it at that and return to the problem later from other angles, if we keep hitting a wall resulting from our lack of a general theory of ‘concept containment’ or ‘semantically trivial or null assertion’?
+
+Kawoomba 29 Apr 2013 5:06 UTC
+0 points
+
+0
+Parent
+
+(I don’t claim to be able to identify all useless definitions as useless, just as I can’t label all sets which are in fact the empty set correctly. That is not necessary.)
+
+I’m talking about the specific first two definitions you gave. Let me give it one more try.
+
+foo(a) is a predicate, it evaluates to true or false (in binary logic). This is not new information (edit: if we go into the whole ordeal already knowing we set out to define the predicate foo(.)), so the letter sequence foo(a) itself doesn’t tell us anything new (e.g. foo(‘some identified element’)=true would).
+
+You can gather everything for which foo(‘that thing’) is true in a set. This does not tell us anything new about the predicate. The set could be empty, it could have one element, it could be infinitely large.
+
+We’re not constraining foo(.) in any way, we’re simply saying “we define a set containing all the things for which foo(thing) is true”.
+
+Then we’re going through all the different elements of that set (which could be no elements, or infinitely many elements), and if we find an element which is the exact same as ‘a’, we conclude that foo(a) is true.
+
+The ‘identity’ is not introducing any new specific information whatsoever about what foo(.) means. You can do the exact same with any predicate. If ‘a’ is ‘x’, then they are identical. You can replace any reference to ‘a’ with ‘x’ or vice versa.
+
+Which variable name you use to refer to some element doesn’t tell us anything about the element, unless it’s a descriptive name. The letter ‘a’ doesn’t tell you anything about an element of a set, nor does ‘x’. And if ‘a’ = ‘x’, there is no difference. It’s the classical tautology: a=a. x=x. There is no ‘new information’ whatsoever about the predicate foo(.) there.
+
+In fact, the definitions you gave can be exactly used for any predicate, any predicate at all! (… which takes one argument. The first two definitions, we’re still unclear on the third.) An alien could no more know you’re talking about ‘existence’ than about ‘contains strawberry seeds’, if not for how we named the predicate going in.
+
+You can probably replace foo(a) with exists(a) on your own …
+
+That is why I reject the definition as wholly uninformative and useless. The most interesting part is that existing is described as a predicate at all, and that’s an (unexplained) assumption made before the fully generic and such useless definition is made.
+
+Which of the above do you disagree with? (Regarding ‘concept containment’, I very much doubt we’d run into much trouble with that notion. An equivalent formulation to ‘concept containment’ when saying anything about a predicate would be ‘any information which is not equally applicable to all possible predicates’.)
+
+Shmi 28 Apr 2013 6:49 UTC
+−1 points
+
+0
+Parent
+
+I’ve had this circular discussion with RobbBB for a couple of hours. Maybe you will have better luck.
+
+Doug_S. 11 Feb 2008 4:35 UTC
+9 points
+
+0
+
+Well, is “Pluto is a planet” the right password, or not? ;)
+
+Eliezer Yudkowsky 11 Feb 2008 4:46 UTC
+17 points
+
+0
+
+Don’t the sayings suggest that recognizing this bug in oneself or others doesn’t require any neural-level understanding of cognition?
+
+Clearly, bug-recognition at the level described in this blog post does not so require, because I have no idea what the biological circuitry that actually recognizes a tiger looks like, though I know it happens in the temporal lobe.
+
+JulianMorrison 11 Feb 2008 5:44 UTC
+2 points
+
+0
+
+Given that this bug relates to neural structure on an abstract, rather than biological level, I wonder if it’s a cognitive universal beyond just humans? Would any pragmatic AGI built out of neurons necessarily have the same bias?
+
+moshez 24 Dec 2012 21:59 UTC
+4 points
+
+0
+Parent
+
+The same bias to...what? From the inside, the AI might feel “conflicted” or “weirded out” by a yellow, furry, ellipsoid shaped object, but that’s not necessarily a bug: maybe this feeling accumulates and eventually results in creating new sub-categories. The AI won’t necessarily get into the argument about definitions, because while part of that argument comes from the neural architecture above, the other part comes from the need to win arguments—and the evolutionary bias for humans to win arguments would not be present in most AI designs.
+
+tcpkac 11 Feb 2008 8:08 UTC
+−4 points
+
+0
+
+Again, very interesting.
+A mind composed of type 1 neural networks looks as though it wouldn’t in fact be able to do any categorising, so wouldn’t be able to do any predicting, so would in fact be pretty dumb and lead a very Hobbesian life....
+
+Ron_Hardin 11 Feb 2008 9:52 UTC
+−12 points
+
+0
+
+Are vibrations in the air that nobody hears, sound? That’s the question.
+
+It’s not, curiously, a matter of definition.
+
+See Stanley Cavell’s discussion of what is a chair in The Claim of Reason p.71
+
+Wittgenstein goes a little deeper than is imagined.
+
+Ben_Jones 11 Feb 2008 10:21 UTC
+1 point
+
+0
+
+I’ve always been vaguely aware of this, but never seen it laid out this clearly—good post. The more you think about it, the more ridiculous it seems. “No, we can know whether it’s a planet or not! We just have to know more about it!”
+
+Scott, you forgot ‘I yam what I yam and that’s all what I yam’.
+
+Silas 11 Feb 2008 14:36 UTC
+14 points
+
+0
+
+At risk of sounding ignorant, it’s not clear to me how Network 1, or the networks in the prerequisite blog post, actually work. I know I’m supposed to already have superficial understanding of neural networks, and I do, but it wasn’t immediately obvious to me what happens in Network 1, what the algorithm is. Before you roll your eyes, yes, I looked at the Artificial Neural Network Wikipedia page, but it still doesn’t help in determining what yours means.
+
+gmaxwell 8 Sep 2010 4:55 UTC
+2 points
+
+0
+Parent
+
+Network 1 would work just fine (ignoring how you’d go about training such a thing). Each of the N^2 edges has a weight expressing the relationship of the vertices it connects. E.g. if nodes A and B are strongly anti-correlated the weight between them might be −1. You then fix the nodes you know and then either solve the system analytically or through numerical iteration until it settles down (hopefully!) and then you have expectations for all the unknown.
+
+Typical networks for this sort of thing don’t have cycles so stability isn’t a question, but that doesn’t mean that networks with cycles can’t work and reach stable solutions. Some error correcting codes have graph representations that aren’t much better than this. :)
+
+thomblake 24 Oct 2011 16:43 UTC
+1 point
+
+0
+Parent
+
+Silas, I’m sure you’ve seen the answer by now, but for anyone who comes later, if you think of the diagrams above as Bayes Networks then you’re on the right track.
+
+billswift 11 Feb 2008 15:22 UTC
+7 points
+
+0
+
+Silas, the diagrams are not neural networks, and don’t represent them. They are graphs of the connections between observable characteristics of bleggs and rubes.
+
+Adam_Safron 11 Feb 2008 15:42 UTC
+4 points
+
+0
+
+Once again, great post.
+
+Eliezer: “We know where Pluto is, and where it’s going; we know Pluto’s shape, and Pluto’s mass—but is it a planet? And yes, there were people who said this was a fight over definitions...”
+
+It was a fight over definitions. Astronomers were trying to update their nomenclature to better handle new data (large bodies in the Kuiper belt). Pluto wasn’t quite like the other planets but it wasn’t like the other asteroids either. So they called it a dwarf-planet. Seems pretty reasonable to me.
+http://​​en.wikipedia.org/​​wiki/​​Dwarf_planet
+
+Silas 11 Feb 2008 16:39 UTC
+3 points
+
+0
+
+billswift: Okay, if they’re not neural networks, then there’s no explanation of how they work, so I don’t understand how to compare them all. How was I supposed to know from the posts how they work?
+
+tcpkac 11 Feb 2008 16:48 UTC
+1 point
+
+0
+
+Silas, billswift, Eliezer does say, introducing his diagrams in the Neural Categories post :
+“Then I might design a neural network that looks something like this:”
+
+Cyan2 11 Feb 2008 17:07 UTC
+1 point
+
+1
+
+Silas,
+
+The keywords you need are “Hopfield network” and “Hebbian learning”. MacKay’s book has a section on them, starting on page 505.
+
+anonymous12 11 Feb 2008 20:57 UTC
+5 points
+
+0
+
+Silas, see Naive Bayes classifier for how an “observable characteristics graph” similar to Network 2 should work in theory. It’s not clear whether Hopfield or Hebbian learning can implement this, though.
+
+To put it simply, Network 2 makes the strong assumption that the only influence on features such as color or shape is whether the object is a a rube or a blegg. This is an extremely strong assumption which is often inaccurate; despite this, naive Bayes classifiers work extremely well in practice.
+
+Eliezer Yudkowsky 11 Feb 2008 21:18 UTC
+12 points
+
+0
+
+I was wondering if anyone would notice that Network 2 with logistic units was exactly equivalent to Naive Bayes.
+
+To be precise, Naive Bayes assumes that within the blegg cluster, or within the rube cluster, all remaining variance in the characteristics is independent; or to put it another way, once we know whether an object is a blegg or a rube, this screens off any other information that its shape could tell us about its color. This isn’t the same as assuming that the only causal influence on a blegg’s shape is its blegg-ness—in fact, there may not be anything that corresponds to blegg-ness.
+
+But one reason that Naive Bayes does work pretty well in practice, is that a lot of objects in the real world do have causal essences, like the way that cat DNA (which doesn’t mix with dog DNA) is the causal essence that gives rise to all the surface characteristics that distinguish cats from dogs.
+
+The other reason Naive Bayes works pretty well in practice is that it often successfully chops up a probability distribution into clusters even when the real causal structure looks nothing like a central influence.
+
+Cyan2 20 Jun 2008 22:58 UTC
+1 point
+
+0
+
+Silas,
+
+The essential idea is that network 1 can be trained on a target pattern, and after training, it will converge to the target when initialized with a partial or distorted version of the target. Wikipedia’s article on Hopfield networks has more.
+
+Both types of networks can be used to predict observables given other observables. Network 1, being totally connected, is slower than network 2. But network 2 has a node which corresponds to no observable thing. It can leave one with the feeling that some question has not been completely answered even though all the observables have known states.
+
+David James 1 May 2024 9:52 UTC
+1 point
+
+0
+Parent
+
+For Hopfield networks in general, convergence is not guaranteed. See [1] for convergence properties.
+
+[1] J. Bruck, “On the convergence properties of the Hopfield model,” Proc. IEEE, vol. 78, no. 10, pp. 1579–1585, Oct. 1990, doi: 10.1109/​5.58341.
+
+HalFinney 24 Jun 2008 23:04 UTC
+7 points
+
+0
+
+Silas, let me try to give you a little more explicit answer. This is how I think it is meant to work, although I agree that the description is rather unclear.
+
+Each dot in the diagram is an “artificial neuron”. This is a little machine that has N inputs and one output, all of which are numbers. It also has an internal “threshold” value, which is also a number. The way it works is it computes a “weighted sum” of its N inputs. That means that each input has a “weight”, another number. It multplies weight 1 times input 1, plus weight 2 times input 2, plus weight 3 times input 3, and so on, to get the weighted sum. (Note that weights can also be negative, so some inputs can lower the sum.) It then compares this with the threshold value. If the sum is greater than the threshold, it outputs 1, otherwise it outputs 0. If a neuron’s output is a 1 we say it is “firing” or “activated”.
+
+The diagram shows how the ANs are hooked up into a network, an ANN. Each neuron in Figure 1 has 5 inputs. 4 of them come from the other 4 neurons in the circuit and are represented by the lines. The 5th comes from the particular characteristic which is assigned to that neuron, i.e. color, luminance, etc. If the object has that property, that 5th input is a 1, else a 0. All of the connections in this network are bidirectional, so that neuron 1 receives input from neuron 2, while neuron 2 receives input from neuron 1, etc.
+
+So to think about what this network does, we imagine inputting the 5 qualities which are observed about an object to the “5th” input of each of the 5 neurons. We imagine that the current output levels of all the neurons are set to something arbitrary, let’s just say zero. And perhaps initially the weights and threshold values are also quite random.
+
+When we give the neurons this activation pattern, some of them may end up firing and some may not, depending on how the weights and thresholds are set up. And once a neuron starts firing, that feeds into one of the inputs of the other 4 neurons, which may change their own state. That feeds back through the network as well. This may lead to oscillation or an unstable state, but hopefully it will settle down into some pattern.
+
+Now, according to various rules, we will typically adjust the weights. There are different ways to do this, but I think the concept in this example is that we will try to make the output of each neuron match its “5th input”, the object characteristic assigned to that neuron. We want the luminance neuron to activate when the object is luminous, and so on. So we increase weights that will tend to move the output in that direction, decrease weights that would move it the other way, tweak the thresholds a bit. We do this repeatedly with different objects, making small changes to the weights—this is “training” the network. Eventually it hopefully settles down and does pretty much what we want it to.
+
+Now we can give it some wrong or ambiguous inputs, and ideally it will still produce the output that is supposed to go there. If we input 4 of the characteristics of a blegg, the 5th neuron will also show the blegg-style output. It has “learned” the characteristics of bleggs and rubes.
+
+In the case of Network 2, the setup is simpler—each edge neuron has just 2 inputs: its unique observed characteristic, and a feedback value from the center neuron. Each one performs its weighted-sum trick and sends its output to the center one, which has its own set of weights and a threshold that determines whether it activates or not. In this case we want to teach the center one to distinguish bleggs from rubes, so we would train it that way—adjusting the weights a little bit at a time until we find it firing when it is a blegg but not when it is a rube.
+
+Anyway, I know this is a long explanation but I didn’t see anyone else making it explicit. Hopefully it is mostly correct.
+
+PhilGoetz 22 Aug 2009 3:02 UTC
+4 points
+
+0
+
+I think the standard analysis is essentially correct. So let’s accept that as a premise, and ask: Why do people get into such an argument? What’s the underlying psychology?
+
+I think that people historically got into this argument because they didn’t know what sound was. It is a philosophical appendix, a vestigial argument that no longer has any interest.
+
+IrenicTruth 6 Aug 2021 21:50 UTC
+6 points
+
+0
+Parent
+
+The earliest citation in Wikipedia is from 1883, and it is a question and answer: “If a tree were to fall on an island where there were no human beings would there be any sound?” [The asker] then went on to answer the query with, “No. Sound is the sensation excited in the ear when the air or other medium is set in motion.”
+
+So, if this is truly the origin, they knew the nature of sound when the question was first asked.
+
+dconrad 28 Oct 2009 4:17 UTC
+2 points
+
+0
+
+The extra node in network 2 corresponds to assigning a label, an abstract term to the thing being reasoned about. I wonder if a being with a network-1 mind would have ever evolved intelligence. Assigning names to things, creating categories, allows us to reason about much more complex things. If the price we pay for that is occasionally getting into a confusing or pointless argument about “is it a rube or a blegg?” or “does a tree falling in a deserted forest make a sound?” or “is Pluto a planet?”, that seems like a fair price to pay.
+
+David_Gerard 7 Dec 2010 18:09 UTC
+3 points
+
+0
+
+I tend to resolve this sort of “is it really an X?” issue with the question “what’s it for?” This is similar to making a belief pay rent: why do you care if it’s really an X?
+
+lukstafi 23 Jan 2011 23:49 UTC
+2 points
+
+0
+
+I’m a little bit lazy and already clicked here from the reductionism article, is the philosophical claim that of a non-eliminative reductionism? Or does Eliezer render a more eliminativist variant of reductionism? (I’m not implying that there is a contradiction between quoted sources, only some amount of “tension”.)
+
+Jaeson 2 Jun 2011 21:23 UTC
+0 points
+
+0
+
+Most of this is about word-association, multiple definitions of worlds, or not enough words to describe the situation.
+
+In this case, a far more complicated Network setup would be required to describe the neural activity. Not only would you need the Network you have, but you would also need a second (or intermediate) network connecting sensory perceptions with certain words, and then yet another (or extended) network connecting those words with memory and cognitive associations with those words in the past. You could go on and on, by then also including the other words linked to those cognitive associations (and then the words associated with those, etc., etc.) In truth, even then, it would probably a far-more simplistic and less-connected view than what is truly occuring in the brain.
+
+What is occuring (90% of the time) with the “Tree argument” is multiple definitions (and associations) for one word. For instance, let’s say ‘quot’ was a well-known English word for accoustic vibrations. Being a single word, with no other definitions, no one would ever (even when thinking) mistake it with the subjective experience of sound. People wouldn’t ask ‘If a tree falls, when no one is there, does it make a quot’, because everyone would instantly associate the word ‘quot’ with the vibrations that must be made, and can be proven to exist, with or without people to listen to them (unless you are one of the few who claim the vibrations (or quots) do not exist, either). People also, then, would not ask if the tree made a sound, either, because they would instantly link the word ‘sound’ with the subjective experience, as the word would have no competing definition any longer (unless you are someone who claims the subjective experience of sound would still exist, even without a person [I’ve never met such a person, but chances are, they’re out there]).
+
+As for the question of whether or not it is a blegg, this is example is mostly true to what your saying, though word-associate for the colors ‘blue’ and ‘red’ would also play a role. The word ‘Blegg’ has three of the letters ‘blue’ has, and thus people would probably be inclined to call something that looks blue a ‘blegg’ when given the choice. As for a ‘Rube’, this word has three letters and would be similiar in pronounciation to ‘Ruby’. This, also, would cause people to be more likely say something is a ‘Rube’ if it is red, rather than if it was blue.
+
+As for the question of Pluto being a planet (besides cultural bias by people who grew-up calling it one), the argument lies in not enough people knowing the true definition (or else no set definition) of the word. From my understanding, planets are defined as things big-enough to move a certain amount of other things around it in space. The evidence long-ago showed that Pluto could do this, so it was called a planet. But now, the evidence says that Pluto cannot do this, so it is not a planet. If people asked ‘Is Pluto big-enough to move things?‘, the debate (if you could call it that) would be much different. People have known Pluto isn’t a ‘planet’ for years, but only when they discovered the dwarf planet ‘Eris’ did they decide Pluto would have to go, or else books would soon be saying our Solar System had eleven planets (two of which actually being dwarf ones).
+
+All of that being said, I enjoyed your writing very much, and agreed with much of it.
+
+TheatreAddict 9 Jul 2011 3:26 UTC
+3 points
+
+0
+
+So.. is this pretty much a result of our human brains wanting to classify something? Like, if something doesn’t necessarily fit into a box that we can neatly file away, our brains puzzle where to classify it, when actually it is its own classification… if that makes sense?
+
+Hunt 11 Jan 2012 10:50 UTC
+−4 points
+
+0
+
+If a tree falls in a forest, but there’s nobody there to hear it, does it make a sound? Yes, but if there’s nobody there to hear it, it goes “AAAAAAh.”
+
+SparrowOS 12 Feb 2013 14:13 UTC
+−17 points
+
+0
+
+A neuron can repeatedly fire at 10Hz. A nerve signal can travel 1m in 0.001s.
+A computer going at 14,000,000Hz or 400,000,000Hz with irregular timing in the signal...? Only a nigger has a problem with this.
+
+Ronny Fernandez 18 Sep 2013 19:30 UTC
+5 points
+
+0
+
+Except that around 2% of blue egg-shaped objects contain palladium instead. So if you find a blue egg-shaped thing that contains palladium, should you call it a “rube” instead? You’re going to put it in the rube bin—why not call it a “rube”?
+
+But when you switch off the light, nearly all bleggs glow faintly in the dark. And blue egg-shaped objects that contain palladium are just as likely to glow in the dark as any other blue egg-shaped object.
+
+So if you find a blue egg-shaped object that contains palladium, and you ask “Is it a blegg?”, the answer depends on what you have to do with the answer: If you ask “Which bin does the object go in?”, then you choose as if the object is a rube. But if you ask “If I turn off the light, will it glow?”, you predict as if the object is a blegg. In one case, the question “Is it a blegg?” stands in for the disguised query, “Which bin does it go in?”. In the other case, the question “Is it a blegg?” stands in for the disguised query, “Will it glow in the dark?”
+
+This is amazing, but too fast. It’s too important and counter intuitive to do that fast, and we absolutely devastatingly painfully need it in philosophy departments. Please help us. This is an S.O.S. our ship is sinking. Write this again longer, so that I can show it to people and change their minds. People who are not lesswrong litterate. It’s too important to go over that fast, anyway. I also ask that you, or anyone for that matter, find a simple real world example which has roughly analogous parameters to the ones you specified, and use that as the example instead. Somebody do it [please, I’m too busy arguing with philosophy proffesors about it, and there are better writers on this site that could take up the endeavor. It would be useful and well liked anyway chances are, and I’ll give what rewards I can.
+
+erikbjare 25 May 2014 18:59 UTC
+5 points
+
+0
+
+There is a good quote by Alan Watts relating to the first paragraphs.
+
+Problems that remain persistently insoluble should always be suspected as questions asked in the wrong way.
+
+Elund 21 Oct 2014 6:39 UTC
+−1 points
+
+0
+
+I personally prefer names to be self-explanatory. Therefore, in this example I would consider a “blegg” to be a blue egg, regardless of its other qualities, and a “rube” to be a red cube, regardless of its other qualities. I suspect many other people would have a similar intuition.
+
+[deleted] 9 Feb 2015 23:48 UTC
+−1 points
+
+0
+
+This article argues to the effect that the node categorising an unnamed category over ‘Blegg’ and ‘Rube’ ought to be got rid of, in favour of a thought-system with only the other five nodes. This brings up the following questions. Firstly, how are we to know which categorisations are the ones we ought to get rid of, and which are the ones we ought to keep? Secondly, why is it that some categorisations ought to be got rid of, and others ought not be?
+
+So far as I can see, the article does not attempt to directly answer the first question (correct me if I am mistaken). The article does seem to try and answer the second question through some kind of Essentialism; that ‘Blegg’ and ‘Rube’ don’t pick out real “kinds”, whilst the other categorisations do. Is this the correct reading of the article? And how exactly would that type of Essentialism pan out?
+
+Jarogers326 7 Oct 2015 12:35 UTC
+0 points
+
+0
+
+I doubt I’d be able to fully grasp this if I had not first read hpmor, so thanks for that. Also, eggs vs ovals.
+
+Biff Wiff 22 Mar 2017 20:08 UTC
+2 points
+
+0
+
+Another example:
+
+Yeah, you could tell about your gender, sex, sexual orientation and gender role… but are you a boy or are you a girl???
+
+Of course, the latter question isn’t asking about something observable.
+
+brook 10 Nov 2019 21:31 UTC
+2 points
+
+0
+
+On one notable occasion I had a similar discussion about sound with somebody and it turned out that she didn’t simply have a different definition to me—she was, (somewhat curiously) a solipsist, and genuinely believed that there wasn’t anything if there wasn’t somebody there to hear it—no experience, no soundwaves, no anything.
+
+Jin Guu 27 Oct 2020 13:49 UTC
+2 points
+
+0
+
+I see no significant difference between your 2 models. Sure, the first one feels more refined.. but at the end, each node of it is still a “dangling unit”.. and for example the units should still try to answer.. “Is it blue? Or red?”
+
+So for me, I’d still say that the answers depend on the questioner’s definition. Each definition is again an abstract dangling unit though..
+
+papetoast 5 Aug 2022 13:38 UTC
+2 points
+
+0
+Parent
+
+I don’t have a clear answer either, but it seems like the nodes in model 1 have a shorter causal link to reality.
+
+Guillaume Charrier 3 Mar 2023 13:29 UTC
+2 points
+
+0
+
+“Given that we know Pluto’s orbit and shape and mass, there is no question left to ask.”
+
+I’m sure it’s completely missing the point, but there was at least one question left to ask, which turned out to be critical in this debate, i.e. “has it cleared its neighboring region of other objects?”
+
+More broadly I feel the post just demonstrates that sometimes we argue, not necessarily in a very productive way, over the definition, the defining characteristics, the exact borders, of a concept. I am reminded of the famous quip “The job of philosophers is first to create words and then argue with each other about their meaning.” But again—surely missing something…
+
+David James 1 May 2024 9:32 UTC
+1 point
+
+0
+
+The audio reading of this post [1] mistakenly uses the word hexagon instead of pentagon; e.g. “Network 1 is a hexagon. Enclosed in the hexagon is a five-pointed star”.
+
+[1] [RSS feed](https://​​intelligence.org/​​podcasts/​​raz); various podcast sources and audiobooks can be found [here](https://​​intelligence.org/​​rationality-ai-zombies/​​)
+
+Back to top

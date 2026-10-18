@@ -1,0 +1,524 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Mutual Information, and Density in Thingspace
+
+Eliezer Yudkowsky23 Feb 2008 19:14 UTC
+77 points
+28 comments7 min readLW linkArchive
+Information theoryThingspace
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Suppose you have a system X that can be in any of 8 states, which are all equally probable (relative to your current state of knowledge), and a system Y that can be in any of 4 states, all equally probable.
+
+The entropy of X, as defined yesterday, is 3 bits; we’ll need to ask 3 yes-or-no questions to find out X’s exact state. The entropy of Y, as defined yesterday, is 2 bits; we have to ask 2 yes-or-no questions to find out Y’s exact state. This may seem obvious since 23 = 8 and 22 = 4, so 3 questions can distinguish 8 possibilities and 2 questions can distinguish 4 possibilities; but remember that if the possibilities were not all equally likely, we could use a more clever code to discover Y’s state using e.g. 1.75 questions on average. In this case, though, X’s probability mass is evenly distributed over all its possible states, and likewise Y, so we can’t use any clever codes.
+
+What is the entropy of the combined system (X,Y)?
+
+You might be tempted to answer, “It takes 3 questions to find out X, and then 2 questions to find out Y, so it takes 5 questions total to find out the state of X and Y.”
+
+But what if the two variables are entangled, so that learning the state of Y tells us something about the state of X?
+
+In particular, let’s suppose that X and Y are either both odd, or both even.
+
+Now if we receive a 3-bit message (ask 3 questions) and learn that X is in state 5, we know that Y is in state 1 or state 3, but not state 2 or state 4. So the single additional question “Is Y in state 3?”, answered “No”, tells us the entire state of (X,Y): X=X5, Y=Y1. And we learned this with a total of 4 questions.
+
+Conversely, if we learn that Y is in state 4 using two questions, it will take us only an additional two questions to learn whether X is in state 2, 4, 6, or 8. Again, four questions to learn the state of the joint system.
+
+The mutual information of two variables is defined as the difference between the entropy of the joint system and the entropy of the independent systems: I(X;Y) = H(X) + H(Y) - H(X,Y).
+
+Here there is one bit of mutual information between the two systems: Learning X tells us one bit of information about Y (cuts down the space of possibilities from 4 to 2, a factor-of-2 decrease in the volume) and learning Y tells us one bit of information about X (cuts down the possibility space from 8 to 4).
+
+What about when probability mass is not evenly distributed? Yesterday, for example, we discussed the case in which Y had the probabilities 1⁄2, 1⁄4, 1⁄8, 1⁄8 for its four states. Let us take this to be our probability distribution over Y, considered independently—if we saw Y, without seeing anything else, this is what we’d expect to see. And suppose the variable Z has two states, 1 and 2, with probabilities 3⁄8 and 5⁄8 respectively.
+
+Then if and only if the joint distribution of Y and Z is as follows, there is zero mutual information between Y and Z:
+
+Z1Y1: 3⁄16
+Z1Y2: 3⁄32
+Z1Y3: 3⁄64
+Z1Y3: 3⁄64
+
+Z2Y1: 5⁄16
+Z2Y2: 5⁄32
+Z2Y3: 5⁄64
+Z2Y3: 5⁄64
+
+This distribution obeys the law:
+
+p(Y,Z) = P(Y)P(Z)
+
+For example, P(Z1Y2) = P(Z1)P(Y2) = 3⁄8 * 1⁄4 = 3⁄32.
+
+And observe that we can recover the marginal (independent) probabilities of Y and Z just by looking at the joint distribution:
+
+P(Y1) = total probability of all the different ways Y1 can happen
+= P(Z1Y1) + P(Z2Y1)
+= 3⁄16 + 5⁄16
+= 1⁄2.
+
+So, just by inspecting the joint distribution, we can determine whether the marginal variables Y and Z are independent; that is, whether the joint distribution factors into the product of the marginal distributions; whether, for all Y and Z, P(Y,Z) = P(Y)P(Z).
+
+This last is significant because, by Bayes’s Rule:
+
+P(Yi,Zj) = P(Yi)P(Zj)
+P(Yi,Zj)/​P(Zj) = P(Yi)
+P(Yi|Zj) = P(Yi)
+
+In English, “After you learn Zj, your belief about Yi is just what it was before.”
+
+So when the distribution factorizes—when P(Y,Z) = P(Y)P(Z) - this is equivalent to “Learning about Y never tells us anything about Z or vice versa.”
+
+From which you might suspect, correctly, that there is no mutual information between Y and Z. Where there is no mutual information, there is no Bayesian evidence, and vice versa.
+
+Suppose that in the distribution YZ above, we treated each possible combination of Y and Z as a separate event—so that the distribution YZ would have a total of 8 possibilities, with the probabilities shown—and then we calculated the entropy of the distribution YZ the same way we would calculate the entropy of any distribution:
+
+3⁄16 log2(3/​16) + 3⁄32 log2(3/​32) + 3⁄64 log2(3/​64) + … + 5⁄64 log2(5/​64)
+
+You would end up with the same total you would get if you separately calculated the entropy of Y plus the entropy of Z. There is no mutual information between the two variables, so our uncertainty about the joint system is not any less than our uncertainty about the two systems considered separately. (I am not showing the calculations, but you are welcome to do them; and I am not showing the proof that this is true in general, but you are welcome to Google on “Shannon entropy” and “mutual information”.)
+
+What if the joint distribution doesn’t factorize? For example:
+
+Z1Y1: 12⁄64
+Z1Y2: 8⁄64
+Z1Y3: 1⁄64
+Z1Y4: 3⁄64
+
+Z2Y1: 20⁄64
+Z2Y2: 8⁄64
+Z2Y3: 7⁄64
+Z2Y4: 5⁄64
+
+If you add up the joint probabilities to get marginal probabilities, you should find that P(Y1) = 1⁄2, P(Z1) = 3⁄8, and so on—the marginal probabilities are the same as before.
+
+But the joint probabilities do not always equal the product of the marginal probabilities. For example, the probability P(Z1Y2) equals 8⁄64, where P(Z1)P(Y2) would equal 3⁄8 * 1⁄4 = 6⁄64. That is, the probability of running into Z1Y2 together, is greater than you’d expect based on the probabilities of running into Z1 or Y2 separately.
+
+Which in turn implies:
+
+P(Z1Y2) > P(Z1)P(Y2)
+P(Z1Y2)/​P(Y2) > P(Z1)
+P(Z1|Y2) > P(Z1)
+
+Since there’s an “unusually high” probability for P(Z1Y2) - defined as a probability higher than the marginal probabilities would indicate by default—it follows that observing Y2 is evidence which increases the probability of Z1. And by a symmetrical argument, observing Z1 must favor Y2.
+
+As there are at least some values of Y that tell us about Z (and vice versa) there must be mutual information between the two variables; and so you will find—I am confident, though I haven’t actually checked—that calculating the entropy of YZ yields less total uncertainty than the sum of the independent entropies of Y and Z. H(Y,Z) = H(Y) + H(Z) - I(Y;Z) with all quantities necessarily nonnegative.
+
+(I digress here to remark that the symmetry of the expression for the mutual information shows that Y must tell us as much about Z, on average, as Z tells us about Y. I leave it as an exercise to the reader to reconcile this with anything they were taught in logic class about how, if all ravens are black, being allowed to reason Raven(x)->Black(x) doesn’t mean you’re allowed to reason Black(x)->Raven(x). How different seem the symmetrical probability flows of the Bayesian, from the sharp lurches of logic—even though the latter is just a degenerate case of the former.)
+
+“But,” you ask, “what has all this to do with the proper use of words?”
+
+In Empty Labels and then Replace the Symbol with the Substance, we saw the technique of replacing a word with its definition—the example being given:
+
+All [mortal, ~feathers, bipedal] are mortal.
+Socrates is a [mortal, ~feathers, bipedal].
+Therefore, Socrates is mortal.
+
+Why, then, would you even want to have a word for “human”? Why not just say “Socrates is a mortal featherless biped”?
+
+Because it’s helpful to have shorter words for things that you encounter often. If your code for describing single properties is already efficient, then there will not be an advantage to having a special word for a conjunction—like “human” for “mortal featherless biped”—unless things that are mortal and featherless and bipedal, are found more often than the marginal probabilities would lead you to expect.
+
+In efficient codes, word length corresponds to probability—so the code for Z1Y2 will be just as long as the code for Z1 plus the code for Y2, unless P(Z1Y2) > P(Z1)P(Y2), in which case the code for the word can be shorter than the codes for its parts.
+
+And this in turn corresponds exactly to the case where we can infer some of the properties of the thing, from seeing its other properties. It must be more likely than the default that featherless bipedal things will also be mortal.
+
+Of course the word “human” really describes many, many more properties—when you see a human-shaped entity that talks and wears clothes, you can infer whole hosts of biochemical and anatomical and cognitive facts about it. To replace the word “human” with a description of everything we know about humans would require us to spend an inordinate amount of time talking. But this is true only because a featherless talking biped is far more likely than default to be poisonable by hemlock, or have broad nails, or be overconfident.
+
+Having a word for a thing, rather than just listing its properties, is a more compact code precisely in those cases where we can infer some of those properties from the other properties. (With the exception perhaps of very primitive words, like “red”, that we would use to send an entirely uncompressed description of our sensory experiences. But by the time you encounter a bug, or even a rock, you’re dealing with nonsimple property collections, far above the primitive level.)
+
+So having a word “wiggin” for green-eyed black-haired people, is more useful than just saying “green-eyed black-haired person”, precisely when:
+
+Green-eyed people are more likely than average to be black-haired (and vice versa), meaning that we can probabilistically infer green eyes from black hair or vice versa; or
+
+Wiggins share other properties that can be inferred at greater-than-default probability. In this case we have to separately observe the green eyes and black hair; but then, after observing both these properties independently, we can probabilistically infer other properties (like a taste for ketchup).
+
+One may even consider the act of defining a word as a promise to this effect. Telling someone, “I define the word ‘wiggin’ to mean a person with green eyes and black hair”, by Gricean implication, asserts that the word “wiggin” will somehow help you make inferences /​ shorten your messages.
+
+If green-eyes and black hair have no greater than default probability to be found together, nor does any other property occur at greater than default probability along with them, then the word “wiggin” is a lie: The word claims that certain people are worth distinguishing as a group, but they’re not.
+
+In this case the word “wiggin” does not help describe reality more compactly—it is not defined by someone sending the shortest message—it has no role in the simplest explanation. Equivalently, the word “wiggin” will be of no help to you in doing any Bayesian inference. Even if you do not call the word a lie, it is surely an error.
+
+And the way to carve reality at its joints, is to draw your boundaries around concentrations of unusually high probability density in Thingspace.
+
+What links here?
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+The Se­cond Law of Ther­mo­dy­nam­ics, and Eng­ines of Cognition by Eliezer Yudkowsky (27 Feb 2008 0:48 UTC; 238 points)
+
+Where to Draw the Boundaries? by Zack_M_Davis (13 Apr 2019 21:34 UTC; 131 points)
+
+Su­per­ex­po­nen­tial Con­ceptspace, and Sim­ple Words by Eliezer Yudkowsky (24 Feb 2008 23:59 UTC; 81 points)
+
+Con­di­tional In­de­pen­dence, and Naive Bayes by Eliezer Yudkowsky (1 Mar 2008 1:59 UTC; 81 points)
+
+Search­ing for Bayes-Structure by Eliezer Yudkowsky (28 Feb 2008 22:01 UTC; 76 points)
+
+Is Hu­man­ism A Reli­gion-Sub­sti­tute? by Eliezer Yudkowsky (26 Mar 2008 4:18 UTC; 71 points)
+
+Re­duc­tive Reference by Eliezer Yudkowsky (3 Apr 2008 1:37 UTC; 66 points)
+
+In­for­ma­tion the­ory and the sym­me­try of up­dat­ing beliefs by Academian (20 Mar 2010 0:34 UTC; 65 points)
+
+Schel­ling Cat­e­gories, and Sim­ple Mem­ber­ship Tests by Zack_M_Davis (26 Aug 2019 2:43 UTC; 60 points)
+
+Blood Is Thicker Than Water 🐬 by Zack_M_Davis (28 Sep 2021 3:21 UTC; 39 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+Fun­da­men­tals of kick­ing an­thropic butt by Manfred (26 Mar 2012 6:43 UTC; 25 points)
+
+How to Disen­tan­gle the Past and the Future by royf (2 Jan 2013 17:43 UTC; 22 points)
+
+How to Be Oversurprised by royf (7 Jan 2013 4:02 UTC; 20 points)
+
+The Bayesian Agent by royf (18 Sep 2012 3:23 UTC; 19 points)
+
+habryka's comment on 2018 Re­view: Vot­ing Re­sults! by Ben Pace (24 Jan 2020 22:02 UTC; 17 points)
+
+Zack_M_Davis's comment on Con­tain­ment Thread on the Mo­ti­va­tion and Poli­ti­cal Con­text for My Philos­o­phy of Lan­guage Agenda by Zack_M_Davis (27 Feb 2022 19:12 UTC; 17 points)
+
+Up­date Then Forget by royf (17 Jan 2013 18:36 UTC; 15 points)
+
+Zack_M_Davis's comment on Where to Draw the Boundaries? by Zack_M_Davis (15 Apr 2019 16:18 UTC; 13 points)
+
+DaFranker's comment on The Won­der of Evolution by Eliezer Yudkowsky (31 Oct 2012 15:30 UTC; 11 points)
+
+Zack_M_Davis's comment on Blood Is Thicker Than Water 🐬 by Zack_M_Davis (30 Sep 2021 3:55 UTC; 10 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+The Per­cep­tion-Ac­tion Cycle by royf (23 Jul 2012 1:44 UTC; 8 points)
+
+[SEQ RERUN] Mu­tual In­for­ma­tion, and Den­sity in Thingspace by MinibearRex (8 Feb 2012 2:07 UTC; 7 points)
+
+cubefox's comment on Why does gen­er­al­iza­tion work? by Martín Soto (24 Feb 2024 23:47 UTC; 6 points)
+
+orthonormal's comment on Life Ex­ten­sion ver­sus Replacement by Julia_Galef (3 Dec 2011 0:07 UTC; 5 points)
+
+Emile's comment on A Ra­tional Education by wedrifid (25 Jun 2010 16:59 UTC; 5 points)
+
+TekhneMakre's comment on Con­tain­ment Thread on the Mo­ti­va­tion and Poli­ti­cal Con­text for My Philos­o­phy of Lan­guage Agenda by Zack_M_Davis (28 Feb 2022 1:39 UTC; 4 points)
+
+Eliezer Yudkowsky's comment on Where to Draw the Boundary? by Eliezer Yudkowsky (23 Feb 2008 20:11 UTC; 4 points)
+
+[deleted]'s comment on Ra­tional Ro­man­tic Re­la­tion­ships, Part 1: Re­la­tion­ship Styles and At­trac­tion Basics by lukeprog (9 Nov 2011 10:47 UTC; 3 points)
+
+SilasBarta's comment on You can’t be­lieve in Bayes by PhilGoetz (9 Jun 2009 18:40 UTC; 3 points)
+
+orthonormal's comment on Life Ex­ten­sion ver­sus Replacement by Julia_Galef (2 Dec 2011 5:48 UTC; 3 points)
+
+Wei Dai's comment on Maybe Ly­ing Doesn’t Exist by Zack_M_Davis (18 Oct 2019 20:40 UTC; 3 points)
+
+Zack_M_Davis's comment on Where to Draw the Boundaries? by Zack_M_Davis (29 Apr 2019 1:16 UTC; 3 points)
+
+atucker's comment on Open Thread: Mathematics by bentarm (14 Feb 2011 3:55 UTC; 3 points)
+
+denis_bider's comment on Leave a Line of Retreat by Eliezer Yudkowsky (26 Feb 2008 3:55 UTC; 2 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (15 Mar 2019 7:42 UTC; 2 points)
+
+Sebastian_Hagen2's comment on Zom­bies! Zom­bies? by Eliezer Yudkowsky (4 Apr 2008 14:44 UTC; 1 point)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (4 Aug 2011 9:08 UTC; 1 point)
+
+Meetup : Seat­tle Ra­tion­al­ity Read­ing Group by SeekingEternity (24 Feb 2016 21:12 UTC; 1 point)
+
+shokwave's comment on How to Con­vince Me That 2 + 2 = 3 by Eliezer Yudkowsky (17 Dec 2010 15:21 UTC; 0 points)
+
+David_Gerard's comment on Scien­tific mis­con­duct mis­di­ag­nosed be­cause of sci­en­tific misconduct by GLaDOS (10 Jun 2011 21:52 UTC; -5 points)
+
+Eliezer Yudkowsky23 Feb 2008 19:14 UTC
+77 points
+28 comments7 min readLW linkArchive
+Information theoryThingspace
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: En­tropy, and Short CodesNext: Su­per­ex­po­nen­tial Con­ceptspace, and Sim­ple Words
+
+Ron_Hardin 24 Feb 2008 0:06 UTC
+−3 points
+
+0
+
+We have a thousand words for sorrow
+http://​​rhhardin.home.mindspring.com/​​sorrow.txt
+
+I don’t know if that affects the theory.
+
+(computer clustering a short distance down paths of a thesaurus)
+
+themusicgod1 15 Mar 2015 4:23 UTC
+4 points
+
+0
+Parent
+
+Including: “twitter”, “altruism”, “trust”, “start” and “curiosity” apparently?
+
+tcpkac 24 Feb 2008 8:16 UTC
+2 points
+
+0
+
+You’ve forgotten one important caveat in the phrase “And the way to carve reality at its joints, is to draw your boundaries around concentrations of unusually high probability density in Thingspace.”
+The important caveat is : ‘boundaries around where concentrations of unusually high probability density lie, to the best of our knowledge and belief’ . All the imperfections in categorisation in existing languages come from that limitation.
+Other problems in categorisation, like those of Antonio, in ‘Merchant of Venise’, or those of the founding fathers who wrote that it is ‘self evident that all men were created equal’ but at the same time were slave owners, do not come from language problems in categorisation, they would have acknowledged that Shylock or the slaves were human, but from different types of cognitive compromise.
+Apart from that, it’s an intellectually satisfying approach, and you might, if you persevere, end up with a poor relation to an existing language. Why a poor relation ? because it would lack nuance, ambiguity, and redundance, which are the roots of poetry.
+It would also lack words for the surprising but significant improbable phenomenon. Like genius, or albino. Then again, once you get around to saying you will have words for significant low hills of probability, the whole argument blows away.
+Bon courage.
+
+ksvanhorn 13 Jan 2011 16:30 UTC
+5 points
+
+0
+Parent
+
+“The important caveat is : ‘boundaries around where concentrations of unusually high probability density lie, to the best of our knowledge and belief’ .”
+
+I would call the above an instance of the Mind Projection Fallacy, as you seem to be assuming a probability density that is a property of the physical world, and which we are trying to ascertain. But probabilities are properties of our minds (or ideal, perfectly rational minds), not of the exterior world, and a probability distribution is simply an entity to describe our state of information; it is “the best of our knowledge and belief”.
+
+Frank_Hirsch 24 Feb 2008 10:50 UTC
+0 points
+
+0
+
+tcpkac:
+The important caveat is : ‘boundaries around where concentrations of unusually high probability density lie, to the best of our knowledge and belief’ . All the imperfections in categorisation in existing languages come from that limitation.
+
+This strikes me as a rather bold statement, but “to the best of our knowledge and belief” might be fuzzy enough to make it true. Some specific factors that distort our language (and consequently our thinking) might be:
+
+Probability shifts in thingspace invalidating previously useful clusterings. Natural languages need time adapt, and dictionary writers tend to be conservative.
+
+Cognitive biases that distort our perception of thingspace. Very on topic here, I suppose. ^_^
+
+Manipulation (intended and unintended). Humans treat articulations from other humans as evidence. That can go so far that authentic contrary evidence is explained away using confirmation bias.
+
+Other problems in categorisation, [...] do not come from language problems in categorisation, [...] but from different types of cognitive compromise.
+
+Well, lack of consistency in important matters seems to me to be a rather bad sign.
+
+It would also lack words for the surprising but significant improbable phenomenon. Like genius, or albino. Then again, once you get around to saying you will have words for significant low hills of probability, the whole argument blows away.
+
+I don’t think so. Once the most significant hills have been named, we go on and name the next significant hills. We just choose longer names.
+
+[deleted] 24 Feb 2008 11:49 UTC
+2 points
+
+0
+
+Since we are resting all our language construction and reasoning on thingspace there are a few things that need to be defined.
+
+What is the distance metric for thingspace? How is thingspace extended?
+
+Peter_de_Blanc 24 Feb 2008 12:54 UTC
+14 points
+
+0
+
+Even an optimal language would not be one designed to minimize average message length, because some messages are more urgent than others, even if relatively uncommon; e.g., messages about tigers.
+
+Richard_Kennaway 24 Feb 2008 16:46 UTC
+1 point
+
+0
+
+tcpkac wrote: ‘boundaries around where concentrations of unusually high probability density lie, to the best of our knowledge and belief’
+
+The “probability density” is already the best of our knowledge and belief, unless Eliezer has converted to frequentism.
+
+Eliezer Yudkowsky 24 Feb 2008 17:02 UTC
+1 point
+
+0
+
+Will, thingspace may not need a distance metric depending on how you draw your boundaries, which are not necessarily surfaces containing volumes of constant density. For example, a class in Naive Bayes /​ neural network of type 2 also slices up thingspace. More about this shortly. But if you’re interested in the general topic, I believe that in the field of statistical learning, for algorithms that actually do depend on distance metrics, the standard cheap trick is to “sphere” the space by making the standard deviation equal 1 in all directions. An ad-hoc technique but apparently a useful one, though it has all the flaws you would expect.
+
+tcpkac, see Kenneway’s response.
+
+[deleted] 25 Feb 2008 11:32 UTC
+0 points
+
+0
+
+While it is true that you don’t need a metric to draw a boundary, I personally need a metric to be able to envision high concentrations of probability density.
+
+A concentration implies a region, which implies a metric space. While your sphering of the space normalises it somewhat and deals with part of the trouble, it still skips over the question of metric space. For example is 2, 2, 2 closer to 1, 1, 1 than 4, 1, 1? If that was a co-ordinate of a position in three dimensional space you would want to use the euclidean metric i.e. d = ((x2 - x1)^2 + (y2 - y1)^2+ (z2 - z1)^2)^1/​2 or you that might not be appropriate and you would have to use city block distances and put them equally far away (if they were average energy usage, weight and how many copies of the gene for green eyes it had).
+
+See this page for more possible metrics http://​​www.cut-the-knot.org/​​do_you_know/​​far_near.shtml.
+
+Gordon_Worley 25 Feb 2008 14:09 UTC
+0 points
+
+0
+
+I believe you made a slight typo, Eli.
+
+You said: “Since there’s an “unusually high” probability for P(Z1Y2) - defined as a probability higher than the marginal probabilities would indicate by default—it follows that observing Z1 is evidence which increases the probability of Y2. And by a symmetrical argument, observing Y2 must favor Z1.”
+
+But I think what you meant was “Since there’s an “unusually high” probability for P(Z1Y2) - defined as a probability higher than the marginal probabilities would indicate by default—it follows that observing Y2 is evidence which increases the probability of Z1. And by a symmetrical argument, observing Z1 must favor Y2.”
+
+Nothing you said was untrue, but the implication of what you wrote doesn’t match up with the example you actually gave just above that text.
+
+Gordon_Worley 25 Feb 2008 14:39 UTC
+0 points
+
+0
+
+Hopefully not taking away anyone’s fun here, but to reconcile Raven(x)->Black(x) but not vice versa, what this statement wants to say, letting P(R) and P(B) be the probabilities of raven and black, respectively, is P(R|B)=0 and P(B|R)=1, which gives us that
+
+P(R|B) = 0
+P(RB)/​P(B) = 0
+P(RB) = 0
+
+and
+
+P(B|R) = 1
+P(BR)/​P(R) = 1
+P(BR) = P(R)
+
+But of course this leads to a contradiction, so it can’t really be true that Black(x)-/​->Raven(x), can it? Sure, because what is really meant by implies (-/​->) is not P(B|R) = 0 but P(B|R)<1. But in logic we often forget this because anything with a probability less than 1 is assigned a truth value of false.
+
+Logic has its value, since sometimes you want to prove something is true 100% of the time, but this is generally only possible in pure mathematics. If you try to do it elsewhere you’ll get exceptions (e.g. albino ravens). So leave logic to mathematicians; you should use Bayesian inference.
+
+Ben_Jones 25 Feb 2008 16:11 UTC
+0 points
+
+0
+
+I’ve no doubt got the wrong end of the stick here, but why P(R|B)=0? Surely the probability that a black thing is a raven is nonzero?
+
+Nick_Tarleton 25 Feb 2008 17:30 UTC
+0 points
+
+0
+
+“Vice versa” would be the contrapositive, which is NonBlack(x)->NonRaven(x), which is true iff R(x)->B(x) is true, no?
+
+Eliezer Yudkowsky 25 Feb 2008 19:25 UTC
+0 points
+
+0
+
+Gordon, I fixed the Z1/​Y2 swap.
+
+“Vice versa” seems to have been interpreted ambiguously so I substituted “doesn’t mean you’re allowed to reason Black(x)->Raven(x)” which was what I meant.
+
+Gordon, the whole business about P(R|B) = 0 makes no sense to me, and I suspect that it makes no sense even in principle. “If we learn that something is black, we know it cannot possibly be a raven”?
+
+Gordon_Worley 25 Feb 2008 19:40 UTC
+0 points
+
+0
+
+I agree that it makes no sense, but as I was writing the comment I figured I would take you down the wrong path of what someone might naively think and then correct it. I think that someone who was overly trained in logic and not in probability might assume that if Raven(x)-->Black(x) being true leads to P(B|R) = 1, they might reason that since the reverse implication Black(x)-->Raven(x) is false, it leads to P(R|B) = 0. But based on the comments above, maybe only an ancient Greek philosopher would be inclined to make such a mistake.
+
+Ben_Jones 26 Feb 2008 9:37 UTC
+0 points
+
+0
+
+Gordon,
+
+I’d hope they weren’t so hopelessly ‘overtrained’ that they wouldn’t be able to step back from their P’s and parentheses and ask themselves whether they really think that a black object cannot be a raven.
+
+If it’s a raven, it’s black. If it ain’t black, it ain’t a raven.
+
+Caledonian2 26 Feb 2008 13:50 UTC
+−1 points
+
+0
+
+We’ll ignore the existence of albino ravens for the sake of argument.
+
+Ben_Jones 26 Feb 2008 14:08 UTC
+1 point
+
+0
+
+Have a look at the caption here
+
+That’s what happens to you when you insist on being the exception to the rule!
+
+Rolf_Nelson2 27 Feb 2008 3:04 UTC
+1 point
+
+0
+
+Green-eyed people are more likely than average to be black-haired (and vice versa), meaning that we can probabilistically infer green eyes from black hair or vice versa
+
+There is nothing in the mind that is not first in the census.
+
+Ender 5 Sep 2011 18:05 UTC
+1 point
+
+0
+
+Just so you know, there are two columns of Y subscript 3s in the first joint distribution.
+
+[deleted] 7 Apr 2014 18:55 UTC
+1 point
+
+0
+Parent
+
+This typo is still there.
+
+Then if and only if the joint distribution of Y and Z is as follows, there is zero mutual information between Y and Z:
+
+Z1Y1: 3⁄16 Z1Y2: 3⁄32 Z1Y3: 3⁄64 Z1Y3: 3⁄64
+
+Z2Y1: 5⁄16 Z2Y2: 5⁄32 Z2Y3: 5⁄64 Z2Y3: 5⁄64
+
+Fourth column has misnumbered subscripts.
+
+royf 19 Jul 2012 22:43 UTC
+0 points
+
+0
+
+Having a word [...] is a more compact code precisely in those cases where we can infer some of those properties from the other properties. (With the exception perhaps of very primitive words, like “red” [...]).
+
+Remember that mutual information is symmetric. If some things have the property of being red, then “red” has the property of being a property of those things. Saying “blood is red” is really saying “remember that visual experience that you get when you look at certain roses, apples, peppers, lipsticks and English buses and phone booths? The same happens with blood.” If I give you the list above, can you find (“infer”) more red things? Then “red” is a good word.
+
+But do note that this is a dual sense to the one in which “human” is a good word. Most of the properties of humans are statistically necessary for being human: remove any one of them, and the thing is much less likely to be human. “Human” is a good word because these properties are positively correlated. On the other hand, most of the red things are statistically sufficient for being red: take any one of them, and the thing is much more likely to be red. “Red” is a good word because these things are negatively correlated—they are a bunch of distinct things with a shared aspect.
+
+Slava Matyukhin 1 Aug 2012 13:50 UTC
+0 points
+
+0
+
+Erratum: In the first example of YZ joint distribution, last column should list Z1Y4 and Z2Y4 instead of Z1Y3 and Z2Y3.
+
+[deleted] 12 May 2016 3:25 UTC
+2 points
+
+0
+
+So, hold on, if you wrote this in 2008, why the hell did you keep writing this blog instead of publishing at least one of what were eventually numerous papers on information-theoretic clustering with mutual-information measurements? Some of those didn’t even come out until 2012 or 2014 or so, so it’s not like you wouldn’t have had time to publish a solid revision to MI-clustering if you came up with a good algorithm.
+
+Capla 26 Sep 2017 4:23 UTC
+0 points
+
+0
+
+This is a brilliant essay. One of the best in the sequences, I think.
+
+Khal 15 Sep 2018 2:27 UTC
+1 point
+
+0
+
+I’m wondering if a combination is so rare as to be odd, is it worth naming? E.g. wigger, or wangster. Wouldn’t it be useful precisely because we don’t expect it?
+
+Ian Televan 15 Mar 2021 19:36 UTC
+4 points
+
+0
+
+Fascinating subject indeed!
+
+I wonder how one would need to modify this principle to take into account risk-benefit analysis. What if quickly identifying wiggins meant incurring great benefit or avoiding great harm, then you would still need a nice short word for them. This seems obvious, the question is only how much shorter would the word need to be.
+
+Labels that are both short and phonetically consistent with a given language are in short supply, therefore we would predict that sometimes even unrelated things shared labels—if they occupied sufficiently different contexts s.t. there was no risk of confusing them. This what we see in case of professional jargon, for example. I also wonder whether one could actually quantify such prediction.
+
+If labels that are both short and phonetically consistent with a given language are really in such short supply, why aren’t they all already occupied? Why were you able to come up with a word like ‘wiggin’, that seems to be consistent with English phonetics, that doesn’t already mean something? -- This introduces the concept of phonetic redundancy in languages. It would actually be impractical to occupy all shortest syllable combinations, because it would make it impossible or require too much effort to correct errors. People in radiocommunications recognized this phenomenon and devised a number of spelling alphabets, the most commonly known being the NATO phonetic alphabet.
+
+Back to top

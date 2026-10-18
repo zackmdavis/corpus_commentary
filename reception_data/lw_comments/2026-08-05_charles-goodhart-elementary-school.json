@@ -1,0 +1,51 @@
+{
+ "post": {
+  "_id": "7AKvSMavPZ8GjxFaa",
+  "title": "Charles Goodhart Elementary School",
+  "postedAt": "2026-08-05T17:06:07.208Z",
+  "pageUrl": "https://www.lesswrong.com/posts/7AKvSMavPZ8GjxFaa/charles-goodhart-elementary-school",
+  "commentCount": 3
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "BDp7xWQJcd4HT543h",
+   "parentCommentId": null,
+   "postedAt": "2026-08-05T19:22:42.367Z",
+   "baseScore": 7,
+   "user": {
+    "username": "TrE",
+    "displayName": "Philipp Risius"
+   },
+   "contents": {
+    "markdown": "That poor kid had clearly attached too much importance to the checkmark, as if their behavior had been shaped so as to get as many checkmarks as possible. Marking everything as correct seems to not have helped, either. It would be nice if the kid could find for themselves the value of what they were doing, and weren\u2019t pressed into a pre-determined mould \u2014 even if it\u2019s just \u201cdo stuff to get checkmarks\u201d.\n\nI want to note that I see something similar in many university freshmen, who attach way too much meaning to points and grades. When I switched to a similar approach as shown in the story (mark almost everything as good enough, as long as an answer was present), some got it. For others, it seemed to be too late."
+   }
+  },
+  {
+   "_id": "eWXu8r6g9SAFGvuAQ",
+   "parentCommentId": null,
+   "postedAt": "2026-08-06T04:54:17.125Z",
+   "baseScore": -3,
+   "user": {
+    "username": "kbear",
+    "displayName": "kbear"
+   },
+   "contents": {
+    "markdown": "strong upvoted"
+   }
+  },
+  {
+   "_id": "cghkNZMEhAudNzuAi",
+   "parentCommentId": null,
+   "postedAt": "2026-08-06T08:34:38.829Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "I actually taught at a school that did something similar, but most parents were happy about the outcome. I quit after a few months, because I realized I did not want to play this game.\n\nIf your situation happened at that school, the parents would probably put their child in a different school, which would solve their problem, but also allow the school to continue existing unchanged."
+   }
+  }
+ ]
+}

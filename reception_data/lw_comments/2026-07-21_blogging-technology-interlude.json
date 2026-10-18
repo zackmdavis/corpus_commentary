@@ -1,0 +1,25 @@
+{
+ "post": {
+  "_id": "zDxxFw5wedrKAEurX",
+  "title": "Blogging Technology Interlude",
+  "postedAt": "2026-07-21T19:03:09.087Z",
+  "pageUrl": "https://www.lesswrong.com/posts/zDxxFw5wedrKAEurX/blogging-technology-interlude",
+  "commentCount": 1
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "HxwdRDvCHC5gnWBGf",
+   "parentCommentId": null,
+   "postedAt": "2026-07-22T07:26:34.586Z",
+   "baseScore": 4,
+   "user": {
+    "username": "korin43",
+    "displayName": "Brendan Long"
+   },
+   "contents": {
+    "markdown": "If you find that managing the VPS is annoying, I host a similar Pelican blog by uploading everything directly to a CDN and using edge rules for anything fancy (like your redirects or Markdown content negotiation). I use BunnyCDN because [their storage zones are fast even for cache misses](https://www.brendanlong.com/even-faster-website-with-bunny-cdn-and-micromorph.html), and Claude can configure it with Terraform."
+   }
+  }
+ ]
+}

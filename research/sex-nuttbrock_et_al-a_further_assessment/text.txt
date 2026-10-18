@@ -1,0 +1,1724 @@
+Arch Sex Behav (2011) 40:247–257
+DOI 10.1007/s10508-009-9579-2
+
+ORIGINAL PAPER
+
+A Further Assessment of Blanchard’s Typology of Homosexual
+Versus Non-Homosexual or Autogynephilic Gender Dysphoria
+Larry Nuttbrock • Walter Bockting • Mona Mason •
+Sel Hwahng • Andrew Rosenblum • Monica Macri •
+Jeffrey Becker
+
+Received: 1 April 2009 / Revised: 26 September 2009 / Accepted: 23 October 2009 / Published online: 29 December 2009
+Ó Springer Science+Business Media, LLC 2009
+
+Abstract In a series of important but now highly controversial articles, Blanchard examined associations of sexual
+orientation and transvestic fetishism among male-to-female
+(MTF) transgender persons in Toronto, Canada. Transvestic
+fetishism was rare among the homosexuals but prevalent
+among the non-homosexuals. Subtypes of non-homosexual
+MTFs (heterosexual, bisexual, and asexual) were consistently high with regard to transvestic fetishism. Non-linear
+associations of a continuous measurement of sexual attraction to women (gynephilia) and transvestic fetishism were
+interpreted in terms of an etiological hypothesis in which
+transvestic fetishism interferes with the early development of
+heterosexuality. Blanchard concluded that homosexual versus non-homosexual sexual orientation is a dominant and
+etiologically significant axis for evaluating and understanding this population. We further assessed these findings among
+571 MTFs from the New York City metropolitan area. Using
+the Life Chart Interview, multiple measurements of transvestic
+fetishism were obtained and classified as lifetime, lifecourse
+persistent, adolescent limited, and adult onset. Large (but not
+deterministic) differences in lifetime, lifecourse persistent,
+and adolescent limited transvestic fetishism were found
+between the homosexuals and non-homosexuals. Contrary to
+Blanchard, differences in transvestic fetishism were observed
+across subtypes of the non-homosexuals, and linear (not curvi-
+
+L. Nuttbrock (&)  M. Mason  S. Hwahng  A. Rosenblum 
+M. Macri  J. Becker
+National Development and Research Institutes,
+71 West 23rd Street, 8th Floor, New York, NY 10010, USA
+e-mail: Nuttbrock@ndri.org
+W. Bockting
+Program in Human Sexuality, Department of Family Medicine
+and Community Health, University of Minnesota,
+Minneapolis, MN, USA
+
+linear) associations were found along a continuous measurement of gynephilia and transvestic fetishism. Age and ethnicity,
+in addition to sexual orientation, were found to be statistically
+significant predictors of transvestic fetishism. The clinical,
+etiological, and sociopolitical implications of these findings
+are discussed.
+Keywords Gender identity disorder  Transsexualism 
+Sexual orientation  Transvestic fetishism  Autogynephilia
+
+Introduction
+The Classification of Male-to-Female Transgender
+Persons
+Individuals born with a penis who later develop a sense of
+themselves as ‘‘female’’ or partially ‘‘female’’ in certain situations or roles—male-to-female transgender persons (Bolin,
+1998; Whitlock, 1996)—are a unique yet highly heterogeneous population, and several attempts have been made over
+the years to classify them into subgroups (Bullough & Bullough, 1997; Cole, Denny, Eyler, & Samons, 2000). One
+approach to this classification, exemplified in the pioneering
+work of Hirschfeld (1910) and some later writers (Ellis,
+1936), is sexual orientation as defined in terms of the traditional binary gender system. A basic divide in this approach,
+also reflected in the DSM, is between MTFs who are sexually
+attracted only to biological males as compared to those who
+are not so attracted (American Psychiatric Association, 2000).
+The latter subgroup includes MTFs attracted to females (heterosexuals), both males and females (bisexuals), and neither
+males or females (asexuals) (Smith, van Goozen, Kuiper, &
+Cohen-Kettenis, 2005). Since the 1960s, several studies have
+found that homosexual MTFs are seldom (if ever) sexually
+
+123
+
+248
+
+aroused by dressing in the female role (termed transvestic
+fetishism) while all three subtypes of non-homosexual MTFs
+are typically so aroused (Buhrich & McConaghy, 1977; Doorn,
+Poortinga, & Verschoor, 1994; Freund, Steiner, & Chan, 1982).
+
+Blanchard’s Typology of Homosexual Versus NonHomosexual or Autogynephilic Gender Dysphoria
+In a series of scientifically important articles, Blanchard interpreted and further analyzed the association between sexual orientation and transvestic fetishism among MTFs in terms of
+a broader concept called autogynephilia (Blanchard, 1985a,
+1988). Following Hirschfeld (1910), transvestic fetishism was
+conceptualized as one manifestation of a misdirected development of heterosexuality in which non-homosexual MTFs
+become sexually aroused, not by the thought or image of actual
+sexual partners, but by the thought or image of ‘‘the woman
+within.’’ Case studies of this MTF subgroup suggested that
+dressing in the female role (‘‘cross dressing’’) elicited sexual
+arousal because of this self imagery of femininity; that this self
+imagery may be linked to stereotyped feminine activities (such
+as knitting) and may be sexual arousing as a result; and that
+sexual activity (including masturbation and sexual intercourse)
+in this MTF subgroup is sexually satisfying (orgasmic) if it is
+associated with a self imagery of femininity. Autogynephilia, in
+one manifestation or another, came to be regarded as a universal,
+albeit abnormal, aspect of development among non-homosexual MTFs. Autogynephilia among homosexual MTFs, because
+of largely unspecified aspects of their development (see Ovesey
+& Person, 1976), was presumed to be extremely rare or nonexistent. These individuals were said to be sexually aroused, not
+by the thought or image of the ‘‘woman within,’’ but by actual
+physical characteristics of other biological males (Blanchard,
+1991).
+Beyond these clinical descriptions, Blanchard’s view of the
+association between sexual orientation and transvestic fetishism among MTFs, conceptualized as autogynephilia, has been
+supported by an important series of empirical studies conducted among gender dysphoric biological males who registered at a gender identity clinic in Toronto, Canada, during the
+1980s. Participants included in Blanchard’s analysis were
+screened for some degree of ‘‘wanting to be a female’’ (MTF
+using the above definition), with an average age of 40–45 (in
+the 1980s) and an unspecified ethnicity (presumably mostly
+white) (Blanchard, 1985a). Participants were assigned to one
+of the four types of sexual orientation (indicated above) based
+on a cluster analysis of their scores on multiple items related to
+sexual orientation. The analysis was predetermined to generate four clusters presumed to indicate the four subtypes of sexual orientation. Transvestic fetishism was measured as a global
+lifetime report of sexual arousal associated with wearing
+women’s apparel (Blanchard, 1989).
+
+123
+
+Arch Sex Behav (2011) 40:247–257
+
+Using this sample and measurement protocol, three interrelated sets of findings were produced. Extending the studies
+reviewed above, transvestic fetishism was much higher among
+the non-homosexuals (82.6%) compared to the homosexuals
+(9.6%). Deviations of these percentages from 100% among the
+non-homosexuals and 0% among the homosexuals, indicative
+of developmental universals distinguishing these subgroups (as
+implied in his theory), were interpreted as resulting from measurement error and response bias (see Blanchard, Clemmensen,
+& Steiner, 1985).
+The second finding also bears on the validity of a dichotomous classification of MTF based on sexual orientation: the
+three subtypes of non-homosexuals consistently reported high
+levels of transvestic fetishism that were found to be very similar.
+The differences in transvestic fetishism across these three
+groups (from 68% to 85%) were not statistically significant
+and interpreted as measurement error (Blanchard, 1989).
+The third finding bears, somewhat inferentially, on the more
+etiological proposition that transvestic fetishism (interpreted
+as autogynephilia) interferes with normal heterosexual development among the non-homosexual MTFs (Blanchard, 1992).
+This theoretical proposition was empirically evaluated by
+observing levels of transvestic fetishism and other aspects of
+autogynephilia along three gradations of a continuous measurement of gynephilia. MTFs with extremely low (or nonexistent) gynephilia were presumed to be homosexual. As such
+(consistent with the above findings), they were predicted to
+report low transvestic fetishism. MTFs with an intermediate
+level of gynephilia were predicted to report high transvestic
+fetishism; those with the highest level of gynephilia were also
+predicted to report low transvestic fetishism. The predicted
+down-turn in levels of transvestic fetishism from the second
+(intermediate) to the third (high) gradations of gynephilia
+reflects the assumption that transvestic fetishism and gynephilia are competing motives (or orientations or behaviors)
+(i.e., if one is high. the other must be low). The overall form of
+the association between transvestic fetishism and levels of
+gynephilia was predicted to be an inverted U (\). These predictions were supported by plotting mean values of transvestic
+fetishism (and other measures of autogynephilia) across levels
+of gynephilia. The non-monotonic or curvilinear (inverted U)
+form of these associations was confirmed using curvilinear
+regression analysis (Blanchard, 1992).
+Blanchard’s studies, for the most part conducted more than
+two decades ago, have fundamental implications for the psychiatric diagnoses of gender-related disorders in DSM, the
+etiology of gender-related disorders, and the worldwide transgender movement. His theoretical formulation of autogynephilia has been introduced into DSM-IV-TR. His deterministic
+typology of MTFs as either homosexual or non-homosexual is
+consistent with DSM-IV protocols for Transvestic Fetishism
+and the subtyping of Gender Identity Disorder by sexual orientation (Bower, 2001).
+
+Arch Sex Behav (2011) 40:247–257
+
+The Current Controversy Surrounding Blanchard’s
+Findings
+The etiological implications of Blanchard’s findings point to
+basic mechanisms underlying the development of transvestic
+fetishism and heterosexuality that are presumably independent
+of sociocultural factors and historical change. As such, his
+work is framed within an essentialist as compared to a social
+constructionist paradigm of sexuality (Bem, 1993). His findings have sociopolitical implications far beyond scientific
+circles because they directly contradict basic tenets of the
+worldwide transgender movement: sex and gender are deemed
+to be separate, socially constructed dimensions of personal
+identity characterized by individual variation and social diversity (Bolin, 1998; Bornstein, 1994; Boswell, 1998; Rothblatt,
+1994).
+A recent highly polemic book by Bailey (2003) set out to
+better understand the differences between homosexual and
+non-homosexual MTFs, and further inflamed transgender
+activists around the world. A central proposition of Bailey’s
+work is that homosexual MTFs are effeminate biological
+males who‘‘cross dress’’and pursue a transgender lifestyle as a
+strategy to maximize sexual partners. In these and other ways,
+transgenderism was essentially reduced to sexuality. The ensuing storm of controversy has prompted world-wide scrutiny
+(albeit little research) regarding the validity of classifying
+MTFs as either homosexual or non-homosexual, and the concept of autogynephilia more generally. Blanchard’s highly
+specialized articles on autogynephilia, after two decades of
+relative obscurity, are now at the front stage of scientific and
+public debate (Dreger, 2008).
+A Further Assessment of Blanchard’s Findings
+The significance and broad implications of Blanchard’s findings, combined with the fact that there is surprisingly little
+scientific data directly bearing on them, prompted us to investigate whether or not his findings could be replicated in a
+community-based sample of 571 MTFs from the New York
+City metropolitan area (Nuttbrock et al., 2009). Our analysis
+included multiple measurements of sexual orientation (categorical and continuous), multiple measurements of transvestic
+fetishism that reflect potentially significant life course variation
+in its persistence, and two potentially critical sociodemographic
+variables that (as detailed below) are highly intertwined with
+both sexual orientation and transvestic fetishism among
+MTFs—age (age cohort) and ethnicity.
+Date of birth is a potentially significant factor underlying
+virtually all aspects of the transgender phenomenon (including
+transvestic fetishism). MTFs born between 1950 and 1969, with
+a current age of 40–59, were adolescents at a time when professional and social knowledge about transgenderism was lim-
+
+249
+
+ited and identification as transgender was, presumably as a
+result, comparatively unlikely (Bolin, 1998). MTFs born
+between 1970 and 1989, with a current age of 19–39, were
+adolescents at a time when professional and social knowledge
+about transgenderism was broadly disseminated, different types
+of transgender identity proliferated, and identification as transgender was, presumably as a result of this, more likely (Bolin,
+1998). Both generations of MTFs grew up as a sexual minority
+in an‘‘often hostile social environment’’(Cole et al., 2000), but
+the younger generation developed a gender identity at a time
+when transgenderism was rapidly losing its secretive and exotic
+character (Bolin, 1998). We examined the specific hypothesis
+that the younger generation has lower levels of transvestic
+fetishism than the older generation.
+Ethnicity is a second, fundamentally significant factor
+associated with the transgender experience (and transvestic
+fetishism) (Lippa & Tan, 2001; Nanda, 1994; O’Kobe et al.,
+2008; Tsoi, 1988). The association between sexual orientation
+and transvestite fetishism is complicated by the fact that homosexuality may vary across ethnic groups (Lawrence, 2008).
+Compared to White MTFs, Blacks and Hispanic MTFs are
+more likely to report sex with biological males and endorse a
+homosexual identity (Hwahng & Nuttbrock, 2007). Whatever
+their sexual orientation, compared to White MTFs, Black and
+Hispanic MTFs are more socially expressive about their sexuality and gender. Black and Hispanic MTFs in New York
+City, and perhaps other areas as well, belong to MTF ethnocultural communities in which expressions of femininity and
+dressing in the female role are socially accepted and encouraged. In New York City, the younger generation of Black and
+Hispanic MTFs, in particular, live in a social context where
+transgenderism has almost completely lost its secretive and
+exotic character.
+Finally, to better characterize the current sample of MTFs
+and provide data bearing on the validity of the findings
+regarding sexual orientation and transvestic fetishism, measurements of lifetime hormone therapy (HT) were obtained
+and incorporated in some of the analysis. The use of hormones
+in conjunction with sex reassignment surgery (SRS) or to promote a more feminized appearance (with or without SRS) has
+historically been regarded as an indicator of transsexualism,
+defined as the commitment to live as a woman on a permanent
+basis (Pauly, 1990). Since the early writings of Benjamin
+(1966), the degree of commitment to a female role, as revealed
+by actual (or intended) HT or SRS, has been an additional axis
+for subclassifying MTFs (in addition to sexual orientation). It
+was long assumed that transsexuals were a distinct subgroup of
+MTFs because they typically did not experience sexual arousal
+associated with dressing in the female role. The negative
+association between transsexualism and transvestic fetishism,
+while intuitively compelling, is statistically weak (Blanchard
+& Clemmensen, 1988; Wise & Meyer, 1980).
+
+123
+
+250
+
+Method
+Participants
+A total of 571 MTFs were recruited for the baseline component of a large cross-sectional/longitudinal study of MTFs
+in the New York City metropolitan area (The New York
+Transgender Project). All study participants were assigned
+as male at birth but subsequently did not regard themselves
+as completely male in all situations or roles (transgender
+identity). In addition to transgender identity, eligibility for
+inclusion in the study included age of 19 or older and the
+absence of psychotic ideation (two were screened out). Study
+participants were broadly recruited from the streets, clubs,
+newspaper advertisements, transgender organizations (e.g.,
+TRIESS, Cross Dressers International, and the Mid Hudson
+Valley Transgender Association), the Internet, and referrals
+of other transgender persons by study participants.
+Participants ranged in age from 19 to 59 with a mean of
+37 years. A total of 333 were between 19 and 39; 238 were
+between 40 and 59. Hispanic identification was 43.9%, with
+26.8%, 21.6%, and 7.6% identifying, respectively, as nonHispanic White, non-Hispanic Black, or some other NonHispanic ethnic category. These groups will be referred to as
+Hispanics, Blacks, Whites, and Others. About one fourth (27.7%)
+indicated no hormone therapy (HT); 29.9% started HT before
+the age of 19 (adolescence); and 42.4% started HT at the age
+of 19 or later (adult).
+The participants were compensated $30 as a token payment for their time and effort. Transgender or gender variant
+individuals were actively involved in all aspects and phases
+of the research design. The Institutional Review Board of the
+National Development and Research Institutes approved all
+of the research protocols.
+Measures and Procedure
+Face-to-face interviews, which typically lasted about 90 min,
+were conducted in conjunction with the Life Review of Transgender Experiences (LRTE) (available from the first author).
+The interview was designed specifically for an MTF population and included a broad range of social, behavioral,
+economic, and psychiatric assessments. The first section contained items about sociodemographic factors (including age
+and ethnicity), sexual orientation, and current living arrangements. Subsequent sections contained structured and semistructured items about economic factors, interpersonal relationships, and transgender experiences that occurred during
+five stages of the life course. For all participants, early adolescence was age 10 thru 14; late adolescence was age 15 thru
+19 (for all participants). For younger participants currently
+between the ages of 19–39, early adulthood was age 20 thru 24;
+young adulthood was age 25 thru 29; and early middle age was
+
+123
+
+Arch Sex Behav (2011) 40:247–257
+
+age 30 thru 39. For older participants currently between the
+ages of 40 and 59, early/young adulthood was age 20 thru 29;
+early middle age was age 30 thru 39; and later middle age was
+age 40 thru 59.
+Following the methodology and administration protocols
+of the Life Chart Interview (LCI) (Lyketsos, Nestadt, Cwi,
+Heithoff, & Eaton, 1994), sets of personal and social memory
+cues or anchors were utilized to define and personally characterize each age period. Calendar years and (as appropriate)
+levels of education bounding the life stages were elicited and
+recorded. Salient personal and social events occurring within
+these time frames were also elicited and recorded. To facilitate
+memory, the life stage boundaries, and the personally meaningful events occurring during them, were periodically repeated during the course of the LRTE interview. The interview
+proceeded in a time-sequential manner. All items were asked
+with reference to the first time period (early adolescence)
+followed, in sequence, by asking these same questions with
+regard to later time periods. As the interview progressed, participants were reminded about their responses to items during
+earlier life stages.
+Current age was coded as both a continuous (19 thru 59)
+and a dichotomous variable (19–39 = 0; 40–59 = 1). The two
+groups of current age were interpreted as age cohorts. Four
+categories of ethnicity were classified as Hispanic, NonHispanic Black, Non-Hispanic White, or some other classification. Each of these categories was dummy coded as 1
+(identification with a given category) or 0 (identification with
+any of the remaining three categories). White versus nonWhite will be used in the regression modeling below.
+The LRTE section pertaining to sexual orientation began
+with an open-ended question asking participants to‘‘describe
+how you view your sexual orientation.’’After so introducing
+this line of inquiry, participants were given a card describing
+seven types of potential sex partners (non-transgender females;
+non-transgender males; male-to-female transgender (MTF);
+female-to-male transgender (FTM); male-to-female transsexual; female-to-male transsexual; and inter-sex). This comprehensive listing of potential sex partners was used to encompass
+the full range of sexual partners that may potentially be found in
+a transgender population. The coding for this report was based
+solely on the first two types of listed potential sex partners (nontransgender females and non-transgender males). The participants were asked to indicate all of the types of listed partners
+with whom they: (1)‘‘currently have sex with’’; (2)‘‘are sexually
+attracted to’’; (3)‘‘have sexual fantasies’’; and (4)‘‘can fall in love
+with.’’
+Four categorical measurements of sexual orientation were
+classified as sexual attraction (item 2) to non-transgender
+males but not non-transgender females (homosexual); nontransgender females but not non-transgender males (heterosexual); both non-transgender females and non-transgender
+females (bisexual); or neither non-transgender females or
+
+Arch Sex Behav (2011) 40:247–257
+
+non-transgender males (asexual). In some of the analysis
+below, these four mutually exclusive types of sexual orientation were measured as a dichotomy: homosexual versus
+non-homosexual. Non-homosexual participants included heterosexuals, bisexuals, and asexuals (with asexuals excluded
+from some of the analysis because of the low numbers).
+Continuous measurements of sexual orientation reflected
+gradations of attraction to non-transgender females (gynephilia) and non-transgender males (androphilia) using all four
+of the item listed above. Separate continuous scales of androphilia and gynephilia reflected the total number of the four
+indicators of attraction endorsed for non-transgender females
+and non-transgender males, respectively. Low levels of gynephilia and androphilia (scored as 0) indicated that none of
+the four attraction indicators were endorsed; intermediate
+levels of gynephilia or androphilia (scored as 1) indicated that
+1 thru 3 of the attraction indicators were endorsed; high levels
+of gynephilia or androphilia (scored as 2) indicated that all of
+the attraction indicators had been endorsed.
+The LRTE section pertaining to transvestic fetishism was
+introduced as follows: ‘‘Let’s continue to think about this
+particular period of your life and recall the types of feminine
+attire that you may have worn during this time and whether or
+not wearing this feminine attire was sexually arousing.’’[Interviewer reminder of salient and boundary events previously
+determined to define this stage of life.] ‘‘During this stage of
+your life, how much of the time did you wear (1) feminine
+under apparel in public [repeated: in private]; (2) feminine
+outer apparel in public [repeated: in private]; (3) jewelry in
+public [repeated: in private]; and (4) make-up in public
+[repeated: in private]? The participants were given a card
+listing amounts of time (response categories) as 0 (none of the
+time); 1 (almost none of the time); 2 (some of the time); 3 (most
+of the time); 4 (almost all of the time); 5 (all of the time). If
+participants reported any public or private feminine dressing
+for any amount of time, they were further queried as to whether
+or not this feminine dressings as ‘‘sexually arousing’’ at this
+time in their life. [The above measurement protocols were
+repeated as above for the other four stages of life.] These items
+for the assessment of transvestic fetishism were adapted from
+Blanchard’s (1985b) Cross-Gender Fetishism scale (assessed
+here during specific stages of the life course).
+Transvestic fetishism during a given stage of life was coded
+as 0 (no sexual arousal from any type of feminine dressing
+either in public or in private) or 1 (sexual arousal from one or
+more types of feminine dressing either in public or in private).
+Measurements of the patterns of transvestic fetishism across
+the life course were constructed from the life course specific assessments. Participants who reported that any of these
+four types of feminine dressing was ‘‘sexually arousing’’ in
+private or in public, during any stage of their life, were coded
+with lifetime transvestic fetishism (0 = no; 1 = yes). Additional dimensions of transvestic fetishism were coded by
+
+251
+
+determining whether sexual arousal was associated with
+feminine dressing during particular phases of the life course.
+Following Moffitt (1993), life-course specified transvestic
+fetishism was assessed as lifecourse persistent (scored if
+transvestic fetishism was indicated during both adolescence
+and post-adolescence); adolescent limited (scored if transvestic fetishism was indicated during adolescence only); or
+adult onset (scored if transvestic fetishism was indicated after
+adolescence only).
+Participants were asked if they ever ‘‘used hormones for
+either sex reassignment or to enhance their gender presentation.’’Lifetime hormone therapy (HT) was scored as never used,
+starting during adolescence, or starting after adolescence.
+
+Results
+Measured categorically, 68.5%, 12.4%, 16.8%, and 2.1% of
+the 571 MTFs were classified as homosexual, heterosexual,
+bisexual, or asexual, respectively. Measured along the continuous scale of androphilia, 8.6% were low, 19.1% were intermediate, and 71.8% were high. Measured along the continuous
+scale of gynephilia, 63.7% were low, 20.8% were intermediate, and 14.7% were high.
+About two-fifths (38.7%) of the participants reported
+lifetime transvestic fetishism; 25.0% reported lifecourse persistent transvestic fetishism; 9.3% reported adolescent limited transvestic fetishism; and 4.0% reported adult onset
+transvestic fetishism.
+The percentages of lifetime and lifecourse specified transvestic fetishism across categories of sexual orientation and
+other variables are shown in Table 1. Twenty three percent of
+the homosexuals reported lifetime transvestic fetishism compared to 81.7%, 67.7%, and 66.7% among the heterosexual,
+bisexuals, and asexuals, respectively. The overall difference
+between the homosexuals (23.0%) and the non-homosexuals
+as a group (73.2%) was significant, v2 = 130.2, df = 3, p =
+.001. Among the non-homosexuals, the higher level of transvestic fetishism among the heterosexuals (81.7%) compared to
+the bisexuals (67.7%) was also significant, v2 = 4.4; df = 3;
+p = .05.
+Twelve percent of the homosexuals reported lifecourse
+persistent transvestic fetishism compared to 69.0%, 44.8%,
+and 33.3% among the heterosexuals, bisexuals, and asexuals,
+respectively. The overall difference between the homosexuals
+(12.0%) and the non-homosexuals as a group (53.6%) was
+significant, v2 = 68.2; df = 3; p = .01. Among the non-homosexuals, the higher level of lifecourse persistent transvestic
+fetishism among the heterosexuals (69.0%) compared to the
+bisexuals (44.8%) was also significant, v2 = 9.7; df = 3; p = .01.
+Eight (7.7%) of the homosexuals reported adolescent limited transvestic fetishism as compared to 5.6%, 17.7%, and
+33.3% among the heterosexuals, bisexuals, and asexuals,
+
+123
+
+252
+Table 1 Lifetime and lifecourse specified transvestic
+fetishism by categorical and
+continuous measurements of
+sexual orientation and selected
+other variables
+
+Arch Sex Behav (2011) 40:247–257
+
+Transvestic fetishism
+Lifetime
+
+Lifecourse
+persistent
+
+Adolescent
+limited
+
+Adult onset
+
+Sexual orientation
+Categorical measurement
+Homosexual (n = 391)
+
+23.0
+
+12.0
+
+7.7
+
+3.3
+
+Heterosexual (n = 71)
+
+81.7
+
+69.0
+
+5.6
+
+7.0
+
+Bisexual (n = 96)
+
+67.7
+
+44.8
+
+17.7
+
+5.2
+
+Asexual (n = 12)
+
+66.7
+
+33.3
+
+33.3
+
+0.0
+
+None (n = 49)
+
+75.5
+
+61.2
+
+6.1
+
+8.2
+
+Intermediate (n = 109)
+
+68.8
+
+47.7
+
+16.5
+
+4.6
+
+High (n = 410)
+
+26.3
+
+14.6
+
+8.3
+
+3.4
+
+None (n = 364)
+
+22.3
+
+11.8
+
+6.9
+
+3.6
+
+Intermediate (n = 119)
+
+59.7
+
+34.5
+
+20.2
+
+5.0
+
+High (n = 84)
+
+81.0
+
+69.0
+
+7.1
+
+4.8
+
+19–39 (n = 333)
+
+26.4
+
+14.7
+
+9.0
+
+2.7
+
+40–59 (n = 238)
+
+55.9
+
+39.5
+
+10.5
+
+5.9
+
+White (n = 150)
+
+78.7
+
+58.0
+
+14.0
+
+6.7
+
+Black (n = 120)
+
+23.1
+
+11.6
+
+7.4
+
+4.1
+
+Hispanic (n = 246)
+Other (n = 54)
+
+22.8
+27.9
+
+12.2
+16.3
+
+9.7
+9.3
+
+2.8
+2.3
+
+None (n = 158)
+
+59.5
+
+44.3
+
+11.4
+
+3.8
+
+Adolescent start (n = 171)
+
+14.0
+
+8.2
+
+5.8
+
+0.0
+
+Adult start (n = 242)
+
+42.6
+
+24.4
+
+11.2
+
+7.0
+
+Continuous measurements
+Androphilia
+
+Gynephilia
+
+Current age
+
+Ethnicity
+
+Note: Overall base N of 571 with
+missing data less than 2%.
+Percentages of lifecourse
+specified transvestic fetishism
+are equal to the lifetime estimate
+
+Hormone therapy
+
+respectively. The overall difference between the homosexuals
+(7.7%) and the non-homosexuals as a group (14.0%) was
+significant (v2 = 5.7; df = 3; p = .01). Among the non-homosexuals, the higher level of adolescent limited transvestic
+fetishism among the heterosexuals (17.7%) compared to the
+bisexuals (5.6%) was also significant, v2 = 5.4; df = 3; p = .01.
+About three percent (3.3%) of the homosexuals reported
+adult onset transvestic fetishism compared to 7.0%, 5.2%, and
+0.0% among the heterosexuals, bisexuals, and asexuals, respectively. None of the differences between sexual orientation and
+this dimension of transvestic fetishism were significant. The
+above patterns of associations among categorically measured
+sexual orientation and measurements of transvestic fetishism
+were generally observed with the continuous measurements
+of sexual orientation.
+A strong association was observed between respondent’s
+current age and lifetime transvestic fetishism, v2 = 52.2; df =
+3; p = .01. Older participants were roughly twice as likely to
+report all measurements of transvestic fetishism. A strong association was also observed between ethnicity (measured as
+
+123
+
+White versus non-White) and lifetime transvestic fetishism,
+v2 = 61.3; df = 3; p = .01. Whites were about twice as likely
+as non-Whites to report all measurements of transvestic
+fetishism.
+Hormone therapy (HT) was inversely associated with all
+measurement of transvestic fetishism. Those who started HT
+during adolescence were especially unlikely to report any
+measurement of transvestic fetishism.
+As shown in Table 2, sexual orientation was highly intertwined with age, ethnicity, and HT. [Note that a small number
+of asexual participants were excluded in this analysis and in
+the analysis below.] The younger and non-white participants
+were significantly more likely to be classified as homosexual
+(measured categorically). Participants starting HT during
+adolescence were significantly more likely to be classified as
+homosexual (measured categorically).
+Results of a multiple logistic regression modeling of sexual
+orientation and other variables on transvestic fetishism are
+summarized in Table 3. Model 1 is a prediction of lifetime
+transvestic fetishism. Models 2a thru 2c are predictions of
+
+Arch Sex Behav (2011) 40:247–257
+Table 2 Dichotomous
+measurement of sexual
+orientation by age, ethnicity,
+and hormone replacement
+therapy (percentages)
+
+253
+
+Homosexual
+(n = 391)
+
+Heterosexual
+(n = 71)
+
+Bisexual
+(n = 96)
+
+v2
+
+56.2*
+
+Current age
+19–39 (n = 331)
+
+81.6
+
+5.7
+
+12.7
+
+40–59 (n = 227)
+
+53.5
+
+22.8
+
+23.8
+
+White (n = 141)
+
+19.9
+
+40.2
+
+39.9
+
+Black (n = 120)
+
+90.0
+
+2.5
+
+7.5
+
+Hispanic (n = 244)
+
+91.0
+
+1.6
+
+13.2
+
+Other (n = 53)
+
+62.3
+
+13.2
+
+24.5
+
+None (n = 158)
+
+54.2
+
+25.5
+
+20.2
+
+Adolescent start (n = 171)
+Adult start (n = 242)
+
+91.8
+64.5
+
+.6
+13.2
+
+7.6
+22.2
+
+Ethnicity
+
+Note: Overall base N of 558 with
+13 asexuals excluded.
+Percentages may not total 100.0
+due to rounding
+* p = .01 (two-tailed)
+
+255.1*
+
+Hormone therapy
+
+lifecourse persistent, adolescent limited, and adult onset
+transvestic fetishism. In each of these models, the outcome
+variable represents a particular measurement of lifecourse
+specified transvestic fetishism (as compared to no transvestic
+fetishism), with participants representing the remaining two
+types of lifecourse specified transvestic fetishism excluded.
+The bivariate analysis predicted the measurements of transvestic fetishism separately from three measurements of sexual
+orientation (categorically measured as non-homosexual versus homosexual and continuously measured as gynephilia and
+androphilia), a continuous measurement of age, a dummy
+coding of White ethnicity and a design coding for HT (starting
+HT before or after age of 18 with never used as a reference
+category). The multivariate analysis predicted the measurements of transvestic fetishism collectively from a continuous
+measurement of sexual orientation (gynephilia), continuous
+age, a dummy coding of White ethnicity, and a dummy coding
+of HT (ever used versus never used). Because of the high
+correlation between androphilia and gynephilia (and the
+statistical problems associated with estimating their independent effects) gynephilia was used as the sole predictor of
+transvestic fetishism.
+In the bivariate analysis of Model 1, the three measurements of sexual orientation were each strongly associated
+with lifetime transvestic fetishism (reflecting the differences
+in percentages shown in Table 2). Age, measured from 19
+thru 59, and White ethnicity were also strongly associated
+with lifetime transvestic fetishism (also reflecting the differences in percentages shown in Table 2. In the multivariate
+analysis of Model 1, gynephilia, age, White ethnicity, and
+hormone use were each independently associated with lifetime
+transvestic fetishism. The effect sizes of all of the included
+predictors were reduced by about 50% in the multivariate
+analysis. The estimates associated with Model 2a were similar to Model 1. All of the predictors were each strongly
+associated with lifecourse persistent transvestic fetishism in
+
+70.9*
+
+the bivariate analysis. Effect sizes of the included predictors were again reduced by about 50% in the multivariate
+analysis.
+In the bivariate analysis of Model 2b, all of the predictors
+were separately associated with adolescent limited transvestic fetishism but the effect sizes were about 50% less than
+the corresponding effects computed for lifecourse persistent
+transvestic fetishism. These bivariate associations were further reduced in the multivariate modeling with the effects of
+age no longer statistically significant.
+In the bivariate analysis of Model 2c, all of the predictors
+(except HT) were separately associated with adult onset transvestic fetishism. In the multivariate modeling, the effects of
+age and ethnicity, but not gynephilia, remained statistically
+significant (HT was not included in this model because of the
+low numbers).
+Results of a multiple linear regression (linear probability)
+modeling of three measurement of sexual orientation and
+other variables on transvestic fetishism are summarized in
+Table 4. The principle aim of this analysis was to provide
+estimates of the explanatory power of sexual orientation
+compared to age and ethnicity as predictors of transvestic
+fetishism. HT, included for descriptive purposes in the
+above models, was not included here. The estimates produced from the logistic and linear regression analyses were
+generally similar. In all of the regression models, sexual
+orientation, age, and ethnicity were independently associated with transvestic fetishism.
+The robustness of these findings was further examined using
+a categorical coding for age (19 to 39 versus 40 thru 59) and
+multivariate modeling that included different measurements of
+sexual orientation (dummy variables of non-homosexual versus
+homosexual and a continuous variable of androphilia). The
+parameters estimated in Tables 3 and 4 were not significantly
+altered as a result of this revised coding and analysis (data
+available from the first author).
+
+123
+
+123
+
+1–3
+
+Androphilia
+
+0–1
+
+Any hormone use
+
+-2.68
+
+1.40
+
+.01
+
+.77
+
+-.67
+
+-2.17
+
+2.49
+
+.07
+
+-1.39
+
+1.43
+
+2.23
+
+b
+
+Model 1
+Lifetime
+
+.45
+
+.29
+
+.00
+
+.18
+
+.21
+
+.24
+
+.24
+
+.01
+
+.17
+
+.14
+
+.21
+
+SE
+
+.41**
+
+4.07**
+
+1.04**
+
+2.15**
+
+.51**
+
+.11**
+
+12.01**
+
+1.07**
+
+.25**
+
+4.22**
+
+9.34**
+
+OR
+
+-1.18
+
+1.50
+
+.05
+
+.86
+
+-.93
+
+-2.43
+
+2.84
+
+.08
+
+-1.56
+
+1.62
+
+2.59
+
+b
+
+.28
+
+.34
+
+.01
+
+.20
+
+.23
+
+.32
+
+.26
+
+.01
+
+.18
+
+.16
+
+.24
+
+SE
+
+Model 2a
+Lifecourse persistent
+
+.31**
+
+4.50**
+
+1.05**
+
+2.35**
+
+.39
+
+.08**
+
+17.15**
+
+1.09**
+
+.21**
+
+5.08**
+
+13.39**
+
+OR
+
+-.75
+
+1.15
+
+.00
+
+.69
+
+-.31
+
+-1.32
+
+1.70
+
+.02
+
+-.76
+
+1.01
+
+1.56
+
+b
+
+.35
+
+.43
+
+.02
+
+.25
+
+.35
+
+.43
+
+.35
+
+.01
+
+.28
+
+.22
+
+.32
+
+SE
+
+Model 2b
+Adolescent limited
+
+.47*
+
+3.14**
+
+1.00
+
+1.99*
+
+.73
+
+.27*
+
+5.45**
+
+1.02**
+
+.47**
+
+2.76**
+
+4.78**
+
+OR
+
+–
+
+1.51
+
+.06
+
+.17
+
+-.28
+
+-5.85
+
+2.12
+
+.08
+
+-1.07
+
+.89
+
+1.07
+
+b
+
+Model 2c
+Adult onset
+
+–
+
+.57
+
+.02
+
+.36
+
+.50
+
+6.08
+
+.46
+
+.02
+
+.30
+
+.29
+
+.45
+
+SE
+
+–
+
+4.53**
+
+1.06**
+
+1.18
+
+.76
+
+.15
+
+8.38**
+
+1.09**
+
+.34**
+
+2.42**
+
+5.26**
+
+OR
+
+* p = .05; ** p = .01 (two-tailed)
+
+Note: Base N of 558 with 13 asexuals excluded. Bivariate analysis includes the indicated predictor and one outcome measurement of transvestic fetishism. Multivariate analysis includes all of the
+indicated predictors and one outcome measurement of transvestic fetishism. Model 1 is the full model of lifetime TF, with all cases included. In Model 2a, the outcome variable is life course persistent
+TF, with the other two types of TF excluded. In Model 2b, the outcome variable is adolescent limited TF, with the other two types excluded. In Model 2c, the outcome variable is adult onset TF, with the
+other two types excluded
+
+0–1
+
+19–59
+
+White ethnicity
+
+Age
+
+Gynephilia
+
+1–3
+
+0–1
+
+Multivariate
+
+0–1
+
+Start age 18 or later
+
+0–1
+
+None (reference)
+Start before age 18
+
+Hormone therapy
+
+White ethnicity
+
+19–59
+
+1–3
+
+Gynephilia
+
+Age
+
+0–1
+
+Non-homosexual
+
+Bivariate
+
+Scale range
+
+Table 3 Logistic regression modeling of three measurements of sexual orientation and selected variables with lifetime and lifecourse specified transvestic fetishism
+
+254
+Arch Sex Behav (2011) 40:247–257
+
+Arch Sex Behav (2011) 40:247–257
+
+255
+
+Table 4 Multiple linear regression modeling of three measurements of sexual orientation and selected variables with lifetime and life course
+specified transvestic fetishism
+Model 1
+Lifetime
+
+Model 2a
+Lifecourse persistent
+
+b
+
+SE
+
+.51
+.72
+
+.04
+.06
+
+-.50
+
+Age
+White ethnicity
+
+Beta
+
+b
+
+SE
+
+.48**
+.47**
+
+1.62
+.98
+
+.12
+.07
+
+.05
+
+-.39**
+
+-.99
+
+.01
+
+.01
+
+.33**
+
+.55
+
+.04
+
+.49**
+
+Gynephilia
+
+.17
+
+.03
+
+.25**
+
+Age
+
+.01
+
+.01
+
+.13**
+
+White ethnicity
+
+.31
+
+.05
+
+.28**
+
+Model 2b
+Adolescent limited
+
+Beta
+
+b
+
+SE
+
+.54**
+.54**
+
+.23
+.15
+
+.04
+.03
+
+.09
+
+-.45**
+
+-.11
+
+.05
+
+.00
+
+.39**
+
+1.79
+
+.12
+
+.56**
+
+.52
+
+.09
+
+.02
+
+.00
+
+.97
+
+.16
+
+Model 2c
+Adult onset
+
+Beta
+
+b
+
+SE
+
+Beta
+
+.26**
+.25**
+
+.28
+.15
+
+.07
+.04
+
+.21**
+.17**
+
+.03
+
+-.16**
+
+-.21
+
+.05
+
+-.21**
+
+.00
+
+.00
+
+.06
+
+.01
+
+.00
+
+.21**
+
+.27
+
+.05
+
+.26**
+
+.43
+
+.08
+
+.28**
+
+.29**
+
+.10
+
+.03
+
+.17**
+
+.04
+
+.05
+
+.05
+
+.16**
+
+.00
+
+.00
+
+1.00
+
+.01
+
+.00
+
+.15**
+
+.30**
+
+.19
+
+.06
+
+.18**
+
+.33
+
+.09
+
+.21**
+
+Bivariate
+Non-homosexual
+Gynephilia
+Androphilia
+
+Multivariate
+
+Note: Base N of 558 with 13 asexual participants excluded. Bivariate analysis includes the indicated predictor variable and one outcome measurement
+of transvestic fetishism. Multivariate analysis includes all three predictor variables and one outcome measurement of transvestic fetishism. See
+Table 3 for specifications of the models
+* p = .05; ** p = .01 (two-tailed)
+
+Discussion
+We examined associations among sexual orientation and
+transvestic fetishism in a sample of 571 MTFs recruited from
+the New York City metropolitan area. Distinctive features of
+the study, in addition to the large and community-based
+sample, included a broadly focused interviewing protocol in
+which inquires about sexuality were made in the context of a
+broad set of social and life style factors (which may have
+reduced responses biases), multiple measurements of sexual
+orientation (categorical and continuous), and multiple measurements of transvestic fetishism (lifetime and lifecourse
+specified). Our analysis centered on whether or not Blanchard’s important findings about sexual orientation and transvestic fetishism, observed in a narrowly defined sample of
+MTFs in Toronto during the 1980s, could be replicated in a
+community-based sample of MTFs from a different geographical area a quarter century later.
+Consistent with Blanchard, we observed strong associations between three measurements of sexual orientation and
+different measurements of transvestic fetishism. The lifetime
+prevalence of transvestic fetishism was approximately three
+times higher among the non-homosexuals (69%) as compared
+to the homosexuals (23%) and significant differences across
+sexual orientation were also observed for lifecourse specified
+transvestic fetishism. These associations were strong but
+clearly not deterministic, however. Significant numbers of
+participants reported transvestic fetishism at odds with Blanchard’s predictions (23% of the homosexuals reported transvestic fetishism; 27% of the non-homosexuals did not report
+transvestic fetishism).
+
+Statistically significant and substantive differences were
+observed between heterosexual and bisexual participants in
+two respects. The heterosexuals reported comparatively
+higher levels of lifetime and lifecourse persistent transvestic
+fetishism; the bisexuals reported comparatively higher levels
+of adolescent limited transvestic fetishism. During adolescence, and puberty in particular, bisexual MTFs may have
+broadly defined experiences of sexuality, including different
+types of partners and transvestic fetishism, which diminish
+and become better clarified as they mature into adulthood
+(Garber, 2000; Rossi, 1994).
+Higher levels of attraction to women (gynephilia) were
+associated with monotonically increasing levels of transvestic fetishism in this sample. Blanchard (1992) found a
+non-monotonic association between transvestic fetishism
+and levels of gynephilia, in which transvestic fetishism was
+highest at an intermediate level of gynephilia. This empirical
+finding was interpreted as supporting an etiological hypothesis in which transvestic fetishism interferes with the development of heterosexuality among non-androphilic MTFs.
+This interesting and potentially significant finding could not
+be replicated. Higher levels of gynephilia were associated
+with monotonically increasing levels of transvestic fetishism
+in this sample.
+Blanchard’s studies of sexual orientation and transvestic
+fetishism were conducted more than two decades ago, with
+most participants then typically in their mid-40s, and little
+reported variation in ethnicity (assumed to be mostly White).
+A central finding of this study is that the very factors on which
+his sample can now be regarded as insufficiently diverse (age
+cohort and ethnicity) are, in fact, important and statistically
+
+123
+
+256
+
+independent predictors of transvestic fetishism. Both age and
+ethnicity were strongly associated with both sexual orientation and transvestic fetishism. Moreover, the effects of age
+and ethnicity on transvestic fetishism were also observed
+with sexual orientation statistically controlled in the analysis.
+The differences in transvestic fetishism between homosexuals as compared to non-homosexuals, observed by
+Blanchard and his predecessors and in this study as well, is an
+important scientific finding that is worthy of further study.
+The hypothesis that transvestic fetishism interferes with the
+development of heterosexuality in non-homosexual MTFs,
+suggested by Hirschfeld and Blanchard, is an important
+hypothesis which needs to be further studied in diverse populations. Our study poses an equally important, albeit highly
+theoretical, hypothesis—that transvestic fetishism may be
+a historically fading phenomenon. Blanchard’s fascinating
+finding of a non-monotonic association between transvestic
+fetishism across levels of gynephilia was produced a generation ago (in a group of MTFs roughly equivalent to the older
+participants in our study). A replication of this aspect of
+Blanchard’s finding, in conjunction with a current generation
+of MTFs in Toronto, would be an interesting and worthwhile
+analysis.
+Transvestic fetishism is not only a generational phenomenon but a phenomenon disproportionately experienced
+among Whites as compared to non-Whites (in North America). For American white MTFs, the older generation in
+particular, the presentation of their gender identity by dressing in the female role was frequently a highly secretive and
+exotic phenomenon (Prince, 1976). The exotic nature of feminine dressing, experienced more often by Whites as compared to the non-Whites in our sample, may largely account
+for the higher levels of transvestic fetishism among the
+Whites.
+Largely unknown developmental factors may partially
+account for transvestic fetishism, but an adequate theory
+of this phenomenon must also account for the age cohort
+and ethnic differences observed in this study. Bem’s (2000)
+exotic-becomes-erotic theory of sexual orientation suggests
+that socially exotic behaviors and experiences may become
+eroticized because they are associated with generalized states
+of emotional and physiological arousal (Schachter & Singer,
+1962). The older generation of White MTFs included in this
+study may have developed transvestic fetishism, in part,
+because of the emotional arousal (and sexual attributions)
+associated with their socially exotic presentations of gender
+(see Wolchik et al., 1980).
+This research had several limitations which should be
+considered in interpreting the findings and drawing broader
+inferences about the MTF population. Broad conclusions
+about autogynephilia in this population are constrained by the
+fact that we only included one manifestation of this phenomenon (transvestic fetishism). Our sample of MTFs from
+
+123
+
+Arch Sex Behav (2011) 40:247–257
+
+the New York City metropolitan area, while large and heterogeneous, may not adequately represent MTFs from other
+geographic areas, and was not randomly obtained. Key
+measurements included in this study, transvestic fetishism
+and sexual orientation, were difficult to measure with a high
+degree of precision in an MTF population. These and all of
+the measurements included in the analysis contained some
+degree of random and non-random error which to some
+degree impacted the findings. Random measurement error on
+a particular variable may have attenuated its impact on an
+analyzed outcome; non-random measurement error on a
+particular variable may have biased its estimated impact on
+an outcome variable. The multivariate modeling also contained predictor variables with a moderate degree of co-linearity, which may have produced imprecision in estimating
+of the independent effects of these variables on transvestic
+fetishism.
+These limitations notwithstanding, we nonetheless conclude that a classification of the MTF population, based solely
+on sexual orientation, is fundamentally limited. An adequate
+understanding of this population will only be achieved if social
+dimensions of the transgender experience, as framed by age
+and ethnicity in particular, are fully considered.
+Acknowledgment Supported by a grant from the National Institute of
+Drug Abuse (NIDA) (1 R01 DA018080) (Larry Nuttbrock, Principal
+Investigator).
+
+References
+American Psychiatric Association. (2000). Diagnostic and statistical
+manual of mental disorders (4th ed., text revision). Washington,
+DC: Author.
+Bailey, J. M. (2003). The man who would be queen: The science of genderbending and transsexualism. Washington, DC: Joseph Henry Press.
+Bem, S. (1993). The lenses of gender: Transforming the debate on
+sexuality. New Haven: Yale University Press.
+Bem, D. (2000). Exotic becomes erotic: Interpreting the biological
+correlates of sexual orientation. Archives of Sexual Behavior, 29,
+531–548.
+Benjamin, H. (1966). The transsexual phenomenon. New York: Julian
+Press.
+Blanchard, R. (1985a). Typology of male-to-female transsexualism.
+Archives of Sexual Behavior, 14, 247–261.
+Blanchard, R. (1985b). Research methods for the typological study of
+gender disorders in males. In B. W. Steiner (Ed.), Gender dysphoria: Development, research, management (pp. 227–257). New
+York: Plenum Press.
+Blanchard, R. (1988). Nonhomosexual gender dysphoria. Journal of Sex
+Research, 24, 188–193.
+Blanchard, R. (1989). The concept of autogynephilia and the typology of
+male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies of
+autogynephilia. Journal of Sex and Marital Therapy, 17, 235–251.
+Blanchard, R. (1992). Nonmonotonic relation of autogynephilia and
+heterosexual attraction. Journal of Abnormal Psychology, 101,
+271–276.
+
+Arch Sex Behav (2011) 40:247–257
+Blanchard, R., & Clemmensen, L. H. (1988). A test of the DSM-II-R’s
+implicit assumption that fetishistic arousal and gender dysphoria
+are mutually exclusive. Journal of Sex Research, 25, 426–432.
+Blanchard, R., Clemmensen, L. H., & Steiner, B. W. (1985). Social desirability response set and systematic distortion in the self-report of adult
+male gender patients. Archives of Sexual Behavior, 14, 505–516.
+Bolin, A. (1998). Transcending and transgendering: Male-to-female
+transsexuals, dichotomy and diversity. In D. Denny (Ed.), Current
+concepts in transgender identity (pp. 63–96). New York: Garland.
+Bornstein, D. (1994). Gender outlaw: On men, women and the rest of us.
+New York: Routledge.
+Boswell, H. (1998). The transgender paradigm: Shift toward free
+expression. In D. Denny (Ed.), Current concepts in transgender
+identity (pp. 56–61). New York: Garland.
+Bower, H. (2001). The gender identity disorders in DSM-IV classification: A critical evaluation. Australian and New Zealand Journal
+of Psychiatry, 35, 1–8.
+Buhrich, N., & McConaghy, N. (1977). The discrete syndromes of
+transsexualism. Archives of Sexual Behavior, 6, 483–495.
+Bullough, B., & Bullough, V. (1997). Are transvestites necessarily
+heterosexual? Archives of Sexual Behavior, 26, 1–12.
+Cole, S., Eyler, D., & Samons, S. (2000). Issues of transgender. In L.
+Szuchman & F. Muscarella (Eds.), Psychological perspectives on
+human sexuality (pp. 149–168). New York: John Wiley.
+Doorn, C. D., Poortinga, J., & Verschoor, A. M. (1994). Cross-gender
+identity in transvestites and male transsexuals. Archives of Sexual
+Behavior, 23, 185–201.
+Dreger, A. D. (2008). The controversy surrounding The Man Who Would
+be Queen: A case history of the politics of science, identity, and sex
+in the Internet age. Archives of Sexual Behavior, 37, 366–421.
+Ellis, H. (1936). Studies in the psychology of sex. New York: Random
+House.
+Freund, K., Steiner, B. W., & Chan, S. (1982). Two types of cross-gender
+identity. Archives of Sexual Behavior, 11, 47–63.
+Garber, M. (2000). Bisexuality and eroticism in everyday life. New
+York: Routledge.
+Hirschfeld, M. (1910). Die Transvestiten. Berlin, Germany: Alfred
+Pulver Macher.
+Hwahng, S. J., & Nuttbrock, L. (2007). Sex workers, fem queens, and
+cross-dressers: Differential marginalizations and HIV vulnerabilities
+among three ethnocultural male-to-female transgender communities
+in New York City. Sex Research and Social Policy, 4, 36–59.
+Lawrence, A. A. (2008). Societal individualism predicts prevalence of
+nonhomosexual orientation in male-to-female transsexualism.
+Archives of Sexual Behavior. doi:10.1007/s10508-008-9420-3.
+Lippa, R. A., & Tan, F. D. (2001). Does culture moderate the relationship
+between sexual orientation and gender-related personality traits?
+Cross-Cultural Research, 36, 65–87.
+
+257
+Lyketsos, C., Nestadt, G., Cwi, J., Heithoff, K., & Eaton, W. W. (1994).
+The life chart interview: A standardized method to describe the
+course of psychopathology. International Journal of Methods in
+Psychiatric Research, 4, 143–155.
+Moffitt, T. E. (1993). Adolescent-limited and life-course persistent antisocial behavior: A developmental taxonomy. Psychological Review,
+100, 674–701.
+Nanda, S. (1994). Hijras: An alternate sex and gender role in India. In G.
+Herdt (Ed.), Third sex, third gender: Beyond sexual dimorphism in
+culture and history (pp. 373–417). New York: Zone Books.
+Nuttbrock, L., Hwahng, S., Bockting, W., Rosenblum, A., Mason, M.,
+Macri, M., et al. (2009). Psychiatric impact of gender-related abuse
+across the life course of male-to-female transgender persons.
+Journal of Sex Research. doi:10.1080/00224490903062258.
+O’Kobe, N., Sato, T., Matsumota, Y., Ido, Y., Terado, S., & Kuroda, S.
+(2008). Clinical characteristics of patients with gender identity disorders at a Japanese gender identity clinic. Psychiatric Research,
+157, 315–318.
+Ovesey, L., & Person, E. S. (1976). Transvestism: A disorder of the sense
+of self. International Journal of Psychoanalytic Psychotherapy, 5,
+219–235.
+Pauly, I. (1990). Gender identity disorders: Evaluation and treatment.
+Journal of Sex Education and Therapy, 12, 2–24.
+Prince, V. (1976). Understanding cross dressing. Los Angeles: Argyle
+Books.
+Rossi, A. (Ed.). (1994). Sexuality across the life course. Chicago:
+University of Chicago Press.
+Rothblatt, M. (1994). The apartheid of sex: A manifesto on the freedom
+of gender. New York: Crown Publishing.
+Schachter, S., & Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state. Psychological Review, 69,
+379–399.
+Smith, Y. L. S., van Goozen, S. H. M., Kuiper, A. J., & Cohen-Kettenis,
+P. T. (2005). Transsexual subtypes: Clinical and theoretical significance. Psychiatric Research, 137, 1–16.
+Tsoi, W. F. (1988). The prevalence of transsexualism in Singapore. Acta
+Psychiatrica Scandinavica, 78, 501–504.
+Whitlock, K. (1996). The transgender outlook. San Francisco: Author.
+Wise, T. M., & Meyer, J. K. (1980). The border between transvestism
+and gender dysphoria: Transvestic applicants for sex reassignment.
+Archives of Sexual Behavior, 9, 327–342.
+Wolchik, S. A., Beggs, B. E., Wincze, U. P., Sakheim, K. D., Barlow, D.
+H., & Mavissakalian, M. (1980). The effect of emotional arousal on
+subsequent sexual arousal in men. Journal of Abnormal Psychology, 38, 595–598.
+
+123
+
+

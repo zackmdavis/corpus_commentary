@@ -1,0 +1,680 @@
+934690
+research-article2020
+
+SOR0010.1177/0038026120934690The Sociological ReviewSerano
+
+Article
+
+Autogynephilia: A scientific
+review, feminist analysis, and
+alternative ‘embodiment
+fantasies’ model
+
+The Sociological Review Monographs
+2020, Vol. 68(4) 763­–778
+© The Author(s) 2020
+Article reuse guidelines:
+sagepub.com/journals-permissions
+https://doi.org/10.1177/0038026120934690
+DOI:
+10.1177/0038026120934690
+journals.sagepub.com/home/sor
+
+Julia Serano
+
+Independent scholar, USA
+
+Abstract
+It is generally accepted within psychology and among trans health providers that transgender
+people who transition do so because they have a gender identity that is incongruent with their
+birth-assigned sex, and distinct from their sexual orientation. In contradiction to this standard
+model, the theory of autogynephilia posits that transgender women’s female gender identities
+and transitions are merely a by-product of their sexual orientations. While subsequent research
+has yielded numerous lines of evidence that, taken together, disprove the theory, autogynephilia
+is still often touted by anti-transgender groups, including trans-exclusionary feminists. Here,
+I provide an updated overview of the scientific case against autogynephilia. Following that, I
+will forward an alternative ‘embodiment fantasies’ model that explains all the available findings
+better than autogynephilia theory, and which is more consistent with contemporary thinking
+regarding gender and sexual diversity. I will also demonstrate how autogynephilia theory relies
+on essentialist, heteronormative, and male-centric presumptions about women and LGBTQ+
+people, and as such, it is inconsistent with basic tenets of feminism.
+
+Keywords
+autoandrophilia, autogynephilia, sexual fantasies, transgender, transsexual
+
+Introduction
+Over the last decade, psychologist Ray Blanchard’s autogynephilia theory has been
+increasingly cited within trans-exclusionary radical feminism. The concept appears to
+have first entered trans-exclusionary radical feminist (TERF) discourses through Sheila
+Jeffreys’ writings (Jeffreys, 2005, 2014). It has since become a recurring talking point on
+‘gender critical’ websites such as 4thWaveNow, r/GenderCritical (a subsection of the
+Corresponding author:
+Julia Serano, Independent Scholar
+Email: hi@juliaserano.com
+
+764
+
+The Sociological Review Monographs 68(4)
+
+website Reddit), Mumsnet, and others, where it is usually invoked to insinuate that trans
+women are merely ‘sexually deviant men’. In such settings, autogynephilia is typically
+presented as though it were well-established scientific dogma, when in reality the theory
+has never been widely accepted within sexology and psychology, and numerous followup studies have disproven its primary claims. Furthermore, trans-exclusionary feminists’
+uncritical embrace of autogynephilia contradicts the long history of feminist scholarship
+critiquing the ways in which scientific research and theories are often overly reductionist, and riddled with androcentric and heteronormative biases (reviewed in Crasnow
+et al., 2018; Fehr, 2004).
+In this article, I will review the scientific case against autogynephilia theory, and provide an alternate model that is far more consistent with all the available evidence and
+contemporary thinking in the fields of sexology and psychology. Additionally, I will
+demonstrate how autogynephilia theory is steeped in gender-essentialist and male-centric views of gender and sexuality, and thus is inconsistent with feminist thought.
+
+Autogynephilia: Historical context and the scientific
+evidence
+Today, it is widely accepted that gender identity, gender expression, sexual orientation
+and physical sex characteristics may vary from one another within any given individual,
+and that gender dysphoria (incongruence between one’s gender identity and assigned
+sex/gender) may first arise during childhood, adolescence, or adulthood (American
+Psychological Association, 2015; Coleman et al., 2011; Hidalgo et al., 2013). There has
+also been a growing recognition that many sexual fantasies and patterns of arousal that
+have historically been categorised as ‘sexual deviations’ or ‘paraphilias’ (i.e. pathological sexual interests) are not especially rare, nor are they inherently unhealthy (Joyal
+et al., 2015; Moser and Kleinplatz, 2006). As a result, researchers have gradually moved
+away from viewing solitary and consensual expressions of sexuality as manifestations of
+psychopathology (Giami, 2015). For all of these reasons, there is now a general consensus amongst contemporary trans health professionals that transgender people are diverse
+with regard to their gender expressions, sexual orientations, sexual fantasies and life
+trajectories (just as cisgender people also vary in these aspects of their lives).
+But this was not always the case. For most of the twentieth century, research into these
+matters was steeped in gender essentialism and reductionism. Women and men were
+believed to be naturally distinct from one another in their genders and sexualities, and
+individuals who did not neatly fit into this strict binary (i.e. LGBTQ+ people) were
+categorised into subtypes based upon superficial similarities and presumed underlying
+pathologies. During this time period, assigned male at birth (AMAB) transgender-spectrum people were often classified into one of two subgroups: transsexuals or transvestites. Transsexuals – those who socially and/or physically transition; more commonly
+called trans women and trans men today – were simplistically imagined as ‘males with
+feminised brains’ and ‘females with masculinised brains’, respectively. Given this conceptualisation, researchers presumed that trans women would not only identify as
+women, but should also be feminine in gender expression throughout their lives and
+
+Serano
+
+765
+
+exclusively sexually oriented toward men; this archetype was sometimes called the ‘classical transsexual’. Notably, researchers who subscribed to this ‘sexual inversion’ narrative often described gay men in a similar fashion (i.e. feminised brain, therefore feminine
+in gender expression and exclusively attracted to men) and believed that homosexuality
+and transsexuality merely represent different outcomes for the same ‘type’ of person. In
+contrast, transvestites (often called crossdressers today) were envisioned as otherwise
+‘normal’ (read: heterosexual and masculine) men, except for the fact that they (1) occasionally wore female-typical clothing, usually in secret, and (2) sometimes experienced
+sexual arousal associated with dressing femininely and/or imagining themselves as having sex characteristics associated with women (e.g. breasts, vulva). For reasons that will
+become clear, I will collectively refer to these latter sexual experiences as female/feminine embodiment fantasies (FEFs) (Serano, 2010, 2016).
+Throughout the 1970s and 1980s, this transsexual/transvestite dichotomy was called
+into question, as increasing numbers of trans women did not fit the ‘classical transsexual’
+archetype, either because they were not outwardly feminine during childhood, and/or did
+not experience gender dysphoria until adolescence or adulthood, and/or were asexual,
+bisexual, or lesbian in sexual orientation, and/or had a previous history of identifying as
+crossdressers and/or experiencing FEFs. Here, I will collectively refer to such individuals as ‘non-classical’ trans women, but not because I believe them to be distinct from, or
+less authentic than, their ‘classical’ counterparts. Rather, they are ‘non-classical’ in the
+sense that they challenged the ‘classical transsexual’ standard that most researchers and
+medical gatekeepers enforced at the time. Today, all of these differing outcomes (‘classical’ and ‘non-classical’ alike) are readily explained in terms of gender and sexual diversity, as I outlined earlier.
+But in 1989, as practitioners were still trying to make sense of these exceptions to the
+‘classical transsexual’ and ‘transvestite’ categories, Blanchard forwarded a new theory of
+transgender taxonomy and aetiology: autogynephilia (Blanchard, 1989a, 1989b). The
+theory proposed that there were two fundamentally different types of trans women, each
+characterised by different ‘erotic anomalies’ (Blanchard, 1989a, p. 322). According to
+Blanchard, ‘homosexual transsexuals’ are trans women who fit the ‘classical transsexual’
+archetype. The label suggests that Blanchard imagined these individuals as akin to feminine gay men, and other proponents of the theory, such as J. Michael Bailey, have suggested that they transition in order to attract heterosexual men (Bailey, 2003, p. 146).
+Blanchard grouped asexual, bisexual and lesbian (i.e. ‘non-classical’) trans women,
+along with male crossdressers, under the label ‘autogynephiles’, on the basis that (according to his theory) they were all primarily motivated by ‘autogynephilia’ (literally ‘love of
+oneself as a woman’). While some people today inappropriately use the term autogynephilia in a manner similar to how I use FEFs – i.e. to refer to a particular type of sexual
+fantasy or pattern of arousal that some people happen to experience – Blanchard conceptualised autogynephilia very differently. Blanchard insisted that autogynephilia was a
+paraphilia that arises as a result of a ‘misdirected heterosexual sex drive’. That is, rather
+than being exclusively attracted to women (as most AMAB individuals are), something
+goes ‘awry’ in ‘autogynephiles’ (Blanchard refers to this as an ‘erotic target location
+error’ – see Serano, 2010). As a result, they become primarily attracted to the thought or
+image of themselves as women. Blanchard also claimed that autogynephilia was both a
+
+766
+
+The Sociological Review Monographs 68(4)
+
+sexual orientation that competes with attraction to other people, and that it is the cause of
+any gender dysphoria and desire to transition experienced by ‘non-classical’ trans women
+(reviewed in Serano, 2010).
+In other words, autogynephilia is not simply a theory positing the existence of FEFs.
+Researchers were already well aware of this phenomenon, having previously called it by
+various names (e.g. automonosexualism, transvestic fetishism, cross-gender fetishism).
+Rather, what makes autogynephilia unique is that it asserts that there are two fundamentally different types of trans women, each having a distinct sexual cause for their transsexuality (i.e. either homosexuality, or autogynephilia). Thus, the theory should be
+judged, not by whether or not FEFs exist, but rather by whether its taxonomical and
+aetiological claims hold true. Or as Bailey put it, classifying trans women into distinct
+types ‘diagnostically makes sense only if the different types have fundamentally different causes. Otherwise, why not distinguish “tall,” “medium-sized,” and “short” transsexuals, or “blonde” and “brunette” subtypes?’ (Bailey, 2003, p. 162).
+Blanchard elaborated on autogynephilia theory over a series of papers published
+between 1989 and 1993. This work received little attention at first, until the early 2000s,
+when it was promoted by Anne Lawrence and in Bailey’s pop-science book The Man
+Who Would Be Queen, at which point it came under intense scrutiny (Serano, 2020).
+Amongst the most prevalent objections to the theory were: (1) a general sense that trans
+women are fairly diverse and do not neatly fall into two discrete subtypes; (2) Blanchard’s
+own research showed that significant numbers of ‘autogynephilic transsexuals’ (e.g.
+trans woman attracted to women) did not experience FEFs, while significant numbers of
+‘homosexual transsexuals’ (i.e. trans women attracted to men) did; (3) Blanchard’s studies also showed that many (if not most) ‘non-classical’ trans women report experiencing
+gender dysphoria or a desire to be female before they ever experienced FEFs, therefore
+FEFs could not possibly be causative of gender dysphoria; (4) both ‘non-classical’ trans
+women and male crossdressers often report a sharp decline (and sometimes complete
+absence) in FEFs over time, indicating that such fantasies are not central to these individuals’ identities or sexualities; (5) Blanchard and others often dismissed all the aforementioned exceptions to the theory as being due to lying or misreporting on the part of
+‘autogynephiles’, which essentially rendered the theory unfalsifiable (and therefore
+unscientific); (6) Blanchard did not use any controls in his experiments – e.g. he never
+administered his autogynephilia-related surveys to cisgender women; (7) Blanchard’s
+original rationale for the theory relied heavily on the presumption that ‘non-classical’
+trans men did not exist, but it has since become clear that they are actually quite common. All these lines of reasoning are discussed in greater detail in critical reviews by
+Moser (2010) and Serano (2010). Thus, even without any follow-up studies, it appeared
+that Blanchard’s proposed taxonomy (‘homosexual’ versus ‘autogynephilic’) and aetiology (that FEFs are the cause of transsexuality in ‘non-classical’ trans women) were not
+supported by his own evidence.
+In subsequent years, several independent research groups have tested autogynephilia
+theory, and their results further disprove its taxonomical and aetiological claims. For
+starters, every single follow-up study has shown that, while the correlations that
+Blanchard and other researchers prior to him described generally hold true (i.e. that FEFs
+are more common in ‘non-classical’ trans women than ‘classical’ ones), counter to
+
+Serano
+
+767
+
+Blanchard’s theory there are always substantial numbers of ‘classical’ trans women who
+report experiencing FEFs and ‘non-classical’ trans women who report never experiencing them (Nuttbrock et al., 2011a; Smith et al., 2005; Veale et al., 2008). These studies
+also challenge several additional claims necessary for autogynephilia theory to be substantiated, such as the idea that FEFs compete with sexual attraction toward other people,
+that asexual trans women are predominantly ‘autogynephilic’ and that bisexual trans
+women are merely ‘pseudobisexuals’ (Nuttbrock et al., 2011a; Veale et al., 2008).
+A longstanding critique of Blanchard’s theory had been that his subtypes were not
+empirically derived, but rather stemmed from his initial grouping of individuals based on
+their sexual orientation, thus ‘begging the question’ that trans women fall into subtypes
+based on sexual orientation. In contrast to this approach, Veale (2014) performed taxometric analyses on her subjects’ responses to questions regarding sexual orientation,
+FEFs, and other aspects of sexuality, and found that the results were dimensional rather
+than categorical (i.e. trans women fell along a spectrum rather than into distinct subtypes). In an earlier study using the same dataset, Veale et al. (2008) found that when
+trans women were grouped according to their experiences with FEFs, they did not differ
+significantly on measures of sexual orientation.
+The possibility that factors other than sexual orientation may be responsible for FEFs
+is further supported by Nuttbrock et al. (2011a, 2011b), who found that FEFs varied
+considerably among trans women depending upon age and race (with the highest levels
+observed in older and white subjects), and that these outcomes were mediated by a history of dressing femininely in private. This finding strongly supports alternative theories
+that have posited that FEFs arise from, or are exacerbated by, social factors such as secretive crossdressing and/or having to hide or repress female/feminine inclinations (Serano,
+2007, 2016; Veale et al., 2010); I will discuss such theories more in the following
+section.
+As previously mentioned, Blanchard never used any cisgender controls in his studies,
+presumably because he assumed that FEFs were unique to trans female/feminine-spectrum people. Two research groups have since administered autogynephilia scales (similar or nearly identical to Blanchard’s) to cisgender women. Moser (2009) found that 93%
+of his cisgender female subjects had experienced FEFs in some capacity, with 28% experiencing them frequently. Veale et al. (2008) also found that cisgender women frequently
+report FEFs, with 52% experiencing them at levels comparable to Blanchard’s ‘autogynephilic’ group (see also Moser, 2010). When roughly 65% of cisgender women respond
+affirmatively to questions like ‘I have been erotically aroused by contemplating myself
+in the nude’, or ‘I have been erotically aroused by contemplating myself wearing lingerie, underwear, or foundation garments’ (Moser, 2009), it seems both illogical and needlessly stigmatising to single out trans women as supposedly being ‘autogynephiles’ for
+having similar erotic experiences (unless, of course, the label is primarily intended to
+pathologise trans women’s sexualities even when they are female-typical).
+In addition to cisgender women experiencing FEFs, subsequent studies have shown that
+many cisgender people experience cross-sex/gender sexual fantasies as well. In a recent
+study of 4175 Americans’ sexual fantasies, Lehmiller (2018) found that nearly a third of his
+subjects reported having sexual fantasies that involved being the ‘other sex’, and a quarter
+had fantasised about crossdressing. Blanchard has insisted that the counterpart to
+
+768
+
+The Sociological Review Monographs 68(4)
+
+FEFs – sometimes called ‘autoandrophilia’, but which I will refer to as male/masculine
+embodiment fantasies (MEFs) – does not exist (Cameron, 2013), but Lehmiller found that
+11% of the women in his study had experienced such fantasies. In a separate study of
+women’s sexual fantasies, Dubberley (2013) devotes an entire chapter to fantasies wherein
+her subjects imagined themselves possessing a penis and/or being a man, and there is
+plenty of additional anecdotal evidence (much of it online) detailing cisgender women (as
+well as transgender men) experiencing MEFs (Serano, 2016, and references therein).
+Taking all this together, two things seem clear. First, embodiment fantasies (i.e. sexual
+arousal in response to one’s real or imagined body and/or expressions of gender) seem to
+be fairly common and exist in a variety of permutations. (In the following section, I will
+discuss why they may occur more frequently or intensely in certain subpopulations.)
+Thus, it would be disingenuous to assert or insinuate that they are a trans female/feminine-specific phenomenon (as autogynephilia theory does). Second, the notion that FEFs
+have the potential to cause transsexuality is specious and not supported by the evidence
+(Serano, 2010, 2020). After all, almost a third of Lehmiller’s subjects experienced crosssex/gender sexual fantasies (Lehmiller, 2018, p. 66), yet the vast majority of these people
+will never develop gender dysphoria or desire to transition. Furthermore, most ‘nonclassical’ trans women either never experience FEFs, or experience FEFs only after they
+have experienced gender dysphoria, thus ruling out the possibly that FEFs caused them
+to become transgender (Serano, 2010). The most reasonable conclusion is that gender
+dysphoria develops independently in a small percentage of AMAB people, and a subset
+of those individuals (along with a subset of cisgender women and men) will subsequently
+develop FEFs for other reasons, which I will explore in the next section.
+To summarise, numerous independent lines of research have shown that autogynephilia
+theory’s major tenets – its taxonomy and aetiological claims – are false. Therefore, the
+concept of autogynephilia must be rejected. Admittedly, a few researchers still vociferously promote the theory, most notably Lawrence and Bailey, whose reviews and research
+(along with Blanchard’s) account for almost all of the unwaveringly pro-autogynephilia
+academic literature; elsewhere, I refute many of their attempts to handwave away the
+counter-evidence I have presented here (Serano, 2010, 2020). Others researchers still tacitly support autogynephilia (by citing the theory, or portraying it as a ‘controversial yet
+viable’ model) perhaps due to their unfamiliarity with the research that I have reviewed
+here, out of respect for Blanchard’s and Bailey’s stature within the field, and/or because
+they view the theory as consistent with other beliefs or biases that they hold (detailed in
+the final section). Finally, some researchers have taken to using the term ‘autogynephilia’
+as shorthand to describe FEFs; this should be avoided, as ‘autogynephilia’ inaccurately
+portrays these fantasies as paraphilic, trans female/feminine-specific, a sexual orientation
+unto itself, and the cause of gender dysphoria in trans women who experience them.
+
+Embodiment fantasies, and transgender, queer and female
+subjectivities
+Thus far, we have reviewed the scientific case against autogynephilia. But if we step
+back and consider other fields of enquiry (e.g. phenomenology, sociology, gender
+
+Serano
+
+769
+
+studies), the theory appears even more suspect. Perhaps its most glaring omission is that
+autogynephilia entirely ignores embodiment – the well-accepted notion in philosophy
+and cognitive studies that our thoughts, perceptions and desires do not happen in a vacuum, but rather occur within, and are shaped by, our bodies.
+Virtually all sexual fantasies and activities involve bodies – not just the bodies of our
+real or imagined partners, but our own bodies as well. While sexual fantasies are not
+limited to bodies (they may also involve certain settings, situations, positions, behaviours, other objects, and even intricate narratives), they do often feature our own bodies
+interacting in various ways with other people’s bodies (Bettcher, 2014; Dubberley, 2013;
+Lehmiller, 2018; Leitenberg & Henning, 1995). Sometimes our attention might be
+focused more on another person’s body: appreciating their physical attributes; imagining
+things we wish to do to, or with, their body. Other times we might be focused more on
+our own body: imagining other people finding us desirable; imagining them doing things
+to, or with, our body, and the sensations we might physically experience as a result.
+Often, both of these aspects (along with other elements) will be in play simultaneously
+during our sexual fantasies and experiences. But in other cases, one aspect may be more
+prevalent or even predominate. And just as we may sometimes fantasise about imaginary
+sex partners, it is not uncommon for individuals to imagine being entirely different people in their fantasies, or ‘having a different body shape, genital appearance, or personality’ (Lehmiller, 2018, p. xviii).
+This is why I favour ‘embodiment fantasies’ as a non-pathologising umbrella term for
+those sexual fantasies and patterns of arousal wherein the focus is mostly (or in some
+cases, solely) placed on our own embodiment (Serano, 2010, 2016). Bettcher (2014) has
+since expanded upon this concept of embodiment eroticism, providing numerous examples that illustrate the complexity of erotic content (which may involve our actual or
+imagined body, attraction toward real or imagined others, interactions between these
+bodies, additional elements or scenarios, plus the sexual meanings that we attribute to all
+of these things). Bettcher’s work demonstrates how autogynephilia theory reduces this
+rich content down to mere ‘attraction to’ people and objects. This is what allows
+Blanchard to misrepresent trans women’s embodiment fantasies as ‘misdirected heterosexual sex drives’ and ‘erotic target location errors’ (Bettcher, 2014).
+In an earlier critique of autogynephilia (Serano, 2007, pp. 268–269), I facetiously
+coined the term ‘autophallophilia’ to describe the seemingly common fantasy that men
+sometimes have of receiving oral sex from a nondescript or faceless partner. My intention in forwarding the term was not to pathologise such fantasies, but rather to illustrate
+that cisgender men experience embodiment fantasies as well, even if they may not think
+of them in this way. Part of the reason why these individuals (and most researchers who
+might study them) would be disinclined to view such fantasies in terms of ‘autophallophilia’ or MEFs is precisely because they are cisgender, and thus able to take their physical sex attributes for granted. Having a penis would likely be the unquestioned backdrop
+of most sexual fantasies that they experience, so its presence within the fantasy would
+not be seen as notable. In contrast, many transgender people (especially non- and pretransition individuals) cannot take such attributes for granted, and are therefore likely to
+focus more on their own embodiment during both fantasies and real-life sexual experiences – e.g. imagining themselves inhabiting the ‘right body’ or having the ‘appropriate
+
+770
+
+The Sociological Review Monographs 68(4)
+
+parts’ (i.e. those congruent with their identified gender). Critics of autogynephilia have
+long pointed out how MEFs and FEFs are an obvious coping mechanism to mitigate
+gender dysphoria, and the fact that trans women typically experience a sharp decrease in
+FEFs upon transitioning lends further credence to this notion (reviewed in Serano, 2010).
+Another reason why many cisgender men are able to take their bodies for granted is
+because they are men. Gender theorists have chronicled how male bodies and perspectives tend to be viewed as neutral and the default standpoint in our culture, whereas
+female bodies and perspectives are marked and viewed as ‘other’ (Bem, 1993; de
+Beauvoir, 1989). Having been socialised in a heterosexual-male-centric culture, we all
+(to varying degrees) have internalised what feminists call ‘the male gaze’ – a mindset
+wherein men are viewed as sexual subjects who act upon their own desires, whereas
+women are viewed as passive sexual objects of other people’s desires (Fredrickson &
+Roberts, 1997; Mulvey, 1975). While the male gaze is most often discussed with regard
+to media representations, it can also inform our own self-conceptualisations and desires.
+For instance, it is relatively easy for many men (who regard themselves primarily as
+sexual subjects) to think about sex strictly in terms of whom they are ‘attracted to’. But
+for many women, in addition to their own physical attractions toward other people, they
+will also be highly cognisant of the ways in which they are being sexually evaluated,
+appreciated, or objectified by other people (whether strangers, potential partners, or lovers), and this is bound to influence their subjectivity on sexual matters (Fredrickson &
+Roberts, 1997). Indeed, in their review of the research on sexual fantasies, Leitenberg
+and Henning (1995, p. 484) reported that, as a general rule, ‘Men’s fantasies are more
+active and focus more on the woman’s body and on what he wants to do to it, whereas
+women’s fantasies are more passive and focus more on men’s interest in their bodies’;
+Lehmiller (2018) found that this trend still largely holds true today. This disparity provides a relatively straightforward explanation for why FEFs are frequently experienced
+by women (whether cisgender or transgender, as both have to navigate the male gaze),
+whereas men are less likely to experience analogous MEFs.
+Furthermore, given that we live in a culture where men are deemed sexual subjects and
+women objects of desire, it should not be surprising that female-specific clothing (and
+feminine gender expression more generally) is sometimes imbued with sexual meanings,
+whereas reciprocal items of masculine clothing and expression are typically viewed as
+utilitarian and devoid of sexual connotations (Serano, 2007). This helps explain why the
+phenomenon historically known as ‘transvestic fetishism’ (i.e. sexual arousal experienced
+in response to crossdressing) has been found to be rather commonplace in trans female/
+feminine-spectrum individuals, but is reported far less frequently in trans male/masculinespectrum individuals. Unfortunately, this fairly obvious connection has remained
+obscured, as the researchers who studied the phenomenon classified it as a paraphilia and
+presumed that something must be inherently wrong with individuals who exhibited it. If,
+instead of studying this phenomenon as a psychopathology unto itself, these researchers
+had carried out controlled studies (à la Moser, 2009; Veale et al., 2008) they would have
+found that many cisgender women also experience sexual arousal in response to wearing
+(or contemplating wearing) certain items of feminine clothing, at least in certain contexts.
+As further evidence that the concept of transvestic fetishism has been largely shaped by
+researchers’ heteronormative and male-centric biases, psychologist Robert Stoller once
+
+Serano
+
+771
+
+argued that trans men cannot possibly experience transvestic fetishism on the basis that,
+‘Men’s clothes have no erotic value whatsoever; these people have no clothing fetish’
+(Stoller, 1968, p. 195). Of course, some people are attracted to maleness and masculinity,
+and a subset of such individuals do experience sexual arousal in response to masculine
+clothing, as Bockting et al. (2009) found for many of their gay and bisexual male
+subjects.
+A third factor that may influence embodiment fantasies is sexual orientation, albeit
+not in the way that Blanchard envisioned. Specifically, if an individual is attracted to
+femaleness and femininity in a more general sense (e.g. they find such qualities erotic in
+their partners), then these same attributes might also be sexually salient with regard to
+their own embodiment, leading to more frequent or intense FEFs. (A similar correlation
+between attraction to maleness and masculinity, and MEFs, might also be expected.) Or
+to phrase this conversely: If an individual is not attracted to female or feminine attributes
+more generally, then they may be less likely to find FEFs arousing or compelling. This
+fairly simple explanation (which Blanchard never explored) is consistent with the correlations researchers have found between sexual orientation and embodiment fantasies,
+but without invoking direct causality.
+While sexual orientation may partially explain the correlations Blanchard and others
+have reported, I do not believe it to be the primary factor. Rather, I argue that the frequent
+or intense FEFs experienced by many pre-transition ‘non-classical’ trans women stem
+largely from the fact that they passed through a ‘crossdresser stage’.1
+In the essay ‘Crossdressing: Demystifying Femininity and Rethinking Male Privilege’
+(Serano, 2007), I detailed the social forces that distinguish this transgender trajectory
+from others; here I will highlight the most pertinent points. First, it is well established
+that transgender people may experience the onset of gender dysphoria at various ages
+(Coleman et al., 2011). Individuals who become aware of their gender dysphoria early in
+childhood are likely to never fully identify with their birth-assigned gender – in fact, they
+often assert that they are, or should be, the ‘other’ (binary) gender from an early age. In
+contrast, individuals who become aware of their gender dysphoria later in childhood may
+have already come to accept their birth-assigned gender, as well as ‘gender constancy’
+(the belief that one’s gender can never change). As a result, these ‘late-onset’ trans people
+may initially self-conceptualise themselves as ‘a boy who wants to be a girl’ (or vice
+versa) for a period of time before fully embracing their gender-variant identities. This
+transitional stage can be especially perilous for trans female/feminine-spectrum children,
+given that feminine boys are stigmatised to a far greater extent than masculine girls in
+our culture (Kane, 2006; Sandnabba & Ahlberg, 1999; Sullivan et al., 2018). This strict
+gender-policing essentially coerces these individuals into concealing or repressing any
+female/feminine inclinations they may have (if they are able to), particularly in public
+settings, and to only ever indulge them in private, either though daydreaming and fantasy, or secretive crossdressing – hence, the ‘crossdresser stage’. Notably, there does not
+seem to be an analogous crossdresser stage for trans male/masculine individuals, presumably because their public explorations of gender will be tolerated to a greater degree
+(i.e. others will perceive them as simply ‘tomboys’). Veale et al. (2010) have forwarded
+a similar model of crossdresser development.
+
+772
+
+The Sociological Review Monographs 68(4)
+
+During the pre-Internet era (when Blanchard conducted his research), there was littleto-no public awareness or accessible resources regarding transgender people, and trans
+children and teenagers were often left to their own devices to make sense of their situations. For trans individuals in the crossdresser stage, this meant grappling with one’s
+gender dysphoria in a milieu where (1) male-centrism ensures that girls’/women’s experiences and perspectives are ‘othered’ (and thus may seem ‘alien’ or ‘exotic’); (2) the
+male gaze encourages the general objectification of femaleness and femininity; and (3)
+these individuals may also be experiencing sexual attraction toward girls/women (independent of their gender dysphoria) for the first time. Given this set of circumstances, it is
+understandable why trans individuals in the crossdresser stage might experience FEFs
+(to varying degrees, and in some cases very intensely) in association with their early
+explorations of female gender identity and feminine gender expression.
+As I have discussed throughout this section, embodiment fantasies may come in various forms. Some embodiment fantasies centre on the self: we are the same person that
+we are in everyday life, it is just that the focus of erotic attention is placed on our own
+body. Other embodiment fantasies revolve around us being or becoming someone else.
+Perhaps we share some qualities with this ‘someone else’ – e.g. they may be mostly like
+us, but only more attractive. In other cases, we might imagine ourselves as someone
+whom we believe (or were taught to believe) is entirely unlike us. If we cannot readily
+relate to this ‘someone else’, we may draw heavily upon stereotypes. And in cases where
+we are not supposed to be (let alone want to be) this ‘someone else’, these embodiment
+fantasies may feel forbidden and taboo. Obviously, FEFs and MEFs may fall into this
+‘other’-embodiment fantasy category, albeit to varying degrees. Given that male experiences and perspectives are centred across Anglo-American culture, it might not be much
+of a stretch for a cisgender woman to imagine herself as a man in her fantasies. But
+because women’s experiences and perspectives are ‘othered’, cisgender men might find
+FEFs to be especially exotic (what feminists and postcolonial theorists often call ‘exoticisation of the Other’). Furthermore, because femaleness/femininity are valued less than
+maleness/masculinity in our society, cisgender men may feel a sense of shame or ‘moral
+incongruence’ if they find FEFs particularly enjoyable or erotic, leading them to feel
+distressed about their own behaviours (Grubbs & Perry, 2019; Serano, 2020).
+Some trans women’s experiences with FEFs may overlap somewhat with those of
+cisgender men, particularly if they are in the crossdresser stage (wherein they are forced
+to publicly identify as male and repress any female/feminine inclinations). In other
+words, their FEFs during this phase may be predominantly ‘other’-embodiment fantasies, characterised by exoticisation, stereotypes and feelings of shame. In the case of
+cisgender men, this dynamic might never change. But as I chronicle in my aforementioned ‘Crossdressing’ essay, this dynamic does gradually change for trans women (as
+well as many crossdressers), as their gender dysphoria will lead them to explore and
+experiment with gender in real life, rather than exclusively within fantasies (Serano,
+2007, 2010). Over time, femaleness and femininity will become ‘demystified’ to them,
+and they will begin to integrate their ‘boy-mode’ and ‘girl-mode’ into one whole person.
+They will stop feeling ashamed of their transgender, queer, female and/or feminine identities, and may begin openly expressing them in public. As they do, they will come to
+relate to women’s experiences and perspectives, especially once they begin moving
+
+Serano
+
+773
+
+through the world as women themselves. As this happens, FEFs may still occur on some
+level (as they do for cisgender women), but they will not be the sensationalised ‘other’embodiment fantasies of the past. Instead, they will largely be ‘self’-embodiment fantasies, rooted in their own bodies and self-understandings. Blanchard was never able to
+adequately explain the sharp reduction in FEF prevalence that many trans women eventually experience – he actually proposed that it must be because these individuals have
+formed a ‘pair-bond’ with their female selves (reviewed and critiqued in Serano, 2010).
+But human sexuality is not a static thing, and trans people’s self-conceptualisations, subjectivities and desires may evolve over time.
+Contemporary proponents of autogynephilia seem to believe that, just because
+Blanchard identified ‘two subtypes’ of trans women in a Canadian gender identity clinic
+in the 1980s, that these same two subtypes must still exist in the same form today, and
+presumably for perpetuity. This ignores the large body of research demonstrating that,
+while gender and sexual minorities exist in all cultures, their specific identities and
+behaviours are often shaped by local norms and social pressures, and that even within a
+given culture, different generational cohorts of LGBTQ+ people often display dramatically different self-understandings, life trajectories and sexual histories (Hammack,
+2005). In the 30-plus years since Blanchard conducted his original research, there have
+been massive shifts in transgender awareness, visibility, legal recognition and access to
+healthcare and resources. Today, ‘late-onset’ trans women are not necessarily forced into
+a crossdresser stage, as they can readily access information about transgender lives via
+the Internet or trans peers. Instead of engaging in secretive crossdressing and fantasy,
+many of these individuals come out as nonbinary, genderfluid, trans dykes, or queer
+women, and they often begin presenting femininely and/or socially transitioning as teenagers or young adults. And this lack of a secretive ‘crossdresser stage’ largely explains
+why these younger trans women experience far fewer FEFs than their counterparts from
+previous generations (Nuttbrock et al., 2011a, 2011b).
+Sexologists today have moved away from viewing people who share the same sexual
+orientation, or experience similar sexual fantasies, as being the same ‘type’ of person, or
+suffering from the same ‘paraphilia’. Embodiment fantasies come in many different permutations, and people may experience them for a variety of reasons. Like all sexual
+fantasies, embodiment fantasies are not a permanent condition – they may appear, disappear, reappear, intensify, de-intensify, evolve, or shift over time. Any future research into
+embodiment fantasies should acknowledge the full breadth of this phenomenon, rather
+than misrepresenting them as some kind of transgender-specific psychopathology.
+
+Autogynephilia promotes male-centrism, gender
+essentialism and sexualises trans women
+Thus far, I have reviewed the scientific case against autogynephilia, and forwarded an
+alternative ‘embodiment fantasy’ model that is consistent with all the available data and
+contemporary thinking on gender and sexual diversity. However, it is doubtful that the
+case I have made here (no matter how sound) will convince the theory’s staunchest
+defenders. In my experience, people who embrace autogynephilia often do so not because
+
+774
+
+The Sociological Review Monographs 68(4)
+
+it best fits the evidence, but rather for ideological or sociological reasons. In this final
+section, I want to review these rationales, as they provide a better understanding of autogynephilia-related discourses.
+Many people harbour gender-essentialist beliefs – for instance, that femininity and
+attraction to men is intrinsically female, and masculinity and attraction to women intrinsically male (Budge et al., 2018). When confronted with exceptions to this ‘rule’, genderessentialists’ go-to explanation is to presume these individuals must be ‘feminised men’
+or ‘masculinised women’ – an assumption that invariably conflates gender expression
+with sexual orientation (Budge et al., 2018). Autogynephilia is a gender-essentialist theory, as it pathologises all transgender people for failing to conform to (cis)gender expectations. But of its two subtypes, Blanchard’s ‘homosexual’ group neatly fits a simplistic
+‘feminised brain’ narrative, and as such, they receive relatively little consideration or
+scrutiny in his studies. In contrast, trans women who are not exclusively attracted to men,
+and/or not especially feminine as children, seemed to Blanchard to require some kind of
+extraordinary explanation, for which he invented autogynephilia. Tellingly, Bailey and
+Blanchard (2017) have recently expanded Blanchard’s typology to include five transgender subtypes, two of which are designed to explain the existence of ‘non-classical’ trans
+men (whose existence Blanchard initially dismissed, see Blanchard, 1989a). It seems
+both inefficient and scientifically dubious to invent new transgender subtypes (each with
+their own aetiology) any time a new demographic emerges that does not fit genderessentialist stereotypes. It is far more parsimonious to acknowledge (as many contemporary researchers now do) that gender identity, gender expression and sexual orientation
+can diverge from one another (and from one’s birth-assigned sex) within any given
+individual.
+Speaking of stereotypes, according to autogynephilia lore, Blanchard ‘discovered’
+that there are ‘two types’ of trans women, each with differing sexual motivations. In reality, these two types predate Blanchard’s work, as they are common stereotypes that have
+existed in the cisgender imagination for quite some time. In a review of a half-century’s
+worth of transgender-themed media depictions – the vast majority of which were produced without any knowledge or information about actual trans people or Blanchard’s
+theory – I identified two recurring trans woman stereotypes: the ‘deceiver’ and the
+‘pathetic’ transsexual (Serano, 2007). In an independent analysis of laypeople’s reactions
+to trans women, Bettcher (2007) described these same stereotypes as ‘deceivers’ and
+‘pretenders’. These stereotypes differ from one another primarily with regard to trans
+women’s ability to ‘pass’ as cisgender women, and the motivations that are ascribed to
+each group reflect naive cisgender assumptions about why a ‘man’ might want to
+‘become’ a woman. Perhaps because they are visibly feminine (which is also a common
+stereotype of gay men), ‘deceivers’ are typically presumed to be gay men who become
+women in order to sexually attract heterosexual men. The ‘pathetic’/‘pretender’ stereotype is applied to trans women who do not ‘pass’ (and thus are incapable of ‘deceiving’
+men), and the most common ulterior motive projected onto them is that they become
+women in order to fulfil some kind of bizarre sexual fantasy. These stereotypes share an
+obvious resemblance to Blanchard’s ‘homosexual’ and ‘autogynephile’ subtypes, respectively. Given that these stereotypes have consistently appeared in the media since the
+1960s (Serano, 2007, 2009), it seems likely that they may have influenced Blanchard’s
+
+Serano
+
+775
+
+taxonomy. And perhaps the reason why people today still find autogynephilia theory
+compelling, despite the overwhelming evidence against it, is because it confirms their
+previously held stereotypes regarding trans women.
+While the media (and cisgender laypeople’s imaginations) consistently reproduce
+these two sexually motivated trans woman stereotypes, they also repeatedly overlook the
+existence of trans men. In rare cases where trans men are represented, it is usually not
+done in a sexually titillating manner (as it is with trans women), nor are trans men’s transitions generally depicted as sexually motivated. It is hard not to draw parallels here with
+Stoller’s claim that ‘men’s clothes have no erotic value whatsoever’, or Blanchard’s
+insistence that ‘autoandrophilia’/MEFs do not exist. I have argued that these discrepancies – i.e. that trans women’s motivations must be sexual, whereas trans men’s cannot
+possibly be sexual – stem from the differing values that we (as a society) place on women
+versus men (Serano, 2007, 2009). In a male-centric society, the idea that someone might
+want to become a man seems somewhat understandable, whereas the reciprocal gender
+transition strikes most people as confounding. Thus, people tend to presume that trans
+women transition in order to obtain the one type of ‘power’ that women are commonly
+viewed as having: the ability to be objects of heterosexual male desire. In other words,
+the pervasive assumption that trans women transition for sexual reasons is rooted in the
+misogynistic belief that women, as a whole, have no worth beyond their ability to be
+sexualised (Serano, 2007, 2009).
+Finally, in addition to male-centrism and gender essentialism, some people embrace
+autogynephilia theory (despite all the counter-evidence) because they are suspicious of,
+or ideologically opposed to, transgender people. Autogynephilia is a particularly useful
+tool in this regard, as it not only invalidates trans women’s gender identities (by misrepresenting them as ‘men’ who suffer from psychopathologies), but because it sexualises
+them – it reduces trans women to their presumed sexual behaviours and motivations, to
+the exclusion of other characteristics (Serano, 2009). There is a large body of evidence
+demonstrating that women who are sexualised (often via ‘slut-shaming’) are viewed as
+less than human, are not taken seriously, are not treated with empathy, and face stigmatisation and social isolation as a result (American Psychological Association Task Force,
+2007; Armstrong et al., 2014; Vrangalova et al., 2013). Similarly, other marginalised
+groups – including people of colour, immigrants and LGBTQ+ communities – are also
+routinely depicted as hypersexual or sexually deviant, and thus potential threats to nonminority women and children (Casares, 2018; Collins, 2000; Fejes, 2008; Frank, 2015;
+Stone, 2018).
+Given that sexualisation is a tried-and-true tactic to dehumanise and socially exclude
+marginalised groups, it is unsurprising that social and religious conservatives – who
+routinely condemn women and LGBTQ+ people for their failure to conform to gender
+and sexual norms – increasingly invoke autogynephilia in their attempts to disparage
+transgender people (cf. Fitzgibbons et al., 2009). Feminists, on the other hand, have historically opposed male-centrism, heteronormativity and gender essentialism. Given the
+long history of women being slut-shamed, and gender and sexual minorities (e.g. lesbians) being falsely accused of being sexual deviants and predators, it is hypocritical for
+any self-identified feminist to resort to these same tactics (via invoking Blanchard’s
+autogynephilia theory) in their attempts to exclude transgender people.
+
+776
+
+The Sociological Review Monographs 68(4)
+
+Funding
+The author received no financial support for the research, authorship, and/or publication of this
+article.
+
+Note
+1.
+
+To be clear, some people are lifelong crossdressers (for whom it is not a ‘stage’), and gender
+dysphoria is not the only reason why people crossdress. My analysis of the ‘crossdresser
+stage’ here specifically refers to eventually self-defined trans women, and is informed by
+many personal communications I have had with trans women about this particular stage of
+their lives.
+
+References
+American Psychological Association. (2015). Guidelines for psychological practice with transgender and gender nonconforming people. American Psychologist, 70(9), 832–864.
+American Psychological Association Task Force on the Sexualization of Girls. (2007). Report of
+the APA Task Force on the sexualization of girls.
+Armstrong, E. A., Hamilton, L. T., Armstrong, E. M., & Seeley, J. L. (2014). ‘Good girls’: Gender,
+social class, and slut discourse on campus. Social Psychology Quarterly, 77(2), 100–122.
+Bailey, J. M. (2003). The man who would be queen: The science of gender-bending and transsexualism. Joseph Henry Press.
+Bailey, J. M., & Blanchard, R. (2017). Gender dysphoria is not one thing. 4thWaveNow.
+https://4thwavenow.com/2017/12/07/gender-dysphoria-is-not-one-thing (accessed 20 August
+2018).
+Bem, S. L. (1993). The lenses of gender: Transforming the debate on sexual inequality. Yale
+University Press.
+Bettcher, T. M. (2007). Evil deceivers and make-believers: On transphobic violence and the politics of illusion. Hypatia, 22(3), 43–65.
+Bettcher, T. M. (2014). When selves have sex: What the phenomenology of trans sexuality can
+teach about sexual orientation. Journal of Homosexuality, 61(5), 605–620.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias.
+Archives of Sexual Behavior, 18(4), 315–334.
+Blanchard, R. (1989b). The concept of autogynephilia and the typology of male gender dysphoria.
+Journal of Nervous and Mental Disease, 177(10), 616–623.
+Bockting, W., Benner, A., & Coleman, E. (2009). Gay and bisexual identity development among
+female-to-male transsexuals in North America: Emergence of a transgender sexuality.
+Archives of Sexual Behavior, 38(5), 688–701.
+Budge, S. L., Orovecz, J. J., Owen, J. J., & Sherry, A. R. (2018). The relationship between conformity to gender norms, sexual orientation, and gender identity for sexual minorities. Counselling
+Psychology Quarterly, 31(1), 79–97.
+Cameron, L. (2013). How the psychiatrist who co-wrote the manual on sex talks about sex.
+Motherboard. https://motherboard.vice.com/en_us/article/ypp93m/heres-how-the-guy-whowrote-the-manual-on-sex-talks-about-sex (last accessed 8 June 2020).
+Casares, C. (2018). Trump’s repeated use of the Mexican rapist trope is as old (and as racist) as
+colonialism. NBCNews.com. www.nbcnews.com/think/opinion/trump-s-repeated-use-mexican-rapist-trope-old-racist-colonialism-ncna863451 (accessed 3 November 2018).
+
+Serano
+
+777
+
+Coleman, E., Bockting, W., Botzer, M., Cohen-Kettenis, P., DeCuypere, G., Feldman, J., . . .
+Zucker, K. (2011). Standards of care for the health of transsexual, transgender, and gendernonconforming people, version 7. International Journal of Transgenderism, 13(4), 165–232.
+Collins, P. H. (2000). Black feminist thought: Knowledge, consciousness and the politics of
+empowerment. Routledge.
+Crasnow, S., Wylie, A., Bauchspies, W. K., & Potter, E. (2018). Feminist perspectives on science. The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/archives/spr2018/
+entries/feminist-science (last accessed 8 June 2020).
+de Beauvoir, S. (1989). The second sex. Vintage Books.
+Dubberley, E. (2013). Garden of desires: The evolution of women’s sexual fantasies. Black Lace.
+Fehr, C. (2004). Feminism and science: Mechanism without reductionism. NWSA Journal, 16(1),
+136–156.
+Fejes, F. (2008). Gay rights and moral panic: The origins of America’s debate on homosexuality.
+Palgrave Macmillan.
+Fitzgibbons, R. P., Sutton, P. M., & O’Leary, D. (2009). The psychopathology of ‘sex reassignment’ surgery. National Catholic Bioethics Quarterly, 9(1), 97–125.
+Frank, G. (2015). The anti-trans bathroom nightmare has its roots in racial segregation. Slate.
+https://slate.com/human-interest/2015/11/anti-trans-bathroom-propaganda-has-roots-inracial-segregation.html (accessed 3 January 2019).
+Fredrickson, B. L., & Roberts, T.-A. (1997). Objectification theory: Toward understanding
+women’s lived experiences and mental health risks. Psychology of Women Quarterly, 21(2),
+173–206.
+Giami, A. (2015). Between DSM and ICD: Paraphilias and the transformation of sexual norms.
+Archives of Sexual Behavior, 44(5), 1127–1138.
+Grubbs, J. B., & Perry, S. L. (2019). Moral incongruence and pornography use: A critical review
+and integration. The Journal of Sex Research, 56(1), 29–37.
+Hammack, P. L. (2005). The life course development of human sexual orientation: An integrative
+paradigm. Human Development, 48(5), 267–290.
+Hidalgo, M. A., Ehrensaft, D., Tishelman, A. C., Clark, L. F., Garofalo, R., Rosenthal, S. M.,
+Spack, N. P., & Olson, J. (2013). The gender affirmative model: What we know and what we
+aim to learn. Human Development, 56(5), 285–290.
+Jeffreys, S. (2005). Beauty and misogyny: Harmful cultural practices in the West. Routledge.
+Jeffreys, S. (2014). Gender hurts: A feminist analysis of the politics of transgenderism. Routledge.
+Joyal, C. C., Cossette, A., & Lapierre, V. (2015). What exactly is an unusual sexual fantasy? The
+Journal of Sexual Medicine, 12(2), 328–340.
+Kane, E. (2006). ‘No way my boys are going to be like that!’ Parents’ responses to children’s
+gender nonconformity. Gender and Society, 20(2), 149–176.
+Lehmiller, J. J. (2018). Tell me what you want. De Capo Press.
+Leitenberg, H., & Henning, K. (1995). Sexual fantasy. Psychological Bulletin, 117(3), 469–496.
+Moser, C. (2009). Autogynephilia in women. Journal of Homosexuality, 56(5), 539–547.
+Moser, C. (2010). Blanchard’s autogynephilia theory: A critique. Journal of Homosexuality, 57(6),
+790–809.
+Moser, C., & Kleinplatz, P. J. (2006). DSM-IV-TR and the paraphilias: An argument for removal.
+Journal of Psychology & Human Sexuality, 17(3–4), 91–109.
+Mulvey, L. (1975). Visual pleasure and narrative cinema. Screen, 16(3), 6–18.
+Nuttbrock, L., Bockting, W., Mason, M., Hwahng, S., Rosenblum, A., Macri, M., & Becker, J.
+(2011a). A further assessment of Blanchard’s typology of homosexual versus non-homosexual or autogynephilic gender dysphoria. Archives of Sexual Behavior, 40(2), 247–257.
+
+778
+
+The Sociological Review Monographs 68(4)
+
+Nuttbrock, L., Bockting, W., Rosenblum, A., Mason, M., & Hwahng, S. (2011b). Sexual arousal
+associated with private as compared to public feminine dressing among male-to-female
+transgender persons: A further response to Lawrence (2011). Archives of Sexual Behavior,
+40(6), 1093–1096.
+Sandnabba, N. K., & Ahlberg, C. (1999). Parents’ attitudes and expectations about children’s
+cross-gender behavior. Sex Roles, 40(3–4), 249–263.
+Serano, J. (2007). Whipping girl: A transsexual woman on sexism and the scapegoating of femininity. Seal Press.
+Serano, J. (2009). Psychology, sexualization and trans-invalidations. Keynote lecture presented
+at the 8th Annual Philadelphia Trans-Health Conference. www.juliaserano.com/av/SeranoTransInvalidations.pdf (last accessed 8 June 2020).
+Serano, J. M. (2010). The case against autogynephilia. International Journal of Transgenderism,
+12(3), 176–187.
+Serano, J. (2016). Reconceptualizing ‘autogynephilia’ as female/feminine embodiment fantasies.
+In Serano, J., Outspoken: A decade of transgender activism and trans feminism (pp. 151–
+155). Switch Hitter Press.
+Serano, J. (2020). Autogynephilia, ad hoc hypotheses, and handwaving. Medium. https://medium.
+com/@juliaserano/autogynephilia-ad-hoc-hypotheses-and-handwaving-cecca4f6563d (last
+accessed 8 June 2020).
+Smith, Y. L. S., van Goozen, S., Kuiper, A., & Cohen-Kettenis, P. T. (2005). Transsexual subtypes: Clinical and theoretical significance. Psychiatry Research, 137(3), 151–160.
+Stoller, R. J. (1968). Sex and gender: On the development of masculinity and femininity. Science
+House.
+Stone, A. L. (2018). Frame variation in child protectionist claims: Constructions of gay men and
+transgender women as strangers. Social Forces, 97(3), 1155–1176.
+Sullivan, J., Moss-Racusin, C., Lopez, M., & Williams, K. (2018). Backlash against gender stereotype-violating preschool children. PLoS ONE, 13(4), e0195503.
+Veale, J. F. (2014). Evidence against a typology: A taxometric analysis of the sexuality of maleto-female transsexuals. Archives of Sexual Behavior, 43(6), 1177–1186.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-to-female transsexuals.
+Archives of Sexual Behavior, 37(4), 586–597.
+Veale, J. F., Lomax, T. C., & Clarke, D. E. (2010). The identity-defence model of gender-variant
+development. International Journal of Transgenderism, 12(3), 125–138.
+Vrangalova, Z., Bukberg, R. E., & Rieger, G. (2013). Birds of a feather? Not when it comes to
+sexual permissiveness. Journal of Social and Personal Relationships, 31(1), 93–113.
+
+Author biography
+Julia Serano is the author of four books, including Whipping Girl: A Transsexual Woman on Sexism
+and the Scapegoating of Femininity, and Excluded: Making Feminist and Queer Movements More
+Inclusive. She has a PhD in Biochemistry and Molecular Biophysics from Columbia University,
+and researched evolution and developmental biology at UC Berkeley.
+
+

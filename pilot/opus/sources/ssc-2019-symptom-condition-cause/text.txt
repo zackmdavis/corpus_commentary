@@ -1,0 +1,1557 @@
+Home
+
+About / Top Posts
+
+Archives
+
+Top Posts
+
+Comments Feed
+RSS Feed
+
+Slate Star Codex
+
+Blogroll
+
+Economics
+
+Artir Kel
+
+Bryan Caplan
+
+David Friedman
+
+Pseudoerasmus
+
+Scott Sumner
+
+Tyler Cowen
+
+Effective Altruism
+
+80000 Hours Blog
+
+Effective Altruism Forum
+
+GiveWell Blog
+
+Rationality
+
+Alyssa Vance
+
+Beeminder
+
+Elizabeth Van Nostrand
+
+Gwern Branwen
+
+Jacob Falkovich
+
+Jeff Kaufman
+
+Katja Grace
+
+Kelsey Piper
+
+Less Wrong
+
+Paul Christiano
+
+Robin Hanson
+
+Sarah Constantin
+
+Zack Davis
+
+Zvi Mowshowitz
+
+Science
+
+Andrew Gelman
+
+Greg Cochran
+
+Michael Caton
+
+Razib Khan
+
+Scott Aaronson
+
+Stephan Guyenet
+
+Steve Hsu
+
+SSC Elsewhere
+
+SSC Discord Server
+
+SSC Podcast
+
+SSC Subreddit
+
+Unsong
+
+Archives
+
+January 2021
+
+September 2020
+
+June 2020
+
+May 2020
+
+April 2020
+
+March 2020
+
+February 2020
+
+January 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+August 2019
+
+July 2019
+
+June 2019
+
+May 2019
+
+April 2019
+
+March 2019
+
+February 2019
+
+January 2019
+
+December 2018
+
+November 2018
+
+October 2018
+
+September 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+May 2018
+
+April 2018
+
+March 2018
+
+February 2018
+
+January 2018
+
+December 2017
+
+November 2017
+
+October 2017
+
+September 2017
+
+August 2017
+
+July 2017
+
+June 2017
+
+May 2017
+
+April 2017
+
+March 2017
+
+February 2017
+
+January 2017
+
+December 2016
+
+November 2016
+
+October 2016
+
+September 2016
+
+August 2016
+
+July 2016
+
+June 2016
+
+May 2016
+
+April 2016
+
+March 2016
+
+February 2016
+
+January 2016
+
+December 2015
+
+November 2015
+
+October 2015
+
+September 2015
+
+August 2015
+
+July 2015
+
+June 2015
+
+May 2015
+
+April 2015
+
+March 2015
+
+February 2015
+
+January 2015
+
+December 2014
+
+November 2014
+
+October 2014
+
+September 2014
+
+August 2014
+
+July 2014
+
+June 2014
+
+May 2014
+
+April 2014
+
+March 2014
+
+February 2014
+
+January 2014
+
+December 2013
+
+November 2013
+
+October 2013
+
+September 2013
+
+August 2013
+
+July 2013
+
+June 2013
+
+May 2013
+
+April 2013
+
+March 2013
+
+February 2013
+
+Full Archives
+
+Symptom, Condition, Cause
+
+Posted on December 4, 2019 by Scott Alexander
+
+On my recent post on autism, several people chimed in to say that “autism” wasn’t a unitary/homogenous category. It probably lumps together many different conditions with many different causes. It’s useless to speculate on the characteristics of “autism” until it can be separated out further.
+
+I get this every time I talk about a psychiatric condition. The proponents of this view seem to think they’re speaking a shocking heresy that overturns the psychiatric establishment. But guys, we know this kind of stuff. Psychiatric diagnoses don’t have to perfectly match underlying root causes to be useful.
+
+Suppose a patient comes to you with difficulty breathing, excessive sweating, anxiety, and extreme discomfort when lying down flat. You recognize these as potential signs of pulmonary edema, ie fluid in the lungs. You do an x-ray, confirm the diagnosis, and prescribe symptomatic treatment – in this case, supplemental oxygen. All of this is good work.
+
+But you can have fluid in your lungs for lots of different reasons. Most of the time it’s heart failure, but sometimes it’s kidney failure, pneumonia, drug overdose, smoke inhalation, or altitude sickness. Some of these causes will have slightly different symptoms, which an alert doctor can notice.
+
+Suppose the real cause of your pulmonary edema is heroin overdose. In that case, it wouldn’t be fair to call pulmonary edema a “root cause”. The root cause of your problem is the heroin. But you also can’t call pulmonary edema merely a “symptom”. No patient comes in saying “Doc, I’m feeling a bit pulmonary edemic today”. The symptoms of pulmonary edema are difficulty breathing, excessive sweating, anxiety, etc. So what is pulmonary edema?
+
+I don’t know the technical philosophy-of-medicine term for this, but let’s call it a “condition”. A condition which nobody has yet matched with a biological process gets dubbed a syndrome – a set of symptoms that go together even if we remain agnostic about why. A condition which has been matched a biological process ends up like pulmonary edema – such a well-known part of the medical canon that nobody feels a need to do philosophy around it.
+
+Lots of things are conditions like this. Even some universally-known diseases like stroke are better thought of as conditions than root causes. Strokes can be caused either by ischaemia (usually a blood vessel blocked by a clot) or haemorrhage (a blood vessel bursting and bleeding out). These two causes have differing risk factors (anticoagulants cause haemorrhagic stroke but protect against ischaemic) and differing treatments (tPA relieves ischaemic stroke but catastrophically worsens haemorrhagic).
+
+But nobody ever bursts into neurology conferences shouting “STROKE ISN’T A REAL DISEASE, IT’S A COBBLED-TOGETHER BASKET OF MULTIPLE DIFFERENT ROOT CAUSES!” Everyone realizes that conditions are a useful intermediate level to work at.
+
+This is how I feel about things like depression too. No psychiatrist would be even a tiny bit surprised to hear that depression is many different conditions with many different causes. For example, everyone knows some depressions are caused by hypothyroidism, and others aren’t.
+
+The biggest difference between the philosophical status of depression vs. stroke is that we know what biological process stroke corresponds to. Stroke is brain cells dying from lack of oxygen. It can be caused by arterial blockage or by bleeding, sometimes it can even have more distal causes like cocaine use or Moyamoya disease, but it all ends with brain cells dying from lack of oxygen. That in turn produces classic symptoms like sudden-onset slurred speech, hemiparalysis, and facial asymmetry.
+
+We don’t have as good an idea what biological process depression corresponds to. There are some theories – maybe a failure of synaptogenesis – but they’re all pretty speculative right now. Still, I think it’s reasonable to propose that they correspond to some process.
+
+First, because depression includes a lot of surprising symptoms mysteriously clustered together. Just as without the concept of “stroke” you can’t explain why slurred speech and hemiparalysis happen together so often, so without the concept of “depression” it’s hard to explain why SIGECAPS tend to go together. The only good alternative I’ve heard here is the idea of symptom networks. But I no longer find this very convincing, and it never seems to be what the people talking about how “depression isn’t a single disorder” mean.
+
+Second, because at this point we don’t even know what biological process normal low mood corresponds to, but it seems like it has to be something, and it would be strange for a single biological process to cause low mood and not be related to depression.
+
+My (very wild) guess is that in the end psychiatric disorders will mostly turn out to be computational conditions. That is, something like “the learning rate of this system is set too high” or “the threshold for errors in this error-detector is too low”. There will be lots of different things that will cause that, from biological (because these computations are implemented on biological systems including the usual range of things like serotonin and dopamine and synapses) to psychological (because the brain is plastic enough that its computational parameters can change with experience) to environmental (because if you pour a bucket of battery acid onto a computer, probably its computational parameters will change in some way). This is just my personal bias towards computational explanations speaking, and it could be that these disorders will be better explained by regional stories (ie “the amygdala is broken” or “the hippocampus is broken”), by biochemical stories (“there’s too much serotonin”), by structural stories (“there are too few synapses”), by some combination of these, by something totally different, or by something that’s on a totally different level than any of this.
+
+If something like this story is true, it means that research that treats depression as a single condition might or might not work. Returning to the analogy of stroke, I think (though I’m not an expert) that the prognoses for ischaemic and haemorrhagic stroke are mostly similar, since both depend on how long it takes the brain to adapt after some cells have died. But the risk factors for these two kinds of stroke are different (again, anticoagulants protect against one and cause the other). Scientists who were researching “stroke”, without understanding the different causes, would get some things right and end up confused about others.
+
+Some people, upon hearing this, say that we should be trying to figure out the different kinds of depression so we can do real research on those. People have been trying this for a century, and every one of their leads have been false. Traditional psychiatry flirts with admitting two subtypes of depression, but you can also find papers claiming to have found three subtypes, four subtypes, five subtypes, etc. Even papers that agree on how many subtypes there are often identify the subtypes totally differently. This has not been a productive research program and I think better understanding of what depression is will be more valuable than bashing our heads against the subtype identification problem further. At least this is how it has always worked in regular medicine, where once we realized what eg pulmonary edema was, everything fell into place (including potential root causes) and nobody felt like figuring out exactly how many subtypes there were was a very interesting problem.
+
+The saying goes: all models are wrong, some models are useful. I don’t think existing psychiatric diagnosis is particularly accurate, but I think it’s the most useful thing we have right now. And I don’t think talking about how each condition is probably made up of many root causes is a particularly damaging objection to it. We should keep the likely heterogeneity in mind and pull it out when we need it, but we shouldn’t use that as an excuse to abandon the whole nosology.
+
+This entry was posted in Uncategorized and tagged psychiatry. Bookmark the permalink.
+
+← Open Thread 142.25
+
+Open Thread 142.5 →
+
+133 Responses to Symptom, Condition, Cause
+
+Reverse order
+
+chaosmage says:
+
+December 4, 2019 at 9:41 pm
+
+How do evolutionary explanations play into this? Like the idea that depression is adaptive for very low social rank (like slavery) and can be triggered when you can’t find anybody lower in rank than you. Does that count as a model?
+
+TheMadMapmaker says:
+
+December 5, 2019 at 12:40 am
+
+So *that* explains Omelas!
+
+summerstay says:
+
+December 5, 2019 at 4:34 am
+
+: )
+
+DavidFriedman says:
+
+December 5, 2019 at 9:56 am
+
+Also what we see in the third book of Gallagher’s Torchship series.
+
+noyann says:
+
+December 5, 2019 at 3:02 am
+
+That would tie into the Social Navigation or Niche Change Hypothesis. But there’s more.
+
+chaosmage says:
+
+December 5, 2019 at 6:45 am
+
+Nice. I’m especially impressed to finally find the the extortionary aspect of depression made explicit.
+
+But I am sceptical about the mechanism that triggers the depression response. Complex social negotiation does not seem like the kind of thing that could happen entirely without conscious control.
+
+So I imagine the trigger for depression simply checks whether there is anybody to safely bully. If you can bully someone and get away with it, that is great evidence they’re lower rank than you. So if you cannot, that is good evidence you are are at the lowest point and might want to activate your slavery response.
+
+noyann says:
+
+December 5, 2019 at 9:10 am
+
+You might want to look into the simpler model of the social bargaining hypothesis; here it is speculated that depression developed very early in social evolution. If that were true I would locate it at, or slightly above, instinctual behavior.
+
+Creutzer says:
+
+December 5, 2019 at 10:45 am
+
+Complex social negotiation does not seem like the kind of thing that could happen entirely without conscious control.
+
+That seems entirely backwards to me. I’d rather say that most social negotiation happens unconsciously and indeed without people even knowing that they’re engaging in it. That’s why learning to see the world through the lense of status moves is such a revelation.
+
+peterispaikens says:
+
+December 5, 2019 at 2:28 pm
+
+Quite the opposite, if we look at other animals, then it seems obvious that complex social negotiation is a fundamental, important activity of most non-solitary animals including those much, much less capable than us. Consciousness and intelligence comes only long after the capability for social negotiation, dominance games, etc.
+
+For example, perhaps it’s worth looking at pigeons – would depression-like behavior be adaptive for birds low on the literal pecking order or maladaptive?
+
+DarkTigger says:
+
+December 5, 2019 at 7:14 am
+
+My first question is: How is beeing sleepy an motivation less, adaptive to beeing low rank?
+
+chaosmage says:
+
+December 5, 2019 at 7:40 am
+
+Wie effects on motivation and sleep are side effects. What is adaptive is the strong aversion to conflict. Because when you’re very low in status, nobody is your ally so conflict is much more dangerous for you than for anybody else (lynchings and witch trials killed among the the lowest status members of their societies). That is much more dangerous, and therefore much more relevant to evolution, than lack of sleep or motivation.
+
+fluffykitten55 says:
+
+December 7, 2019 at 3:49 am
+
+It seems to go the other way – feeling like you are low status seems to tend to make people far more prone to initiate conflict or to escalate to aggression, even futile and self destructive aggression.
+
+Personally, when I have been depressed and low status I avoided low-level conflict or being ‘assertive’ (which was draining and unlikely to work as these sorts of conflicts are decided by status) and generally was friendly to everyone, but my emotions were pushing me towards contemplating ‘nuclear’ options against people who were persistently bullying me. And insults were generally considered far more serious and anger provoking.
+
+But I have also seen many people who are depressed who seem to always be initiating low level conflict and generally making themselves unlikable by being gruff and terse. But this sort of low level belligerence would seem to only be adaptive if you have high status – and then showing displeasure at someone is a way to get them to try harder in pleasing you. But if you have no power, then such displays are just ignored.
+
+The two responses seem to be associated with fight or flight responses – people who display the low lever belligerence are prone to ‘flight’ in my experience.
+
+Purplehermann says:
+
+December 5, 2019 at 7:42 am
+
+Conserving energy, doing things in half hearted fashion- can’t improve so don’t bother wasting energy?
+
+albatross11 says:
+
+December 5, 2019 at 8:19 am
+
+It’s hard to see how depression as a disorder would work out well as an “I’m on the bottom” strategy. But I wonder if maybe some of the symptoms of depression in a milder form might be adaptive, and then the full-on disorder is some kind of overshooting.
+
+If this is true, would we expect to see more depression among BDSM bottoms than tops?
+
+smilerz says:
+
+December 5, 2019 at 11:50 am
+
+Why is an evolutionary explanation required?
+
+kupe says:
+
+December 5, 2019 at 4:02 pm
+
+I mostly agree.
+
+This approach seems to be taking every facet of human behaviour and pondering ‘how does this feature maximise evolutionary fitness?’ rather than acknowledging that we are messy Adaption-Excecutors not Fitness-Maximisers. If depression is an error then it doesn’t make sense to try and rationalise why this error was actually a success and it was just an invocation of some niche case in our ancestral environment where having depressive symptoms actually helped evolutionary fitness. I mean this could be true, but it doesn’t feel inherently necessary to explain it this way.
+
+Evolution will have something to do with it, it’s how we got our source code, but evolutionary psychology is hard and probably another unproductive research program when it comes to depression.
+
+Lambert says:
+
+December 6, 2019 at 1:06 am
+
+It also looks a lot like an adaptive thing (normal sadness) but too much.
+
+Which seems to be a common biological failure mode.
+
+Wrong Species says:
+
+December 6, 2019 at 6:28 am
+
+People underrate the idea that the pathologies we see in the modern world are just that, pathologies that are very rare in previous times. Before we try to “explain” depression from an evolutionary perspective, we should probably ask ourselves: how common is depression in hunter-gatherers? What about simple farmers? Grief is obviously very common but I’m not convinced that what we think of as depression is ubiquitous throughout history.
+
+Purplehermann says:
+
+December 7, 2019 at 9:35 am
+
+So maybe we should look for evolutionary explanations for similar outputs, and try to figure out why the mechanism is malfunctioning? Like obese people?
+
+Kaj Sotala says:
+
+December 6, 2019 at 7:53 am
+
+Marr’s levels of analysis are probably a reasonable reference here:
+
+Marr treated vision as an information processing system. He put forth (in concert with Tomaso Poggio) the idea that one must understand information processing systems at three distinct, complementary levels of analysis. This idea is known in cognitive science as Marr’s Tri-Level Hypothesis:
+
+* computational level: what does the system do (e.g.: what problems does it solve or overcome) and similarly, why does it do these things
+
+* algorithmic level (sometimes representational level): how does the system do what it does, specifically, what representations does it use and what processes does it employ to build and manipulate the representations
+
+* implementational/physical level: how is the system physically realised (in the case of biological vision, what neural structures and neuronal activities implement the visual system)
+
+An evolutionary explanation would be a computational-level model, but if you actually want to figure out how to fix depression, you likely need a more fine-grained level.
+
+anonymousskimmer says:
+
+December 7, 2019 at 7:49 am
+
+Being of lowest social rank is just a subset of (feelings of) powerlessness. If one has no seeable power (or reason for using what power one has – see ennui), then there is no reason for motivation at the moment.
+
+Prussian says:
+
+December 4, 2019 at 9:46 pm
+
+This ties in neatly with your earlier post about the Dodo Bird Race etc. I have been wondering whether the reason for the very high initial success rate of things like CBT is that it is used by people who know how to exactly target _this_ treatment to _that_ trauma. Call this the “Really Fresh Bananas” effect.
+
+For example, there is one form of therapy that has been devastatingly effective – the Allen Carr Easyway to Quit Smoking. I’d been trying to quite for a year, and kept failing – and then I read his book, and before I was halfway done, I threw away by tobacco and have not wanted a cigarette since then. I’m not the first person to report this exact effect.
+
+And I think it is because Carr, a lifelong heavy smoker, knew intimately the exact patterns of thought in which smokers are trapped – and knew the exact exit to them. So the effect of the book or the therapy is perfectly targeted (there’s an overlap here with the Mental Mountains post).
+
+Now, what I speculate is that the Really Fresh Bananas thing happens when you have a therapist who has been at his or her wits end with trauma / dysfunction X, probably suffering from the same thing, and finds out how to use CBT (or whatever) really, really precisely to solve this exact problem. And so he or she can then use it to set others free. This becomes a huge hit, and the first wave of people attracted are the ones who have been facing similar frustration (and, ideally, dealing with the same trauma or dysfunction) so it seems like the panacea has been found. But what’s really happening is that you are selecting for people with a deep understanding of issue X who are precisely treating people with issue X and who have optimized treatment whatever for issue X. Later on, this goes away because you have people deciding that it’s treatment whatever that works for not A, B, C…., and who haven’t done the optimization.
+
+That’s speculation, as I say. But it’s speculation that does explain the Allen Carr thing well.
+
+Purplehermann says:
+
+December 5, 2019 at 7:49 am
+
+This makes a lot of intuitive sense to me. I’m no therapist, but I have helped people a few times with issues pretty effectively (and quickly, just a talking for a few hours once or twice), and it’s always been issues I’m intimately familiar with myself, where i really understood how it feels from the inside and how the problem works. Maybe pros are different, but having an intuitive explicit understanding of where someone is emotionally/mentally and how to get out of that state can’t hurt.
+
+Prussian says:
+
+December 5, 2019 at 9:19 am
+
+To take the Carr thing, it’d be really nice if this could be broadened out. I don’t think anyone who hasn’t been through it gets just how weird it is to go from “I really want a cigarette” to “I don’t want to smoke, ever again”, purely from reading a book or listening to someone talk.
+
+I mean, it literally is “Here’s why this behaviour is self-destructive” and people going “Yeah, you’re right” – and then actually not doing that self-destructive thing anymore. If this could be broadened out to other dysfunctions, chaps like Scott would be out of business. In a good way, of course 🙂
+
+Rusty says:
+
+December 5, 2019 at 2:19 pm
+
+That is very interesting and nails the Carr thing for me well. I was a heavy smoker for 20 years, tried and failed to give up three or four times, read the Carr book and by the last page was just ‘Oh – now I get it!’. Oddest thing was never even thinking about smoking since then. Well actually the oddest thing is how pretty much no health service on the planet recommends the book.
+
+Lodore says:
+
+December 7, 2019 at 11:28 am
+
+I smoked for 15 years and the Allen Carr book didn’t do anything for me. So far as I can remember, it’s because it tried to convince me that I was an addict when that was palpably obvious to me already.
+
+What did get me off cigarettes was the realisation that I was paying good money for a drug that didn’t get me high. Different strokes, different folks.
+
+benquo says:
+
+December 6, 2019 at 3:41 am
+
+I’m not addicted to cigarettes, and this review persuaded me to check out Carr’s book, simply as a good psychology case study (i.e. so I can better empathize with cigarette smokers).
+
+cuke says:
+
+December 6, 2019 at 2:06 pm
+
+Same, and I’m interested in the process of change generally. A lot of people with back pain also report being relieved of their pain by reading one of John Sarnos’ books about back pain. I wonder if there’s research about what kinds of people are susceptible to what kinds of placebo effects. It seems like there’s an interesting variety between say “here take this pill because I say it will make you feel better” and “let me give you a rational story and once you wrap your head around it, you will change.”
+
+Doesntliketocomment says:
+
+December 9, 2019 at 7:09 am
+
+Since you are not currently a smoker be careful not to read it backwards.
+
+benquo says:
+
+January 2, 2020 at 9:02 am
+
+Followup, having read the book:
+
+It seems like the first straightforward description of dukkha I’ve seen. Like, *extremely* straightforward except that it’s framed as specifically about smoking and nicotine withdrawal, and very obviously extendable to all other addictions based on confusion of different sorts of reinforcement, but with less of a clean “quitting” behavior possible in the general case, since how exactly do I know whether I’ve quit dukkha, when the nature of generalized addictive behavior is to be confused about why you’re doing what you’re doing?
+
+As far as I can tell the rest of his books are kind of crap attempts to translate this insight into other cleanly definable domains.
+
+Carr generated this apparently by just mindfully smoking, and realizing that he was smoking to alleviate vague feelings of dissatisfaction which were making it harder for him to cope with other stuff, and the way smoking “helped” was just by making him less anxious about not getting to smoke.
+
+It makes sense that if addiction to cigarettes is mostly due to confusion, a sufficiently clear and vivid description of exactly what dukkha is and how it works, as applied to the cigarette pattern, would cause the relevant confusions (and therefore strength of addiction) to dissolve.
+
+static says:
+
+December 4, 2019 at 10:01 pm
+
+Some people, upon hearing this, say that we should be trying to figure out the different kinds of depression so we can do real research on those.
+
+It seems like autism has been going the opposite route. More things keep getting lumped into it.
+
+Depression is (roughly) sadness with no proximate cause. Autism was (roughly, as a archetype) being non-verbal while still being intelligent in other ways. Autism has (roughly) now expanded to include almost anyone that is non-verbal, even if it is accompanied by other significant deficits. It’s as if we called all sadness depression.
+
+alwhite says:
+
+December 5, 2019 at 6:00 am
+
+Autism is way broader than non-verbal. The Autism Research Centre in London defines three branches: sensory issues, social communication deficits, and executive function deficits.
+
+I’d caution about thinking autism has expanded a whole lot though. Over the last 20 years the rate as grown from 1.2% to 1.8%. Tiny numbers are still tiny numbers. In a lot of ways, the expansion of the autism definition is capturing voices that were previously ignored. This is happening in both the professional and public senses. Just as diagnostic criteria is changing to try to accurately support everyone who needs support, public perception needs to change as well. Just because people learned what autism was 20 years ago, doesn’t mean they learned something accurate.
+
+static says:
+
+December 5, 2019 at 6:39 am
+
+Autism is way broader than non-verbal.
+
+I was mainly thinking of diagnosis in very young children.
+
+“I’d caution about thinking autism has expanded a whole lot though”
+
+I meant the definition of it has expanded from the initial analysis.
+
+Just because people learned what autism was 20 years ago, doesn’t mean they learned something accurate.
+
+Yet, what is there to say the definition from 1943 is less accurate than the one used today.
+
+What primarily bothers me is a diagnosis of autism being claimed for people who simply have intellectual disabilities.
+
+alwhite says:
+
+December 5, 2019 at 8:07 am
+
+I’d say there’s a lot of stuff to say 1943 was less accurate. Look at all the research done by the ARC. I think their work is direct evidence of being more accurate. At the very least they are being more precise; and in research, precision and reliability are prerequisites of accuracy and validity.
+
+I am also bothered by autism being a catchall for ID. My first assumption is that the diagnosis is being applied by people who don’t have the expertise to understand the difference.
+
+n8chz says:
+
+December 5, 2019 at 8:46 am
+
+Certainly the editorial policies of the news media require dual diagnosis ASD/ID when putting together inspiration porns.
+
+Anthony says:
+
+December 5, 2019 at 2:50 pm
+
+The increase in autism appears to be diagnostic substitution. https://jamanetwork.com/journals/jamapsychiatry/fullarticle/211276
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2800781/
+
+https://sciencebasedmedicine.org/the-increase-in-autism-diagnoses-two-hypotheses/
+
+Prevalence of autism is fairly uniform across age cohorts when tested today, though diagnosis of autism is greater among younger age cohorts.
+
+Peter Shenkin says:
+
+December 4, 2019 at 10:06 pm
+
+I missed your earlier posting on autism. Reading it just now, it seems to have been you who invoked multiple causes! I.e., inherited “proclivity” genes that are also responsible for high intelligence, de-novo genes which somehow lead to autism, and environmental conditions which somehow lead to autism. Be that as it may, I really don’t see why you need more than the first category to rationalize how it can be that autistic children tend to have lower intelligence while their relatives tend to have higher intelligence.
+
+First, an apology. I suppose this remark really belongs to the earlier entry, but that was then and this is now.
+
+I should mention that I and all my first cousins (on both sides of the family) have Ph.D.’s in technical areas, except for a few who merely have masters’ degrees. My younger brother was born blind and severely autistic, and so we are a family of the sort that you described.
+
+I don’t know if this is statistically established, but I observe anecdotally that it is mainly highly intelligent people who are highly neurotic. Maybe that’s an exaggeration, but it seems to me there is a correlation. If so, could not the number or (perhaps perhaps specific mix) of inherited proclivity genes from time to time exceed some threshold where the negative effects (which in mild cases lead to neurosis) lead to a decrease in function which in some cases match the symptoms we deem “autistic”?
+
+By the way, my brother is not the only example of mental illness in the family. I have at least one, and likely two, uncles on my father’s side who committed suicide. They weren’t autistic, but perhaps this analysis extends to other forms of mental illness as well.
+
+Or it could even be a situation like sickle-cell disease, where those who are heterozygous exhibit few symptoms but are significantly resistant to malaria, but those who are homozygous tend to be seriously disabled. Perhaps merely an overdose of inherited “intelligence” proclivity genes causes disability.
+
+I should say that when my brother (born in 1951) was a child, the word autistic was not in common use. He was generally deemed “emotionally disturbed” and was not seen as retarded; in fact, he seemed rather smart, when he communicated at all. My parents were aware of the work of Asperger and Kanner and took my brother to see Kanner at Hopkins. Even now, having been institutionalized and heavily medicated since 1967, he does not come across as retarded, even to the aides, though he could certainly never take an IQ test. So functionally, there’s no reason to doubt that he has the inherited “intelligence” genes; but they are largely buried, somehow, and have been from the start.
+
+Your point regarding understanding the etiology of strokes makes sense, but with regard to autism, I question whether there really is a spectrum connecting brilliant nerds who have poor social skills with people like my brother. Just how well defined is “autism”? I suspect that before we knew the biological basis of stroke, we nevertheless knew how to identify it fairly unequivocally symptomatically – though I am aware that around the edges, it can be confused with other things, like migraine.
+
+Though I have no special expertise in the area, I question whether this is true of autism. The very fact that we need a “spectrum” to describe it may very well mean that we have no idea how to describe it. In other words, I question how well defined the condition is, or whether the conditions that Asperger and Kanner studied really have anything to do with each other, though they used the same pre-existing term to describe them. Maybe the fact that they used the same term has been misleading us ever since.
+
+zluria says:
+
+December 4, 2019 at 10:09 pm
+
+Yes, but… AUTISM SPECTRUM ISN’T A REAL DISEASE!
+
+Ahem.
+
+I mean, depressed people can expect to feel sad a lot. Anxiety manifests in constant fear. Autism spectrum? Well, some people have communication issues, some are too rigid, some get overly attached to people and some don’t get attached at all, some people have very low intelligence but some are unusually intelligent, etc etc… it really seems that the differences outweigh the commonalities to a degree where saying ‘ ‘X’ is correlated with autism’ is a joke; like saying that ‘ being extremely short or being extremely tall is correslated with skill at basketball’.
+
+Aapje says:
+
+December 5, 2019 at 11:48 pm
+
+some get overly attached to people and some don’t get attached at all
+
+The latter can be caused by the former, when clinginess causes others to respond badly, which causes a great dissatisfaction with human contact.
+
+Basically, one’s comfort zone is a discomfort zone of others, causing them to push one out of their comfort zone, causing unattachment.
+
+doublebuffered says:
+
+December 4, 2019 at 10:20 pm
+
+I’ve been thinking a lot about this topic lately as it relates to my specific mess of symptoms. Reading Unlocking the Emotional Brain last week was extremely helpful, I’m working on building a self therapy model out of UtEB and it’s promising so far. And The Body Keeps the Score was very helpful in actually explaining what trauma really is, and I now understand that I experienced Actual Trauma despite never being abused.
+
+I have always been overly sensitive to conflicting sensory and social input, often crying as a child when two people were talking at the same time, textures were confusing, etc. I definitely have Sensory Processing Disorder and am on the Autism spectrum depending on which book you use. I also very much have Depression and Anxiety, where my anxiety has been diagnosed as Panic Disorder, Generalized Anxiety Disorder, and PTSD. Is there some correct diagnosis that explains everything, and my doctors have just been incompetent? No, I don’t think so.
+
+One of the best concepts I got from UtEB is that many psychiatric symptoms are actually adaptive and solving a real problem and that resonates for me. A lot of my panic/PTSD symptoms are related to my childhood emotional and social trauma. My emotional detachment comes from that that trauma and the need to deal with a really confusing sensory world. Some of my depression and anxiety comes from the genetics and/or nurturing of my mother as it is very similar to hers. But, some of my anxiety comes from learning to over-regulate my own actions to avoid causing social problems. And then I get anxiety about my depression and depression about my anxiety, and it’s all a mess.
+
+I have Depression, I have Anxiety, I sort of have Autism, and I sort of have PTSD. All 4 of those points give me possible approaches for treatment, and that’s actually what matters. It’s irrelevant to try and figure out what syndrome caused what because all of my problems are interrelated at the level of specific symptoms. Instead, I need to work on changing specific emotional learnings or chemical imbalances to improve my life the best I can.
+
+alwhite says:
+
+December 5, 2019 at 6:05 am
+
+An approach that I often work with is that the sensory issues related to autism can be traumatizing. This is a very short book but cites a lot of the relevant research.
+
+HeelBearCub says:
+
+December 4, 2019 at 10:27 pm
+
+Suppose a patient comes to you with difficulty breathing, excessive sweating, anxiety, and extreme discomfort when lying down flat. You recognize these as potential signs of pulmonary edema, ie fluid in the lungs.
+
+Perhaps I am misunderstanding something, but I think you are doing a sort of bait-and-switch here, or are weak-manning the critique.
+
+Something more like steel would grapple with the idea that depression, AFAIK, is like the set of symptoms in the first sentence. We don’t know what the corollary to “pulmonary edema” would be for depression as we don’t understand the underlying biology to the symptoms sufficiently. Other things besides pulmonary edema may cause a similar cluster of symptoms, many of these may respond well to supplemental oxygen, but that wouldn’t make all of those conditions pulmonary edema. Thus, the fact that the set of symptoms classed as depression may respond to an SSRI doesn’t mean that depression itself is necessarily a single underlying condition. This remains true even though the same underlying conditions, whatever they may be, might also each have multiple ultimate causes.
+
+Scott Alexander says:
+
+December 4, 2019 at 10:37 pm
+
+I’m not sure how I’m baiting and switching. I said things like “the biggest difference between the philosophical status of depression vs. stroke is that we know what biological process stroke corresponds to”, and tried to explore the implications of that.
+
+I agree that by coincidence there could be two completely different conditions (in the sense of this article) not intersecting at any point in the causal chain that produce the same symptoms. But I don’t think we have evidence for that in the same way we have evidence for there being many different root causes of depression, and I tried to explain some reasons not to think that.
+
+viVI_IViv says:
+
+December 5, 2019 at 7:33 am
+
+It seems to me that depression is less like pulmonary edema and more like “respiratory disorder”. With a diagnosis of pulmonary edema you are describing the proximate cause of a cluster of symptoms: fluid in the lungs. There may be multiple root causes, but the proximate cause is already actionable enough that it allows you to apply counterfactual reasoning to evaluate therapeutic interventions. A hypothetical “respiratory disorder” diagnosis would instead comprise anything from the flu, to pulmonary edema, to tuberculosis, to asthma to lung cancer. Statistically you would find that on average of all patients the symptoms improve with certain treatments: corticosteroids and oxygen generally help to some extent, but finding the right treatment for each specific patient is very much trial and error, e.g. some patients get better on antibiotics, others get better on chemotherapeutics, some patients get better on their own, some remain stable, some get worse, in some case the disorder recurs, and so on, pulmonologists are confused about what is going on, some evidence implicates autoimmunity, other implicates environmental pollution, perhaps gut bacteria are also involved, some doctors even speculate that this confusion is all due to adaptive biochemical obfuscation that evolved to resist parasite manipulation.
+
+If you argue that for mental illness this level of understanding is the best that it is currently available and it is still better than nothing for therapeutic uses, then I’d agree. But if we take the outside view of psychiatry, then its level of understanding of mental illness isn’t much better than Hippocratic humors: disorders are broad clusters of symptoms, with different, often overlapping presentations, go to ten psychiatrist with the same symptoms and you’ll get ten different diagnoses. This suggests that psychiatry does not “carve nature at its joints” and is in need of a paradigm shift.
+
+Akhorahil says:
+
+December 6, 2019 at 2:51 am
+
+‘It seems to me that depression is less like pulmonary edema and more like “respiratory disorder”. ‘
+
+This seems right to me. An edema is a specific condition (if one that can have many causes) that explains the symptoms. Meanwhile, “The reason you’re sad and tired is that you’re depressed” is just creating a label with no explanatory power – perhaps not useless, as labelling things can be productive, but even so. It’s like saying that the sleep-inducing effects of opium stem from its dormative properties.
+
+Orion says:
+
+December 6, 2019 at 5:43 am
+
+Saying “the reason you’re sad and tired is that you’re depressed” actually does have predictive power though, it’s not just relabeling. We can make predictions about your weight and appetite, for instance. We can make predictions about likely comorbid conditions. Etc.
+
+Akhorahil says:
+
+December 6, 2019 at 6:50 am
+
+Is “you are super tired and super sad all the time, but it’s not in fact depression” a conclusion that even exists? Because that’s what’s required in order for “depression” not to be merely a label.
+
+Kindly says:
+
+December 6, 2019 at 7:06 am
+
+“You are super tired and super sad all the time, because you’re working long hours at a job you hate”?
+
+acymetric says:
+
+December 6, 2019 at 7:09 am
+
+At least some people would still label that depression. Maybe more than just some.
+
+Similar (although slightly different): You are super anxious all the time because things really are falling apart around you and you have a lot to be anxious about still gets labeled as an anxiety disorder.
+
+Akhorahil says:
+
+December 6, 2019 at 7:12 am
+
+“Just because they’re out to get you does not mean you’re not paranoid”?
+
+viVI_IViv says:
+
+December 6, 2019 at 7:20 am
+
+I wouldn’t claim that depression is merely a relabeling for “sad and tired”, since it does correlate with other symptoms and treatment options, the problem is that these correlations are weak and non-causal (or at least it’s unknown to which extent they are causal).
+
+acymetric says:
+
+December 6, 2019 at 7:34 am
+
+I think “sad and tired” was just shorthand for “series of various symptoms with weak correlations and uknown causality” and not actually a claim that depression literally just means “sad and tired” or at least that’s how I read it. I don’t think it changes the point, really.
+
+cuke says:
+
+December 6, 2019 at 2:25 pm
+
+Really sad or anxious due to recent stressors in one’s life is called Adjustment Disorder in the DSM and is considered a stress disorder rather than a mood disorder, though it comes with mood features.
+
+All of the DSM diagnoses require determining whether there is some situational or medical explanation that better accounts for X list of signs and symptoms. Low thyroid can produce depressive symptoms, various gut and other infections can produce anxiety, perimenopause can produce both anxiety and depression that is hormonally-mediated, etc.
+
+So I think depression is something more than just a label and something less than a physical process like pulmonary edema. The DSM calls everything “disorders” which seems fine as long as we’re using anything out of the DSM to talk about mental health. And it really describes something like “the patterns of mental suffering that are left after we’ve eliminated all the other causes we understand.”
+
+Johnny4 says:
+
+December 5, 2019 at 10:41 am
+
+Bait-and-switch might not be the right phrase, but there does seem to be an important difference between depression and pulmonary edema. In the case of PE we have the symptoms of PE, PE itself, and the cause of PE. Your point is that, like depression, PE can be caused by various deeper underlying disorders. HeelBearCub was suggesting, however, that “depression” is more like a name for a set of symptoms, and hence analogous to the symptoms of PE rather than PE itself. (The symptoms of PE can also be caused by various underlying disorders!) That seems plausible to me too. viVI_IViv seems to be suggesting that that’s important since there are more true counterfactuals about PE than about symptoms of PE–if you have PE, such-and-such *will* help (ceteris peribus), but if you just have the symptoms, the same treatment might not help, even ceteris peribus. And that sounds a lot like our situation with depression: we don’t know stuff that *will* help (maybe other than sleep deprivation?), but we have a bunch of stuff that might help.
+
+outlace says:
+
+December 5, 2019 at 8:21 pm
+
+I agree with original poster that the analogy you make with pulmonary edema (PE) breaks down.
+
+For PE, we have observed symptoms -> proximate cause (pulmonary edema) -> root cause (a variety of things such as heart failure or ARDS)
+
+In contrast, depression is defined as a set of symptoms (not even a fixed set of symptoms, but any valid subset of 5 or more of SIGECAPS). There is no analogous proximate cause for depression corresponding to PE that has a temporizing treatment like supplemental oxygen.
+
+For anyone with PE, supplemental O2 will always help (but may not be enough), whereas for depression (which is definitionally equal to a valid subset of symptoms) we have treatments that (at this point) randomly work for about roughly 30% of patients (in the case of antidepressants and TMS).
+
+Purplehermann says:
+
+December 6, 2019 at 1:04 am
+
+The issue raised here seems to be that depression is a set of symptoms, not an actual ‘thing’ and so is different from pe, but Scott says that he thinks depression is a process, not just a set of symptoms, just like PE
+
+HeelBearCub says:
+
+December 6, 2019 at 6:18 am
+
+I most definitely did not say that depression is not a “thing”.
+
+As other commenters having pointed out, the label “depression” is analogous to “respiratory distress” rather than “pulmonary edema” in that it’s a set of symptoms. That doesn’t make “respiratory distress” any less a true descriptor of the symptoms, it just lowers its diagnostic power. Both of ,say, fibrosis and pulmonary edema will proximately cause respiratory distress. Neither is the ultimate cause.
+
+But your prognosis and treatment plan will improve if we can distinguish between fibrosis and pulmonary edema. For a variety of reasons, knowing the underlying biological mechanisms that proximately cause the respiratory distress is helpful, and also can distinguish ultimate causes.
+
+For depression at the moment we don’t really have any sort of a handle on the proximate biological cause or causes. But that doesn’t make the depression I or anyone else suffers any less real.
+
+Purplehermann says:
+
+December 7, 2019 at 9:28 am
+
+When I wrote about depression being a ‘thing’ or not, my intention was that a specific biological process maps to the set of symptoms as opposed to the sypmtoms causing eachother, I’m not saying depression is made up and didn’t think you thought that either
+
+mtl1882 says:
+
+December 4, 2019 at 10:58 pm
+
+The proponents of this view seem to think they’re speaking a shocking heresy that overturns the psychiatric establishment. But guys, we know this kind of stuff. Psychiatric diagnoses don’t have to perfectly match underlying root causes to be useful.
+
+I suspect that many people make these comments because most others they interact with do not understand or acknowledge this. And this leads those others to give advice that is exasperating to a person dealing with whatever is being discussed, propose extremely ignorant theories and easy fixes, or make insensitive comments, whether intentionally or not. The concepts certainly may be helpful in dealing with identifying and treating mental illness, but they can quickly come to seem absurd in someone’s broader understanding of life, in which they interact with people who are not psychiatrists or knowledgeable about how this works.
+
+Many people in all walks of life do understand that these are rough models, but my experience is that many more do not, or at least pretty much accept the strict model as representative of reality because we like to rely on cognitive shortcuts.
+
+pontifex says:
+
+December 4, 2019 at 10:59 pm
+
+The question is whether the groupings are useful. The old diagnosis of “consumption” grouped together a lot of issues in a not-very-helpful way. In my non-expert opinion, “depression” might be a useful grouping, but “autism” looks kind of dubious. And there seems to be very little evidence that autism is a “spectrum“. That’s like grouping together someone with the flu and someone with cancer as being on “the consumption spectrum.”. It strongly implies a common cause when used in ordinary speech.
+
+thevoiceofthevoid says:
+
+December 5, 2019 at 7:53 am
+
+Didn’t “consumption” almost always refer to the disease we now call Tuberculosis? Seems like they pretty much got it right.
+
+Konstantin says:
+
+December 4, 2019 at 11:45 pm
+
+Part of it is that back in the 90s there was a big push to label depression as a “chemical imbalance” with a discrete, biological cause. The idea was to get the public to view it as an illness, not a moral failing, and to spread the idea that someone with depression on medication is as functional as a diabetic on insulin. Now, of course, most people know that it is a lot more complex than that, but admitting that we don’t have a perfect understanding of depression is admitting weakness. There are still people out there who say things like “I knew those psychiatrists didn’t know what they were talking about, my son just needs to toughen up, he doesn’t need to take no goddamn pills.”
+
+Blueberry pie says:
+
+December 5, 2019 at 12:25 am
+
+Since you invoked the “All models are wrong, some models are useful.” quote, it is IMHO a good time review the broader thinking of George Box (the quote’s author) on what exactly follows from this:
+
+Since all models are wrong the scientist cannot obtain a “correct” one by excessive elaboration. On the contrary following William of Occam he should seek an economical description of natural phenomena. Just as the ability to devise simple but evocative models is the signature of the great scientist so overelaboration and overparameterization is often the mark of mediocrity.
+
+and
+
+Since all models are wrong the scientist must be alert to what is importantly wrong. It is inappropriate to be concerned about mice when there are tigers abroad.
+
+I find those corollaries very important and I like that your post is quite in line with those.
+
+Souce for the quotes: Box 1976, Science and statistics, Journal of the American Statistical Association, https://www.jstor.org/stable/2286841 Please don’t use sci-hub.tw/10.2307/2286841 to access the paper.
+
+eigenmoon says:
+
+December 5, 2019 at 2:19 am
+
+Fluid in lungs is objective, but a psychological condition is relative to the society. Is hikkikomori a condition of a person or a condition of the Japanese society? Is ADHD a condition of children or a condition of the school system? Can depression be viewed as the failure of the society to cheer up the individual?
+
+Most people just assume that the society is 100% sane, but come on. The largest autism advocacy organization in US is viewed by actual autists as really harmful.
+
+Now my problem with saying that autism is just like liquid in lungs is that it has a subtext of “… and the society is the reference of sanity”. As a purely mistake-theory utterance it ignores the ongoing conflict. It might be a useful view, but it needs to be specified whether it’s useful to satisfy the parents who want their kid “fixed” or it’s useful to help the kid, because those two uses are very much not the same.
+
+Nancy Lebovitz says:
+
+December 5, 2019 at 4:01 am
+
+It seems to me that there are two aspects to depression, which I’m going to call inertia (difficulty doing things) and misery. A person can have either or both and I wouldn’t be surprised to find that they’re metabolically different.. I’m admittedly leaving out the metabolic disruption part (trouble with eating and sleeping).
+
+There’s also a weird version of inertia where a person doesn’t have trouble pursuing a hobby, but finds self-care very difficult.
+
+Probably interesting in regards to root causes: A General Theory of Love— a fairly detailed look at how people need social connection (especially as infants and small children) to regulate their metabolisms. Content warning: some very squicky animal experiments.
+
+Lancelot Gobbo says:
+
+December 5, 2019 at 4:57 am
+
+Taking the phenomenological diagnostic umbrella approach can have very obvious drawbacks. Diseases that look the same may be very different, and treatments helpful to one may be harmful to others. You rightly point out ‘stroke’ is a useful category, and it is when it comes to symptoms, signs, diagnosis and rehab. But it doesn’t address cause and must not discourage us from teasing out who has berry aneurysms, atrial fibrillation and, say, giant cell arteritis. In the same way, we could continue to group ‘fevers’ as one illness as was once done, but we don’t anymore as we have enough diagnostic acumen and precise treatments for most kinds of fever.
+
+I think we know enough about autism by now to know, at least, this: there is genetic autism which is becoming slowly more prevalent, and there is brain-damage autism that is probably less prevalent since one of the causes, perinatal hypoxia, is better avoided these days than in the past. Sure, there’s plenty of overlap in the observed symptoms and signs, but it’s obvious even to the untrained eye that there are two populations. We all have come to recognise and respect the nerdy Sheldons, but they have a clearly different disorder to those who are non-verbal, intellectually handicapped, having seizures and occupy their time with self-harm. Both deserve and need care, though the latter group obviously needs more and doesn’t seem to get it being less attractive. My point is this – if we are to study autism and try to learn about it, there is little point in studies with populations including both groups as any results will be unclear given two different aetiologies and conditions that have only a superficial resemblance.
+
+alwhite says:
+
+December 5, 2019 at 5:40 am
+
+For me, the thing that sticks out like a sore thumb is that you only described biological causes of depression. All of psychotherapy works on cognitive and emotional causes. The fact that therapy works at all should suggest that we need to do a lot better at this because talk therapy will have zero impact on the examples you gave.
+
+This is the debate around the medical model of mental health. The cry for better understanding of causes is that whole classes of causes, like trauma, are excluded and the assumption is a biological process. I’ll reuse this example cause it might have been missed. In the 80s Murray Bowen cured a child with schizophrenia by treating the family’s anxiety. Did he really cure schizophrenia? Or do social and emotional problems cause similar symptoms and the child was misdiagnosed?
+
+Another example, I had a friend diagnosed with schizophrenia after they were hit by a car while biking. The medications they were given ruined their life. They went through several years of work to get off those meds and then treatment for a TBI. Today they do not have schizophrenia.
+
+This symptom only diagnosis with ignorance of non-biological causes is hurting people. It’s additionally frustrating because it appears good progress could be made if only the paradigm would shift. Example of a different paradigm being that talk therapy works. To me this causal requirement is trying to push back and say things like ODD is not a diagnosis nor a disease, it’s the understandable reaction of a child who’s been traumatized. And a more general concern, mental health more often has social and emotional causes, which are utterly ignored, and therefore the diagnosis and subsequent biological treatment don’t work and do harm.
+
+I definitely feel that including trauma into the current paradigm would dismantle a lot of the nosology in mental health and that’s why there’s such a large cry for it here and not around strokes.
+
+Aapje says:
+
+December 6, 2019 at 6:12 am
+
+talk therapy works
+
+How do we know?
+
+Talk therapy also seems to work for patients with a physical illness, whose quality of life seems to improve if they get to talk about their problems with sympathetic people (like other patients or a therapist), learn to cope better, etc.
+
+Is talk therapy then a cure for cancer? Surely not, it merely helps people cope. If a doctor would say: “talk therapy works for cancer,” surely they’d get in trouble.
+
+Yet mental care doesn’t seem to distinguish between coping and healing. Perhaps most non-medicine* mental healthcare merely helps people to cope.
+
+* and probably even part of that
+
+cuke says:
+
+December 6, 2019 at 2:40 pm
+
+I think we know that talk therapy works because we have fifty years of huge clinical trials for dozens of diagnoses comparing it to no treatment and drugs, and like drugs, it performs consistently and significantly better than no treatment.
+
+Because we are minds and bodies at the same time and illness is a stressor, it makes sense that talking to someone while having a physical illness would be helpful. We have all kinds of information about how mental stress adds acuity to physical suffering, so reducing mental stress is likely to reduce physical suffering in at least some situations if not most.
+
+Talk therapy purports to help with mental suffering — ie, the tone and contents of one’s thoughts and feelings and the behavior that flows from that. This is going to have all kinds of cross-over to physical conditions just because we are minds and bodies at the same time.
+
+I think you ask a really good question about what’s the difference between coping and healing in mental healthcare. On the medication side, most people I think would say that SSRIs, when they work, “treat” depression but do not “cure” it. Like how a medication may treat a migraine but doesn’t perhaps prevent recurring migraines.
+
+Talk therapy has this dual nature — one aspect is that it does teach people new coping tools, so instead of drinking to treat their anxiety, say, they are doing breathing exercises and cognitive interventions. The person is still having anxiety, but they are coping with it differently. But at the same time, talk therapy (or at least some forms of it) are getting to deeper schemas that people carry around and that fuel anxiety or depression. So for instance, a person can come to relate to their anxiety so differently that it no longer affects them as much. They still have their coping tools, but they also now don’t get as anxious at as many things because they relate to the whole of their experience differently. Ideally, both of those levels are working in talk therapy.
+
+This question of what’s coping and what’s healing is one I sit with almost daily in my work. I don’t have a tidy answer for when one is happening vs the other, or when one begins to shift into the other, but it feels very true to me that both things are going on to some extent with most people I work with.
+
+TJ2001 says:
+
+December 5, 2019 at 6:14 am
+
+Scott,
+
+I think it’s in the water…. I would venture to guess that the average IQ of the readers of this blog and your collegues/friends runs well over 115…
+
+And that leads to one particular idiosyncrasy…. They learn new stuff *REALLY* fast…. So when you talk about something “Interesting” – they say “Hmmm… Interesting.. I wonder about that” and go read EVERYTHING they can find on the subject for 2 or 3 weeks…. And they gain a first pass knowledge about it and enough insight to be dangerous….. Aka literally “Sophomoric”… They know enough to sound like they know something…..
+
+BUT what they don’t gain is a mastery of anything – because that takes 10,000+ hours of honest to goodness concentrated HARD WORK of doing it as a day job… You can’t gain a mastery from reading a genius polymath’s blog – you have to grind away in the trenches in real life for 3+ years professionally…
+
+And that comes out when they talk to honest to goodness practicing PROFESSIONALS who do it as a day job and have gained the true “Mastery”…
+
+The professionals want to shake them because they armchair quarterback everything without having any ACTUAL firsthand knowledge of the complexity in real life or useful professional practice…. They can send people off on plausible sounding rabbit trails and wild goose chases because they have read all this stuff and it’s in their brains….
+
+thevoiceofthevoid says:
+
+December 5, 2019 at 8:06 am
+
+While I agree overconfidence can be dangerous, in most situations I think having 2-3 weeks of research under your belt on a topic is preferable to having 0. People who haven’t researched something at all can still be overconfident in their preconceptions, and I feel like your argument discourages trying to learn anything new about anything.
+
+Also, apologies if style critiques aren’t kosher, but using ellipses in place of commas and periods as your primary punctuation mark makes your comment a lot more difficult to read. I’d recommend against the practice.
+
+alwhite says:
+
+December 5, 2019 at 8:15 am
+
+There is a phenomenon where a little knowledge is more dangerous than 0 knowledge. An idea that I work with is that learning requires accurate feedback. An expert needs to observe your work and provide feedback on if you’re on the right track or not. Self-learning lacks this feedback and it’s really easy to think you know something when you don’t.
+
+People with 2-3 weeks of self-learning find it easier to be overconfident, and they have enough information to convince all the 0 knowledge people that they know something.
+
+noyann says:
+
+December 5, 2019 at 10:36 am
+
+The feedback idea sounds sound. But don’t overlook the ‘perfidy of the object’; it is valuable feedback. Self-learning can result in a large collection of mistakes, errors, and failures — but this can be approaching ‘mastery’ from another angle.
+
+I see mastery as real-world understanding. Even deep reading does not give you experience of the 10000 ways things can (and will) go wrong for example, and teacher feedback only so much. The master has seen them or heard in detail about them from those who saw, and s/he knows the ways of how to prevent, fix, or work around them … but may find it difficult to argue against someone who is armed with all the best practices yet is unimaginative and inflexible when the rubber pushes the shove to meet the road or so.
+
+But even someone who is not a master but has seen a solid stretch of of fruitful disasters, if they can show and tell (hopefully with some colorful stories) and demonstrate what can will go wrong, they are qualified for teaching (but their CV will evoke the snide “…those who can’t, teach”), not the least for the emotional involvement. Or they can go into comedy, Tool Time style.
+
+noyann says:
+
+December 5, 2019 at 9:47 am
+
+ETA: Wonderfully off-topic. I’ll jump right in.
+
+Someone here mentioned a while ago in passing that they observed an IQ range from ~1.5 to ~2 SD where people tend to be overconfident. More details and reasons why that is so would have been very interesting.
+
+Purely as speculation, that could be the range where folks a) have enough experiences of success and knowing better than their environment that they generalize this into a felt identity of general competence and b) are not smart enough to routinely question their own heuristics and data sources. Similar to the observation [citation needed] that successful business people are easier targets for scammers than poorer people.
+
+TJ2001 says:
+
+December 5, 2019 at 10:49 am
+
++/- 1.5-2 sd of IQ encompasses approximately 80% of the population… 😉
+
+So saying “Most people are overconfident when they have a passing knowledge of something” is accurate – and also encompasses about 100% of what Scott posted…
+
+Or more simply – enough knowledge to make you dangerous but not enough to make you useful. 😉
+
+noyann says:
+
+December 5, 2019 at 10:54 am
+
+> +/- 1.5-2 sd of IQ encompasses approximately 80% of the population…
+
+Shucks. Should have been +~1.5 and +~2 SD.
+
+ETA: That’s about 4.4% of the population.
+
+Purplehermann says:
+
+December 5, 2019 at 4:11 pm
+
+I’ve heard that people who are winning (or feel they are) at things in general take more risks, people who are losing turtle down and avoid risks. (I personally am more likely to lose a game of chess on chess.con after winning three games, I take more (and less justified) risks. This is very noticeable against players with a rating significantly below mine. My IQ doesn’t change between games AFAIK.) So risk aversion/tolerance seems a more likely culprit to me if the business man/poor person thing is true.
+
+As far as the IQ range being overconfident, maybe tbey notice they’re smarter than average, but they’re not nearly smart enough to be great at thinking without plenty of experiece in a particular domain?
+
+Smarter people go off half baked too, they just seem to do much better, being smart enough to make better mental models with a similar amount of info in a new domain
+
+viVI_IViv says:
+
+December 6, 2019 at 7:45 am
+
+I’ve heard that people who are winning (or feel they are) at things in general take more risks, people who are losing turtle down and avoid risks.
+
+Yes, this seems to be related to cortisol and testosterone levels. It’s speculated that when you keep winning testosterone goes up and cortisol goes down and this makes you less risk adverse, when you lose cortisol goes up and testosterone goes down, making you more risk adverse. This can cause cycles in individual behavior. It can be further speculated that given that people are also affected by their peers’ mood and behavior, resonance can occur, possibly causing large scale boom-burst hype-hysteria cycles.
+
+Lambert says:
+
+December 6, 2019 at 1:10 am
+
+A little learning is a dangerous thing,
+
+Drink deep or taste not the Pierian spring.
+
+Aapje says:
+
+December 6, 2019 at 6:15 am
+
+@TJ2001
+
+Gaining true mastery requires a strong and well-functioning feedback mechanism. Otherwise “10,000+ hours of honest to goodness concentrated HARD WORK of doing it as a day job” can easily just make you more competent at doing things wrong.
+
+I very much doubt that mental healthcare has a strong and well-functioning feedback mechanism.
+
+TJ2001 says:
+
+December 6, 2019 at 7:52 am
+
+Professional practice for money is the ultimate winnowing fan and feedback mechanism.
+
+DinoNerd says:
+
+December 6, 2019 at 9:22 am
+
+Really? Is there some way for a prospective client to select the more competent therapist, rather than the one who’s more skilled at selling their services, but less likely to actually help them?
+
+If anything, professional practice for money selects for skills that keep the patient returning for years and years – not getting better enough to stop wanting therapy, or worse/disillusioned enough to quit outright.
+
+cuke says:
+
+December 6, 2019 at 2:58 pm
+
+I want to pose this question back and see what we make of it.
+
+Do we feel like we can make sound judgments about whether the person who cuts our hair does a good job? How about the person we go to for massage? Manicures? How about a lawyer? Real estate agent? Tax accountant? Car mechanic?
+
+I assume the answers will vary depending on what our domain specific knowledge is in these areas. Did my car mechanic intentionally break something so I’d be back in in three months or are they doing a fabulous job for me and my car’s just going through a rough patch?
+
+When I switched tax accountants after using the same person for twenty years (I do my own now btw), the new person looked at our old returns and went back and got us $5,000 from the federal government. Does that mean my old accountant was incompetent or is that just lucky or the normal range of errors?
+
+Did any of these client-based service people ask for our feedback? Do they have a regular, ongoing system for soliciting and responding to feedback? Have we found their way of getting feedback to be helpful for us individually?
+
+There are crappy therapists and mediocre therapists and really good ones, and there are really good ones who will be a bad match for you. How do we navigate this mess? I have a long list of advice I give to friends and family when they go to meet new therapists to start work on something, because I come from the field and I know some of the warning signs for bad. But ultimately, we have to be our own feedback mechanism and see for ourselves whether it’s helping. And we have to try out several different people to get a sense of what’s us and what’s the other person and what’s therapy.
+
+What we know from the research is that the client’s motivation to change and the strength of the relationship between the client and therapist are the two most important factors at play. So if a person is not highly motivated to change and they don’t really enjoy talking with their therapist, those factors are going to be way more important than whatever we might consider “mastery” for the field of psychotherapy.
+
+Murphy says:
+
+December 5, 2019 at 6:45 am
+
+On a related note, in some recent data I was helping one of my colleagues with re: alzheimer’s disease, when looking at the data we were basically chuckling that it was kinda standing out that we seemed to have 2 populations in our alzheimer patients who showed up differently in various diagnostic tests and genetic markers.
+
+It’s definitely well known that most diseases are, in reality, a few very similar looking diseases lumped together. We are untangling them and it is important to do so but the main takeaway is that any time someone is diagnosed with something I just assume that 1: it could have internal categories and 2: a look at the differential diagnosis tables will often include their real disorder somewhere in the list if it doesn’t quite fit somehow.
+
+sclmlw says:
+
+December 5, 2019 at 7:22 am
+
+Maybe part of the problem is that we have such a strong bias toward believing cause and symptom can be easily disentangled. Given the multi-causal nature of so much of human disease, the complexity of the underlying biology, and the interpersonal variability; getting a complete mechanistic explanation on an individual-to-individual basis might end up defining hundreds of different ‘disease etiologies’.
+
+We like to have a nice correlation like HIV->AIDS, variola->smallpox, or ischemia->stroke. But there’s no way to tell the difference between 1.) We haven’t yet found the One True Cause of the disease, and 2.) there is no One True Cause, just many cumulative causes. I think the tendency toward sub-division is a belief that there is indeed a One True Cause, and the problem is just that we’re confusing a bimodal distribution with a normal distribution. If we just separate out the right sub-population, we’ll suddenly see clearly and solve X% of that disease.
+
+At some point, though, you’re just going patient-by-patient solving things individually. But maybe that’s where we’ll end up. After all, it’s one of the directions cancer research is headed.
+
+TJ2001 says:
+
+December 5, 2019 at 7:32 am
+
+I was completely amazed to find out that there are several hundred to several thousand different known and studied “Palsy” conditions which include symptoms of progressing mental stupor or mental degradation that the general public lumps under the name “alzheimers”… Just like Scott’s example of strokes…
+
+But to the general public “alzheimer’s” is the blanket term for everything that results in progressive mental degradation….
+
+The most blatant example of this to me is Liver failure – which often results in progressively worsening mental stupor.. And people will say “Oh, I think Grandma has Alzheimers”…. And so they push the doctors in that direction with the whole battery of cognition tests and such.. Only to find out 2-years later that she had been suffering from NASH and the “alzheimers” was just a symptom of fatty liver cirrhosis…
+
+sclmlw says:
+
+December 5, 2019 at 8:58 am
+
+Most overweight people will develop some degree of steatohepatitis. Left for long enough this will develop into NASH and eventually cirrhosis. Since there’s no real treatment for NASH, other than to just lose the weight, is there a better approach than addressing the mental degradation symptom directly? Grandma has likely been overweight for a long time if she’s developed enough fibrosis to progress to cirrhosis, so it’s not like they’ve failed to identify the underlying cause. They just failed to treat it, since grandma is still overweight, but now her mental state is going downhill. If we can’t get her to lose the weight, we should at least try to help her not lose her mind.
+
+After all, this is basically what we do with heart disease and myriad other conditions, where the underlying problem is “if you were normal weight and had a healthy lifestyle this wouldn’t be an issue”. The top three killers in the US continue to be heart disease, diabetes, and cancer – all strongly influenced by behavior. Yet we still treat people who suffer from these conditions.
+
+TJ2001 says:
+
+December 5, 2019 at 11:25 am
+
+But sometimes it’s not…. That’s where the professional specialist has the knowledge to accept the “Its more complicated than that” where the dilettante would argue and say “Surely you are mistaken, my wife is not overweight…”
+
+sclmlw says:
+
+December 5, 2019 at 1:21 pm
+
+Of course. I’m not arguing, “doctors should only ever look at symptoms and not root causes”, any more than I think you’re trying to argue that “only root causes should ever be addressed and symptoms should always be ignored”. I’m arguing that even when we know the root cause that doesn’t necessarily lead to a good treatment other than the address the symptom approach we started with.
+
+Sometimes it does, and that’s great. But just because we know a root cause doesn’t mean we can fix or reverse the problem from there. “We found the cause of your husband’s blood loss. It appears someone chopped off his hand with a katana. This changes nothing about the expected outcome, sorry.”
+
+noyann says:
+
+December 5, 2019 at 10:43 am
+
+Once upon a time, doctors looked at the anus of the mentally ill. Want to guess why?
+
+Urzbeeubvqny fjryyvatf pna vaqvpngr fgnfvf bs gur cbegny irva gung vaqvpngrf yvire snvyher.
+
+Anatoly says:
+
+December 5, 2019 at 7:02 am
+
+Used to be that “ablepsia” was the medical term used for people who are unable to see, but nowadays we speak of “the ablepsia spectrum” and include many things under that umbrella, including notably nearsighted people, people with synesthesia, people with varying degrees of visual impairment, etc.
+
+In many ways, it’s been helpful to have the diagnosis of being “on the ablepsia spectrum”, in particular because in many places this has allowed healthcare systems to converge on standards of care and therapy for children. However, critics also point out many problems with using this umbrella concept:
+
+– The vast majority of ablepsics are nearsighted people, and then there’s also the sizable minority of people unable to see. These two subpopulations have wildly different needs (it’s quite probable that they also have wildly different etiologies, but that’s the lesser problem). The whole of the ablepsic spectrum is not precisely bimodal between these two groups, but because of their sizes it sometimes feels that way.
+
+– We speak of the epidemic of ablepsia, but because we don’t distinguish the subgroups, we don’t really understand if the growing numbers are due to people discovering their somewhat imperfect sight, or a growth in the number of people unable to see, or both and in which proportion.
+
+– There’s a lot of ablepsia activism, especially online, and almost all of it is led by nearsighted people. They protest against those who want to cure inability to see, because “ablepsia is not a disease”, and are joined in this by people with synesthesia. There’s a growing optidiversity movement.
+
+– Because so much of ablepsia is nearsightedness, which is relatively minor in its effect on the quality of life, and because eyeglasses are culturally significant, ablepsia gets further diluted via cutlural stereotypes. People who read lots of books start self-identifying as ablepics. Whole professions are casually linked to ablepsia via stereotypes, e.g. the ablepsic librarians.
+
+These are the sort of reasons that people think of when they say that ablepsia is not a unitary category and that it may be unhelpful to study it as such.
+
+thehousecarpenter says:
+
+December 9, 2019 at 2:32 pm
+
+I was wondering if it was the case that the vast majority of people diagnosed with autism are high-functioning. Well, it appears that some studies find that to be the case, others find the vast majority to be low-functioning, and averaging across these studies we can say that low-functioning and high-functioning autistics are about half-and-half. (This is defining low-functioning autism as autism plus IQ less than 70.)
+
+eqdw says:
+
+December 5, 2019 at 8:01 am
+
+> https://www.unmc.edu/media/intmed/geriatrics/reynolds/pearlcards/depression/sigecaps.htm
+
+I have never heard the acronym SIGECAPS before in my life, but it is a perfect match for what I have been going through in my life, on all eight points. I have been struggling with this for months and don’t know what to do.
+
+I have previously seen psychiatrists and therapists for depression but I have found this to be universally useless and, in several cases (usually on the therapist end), actively harmful. I have tried SSRIs in the past and they have varied from “did nothing” to “actively harmed me”. In 2015 I started on wellbutrin, and it _did_ help, but I’m still taking it so obviously I can’t start something that is already started.
+
+In the past I believed I was depressed, but the fact that the ‘typical’ treatments for depression did nothing, combined with other life details I’m not getting into, made me think that I didn’t have some mysterious mental health problem called ‘depression’, but rather just plain old regular problems that, once solved, made the ‘depression’ go away. But the extremely sudden onset of these symptoms (which, to be clear, were definitely triggered by having an extraordinarily bad year) combined with the fact that it perfectly matches your heuristic there (especially the (A); my appetite disappeared suddenly, I cut my caloric intake almost in half, and I’ve lost 7 lbs since october just by not eating), makes me think something is going on here.
+
+Given that antidepressants are not an option and therapists are not an option, what do I do?
+
+Scott Alexander says:
+
+December 5, 2019 at 9:17 am
+
+Get better antidepressants or better therapists?
+
+(I’m serious here. I don’t know how to help with the therapists, although I usually recommend Two Chairs to people who can afford them since they actually screen people beforehand for which of their therapists would be a good match. As for antidepressants, there are like a billion of them, and it sounds like of the two classes you’ve tried, one has worked, so adding on something from another class seems like a helpful experiment.)
+
+Also, keep in mind that Wellbutrin itself lowers appetite; if the appetite decreased around the same time you started Wellbutrin that might be normal.
+
+eqdw says:
+
+December 5, 2019 at 9:42 am
+
+Appetite did fall when I started wellbutrin, but that was almost 5 years ago and it has long since stabilized.
+
+It was just that one day, a few months ago, I woke up and didn’t want food. My appetite has fluctuated since then, but it has at no point come back up to normal.
+
+I’m almost considering this a silver lining, as I’m still 20 lbs away from my weight loss goal
+
+anonymousskimmer says:
+
+December 7, 2019 at 12:49 pm
+
+were definitely triggered by having an extraordinarily bad year
+
+@Anyone reading this thread:
+
+Would this not be a possible indication of “adjustment disorder” (or some similar situational disorder) instead of “depression”, and aren’t the treatments significantly different between the two?
+
+(Thanks for this post, cuke: https://slatestarcodex.com/2019/12/04/symptom-condition-cause/#comment-827194 )
+
+eqdw says:
+
+December 9, 2019 at 7:47 am
+
+For the record, I don’t believe that (most) depression is real, in the sense that I don’t believe it’s a pathology of health that has a unitary cause and that can be fixed with medicine. I believe that depression is, for the most part, a rational reaction to actual problems, making the correct treatment “fix the problem” instead of “fix the brain”.
+
+But the fact that my symptoms have nearly perfectly matched the heuristic makes me wonder if I am not completely correct
+
+Pre-emptive edit: While I believe what I believe about depression, I also believe that a) treating symptoms is a totally valid and useful thing to do; and b) taking drugs for their effects is valid, useful, and good, without making any claim about any underlying cause, effect, problem, or solution. So for example, I’m not sure I really believe that ADHD is real; I think it’s just an extreme case of ‘can’t/don’t want to concentrate’. But I also think that it’s totally valid to take stimulants to increase concentration, regardless of whether or not there is an underlying medical ‘problem’ that those stimulants are ‘fixing’. The end result fo this is that my object level beliefs and actions match people who believe in mental health disorders, but the way I get to those beliefs and actions is very different
+
+Purplehermann says:
+
+December 5, 2019 at 8:06 am
+
+Scott, why do think the symptoms network explanation is less likely now?
+
+Johnny4 says:
+
+December 5, 2019 at 10:29 am
+
+I would also like to know this–I was pretty persuaded by that post.
+
+Orion says:
+
+December 6, 2019 at 5:58 am
+
+One reason is that he finds computational explanations more convincing.
+
+Purplehermann says:
+
+December 7, 2019 at 9:31 am
+
+Is this new?
+
+DinoNerd says:
+
+December 5, 2019 at 8:50 am
+
+all models are wrong, some models are useful
+
+What I don’t know is whether categories like the current DSM’s “autistic spectrum disorder” – or whatever they’ve named it, now including everything from “classic” autism to the typical 1980s computer nerd – are really useful.
+
+On the one hand, my therapists have knowingly and explicitly picked diagnoses that would work most effectively with insurers. That’s not the kind of “useful” I think you had in mind.
+
+And on the other hand, consider flu-like symptoms rather than pulmonary edema, as perhaps a better analogy for some psychological diagnoses and syndromes. A lot of really nasty illnesses start with flu-like symptoms. Many of them are both treatable and rare. OTOH, flu itself, and for that matter the common cold, are both common and essentially untreatable, beyond the common-sense over the counter obvious. (With some exceptions for flu itself, which I believe can lead to requiring more heroic supportive treatment, though mostly the problems are with the potential complications.) Is “autism” as defined today, more like pulmonary edema, or more like the “creeping crud” (= my family’s colloquial term for flu-like symptoms)?
+
+Aminoacid says:
+
+December 5, 2019 at 9:52 am
+
+I don’t know the technical philosophy-of-medicine term for this,
+
+In Brazil, we would call this a “Syndromic Diagnosis” and the cause would be an “Etiologic Diagnosis”
+
+Alex M says:
+
+December 5, 2019 at 11:19 am
+
+Great article! I particularly agree with the speculation about how psychiatric disorders will most likely turn out to be computational logic issues.
+
+Back when I was operating adjacently to the pick-up artist community, one thing that I found very interesting was the way PUA reduced all sets of human responses to a sort of multi-choice “script.” You would say something, and then the other person would pick from a set of three options when responding. They didn’t KNOW that they were choosing from three options of course – in their own minds, they were complex people making complex decisions, and it would have been gravely damaging to their egos to realize that although the words they used were different, the responses they gave were all essentially variants of the same fundamental three choices. Can you imagine that? A choice as significant as picking out a mate, and yet most people were essentially not even putting the slightest bit of thought into it. They were making their choices entirely on autopilot, and using all of their brainpower to rationalize their own decisions to themselves. The educated people used their brains to couch their intentions in flowery language, while those with less education were more direct, but ultimately nobody was engaging their brains with the actual decision-making process; only with the rationalization thereof. I found this fascinating.
+
+Eventually I matured a bit and dropped out of the pick-up scene, but I did continue experimenting to determine whether other human decision-making processes could be reduced to simple math. What I found surprised me. It turned out that almost ALL human decision-making processes can be reduced to probabilities. This means that in aggregate, human behavior is highly predictable, because while you can never predict exactly what an individual person would do, the outcome of any crowd choices will tend to line up with a standard distribution curve. Since most elections are fairly evenly balanced through Darwinian mechanisms (long story) this means that by shifting that standard distribution curve by just a fraction of a point, you can literally change the course of history. Isn’t that interesting?
+
+Anyway, while I’ve never tested my principles in a psychiatric setting (because healing people isn’t really part of my principality), everything that Scott says lines up with my personal observations about the nature of consciousness. Great work!
+
+deciusbrutus says:
+
+December 5, 2019 at 1:02 pm
+
+I became a lot more well-functioning when I realized that other people were following branching scripts, and spent some time learning those scripts and what the options were so that I could play along.
+
+Having to deal with people who don’t know how to handle situations that go off-script (or off-flowchart) is time and labor intensive, and there’s almost always a script that gets to the desired end state faster.
+
+Purplehermann says:
+
+December 7, 2019 at 9:33 am
+
+If you know the flow charts explicitly, could you put up some examples (or better yet, real life templates) that work?
+
+deciusbrutus says:
+
+December 9, 2019 at 11:53 am
+
+Small talk:
+
+[greeting]->[acknowledgement]->[step3]->[step4]<{[step3],[business at hand]}
+
+there's literally no branching, just picking an example of the category; step3 is things of type 'how ;bout them [sports team]' or 'crazy weather today, huh'.
+
+Purplehermann says:
+
+December 9, 2019 at 3:44 pm
+
+Step 4 vs step 3?
+
+deciusbrutus says:
+
+December 9, 2019 at 5:40 pm
+
+4 is an appropriate response to 3.
+
+For example, “Let’s discuss the contract” in response to “Crazy weather this week” is a Power Move, asserting dominance and status by breaking the small talk script; doing so is of course simply following a different script, and results in friction when used by someone of insufficient power and status.
+
+I don’t label most of the nodes in my own map, and I don’t feel like going through the effort to make labels that will be understood by people who deny that there is a territory to map.
+
+Kindly says:
+
+December 5, 2019 at 2:01 pm
+
+It seems like whether someone’s response to what you say boils down to one of three options is a fact about you, not about them.
+
+For example, if I’m applying for a job, you might make me a good offer, a bad offer, or no offer at all. So in a sense, your response to my job application boils down to three choices. But from your point of view, there’s an entire spectrum of decisions – and not just in salary or benefits. You can tell me that you have a slightly different job available, or that you might have something in a few months. These seem like genuinely different options, but if I only want this specific job, and I want it now, then they are as good as “sorry, we’re not interested” to me.
+
+alwhite says:
+
+December 5, 2019 at 2:13 pm
+
+Personality tests are similar. If you decide in advance that there are only 3 options then every response will fit in your 3 options, by definition.
+
+deciusbrutus says:
+
+December 6, 2019 at 8:03 am
+
+You can make an offer, or you can decline to make an offer. You can’t invite the person you interviewed to join a bowling league, or try to sell them Avon products. (Unless it’s that kind of job interview, of course).
+
+It looks like you have a whole spectrum of choice available, but you only have a couple of axes of freedom, few enough that you can enumerate them easily.
+
+anonymousskimmer says:
+
+December 7, 2019 at 1:12 pm
+
+As a recipient of a cold-call job offer email (from a millionaire philanthropist) I declined the offer (money and personal fit), but also communicated to the offerer how delighted I was with the purposes of the new Institute he helped create, how happy I was with his interest in providing research opportunities for undergraduate students (I googled him and read an interview). And I asked whether it would be okay spreading the job offer around a few places.
+
+He responded positively and offered to add me to a list of people to be periodically updated on the Institute’s progress.
+
+So, yeah, “bowling league” it is. 😀
+
+deciusbrutus says:
+
+December 9, 2019 at 11:56 am
+
+Cold-call job offers are outside of any script I know, and millionaire philanthropists who write such emails to SSC commenters feel much more likely than average people to have autistic traits, although I’m not aware of any that I have personally interacted with.
+
+eric23 says:
+
+December 6, 2019 at 3:13 am
+
+I did continue experimenting to determine whether other human decision-making processes could be reduced to simple math. What I found surprised me. It turned out that almost ALL human decision-making processes can be reduced to probabilities.
+
+Could you share your list of the possible choices people make in each major life situation?
+
+Orion says:
+
+December 6, 2019 at 6:08 am
+
+I’m not sure how you get from “everyone responds in one of n ways” to “people act on autopilot without considering their choices.” How do you know people aren’t thinking carefully about which of those n ways they want to choose?
+
+Wrong Species says:
+
+December 6, 2019 at 6:47 am
+
+There’s a commercial that shows what would happen if people started “lagging” in the same way that computers do. The joke is that the delay the lag causes turns a typical statement someone says in to something extremely awkward. If people stopped to think about what they were going to say in the middle of a social interaction, that’s what it would look like. All socializing is about instinct and going off what the other person says. It isn’t a “rational” process and can’t be.
+
+Doesntliketocomment says:
+
+December 9, 2019 at 8:22 am
+
+I am extremely skeptical of this claim, in the same way Kindly seems to be, and you aren’t giving very much to go on. Perhaps you could give an example?
+
+Alex M says:
+
+December 9, 2019 at 12:19 pm
+
+To give you an example from a popular movie, Fight Club. The protagonist is being fired. Most people have a limited selection of “scripts” in this situation:
+
+1) Beg for their job.
+
+OR
+
+2) Gracefully accept termination.
+
+Our protagonist, however, is obviously a very enlightened rationalist who realizes that he has more options available to him than just the limited range of scripts. For example, he can:
+
+3) Beat himself up, accuse his boss of doing it, and threaten to sue the company, eventually ending up with a large cash settlement.
+
+This is a perfect example of “going off-script.” Scripts are essentially a set of behavioral expectations created by the cultural norms of society. When none of the pre-existing scripts lead you to a desirable end-state, you can simply tear up the rules and write a new script for yourself, which may or may not have better end results. Most people don’t think of this, since they are so conditioned by cultural norms that they don’t realize that stepping outside of those boundaries is an option, or that there is no benefit to obeying a cultural norm if it is disadvantageous or discriminatory against you. Why play by the rules if the game is rigged against you from the start?
+
+Another example is the French Revolution. When dealing with an oppressive class of elites, the script for the underclass is usually:
+
+1) Guilt trip them into giving you fairer treatment,
+
+OR
+
+2) Unionize for better wages
+
+However, the French people decided to go “off-script” and choose a different option:
+
+3) Kill everybody in the elite upper classes, take their stuff, install a new government of demagogues, inexplicably change your calendar, and make lots of questionable choices in your first carefree flirtation with sexy sexy democracy.
+
+Obviously going off-script doesn’t ALWAYS lead to good results, but it’s important to remember that you always have the OPTION of going off-script if the outcome of an existing script is undesirable to you. Making it clear to others that you are willing to go off-script can also be a useful negotiating tactic. For example, if the french nobility had realized that the peasantry were willing to go off-script, Marie Antoinette might have been a bit less cavalier with her remarks about eating cake.
+
+Generally speaking, the smarter and more resourceful you are, the more opportunities you have to go off-script, or to write your own scripts which you then propagate to the rest of society.
+
+Garrett says:
+
+December 5, 2019 at 12:24 pm
+
+No patient comes in saying “Doc, I’m feeling a bit pulmonary edemic today”.
+
+Maybe none of *your* patients …
+
+deciusbrutus says:
+
+December 5, 2019 at 12:57 pm
+
+Saying that psychiatric diagnoses don’t carve reality at the joints of root causes isn’t one thing, it’s several different patterns of behavior that happen to include one action. You really should identify the pattern of behavior underlying that action, rather than try to respond to many different people with different needs at once using the same response, based on a single action that they have in common.
+
+Purplehermann says:
+
+December 5, 2019 at 4:13 pm
+
+How does Aspergers fit into the condition? It seems really different. If we were looking at symptoms, ok. But as a condition it seems to be missing a very important part- learning disabilities (or intellectual disabilities? I don’t remember). It’s like depression, except you’re just sad and feel guilty, with no other symptoms.
+
+Scchm says:
+
+December 5, 2019 at 6:00 pm
+
+Thank you, Scott. An excellent post all around.
+
+The converging evidence appearing in the recent years seems to indicate that the physical substrate of this “computational disorder” (depression), and of the normal sadness as well, is the excessive glutamatergic signaling coming from lateral habenula where the inputs related to negative feedback are integrated. Even Wikipedia reflects this. Lateral habenula does appear to be the center of depressive feeling stemming from different causes, for example, from chronic pain.
+
+haxen says:
+
+December 6, 2019 at 2:13 am
+
+I like the model analogy. Makes me wonder whether it can be applied to treatments as well. E.g. Effectiveness of anti-depressants vs model goodness of fit/prediction error. I think antidepressants are around 60% successful from memory from one of Scott’s other posts? If that were a goodness-of-fit, that would not ‘explain’ the model well, more like we are missing some key predictors.
+
+Also causation of ‘conditions’ alluded to, but worth pointing out that conditions can cause other conditions and can be cyclical etc. E.g. BPD can cause depression which can exacerbate BPD. I imagine it’s hard to ‘treat’ just part of that problem without it coming back later on through feedback loops.
+
+benquo says:
+
+December 6, 2019 at 3:50 am
+
+There is a motte-and-bailey going on here: “depression” is sometimes described as a mere syndrome like you suggest, and other times – by properly credentialed authorities! – described as though it’s a root explanation. Recent example I just stumbled across on Twitter: https://twitter.com/IonaItalia/status/1202567958939222016
+
+benquo says:
+
+December 6, 2019 at 3:52 am
+
+But nobody ever bursts into neurology conferences shouting “STROKE ISN’T A REAL DISEASE, IT’S A COBBLED-TOGETHER BASKET OF MULTIPLE DIFFERENT ROOT CAUSES!” Everyone realizes that conditions are a useful intermediate level to work at.
+
+For example, everyone knows some depressions are caused by hypothyroidism, and others aren’t.
+
+If someone’s having a stroke, “having a stroke” is virtually always the correct level at which to intervene, because a stroke is the kind of syndrome that constitutes an EMERGENCY (i.e. treatment is extremely time-sensitive), regardless of the root cause. If someone is depressed due to their hypothyroidism, I’d be surprised if the harm-minimizing treatment didn’t involve treating the thyroid condition FIRST, and then checking whether the depressive syndrome stuck around before trying to treat the depression.
+
+kai.teorn says:
+
+December 6, 2019 at 7:34 am
+
+I always wondered if, instead of trying to neatly subdivide condition X into X1, X2, … Xn it might be easier to start chipping away at it one by one. So just focus on some very narrow Xk that we at the moment understand best, research its markers and treatments, and leave the rest of X as undifferentiated as it want to be, except rename it into “X except Xk”. Then repeat until nothing remains of X. Isn’t this how it’s usually done and if not, why?
+
+deciusbrutus says:
+
+December 6, 2019 at 8:07 am
+
+I’d take Xk and give it its own name, and leave X as ‘dysentery’ or some equivalent term, instead of trying to name it ‘dysentery except intestinal parasites’ (with ‘intestinal parasites) a new category X that has its own divisions of treatment).
+
+cuke says:
+
+December 6, 2019 at 3:04 pm
+
+Yes, that’s right, and I think the DSM is what’s left after what we understand has been chipped away. “Depression” is “this list of symptoms that still remain after we’ve treated or investigated every other thing that causes this list of symptoms.”
+
+Jakub Łopuszański says:
+
+December 6, 2019 at 12:37 pm
+
+As I am reading this after a day full of debugging a multithreaded bug which occurs in one machine on one particular branch, a thought came to me when looking at these diagrams:
+
+You know what causes seemingly similar machines and programs to (mis)behave in various ways? Race conditions. And I can attest that sufficiently complicated parallel system which grew organicaly for years mostly works most of the time, but sometimes, somewhere, some thread works a little too fast, or too slow and race causes various deadlocks, synchronization issues, etc.
+
+In particular the bug I’ve chased today occurred because code and machine were “too fast”… Which reminded me about the “too much IQ –> autism”.
+
+a real dog says:
+
+December 7, 2019 at 8:07 am
+
+Interesting thought, but biological systems usually are not as timing-sensitive as code. In particular, since it’s built on top of chemistry, everything happens stochastically and you need to have a plan B for things arriving earlier, later or not at all.
+
+The brain is also not clocked in the electronic circuit sense, though there are oscillations (e.g. brainwaves)… perhaps this analogy has some merit there.
+
+Anthony says:
+
+December 9, 2019 at 3:53 pm
+
+Off-topic trivia: Microsoft once produced its own flavor of Unix, called Xenix. This OS doesn’t finish booting on a 486 clocked faster than 75 MHz due to a race condition.
+
+Emby says:
+
+December 13, 2019 at 8:46 pm
+
+There is one problem with this analysis: Unlike either fluid in the lungs or depression, autism diagnoses are for life. They do not go away when your symptoms go away. I have a very concrete example of this, because my son has a diagnosis of autism which he gained at the age of three due to being
+
+– close to non-verbal
+
+– restricted and repetitive interests
+
+– unusual sensitivity to sound and sensation
+
+– other classic autism markers such as not doing joint attention, or pointing.
+
+We did a shit-ton of early intervention with him. He learned to talk, and right now is in the top 5% of his age group for language skills. Interest in a wide variety of things followed gaining the ability to talk about it. Sensitivity to sound and touch went away by itself. The only remaining ‘symptom’ of his early diagnosis is a tendency to not notice people are talking to him if he’s thinking about something else (and he self-describes as ‘massive nerd’). There is no way on this planet he would ever receive an ASD diagnosis if he were being tested right now, at age 12.
+
+And yet he still has a diagnosis. Because the theory the diagnosis is based on is that what his autism actually is, is some difference – whatever it is – in his internal brain structure which caused the symptoms in the first place. The theory goes that, just because we did a bunch of work and got rid of the symptoms, doesn’t mean that the whatever-it-is isn’t still there.
+
+Under those circumstances, it makes complete sense to point out that different people who exhibit, or USED to exhibit, different clusters of the sorts of behaviours that might get you an ASD diagnosis, almost certainly have different whatever-it-is’s and therefore it doesn’t make real sense to have that they have the “same thing”. Particularly when different people can have actual opposite symptoms that are counted as contributing to a diagnosis either way (for instance, either tactile hypersensitivity or hyposensitivity; hyperfocus or impulsivity; won’t speak or won’t shut up) and there is no specific core group of symptoms that you have to have for a diagnosis, as long as you have enough of the possible symptoms
+
+Meta
+
+Log in
+
+Entries feed
+
+Comments feed
+
+WordPress.org
+
+Beeminder's an evidence-based willpower augmention tool that collects quantifiable data about your life, then helps you organize it into commitment mechanisms so you can keep resolutions. They've also got a blog about what they're doing here
+
+Support Slate Star Codex on Patreon. I have a day job and SSC gets free hosting, so don't feel pressured to contribute. But extra cash helps pay for contest prizes, meetup expenses, and me spending extra time blogging instead of working.
+
+Altruisto is a browser extension so that when you shop online, a portion of the money you pay goes to effective charities (no extra cost to you). Just install an extension and when you buy something, people in poverty will get medicines, bed nets, or financial aid.
+
+B4X is a free and open source developer tool that allows users to write apps for Android, iOS, and more.
+
+Substack is a blogging site that helps writers earn money and readers discover articles they'll like.
+
+Giving What We Can is a charitable movement promoting giving some of your money to the developing world or other worthy causes. If you're interested in this, consider taking their Pledge as a formal and public declaration of intent.
+
+The COVID-19 Forecasting Project at the University of Oxford is making advanced pandemic simulations of 150+ countries available to the public, and also offer pro-bono forecasting services to decision-makers.
+
+Seattle Anxiety Specialists are a therapy practice helping people overcome anxiety and related mental health issues (eg GAD, OCD, PTSD) through evidence based interventions and self-exploration. Check out their free anti-anxiety guide here
+.
+
+AISafety.com hosts a Skype reading group Wednesdays at 19:45 UTC, reading new and old articles on different aspects of AI Safety. We start with a presentation of a summary of the article, and then discuss in a friendly atmosphere.
+
+Jane Street is a quantitative trading firm with a focus on technology and collaborative problem solving. We're always hiring talented programmers, traders, and researchers and have internships and fulltime positions in New York, London, and Hong Kong. No background in finance required.
+
+MealSquares is a "nutritionally complete" food that contains a balanced diet worth of nutrients in a few tasty easily measurable units. Think Soylent, except zero preparation, made with natural ingredients, and looks/tastes a lot like an ordinary scone.
+
+The Effective Altruism newsletter provides monthly updates on the highest-impact ways to do good and help others.
+
+Dr. Laura Baur is a psychiatrist with interests in literature review, reproductive psychiatry, and relational psychotherapy; see her website for more. Note that due to conflict of interest she doesn't treat people in the NYC rationalist social scene.
+
+80,000 Hours researches different problems and professions to help you figure out how to do as much good as possible. Their free career guide show you how to choose a career that's fulfilling and maximises your contribution to solving the world's most pressing problems.
+
+Metaculus is a platform for generating crowd-sourced predictions about the future, especially science and technology. If you're interested in testing yourself and contributing to their project, check out their questions page
+
+Norwegian founders with an international team on a mission to offer the equivalent of a Norwegian social safety net globally available as a membership. Currently offering travel medical insurance for nomads, and global health insurance for remote teams.

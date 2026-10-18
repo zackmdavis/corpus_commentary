@@ -1,0 +1,342 @@
+Survey Anon's Gender Blog
+
+discussing formal and, more often, informal studies of gender feelings
+
+Menu
+Skip to content
+
+Home
+
+About
+
+Contact
+
+My Surveys
+
+Search
+
+Search for:
+
+Causality is essential: Reply to MTSW on Autogynephilia
+
+January 1, 2021 / tailcalled
+
+About four years ago, Mark Taylor Saotome Westlake published “Reply to Ozymandias on Autogynephilia“, responding to Ozy’s “On Autogynephilia” blog post. In it, he argues that it is solely the correlation structure between surface-level observations that is relevant in science and creating typologies. Needless to say given my recent posts, I disagree.
+
+Sexual arousal to fantasies of being a woman is usually thought of as reflecting a sexual interest in being a woman; whose cause is unrelated to a desire to be a woman, but which has the consequence of generating a desire to be a woman, through means analogous to how other sexual interests work. (See Is autogynephilia real? The phenomenon, the construct, the theory for more details.)
+
+Ozy questions this conceptualization. The specifics of this questioning is unclear, as they do not lay out much detail in it, or much evidence for it. If I had to attempt to parse it, it would seem that Ozy is distinguishing “sexual interests” into “fetishes” and “attractions”, such that e.g. ordinary heterosexuality would be an “attraction”, but “true autogynephilia” would be a “fetish”, and where fetishes only lead to desires for actualization within narrow sexual contexts. In addition to “true autogynephilia” they then claim that arousal to fantasies about being feminized can be a manifestation of gender issues through a variety of mechanisms. I obviously doubt these ideas, but this blog post is not for criticizing them.
+
+Rather, it’s for criticizing MTSW’s response. He argues:
+
+In what way are those conceptually different things? You’re describing a.m.a.b. people engaging in what at least superficially seems like the same behavior, jacking off to the same porn and having the same fantasies. For the ones who might consider transitioning, you say that the erotic behavior “may be a manifestation of gender dysphoria” although it’s “unclear […] how exactly the link […] happens.” For the others, it’s not a manifestation of anything in particular. It’s certainly possible that autogynephilic arousal in pre-trans women and non-dysphoric men are two completely different things that happen to involve common elements (much like how MtF transsexuality itself is two completely different things that happen to involve common elements!). But what’s the specific evidence?
+
+The answer to how they are different things is straightforward enough. Ozy’s model seems to go something like this:
+
+My guess as to Ozy’s model.
+
+As you can see, true autogynephilia and sexualized gender dissatisfaction exist as different nodes in the causal graph, and therefore in Ozy’s model they are different things. Easy peasy.
+
+Now, certainly I agree with MTSW that to support this specific model, one needs some evidence, and Ozy doesn’t seem to provide that. However, without more specific evidence, the alternate hypothesis isn’t that sexual feminization fantasies reflect the single unitary concept that I described in the beginning. Instead, the baseline approach could just as well be to consider them unvalid: that it is unknown what exactly they reflect1. In fact, the main reason I don’t consider them unvalid is not because there is a lack of evidence of their invalidity, but instead because I believe we have evidence otherwise that indicates that they are a valid indicator of something akin to autogynephilia proper. Specifically, we have an understanding of how sexuality in general works and what function it serves which suggests that they would indicate a sexual interest in being a woman.
+
+But this is absolutely not a generally accepted understanding! It seems to me that it is quite common for people to come up with elaborate stories of sexuality as coping mechanisms, reflections of hidden desires, taboos, curiosity, etc.. I have not seen any particularly convincing arguments for why they should be so. But at the same time I can’t recall seeing any particularly convincing arguments for my preferred alternative hypothesis, that sexuality simply reflects sexual desires. Certainly, MTSW’s blog post doesn’t include them. Rather, these are arguments I have had to construct on my own.
+
+Ozy also dismisses any apparent typology as merely correlational, which MTSW takes issue with:
+
+“May or may not be correlated”?! That’s all you have to say?! Summarizing correlations is the entire point of making a taxonomy. Yes, psychology is complicated and people are individuals; no one is going to fit any clinical-profile stereotype exactly. But if we have studies that find correlations (not with correlation coefficients equal to one, but correlations nonetheless) between sexual orientation, age of transition, childhood femininity, and history of erotic cross-dressing—if, sheerly intuitively and anecdotally with no pretense of rigor, it seems plausible that the Laverne Cox/Janet Mock/Sylvia Rivera cluster of people is a distinct thing from the Julia Serano/Deirdre McCloskey/Caitlyn Jenner cluster of people—is it really that bad for someone to speculate, “Hey, maybe these are actually two and only two different psychological conditions with different etiologies”?
+
+Like, maybe it’s not true. Maybe there’s some other, more detailed and expansive model that makes better predictions. But what is it, specifically? What’s your alternative story?
+
+This response seems to engage in some motte/bailey’ing. It starts out arguing “summarizing correlations is the entire point of making a taxonomy”, but ends up at “maybe these are actually two and only two different psychological conditions with different etiologies”.
+
+Certainly there are some contexts where correlations are useful – e.g. making predictions. But correlations have a lot of problems. There’s no guarantee that they are stable across time, or across contexts. There’s no guarantee that they will persist after applying pressure to them. There’s no guarantee that they tell us anything about reality. And indeed this is probably why it took less than a paragraph for MTSW to switch from talking about correlations to talking about etiologies (a causal concept).
+
+There is an absolutely massive number of potential causal models that can fit to any given dataset. It’s probably fair enough to expect people to give an example of some factor, or factors, which could also account for observations. But at the same time, unless you give a strong reason to believe the model, you can’t expect people to buy it.
+
+Personally, I find the actual causality important because I am researching how gender issues work, and this is deeply dependent on understanding the causality. If autogynephilia causes gender issues, then to understand gender issues, I can look for moderators or mediators of the effect of autogynephilia on gender issues, and I can meaningfully control for autogynephilia when looking at other potential causes of gender issues. Plus merely identifying autogynephilia as a cause is real progress in understanding. On the other hand, if autogynephilia is caused by gender issues, then identifying autogynephilia seems like only a curiosity, unless it turns out to be useful for some subtle reason. (Identifying repressors? Dubious.)
+
+Others might have other priorities. One priority MTSW has is the prediction that AGPTSs are not going to be as female-typical as HSTSs. On the surface level, this might not seem to be relying as much on causality and correlations. However, as mentioned before, the idea that this is going to be a stable phenomenon does rely on causality.
+
+Even if one has some context where causation isn’t relevant, claims of causation represent burdensome details. Certainly if one is interested in information compression, one can argue that trans women behave as if a certain causal story holds – though one should be careful about making sure that they actually do this; it can be nonobvious what a theory actually predicts, and summarizing the actual phenomena may be more accurate than trying to come up with a corresponding theory.
+
+Finally, MTSW argues:
+
+But here’s the thing: you can’t mislead the general public without thereby also misleading the next generation of trans-spectrum people. So when a mildly gender-dysphoric boy spends ten years assuming that his gender problems can’t possibly be in the same taxon as actual trans women, because the autogynephilia tag seems to fit him perfectly and everyone seems to think that the “Blanchard-Bailey theory of autogynephilia” is “clearly untrue”, he might feel a little bit betrayed when it turns out that it’s not clearly untrue and that the transgender community at large has been systematically lying to him, or, worse, is so systematically delusional that they might as well have been lying. In fact, he might be so upset as to be motivated to start an entire pseudonymous blog dedicated to dismantling your shitty epistemology!
+
+Certainly, one reason that the BBL typology might be useful is that some males who are aroused by the thought of being a woman should transition, and this typology gives them an explanation of why.
+
+But so does Ozy’s proposed theory of autogynephilia sometimes being a manifestation of gender dysphoria, and sometimes being “true autogynephilia”! And this is quite a popular theory that the trans community often gives as advice to those who are questioning.
+
+In theory, perhaps, it might be that BBL can help with gender questioning more effectively. Certainly it seems like it should be able to break down the “am I trans or is it just a fetish?” question. But Ozy’s framework also sort of addresses this, by identifying the question with whether one wants to live as a woman in everyday life outside of sex. Is that a good solution? Probably not, the truth is most likely a better solution. But the choice isn’t between “autogynephilia has nothing to do with transsexuality” and “BBL is true”, there’s a whole universe of alternative options out there.
+
+As a footnote, in order for autogynephilic fantasies to be a valid measure of whether one is an autogynephile, one needs to have a definition of what autogynephilia is. While Blanchard aimed to produce such a definition (“propensity to be sexually aroused by the thought of oneself as a woman”, “love of oneself as a woman”), this definition was too vague to actually be useful. As such, autogynephilia is just reduced to a subjective judgement synthesized from fantasies and arousal patterns. This vagueness do in fact make it hard to test objectively whether someone is autogynephilic or not, which runs into the issue Ozy brought up about self-report-based theories having approaching ill-definedness once one starts bringing up lying. Ultimately lying is a thing, but Blanchardians have been ignoring the construct validation of autogynephilia for too long. And we will probably continue to ignore it unless I get it done.
+
+Share this:
+
+Share on X (Opens in new window)
+X
+
+Share on Facebook (Opens in new window)
+Facebook
+
+Like Loading...
+
+Related
+
+Uncategorized
+
+Post navigation
+
+← Reflections on a failed attempt at testing the causal relationship between autogynephilia and gender issues
+
+Controlling for the general factor of paraphilia →
+
+Leave a Reply Cancel reply
+
+Comment
+
+Name
+
+Email
+
+Website
+
+Δ
+
+Search for:
+
+Links
+
+Sexology Research Discord Server
+
+/r/Blanchardianism
+
+Thing of Things
+
+Unremediated Genderspace
+
+The Science of Changing Sex
+
+Gender Analysis
+
+Slate Star Codex
+
+Recommended Posts
+
+Towards a comprehensive study of potential psychological causes of the ordinary range of variation of affective gender identity in males
+
+Julia Serano and Jack Molay were… right all along?
+
+Autogynephilia vs pseudoautogynephilia?
+
+Meta-attraction cannot account for all autogynephiles’ interest in men
+
+A dataset of common AGP/AAP fantasies
+
+Age of onset as the origin of discrete types of gender dysphoria?
+
+Triangulating Autohomosexuality
+
+Response to Contrapoints on Autogynephilia [Partially Retracted]
+
+Is autogynephilia real? The phenomenon, the construct, the theory
+
+Sexual Orientation and Childhood Femininity
+
+Regarding Asexual AGPs
+
+Some notes on desistance research
+
+Are AGP Men Sexist? (Spoiler: No)
+
+The mathematical consequences of a toy model of gender transition
+
+Using instrumental variables to test the direction of causality between autogynephilia and gender dissatisfaction
+
+Recent Posts
+
+A factor analysis of gender issues among women
+
+My take on “Psychometric Evidence That Paraphilia Is a Natural Kind”
+
+Major survey on the HS/TS spectrum and gAyGP
+
+My model of the autogynephilia/masochism relationship
+
+Blanchardianism as a symptom of schizophrenia
+
+Recent Comments
+
+tailcalled on A factor analysis of gender is…
+
+Anonymous on A factor analysis of gender is…
+
+tailcalled on Autogynephilia and masochism:…
+
+tailcalled on My model of the autogynephilia…
+
+tailcalled on Autogynephilia and masochism:…
+
+Archive
+
+February 2026
+
+October 2025
+
+July 2025
+
+February 2025
+
+January 2025
+
+October 2023
+
+September 2023
+
+August 2023
+
+July 2023
+
+June 2023
+
+May 2023
+
+April 2023
+
+March 2023
+
+February 2023
+
+December 2022
+
+November 2022
+
+October 2022
+
+July 2021
+
+June 2021
+
+May 2021
+
+April 2021
+
+March 2021
+
+February 2021
+
+January 2021
+
+December 2020
+
+November 2020
+
+October 2020
+
+August 2020
+
+July 2020
+
+May 2020
+
+April 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+July 2019
+
+May 2019
+
+April 2019
+
+March 2019
+
+January 2019
+
+December 2018
+
+October 2018
+
+September 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+May 2018
+
+April 2018
+
+March 2018
+
+February 2018
+
+January 2018
+
+December 2017
+
+November 2017
+
+August 2017
+
+July 2017
+
+Navigation
+
+Home
+
+About
+
+Contact
+
+My Surveys
+
+Search for:
+
+Website Powered by WordPress.com.
+
+Comment
+
+Reblog
+
+Subscribe
+
+Subscribed
+
+Survey Anon's Gender Blog
+
+Join 29 other subscribers
+
+Sign me up
+
+Have a WordPress.com account? Log in now.
+
+Survey Anon's Gender Blog
+
+Copy shortlinkView post in Reader
+
+Manage subscriptionsSign upLog in
+
+Report this content
+
+Collapse this bar
+
+Loading Comments...
+
+Write a Comment...
+
+Email (Required)
+
+Name (Required)
+
+Website
+
+%d

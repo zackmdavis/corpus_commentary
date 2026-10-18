@@ -1,0 +1,264 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Unnatural Categories
+
+Eliezer Yudkowsky24 Aug 2008 1:00 UTC
+40 points
+10 comments8 min readLW linkArchive
+ThingspacePhilosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Followup to: Disguised Queries, Superexponential Conceptspace
+
+If a tree falls in the forest, and no one hears it, does it make a sound?
+
+“Tell me why you want to know,” says the rationalist, “and I’ll tell you the answer.” If you want to know whether your seismograph, located nearby, will register an acoustic wave, then the experimental prediction is “Yes”; so, for seismographic purposes, the tree should be considered to make a sound. If instead you’re asking some question about firing patterns in a human auditory cortex—for whatever reason—then the answer is that no such patterns will be changed when the tree falls.
+
+What is a poison? Hemlock is a “poison”; so is cyanide; so is viper venom. Carrots, water, and oxygen are “not poison”. But what determines this classification? You would be hard pressed, just by looking at hemlock and cyanide and carrots and water, to tell what sort of difference is at work. You would have to administer the substances to a human—preferably one signed up for cryonics—and see which ones proved fatal. (And at that, the definition is still subtler than it appears: a ton of carrots, dropped on someone’s head, will also prove fatal. You’re really asking about fatality from metabolic disruption, after administering doses small enough to avoid mechanical damage and blockage, at room temperature, at low velocity.)
+
+Where poison-ness is concerned, you are not classifying via a strictly local property of the substance. You are asking about the consequence when a dose of that substance is applied to a human metabolism. The local difference between a human who gasps and keels over, versus a human alive and healthy, is more compactly discriminated, than any local difference between poison and non-poison.
+
+So we have a substance X, that might or might not be fatally poisonous, and a human Y, and we say—to first order:
+
+“X is classified ‘fatally poisonous’ iff administering X to Y causes Y to enter a state classified ‘dead’.”
+
+Much of the way that we classify things—never mind events—is non-local, entwined with the consequential structure of the world. All the things we would call a chair are all the things that were made for us to sit on. (Humans might even call two molecularly identical objects a “chair” or “a rock shaped like a chair” depending on whether someone had carved it.)
+
+“That’s okay,” you say, “the difference between living humans and dead humans is a nice local property—a compact cluster in Thingspace. Sure, the set of ‘poisons’ might not be as compact a structure. A category X|X->Y may not be as simple as Y, if the causal link → can be complicated. Here, ‘poison’ is not locally compact because of all the complex ways that substances act on the complex human body. But there’s still nothing unnatural about the category of ‘poison’ - we constructed it in an observable, testable way from categories themselves simple. If you ever want to know whether something should be called ‘poisonous’, or not, there’s a simple experimental test that settles the issue.”
+
+Hm. What about a purple, egg-shaped, furred, flexible, opaque object? Is it a blegg, and if so, would you call “bleggs” a natural category?
+
+“Sure,” you reply, “because you are forced to formulate the ‘blegg’ category, or something closely akin to it, in order to predict your future experiences as accurately as possible. If you see something that’s purple and egg-shaped and opaque, the only way to predict that it will be flexible is to draw some kind of compact boundary in Thingspace and use that to perform induction. No category means no induction—you can’t see that this object is similar to other objects you’ve seen before, so you can’t predict its unknown properties from its known properties. Can’t get much more natural than that! Say, what exactly would an unnatural property be, anyway?”
+
+Suppose I have a poison P1 that completely destroys one of your kidneys—causes it to just wither away. This is a very dangerous poison, but is it a fatal poison?
+
+“No,” you reply, “a human can live on just one kidney.”
+
+Suppose I have a poison P2 that completely destroys much of a human brain, killing off nearly all the neurons, leaving only enough medullary structure to run the body and keep it breathing, so long as a hospital provides nutrition. Is P2 a fatal poison?
+
+“Yes,” you say, “if your brain is destroyed, you’re dead.”
+
+But this distinction that you now make, between P2 being a fatal poison and P1 being an only dangerous poison, is not driven by any fundamental requirement of induction. Both poisons destroy organs. It’s just that you care a lot more about the brain, than about a kidney. The distinction you drew isn’t driven solely by a desire to predict experience—it’s driven by a distinction built into your utility function. If you have to choose between a dangerous poison and a lethal poison, you will of course take the dangerous poison. From which you induce that if you must choose between P1 and P2, you’ll take P1.
+
+The classification that you drew between “lethal” and “nonlethal” poisons, was designed to help you navigate the future—navigate away from outcomes of low utility, toward outcomes of high utility. The boundaries that you drew, in Thingspace and Eventspace, were not driven solely by the structure of the environment—they were also driven by the structure of your utility function; high-utility things and low-utility things lumped together. That way you can easily choose actions that lead, in general, to outcomes of high utility, over actions that lead to outcomes of low utility. If you must pick your poison and can only pick one categorical dimension to sort by, you’re going to want to sort the poisons into lower and higher utility—into fatal and dangerous, or dangerous and safe. Whether the poison is red or green is a much more local property, more compact in Thingspace; but it isn’t nearly as relevant to your decision-making.
+
+Suppose you have a poison that puts a human, let’s call her Terry, into an extremely damaged state. Her cerebral cortex has turned to mostly fluid, say. So I already labeled that substance a poison; but is it a lethal poison?
+
+This would seem to depend on whether Terry is dead or alive. Her body is breathing, certainly—but her brain is damaged. In the extreme case where her brain was actually removed and incinerated, but her body kept alive, we would certainly have to say that the resultant was no longer a person, from which it follows that the previously existing person, Terry, must have died. But here we have an intermediate case, where the brain is very severely damaged but not utterly destroyed. Where does that poison fall on the border between lethality and unlethality? Where does Terry fall on the border between personhood and nonpersonhood? Did the poison kill Terry or just damage her?
+
+Some things are persons and some things are not persons. It is murder to kill a person who has not threatened to kill you first. If you shoot a chimpanzee who isn’t threatening you, is that murder? How about if you turn off Terry’s life support—is that murder?
+
+“Well,” you say, “that’s fundamentally a moral question—no simple experimental test will settle the issue unless we can agree in advance on which facts are the morally relevant ones. It’s futile to say ‘This chimp can recognize himself in a mirror!’ or ‘Terry can’t recognize herself in a mirror!’ unless we’re agreed that this is a relevant fact—never mind it being the only relevant fact.”
+
+I’ve chosen the phrase “unnatural category” to describe a category whose boundary you draw in a way that sensitively depends on the exact values built into your utility function. The most unnatural categories are typically these values themselves! What is “true happiness”? This is entirely a moral question, because what it really means is “What is valuable happiness?” or “What is the most valuable kind of happiness?” Is having your pleasure center permanently stimulated by electrodes, “true happiness”? Your answer to that will tend to center on whether you think this kind of pleasure is a good thing. “Happiness”, then, is a highly unnatural category—there are things that locally bear a strong resemblance to “happiness”, but which are excluded because we judge them as being of low utility, and “happiness” is supposed to be of high utility.
+
+Most terminal values turn out to be unnatural categories, sooner or later. This is why it’s such a tremendous difficulty to decide whether turning off Terry Schiavo’s life support is “murder”.
+
+I don’t mean to imply that unnatural categories are worthless or relative or whatever. That’s what moral arguments are for—for drawing and redrawing the boundaries; which, when it happens with a terminal value, clarifies and thereby changes our utility function.
+
+I have a twofold motivation for introducing the concept of an “unnatural category”.
+
+The first motivation is to recognize when someone tries to pull a fast one during a moral argument, by insisting that no moral argument exists: Terry Schiavo simply is a person because she has human DNA, or she simply is not a person because her cerebral cortex has eroded. There is a super-exponential space of possible concepts, possible boundaries that can be drawn in Thingspace. When we have a predictive question at hand, like “What happens if we run a DNA test on Terry Schiavo?” or “What happens if we ask Terry Schiavo to solve a math problem?”, then we have a clear criterion of which boundary to draw and whether it worked. But when the question at hand is a moral one, a “What should I do?” question, then it’s time to shut your eyes and start doing moral philosophy. Or eyes open, if there are relevant facts at hand—you do want to know what Terry Schiavo’s brain looks like—but the point is that you’re not going to find an experimental test that settles the question, unless you’ve already decided where to draw the boundaries of your utility function’s values.
+
+I think that a major cause of moral panic among Luddites in the presence of high technology, is that technology tends to present us with boundary cases on our moral values—raising moral questions that were never previously encountered. In the old days, Terry Schiavo would have stopped breathing long since. But I find it difficult to blame this on technology—it seems to me that there’s something wrong with going into a panic just because you’re being asked a new moral question. Couldn’t you just be asked the same moral question at any time?
+
+If you want to say, “I don’t know, so I’ll strategize conservatively to avoid the boundary case, or treat uncertain people as people,” that’s one argument.
+
+But to say, “AAAIIIEEEE TECHNOLOGY ASKED ME A QUESTION I DON’T KNOW HOW TO ANSWER, TECHNOLOGY IS UNDERMINING MY MORALITY” strikes me as putting the blame in the wrong place.
+
+I should be able to ask you anything, even if you can’t answer. If you can’t answer, then I’m not undermining your morality—it was already undermined.
+
+My second motivation… is to start explaining another reason why Friendly AI is difficult.
+
+I was recently trying to explain to someone why, even if all you wanted to do was fill the universe with paperclips, building a paperclip maximizer would still be a hard problem of FAI theory. Why? Because if you cared about paperclips for their own sake, then you wouldn’t want the AI to fill the universe with things that weren’t really paperclips—as you draw that boundary!
+
+For a human, “paperclip” is a reasonably natural category; it looks like this-and-such and we use it to hold papers together. The “papers” themselves play no direct role in our moral values; we just use them to renew the license plates on our car, or whatever. “Paperclip”, in other words, is far enough away from human terminal values, that we tend to draw the boundary using tests that are relatively empirical and observable. If you present us with some strange thing that might or might not be a paperclip, we’ll just see if we can use it to hold papers together. If you present us with some strange thing that might or might not be paper, we’ll see if we can write on it. Relatively simple observable tests.
+
+But there isn’t any equally simple experimental test the AI can perform to find out what is or isn’t a “paperclip”, if “paperclip” is a concept whose importance stems from it playing a direct role in the utility function.
+
+Let’s say that you’re trying to make your little baby paperclip maximizer in the obvious way: showing it a bunch of things that are paperclips, and a bunch of things that aren’t paperclips, including what you consider to be near misses like staples and gluesticks. The AI formulates an internal concept that describes paperclips, and you test it on some more things, and it seems to discriminate the same way you do. So you hook up the “paperclip” concept to the utility function, and off you go!
+
+Soon the AI grows up, kills off you and your species, and begins its quest to transform the universe into paperclips. But wait—now the AI is considering new potential boundary cases of “paperclip” that it didn’t see during its training phase. Boundary cases, in fact, that you never mentioned—let alone showed the AI—because it didn’t occur to you that they were possible. Suppose, for example, that the thought of tiny molecular paperclips had never occurred to you. If it had, you would have agonized for a while—like the way that people agonized over Terry Schiavo—and then finally decided that the tiny molecular paperclip-shapes were not “real” paperclips. But the thought never occurred to you, and you never showed the AI paperclip-shapes of different sizes and told the AI that only one size was correct, during its training phase. So the AI fills the universe with tiny molecular paperclips—but those aren’t real paperclips at all! Alas! There’s no simple experimental test that the AI can perform to find out what you would have decided was or was not a high-utility papercliplike object.
+
+What? No simple test? What about: “Ask me what is or isn’t a paperclip, and see if I say ‘Yes’. That’s your new meta-utility function!”
+
+You perceive, I hope, why it isn’t so easy.
+
+If not, here’s a hint:
+
+“Ask”, “me”, and “say ‘Yes’”.
+
+What links here?
+Cached Selves by AnnaSalamon (22 Mar 2009 19:34 UTC; 231 points)
+
+Un­nat­u­ral Cat­e­gories Are Op­ti­mized for Deception by Zack_M_Davis (8 Jan 2021 20:54 UTC; 94 points)
+
+Mag­i­cal Categories by Eliezer Yudkowsky (24 Aug 2008 19:51 UTC; 82 points)
+
+In Praise of Boredom by Eliezer Yudkowsky (18 Jan 2009 9:03 UTC; 44 points)
+
+Mo­ral­ity Isn’t Logical by Wei Dai (26 Dec 2012 23:08 UTC; 35 points)
+
+Steve_Rayhawk's comment on Cached Selves by AnnaSalamon (23 Mar 2009 9:29 UTC; 31 points)
+
+Qual­i­ta­tive Strate­gies of Friendliness by Eliezer Yudkowsky (30 Aug 2008 2:12 UTC; 30 points)
+
+Build­ing AIs that do hu­man-like philosophy by Joe Carlsmith (29 Jan 2026 17:57 UTC; 30 points)
+
+Dreams of Friendliness by Eliezer Yudkowsky (31 Aug 2008 1:20 UTC; 29 points)
+
+Vladimir_Nesov's comment on Beyond the Reach of God by Eliezer Yudkowsky (5 Oct 2008 0:11 UTC; 17 points)
+
+Build­ing AIs that do hu­man-like philosophy by Joe_Carlsmith (EA Forum; 29 Jan 2026 18:03 UTC; 16 points)
+
+Vladimir_Nesov's comment on The Mag­ni­tude of His Own Folly by Eliezer Yudkowsky (30 Sep 2008 21:01 UTC; 15 points)
+
+Zack_M_Davis's comment on Could/​would an FAI recre­ate peo­ple who are in­for­ma­tion-the­o­ret­i­cally dead by mod­ern stan­dards? by AlexMennen (22 Jan 2011 23:09 UTC; 10 points)
+
+prase's comment on Mir­a­cle Min­eral Supplement by Eliezer Yudkowsky (22 Nov 2012 0:36 UTC; 9 points)
+
+Wei Dai's comment on Mo­ral­ity Isn’t Logical by Wei Dai (29 Dec 2012 21:09 UTC; 8 points)
+
+Desrtopa's comment on Thoughts on the Sin­gu­lar­ity In­sti­tute (SI) by HoldenKarnofsky (15 May 2012 4:57 UTC; 7 points)
+
+Martin Randall's comment on Mag­i­cal Categories by Eliezer Yudkowsky (2 Jan 2025 3:00 UTC; 7 points)
+
+Three con­sis­tent po­si­tions for computationalists by dfranke (14 Apr 2011 13:15 UTC; 7 points)
+
+TurnTrout's comment on Mag­i­cal Categories by Eliezer Yudkowsky (30 Dec 2024 21:51 UTC; 6 points)
+
+[SEQ RERUN] Un­nat­u­ral Categories by MinibearRex (12 Aug 2012 5:27 UTC; 6 points)
+
+Vladimir_Nesov's comment on For The Peo­ple Who Are Still Alive by Eliezer Yudkowsky (14 Dec 2008 18:25 UTC; 5 points)
+
+Wei Dai's comment on Mo­ral­ity Isn’t Logical by Wei Dai (28 Dec 2012 20:06 UTC; 3 points)
+
+Wei Dai's comment on Be­ware Selec­tive Nihilism by Wei Dai (28 Dec 2012 20:55 UTC; 3 points)
+
+Wei Dai's comment on Three Ap­proaches to “Friendli­ness” by Wei Dai (18 Jul 2013 12:26 UTC; 3 points)
+
+Document's comment on Open Thread: April 2010, Part 2 by Unnamed (8 Apr 2010 20:56 UTC; 2 points)
+
+hairyfigment's comment on Coun­ter­ar­gu­ments to the ba­sic AI x-risk case by KatjaGrace (17 Oct 2022 21:25 UTC; 2 points)
+
+Donald Hobson's comment on Achiev­ing AI al­ign­ment through de­liber­ate un­cer­tainty in mul­ti­a­gent systems by Florian Dietz (16 Jun 2020 12:17 UTC; 2 points)
+
+Vladimir_Nesov's comment on The Mag­ni­tude of His Own Folly by Eliezer Yudkowsky (30 Sep 2008 21:04 UTC; 2 points)
+
+Document's comment on Open Thread: April 2010, Part 2 by Unnamed (8 Apr 2010 21:41 UTC; 1 point)
+
+lukeprog's comment on Philos­o­phy: A Diseased Discipline by lukeprog (28 Mar 2011 21:32 UTC; 1 point)
+
+Desrtopa's comment on Sub­jec­tive Rel­a­tivity, Time Dila­tion and Divergence by jacob_cannell (14 Feb 2011 15:38 UTC; 1 point)
+
+palladias's comment on [SEQ RERUN] Dreams of AI Design by MinibearRex (15 Aug 2012 15:50 UTC; 1 point)
+
+loqi's comment on Open Thread: July 2009 by [deleted] (8 Jul 2009 16:45 UTC; 0 points)
+
+Karl's comment on On­tolog­i­cal Cri­sis in Humans by Wei Dai (18 Dec 2012 23:15 UTC; 0 points)
+
+[deleted]'s comment on Agency and Life Domains by Gleb_Tsipursky (18 Nov 2014 8:38 UTC; 0 points)
+
+lessdazed's comment on On the un­pop­u­lar­ity of cry­on­ics: life sucks, but at least then you die by gwern (5 Aug 2011 20:06 UTC; 0 points)
+
+loqi's comment on Tak­ing Oc­cam Seriously by steven0461 (31 May 2009 0:02 UTC; 0 points)
+
+loqi's comment on The mind-killer by Paul Crowley (5 May 2009 21:20 UTC; 0 points)
+
+lessdazed's comment on Is Sunk Cost Fal­lacy a Fal­lacy? by gwern (11 Feb 2012 0:34 UTC; -1 points)
+
+Eliezer Yudkowsky24 Aug 2008 1:00 UTC
+40 points
+10 comments8 min readLW linkArchive
+ThingspacePhilosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Carl_Shulman 24 Aug 2008 2:54 UTC
+3 points
+
+0
+
+“me”
+I first try to pick out my brain to extrapolate by giving my DNA sequence, low-res scans of my brain, lifelogging records, etc. The ‘FAI’ grows until it encounters a pebblesorter superintelligence, which simulates vast numbers of entities that meet the description I gave, but which when extrapolated desperately want pebbles to be correctly sorted. The ‘FAI’ joins in the grand quest to produce correct heaps.
+
+steven 24 Aug 2008 4:00 UTC
+3 points
+
+0
+
+For those of you who aren’t convinced, here’s the case of Ronald Opus.
+
+Vladimir_Nesov 24 Aug 2008 9:17 UTC
+3 points
+
+0
+
+You normally build categories around what occurs in environment in such a way that there is little ambiguity, you choose a concept to fit the environment. When you use these categories, you don’t care about the warping of its boundary, you for example can communicate these categories without worrying that your audience will interpret the label slightly differently, because in the end both interpretations will include one and the same answer actually existing in the environment. When environment changes, you can just dream up new categories that work fine in new environment. Not so for goal-related categories. When communicating a goal, you need to communicate a concept, with all its shades of gray, not just what is designated by this concept in current environment.
+
+Ben_Jones 24 Aug 2008 10:21 UTC
+1 point
+
+0
+
+How about ‘model my brain, molecule for molecule, and work out what is right from that’? Just a thought.
+
+Would it be inappropriately cultish for me to get a “Blegg/​Rube?” t-shirt made up? If so, does anyone want one?
+
+[deleted] 24 Aug 2008 10:50 UTC
+0 points
+
+0
+
+I wouldn’t say that human is a well defined category, at least how transhumanists think of the future of humans. Poisons that will cause death in a flesher won’t have any affect on an upload in a gleisner robot. Unless you think uploads would be the same people but no longer human.
+
+Sebastian_Hagen2 24 Aug 2008 11:35 UTC
+0 points
+
+0
+
+Nitpicking your poison category:
+What is a poison? … Carrots, water, and oxygen are “not poison”. … (… You’re really asking about fatality from metabolic disruption, after administering doses small enough to avoid mechanical damage and blockage, at room temperature, at low velocity.)
+If I understand that last definition correctly, it should classify water as a poison.
+
+Caledonian2 25 Aug 2008 21:03 UTC
+−3 points
+
+0
+
+As usual, it’s dosage that makes a poison. Substances that are necessary for life (or at least our lives) will kill us if ingested in greater amounts.
+
+Hell, exposure to sufficiently concentrated oxygen will cause death—through combustion. And it’s one of our most basic necessities.
+
+The word’s target is partly determined by the context in which it is used. Remove the content, and the word cannot be meaningful.
+
+Nick_Tarleton 26 Aug 2008 1:17 UTC
+0 points
+
+0
+
+Ben: I want that shirt.
+
+Shmi 30 Dec 2012 23:51 UTC
+4 points
+
+0
+
+“Unstable category” might be a better name, given how it sensitively depends on other categories, values and other, often random, factors.
+
+[deleted] 13 Jun 2014 7:00 UTC
+−2 points
+
+0
+
+″Lumping and splitting are opposing tendencies in any discipline which has to place individual examples into rigorously defined categories. The lumper/​splitter problem occurs when there is the need to create classifications and assign examples to them, for example schools of literature, biological taxa and so on. A “lumper” is an individual who takes a gestalt view of a definition, and assigns examples broadly, assuming that differences are not as important as signature similarities. A “splitter” is an individual who takes precise definitions, and creates new categories to classify samples that differ in key ways.
+Philosophy
+
+Freeman Dyson has suggested that “observers of the philosophical scene” can be broadly, if over-simplistically, divided into splitters and lumpers, roughly corresponding to materialists, who imagine the world as divided into atoms, and Platonists, who regard the world as made up of ideas.
+Wikipedia philosophies
+
+Two of the many underlying philosophies of Wikipedia are mergism and separatism: the former defends that minor topics should be merged into the relevant main articles, while the latter advocates for splitting minor topics off into their own articles.″
+
+-Wikipedia
+
+Back to top

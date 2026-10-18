@@ -1,0 +1,939 @@
+Arch Sex Behav (2014) 43:1679–1683
+DOI 10.1007/s10508-014-0383-2
+
+COMMENTARY
+
+Veale’s (2014) Critique of Blanchard’s Typology Was Invalid
+Anne A. Lawrence
+
+Published online: 6 September 2014
+ Springer Science+Business Media New York 2014
+
+It has been 25 years since Blanchard (1989) proposed his
+typology of male-to-female (MtF) transsexualism based on
+sexual orientation. Blanchard identified two mutually exclusive types of MtF transsexuals: homosexual MtF transsexuals,
+who are sexually attracted exclusively to men (androphilic),
+and nonhomosexual MtF transsexuals, who may be sexually
+attracted to women (gynephilic), attracted to women and men
+(bisexual), or not strongly attracted to other persons of either
+sex (analloerotic: from an—‘‘without’’? allo—‘‘other’’? erotic).
+Blanchard additionally proposed that transsexualism in nonhomosexual MtF transsexuals develops as an outgrowth of their
+sexual attraction to the thought or image of themselves as women,
+a paraphilic interest that he called autogynephilia. Blanchard’s
+typology thus theorized that all homosexual MtF transsexuals are
+nonautogynephilic and that all nonhomosexual MtF transsexuals
+are autogynephilic: His two MtF transsexual types were exclusively defined by sexual orientation and the presence or absence of
+autogynephilia.
+Although Blanchard’s MtF transsexual typology offered
+significant descriptive,predictive, and heuristicvalue (Lawrence,
+2010), it has been the subject of several critiques and attempted
+refutations. In the latest of these, Veale (2014) claimed to have
+demonstrated that the composition (latent structure) of a group
+(N = 308) of MtF transsexual informants she studied was not
+taxonic with respect to self-reported autogynephilia and other
+supposedly related measures: Using these measures, Veale was
+unable to identify the existence of two distinct groups (taxa)
+
+A. A. Lawrence
+Department of Psychology, University of Lethbridge, Lethbridge,
+AB, Canada
+A. A. Lawrence (&)
+6801 28th Ave. NE, Seattle, WA 98115, USA
+e-mail: alawrence@mindspring.com
+
+among her informants, which allegedly called Blanchard’s
+typology into question. In this commentary on Veale’s article, which incorporates a reanalysis of some of her data, I will
+argue that her critique of Blanchard’s typology was invalid,
+because:
+1.
+
+Veale’s measures of sexual orientation and autogynephilia
+were not well constructed, which probably interfered with
+the accurate identification of participants’ sexual orientations and artificially lowered estimates of their autogynephilic arousal.
+2. Inhertaxometricanalysis,Vealeemployedseveralmeasures
+that were unrelated to the defining features of Blanchard’s
+typology. This rendered her analysis invalid as a confirmation or disconfirmation of Blanchard’s typology: Whatever
+typology Veale was examining, it was not Blanchard’s
+typology.
+3. Even if Veale had used well-constructed measures of
+sexual orientation and autogynephilia and had conducted
+her taxometric analysis utilizing the defining features of
+Blanchard’s typology, the number of genuinely androphilic participants she was able to recruit—probably 18
+(5.8 %) at most, and possibly even fewer—was too small to
+be reliably detectable through taxometric analysis. If the
+structure of Veale’s data appears to be dimensional rather
+thantaxonic,thisisbecauseherparticipantsconsistedalmost
+exclusively of only one of the two MtF transsexual types:
+nonhomosexuals (or nonandrophiles).
+An important limitation of Veale’s (2014) analysis—not its
+most significant shortcoming, but one nevertheless worth noting—derives from its use of poorly constructed measures of
+sexual orientation and autogynephilia. This is a limitation that
+Veale (2014) herself acknowledged (p. 1184). All eight of her
+items measuring sexual orientation (Androphilia and Gynephilia), eight of her nine items measuring Core Autogynephilia, and
+
+123
+
+1680
+
+three of her four items measuring Autogynephilic Interpersonal
+Fantasy asked informants about the amount of time during which
+they had experienced sexual attraction to a particular category of
+person or sexual arousal to a particular image of themselves (i.e.,
+never, rarely, occasionally, often, almost all the time, or all the
+time), rather than about the strength or intensity of that sexual
+attraction or sexual arousal when they were experiencing it. Even
+the most intensely androphilic, gynephilic, or autogynephilic
+persons are unlikely to experience sexual attraction to or sexual
+arousal by their preferred sexual stimuli ‘‘all the time.’’ Consequently, it is likely that Veale’s measures of sexual orientation
+and autogynephilia underestimated the intensity of sexual
+attraction or arousal that at least some of her participants experienced: Some of them probably experienced intense attraction or
+arousal to their preferred stimuli but did not experience this‘‘all the
+time’’or‘‘almost all the time.’’
+More significantly, three of the four indicator variables that
+Veale (2014) used in her taxometric analysis lacked content
+validity with respect to the fundamental typology that Blanchard (1989) described. Consequently, Veale’s analysis was
+invalid as an examination of Blanchard’s typology. Two of the
+four indicator variables that Veale employed, Attraction to
+Transgender Fiction and Attraction to Feminine Males (called
+‘‘Attraction to Femininity in Males’’ in Veale’s abstract), did
+not measure the defining elements of Blanchard’s MtF transsexual typology: that is, they did not measure either sexual
+orientation or Core Autogynephilia (the basic, unelaborated
+type of autogynephilia). Another of Veale’s indicator variables,
+Autogynephilic Interpersonal Fantasy, did measure a specialized type of autogynephilia, which involved arousal to the fantasy of being admired as a female by another person; but this was
+a type of autogynephilia that previously had been shown to be
+characteristic primarily of bisexual MtF transsexuals, not all
+nonhomosexual MtF transsexuals (Blanchard, 1989). Consequently, Autogynephilic Interpersonal Fantasy would predictably be incapable of distinguishing heterosexual or analloerotic
+MtF transsexuals from their homosexual MtF counterparts
+(Blanchard, 1989). Content validity with respect to the defining
+elements of a proposed typology is a fundamental requirement
+for the indicator variables used in taxometric analysis (Ruscio,
+Haslam, & Ruscio, 2006; Widiger, 2001), and three of Veale’s
+four indicator variables failed this test.
+Veale attempted to obfuscate this situation by alleging that the
+‘‘Attraction to Transgender Fiction and Attraction to Feminine
+Males scales … are measuring phenomena closely related to
+autogynephilia’’(p. 1184), but she offered no evidence in support
+of her contention, and, in fact, no such evidence exists. As
+Lawrenceand Bailey(2009) observedin theircritiqueofarelated
+analysis by Veale, Clarke, and Lomax (2008), there is no basis for
+‘‘including Attraction to Feminine Males and Attraction to
+Transgender Fiction in the … analysis, because neither scale
+bears any theoretical or intuitive relationship to the concept of
+autogynephilia’’ (p. 173). The scales Attraction to Feminine
+
+123
+
+Arch Sex Behav (2014) 43:1679–1683
+
+Males and Attraction to Transgender Fiction are clearly measuring something: I hypothesize that they may be providing an
+indication of the degree to which nonhomosexual MtF transsexuals are willing to candidly acknowledge some of the less
+politicized paraphilic features of their sexuality, as opposed to
+denying these features. But whatever MtF transsexual typology
+these two variables might define—if any—it is not the typology
+that Blanchard (1989) proposed.
+Moreover, even if Veale’s (2014) taxometric analysis had
+employed appropriate indicator variables, it is doubtful that it
+could have confirmed the taxonic latent structure that Blanchard
+postulated if such a structure did indeed exist, because Veale’s
+androphilic (nonautogynephilic) taxon was almost certainly too
+small to be reliably detectable via taxometric analysis. The
+limited number of informants whom Veale recruited (N = 308),
+combined with an unusually small number of persons in her
+supposed androphilic taxon (n = 36; 12 %) resulted in a data set
+that was, at best, marginally adequate for reliable taxometric
+analysis (Meehl, 1995, p. 274; Ruscio et al., 2006, pp. 66–67). It
+is highly unlikely, however, that there were 36 genuine androphiles among Veale’s informants: As I will demonstrate, it is
+fairly easy to disqualify at least half of them.
+For this demonstration, I rely on data supplied by Veale
+(personal communication, May 9, 2014) regarding the sexual
+orientation, Core Autogynephilia, and Autogynephilic Interpersonal Fantasy scores of her 308 MtF transsexual informants. In a
+few instances, non-integer data values provided by informants
+and supplied by Veale have been rounded to the nearest integer
+for ease of presentation. For information on the phrasing and
+scoring of items in the inventories generating these data, see
+Veale (2005, pp. 129, 133–135). Veale (2014) collected her data
+in two waves: initially from 184 original informants and subsequently from 124 additional ones. It is revealing to note that all 36
+informants she categorized as androphilic were recruited during
+the first wave of data collection: The fact that Veale could recruit
+124 additional informants from‘‘online forums and mailing lists
+and New Zealand transgender social and support groups’’(Veale, 2014, p. 1178) without enlisting a single informant whom
+she could classify as androphilic testifies to the rarity of androphilic MtF participants in such forums, lists, and groups. This is
+consistent with Lawrence and Bailey’s (2009) earlier suggestion
+that androphilic MtF transsexuals were likely to be uncommon
+in such settings.
+The data presented in Table 1 are from the 36 purportedly
+androphilic informants that Veale (2014) denoted using the
+symbol x in the lower right-hand corner of her Fig. 1 (p. 1180).
+I have reorganized these supposedly androphilic informants
+into three groups, based on their self-reported gynephilia
+before age 16 (‘‘degree to which, until the age of 16, you felt
+sexually attracted to females’’; Veale, 2005, p. 129) and within
+each of these groups, based on their self-reported androphilia
+before age 16 (‘‘degree to which, until the age of 16, you felt
+sexually attracted to males’’; Veale, 2005, p. 129). My reasoning
+
+Arch Sex Behav (2014) 43:1679–1683
+
+1681
+
+Table 1 Sexual orientation and autogynephilia scores of Veale’s nominally androphilic informants
+Reference
+number
+
+Veale’s informant
+number
+
+Gynephilia until
+age 16
+
+Androphilia until
+age 16
+
+Androphilia
+(total)
+
+Gynephilia
+(total)
+
+Core autogynephilia
+
+Autogynephilic
+interpersonal fantasy
+
+1
+
+47
+
+5
+
+0
+
+15
+
+8
+
+20
+
+10
+
+2
+
+30
+
+2
+
+0
+
+12
+
+4
+
+9
+
+5
+
+3
+
+104
+
+2
+
+1
+
+13
+
+4
+
+14
+
+9
+
+4
+
+27
+
+2
+
+2
+
+17
+
+5
+
+42
+
+18
+
+5
+
+83
+
+2
+
+2
+
+10
+
+3
+
+5
+
+2
+
+6
+
+84
+
+2
+
+2
+
+15
+
+2
+
+22
+
+11
+
+7
+8
+
+6
+25
+
+2
+2
+
+3
+3
+
+17
+16
+
+2
+6
+
+34
+18
+
+16
+8
+
+9
+
+71
+
+2
+
+3
+
+15
+
+5
+
+42
+
+17
+
+10
+
+111
+
+2
+
+3
+
+17
+
+2
+
+42
+
+12
+
+11
+
+14
+
+2
+
+4
+
+15
+
+7
+
+12
+
+9
+
+12
+
+119
+
+2
+
+4
+
+Means, 1–12
+
+19
+
+3
+
+28
+
+14
+
+15.1
+
+4.3
+
+24.0
+
+10.9
+
+13
+
+7
+
+1
+
+0
+
+11
+
+2
+
+37
+
+12
+
+14
+
+62
+
+1
+
+0
+
+11
+
+1
+
+18
+
+5
+
+15
+
+60
+
+1
+
+1
+
+12
+
+1
+
+39
+
+15
+
+16
+
+61
+
+1
+
+1
+
+14
+
+4
+
+7
+
+4
+
+17
+
+57
+
+1
+
+2
+
+13
+
+2
+
+0
+
+1
+
+18
+
+98
+
+1
+
+2
+
+9
+
+1
+
+0
+
+0
+
+19
+
+1
+
+1
+
+3
+
+13
+
+5
+
+0
+
+0
+
+20
+
+135
+
+1
+
+3
+
+16
+
+1
+
+10
+
+8
+
+21
+22
+
+151
+117
+
+1
+1
+
+3
+4
+
+14
+18
+
+4
+2
+
+24
+5
+
+9
+17
+
+23
+
+118
+
+1
+
+5
+
+Means, 13–23
+
+19
+
+7
+
+0
+
+10
+
+13.6
+
+2.7
+
+12.7
+
+7.4
+
+24
+
+33
+
+0
+
+0
+
+10
+
+3
+
+9
+
+3
+
+25
+
+34
+
+0
+
+0
+
+13
+
+2
+
+0
+
+0
+
+26
+
+155
+
+0
+
+2
+
+9
+
+0
+
+0
+
+2
+
+27
+
+43
+
+0
+
+3
+
+10
+
+0
+
+0
+
+0
+
+28
+
+16
+
+0
+
+5
+
+20
+
+0
+
+0
+
+4
+
+29
+
+37
+
+0
+
+5
+
+20
+
+0
+
+5
+
+18
+
+30
+
+38
+
+0
+
+5
+
+18
+
+8
+
+37
+
+13
+
+31
+
+97
+
+0
+
+5
+
+20
+
+0
+
+0
+
+0
+
+32
+
+109
+
+0
+
+5
+
+18
+
+0
+
+0
+
+0
+
+33
+
+121
+
+0
+
+5
+
+20
+
+0
+
+16
+
+11
+
+34
+
+123
+
+0
+
+5
+
+20
+
+0
+
+0
+
+2
+
+35
+
+124
+
+0
+
+5
+
+19
+
+1
+
+7
+
+12
+
+36
+Means, 24–36
+
+127
+
+0
+
+5
+
+20
+16.7
+
+0
+1.1
+
+5
+6.1
+
+17
+6.3
+
+is that some of Veale’s purported androphiles were probably
+actually pseudo-androphiles or bisexuals—that is, their fundamental sexual attraction was towards females, but at some point
+they developed a secondary sexual interest in males as a consequence of their autogynephilic sexuality—and that the easiest
+way to detect these persons would be to look for informants who
+
+reported moderate or greater levels of gynephilia or very low
+levels of androphilia or both during adolescence.
+First, consider the 12 informants with Reference numbers
+1–12 in Table 1: All reported sexual attraction to females at
+least ‘‘occasionally’’ before age 16, even though their total
+Androphilia scores were high and their total Gynephilia
+
+123
+
+1682
+
+scores were low. Not surprisingly, however, their mean Core
+Autogynephilia score—24.0—was also high, compared to a
+mean of only 19.0 in the 272 informants whom Veale categorized as nonandrophilic. Moreover, the mean Autogynephilic Interpersonal Fantasy score of these 12 informants—
+10.9—was also high, compared to a mean of only 8.2 in
+Veale’s 272 nominally nonandrophilic informants. Based on
+their early history of gynephilia and their high mean Core
+Autogynephilia and Autogynephilic Interpersonal Fantasy
+scores, I believe there is good reason to conclude that these 12
+informants were actually pseudo-androphilic or bisexual, rather
+than genuinely androphilic as Veale alleged.
+Next, consider the six informants with Reference numbers
+13–16 and 24–25 in Table 1. Although these informants reported little sexual attraction to females before age 16, they also
+reported ‘‘rarely’’ or ‘‘never’’ experiencing sexual attraction to
+males before age 16; this suggests that they developed significant sexual attraction to males rather late in life. The mean total
+Androphilia score of these six informants—11.8—was also
+somewhat lower than that of the rest of the nominally androphilic group that reported little gynephilia (Reference numbers
+17–23 and 26–36; n = 18), with a mean total Androphilia score
+of 16.4. Again not surprisingly, the mean Core Autogynephilia
+score of these 6 informants was 18.3, nearly equal to that of the
+272 nominally nonandrophilic informants, 19.0, and substantially higher than that of the rest of the nominally androphilic
+group that reported little gynephilia (n = 18), 6.1. However, the
+mean Autogynephilic Interpersonal Fantasy score of these six
+informants, 6.5, was similar to that of the rest of the nominally
+androphilic group that reported little gynephilia (n = 18), 6.9.
+Although the case here is not quite as strong as for the 12
+informants who reported significant gynephilia before age
+16, I believe that most or all of these 6 informants who rarely
+or never experienced sexual attraction to males before age 16
+were also pseudo-androphilic or bisexual, rather than genuinely androphilic as Veale alleged.
+There are also a few other specific supposed androphiles
+whose androphilia seems questionable. For example, consider
+the informant with Reference number 30, whose total Gynephilia
+score of 8 reflected her being aroused by females in her current
+sexual fantasies‘‘almost all the time,’’currently feeling sexually
+attractedtofemales‘‘occasionally,’’andhavingbeenconsciousof
+sexual arousal to females while in physical contact with them
+‘‘occasionally’’: Given her Core Autogynephilia score of 37 and
+Autogynephilic Interpersonal Fantasy score of 13, one might
+suspect that she was actually pseudo-androphilic or bisexual. Or
+consider the informants with Reference numbers 18 and 26,
+whose total Androphilia scores of 9 both reflected the identical
+pattern of only‘‘occasional’’attraction to males before age 16 and
+currently, sexual arousal to males in their current sexual fantasies
+only‘‘sometimes,’’and having been conscious of sexual arousal
+to males while in physical contact with them only‘‘occasionally’’:
+Here one might suspect mild pseudo-androphilic or bisexual
+
+123
+
+Arch Sex Behav (2014) 43:1679–1683
+
+ideation in fundamentally analloerotic individuals. The Core
+Autogynephilia scores of zero reported by these two informants
+need not give us pause, because previous research has demonstrated that denial of autogynephilic arousal is not uncommon in
+genuinely autogynephilic persons. For example, Blanchard,
+Racansky, and Steiner (1986) observed using penile plethysmography that heterosexual cross-dressing men who denied any
+history of sexual arousal with cross-dressing often displayed
+significant physiologic sexual arousal while listening to recorded descriptions of cross-dressing scenarios, in comparison to
+their response while listening to descriptions of neutral stimuli.
+More recently, Zucker et al. (2012) reported that almost half of
+the adolescent boys referred to a gender identity clinic because
+of transvestic fetishism denied any sexual arousal associated
+with cross-dressing on every item of a 10-item assessment scale,
+even though this was precisely the problem for which they were
+clinically referred.
+Although Veale’s (2014) attempted refutation of Blanchard’s
+typology was invalid—a consequence of her poorly constructed
+sexuality measures, inappropriately chosen indicator variables,
+and inability to recruit an adequate number of genuinely androphilic informants—it is not clear that any approach that relied
+primarily on self-report measures would fare much better. Denial
+of autogynephilic sexual arousal by demonstrably autogynephilic persons has been repeatedly documented (see Lawrence,
+2013, pp. 11–13), as have reports of newly arising but dubious
+androphilic attraction among formerly gynephilic MtF transsexuals (e.g., Lawrence, 2005, p. 153). These phenomena would
+seem to pose insurmountable difficulties for the accurate
+assessment of sexual orientation and autogynephilic arousal
+in MtF transsexuals by means of self-report measures. Validation or invalidation of Blanchard’s typology may require
+the development of simple and reliable objective methods for
+the assessment of sexual orientation and autogynephilic
+arousal in MtF transsexuals.
+Meanwhile, we should at least be grateful to Veale (2014) for
+collecting data that can assist future investigators in deciding
+where to look if they hope to recruit MtF transsexual populations
+that are diverse with respect to sexual orientation. Soliciting
+participants exclusively from ‘‘online forums and mailing lists
+and … transgender social and support groups’’will not guarantee
+this diversity: Veale recruited 124 consecutive informants from
+these sources without enlisting a single individual whom she
+considered to be androphilic. Investigators who want to identify
+MtF transsexual populations containing significant numbers of
+genuine androphiles must cast their nets more widely.
+
+References
+Blanchard, R. (1989). The concept of autogynephilia and the typology of
+male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+
+Arch Sex Behav (2014) 43:1679–1683
+Blanchard, R., Racansky, I. G., & Steiner, B. W. (1986). Phallometric
+detection of fetishistic arousal in heterosexual male cross-dressers.
+Journal of Sex Research, 22, 452–462.
+Lawrence, A. A. (2005). Sexuality before and after male-to-female sex
+reassignment surgery. Archives of Sexual Behavior, 34, 147–166.
+Lawrence, A. A. (2010). Sexual orientation versus age of onset as bases
+for typologies (subtypes) of gender identity disorder in adolescents
+and adults. Archives of Sexual Behavior, 39, 514–545.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. New York: Springer.
+Lawrence, A. A., & Bailey, J. M. (2009). Transsexual groups in Veale
+et al. (2008) are‘‘autogynephilic’’and‘‘even more autogynephilic’’
+[Letter to the Editor]. Archives of Sexual Behavior, 38, 173–175.
+Meehl, P. E. (1995). Bootstrap taxometrics: Solving the classification
+problem in psychopathology. American Psychologist, 50, 266–274.
+Ruscio, J., Haslam, N., & Ruscio, A. M. (2006). Introduction to the
+taxometric method: A practical guide. Mahwah, NJ: Lawrence
+Erlbaum Associates.
+
+1683
+Veale, J. F. (2005). Love of oneself as a woman: An investigation into the
+sexuality of transsexual and other women. Unpublished Master’s
+thesis, Massey University, Auckland, New Zealand. Available at
+http://www.jaimieveale.com/publications/Masters.pdf.
+Veale, J. F. (2014). Evidence against a typology: A taxometric analysis
+of the sexuality of male- to-female transsexuals. Archives of Sexual
+Behavior, 43, 1177–1186.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-tofemale transsexuals. Archives of Sexual Behavior, 37, 586–597.
+Widiger, T. A. (2001). What can be learned from taxometric analyses?
+Clinical Psychology: Science and Practice, 8, 528–533.
+Zucker, K. J., Bradley, S., Owen-Anderson, A., Kibblewhite, S. J.,
+Wood, H., Singh, D., & Choi, K. (2012). Demographics, behavior
+problems, and psychosexual characteristics of adolescents with
+gender identity disorder or transvestic fetishism. Journal of Sex and
+Marital Therapy, 38, 151–189.
+
+123
+
+

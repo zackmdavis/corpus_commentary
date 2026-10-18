@@ -1,0 +1,1768 @@
+Archives of Sexual Behavior
+https://doi.org/10.1007/s10508-023-02647-x
+
+SPECIAL SECTION: THE PUZZLES OF SEXUAL ORIENTATION AND GENDER DIVERSITY
+
+Elaborating and Testing Erotic Target Identity Inversion Theory
+in Three Paraphilic Samples
+J. Michael Bailey1
+
+· Kevin J. Hsu2 · Henry H. Jang3
+
+Received: 2 April 2023 / Revised: 2 June 2023 / Accepted: 7 June 2023
+© The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023
+
+Abstract
+Some men sexually attracted to types of persons (e.g., women) or things (e.g., animals) also have internalized sexual attractions: sexual arousal by the idea of being the type of person or thing to whom they are attracted. Consequently, some of these
+men develop erotic target identity inversions, in which they imitate, yearn to be, or identify as an instance of their erotic target.
+Erotic Target Identity Inversion Theory predicts that for every external erotic target to which men are attracted, a subset of
+men will develop an internalized sexual attraction, which may cause an erotic target identity inversion. We examined these
+predictions in Internet surveys of three samples of men with paraphilic sexual interests: 322 men attracted to amputees, 1501
+men attracted to animals, and 402 men attracted to severely obese persons. All samples included substantial minorities of men
+reporting internalized sexual attractions and erotic target identity inversions specific to their external sexual attractions (e.g.,
+men attracted to amputees who are also aroused by the fantasy of being amputees and wish to become amputees). The correlation between degree of each internalized sexual attraction and degree of its corresponding erotic target identity inversion
+was approximately 1.0 after correction for attenuation. In each sample, participants’ specific internalized sexual attraction
+was positively correlated with autogynephilia, likely the most common internalized sexual attraction in men. Erotic Target
+Identity Inversion Theory can potentially explain a variety of otherwise puzzling phenomena, including transgender identity
+among female-attracted natal males and men seeking amputations of healthy limbs.
+Keywords Paraphilias · Erotic target identity inversions · Erotic target location errors · Autogynephilia · Apotemnophilia ·
+Autozoophilia · Autolipophilia · Sexual orientation
+
+Introduction
+In a seminal article, Freund and Blanchard (1993) discussed
+how some male paraphilias can be conceptualized as erotic
+target location errors. Erotic target location errors consist
+of a mislocation of an external erotic target. For example,
+some heterosexual men mislocate their attraction to women,
+who comprise their external erotic target, from women’s
+primary and secondary sexual characteristics onto women’s
+clothing (e.g., panties) or non-sexual body parts (e.g., feet).
+* J. Michael Bailey
+jm-bailey@northwestern.edu
+1
+
+Department of Psychology, Northwestern University, 2029
+Sheridan Rd., Evanston, IL 60208, USA
+
+2
+
+Department of Psychological and Social Sciences,
+Pennsylvania State University, Abington, PA, USA
+
+3
+
+Department of Psychological and Brain Sciences, Texas
+A&M University, College Station, TX, USA
+
+Other heterosexual men mislocate their erotic target within
+themselves, resulting in autogynephilia, sexual arousal by
+the idea of being a woman (Blanchard, 1989a, 1991). The
+novel contribution of Freund and Blanchard’s (1993) article
+was the proposal that erotic target location errors also occur
+among men with atypical external erotic targets. For example, the article included several illustrative case vignettes of
+pedophilic men sexually aroused by the idea of being children
+and who imitated them or wished to become like them. It also
+described a young man who had the strong erotic desire to
+be a cartoon animal called “Puppy Smith.” Freund and Blanchard named erotically motivated desires to assume alternative identities erotic target identity inversions.
+Although their observations were novel and striking,
+Freund and Blanchard (1993) did not provide an elaborate
+theory. They merely offered: “This theory predicts that, for
+every class of sexual object, there will be small subgroups
+of men who develop fetishes for clothing associated with the
+desired object, who develop the erotic fantasy of being the
+
+13
+
+Vol.:(0123456789)
+
+Archives of Sexual Behavior
+Fig. 1  Path model of erotic
+target identity inversion
+theory. Note. Latent variables
+are enclosed by ovals, and
+indicator/measured variables
+by rectangles. Residual paths
+indicating unspecified causes
+of downstream latent variables
+are indicated by lone arrows.
+Residual paths into observed
+variables and the most upstream
+latent variable have been
+omitted from the figure but are
+assumed by the model
+
+desired object, and who develop the sustained wish to transform their own bodies into facsimiles of the desired object”
+(p. 562). That is, they predicted that analogous erotic target
+location errors and erotic target identity inversions exist for
+all external erotic targets.
+The concept of erotic target identity inversions has influenced two strands of subsequent research. First, research
+supporting the validity of autogynephilia and its importance for understanding gender dysphoria has emphasized
+this perspective (although not always explicitly referring to
+“erotic target identity inversions”) (Blanchard, 1992, 1993c;
+Hsu et al., 2015, 2017; Lawrence, 2004, 2007, 2009b, 2010,
+2013, 2017). Second, researchers have tried to identify other
+phenomena besides autogynephilia that might cause erotic
+target identity inversions. For example, Lawrence (2006)
+proposed that men seeking amputations of healthy limbs are
+sexually aroused by the idea of being amputees and motivated by erotic target identity inversions. Consistent with
+the concept of erotic target identity inversions, Lawrence
+observed that most men seeking amputations in a study by
+First (2005) were also preferentially attracted to amputees.
+Lawrence (2009a) also presented a case report of a man who
+was sexually aroused by the fantasy of being an attractive
+and muscular man, the same kind of person to whom he was
+sexually attracted.
+Hsu and Bailey (2017) conducted a systematic study of
+erotic target identity inversions among pedophilic men. Consistent with Freund and Blanchard’s (1993) case vignettes,
+the study found a subgroup of men sexually aroused by the
+idea of being children, and who also engaged in activities
+imitating them. Hsu and Bailey (2019) also studied erotic
+target identity inversions in male furries, members of a
+
+13
+
+community broadly interested in cartoon animals. Most furries in their study were both sexually attracted to cartoon
+animals and sexually aroused by the fantasy of being such
+animals. Furthermore, many imitated cartoon animals by
+adopting online identities of themselves as cartoon animals
+(fursonas) or dressing as cartoon animals in real life (fursuiting). Brown et al. (2020) surveyed a large sample of men
+and women recruited indiscriminately from the Internet and
+found evidence consistent with several erotic target identity
+inversions.
+In this article, we extend Freund and Blanchard’s (1993)
+concept of erotic target identity inversions into a more elaborate theory and test some aspects of the theory using three
+distinct paraphilic samples: men with acrotomophilia (attraction to amputees), zoophilia (attraction to nonhuman animals), or lipophilia (attraction to severely obese persons).
+
+A Theory of Erotic Target Identity Inversions
+Figure 1 presents the key aspects of our current theory of
+erotic target identity inversions (henceforth, Erotic Target
+Identity Inversion Theory) that we investigate herein. Like
+Freund and Blanchard (1993), we restrict our theory to natal
+males, because the relevant phenomena have been observed
+primarily among them. Whether the theory also applies to
+natal females is an empirical question to be investigated in
+future research. The theory presented in Fig. 1 is necessarily
+incomplete, but we hope that its specification will inspire
+other researchers to test it and add to it.
+The relevant prediction from Freund and Blanchard
+(1993)––that some men with specific sexual interests will
+develop erotic target identity inversions––also follows from
+
+Archives of Sexual Behavior
+
+our current theory. But our theory is somewhat more detailed
+than that offered by Freund and Blanchard. The theory is
+presented as a structural equation model, with both latent
+variables (in ovals) and observed variables (in rectangles).
+The observed variables represent a subset of relevant measurable variables, rather than a complete set. We do not present
+this model as one to be thoroughly tested herein. Indeed, we
+doubt that a single study can test the full model. Rather, we
+offer it as our understanding of the current state of research,
+and to clarify some of our later analyses. Below, we discuss
+each aspect of the model.
+External Sexual Attraction
+A man’s external sexual attraction is the general type of person or thing to whom he is sexually attracted. “External”
+refers to the existence of the person or thing (or in some
+cases, as in cartoon animals, the idea of a person or thing)
+outside of the man. That is, an external sexual attraction does
+not include a man’s sexual fantasies about being that kind
+of person or thing. Men’s external sexual attractions can be
+assessed by asking about their sexual fantasies, in general and
+especially during masturbation, and often by their choice of
+pornography. The most common external sexual attraction
+for men is women. A less common attraction is men. Some
+other external attractions include children (varying by sex
+and maturity; Bailey et al., 2016, 2021), cartoon animals (Hsu
+& Bailey, 2019), and the three unusual interests studied in
+this research: amputees, animals, and severely obese persons.
+Internalized Sexual Attraction
+Unlike Freund and Blanchard (1993) and to our knowledge
+other researchers, we distinguish between internalized sexual attractions and erotic target identity inversions. By our
+model, external sexual attractions cause specific internalized
+sexual attractions, which cause erotic target identity inversions (see Fig. 1 and below). A specific internalized sexual
+attraction comprises sexual arousal by the fantasy of being, or
+act of imitating, a man’s external sexual attraction. “Specific”
+indicates correspondence between a man’s external sexual
+attraction and his internalized sexual attraction. The best documented example is autogynephilia, which is an internalized
+sexual attraction that occurs among men sexually attracted to
+women (Blanchard, 1991, 1993a; Freund & Blanchard, 1993;
+Lawrence, 2007). Most autogynephilic males are attracted to
+women (their external sexual attraction), and they are also
+sexually aroused by the idea of being women, or the act of
+imitating women.1
+1
+One complication is that if an internalized sexual attraction is especially strong, this may prevent sexual attraction to any external erotic
+target. (Lack of sexual interest in others is analloeroticism.) This has
+been observed among autogynephilic males, some of whom identify
+
+Our model postulates that external sexual attractions cause
+specific internalized sexual attractions. However, this does
+not imply that external sexual attractions develop prior to
+internalized ones. Autogynephilia, for example, is typically
+first evident in adolescence with the onset of strong sexual
+feelings (Lawrence, 2013). Furthermore, there is evidence
+that autogynephilia can sometimes be observed in early childhood (Stoller, 1985; Zucker & Blanchard, 1997). The causal
+assumption of the path reflects our interpretation of Freund
+and Blanchard’s (1993) words: “for every class of sexual
+object, there will be small subgroups of men…who develop
+the erotic fantasy of being the desired object” (p. 562). Having a particular external sexual attraction is a necessary but
+not sufficient cause of having a specific internalized sexual
+attraction. We would speculate that development of a specific
+internalized sexual attraction requires the neural substrate of
+the corresponding external sexual attraction. The converse
+is not true.
+Estimating the path coefficient, a, requires a representative
+sample of men unselected for any external sexual attraction.
+That is not the approach we have taken in the current study,
+however. Rather, we recruited three samples with specific
+external sexual attractions, guaranteeing that each will have
+a restricted range for that variable.
+Although our sampling strategy of focusing on three different samples with specific external sexual attractions precludes accurate estimation of path coefficient, a, the importance of the path can be demonstrated indirectly. Each of the
+three samples should have more men with the internalized
+sexual attraction specific to their external sexual attraction
+than with the internalized sexual attraction corresponding
+to the other studied external sexual attractions. For example, men attracted to amputees should have a higher rate
+of apotemnophilia (sexual arousal by the idea of being an
+amputee) than of autozoophilia (sexual arousal by the idea
+of being an animal) or autolipophilia (sexual arousal by the
+idea of being obese).
+The residual path with coefficient c represents the fact
+that an external sexual attraction is not, by itself, sufficient
+to cause an internalized sexual attraction. This is necessary
+because, for example, most female-attracted men are not
+autogynephilic. One candidate cause through the residual
+
+Footnote 1 (continued)
+as asexual (Blanchard, 1989a). Both Blanchard and we believe that
+analloerotic autogynephilic males are like males attracted to women,
+and that the former would express attraction to women if the internalization of their autogynephilia was less complete. Strictly speaking, this
+means that our first latent variable, “External Sexual Attraction” might
+be more accurately renamed “Propensity to Have a Specific External
+Sexual Attraction.” However, in the current research, we recruited participants who had specific external sexual attractions, and so none were
+analloerotic.
+
+13
+
+Archives of Sexual Behavior
+
+pathway is paraphilic vulnerability, which we discuss later.
+For the same reason, we were not able to estimate path coefficient a, we were also unable to estimate path coefficient c,
+which is a direct function of a.
+Erotic Target Identity Inversion
+An erotic target identity inversion is present to the extent that
+a man imitates, wishes to become, identifies as, or is unhappy
+by his inability to become, a member of the class comprising
+his external sexual attraction. For example, some autogynephilic males enjoy cross-dressing as women, even when
+cross-dressing is not conducted for sexual reasons (Blanchard, 1991; Blanchard et al., 1986; Hsu et al., 2015, 2017;
+Lawrence, 2013). Others assume a female identity when
+cross-dressing. Still others assume a more permanent female
+identity, legally changing their names and always dressing in
+women’s clothing. Some autogynephilic males undergo sex
+reassignment surgery, acquiring breast implants and neovaginas (Blanchard, 1991; Lawrence, 2004, 2017). Some other
+autogynephilic males who do not undergo medical or social
+transition experience frustration and unhappiness in the form
+of gender dysphoria (Blanchard, 1993c; Hsu et al., 2015;
+Lawrence, 2007, 2013). The feelings and behaviors we have
+mentioned all indicate some degree of interest in acquiring
+the identity of their erotic target.
+Erotic target identity inversions are distinct from specific
+internalized sexual attractions, which manifest as sexual
+desire, fantasy, or orgasmic impetus. For example, it is common for autogynephilic males whose adolescent cross-dressing was invariably combined with masturbation to experience
+less sexual arousal cross-dressing during adulthood (Lawrence, 2013). Both Blanchard (1991) and Lawrence (2007)
+have hypothesized that this change is akin to the process by
+which many heterosexual men become less erotically focused
+on, and more emotionally attached to, their romantic partners.
+In our model, erotic target identity inversions are caused
+by specific internalized sexual attractions. Our justification includes the temporal process common among autogynephilic males, by which sexual arousal by the idea of being
+a woman is gradually replaced by (or supplemented with)
+emotional attachment to that idea:
+[A]utogynephilic men typically develop strong, persistent cross-gender identities only after years or decades of experience with cross-dressing. Once this has
+occurred, however, these cross-gender identities feel
+like and operate as powerful forces in the lives of the
+autogynephilic transsexuals who experience them. In
+particular, these cross-gender identities become strong
+enough to withstand the temporary reduction in autogynephilic arousal that follows orgasm (Lawrence,
+2013, p. 148).
+
+13
+
+A second justification for believing that internalized sexual attractions cause erotic target identity inversions rather
+than the reverse is the fact that adolescent boys have a variety
+of strong identities (as fans of sports teams or music groups,
+for example) and identity-related fantasies (to become actors,
+astronauts, athletes, doctors, and lawyers, among many others), but there is no evidence that most of these identities and
+fantasies are sexually arousing.
+Our model allows for variation in the degree of both specific internalized sexual attractions and erotic target identity inversions among men who have them. For example,
+some men may experience rare and weak sexual arousal due
+to the fantasy of being an instance of their external sexual
+attraction (e.g., a female-attracted man fantasizing that he is
+a woman), while others may experience frequent or powerful
+sexual arousal due to this fantasy. Similarly, some men may
+have rare and inconsequential wishes or desires to become
+an instance of their external sexual attraction, while others
+may have frequent or overwhelming wishes or desires. The
+path coefficient b reflects the association in magnitude (from
+absent to strong) between specific internalized sexual attractions and their erotic target identity inversions.
+The residual path with coefficient d represents causes of
+erotic target identity inversions aside from internalized sexual
+attractions. The importance of this path is inversely related to
+the path coefficient b. To the extent that b is large, d must be
+small. We did not have prior hypotheses regarding factors that
+might contribute to this path and did not formally examine
+any such factors.
+Are Acrotomophilia, Zoophilia, Lipophilia, and Internalized
+Sexual Attractions Paraphilias?
+Paraphilias are widely understood to be unusual sexual interests. But is that all they are? On the one hand, some writers have argued that “paraphilia” is a scientifically empty
+concept that is applied to certain sexual interests to express
+disapproval (e.g., Moser & Kleinplatz, 2020). On the other
+hand, there is a more scientifically interesting understanding of “paraphilia”: Different paraphilias are not merely rare
+but share important characteristics, including causes (e.g.,
+Bailey & Hsu, 2017). This stronger version of “paraphilia”
+is supported by two strands of evidence.
+First, most paraphilias are much more common among
+men than among women (Bártová et al., 2021; Baur et al.,
+2016; Bhugra et al., 2010; Dawson et al., 2016; Joyal &
+Carpentier, 2017). This fact underlies our decision to focus
+most of our analyses on natal males. (Although natal females
+were excluded from this study, we will analyze their data in
+a future study.)
+Second, some paraphilias tend to co-occur more often than
+would be expected by chance (Abel & Osborn, 1992; Bártová
+et al., 2021; Dawson et al., 2016; Långström & Seto, 2006;
+
+Archives of Sexual Behavior
+
+Långström & Zucker, 2005). For example, one study found
+that approximately 40% of men who died accidentally during
+autoerotic asphyxia (an activity motivated by masochism)
+were cross-dressed, wearing make-up, or showing some
+other indication of autogynephilia (Blanchard & Hucker,
+1991). Masochism and autogynephilia are not superficially
+similar; nor do their motivations clearly overlap. Rather, it
+appears that they share vulnerability factors. We distinguish
+the hypothesis that paraphilias are merely unusual from the
+hypothesis that paraphilias share interesting features as,
+respectively, the weak and strong senses of “paraphilia.”
+The three external sexual attractions studied herein––acrotomophilia, zoophilia, and lipophilia––would be considered by
+many researchers to be paraphilias, because they are atypical.
+Thus, they satisfy the weak understanding of “paraphilia.” Evidence for the stronger version would include a preponderance
+of natal males and associations with other paraphilias.
+What about internalized sexual attractions? Freund and
+Blanchard (1993) hypothesized that “proneness to developmental error in locating erotic targets is a basic dimension of
+paraphilia which is independent of the nature of the targets
+themselves” (p. 558). Freund and Blanchard were using the
+term “paraphilia” to refer to an atypical sexual interest, but
+they were also observing the structural similarity among different erotic target location errors, involving mislocation of
+erotic targets. Structural similarity is especially clear among
+internalized sexual attractions, all of which comprise the
+specific internalized version of an external sexual attraction.
+The present study allowed several analyses relevant to the
+issue of whether the external and internalized sexual attractions examined in this study are paraphilias, in the strong
+sense. First, it is possible to examine the sex ratio among
+those who responded to recruitment efforts for the three
+external sexual attractions (acrotomophilia, zoophilia, and
+lipophilia), because participants were recruited regardless of
+natal sex. (Data from natal females will be included in future
+publications.) A highly skewed sex ratio in favor of males
+among these external sexual attractions would support the
+hypothesis they are paraphilias. A second set of analyses is
+motivated by the following reasoning: Because paraphilias
+tend to co-occur, the rate of a specific internalized sexual
+attraction should be higher if the corresponding external
+sexual attraction is paraphilic than if it is non-paraphilic.
+For example, if both acrotomophilia and apotemnophilia
+are paraphilias, then the rate of apotemnophilia should be
+higher among acrotomophilic men compared with the rate
+of autogynephilia among female-attracted men not selected
+for unusual external sexual attractions. Autogynephilia is the
+internalized sexual attraction associated with male heterosexuality, which is not a paraphilia. Typical heterosexual men
+have less paraphilic vulnerability compared with acrotomophilic men (assuming acrotomophilia is a paraphilia), and
+so they are less likely to develop other paraphilic sexual
+
+interests, including internalized sexual attractions (assuming those are paraphilias). A final set of analyses focused on
+the extent to which the three internalized sexual attractions
+examined in this study are associated with autogynephilia,
+likely the most common internalized sexual attraction (Blanchard, 1993b). This is based on similar reasoning as the previous analysis: both specific internalized sexual attractions and
+autogynephilia are partly caused by paraphilic vulnerability.
+
+Overview of the Present Research: Hypotheses
+and One Additional Analysis
+We recruited three samples of men with atypical sexual
+interests we hypothesized are paraphilias: acrotomophilia
+(attraction to amputees), zoophilia (attraction to nonhuman
+animals), and lipophilia (attraction to obese persons). Each of
+these is defined by sexual attraction to an external target, and
+so is an “external sexual attraction” (see Fig. 1). They were
+chosen primarily because we had not yet investigated any of
+them, and because we were able to find Internet sites where
+persons with these interests could be recruited.
+We investigated several predictions based on Erotic Target
+Identity Inversion Theory. Most follow directly from Freund
+and Blanchard’s (1993) original formulation or any reasonable elaboration.
+Hypotheses Regarding Erotic Target Identity Inversion
+Theory
+1. For each external sexual attraction, a subset of men will
+report being sexually aroused by the idea of being a
+member of the class comprising their sexual target (i.e.,
+they will endorse having a specific internalized sexual
+attraction; see Fig. 1). For acrotomophilia, the internalized sexual attraction is apotemnophilia. For zoophilia, it
+is autozoophilia. And for lipophilia, it is autolipophilia.
+2. For each internalized sexual attraction, a subset of men
+will report feelings and behaviors consistent with having
+an erotic target identity inversion.
+3. For each sample, the degree of specific internalized sexual attraction should be strongly related to the degree of
+corresponding erotic target identity inversion.
+4. Increased rates in internalized sexual attractions and
+erotic target identity inversions should be specific to
+each sample’s external sexual attraction. For example,
+men with acrotomophilia should have higher rates of
+apotemnophilia and indications of a wish or desire to
+become amputees (e.g., pretending to be amputees and
+wishing they could become amputees) compared with
+their rates of autozoophilia and autolipophilia, and corresponding indications of a wish or desire to become
+animals or obese persons.
+
+13
+
+Archives of Sexual Behavior
+
+Hypotheses Regarding Paraphilias
+5. Participants attracted to amputees, animals, or obese
+persons will be disproportionately male.
+6. The rates of specific internalized sexual attractions will
+be higher in these samples compared with the rate of
+autogynephilia in control samples of men who report
+attraction to women.
+7. There will be a positive correlation between each specific
+internalized sexual attraction and autogynephilia.
+Finally, we conducted one more set of descriptive analyses
+unrelated to our current proposed model. We collected data
+concerning the retrospectively reported ages of onset for the
+three paraphilias comprising the external sexual attractions
+as well as the three respective internalized sexual attractions.
+We expected mean ages of onset to be during early adolescence, with the onset of strong sexual arousal capacity. This
+prediction is consistent with the idea that these paraphilic
+sexual interests are sexual orientations (Imhoff et al., 2017;
+Seto, 2012, 2017).
+Note that none of our hypotheses concerned differences
+among our samples. Rather, each hypothesis applied to all
+three samples. We had no prior hypotheses predicting differences among them and did not formally examine any
+differences.
+Nor did any of our current hypotheses concern conventional sexual orientation (i.e., relative attraction to men versus women). This information is potentially useful to study
+internalized sexual attractions and erotic target identity inversions. For example, it is of interest to quantify the degree to
+which paraphilic individuals’ external sexual attraction to
+males versus females corresponds to their internalized sexual
+attractions to the fantasy of being males versus females (see,
+e.g., Hsu & Bailey, 2017). We will explore this issue using
+data from these samples in future publications. In this paper,
+we ignore participants’ conventional sexual orientation.
+
+Method
+
+participants replaced “amputees” with “nonhuman animals”
+and “fat persons,” respectively. Interested participants were
+referred to links that directed them to a Qualtrics survey specific to their external sexual attraction. Recruitment started in
+July 2020 for the acrotomophilic and zoophilic participants,
+and in November 2021 for the lipophilic participants. Data
+collection ended in February 2022 for all three groups.
+There were three inclusion criteria for data analyses. First,
+participants had to have completed at least 85% of the survey,
+according to the Qualtrics variable (“Progress”) that tracks
+survey completion. Second, we restricted analyses to natal
+males. Third, because our primary hypotheses pertained
+to males with one of three external sexual attractions, we
+included only participants whose strength of sexual attraction to their specific atypical target was at least 2 on a 5-point
+scale, representing at least rare sexual fantasies about the
+target (see below for a full description of this variable).
+Of participants recruited for acrotomophilia, 375 provided
+sufficient data for assessing inclusion criteria (i.e., 85% survey completion as well as values for natal sex and strength of
+sexual attraction to their specific atypical target). Of those,
+43 (11.5%) were excluded because they were female, and an
+additional 8 (2.1%) were excluded because of insufficient
+sexual attraction to amputees, for a total of 322 acrotomophilic male participants who met inclusion criteria. A total
+of 1765 individuals recruited for zoophilia provided sufficient data for assessing inclusion criteria. Of these, 234
+(13.3%) were excluded because they were female, and an
+additional 30 (1.7%) were excluded because of insufficient
+sexual attraction to nonhuman animals, for a total of 1501
+zoophilic male participants who met inclusion criteria. A
+total of 449 individuals recruited for lipophilia provided
+sufficient data for assessing inclusion criteria. Of these, 47
+(10.5%) were excluded because they were female, and all 402
+male participants were sufficiently attracted to obese persons
+for inclusion. Note that all three samples were highly malebiased, consistent with Hypothesis 5 that paraphilias tend to
+be much more common among natal males. This is unlikely
+due to a sex bias in Internet usage (Kimbrough et al., 2013).
+Non‑Paraphilic Control Samples
+
+Participants
+Paraphilic Samples
+Participants were recruited through websites and social
+media specializing in each of the three external sexual attractions: acrotomophilia (attraction to amputees), zoophilia
+(attraction to nonhuman animals) and lipophilia (attraction
+to obese persons). Advertisements for acrotomophilic participants specified that we were “conducting research on the
+sexuality, identity, gender, and personality of those attracted
+to amputees.” Advertisements for zoophilic and lipophilic
+
+13
+
+To test the hypothesis that there should be a higher rate of
+specific internalized sexual attractions among male acrotomophiles, zoophiles, and lipophiles than among femaleattracted males not selected for unusual external attractions
+(Hypothesis 6), we included data from three control samples
+of natal males recruited using platforms intended to provide
+representative research participants: Mechanical Turk, Qualtrics, and Prolific. These samples were described in a previous study (Bailey & Hsu, 2022), and a fourth sample included
+in that study was not analyzed here, because those participants were not plausibly representative. Participants from the
+
+Archives of Sexual Behavior
+
+three control samples were selected for relevant analyses if
+they indicated at least rare attraction to women (i.e., scores
+of 5 or less) on the Kinsey scale (Kinsey et al., 1948). This
+criterion is analogous to the relevant inclusion criterion for
+the paraphilic samples. For the three control samples, this
+yielded 392, 418, and 282 participants, respectively, of whom
+98%, 94%, and 85% had Kinsey scores of 0 or 1, indicating
+exclusive or near-exclusive attraction to women.
+
+Measures
+External Sexual Attractions
+Acrotomophilic participants responded to the following three
+questions: (1) “When you have sexual fantasies, how often
+do you imagine interacting with an amputee?”; (2) “When
+you masturbate, how often do you imagine interacting with
+an amputee?”; and (3) “When you look at pornography, how
+often do you look at pornography featuring amputees?” Lipophilic participants responded to analogous items with “a fat
+person” or “fat persons” replacing “an amputee” or “amputees.” Zoophilic participants responded only to analogous
+items for the first two questions, with “a nonhuman animal”
+replacing “an amputee.” They were not asked about looking
+at pornography featuring animals, because such pornography
+is illegal in many locations. All items used the following
+response scale: 1 = never, 2 = rarely, 3 = sometimes, 4 = usually, and 5 = always. For each sample, the three questions
+assessing external sexual attraction were averaged, and thus,
+scores ranged from 1 to 5.
+Internalized Sexual Attractions
+Two separate subscales were created to measure each of the
+three internalized sexual attractions: apotemnophilia, autozoophilia, and autolipophilia. One subscale focused on the
+presence or absence of the internalized sexual attraction, and
+the other on the importance of the internalized sexual attraction to sexual excitement.
+Existence of Internalized Sexual Attraction Acrotomophilic
+participants provided “yes” or “no” responses to two questions: (1) “Have you ever become sexually aroused while
+picturing yourself as an amputee?”; and (2) “Have you ever
+masturbated while imagining yourself as an amputee?”
+Zoophilic participants responded to analogous items, with
+“a nonhuman animal” replacing “an amputee.” Lipophilic
+participants responded to analogous items with “a fat person” replacing “an amputee.” For each sample, the number
+of “yes” responses to the two questions assessing existence
+of internalized sexual attraction were summed, and thus, subscale scores ranged from 0 to 2.
+
+Sexual Importance of Internalized Sexual Attraction Acrotomophilic participants responded to two items: (1) “How
+important to your sexual excitement is fantasizing about
+being or pretending to be an amputee during masturbation or
+fantasy?”; and (2) “How important to your sexual excitement
+is fantasizing about being or pretending to be an amputee during sex?” Items for zoophilic and lipophilic participants were
+altered as above. All items used the following response scale:
+1 = not at all important, 2 = a little important, 3 = somewhat
+important, 4 = very important, and 5 = extremely important.
+For each sample, ratings for the two items were averaged for
+the subscale score, which ranged from 1 to 5.
+Core Autogynephilia Scale To test Hypothesis 7 that there
+will be a positive correlation between each specific internalized sexual attraction and autogynephilia, the three paraphilic
+samples completed the Core Autogynephilia Scale (Blanchard, 1989b). This scale consists of eight items in which
+respondents indicate dichotomous agreement or disagreement with questions about whether they have ever experienced sexual arousal by the thought of being a woman or
+having a woman’s body (or specific parts of a woman’s body).
+For example, one item asks: “Have you ever become sexually
+aroused while picturing yourself having a nude female body
+or with certain features of the female form?” Scores range
+from 0 (no endorsement of any item) to 8 (endorsement of
+all 8 items).
+Erotic Target Identity Inversions
+Two subscales were created for each sample to measure feelings and behaviors related to having an erotic target identity inversion. The first subscale contained items indicating
+whether participants had ever exhibited relevant phenomena.
+Items for this subscale differed between samples and are provided below. The second subscale contained items indicating
+the frequency with which participants imitated, or wished to
+be, instances of their atypical erotic targets. Importantly, none
+of the items in either subscale mentioned sexual motivation.
+Existence of Erotic Target Identity Inversion Participants indicated whether they had ever behaved or felt in accordance
+with an erotic target identity inversion, such as pretending
+to be, wishing to be, trying to become, or feeling frustrated
+because of the inability to become, an instance of their atypical erotic target. Total scores on this subscale were computed
+as the number of “yes” responses divided by the number of
+subscale items, which varied slightly across groups. Thus,
+scores ranged from 0 (no items endorsed) to 1 (all items
+endorsed). Items are provided below, separately by group.
+Acrotomophiles The following seven items were answered
+“yes” or “no”: (1) “Have you ever pretended to be an ampu-
+
+13
+
+Archives of Sexual Behavior
+
+tee?”; (2) “Have you ever felt that you were meant to be an
+amputee?”; (3) “Have you ever wished you could become an
+amputee?”; (4) “Have you ever considered trying to become
+an amputee?”; (5) “Would you feel more complete and satisfied if you were an amputee?”; (6) “Have you ever felt sad,
+frustrated, or unhappy because you are not an amputee?”; and
+(7) “Have you had one or more of your limbs amputated?”
+Zoophiles The following seven items were answered “yes”
+or “no”: (1) “Have you ever pretended to be a real nonhuman animal, in private?”; (2) “Have you ever considered
+the possibility that you might be a nonhuman animal?”; (3)
+“Have you ever felt a spiritual or other kind of connection
+to a nonhuman animal?”; (4) “Have you ever experienced
+sadness, frustration, or unhappiness because you wanted to
+be a nonhuman animal but could not be?”; (5) “Have you
+ever thought about ways in which you could alter your body
+that would make you more like a nonhuman animal?”; (6)
+“If you could try being a nonhuman animal for one week,
+would you do it?”; and (7) “If you could become a nonhuman animal forever, would you do it?”
+Lipophiles The following six items were answered “yes” or
+“no”: (1) “Have you ever pretended to be fat?”; (2) “Have
+you ever tried to gain weight in order to become a fat person?”; (3) “Have you ever felt that you were meant to be a fat
+person?”; (4) “Have you ever wished you could become a fat
+person?”; (5) “Would you feel more complete and satisfied
+if you were a fat person?”; and (6) “Have you ever felt sad,
+frustrated, or unhappy because you are not a fat person?”
+Frequency of Erotic Target Identity Inversion Acrotomophilic participants were asked the following two questions:
+(1) “In the past 12 months, how often have you pretended
+to be an amputee for any reason, either in private or in public?”; and (2) “In the past 12 months, how often have you
+pictured yourself as an amputee for any reason?” For zoophilic participants, “a nonhuman animal” was substituted for
+“an amputee,” and for lipophiles, “a fat person” was substituted. All items used the following response scale: 1 = never,
+2 = less than once a month, 3 = once a month, 4 = 2–3 times a
+month, 5 = once a week, 6 = 2–3 times a week, and 7 = daily.
+For each sample, ratings for the two items were averaged for
+the subscale score, which ranged from 1 to 7.
+Specificity of Internalized Sexual Attractions and Erotic
+Target Identity Inversions
+Erotic Target Identity Inversion Theory implies that men with
+a particular external sexual attraction are especially likely to
+develop a specific internalized sexual attraction and erotic
+target identity inversion that match their external sexual
+attraction. For example, men sexually attracted to amputees
+
+13
+
+should be more likely to develop apotemnophilia (sexual
+arousal by the idea of being an amputee) than to develop
+either autozoophilia or autolipophilia (sexual arousal by
+the idea of being an animal or a fat person, respectively).
+Similarly, amputee-attracted men should be especially likely
+to want to become, or fantasize about becoming, amputees
+rather than animals or fat persons. To study specificity, it is
+necessary to ask not only about similarity of external sexual
+attractions, internalized sexual attractions, and erotic target
+identity inversions that should be relevant within each sample, but also about different internalized sexual attractions
+and erotic target identity inversions in the different samples.
+The following items were used to examine the specificity
+of internalized sexual attractions and erotic target identity
+inversions across the three samples.
+Three Specific Internalized Sexual Attractions Acrotomophilic and lipophilic participants were asked to rate their
+degree of sexual arousal by the thought, idea, or fantasy of
+being a female amputee, a male amputee, a female animal, a
+male animal, a fat/obese woman, and a fat/obese man. Ratings were made on a scale from 0 (no arousal) to 10 (maximum arousal). Within each category––apotemnophilia, autozoophilia, and autolipophilia––the higher rating of the male
+or female choices was taken. Zoophilic participants were
+asked only to rate the degree of sexual arousal by the thought,
+idea, or fantasy of being an animal. (Zoophilic community
+members helping us plan the survey did not want to include
+the other choices.)
+Three Specific Identities Each participant across all three
+samples was asked whether they identify with or feel like they
+might be any of 24 identities from a list that was provided to
+them in the survey. In this study, we focused on three identities in particular: amputee wannabe (i.e., a person who wants
+to become an amputee), furry (i.e., a person who is likely to
+fantasize about being a cartoon animal; unfortunately, we did
+not ask about an identity related to being an actual animal
+across the three samples), and a fat/chub wannabe (i.e., a
+person who wants to become fat). For each of those three
+identities, a participant was coded as “yes” (having the identity) or “no” (not having the identity). Those three identities
+were used as indicators of erotic target identity inversions
+corresponding with the three internalized sexual attractions:
+apotemnophilia, autozoophilia, and autolipophilia.
+Internalized Sexual Attractions Among Paraphilic
+and Non‑Paraphilic Samples
+Each of the three paraphilic samples responded to one item
+unique to that sample that could be compared with one item
+answered by all three non-paraphilic control samples. The
+items for the paraphilic samples asked whether respondents
+
+Archives of Sexual Behavior
+Table 1  Descriptive statistics for measures of external sexual attraction in acrotomophilic, zoophilic, and lipophilic samples
+Sample
+
+N items M (SD)
+
+Acrotomophilia 3
+Zoophilia
+2
+Lipophilia
+3
+
+95% CI
+
+Cronbach’s
+alpha
+
+3.87 (0.74) 3.79–3.95 0.79
+3.62 (0.79) 3.58–3.66 0.87
+4.38 (0.65) 4.31–4.40 0.82
+
+N
+
+322
+1501
+402
+
+For each measure, scores range from 1 (never) to 5 (always)
+
+had ever experienced sexual arousal imagining they were an
+instance of their external sexual attraction. (These items were
+previously mentioned, under “Existence of Internalized Sexual Attraction.”) The specific items for the acrotomophilic,
+zoophilic, and lipophilic samples were, respectively: “Have
+you ever become sexually aroused while picturing yourself
+as an amputee?” “Have you ever become sexually aroused
+while picturing yourself as a nonhuman animal?” and “Have
+you ever become sexually aroused while picturing yourself as
+a fat person?” The item used to assess autogynephilia among
+the control samples was item 8 from the Core Autogynephilia
+Scale (Blanchard, 1989b): “Have you ever become sexually
+aroused by the thought of being a woman?” All items were
+answered “yes” or “no.”
+Ages of Onset for External Sexual Attractions
+and Internalized Sexual Attractions
+Participants for each of the three paraphilic samples were
+asked at what age they first realized their sexual attraction to
+their atypical erotic target (e.g., “How old were you when you
+first realized you were sexually interested in amputees?”).
+They were also asked at what age they first found sexually
+arousing the idea of being an instance of their atypical erotic
+target (e.g., “At what age did you first find the idea of being an
+amputee sexually arousing?”). Responses were truncated at
+9 years at the lower end, because that is the lowest age some
+of the surveys permitted.
+
+Results
+External Sexual Attractions
+Table 1 includes descriptive statistics for the brief scales used
+to measure the strength of external sexual attraction to the
+atypical erotic targets specific to each sample. Figure 2 shows
+the distributions of scores on these scales for the three samples.
+All three samples produced moderate-to-high average scores
+on these measures (at least 3.62 on a 5-point scale), indicating
+
+Fig. 2  Distributions of scores on measures of external sexual attraction in acrotomophilic, zoophilic, and lipophilic samples
+
+that their specific erotic targets were present during sexual fantasies more than “sometimes” (i.e., 3.0). Indeed, mean scores
+for acrotomophilic and zoophilic participants were closer to
+4.0 (indicating “usually”), and lipophilic participants’ mean
+scores exceeded 4.0. Thus, on average the three samples had
+substantial interest in their atypical erotic targets.
+Is Lipophilia Atypical?
+Lipophilic participants were recruited for being attracted to
+“fat persons.” One might question whether this should be
+considered a paraphilic or otherwise atypical sexual interest. The term “fat person” is vague, and depending on one’s
+understanding of the term, could encompass a substantial
+minority of persons in some locations, including the USA.
+This issue may not be crucial for the current study, because
+Erotic Target Identity Inversion Theory is not meant to apply
+only to paraphilic sexual interests. For example, autogynephilia is the internalized sexual attraction corresponding
+with typical male heterosexuality. Nevertheless, we provide
+additional information here about the sexual preferences of
+our lipophilic sample.
+
+13
+
+Archives of Sexual Behavior
+Table 2  Descriptive statistics for measures of internalized sexual attraction in acrotomophilic, zoophilic, and lipophilic samples
+Sample
+
+Apotemnophilia
+Autozoophilia
+Autolipophilia
+
+Existence subscale
+
+Sexual importance subscale
+
+Composite
+
+M (SD)
+
+95% CI
+
+Alpha
+
+N
+
+M (SD)
+
+95% CI
+
+Alpha
+
+N
+
+Alpha
+
+N
+
+1.34 (0.90)
+0.98 (0.95)
+0.87 (0.93)
+
+1.24–1.44
+0.93–1.02
+0.78–0.96
+
+0.91
+0.87
+0.88
+
+318
+1498
+401
+
+2.24 (1.36)
+1.70 (1.06)
+1.47 (0.93)
+
+2.08–2.40
+1.64–1.75
+1.37–1.57
+
+0.90
+0.90
+0.88
+
+286
+1492
+331
+
+0.77
+0.69
+0.76
+
+286
+1492
+330
+
+For the existence subscale, scores range from 0 (both absent) to 2 (both present). For the sexual importance subscale, scores range from 1 (not at
+all important) to 5 (extremely important)
+
+Lipophilic participants rated their own body shape and
+their sexual preference for others’ body shape using the
+Stunkard scale (Stunkard et al., 1983). The scale presents
+nine figures ranging from “extremely thin” (1) to “extremely
+obese” (9). Participants’ average rating of their own body
+shape was 4.68 (SD = 1.68), corresponding to an estimated
+body mass index (BMI) of 25.3 (Parzer et al., 2021), which is
+near the border between “normal weight” and “overweight”
+(Weir & Jan, 2019). Their average preferred body shape was
+much higher, M = 7.68 (SD = 1.27), paired t(363) = 39.3,
+p < .001, corresponding to an estimated BMI of 36.8, which
+is currently considered “obesity class II.” Furthermore, their
+modal response for preferred shape in others was the heaviest
+figure (9), which corresponds to a BMI of 43.6, or “massive
+obesity.”
+The sexual preferences of the lipophilic sample contrast
+sharply with those of a large cross-cultural sample representative of the general population (Swami et al., 2010). In
+that study, men and women from different world regions rated
+the attractiveness of the Stunkard female figures on a scale
+from 1 (not at all attractive) to 9 (extremely attractive). Male
+participants from North America, East Asia, Eastern Europe,
+South Asia, Southeast Asia, and Western Europe most preferred the Stunkard female figures classified as “slender” (3
+or 4), assigning mean ratings to those figures ranging from
+6.5 to 7.0. In contrast, mean ratings of much heavier female
+figures (7, 8, and 9) ranged from 2.2 to 2.6, 1.4 to 1.8, and
+1.1 to 1.5, respectively.
+
+Internalized Sexual Attractions
+Erotic Target Identity Inversion Theory specifies that a subset
+of males with every external sexual attraction develops an
+internalized sexual attraction, experiencing sexual arousal
+by the fantasy of being an instance of their external erotic
+target (Hypothesis 1). Table 2 includes descriptive statistics
+for the two brief subscales used to measure the existence
+(i.e., presence or absence) and sexual importance of the three
+respective internalized sexual attractions: apotemnophilia
+(sexual arousal by the fantasy of being an amputee), autozoophilia (sexual arousal by the fantasy of being an animal),
+
+13
+
+and autolipophilia (sexual arousal by the fantasy of being an
+obese person). The correlations between the two subscales
+were 0.63, 0.53, and 0.61, respectively, for the three samples
+(ps < .001). Both subscales were standardized and averaged
+for each sample to produce a composite measure of internalized sexual attraction for subsequent analysis. Table 2
+also includes Cronbach’s alpha for each sample’s composite
+measure.
+The left side of Fig. 3 shows the distributions of scores on
+the two-item subscale measuring the existence of the internalized sexual attractions. Distributions of this subscale were
+bimodal for all three samples, indicating that participants
+tended to answer both items similarly (i.e., either both present or both absent). For some subsequent results, we distinguished between subsamples with scores of 2 (“Internalized Sexual Attraction Present”) and those with scores of 0
+(“Internalized Sexual Attraction Absent”). Rates of internalized sexual attractions (i.e., scores of 2) were 62% among
+acrotomophiles, 44% among zoophiles, and 38% among
+lipophiles. The right side of Fig. 3 shows the distributions of
+scores on the two-item subscale measuring the importance
+of the internalized sexual attraction for sexual arousal among
+the “Internalized Sexual Attraction Present” subgroups. Most
+of the latter reported that their internalized sexual attraction
+had some importance for sexual arousal (i.e., their scores
+exceeded 1), and appreciable minorities reported moderateto-high importance (i.e., scores from 3 to 5).
+
+Erotic Target Identity Inversions
+Erotic Target Identity Inversion Theory specifies that men
+with internalized sexual attractions will sometimes develop
+erotic target identity inversions, reflecting a wish or desire
+to become their external sexual attractions (Hypothesis 2).
+Table 3 includes descriptive statistics for the two subscales
+intended to measure erotic target identity inversions in the
+three samples, which would correspond with apotemnophilia, autozoophilia, and autolipophilia. The first subscale
+assessed whether participants had ever experienced feelings or behaviors indicating erotic target identity inversions,
+and the second subscale assessed participants’ frequency
+
+Archives of Sexual Behavior
+
+Fig. 3  Distributions of scores on measures of internalized sexual attraction in acrotomophilic, zoophilic, and lipophilic samples (left: existence
+subscale scores for all participants; right: sexual importance subscale scores for the “Internalized Sexual Attraction Present” subgroups)
+Table 3  Descriptive statistics for measures of erotic target identity inversion in acrotomophilic, zoophilic, and lipophilic samples
+Sample
+
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+Existence subscale
+
+Frequency subscale
+
+Composite
+
+N items
+
+M (SD)
+
+95% CI
+
+Alpha
+
+N
+
+M (SD)
+
+95% CI
+
+Alpha
+
+N
+
+Alpha
+
+N
+
+7
+7
+6
+
+0.37 (0.34)
+0.35 (0.28)
+0.20 (0.28)
+
+0.33–0.41
+0.33–0.37
+0.17–0.23
+
+0.87
+0.76
+0.82
+
+291
+1488
+332
+
+2.70 (1.80)
+2.07 (1.57)
+1.79 (1.28)
+
+2.49–2.91
+1.99–2.14
+1.65–1.93
+
+0.73
+0.79
+0.62
+
+291
+1495
+331
+
+0.87
+0.82
+0.87
+
+291
+1487
+331
+
+For the existence subscale, scores range from 0 (no relevant items endorsed) to 1 (all relevant items endorsed). For the frequency subscale,
+scores range from 1 (never) to 7 (daily)
+
+of self-imagining or imitating their specific atypical erotic
+target. The correlations between the two subscales were
+0.78, 0.69, and 0.77 for the acrotomophilic, zoophilic, and
+lipophilic samples, respectively (ps < .001). Both subscales
+were standardized and averaged for each sample to produce
+a composite measure of erotic target identity inversion for
+subsequent analysis. Table 3 also includes Cronbach’s alpha
+for each sample’s composite measure.
+
+Associations Between Internalized Sexual Attractions
+and Erotic Target Identity Inversions
+Figure 4 shows the distributions of the first subscale intended
+to measure erotic target identity inversions. The left side
+of the figure includes the distributions from the “Internalized Sexual Attraction Absent” subgroups, and the right
+side includes distributions from the “Internalized Sexual
+
+13
+
+Archives of Sexual Behavior
+
+Fig. 4  Distributions of scores on the first subscale (existence subscale) measuring erotic target identity inversions in acrotomophilic,
+zoophilic, and lipophilic samples (left: scores for “Internalized Sexual
+
+Attraction Absent” subsamples; right: scores for “Internalized Sexual
+Attraction Present” subsamples)
+
+Attraction Present” subgroups. Figure 5 analogously shows
+the distributions of the second subscale intended to measure
+erotic target identity inversions. In both figures, erotic target
+identity inversions appeared to be markedly increased when
+internalized sexual attractions were present, consistent with
+Hypothesis 3. Table 4 quantifies this conclusion in the form
+of effect sizes and t-tests, which were all large and highly
+statistically significant (ps < .001).
+Table 5 includes the correlations between scores on the
+composite measures of internalized sexual attraction and the
+composite measures of erotic target identity inversion for
+the three samples, providing direct tests of Hypothesis 3.
+These correlations estimate the path coefficient b in Fig. 1.
+Estimates are provided both for raw correlations, and for
+correlations corrected for reliability attenuation (Borneman,
+2010; Trafimow, 2016). The corrected correlations were all
+approximately 1.0.
+
+Specificity of Internalized Sexual Attractions
+and Erotic Target Identity Inversions
+
+13
+
+Erotic Target Identity Inversion Theory implies that internalized sexual attractions and erotic target identity inversions should be specific to men’s external sexual attractions
+(Hypothesis 4). That is, for example, men sexually attracted
+to amputees should have an elevated rate of becoming sexually aroused by the fantasy of being amputees. Furthermore,
+they should report comparatively less sexual arousal by the
+fantasies of being other kinds of persons or things unrelated
+to amputation (e.g., animals and fat persons). Similar predictions follow for identities, which reflect erotic target identity
+inversions.
+Figure 6 shows the mean ratings of sexual arousal by
+the fantasies of being an amputee, an animal, or a fat person for the acrotomophilic and lipophilic samples. Only
+mean sexual arousal ratings for the fantasy of being an
+
+Archives of Sexual Behavior
+
+Fig. 5  Distributions of scores on the second subscale (frequency subscale) measuring erotic target identity inversions in acrotomophilic,
+zoophilic, and lipophilic samples (left: scores for “Internalized Sexual
+
+Attraction Absent” subsamples; right: scores for “Internalized Sexual
+Attraction Present” subsamples)
+
+Table 4  Effect sizes (Cohen’s d) and independent t-tests comparing “Internalized Sexual Attraction Absent” and “Internalized Sexual Attraction
+Present” subsamples from the acrotomophilic, zoophilic, and lipophilic samples on measures of erotic target identity inversion
+Sample
+
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+Existence subscale
+
+Frequency subscale
+
+Composite
+
+d
+
+t
+
+df
+
+d
+
+t
+
+df
+
+d
+
+t
+
+df
+
+1.95
+1.47
+1.61
+
+13.9
+27.2
+15.1
+
+271
+1342
+288
+
+2.01
+1.36
+1.87
+
+14.0
+25.4
+17.5
+
+271
+1349
+288
+
+1.99
+1.62
+1.95
+
+14.0
+29.9
+18.3
+
+271
+1341
+288
+
+Positive values indicate higher scores among the “Internalized Sexual Attraction Present” subsample than the “Internalized Sexual Attraction
+Absent” subsample. All effect sizes (Cohen’s d) and independent t-tests were statistically significant at p < .001
+
+animal were available for the zoophilic sample. The figure reveals that the two samples for whom full data were
+available provided much higher arousal ratings for fantasies specific to being their external erotic target than
+for the other fantasies. We created a contrast variable for
+
+both the acrotomophilic and lipophilic samples representing the difference between mean sexual arousal by
+their target-specific fantasy and mean sexual arousal by
+the other two fantasies. For both groups, the mean of the
+contrast variable differed significantly from zero. For the
+
+13
+
+Archives of Sexual Behavior
+Table 5  Correlations between scores on the composite measures of
+internalized sexual attraction and the composite measures of erotic
+target identity inversion in acrotomophilic, zoophilic, and lipophilic
+samples
+Sample
+
+N
+
+Correlation
+
+95% CI
+
+Corrected
+correlation
+
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+286
+1482
+329
+
+0.78
+0.75
+0.82
+
+0.71–0.85
+0.70–0.77
+0.76–0.88
+
+0.95
+1.00
+1.01
+
+“Corrected correlation” refers to correction for reliability attenuation
+(Borneman, 2010; Trafimow, 2016)
+
+acrotomophilic sample, t(266) = 27.7, p < .001. For the
+lipophilic sample, t(381) = 20.3, p < .001.
+Table 6 contains the percentages and frequencies of
+men in the three samples who indicated that they identify
+with or feel like they might be amputee wannabes, furries, or fat/chub wannabes. There was a strong tendency
+for each sample to endorse the identity specific to their
+external sexual attraction and matching internalized sexual attraction. (Because this tendency is obvious from the
+table, and because the fact that a participant from a sample can contribute more than one observation complicates
+significance tests, we have not provided one.)
+Are Internalized Sexual Attractions Especially Common
+When Men’s External Sexual Attractions Are Paraphilic?
+We have hypothesized that all internalized sexual attractions
+are paraphilic. In that case, if paraphilias tend to co-occur,
+and if the external sexual attractions studied herein are paraphilias, then internalized sexual attractions may be especially
+Fig. 6  Mean self-ratings of
+sexual arousal by the fantasy
+of being an amputee (left), an
+animal (center), or a fat person
+(right), for acrotomophilic, zoophilic, and lipophilic samples.
+Note. For the zoophilic sample,
+only the mean rating of sexual
+arousal by the fantasy of being
+an animal was available
+
+13
+
+common among our participants, compared with men whose
+external sexual attraction is not paraphilic (Hypothesis 6).
+To test this hypothesis, we compared the rate of internalized sexual attractions among our three paraphilic samples
+to the rate of autogynephilia among three control samples
+selected only for sexual attraction to women. One item
+assessing internalized sexual attractions was comparable
+across groups, although its specific content varied. For the
+paraphilic groups, the item asked whether respondents had
+ever become sexually aroused by “picturing themselves” as
+an instance of their external erotic target (i.e., an amputee, a
+nonhuman animal, or a fat person). For the female-attracted
+control groups, the item asked whether respondents had ever
+become sexually aroused by the “thought of being a woman”
+and was taken from the Core Autogynephilia Scale (Blanchard, 1989b).
+Table 7 contains the proportions of “yes” responses for the
+three paraphilic and three control samples, as well as the 95%
+confidence intervals for the proportions. The lowest proportion endorsing the item among the paraphilic samples, .47 for
+the lipophilic sample, exceeded the highest proportion among
+the control samples, .18 for the Mechanical Turk sample,
+by a factor of 2.6. A multiple logistic regression analysis,
+with “Sample” considered a random variable, estimated the
+mean proportion of “yes” responses as 0.55 for the paraphilic
+samples and 0.22 for the control samples. This difference was
+associated with a probability of 1.1*10–15.
+
+Associations Between Internalized Sexual
+Attractions and Autogynephilia
+For each sample, we examined the association between scores
+on the composite measure of the specific internalized sexual
+
+Archives of Sexual Behavior
+Table 6  Percentage (and number) of participants in each sample who
+reported that they identify with or feel like they might be amputee
+wannabes, furries, or fat/chub wannabes
+Sample
+
+Identity
+Amputee wannabe
+
+Furry
+
+Fat/chub wannabe
+
+40 (130)
+0 (6)
+0 (0)
+
+2 (6)
+44 (659)
+10 (40)
+
+1 (2)
+2 (28)
+22 (87)
+
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+Discussion
+
+Numbers without parentheses are percentages. Numbers inside parentheses are raw frequencies. A few participants contributed more than
+one observation in a row
+
+Table 7  Proportions of participants who indicated an internalized
+sexual attraction specific to their external erotic target, comparing
+acrotomophilic, lipophilic, and zoophilic samples with three control
+samples of men sexually attracted to women
+
+Control samples
+
+Paraphilic samples
+
+they realized they were attracted to their specific atypical
+erotic targets, and mean ages when they realized they were
+sexually aroused by the idea of being an instance of their
+atypical erotic targets, separately by sample. (The latter was
+computed only for the “Internalized Sexual Attraction Present” subsamples).
+
+Sample
+
+N
+
+Proportion
+“yes”
+
+95% CI
+
+Mechanical Turk
+Qualtrics
+Prolific
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+392
+418
+282
+318
+1498
+401
+
+.18
+.12
+.13
+.68
+.51
+.47
+
+.14–.22
+.09–.15
+.10–.18
+.63–.73
+.49–.54
+.42–.52
+
+attraction (i.e., apotemnophilia, autozoophilia, and autolipophilia) and scores on the Core Autogynephilia Scale (Blanchard, 1989b), thereby providing tests of Hypothesis 7. For
+apotemnophilia, r(279) = .22, p < .001. For autozoophilia,
+r(1455) = .19, p < .001. For autolipophilia, r(326) = .47,
+p < .001.
+
+Ages of Onset for External and Internalized Sexual
+Attractions
+Table 8 includes mean ages of participants in each sample
+at the time that they completed the survey, mean ages when
+
+Results of our study confirmed several predictions from
+Erotic Target Identity Inversion Theory. First, in all three
+paraphilic samples, each comprising a distinct external sexual attraction, a substantial minority of men reported specific
+internalized sexual attractions: sexual arousal by the fantasy
+of being the type of person or thing to whom they are sexually attracted. Second, a substantial minority of men reported
+feelings and behaviors consistent with erotic target identity
+inversions, indicating the desire to be the type of person or
+thing to whom they are sexually attracted. Both internalized
+sexual attractions and erotic target identity inversions were
+strongly consistent with the external sexual attraction (e.g.,
+men sexually attracted to amputees tended to be sexually
+aroused by the fantasy of being amputees and to wish to be
+amputees, and not to be sexually aroused by the fantasy of
+being animals or obese persons and to wish to be animals
+or obese persons). Third, there was a strong correlation in
+each sample between men’s degree of internalized sexual
+attraction and their degree of erotic target identity inversion.
+Indeed, after correction for reliability attenuation (Borneman,
+2010; Trafimow, 2016), correlations were approximately 1.00
+in all three paraphilic samples.
+Although results were consistent with both Freund and
+Blanchard’s (1993) original articulation of erotic target
+identity inversions and our more elaborate theory (Fig. 1),
+they do not clarify causality. We justified the causal features
+of our model on other grounds. Although specifying causal
+hypotheses is useful for advancing theory, representing
+causal hypotheses via path diagrams does not show that the
+causal hypotheses are correct.
+
+Table 8  Mean ages of participants at the time of the survey, and recalled ages of onset for external and internalized sexual attractions, in years
+Sample
+
+N
+
+M age at the time
+of survey (SD)
+
+M age of onset for external
+sexual attraction (SD)
+
+95% CI
+
+M age of onset for internalized sexual attraction (SD)
+
+95% CI
+
+Acrotomophilia
+Zoophilia
+Lipophilia
+
+319
+1485
+398
+
+39.46 (15.23)
+29.83 (10.94)
+24.13 (5.65)
+
+13.41 (5.10)
+13.98 (4.33)
+12.49 (2.68)
+
+12.85–13.87
+13.76–14.21
+12.22–12.75
+
+13.08 (4.06)
+14.93 (5.35)
+13.80 (4.41)
+
+12.50–13.65
+14.51–15.35
+13.08–14.51
+
+Before averaging, participants’ ages were truncated at 9 years on the lower end
+
+13
+
+Archives of Sexual Behavior
+
+Are Acrotomophilia, Zoophilia, Lipophilia,
+and Internalized Sexual Attractions Paraphilias?
+We found evidence that acrotomophilia, zoophilia, lipophilia, and their specific internalized sexual attractions fit
+the understanding of “paraphilia” in its strong sense. Thus,
+we provided some support for the hypothesis that the concept
+“paraphilia” is more scientifically interesting than the mere
+judgment that a sexual interest is unusual.
+Two non-obvious findings regarding paraphilias––a
+strong male bias, and a tendency to co-occur with other
+paraphilias––were true for all three samples recruited for
+their sexual attraction to atypical erotic targets: amputees,
+nonhuman animals, and obese persons. Initially recruited
+samples were at least 85% male, even though we did not
+mention natal sex in our recruitment materials. There were
+also associations among sexual interests we hypothesized
+to be paraphilias. Specifically, the proportion of males with
+each of three external sexual attractions (acrotomophilia,
+zoophilia, and lipophilia) who also had the specific internalized sexual attraction (apotemnophilia, autozoophilia, and
+autolipophilia) was substantially higher than the proportion
+of men with sexual attraction to women who also had autogynephilia in three representative samples. Furthermore, all
+three paraphilic samples showed modest-to-moderate, statistically significant, associations between their respective
+internalized sexual attraction and autogynephilia.
+Recalled ages of onset for both external and internalized
+sexual attractions were during early-to-mid adolescence for
+all three paraphilic samples, consistent with the idea that
+paraphilias are like sexual orientations. Mean recalled ages
+of first awareness in our study were similar to those from a
+recent quantitative review focusing on external sexual attractions generally considered to be sexual orientations, such as
+homosexuality and bisexuality (Hall et al., 2021).
+
+Erotic Target Identity Inversion Theory
+as a Parsimonious and Unified Explanation
+Findings from our study were generally consistent across the
+three paraphilic samples, and they are also generally consistent with prior research findings regarding autogynephilia
+(an internalized sexual attraction) and nonhomosexual male
+gender dysphoria (the extreme form of its associated erotic
+target identity inversion) (Lawrence, 2009b, 2013, 2017). To
+the extent that Erotic Target Identity Inversion Theory can
+provide a unified explanation of these phenomena, positing
+different explanations for each of them is less parsimonious.
+For example, attempting to explain autogynephilia, Serano
+(2020) implicated cultural emphasis on female beauty and
+“the male gaze”: “a mindset wherein men are viewed as
+sexual subjects who act upon their own desires, whereas
+women are viewed as passive sexual objects of other people’s
+
+13
+
+desires” (p. 770). But “the male gaze” is irrelevant to any
+conceivable explanation of apotemnophilia, autozoophilia,
+or autolipophilia, which all follow from Erotic Target Identity
+Inversion Theory. Nor can we imagine a plausible analogue
+to “the male gaze” for apotemnophilia, autozoophilia, or
+autolipophilia.
+Similarly, attempting to explain the phenomenon of adults
+seeking amputation of healthy limbs, Ramachandran and
+McGeoch (2007) theorized that it resulted from “dysfunction of the right parietal lobe” leading to “uncoupling of the
+construct of one’s body image in the right parietal lobe from
+how one’s body physically is” (p. 250). Their hypothesis
+was motivated by observations of patients who have suffered somatoparaphrenia, a rare condition following a right
+parietal stroke, leading to rejection of the left arm. However,
+neither this nor any similar model can plausibly explain phenomena highly analogous to the desire for limb amputation
+that some men with apotemnophilia experience, such as the
+desire for sex reassignment surgery in some autogynephilic
+males, or the desire to become fat that sometimes accompanies autolipophilia.
+
+Limitations
+Our participants were all recruited via Internet and social
+media solicitations. There is no way to know whether they
+are representative of men with their sexual interests. We do
+not have hypotheses about how unrepresentativeness of our
+samples may have influenced our results.
+Our measures were entirely based on self-report. Selfreport can be inaccurate, and there is at least one reason to
+worry about this with respect to internalized sexual attractions. Sexual motivation for embracing certain identities has
+been stigmatized, especially for autogynephilia (Bailey, 2003;
+Lawrence, 2017), but also for furries (Hsu & Bailey, 2019;
+Roberts et al., 2016), and for men seeking amputation (Foley,
+2017). In our experience, people are less respectful and tolerant of others’ unusual identities if they believe the identities
+are sexually motivated than if they believe the identities are
+caused by other factors (e.g., a feminized brain/mind for natal
+males adopting a female identity, a desire for social companionship for furries, or unusual neural connections between
+sensory cortex and limbs for voluntary amputees). It is doubtful that the self-report concern we have discussed would have
+affected our results, however. To be included in our study,
+participants had to endorse an unusual, likely stigmatized,
+external sexual attraction: attraction to amputees, animals, or
+obese persons. Given a willingness to admit to these sexual
+interests, it is not obvious to us why participants would be
+less open about internalized sexual attractions or erotic target
+identity inversions. Unwillingness to disclose sexual motivation would be more likely in studies that recruited natal
+males based on their showing evidence of putative erotic
+
+Archives of Sexual Behavior
+
+target identity inversions (e.g., nonhomosexual transgender
+women, male furries, and men seeking amputation of healthy
+limbs) and then, asked about internalized sexual attractions.
+However, participants in such studies have not been hesitant
+to reveal sexual motivation (Blanchard, 1989b; First, 2005;
+Hsu & Bailey, 2019; Lawrence, 2013).
+
+Future Directions
+Some phenomena that we believe are best explained with
+Erotic Target Identity Inversion Theory have been hypothesized to have other explanations (see, e.g., Serano, 2020
+regarding autogynephilia and Ramachandran & McGeoch,
+2007 regarding amputation of healthy limbs). Studies simultaneously examining competing hypotheses would be especially desirable.
+Different erotic target identity inversions appear to have
+strikingly similar structures: an external sexual attraction
+causes (or is associated with) a specific internalized sexual
+attraction, which causes (or is associated with) an erotic target identity inversion. It is likely that different erotic target
+identity inversions, and different internalized sexual attractions, share some underlying causes (see Hsu & Bailey, 2022
+for further discussion). This would be supported by showing
+that they run in the same families, or that they share similar
+genes, brain structures, or patterns of brain activation.
+Finally, internalized sexual attractions could illuminate
+the mechanisms and development of male sexual orientation.
+Internalized sexual attractions are certainly deviations from
+typical sexual development, but similarity in the organization
+and expression of different internalized sexual attractions
+may reflect similarity with respect to their development. To
+the extent that internalized sexual attractions are in fact a
+mislocation of external erotic targets onto the self, might
+this provide a clue regarding how male sexual orientation
+typically develops? The fact that developmental deviations
+can lead to an internalization of an erotic target suggests that
+there may be a mechanism that prevents this from happening
+in most men (Blanchard, 1991; Freund & Blanchard, 1993).
+
+Conclusions
+Drawing from Freund and Blanchard’s (1993) original formulation of erotic target identity inversions, we proposed
+a more elaborate model in Erotic Target Identity Inversion
+Theory: For every external sexual attraction, a subgroup
+of men will have an internalized sexual attraction (sexual
+arousal by the idea or fantasy of being an instance of their
+external sexual attraction). Furthermore, some men with
+internalized sexual attractions will develop erotic target identity inversions and imitate, wish to become, or try to become
+an instance of their external sexual attraction. We studied
+
+men with external sexual attraction to amputees, nonhuman
+animals, or extremely obese persons, and our findings were
+consistent with Erotic Target Identity Inversion Theory. Our
+findings comprised associations, however, and thus could not
+clarify direction of causation. Erotic Target Identity Inversion
+Theory can parsimoniously explain a variety of otherwise
+puzzling phenomena.
+Acknowledgements We thank moderators of acrotomophilic, zoophilic,
+and lipophilic Internet sites who allowed us to survey their communities.
+We are especially grateful to Komet, ZTHorse, and other members of
+“Zooville” for their support and specific feedback on the survey.
+Funding This study received no financial support or funding.
+Availability of Data and Materials These data are available upon reasonable request. A copy of the survey instrument is available to those who
+contact the corresponding author.
+
+Declarations
+Conflict of interest None to declare.
+Ethical Approval The authors certify that the research complies with
+ethical standards and was approved by the Institutional Review Board
+of Northwestern University.
+Informed Consent Electronic consent was obtained from all participants included in the study. On the first page of the online survey, participants were informed of the research purpose and potential risks and
+benefits of participating, that their participation was voluntary, and were
+presented with contact information for the researcher and for Northwestern University’s IRB. The research survey questions were displayed only
+if the participant clicked “agree” which indicated that the participant
+read and understood the information, were at least 18 years of age, and
+agreed to volunteer as a research participant for the study.
+
+References
+Abel, G. G., & Osborn, C. (1992). The paraphilias: The extent and
+nature of sexually deviant and criminal behavior. Psychiatric Clinics of North America, 15, 675–687.
+Bailey, J. M. (2003). The man who would be queen: The science of
+gender-bending and transsexualism. Joseph Henry Press.
+Bailey, J. M., Blanchard, R., Hsu, K. J., & Revelle, W. (2021). A map
+of desire: Multidimensional scaling of men’s sexual interest in
+male and female children and adults. Psychological Medicine, 51,
+2714–2720.
+Bailey, J. M., & Hsu, K. J. (2017). Orienting basic research on chronophilias [Commentary]. Archives of Sexual Behavior, 46, 23–26.
+Bailey, J. M., & Hsu, K. J. (2022). How autogynephilic are natal
+females? Archives of Sexual Behavior, 51, 3311–3318.
+Bailey, J. M., Hsu, K. J., & Bernhard, P. A. (2016). An Internet study
+of men sexually attracted to children: Sexual attraction patterns.
+Journal of Abnormal Psychology, 125, 976–988.
+Bártová, K., Androvičová, R., Krejčová, L., Weiss, P., & Klapilová,
+K. (2021). The prevalence of paraphilic interests in the Czech
+population: Preference, arousal, the use of pornography, fantasy,
+and behavior. Journal of Sex Research, 58, 86–96.
+
+13
+
+Archives of Sexual Behavior
+Baur, E., Forsman, M., Santtila, P., Johansson, A., Sandnabba, K., &
+Långström, N. (2016). Paraphilic sexual interests and sexually
+coercive behavior: A population-based twin study. Archives of
+Sexual Behavior, 45, 1163–1172.
+Bhugra, D., Popelyuk, D., & McMullen, I. (2010). Paraphilias across
+cultures: Contexts and controversies. Journal of Sex Research,
+47, 242–256.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18,
+315–334.
+Blanchard, R. (1989b). The concept of autogynephilia and the typology
+of male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies of
+autogynephilia. Journal of Sex and Marital Therapy, 17, 235–251.
+Blanchard, R. (1992). Nonmonotonic relation of autogynephilia and
+heterosexual attraction. Journal of Abnormal Psychology, 101,
+271–276.
+Blanchard, R. (1993a). Partial versus complete autogynephilia and gender dysphoria. Journal of Sex and Marital Therapy, 19, 301–307.
+Blanchard, R. (1993b). The she-male phenomenon and the concept of
+partial autogynephilia. Journal of Sex and Marital Therapy, 19,
+69–76.
+Blanchard, R. (1993c). Varieties of autogynephilia and their relationship
+to gender dysphoria. Archives of Sexual Behavior, 22, 241–251.
+Blanchard, R., & Hucker, S. J. (1991). Age, transvestism, bondage, and
+concurrent paraphilic activities in 117 fatal cases of autoerotic
+asphyxia. British Journal of Psychiatry, 159, 371–377.
+Blanchard, R., Racansky, I. G., & Steiner, B. W. (1986). Phallometric
+detection of fetishistic arousal in heterosexual male cross-dressers.
+Journal of Sex Research, 22, 452–462.
+Borneman, M. J. (2010). Correction for attenuation. In N. J. Salkind
+(Ed.), Encyclopedia of research design (pp. 261–264). Sage.
+Brown, A., Barker, E. D., & Rahman, Q. (2020). Erotic target identity
+inversions among men and women in an Internet sample. Journal
+of Sexual Medicine, 17, 99–110.
+Dawson, S. J., Bannerman, B. A., & Lalumière, M. L. (2016). Paraphilic interests: An examination of sex differences in a nonclinical
+sample. Sexual Abuse: A Journal of Research and Treatment, 28,
+20–45.
+First, M. B. (2005). Desire for amputation of a limb: Paraphilia, psychosis, or a new type of identity disorder. Psychological Medicine,
+35, 919–928.
+Foley, K. E. (2017, May 24). New research shows there’s a good
+reason why some people want to cut off their healthy arms and
+legs. Quartz. https://​qz.​com/​988823/​new-​resea​rch-​shows-​theres-​
+a-​g ood-​reason-​w hy-​s ome-​p eople-​want-​to-​c ut-​o ff-​t heir-​h ealt​
+hy-​arms-​and-​legs
+Freund, K., & Blanchard, R. (1993). Erotic target location errors in male
+gender dysphorics, paedophiles, and fetishists. British Journal of
+Psychiatry, 162, 558–563.
+Hall, W. J., Dawes, H. C., & Plocek, N. (2021). Sexual orientation
+identity development milestones among lesbian, gay, bisexual, and
+queer people: A systematic review and meta-analysis. Frontiers
+in Psychology, 12, 753954. https://​doi.​org/​10.​3389/​fpsyg.​2021.​
+753954
+Hsu, K. J., & Bailey, J. M. (2017). Autopedophilia: Erotic-target identity
+inversions in men sexually attracted to children. Psychological
+Science, 28, 115–123.
+Hsu, K. J., & Bailey, J. M. (2019). The “furry” phenomenon: Characterizing sexual orientation, sexual motivation, and erotic target
+identity inversions in male furries. Archives of Sexual Behavior,
+48, 1349–1369.
+Hsu, K. J., & Bailey, J. M. (2022). Erotic target identity inversions.
+In D. P. VanderLaan & W. I. Wong (Eds.), Gender and sexuality
+
+13
+
+development: Contemporary theory and research (pp. 589–612).
+Springer.
+Hsu, K. J., Rosenthal, A. M., & Bailey, J. M. (2015). The psychometric structure of items assessing autogynephilia. Archives of
+Sexual Behavior, 44, 1301–1312.
+Hsu, K. J., Rosenthal, A. M., Miller, D. I., & Bailey, J. M. (2017).
+Sexual arousal patterns of autogynephilic male cross-dressers.
+Archives of Sexual Behavior, 46, 247–253.
+Imhoff, R., Banse, R., & Schmidt, A. F. (2017). Toward a theoretical
+understanding of sexual orientation and sexual motivation [Commentary]. Archives of Sexual Behavior, 46, 29–33.
+Joyal, C. C., & Carpentier, J. (2017). The prevalence of paraphilic
+interests and behaviors in the general population: A provincial
+survey. Journal of Sex Research, 54, 161–171.
+Kimbrough, A. M., Guadagno, R. E., Muscanell, N. L., & Dill, J.
+(2013). Gender differences in mediated communication: Women
+connect more than do men. Computers in Human Behavior, 29,
+896–900.
+Kinsey, A. C., Pomeroy, W. B., & Martin, C. E. (1948). Sexual behavior
+in the human male. W. B. Saunders.
+Långström, N., & Seto, M. C. (2006). Exhibitionistic and voyeuristic behavior in a Swedish national population survey. Archives of
+Sexual Behavior, 35, 427–435.
+Långström, N., & Zucker, K. J. (2005). Transvestic fetishism in the
+general population: Prevalence and correlates. Journal of Sex and
+Marital Therapy, 31, 87–95.
+Lawrence, A. A. (2004). Autogynephilia: A paraphilic model of gender
+identity disorder. Journal of Gay and Lesbian Psychotherapy, 8,
+69–87.
+Lawrence, A. A. (2006). Clinical and theoretical parallels between
+desire for limb amputation and gender identity disorder. Archives
+of Sexual Behavior, 35, 263–278.
+Lawrence, A. A. (2007). Becoming what we love: Autogynephilic
+transsexualism conceptualized as an expression of romantic love.
+Perspectives in Biology and Medicine, 50, 506–520.
+Lawrence, A. A. (2009a). Anatomic autoandrophilia in an adult male.
+Archives of Sexual Behavior, 38, 1050–1056.
+Lawrence, A. A. (2009b). Erotic target location errors: An underappreciated paraphilic dimension. Journal of Sex Research, 46, 194–215.
+Lawrence, A. A. (2010). Societal individualism predicts prevalence
+of nonhomosexual orientation in male-to-female transsexualism.
+Archives of Sexual Behavior, 39, 573–583.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. Springer.
+Lawrence, A. A. (2017). Autogynephilia and the typology of maleto-female transsexualism: Concepts and controversies. European
+Psychologist, 22, 39–54.
+Moser, C., & Kleinplatz, P. J. (2020). Conceptualization, history, and
+future of the paraphilias. Annual Review of Clinical Psychology,
+16, 379–399.
+Parzer, V., Sjöholm, K., Brix, J. M., Svensson, P. A., Ludvik, B., &
+Taube, M. (2021). Development of a BMI-assigned Stunkard scale
+for the evaluation of body image perception based on data of the
+SOS reference study. Obesity Facts, 14, 397–404.
+Ramachandran, V. S., & McGeoch, P. (2007). Can vestibular caloric
+stimulation be used to treat apotemnophilia? Medical Hypotheses,
+69, 250–252.
+Roberts, S. E., Plante, C. N., Reysen, S., & Gerbasi, K. C. (2016). Not
+all fantasies are created equal: Fantasy sport fans’ perceptions of
+furry, brony, and anime fans. Phoenix Papers, 2, 40–60.
+Serano, J. (2020). Autogynephilia: A scientific review, feminist analysis, and alternative ‘embodiment fantasies’ model. Sociological
+Review, 68, 763–778.
+Seto, M. C. (2012). Is pedophilia a sexual orientation? Archives of
+Sexual Behavior, 41, 231–236.
+
+Archives of Sexual Behavior
+Seto, M. C. (2017). The puzzle of male chronophilias. Archives of
+Sexual Behavior, 46, 3–22.
+Stoller, R. J. (1985). A child fetishist. In Presentations of gender (pp.
+93–136). Yale University Press.
+Stunkard, A. J., Sorenson, T., & Schulsinger, F. (1983). Use of the Danish adoption register for the study of obesity and thinness. In S.
+Kety, L. P. Rowland, R. L. Sidman, & S. W. Matthysse (Eds.), The
+genetics of neurological and psychiatric disorders (pp. 115–120).
+Raven.
+Swami, V., Frederick, D. A., Aavik, T., Alcalay, L., Allik, J., Anderson,
+D., et al. (2010). The attractive female body weight and female
+body dissatisfaction in 26 countries across 10 world regions:
+Results of the International Body Project I. Personality and Social
+Psychology Bulletin, 36, 309–325.
+Trafimow, D. (2016). The attenuation of correlation coefficients: A statistical literacy issue. Teaching Statistics, 38, 25–28.
+
+Weir, C. B., & Jan, A. (2019). BMI classification percentile and cut off
+points. Treasure: StatPearls.
+Zucker, K. J., & Blanchard, R. (1997). Transvestic fetishism: Psychopathology and theory. In D. R. Laws & W. O’Donohue (Eds.),
+Sexual deviance: Theory, assessment, and treatment (pp. 253–
+279). Guilford.
+Publisher's Note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds
+exclusive rights to this article under a publishing agreement with the
+author(s) or other rightsholder(s); author self-archiving of the accepted
+manuscript version of this article is solely governed by the terms of such
+publishing agreement and applicable law.
+
+13
+
+

@@ -1,0 +1,103 @@
+{
+ "post": {
+  "_id": "fmA2GJwZzYtkrAKYJ",
+  "title": "Algorithms of Deception!",
+  "postedAt": "2019-10-19T18:04:17.975Z",
+  "pageUrl": "https://www.lesswrong.com/posts/fmA2GJwZzYtkrAKYJ/algorithms-of-deception",
+  "commentCount": 7
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "dD8DoxRwZKMcmrcEf",
+   "parentCommentId": null,
+   "postedAt": "2019-10-19T22:00:21.113Z",
+   "baseScore": 1,
+   "user": {
+    "username": "artifex",
+    "displayName": "artifex"
+   },
+   "contents": {
+    "markdown": "Category gerrymandering doesn\u2019t seem like a different algorithm from selective reporting. In both cases, the reporter is providing only part of the evidence."
+   }
+  },
+  {
+   "_id": "WQNt97PH6DvP7vy4Q",
+   "parentCommentId": null,
+   "postedAt": "2019-10-20T01:02:54.274Z",
+   "baseScore": 2,
+   "user": {
+    "username": "mr-hire",
+    "displayName": "Trinley Goldenberg"
+   },
+   "contents": {
+    "markdown": "This is interesting! The straightforward research program here seems to just be to study heuristics and biases, yes? I'm curious if you're going in a different direction."
+   }
+  },
+  {
+   "_id": "tvwsBepFeYgMvQuzy",
+   "parentCommentId": null,
+   "postedAt": "2019-10-20T02:11:39.629Z",
+   "baseScore": 7,
+   "user": {
+    "username": "romeostevensit",
+    "displayName": "romeostevensit"
+   },
+   "contents": {
+    "markdown": "I might summarize the hansonian/elephant in the brain position thusly: sincerity is selected for."
+   }
+  },
+  {
+   "_id": "MbCAyTfst53opS28Y",
+   "parentCommentId": null,
+   "postedAt": "2019-10-20T04:30:51.517Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Pattern",
+    "displayName": "Pattern"
+   },
+   "contents": {
+    "markdown": "> *very similar*\n\nThe same for 4 significant digits.\n\n> \\[a\\] perfectly sincere.\n\n> \\[b\\] In a peaceful world where most falsehood was due to random mistakes, there would be little to be gained by studying processes that systematically create erroneous maps.\n\nSystematic error is conflated with conflict (in b), following sections (in the vicinity of a) which claim error is not conscious. Even if I accept b,\n\n> \\[c\\] . In a world of [conflict](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/), where there are [forces trying to slash your tires](https://www.lesswrong.com/posts/XTWkjCJScy2GFAgDt/dark-side-epistemology), one would do well do study these\u2014*algorithms of deception!*\n\nwhy should c follow? Why not tune out what can't be verified, or isn't worth verifying? (I say this as someone who intends to vote on this post only after running the code.)"
+   }
+  },
+  {
+   "_id": "pRjtC2hT3Ts39KztH",
+   "parentCommentId": null,
+   "postedAt": "2019-10-20T07:42:04.049Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Isnasene",
+    "displayName": "Isnasene"
+   },
+   "contents": {
+    "markdown": "This is the kind of issue that [being really specific](https://www.lesswrong.com/posts/FfrWGCEhZJbkeFgww/the-power-to-demolish-arguments) can be used to resolve. If the Reporters were specific about what they were trying to do in their reporting, the Audience would not have used their reports. If this is unfeasible, the Audience could still specifically ask the Reporters to clarify whether they think she will be able to figure out the specific things she is trying to figure out using their reports. If they mislead her here, Audience can credibly claim that either she was lied to or that the reporters are not competent enough to be relied on for information. Pragmatically, both these possibilities imply a course-of-action that involved not using the reporters as reporters.\n\nTo illustrate in detail:\n\n> So, too, imagine each of our possible Reporters as a person: loyal, responsible\u2014and, entirely coincidentally, the supplier of a good that Audience's careful plans call for in proportion to the value of P(X=4).\n\nIn this context, the audience has an explicit goal of estimating how frequently X=4 occurs. Keeping this in mind, the problem the audience is having can be understood in the context of interacting with reports with misaligned goals.\n\n> Sure, I'm not a perfect program free from all bias, but everything I said was true\u2014every outcome I reported corresponded to one of the Xi. [You can't call that misleading!](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting)\"\n\nReporter 2's goal seems to be \"report values that correspond to one of the Xi.\" This is misaligned with a goal associated with estimating the distribution of X.\n\n> I told you the truth, the whole truth, and nothing but the truth: everything I saw, I reported. When I said an outcome was a oneorfour, it actually was a oneorfour. Perhaps you have a different category system, such that what *I* think of as a 'oneorfour', appears to you to be any of several completely different outcomes, which you think my 'oneorfour' concept is conflating.\n\nReporter 3's goal seems to be \"report values but conflate ones and fours into a 'oneorfour' category\" (in the actual programming, this is a misrepresentation of course. Reporting a one *or* a four as a one *and* a four isn't the same thing). This is misaligned with the goal of figuring out how frequently fours are specifically.\n\nIf Reporter 2 or Reporter 3 had explicitly specified what they were trying to do, the Audience wouldn't have used them as an information source.\n\nIf Reporter 2 had told Audience that he believed Alice could determine probabilities just from his reporting, he would be lying, or too incompetent to trust.\n\nIf Reporter 3 had told Audience that he believed Alice could distinguish the probability of fours separate from the probabilities of ones, he would be lying, or too incompetent to trust."
+   }
+  },
+  {
+   "_id": "ZGReMw2YezeyqvAd3",
+   "parentCommentId": "MbCAyTfst53opS28Y",
+   "postedAt": "2019-10-20T07:51:11.152Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Isnasene",
+    "displayName": "Isnasene"
+   },
+   "contents": {
+    "markdown": "> why should c follow? Why not tune out what can't be verified, or isn't worth verifying? (I say this as someone who intends to vote on this post only after running the code.)\n\nBecause of things like [selective reporting](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), the vast majority of information reported to us tends to be misleading, but not without some level of useful information (and sometimes a lot of useful information). Instead of tuning out information or spending exhaustive amounts of time attempting to verify it, a faster solution is often to figure out ways to adjust the (inaccurate) information for deception to get only the useful information and a better understanding of uncertainty within it.\n\nOf course, if there is a 100% un-deceptive source for a given piece of information, there's not much value in trying to use deceptive sources for that same piece of information (unless the former source is much more expensive than the latter)."
+   }
+  },
+  {
+   "_id": "ncAv4bPDMAfn8dTHG",
+   "parentCommentId": null,
+   "postedAt": "2020-05-06T05:38:20.476Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Pongo",
+    "displayName": "Pongo"
+   },
+   "contents": {
+    "markdown": "> If true \"beliefs\" are models that [make accurate predictions](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences), then *deception* would presumably be communication that systematically results in *less* accurate predictions (by a listener applying the same inference algorithms that would result in more accurate predictions when applied to direct observations or \"honest\" reports).\n\nThis helped me clarify that these *algorithms of deception* are not just adversarially attempting to deceive, but in fact adversarially crafted for one's belief-forming mechanisms."
+   }
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "post": {
+  "_id": "T6hmrZRCvmwt4DNAw",
+  "title": "Fake Deeply",
+  "postedAt": "2023-10-26T19:55:22.340Z",
+  "pageUrl": "https://www.lesswrong.com/posts/T6hmrZRCvmwt4DNAw/fake-deeply",
+  "commentCount": 7
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "QRHYQJkptaYqJMDKs",
+   "parentCommentId": null,
+   "postedAt": "2023-10-26T19:55:39.230Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "I was feeling shy about publishing this one (because it touches on some sensitive themes) and sat on it for a couple weeks, but I'm going ahead and pulling the trigger now specifically in order to spite Anthropic Claude's smug censoriousness.\n\n![](https://i.imgur.com/8VW8k7l.png)"
+   }
+  },
+  {
+   "_id": "BANfaS7ProyhnqnZJ",
+   "parentCommentId": "QRHYQJkptaYqJMDKs",
+   "postedAt": "2023-10-26T21:00:25.297Z",
+   "baseScore": 10,
+   "user": {
+    "username": "nathan-helm-burger",
+    "displayName": "Nathan Helm-Burger"
+   },
+   "contents": {
+    "markdown": "Interesting to note that Claude failed to pick up on the fact that the main character was being implicitly criticized for their transphobic views. That's quite different from normalizing the behavior uncritically! Like a complete nerd, I'm going to save this story to use as an eval for testing future LLMs to see if they pick up on the implied criticism of the main character....\n\nI tried it out and saved the results. I eventually walked Claude through the logic enough to recognize the implied point of view, but it took more steps than would be needed with a sharp college student. I'll give it a try with GPT-4\n\nFinal conclusion:\n\n\"NHB: As Jake's opinions and morality are given a negative portrayal in the story, what does this imply about the intended viewpoint of the reader towards Jake's attitude on transexuality?\n\nClaude: You raise a good point. Since the story presents Jake in an overall negative light, that likely indicates the reader is meant to view his prejudiced attitudes in a critical way as well, including his implicit bias against Chloe's transgender identity.\n\nSpecifically:\n\n*   Jake's inner monologue mocks and looks down on Chloe for being trans, suggesting narrow-mindedness.\n*   But Jake is clearly portrayed as deeply flawed in his principles and worldview throughout the story.\n*   Therefore, the reader is likely meant to see Jake's implicitly transphobic viewpoint as misguided and objectionable, as part of his generally negative characterization.\n*   The story does not seem to endorse Jake's biased perspective, given that he is the unethical antagonist.\n*   Rather, it suggests the reader should reject Jake's problematic attitudes, including on gender identity.\n\nSo in summary, you make a fair point - since Jake's opinions are shown in a negative light overall, that likely applies to his implied transphobia as well. The story seems intended to critique rather than endorse that narrow attitude, by presenting it through the lens of an unprincipled character. Please let me know if you would like me to expand on this analysis at all!\"\n\nTried with chatGPT-3.5, and it did much worse than Claude.\n\n\"The story does not explicitly address Jake's attitude towards transgender individuals or issues related to transgenderism. Instead, it focuses on Jake's actions and behaviors in the context of his work and interactions with his colleague Chlo\u00eb. Jake's unethical actions, such as creating explicit content of his coworkers without their consent and attempting to cover it up, are portrayed negatively in the story. The story does not provide specific information about Jake's views on transgender people or issues, so it does not imply anything about his attitude towards transgender individuals. The intended viewpoint of the reader is more focused on Jake's unethical behavior and the potential consequences of his actions rather than his views on any specific topic related to transexuality.\""
+   }
+  },
+  {
+   "_id": "hdYmrpXsDM7xhWYPx",
+   "parentCommentId": "BANfaS7ProyhnqnZJ",
+   "postedAt": "2023-10-27T05:54:38.669Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> the fact that the main character was being implicitly criticized for their transphobic views\n\nUm ... yes ... exactly. There's definitely no need to read any of the other posts on that blog to confirm that there's no resemblance whatsoever between the character's views on that topic and those of the author. It would be a waste of time!"
+   }
+  },
+  {
+   "_id": "shv2Re2pRunX5vS5n",
+   "parentCommentId": "hdYmrpXsDM7xhWYPx",
+   "postedAt": "2023-10-27T12:39:05.880Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "I've never worked out just what your views on \"that topic\" are, and I can't tell how many levels deep in irony you're at here. However, since transness does make a fleeting appearance in this story, so fleeting that it could have been omitted without a visible hole, I conclude that it is there for a purpose. But where is this Chekhov's gun fired? In the title, \"Fake Deeply\"."
+   }
+  },
+  {
+   "_id": "uR8uqvmx44tBLu6aN",
+   "parentCommentId": "shv2Re2pRunX5vS5n",
+   "postedAt": "2023-10-29T22:49:42.207Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> I've never worked out just what your views on \"that topic\" are\n\nIf you have any specific questions, I'm happy to clarify! (If the uncertainty is just, \"I can't tell what side you're on, For or Against\", that's deliberate; [I don't do policy](http://unremediatedgender.space/2021/Sep/i-dont-do-policy/).)\n\n> But where is this Chekhov's gun fired? In the title, \"Fake Deeply\".\n\nNo, the title is just a play on [\"deepfake\"](https://en.wikipedia.org/wiki/Deepfake). (Unfortunately, as an occasional fiction writer, I think I'm better at characterization and ideas rather than plot; I _wish_ I knew how to load and fire Chekov's gun.) I wrote more about the creative process in [a comment on /r/rational](https://old.reddit.com/r/rational/comments/17h5exh/rtchsf_fake_deeply/k70k5ky/?context=1).\n\n"
+   }
+  },
+  {
+   "_id": "HPW9gWieDrdmbn6gN",
+   "parentCommentId": "uR8uqvmx44tBLu6aN",
+   "postedAt": "2023-10-30T14:31:06.090Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "My impression is that Jake's thoughts on trans matters are yours, given plausible deniability by putting them in the mind of a character intended to be read as unsympathetic. The naive reader might read the story as criticising those ideas, just from halo effect. Nathan certainly read it that way, found that the Claude AI didn't, and responded by forcing Claude to say what he wanted it to say.\n\nBTW, while Jake may be intended to be seen as the bad guy in this story, I believe that some readers are going to side with Jake all the way through."
+   }
+  },
+  {
+   "_id": "y8efNisDeof74adnJ",
+   "parentCommentId": "uR8uqvmx44tBLu6aN",
+   "postedAt": "2024-01-19T02:37:52.585Z",
+   "baseScore": 3,
+   "user": {
+    "username": "martin-randall",
+    "displayName": "Martin Randall"
+   },
+   "contents": {
+    "markdown": "The title and theme may be an accidental allusion to the difficulty of passing in tech but it's a pretty great allusion. Tip your muse, I guess."
+   }
+  }
+ ]
+}

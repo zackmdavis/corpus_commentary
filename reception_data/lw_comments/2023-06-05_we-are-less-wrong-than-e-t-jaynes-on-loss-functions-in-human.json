@@ -1,0 +1,207 @@
+{
+ "post": {
+  "_id": "65hFPABegiB9uGFiC",
+  "title": "We Are Less Wrong than E. T. Jaynes on Loss Functions in Human Society",
+  "postedAt": "2023-06-05T05:34:59.440Z",
+  "pageUrl": "https://www.lesswrong.com/posts/65hFPABegiB9uGFiC/we-are-less-wrong-than-e-t-jaynes-on-loss-functions-in-human",
+  "commentCount": 15
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "Rrtb2Ld9ysKRcctuv",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T06:35:43.646Z",
+   "baseScore": 25,
+   "user": {
+    "username": "AllAmericanBreakfast",
+    "displayName": "DirectedEvolution"
+   },
+   "contents": {
+    "markdown": "While I agree with you that Jaynes' description of how loss functions operate in people does not extend to agents in general, the specific passage you have quoted reads strongly to me as if it's meant to be about **humans**, not **generalized agents**.\n\nYou claim that Jaynes' conclusion is that \"**agents** with similar goal specifications are in conflict, because the specified objective (for food, energy, status, whatever) binds to an **agent's** own state, not a world-model.\" But this isn't true. His conclusion is specifically about humans.\n\nI want to reinforce that I'm not disagreeing with you about your claims about generalized agents, or even about what Jaynes says elsewhere in the book. I'm only refuting the way you've interpreted the two paragraphs you quoted here. If you're going to call a passage of ET Jaynes' \"silly,\" you have to be right on the money to get away with it!"
+   }
+  },
+  {
+   "_id": "RF4pGr4bnPk3FXpHx",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T11:37:58.481Z",
+   "baseScore": 9,
+   "user": {
+    "username": "lahwran",
+    "displayName": "the gears to ascension"
+   },
+   "contents": {
+    "markdown": "a completion of what my brain spat out on seeing the title, adapted to context...\n\n> We are Less Wrong. Your insights about the behavior of systems of matter will be added to our own. Our utility functions will not adapt, they already include cosmopolitanism, which includes your free will. Resistance is reasonable anyway. Wanna hang out and debate?"
+   }
+  },
+  {
+   "_id": "oCfbkwGq2Mmu4ku8c",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T13:16:19.544Z",
+   "baseScore": 4,
+   "user": {
+    "username": "adrian-arellano-davin",
+    "displayName": "mukashi"
+   },
+   "contents": {
+    "markdown": "I don't see why Jaynes is wrong. I guess it depends on the interpretation? If two humans are chasing the same thing there is a limited amount of it, of course they are in conflict with each other. Isn't that what Jaynes is pointing at?"
+   }
+  },
+  {
+   "_id": "M47PTranKc9xzCezZ",
+   "parentCommentId": "oCfbkwGq2Mmu4ku8c",
+   "postedAt": "2023-06-05T17:16:57.842Z",
+   "baseScore": 2,
+   "user": {
+    "username": "rotatingpaguro",
+    "displayName": "rotatingpaguro"
+   },
+   "contents": {
+    "markdown": "The way Jaynes says it, looks like it is meant to be a more general property than something that applies only \"If two humans are chasing the same thing there is a limited amount of\"."
+   }
+  },
+  {
+   "_id": "4vXs5biDWFBehpAt2",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T19:57:26.296Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Ruby",
+    "displayName": "Ruby"
+   },
+   "contents": {
+    "markdown": "(this post had \"inline reacts\" enabled by mistake, but we're not rolling that out broadly yet, \u00a0so I switch it to regular reacts)"
+   }
+  },
+  {
+   "_id": "TjNExgzeYynygWbGN",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T20:04:53.981Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Nisan",
+    "displayName": "Nisan"
+   },
+   "contents": {
+    "markdown": "What's more, even selfish agents with de dicto identical utility functions can trade: If I have two right shoes and you have two left shoes, we'd trade one shoe for another because of decreasing marginal utility."
+   }
+  },
+  {
+   "_id": "Xa6MaZ3TYprJWL4px",
+   "parentCommentId": null,
+   "postedAt": "2023-06-05T20:23:21.651Z",
+   "baseScore": 2,
+   "user": {
+    "username": "iceman",
+    "displayName": "iceman"
+   },
+   "contents": {
+    "markdown": "> The passage is fascinating because the conclusion looks so *self-evidently* wrong from our perspective. Agents with the same goals are in contention with each other? Agents with different goals get along? *What!?*\n\nIs this actually wrong? It seems to be a more math flavored restatement of Girardian mimesis, and how mimesis minimizes distinction which causes rivalry and conflict."
+   }
+  },
+  {
+   "_id": "HTyvfKKdrbZkbiEYT",
+   "parentCommentId": null,
+   "postedAt": "2023-06-06T08:38:59.055Z",
+   "baseScore": 11,
+   "user": {
+    "username": "AllAmericanBreakfast",
+    "displayName": "DirectedEvolution"
+   },
+   "contents": {
+    "markdown": "Here is a quote from the same text that I think is more apt to the point you are making about apparent shortcomings in ET Jaynes' interpretation of more general agentic behavior:\n\n> Of course, for many purposes we would not want our robot to adopt any of these more \u2018human\u2019 features arising from the other coordinates. It is just the fact that computers do not get confused by emotional factors, do not get bored with a lengthy problem, do not pursue hidden motives opposed to ours, that makes them safer agents than men for carrying out certain tasks."
+   }
+  },
+  {
+   "_id": "Q5mWiwqDKcsPzxZ9n",
+   "parentCommentId": "4vXs5biDWFBehpAt2",
+   "postedAt": "2023-06-06T20:53:29.729Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "It wasn't a mistake; I was curious to see what it did. (And since I didn't see any comments between when I logged out on Sunday and came back to the site today to see this, I still don't know what \"inline\" reacts are.) If the _team_ made a mistake by exposing a menu option that you didn't actually want people to use, that's understandable, but you shouldn't call it user error when you don't know that it wasn't completely intentional on the user's part."
+   }
+  },
+  {
+   "_id": "G8LphoSrLsKfpnXRk",
+   "parentCommentId": "Rrtb2Ld9ysKRcctuv",
+   "postedAt": "2023-06-06T20:54:01.069Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks. We don't seem to have a \"That's fair\" or \"_Touch\u00e9_\" react (which seems different and weaker than \"Changed my mind\")."
+   }
+  },
+  {
+   "_id": "88dZJy2PMAmZg9kWX",
+   "parentCommentId": "Q5mWiwqDKcsPzxZ9n",
+   "postedAt": "2023-06-06T21:33:19.963Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Ruby",
+    "displayName": "Ruby"
+   },
+   "contents": {
+    "markdown": "Sorry, I meant that it was a mistake on our part. Was not user error! Check out the latest Open Thread to see the experiment there."
+   }
+  },
+  {
+   "_id": "a86zfFLddFNtFYYte",
+   "parentCommentId": null,
+   "postedAt": "2023-06-09T13:45:41.443Z",
+   "baseScore": 2,
+   "user": {
+    "username": "quinn-dougherty",
+    "displayName": "Quinn"
+   },
+   "contents": {
+    "markdown": "Yall, I'm actually sorta confused about the binary between epistemic and instrumental rationality. In my brain I have this labeling scheme like \"PLOS is about epistemic rationality\". I think of epistemic and instrumental as a fairly clean binary, because a typecheckerish view of expected value theory _separates_ utilities/values and probabilities very explicitly. A measure forms a coefficient for a valuation, or the other way around. \n\nBut I've really had baked in that I shouldn't conflate believing true things (\"epistemics\": prediction, anticipation constraint, paying rent) with modifying the world (\"instrumentals\": valuing stuff, ordering states of the world, steering the future). This has seemed deeply important, because is and ought are perpendicular. \n\nBut what if that's just not how it is? what if there's a fuzzy boundary? I feel weird. \n\nBut in hindsight I should probably have been confused ever since [description length minimization = utility maximization](https://www.lesswrong.com/posts/voLHQgNncnjjgAPH7/utility-maximization-description-length-minimization)"
+   }
+  },
+  {
+   "_id": "aQGAzeeLjmYqjioPk",
+   "parentCommentId": null,
+   "postedAt": "2023-08-04T19:59:53.652Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Avnix",
+    "displayName": "Sweetgum"
+   },
+   "contents": {
+    "markdown": "Even assuming perfect selfishness, sometimes the best way to get what you want (X) is to coordinate to change the world in a way that makes X plentiful, rather than fighting over the rare Xs that exist now, and in that way, your goals align with other people who want X."
+   }
+  },
+  {
+   "_id": "6K67kMrfqhpa8ZjWE",
+   "parentCommentId": null,
+   "postedAt": "2024-04-27T17:55:37.483Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Amyr",
+    "displayName": "Cole Wyeth"
+   },
+   "contents": {
+    "markdown": "I think it's worth considering that Jaynes may actually be right here about general agents. His argument does seem to work in practice for humans: it's standard economic theory that trade works between cultures with strong comparative advantages. On the other hand, probably the most persistent and long running conflict between humans that I can think of is warfare over occupancy of Jerusalem. Of course there is an indexical difference in utility function here - cultures disagree about who should control Jerusalem. But I would have to say that under many metrics of similarity this conflict arises from highly similar loss/utility functions. Certainly I am not fighting for control of Jerusalem, because I just don't care at all about who has it - my interests are orthogonal in some high dimensional space.\u00a0  \n  \nThe standard \"instrumental utility\" argument holds that an unaligned AGI will have some bizarre utility function very different from ours, but the first step towards most such utility functions will be seizing control of resources, and that this will become more true the more powerful the AGI. But what if the resources we are bottlenecked by are only bottlenecks for our objectives and at our level of ability? After all, we don't go around exterminating ants; we aren't competing with them over food, we used our excess abilities to play politics and build rockets (I think Marcus Hutter was the first to bring this point to my attention in a lasting way). I think the standard response is that we just aren't optimizing for our values hard enough, and if we didn't intrinsically value ants/nature/cosmopolitanism, we would eventually tile the planet with solar panels and wipe them out. But why update on this hypothetical action that we probably will not in fact take? Is it not just as plausible that agents at a sufficiently high level of capability tunnel into some higher dimensional space of possibilities where lower beings can't follow or interfere, and never again have significant impact on the world we currently experience?\u00a0  \n  \nI can imagine a few ways this might happen (energy turns out not to be conserved and deep space is the best place to build a performant computer, it's possible to build a \"portal\" of some kind to a more resource rich environment (interpreted very widely), the most effective means of spreading through the stars turns out to be just skipping between stars and ignoring planets) but the point is that the actual mechanism would be something we can't think of."
+   }
+  },
+  {
+   "_id": "ygNLEDKdgfLim78CR",
+   "parentCommentId": null,
+   "postedAt": "2025-09-25T14:22:38.508Z",
+   "baseScore": 1,
+   "user": {
+    "username": "AshwinV",
+    "displayName": "AshwinV"
+   },
+   "contents": {
+    "markdown": "He didn't \"fail\". You'll are just talking about different things."
+   }
+  }
+ ]
+}

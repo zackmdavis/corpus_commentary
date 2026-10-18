@@ -1,0 +1,129 @@
+{
+ "post": {
+  "_id": "tREnA5EvTikWf9Mfw",
+  "title": "Zeynep Tufekci on Why Telling People They Don't Need Masks Backfired",
+  "postedAt": "2020-03-18T04:34:09.644Z",
+  "pageUrl": "https://www.lesswrong.com/posts/tREnA5EvTikWf9Mfw/zeynep-tufekci-on-why-telling-people-they-don-t-need-masks",
+  "commentCount": 9
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "N6cEiftNHyuhdfwKe",
+   "parentCommentId": null,
+   "postedAt": "2020-03-18T05:19:37.336Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Yeah, I shared this in a comment on the previous LW CDC thread. I also shared [The Bizarre Adventures of the Surgical Mask](https://www.scaruffi.com/politics/world20.html#wor0320b) by Piero Scaruffi, a non-news media post that seems like a bunch of similar arguments independently."
+   }
+  },
+  {
+   "_id": "22NtuaPBTBAkgLLEF",
+   "parentCommentId": null,
+   "postedAt": "2020-03-18T06:52:34.922Z",
+   "baseScore": 4,
+   "user": {
+    "username": "waveman",
+    "displayName": "waveman"
+   },
+   "contents": {
+    "markdown": "Lying to people gives a short term benefit but longer term destroys your credibility."
+   }
+  },
+  {
+   "_id": "pbbiCbSRXK6NnXpFu",
+   "parentCommentId": null,
+   "postedAt": "2020-03-18T07:42:33.872Z",
+   "baseScore": 8,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "It takes 10x as much work to refute bullshit than to produce it, and 100x as much work to show that the bullshit has net negative consequences as it does to produce it (numbers approximate, of course).  This has strong implications for social epistemology, constitutional law, and security."
+   }
+  },
+  {
+   "_id": "H5T4XJXzZhcpqFmiB",
+   "parentCommentId": null,
+   "postedAt": "2020-03-18T08:12:36.106Z",
+   "baseScore": 41,
+   "user": {
+    "username": "Nick_Tarleton",
+    "displayName": "Nick_Tarleton"
+   },
+   "contents": {
+    "markdown": "I find the 'backfired through distrust'/'damaged their own credibility' claim plausible, it agrees with my prejudices, and I think I see evidence of similar things happening elsewhere; but the article doesn't contain evidence that it happened in this case, and even though it's a priori likely and worth pointing out, the claim that it _did_ happen should come with evidence. (This is a nitpick, but I think it's an important nitpick in the spirit of [sharing likelihood ratios, not posterior beliefs](http://www.overcomingbias.com/2009/02/share-likelihood-ratios-not-posterior-beliefs.html).)"
+   }
+  },
+  {
+   "_id": "zhuRA3p8xaELdxcMj",
+   "parentCommentId": "H5T4XJXzZhcpqFmiB",
+   "postedAt": "2020-03-18T23:58:41.027Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "I'd say this isn't just a nitpicking, it's pretty directly challenging the core claim. Or at least, if the essay didn't want to be making that it's core claim, it should have picked a different title. (I say that while generally endorsing the article)"
+   }
+  },
+  {
+   "_id": "MW5kwAhxFL44aswj4",
+   "parentCommentId": "H5T4XJXzZhcpqFmiB",
+   "postedAt": "2020-03-19T05:38:48.525Z",
+   "baseScore": 19,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Yeah. I regularly model headlines like this as being part of [the later levels of simulacra](https://www.lesswrong.com/posts/fEX7G2N7CtmZQ3eB5/simulacra-and-subjectivity). The article argued that it *should* backfire, but it also said that it *already* had. If the article catches on, then it will become true to the majority of people who read it. It's trying to create the news that it's reporting on. It's trying to make something true by saying it is.\n\nI think a lot of articles are like that these days. They're trying to report on what's part of social reality, but social reality depends on what goes viral on twitter/fb/etc, so they work to inject themselves into that social reality by attempting to directly manipulate it. The article is suggesting that it's reporting on social reality, making it exciting for you to read it, but it actually only becomes true if it succeeds in getting a lot of people to read it."
+   }
+  },
+  {
+   "_id": "cu9mv7cgbQsZYvPNK",
+   "parentCommentId": null,
+   "postedAt": "2020-03-22T04:26:51.853Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Jayson_Virissimo",
+    "displayName": "Jayson_Virissimo"
+   },
+   "contents": {
+    "markdown": "I've been trying to get flattenthecurve.com to remove their anti-mask section [here](https://github.com/flattenthecurve/guide/pull/131), but it's been stalled for 5 days now.\n\nEDIT: They merged my anti-mask section removal. We are collaborating on a pro-mask section now.\n\nEDIT2: There is now a [pro-mask section](https://www.flattenthecurve.com/act-and-prepare/#wear-a-facemask-when-in-public)."
+   }
+  },
+  {
+   "_id": "tMqTC3axX7HNbE3yo",
+   "parentCommentId": "zhuRA3p8xaELdxcMj",
+   "postedAt": "2020-03-28T17:43:16.800Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Kenny",
+    "displayName": "Kenny"
+   },
+   "contents": {
+    "markdown": "This is a general problem \u2013 titles or headlines making stronger claims than the article \u2013 and seems to be due to a different person, or different people, choosing the title or headline than the person or persons that wrote the article."
+   }
+  },
+  {
+   "_id": "A3zTRaW5Joyg5W9Rm",
+   "parentCommentId": "22NtuaPBTBAkgLLEF",
+   "postedAt": "2020-03-30T21:00:06.509Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Jayson_Virissimo",
+    "displayName": "Jayson_Virissimo"
+   },
+   "contents": {
+    "markdown": "No, lying seems to have a short term cost as well, since in the places where mask wearing is encouraged people are creating homemade masks (and donating their N95s to hospitals)."
+   }
+  }
+ ]
+}

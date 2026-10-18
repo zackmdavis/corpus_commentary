@@ -1,0 +1,225 @@
+Skip to content
+
+Skip to navigation
+
+University of Notre Dame
+
+University of Notre Dame
+
+Philosophical Reviews
+
+About
+
+Reviews
+
+For Reviewers
+
+Subscribe
+
+About
+
+Reviews
+
+For Reviewers
+
+Subscribe
+
+Home
+
+Reviews
+
+Lying, Misleading, and What is Said: An Exploration in Philosophy of Language and in Ethics
+
+Lying, Misleading, and What is Said: An Exploration in Philosophy of Language and in Ethics
+
+Jennifer Mather Saul, Lying, Misleading, and What is Said: An Exploration in Philosophy of Language and in Ethics, Oxford University Press, 2012, 144pp., $55.00 (hbk), ISBN 9780199603688.
+
+Reviewed by Luvell Anderson, University of Memphis
+
+2013.07.03
+
+In this excellent and enjoyable book, Jennifer Saul explores issues at the convergence of the philosophy of language and ethics. Her book is an excellent addition to a growing literature of what might be considered applied philosophy of language.
+
+In chapter 1 Saul lays out her definition of lying. She indicates that although there are senses of lying that may include all intentional deceptions, she is only interested in the sense of lying that contrasts with misleading; and this will importantly involve the notion of saying. That there is a linguistic distinction between lying and misleading is quite intuitive. Saul illustrates the distinction with the following statement by former president Clinton on his relationship with Monica Lewinsky,
+
+(1) There is no improper relationship.
+
+If we are taking 'is' in (1) as a present-tense denial, then it seems Clinton cannot be charged with lying if at the time he was not involved with Lewinsky. Although (1) might be misleading, what Clinton said was strictly speaking true (as opposed to what he may have conveyed, which is that he and Lewinsky never had any improper relations, at anytime whatsoever).
+
+The notion of what is said is crucial for the lying-misleading distinction, according to Saul, because without it we run the risk of making every intentional deception a lie, thereby obliterating the distinction. As a result, the definition of lying that Saul adopts crucially involves what is said. She entertains several definitions before arriving at the preferred one stated here:
+
+Lying: If the speaker is not the victim of linguistic error/malapropism or using metaphor, hyperbole, or irony, then they lie iff (1) they say that P; (2) they believe P to be false; (3) they take themselves to be in a warranting context. (3)
+
+Notice that in Saul's definition what is said need not be false in order for a speaker's utterance to be a lie. On her account, an individual can lie even when what is said is, strictly speaking, true. Intuitions differ here of course, so a choice must be made. For those of us partial to the intuitive pull of the idea that a lie must include a false statement Saul allows an addendum -- i.e. 'P is false' -- to her proposed definition.
+
+Saul appeals to a 'warranting context' to account for cases in which a speaker intuitively lies without any intention to deceive. A speaker warrants the truth of her statement if she explicitly or implicitly guarantees the truth of her statement. As Saul points out, several people have challenged the idea that lies must involve an intention to deceive. She marshals some pretty convincing evidence against that claim. One case recounts a man who witnesses a murder, a fact that is captured in CCTV footage. The witness denies having seen the murder on the stand, fearing he will lose his life if he testifies. He knows that everyone else knows he witnessed the murder, precluding any attempt to deceive. Saul thinks many of us still consider the witness's utterance of
+
+(2) I did not see the murder.
+
+a lie. If that is correct, then examples like this suggest an intention to deceive is not necessary for lying.
+
+In chapter 2, Saul examines various notions of what is said since her definition of lying prominently involves this notion. Saul argues that Grice's view of what is said is unacceptable since its three main features -- (1) what is said is very closely linked to the sentence uttered, and varies very little from one context to another, (2) what is said by a sentence containing an ambiguous word such as 'bank' can vary from one context to another, and (3) an utterance's truth value is determined by what is said -- run into significant difficulties. One difficulty concerns how sentences with demonstratives like 'this,' 'that,' 'he,' and 'she' are supplemented to determine their contribution. As Saul points out, these expressions require contextual supplementation, which Grice's view appears to rule out as a permissible way of capturing what is said. Also, so-called 'completion cases,' e.g. cases involving sentences like
+
+(3) Beau is late.
+
+(4) Charla's had enough.
+
+require a kind of supplementation that goes beyond anything contained in the words of the sentence uttered in order to provide a truth-evaluable utterance. And finally 'expansion' cases, characterized by sentences like
+
+(5) Billy went to the top of the Empire State Building and jumped.
+
+require contextual contributions beyond what Grice allows to be included in what is said.
+
+Saul presents three candidate views: Unconstrained Theories, Constrained Theories, and Austere Theories. According to Unconstrained Theories, what is said can deviate radically from the constituents of the uttered sentence. The representative view Saul discusses is that of Cappelen and Lepore (2005). This view says that an utterance asserts indefinitely many propositions. What counts as an expressed proposition is whatever a reasonable person would claim is said.
+
+Saul points out that this view doesn't work for the lying-misleading distinction because it makes it very difficult to mislead. On this view, given the multiplicity of propositions uttered, there will most likely be a proposition P someone utters and believes to be false. As a result, the proposed definition will count such utterances as lies since the speaker says something she believes to be false.
+
+Next, Saul introduces Constrained Theories. Because Unconstrained Theories allowed very loose constraints on what is said with dire effects, perhaps a stricter view is needed, one that ties what is said closer to the overt elements contained in the sentence uttered while also allowing for contextual supplementation. Saul remarks, "one necessary condition for saying that P by uttering S will be that P includes constituents corresponding to all the overt constituents of S (31)." Also, additional material may be added to what is said by the processes of completion and expansion.
+
+Completion involves contextual supplementation necessary for making certain sentences express truth-evaluable propositions. What is said by utterances of sentences like (3) and (4) above will be, given the appropriate context, something like (6) and (7):
+
+(6) Amanda is ready for another fruity cocktail/her job interview/a swim in the pool.
+
+(7) Charla's had enough to drink/to eat/of the sun.
+
+Expansion is a contextual contribution that supplements the utterance in a way that makes it express a proposition the speaker means and/or that the audience can grasp. For instance, (8) is expanded to express (9)
+
+(8) Billy went to the top of the Empire State Building and jumped.
+
+(9) Billy went to the top of the Empire State Building and jumped off the edge of the building.
+
+Although Constrained Theories tether what is said closer to overt elements in the sentence uttered, Saul finds reason to doubt its adequacy for the lying-misleading distinction proposed in chapter 1. She argues that two problems beset Constrained Theories. First, Constrained Theories have trouble capturing accidental falsehoods. Saul describes accidental falsehoods in chapter 1 as instances where a speaker unknowingly utters something false. And second, Saul argues Constrained Theories have trouble maintaining the lying-misleading distinction.
+
+Finally, Saul looks at Austere Theories of what is said. These views are represented by Kent Bach (2001), Emma Borg (2004), and Cappelen and Lepore (2005). Each of these views ties what is said very tightly to the sentence uttered, allowing very little in the way of contextual contributions to what is said.
+
+Austere views tie what is said too closely to the sentence uttered for Saul's tastes. For example, Bach's view disallows utterances containing demonstratives like 'that' to be truth-evaluable since what determines its referent cannot be anything contained in the syntactic structure of the sentence. Borg considers completion cases to semantically express complete propositions. This means that sentences like (1) above include in what is said the further information that there is no improper relationship at all, anywhere. Saul claims this undermines Clinton's attempt to say something true but misleading. What Clinton says is false given Borg's view, which is the wrong result. Lastly, Cappelen and Lepore's version of the story has trouble capturing the lying-misleading distinction.
+
+In chapter 3 Saul explicates the notion of what is said she finds useful for the lying-misleading distinction. Saul is attracted to the stinginess of Austere Theories but finds them a tad bit too austere. In addition to tying what is said closely to the sentence uttered, Saul also wants the view to allow demonstratives to contribute referents to what is said and make room for contextual supplementation in certain completion cases.
+
+Both Unconstrained and Constrained Theories allow too much contextual supplementation to what is said while Austere Theories allow too little. So, Saul looks for something that falls in between Austere and Constrained Theories. She introduces a necessary condition for when a contextual contribution counts as a part of what is said, i.e. Needed for Truth Evaluability:
+
+(NTE) A putative contextual contribution to what is said is a part of what is said only if without this contextually supplied material, S would not have a truth-evaluable semantic content in C. (57)
+
+NTE is designed to allow for some completion cases while disallowing expansion. NTE also rules out the Borg and Cappelen and Lepore (hereafter, CL) accounts of sentences like (3) and (4). Recall, on those views (3) and (4) express complete propositions and thus are not in need of completion. In order to block Borg's and CL's accounts Saul must take a stand on the nature of semantic content, which she does by adopting those of Bach, Carston, and Stanley. Saul's dismissal of Borg's and Cappelen and Lepore's views of semantic content is rather quick though. She relies on intuitions about cases like (3) and (4) not expressing complete propositions, as well as consensus on views about semantic content.
+
+One potential problem Saul addresses concerns the unclarity of what is said in some cases. Saul describes a case in which Dave is sick and in the hospital. Two nurses, Ed and Fred, are discussing the kinds of treatment Dave needs when Ed holds up a bottle of heart medicine and utters
+
+(10) Has Dave had enough?
+
+to which Fred, who hates Dave and wants him to die, utters,
+
+(11) Dave's had enough.
+
+Presumably, Fred meant something like
+
+(11*) Dave's had enough heart medicine.
+
+But, other completions of (11) are also available:
+
+(11**) Dave's had enough of that.
+
+(11***) Dave's had enough of the stuff in that bottle you're holding up.
+
+The problem, then, is deciding which completion is the right one. Saul considers two options. The first option is a de re completion strategy proposed by Rob Stainton, in which speaker intention determines a particular object as a propositional constituent for completion. Saul argues that this strategy does not generalize. The second option is to posit a range of plausible completion candidates determined by speaker intention, audience interpretation, and salience. That is, completions are indeterminate across a range of plausible candidates.
+
+This option, as stated, is ambiguous between two ideas: (a) what is said in completion cases determines an indeterminate proposition; (b) what is said is indeterminate across a range of precise propositions. Saul avoids taking up these questions here, opting for simplicity to assume (b). This in turn prompts an alteration of her definition of lying:
+
+Lying (Complete)
+
+If the speaker is not the victim of linguistic error/malapropism or using metaphor, hyperbole, or irony, then they lie iff (A) or (B) holds:
+
+(A) (1) They say that P; (2) They believe P to be false; (3) They take themselves to be in a warranting context.
+
+(B) (1) They say something indeterminate across a range of acceptable complete propositions, CP1 . . . CPn; (2) for each complete proposition in the range CP1 . . . CPn, they believe that proposition to be false; (3) they take themselves to be in a warranting context. (65)
+
+Of course, what counts as an "acceptable complete proposition" needs to be fleshed out more. What constrains the notion of acceptability? I also wonder about the clever nurse who only intends to mislead with his utterance of (11). Suppose, unbeknownst to everyone but Fred, the medicine being held up has expired. Fred draws on this knowledge and utters (11), intending only to refer to that particular bottle all the while knowing his utterance will be taken as suggesting Dave's had enough heart medicine. It seems clear that Fred has not lied, but is being misleading. The definition above still suggests Fred's utterance is indeterminate across a range of propositions, including (11*). Presumably, Fred believes (11*) is false. If (11*) is included in the range of acceptable completions for his utterance, despite his intentions, Fred has failed to merely mislead. He has in fact lied, which is the wrong result.
+
+In chapter 4, Saul turns her attention to the morality of lying. The aim of the chapter is to defend the claim that misleading is not, in general, morally preferable to lying while offering an explanation for the intuition that acts of misleading are (at least sometimes) morally preferable to acts of lying. Saul thinks that we conjoin our evaluations of acts with our evaluations of persons. She argues that the latter affects our judgments of the former.
+
+The precise characterization of the claim Saul ultimately addresses is represented in M-D:
+
+(M-D) Except in certain special cases: holding all else fixed, lying is morally worse than merely deliberately attempting to mislead; and successful lying is morally worse than merely deliberately misleading.
+
+Saul attacks several attempted defenses of (M-D), too many to rehash here. One of the stronger defenses is Jonathan Adler's reading of Kant. On Adler's version of Kant's view, the liar is fully responsible for a hearer's false belief while the misleader is only partially responsible. Individuals are fully responsible for the inferences they make as rational, autonomous beings. The speaker's duties end at what is said. Thus, lying is morally worse than misleading.
+
+Saul does not see this move as ultimately helpful. She writes, "being partly causally responsible for a wrong done to one does nothing to alter the nature of that wrong" (83). Saul points out that partial causal responsibility does not indicate moral responsibility. She highlights this in a pair of cases she refers to as Careful Victim and Reckless Victim. In the former, the victim is careful to remain in safe areas but is still mugged. In the latter, the victim carelessly roams through known dangerous areas with a bulging wallet in clear view and is mugged. Just as we do not hold the mugger less morally responsible in the reckless victim case, neither should we hold the misleader less morally responsible than the liar.
+
+I agree with Saul that causal responsibility should not be mistaken to indicate moral responsibility. However, I find something unsettling about her analogy. Although the actions of the victim and the misled help bring about their respective demises, the way the misled participates in coming to a false belief is relevantly different from the way the reckless victim is ultimately mugged. One could argue that the hearer, in order to be misled, has to form the false belief whereas the victim needn't do anything to be mugged. The reckless victim is passive in a way the misled hearer is not. If this defense is plausible Adler's Kant may have new life and a way of resisting Saul's objection.
+
+In the last chapter of the book, chapter 5, Saul applies her definition and thoughts on the morality of lying to various interesting historical cases. For many of the cases she examines, Saul claims our judgment about their morality depends on the moral motivation of the speaker.
+
+Saul's book is a rewarding read that is sure to provoke interesting dialogue about how to define lying, our notions of what is said, and the moral difference between lying and misleading.
+
+Search Reviews
+
+Keywords
+Author
+Title
+Reviewer
+
+Search
+
+Home
+
+About
+
+Reviews
+
+For Reviewers
+
+Subscribe
+
+College of Arts and Letters
+
+Department of Philosophy
+
+Notre Dame Philosophical Reviews
+
+Department of Philosophy
+
+100 Malloy Hall
+
+Notre Dame, IN 46556 USA
+
+ndpr@nd.edu
+
+Search
+
+News
+
+Events
+
+Visit
+
+Mobile App
+
+Accessibility
+
+Facebook
+
+X/Twitter
+
+Instagram
+
+YouTube
+
+LinkedIn
+
+Light/Dark
+
+© 2026
+University of Notre Dame
+
+Home
+
+About
+
+Reviews
+
+For Reviewers
+
+Subscribe
+
+Light/Dark
+
+.

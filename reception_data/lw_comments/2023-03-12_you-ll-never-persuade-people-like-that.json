@@ -1,0 +1,412 @@
+{
+ "post": {
+  "_id": "67NrgoFKCWmnG3afd",
+  "title": "\"You'll Never Persuade People Like That\"",
+  "postedAt": "2023-03-12T05:38:18.974Z",
+  "pageUrl": "https://www.lesswrong.com/posts/67NrgoFKCWmnG3afd/you-ll-never-persuade-people-like-that",
+  "commentCount": 31
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "ChAhjPBaeXHAnqsMB",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T05:54:21.493Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Morpheus",
+    "displayName": "Morpheus"
+   },
+   "contents": {
+    "markdown": "> And that's what explains the attractiveness of the appeal-to-persuading-third-parties. What \"You'll never persuade people like that\" *really* means is, \"You are starting to persuade *me* against my will, and I'm laundering my cognitive dissonance by asserting that you actually need to persuade someone else who isn't here.\"\n\nBig if true. Going to look out for this in future conversations."
+   }
+  },
+  {
+   "_id": "gbG3mNMCmsdE5vSwy",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T06:11:21.783Z",
+   "baseScore": 3,
+   "user": {
+    "username": "LVSN",
+    "displayName": "LVSN"
+   },
+   "contents": {
+    "markdown": "If someone said \"you'll never persuade people like that\" to me I'd probably just ask them what's arbitrary about my position. If it's arbitrary then they may have a point. If it's not arbitrary then people will in fact be persuaded."
+   }
+  },
+  {
+   "_id": "iqD5d7DzNyyS6PXzz",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T06:17:56.130Z",
+   "baseScore": 34,
+   "user": {
+    "username": "Kaj_Sotala",
+    "displayName": "Kaj_Sotala"
+   },
+   "contents": {
+    "markdown": "I think that usually if I say something like \"you'll never convince third parties this way\", it's because the conversation is about a topic that I care about, and it frustrates me that the person I'm talking with is shooting themselves and others in the foot by employing a conversational strategy that will turn people off.\n\nAlternatively, even if I _don't_ happen to care about the topic in particular, I might still generally feel frustrated or upset due to seeing a person shooting themselves in the foot. \n\nAnother element is that, if I'm saying something like this, then probably the person's conversational style is something that feels morally bad for me, like being needlessly aggressive and uncharitable (and thus untruthful). And their motivation for being that is probably an arguments-are-soldiers one, so appealing to its ineffectiveness is one of the few reasons that might get them to reconsider. \n\nI don't think it's at all the case that the person is starting to convince me in those situations - rather the opposite, in that I have a massively negative reaction to what they are saying, and then I typical-mind my experience to say that everyone else is also likely to. "
+   }
+  },
+  {
+   "_id": "fuobythTjvGhmhsLx",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T07:20:56.701Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Lucas2000",
+    "displayName": "Lucas2000"
+   },
+   "contents": {
+    "markdown": "I tell people that their arguments are not persuading to third parties when they insult me, because I genuinely hope that they will change the way they argue, and also because I think it's generally true that insulting anyone does not tend to convince them. I'm personally not interested in being insulted, but I am interested in people arguing for their positions well, since if they *are* right, I'm interested in being persuaded."
+   }
+  },
+  {
+   "_id": "AkjTahokHdXfkFd8A",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T07:30:37.604Z",
+   "baseScore": 10,
+   "user": null,
+   "contents": {
+    "markdown": "> the classical understanding of negotiation often recommends \"rationally irrational\" tactics in which an agent handicaps its own capabilities in order to extract concessions from a counterparty: for example, in the deadly game of [chicken](https://en.wikipedia.org/wiki/Chicken_\\(game\\)), if I visibly throw away my steering wheel, oncoming cars are forced to swerve for me in order to avoid a crash, but if the oncoming drivers have already blindfolded themselves, they wouldn't be able to *see* me throw away my steering wheel, and I am forced to swerve for them.\n\nI wanted to spotlight this. I've never seen this dynamic described so concisely, elegantly, or effectively."
+   }
+  },
+  {
+   "_id": "wWwknDsWgyY289gFn",
+   "parentCommentId": "iqD5d7DzNyyS6PXzz",
+   "postedAt": "2023-03-12T07:40:11.562Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Sam FM",
+    "displayName": "Sam FM"
+   },
+   "contents": {
+    "markdown": "Yeah, I think there\u2019s an important distinction to make in the intent of the speaker saying this remark. Sometimes it\u2019s intended as evidence the argument is wrong, and yes, that\u2019s a dirty rhetorical trick. But as you\u2019ve listed here, there are several motivations to give this response as a criticism of someone\u2019s genuinely bad/harmful persuasion tactics.\n\nSo I guess when hearing this, it\u2019s worth taking a moment to check whether the speaker is using fallacious rhetoric, or attempting to give helpful social advice. (And then, accordingly, \u201cgo for the throat,\u201d or kindly thank them for the presentation feedback.)"
+   }
+  },
+  {
+   "_id": "Aqi38DyrDj7qYmwmx",
+   "parentCommentId": "AkjTahokHdXfkFd8A",
+   "postedAt": "2023-03-12T07:40:19.014Z",
+   "baseScore": 5,
+   "user": {
+    "username": "lc",
+    "displayName": "Dean Valentine"
+   },
+   "contents": {
+    "markdown": "I literally read that line and thought \"trevor would like this one\"."
+   }
+  },
+  {
+   "_id": "ZXCDnzFtWBDjAWeRL",
+   "parentCommentId": "wWwknDsWgyY289gFn",
+   "postedAt": "2023-03-12T07:44:36.659Z",
+   "baseScore": 2,
+   "user": {
+    "username": "LVSN",
+    "displayName": "LVSN"
+   },
+   "contents": {
+    "markdown": "Either 'fallacious' is not the true problem or it is the true problem but the stereotypes about what is fallacious do not align with reality: [A Unifying Theory in Defense of Logical Fallacies](https://www.youtube.com/watch?v=lq5EWtQqrXE)"
+   }
+  },
+  {
+   "_id": "iRhwD9neoWJ8o5fgc",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T10:25:12.651Z",
+   "baseScore": 4,
+   "user": {
+    "username": "lahwran",
+    "displayName": "the gears to ascension"
+   },
+   "contents": {
+    "markdown": "idk mate. I definitely see how this pattern can occur, but I think it would be a mistake to assume that someone wanting to persuade third parties is always being disingenuous."
+   }
+  },
+  {
+   "_id": "kPm8nKrZWdak7r5bg",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T10:46:41.704Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "When a person is acting on behalf of a group, persuading the person doesn't affect their stance, you'd need to either persuade the group as a whole or convince that person to do something other than acting on behalf of the group. So in this case the metaphorical hard-to-reach boss is socially real, not centrally made up."
+   }
+  },
+  {
+   "_id": "swauLuDKwfrBXzSHD",
+   "parentCommentId": "iqD5d7DzNyyS6PXzz",
+   "postedAt": "2023-03-12T11:16:08.399Z",
+   "baseScore": 6,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "> I think that usually if I say something like \"you'll never convince third parties this way\", it's because the conversation is about a topic that I care about, and it frustrates me that the person I'm talking with is shooting themselves and others in the foot by employing a conversational strategy that will turn people off.\n\nThis.\n\nAnd also, there may be times where I have detailed, accurate models of what is going on, and so arguments wouldn't be expected to sway me much. In such cases, I may be acting more as a mentor or critic, pushing the discourse in the directions that I think is relevant. So the answer to \"Why is it relevant whether I would convince some third party that *isn't here*?\" is \"You don't seem likely to change my mind much but this should change people's minds away from your position.\".\n\n[Concrete example in the containment thread.](https://www.lesswrong.com/posts/5aqumaym7Jd2qhDcy/containment-thread-on-the-motivation-and-political-context?commentId=yjAiAKshHWbJEDokM)"
+   }
+  },
+  {
+   "_id": "aZkj53niAxEoZcGFN",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T15:41:42.747Z",
+   "baseScore": 5,
+   "user": {
+    "username": "haha-no",
+    "displayName": "zenbu zenbu zenbu zenbu"
+   },
+   "contents": {
+    "markdown": "You've given a plausible account of what might be happening in at least some cases that people use the rhetoric of \"you'll never persuade anyone like that\". I would like to give an alternate account--one that other posters have pointed to already, but that I'd like to highlight--and explore the possible consequences that adopting the strategy you've gestured at here, \"going for the throat\", might have.\n\nWhen I say \"you'll never persuade anyone like that\", often what I'm feeling is something close to *anger*. I am \"pissed off\". Anger can be a sign of cognitive dissonance. If an argument makes you angry, you should try to explore the reasons for that anger; does it have to do with the contents of the message you're being passed, or the trappings, the way it's expressed? Does it have more to do with the context--were you intending to not talk about this, is it an inappropriate context for the discussion, are you avoiding something...\n\nWhen I examine these feelings in that context, there is often a common link between them: my interlocutor is being a huge asshole. That is: I'm saying \"okay, smartass, see how this rhetorical style works out for you\". I am often forcefully trying to get them to either stop or change their tone.\n\nPerceptions that someone is \"an asshole\" may well be affected by cognitive bias; no one could reasonably deny that questions of affect aren't to a great extent, in many people, mediated by the halo effect, by the speaker and listener's perceived alignments, by irrelevant trappings. But it is possible to be an asshole. It is possible to be an asshole even without intending it. Indeed, there are ways and magnitudes to what is perceived assholehood, but I will give a brief theory of what it means to be an asshole here: being an asshole is being more forceful, rude, or otherwise contentious than is necessary to communicate a point.\n\nI think that your theory--and especially the \"this is what your interlocutor *really* means\" framing you've used, is likely to lead to precisely the opposite of the appropriate response to this kind of feedback. That is, it's likely to lead to doubling down when *slowing* down would have been the appropriate response. I advise anyone reading this post to take that *heavily* into consideration."
+   }
+  },
+  {
+   "_id": "mmEmhyok3oEguuyFh",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T16:00:25.475Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "This, for me, usually is noticeable as an actual pivot. \u00a0\"sure, that'd be nice, but it'll never happen\". \u00a0There is now sufficient agreement about the main topic, and the person is now talking about why they're not working toward it, or why it doesn't matter that you have agreement in the first place. \u00a0Or they disagree, and are jumping ahead to \"how can we find out?\" and pointing out that you can't convince others, so there's no way to test it.\n\nThe counter-question is \"why do you object to this pivot\"? \u00a0Is there something remaining that you don't understand about your discussion partner's view of the nominal proposal? \u00a0Can you just ask directly \"but you agree that it would be better if this were implemented\" or whatever, without conceding whether there is an actual path to implementation?\n\n\\[ note: this probably varies pretty widely with context and group norms. \u00a0If my explanations don't make sense, it's worth picking a few specific examples to explore how they differ. \\]"
+   }
+  },
+  {
+   "_id": "HTKuZ4bCecJ9pZKpb",
+   "parentCommentId": "aZkj53niAxEoZcGFN",
+   "postedAt": "2023-03-12T16:00:53.333Z",
+   "baseScore": 2,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "\"Being a huge asshole\" is not very specific; do you have a concrete example that you have in mind?"
+   }
+  },
+  {
+   "_id": "9eJuvEPtzi9Xy2Jci",
+   "parentCommentId": "iRhwD9neoWJ8o5fgc",
+   "postedAt": "2023-03-12T16:01:32.775Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "The problem isn't the first speaker wanting to persuade third parties; the problem is the second person \"moving the goalposts\" there."
+   }
+  },
+  {
+   "_id": "AseSfzK3ou4hKq7um",
+   "parentCommentId": "HTKuZ4bCecJ9pZKpb",
+   "postedAt": "2023-03-12T16:23:04.289Z",
+   "baseScore": 1,
+   "user": {
+    "username": "haha-no",
+    "displayName": "zenbu zenbu zenbu zenbu"
+   },
+   "contents": {
+    "markdown": "It's nonspecific on purpose; a general factor of causes of \"this conversation is making me mad\". This could be caused by tone: concretely, an occasion where someone is trying to explain something, any topic, and using negatively charged words to describe people who hold my position, or just any other position, making my interlocutor sound smug. It can also be caused by a sense that the interlocutor isn't really engaging with my arguments, making me feel like I should be giving up on the conversation. Concretely, an occasion where I make a very extensive explanation of what I mean on some point, and the interlocutor completely denies acknowledging it, giving me no feedback on whether they even read it, or whether it addresses their concerns, choosing to instead focus on some tangential point. Bad, annoying discursive practice in general.\n\nBoth of these things can be \"merely perceived\" in some sense, but they almost always point to some kind of rhetorical dysfunction; either on the part of the speaker or listener. And one shouldn't assume their interlocutor is at fault; a thing that both the perceived asshole and the perceiver should understand.  \n  \nIf I had to dilute my point into a sentence, here, it's that being easy to talk to is a virtue, though only one among many, and this kind expression is often a sign that you aren't easy to talk to. This is of course very complicated, and has a ton of different factors going into it, but we ought to try."
+   }
+  },
+  {
+   "_id": "qzkFX3ohyvMAawL7y",
+   "parentCommentId": "aZkj53niAxEoZcGFN",
+   "postedAt": "2023-03-12T16:25:17.601Z",
+   "baseScore": 1,
+   "user": {
+    "username": "SomeoneYouOnceKnew",
+    "displayName": "SomeoneYouOnceKnew"
+   },
+   "contents": {
+    "markdown": "Is knowing someone's being an asshole an aspect of hyperstition?"
+   }
+  },
+  {
+   "_id": "Q576xkCxrkRnMzpoy",
+   "parentCommentId": "qzkFX3ohyvMAawL7y",
+   "postedAt": "2023-03-12T16:34:07.110Z",
+   "baseScore": 1,
+   "user": {
+    "username": "haha-no",
+    "displayName": "zenbu zenbu zenbu zenbu"
+   },
+   "contents": {
+    "markdown": "This is difficult to pick apart. Can you say more? I could imagine, say, thinking of someone's contributions as assholeish introducing sentiment to the conversation in a way that cascades into making the whole thing even worse. In fact, I think I've seen that happen over and over again. I can imagine a framing of that as hyperstitional."
+   }
+  },
+  {
+   "_id": "jKhhwcnch3dAgBRLx",
+   "parentCommentId": "Q576xkCxrkRnMzpoy",
+   "postedAt": "2023-03-12T16:46:50.922Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SomeoneYouOnceKnew",
+    "displayName": "SomeoneYouOnceKnew"
+   },
+   "contents": {
+    "markdown": "That framing makes sense to me."
+   }
+  },
+  {
+   "_id": "sj5sapBuzwznQehzi",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T17:02:20.223Z",
+   "baseScore": 22,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I think \"you'll never persuade people like that\" means several different things on different occasions, and usually it doesn't mean what Zack says it always means.\n\n(In what follows, A is making some argument and B is saying \"you'll never persuade people like that\".)\n\nIt *can*, in principle, mean (or, more precisely, *indicate*; I don't think it's exactly the *meaning* even when this is what is implicitly going on) \"I am finding this convincing and don't want to, so I need to find a diversion\". I think two other bad-faith usages are actually more common: \"I am on some level aware that evidence and arguments favour your position over mine, and am seeking a distraction\" (this differs from Zack's in that the thing that triggers the response is not that A's arguments *specifically* are persuasive to B) and \"I fear that your arguments will be effective, and hope to guilt you into using weaker and less effective ones\".\n\nIt can mean \"I at-least-somewhat agree with you on the actual point at issue, and I think your arguments are bad and/or offputting and will push people away from agreeing with both of us, and I don't like that\".\n\nIt can mean \"I disagree with you on the actual point at issue, but prefer good arguments to bad ones, and I am disappointed that you're putting forward this argument that's no good\".\n\nIt can mean \"I disagree with you on the actual point at issue, and it's hard to tell whether your actual argument is any good because you're being needlessly obnoxious about it and that's distracting\".\n\nZack suggests that \"you'll never persuade people like that\" is an obvious bad-faith argument because A isn't trying to persuade \"people\", they're trying to persuade *B*, and it's weird for B to complain about \"people\" rather than saying that/why *B in particular* isn't persuaded. But I don't buy it. 1. \"You'll never persuade people like that\" *does* in fact imply \"you aren't persuading me like that\". (Maybe sometimes dishonestly, but that *is* part of what is being claimed when someone says that.) 2. If A is being honest, they aren't *only* trying to persuade B. (Most of the time, if someone says something designed to be *persuasive to you* rather than *generally valid*, that's manipulation rather than honest argument.) So it's of some relevance if B reckons A's argument is not only unhelpful to B but unhelpful generally."
+   }
+  },
+  {
+   "_id": "XAne4fRLDHDuWiGgY",
+   "parentCommentId": "9eJuvEPtzi9Xy2Jci",
+   "postedAt": "2023-03-12T18:33:50.896Z",
+   "baseScore": 2,
+   "user": {
+    "username": "lahwran",
+    "displayName": "the gears to ascension"
+   },
+   "contents": {
+    "markdown": "cool. then we're on the same page."
+   }
+  },
+  {
+   "_id": "zWKoKpBLTP3XfXicu",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T18:41:13.263Z",
+   "baseScore": 14,
+   "user": {
+    "username": "yair-halberstadt",
+    "displayName": "Yair Halberstadt"
+   },
+   "contents": {
+    "markdown": "To give a concrete example where I said this:\n\nMy father in law [wrote a book](https://www.danielgreenberg.co.uk/product/getting-a-get/) about the issue of [divorce refusers](https://en.m.wikipedia.org/wiki/Agunah)  in Judaism, and the apathy of the UK batei din towards the victims of this abuse.\n\nIn it he argued that if the rabbanim had been willing to, they could easily find a basis on which to unilaterally dissolve such a marriage.\n\nI personally think that's true both as a question of historical fact (rabbis have found halachic justification to do just about anything when they really wanted to), and also from the perspective of his modern orthodox philosophy which recognises that as a legitimate flexibility important for Judaism's survival.\n\nBut having grown up Hareidi, I had a better insight into  the perspective of the extremely conservative ultra orthodox Jews who run the batei din. And from their perspective, Judaism is basically unchanging, and given that the authors of the Talmud clearly tried to find a solution to the issue of agunot, and could not, it's a closed case. There's nothing to do here.\n\nSo I explained to him that whilst I might agree with him, all his arguments will do nothing to persuade his target audience, and would get him branded as at best naive, and at worse a heretic. He would do better off by completely removing that line of argument from his book, and focussing purely on the legal issues, on which he is legitimately an expert. \"Sure, you might be right, but you'll never persuade people like that!\""
+   }
+  },
+  {
+   "_id": "jQzCGD6ioJfkAqmwa",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T18:46:24.197Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "> Unless the belief you're arguing for is false. You checked that beforehand, right??\n\nOn further thought, I really need a few examples to understand the context of when this is happening to you. \u00a0For me, it ONLY occurs in complicated enough issues that \"true or false\" is very hard to define or test rigorously, and it's extremely likely that something like \"directionally true\" or \"mostly correct\" or even \"preferable (to me, and I think many others) equilibrium\" would be the right goalposts. \u00a0\n\nIf it's something you actually checked beforehand, you should just share that check and be done with it. \u00a0No discussion or debate required."
+   }
+  },
+  {
+   "_id": "co9b68fWJpAhKmv43",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T21:38:01.581Z",
+   "baseScore": 1,
+   "user": {
+    "username": "M. Y. Zuo",
+    "displayName": "M. Y. Zuo"
+   },
+   "contents": {
+    "markdown": "> The [bargaining model of war](https://en.wikipedia.org/wiki/Bargaining_model_of_war) attempts to explain why wars are fought\u2014and *not* fought; even the bitterest enemies often prefer to grudgingly make peace with each other rather than continue to fight.\n\nHowever, conversely, sometimes otherwise friendly neighbours will attempt to destroy each other because they can't resolve trivial matters such as the height of a fence."
+   }
+  },
+  {
+   "_id": "eggSpsFcE7acXCk2J",
+   "parentCommentId": null,
+   "postedAt": "2023-03-12T22:52:29.542Z",
+   "baseScore": 21,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "Hmm. That conclusion is not where I thought you were going with the war analogy.\r\n\r\nSuppose that the United States finds itself at war with, say, Iceland. At the height of the conflict, the two sides sit down at a negotiating table, whereupon the American diplomat says to his Icelandic counterpart: \u201cYou guys know you can\u2019t win this one, right?\u201d\r\n\r\nIn this scenario, are we to suppose that U.S. leaders are worried about losing the war\u2026 to Iceland? Are strategists at the Pentagon frantically drawing up plans for resisting an Icelandic invasion of Maine (with the rest of New England\u2014according to their projections\u2014soon to follow)?\r\n\r\nSeems unlikely. Rather, the message here is more like: \u201cYou can\u2019t win, and we both know it. The *only* uncertainty in the outcome is how much money you can make us spend on beating you. And if you make us fight you to the end, we\u2019ll make you regret it. There won\u2019t be a hut left standing in your whole country, when we\u2019re done with you. So give up now, and we\u2019ll both come out on top, compared to that counterfactual scenario. We don\u2019t have to fight; and it\u2019s better for *both* of us if we don\u2019t. But if you insist on fighting, you definitely can\u2019t *win*\u2026 and losing will be much worse for you than not fighting at all.\u201d\r\n\r\nHow does this map to the argument scenario? Well, consider two sides, A and B (where B is just \u201ceveryone who isn\u2019t A, and cares about the question at all\u201d); and representatives of each side, respectively Alice and Bob. Alice makes some argument, aimed at persuading members of B to the A position. Bob (who is a B) says: \u201cYou\u2019ll never persuade people like that.\u201d\r\n\r\nIt seems like one obvious expansion is:\r\n\r\n\u201cYou won\u2019t persuade any Bs like that, and we both know it. The only uncertainty in the outcome is how much effort you can make me and other Bs expend on countering your arguments. And if you make us deconstruct your arguments in detail, we\u2019ll make you regret it. You\u2019ll look like an idiot, a lunatic, an ignoramus, when we\u2019re done with you. So give up now, and we\u2019ll both come out on top, compared to that counterfactual scenario. We don\u2019t have to have this argument; and it\u2019s better for both of us if we didn\u2019t. But if you insist on arguing, you definitely can\u2019t *win*\u2026 and losing will be much worse for you than not trying to argue at all.\u201d"
+   }
+  },
+  {
+   "_id": "nPQ6wTWGhvzbnJns3",
+   "parentCommentId": "swauLuDKwfrBXzSHD",
+   "postedAt": "2023-03-16T05:52:43.286Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Jiro",
+    "displayName": "Jiro"
+   },
+   "contents": {
+    "markdown": ">So the answer to \u201cWhy is it relevant whether I would convince some third party that isn\u2019t here?\u201d is \u201cYou don\u2019t seem likely to change my mind much but this should change people\u2019s minds away from your position.\u201d.\r\n\r\nWhy would you think it's undesirable that he changes people's minds away from his position?  After all, *you* think his position is false.  You presumably want other people to believe truthful things.  So you should want other people to believe that his position is false--as far as you're concerned, changing people's minds away from his position is a good thing.\r\n\r\nYou'd only think it's undesirable if you're more concerned about him winning (because he's your friend and the others aren't) than you are about spreading the truth."
+   }
+  },
+  {
+   "_id": "iYw3SgfdPGivfEquR",
+   "parentCommentId": "sj5sapBuzwznQehzi",
+   "postedAt": "2023-03-16T05:55:45.573Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Jiro",
+    "displayName": "Jiro"
+   },
+   "contents": {
+    "markdown": ">It can mean \u201cI disagree with you on the actual point at issue, but prefer good arguments to bad ones, and I am disappointed that you\u2019re putting forward this argument that\u2019s no good\u201d.\r\n\r\nIf you disagree with him on the point at issue, you must, by definition, believe that there *are* no good arguments for the point.  There can't be a legitimately good argument for a false proposition, although there can be a good-sounding but flawed argument.  So how is this possible?"
+   }
+  },
+  {
+   "_id": "5HjJgPNFsHg58mKwH",
+   "parentCommentId": "nPQ6wTWGhvzbnJns3",
+   "postedAt": "2023-03-16T08:13:26.675Z",
+   "baseScore": 2,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "In the example I mentioned, I have a contrarian third position where I think the other positions have some good points and (mostly) some bad points. This means two things:\n\n1. There are some places where his side genuinely right and the other side is wrong, and it's unfortunate that people on his side shoot themselves in the foot by using bad arguments instead of defending the places they are right using good arguments.\n\n2. By treating bad arguments as good epistemology, they avoid being truth-seeking and make it harder to correct their wrong beliefs. That's unfortunate since I think they should correct their wrong beliefs."
+   }
+  },
+  {
+   "_id": "mjoJt23bFHWwMQGrD",
+   "parentCommentId": "iYw3SgfdPGivfEquR",
+   "postedAt": "2023-03-16T12:06:54.700Z",
+   "baseScore": 2,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I think it's completely wrong that\n\n> if you disagree on the point at issue, you must believe that there are no good arguments for the point.\n\nThere *absolutely* can be good arguments for something that's actually false. What there can't be is *conclusive* arguments for something that's actually false.\n\n(Also, if I had been more precise I would have said \"... prefer better arguments to worse ones\"; even in a situation where there are no arguments for something that rise to the level of *good*, there may still be better and worse ones, and I may be disappointed that I'm being presented with a particularly bad one.)"
+   }
+  },
+  {
+   "_id": "ZP3eCcs4mb8zTYo2a",
+   "parentCommentId": "mjoJt23bFHWwMQGrD",
+   "postedAt": "2023-03-16T16:04:02.118Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Jiro",
+    "displayName": "Jiro"
+   },
+   "contents": {
+    "markdown": ">There absolutely can be good arguments for something that\u2019s actually false.\r\n\r\nWhat do you mean by \"good argument\" then?"
+   }
+  },
+  {
+   "_id": "vhQ5MuBDHLDdZSySA",
+   "parentCommentId": "ZP3eCcs4mb8zTYo2a",
+   "postedAt": "2023-03-16T23:13:56.149Z",
+   "baseScore": 4,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "One that gives good reason for someone hearing it who wasn't previously aware of it to increase their credence in the thing it's an argument for. (And, since really we should be talking about *better and worse* arguments rather than *good and bad* ones, a better argument is one that justifies a bigger increase.)\n\nFor instance, consider the arguments about how COVID-19 started infecting humans. \"It was probably a leak from the Wuhan Institute of Virology, because you can't trust the Chinese\" is a very bad argument. It makes no contact with anything actually related to COVID-19. \"It was probably a natural zoonosis, because blaming things on the Chinese is racist\" is an equally bad argument for the same reason. \"It was probably a leak from the WIV, because such-and-such features of the COVID-19 genome are easier to explain as consequences of things that commonly happen in virology research labs than as natural occurrences\" is a much better argument than either of those, though my non-expert impression is that experts don't generally find it very convincing. \"It was probably a natural zoonosis, because if you look at the pattern of early spread it looks much more like it's centred on the wet market than like it's centred on the WIV\" is also a much better argument than either of those; I'm not sure what the experts make of it. In the absence of more cooperation from the Chinese authorities (and perhaps even with it) I would not expect any argument to be *very* convincing, because finding this sort of thing out is really difficult."
+   }
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "post": {
+  "_id": "FaGaNhXhFEtXkfyud",
+  "title": "Interview with Kelsey Piper on Self-Censorship and the Vibe Shift",
+  "postedAt": "2025-08-07T02:51:38.247Z",
+  "pageUrl": "https://www.lesswrong.com/posts/FaGaNhXhFEtXkfyud/interview-with-kelsey-piper-on-self-censorship-and-the-vibe",
+  "commentCount": 1
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "6beLoSa2gRBvzGQoM",
+   "parentCommentId": null,
+   "postedAt": "2025-10-02T06:02:15.159Z",
+   "baseScore": 5,
+   "user": {
+    "username": "CronoDAS",
+    "displayName": "CronoDAS"
+   },
+   "contents": {
+    "markdown": "Possibly pointless nitpick:\n\nWhen it comes to things like lesbian firefighters, [beware base rates](https://en.wikipedia.org/wiki/Base_rate_fallacy)! There are a lot more heterosexual women than homosexual women, so it can still be true that, even though the percentage of lesbians who become firefighters is greater than the percentage of straight women who become firefighters, most women that are firefighters are not lesbians."
+   }
+  }
+ ]
+}

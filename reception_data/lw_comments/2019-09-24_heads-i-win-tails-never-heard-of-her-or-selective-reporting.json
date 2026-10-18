@@ -1,0 +1,529 @@
+{
+ "post": {
+  "_id": "DoPo4PDjgSySquHX8",
+  "title": "Heads I Win, Tails?\u2014Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists",
+  "postedAt": "2019-09-24T04:12:07.560Z",
+  "pageUrl": "https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting",
+  "commentCount": 40
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "fGB3Pxivdx4o8Bsg6",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T09:38:44.689Z",
+   "baseScore": 14,
+   "user": {
+    "username": "Davis_Kingsley",
+    "displayName": "Davis_Kingsley"
+   },
+   "contents": {
+    "markdown": "This post is excellent. It is probably the best post I have read on LessWrong in a long time. Thank you for writing it!"
+   }
+  },
+  {
+   "_id": "LMWrc4t9QxGTbjPWW",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T17:29:00.943Z",
+   "baseScore": 20,
+   "user": {
+    "username": "hamnox",
+    "displayName": "hamnox"
+   },
+   "contents": {
+    "markdown": "*sigh*. This post digs into why I can't watch the news without feeling frustrated.\n\nBecause even when I agree with the newscaster's overall assessment of a situation, there's just... never quite enough acknowledgement that some evidence might point a different direction than is politically convenient. That small or selective samples can even appear to point *against the truth*. That alternate perspectives on the facts don't come into existence solely to try to knock yours down."
+   }
+  },
+  {
+   "_id": "F7kiHpRNeabwpCe7Y",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T18:16:51.968Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Slider",
+    "displayName": "Slider"
+   },
+   "contents": {
+    "markdown": "Having the dice be ambivalent about green, blue and grey can suggest a direction where giving equal space is not succumbing to bias. But enforcing balance where it doesn't exist in the territority is in the relevant way bad. There might be good arguments about making the math easy or that if we are talking about \"explanation hogging\" top candidates then their \"explanatory fit by accident\" should be somewhat proportional. if reality doesn't care about you it doesn't mean reality will be fair to you.\n\nI also expected that in a area where a green result is expected giving a grey result would be a failure. So the ratio would be 3 greens to 1 non-greens. One of the tragedies is that in a hot topic issue making a stance that can be recognised by multiple sides to not be in line with their narrative can trigger the wrath of all the sides."
+   }
+  },
+  {
+   "_id": "9ttGfHkHp2Q7eZy2C",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T18:40:02.108Z",
+   "baseScore": 19,
+   "user": {
+    "username": "Ruby",
+    "displayName": "Ruby"
+   },
+   "contents": {
+    "markdown": "As Davis said, this is a good post. Thanks!\n\nSomething especially disturbing is to think that the above dynamics don't apply solely to external partisan parties like the media or political groups, but also the inside of one's own head.\n\n> Imagine a *very* biased coin that comes up Heads 99% of the time. If it gets flipped ten thousand times, 100 of those flips will be Tails (in expectation), giving a selective reporter plenty of examples to point to if she wants to convince you that the coin is extremely Tails-biased.\n\nSuppose one knows ten thousands facts about reality and they mostly point in one direction but one's mind has anchored on a given narrative or way of the world being. Selective \\[internal\\]-reporting is all to easy and once can convince oneself of quite strong the opposite position. It is all too easy to construct narratives."
+   }
+  },
+  {
+   "_id": "TWtRpAqeA77buf4Jz",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T20:25:16.308Z",
+   "baseScore": 35,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Agree with others on this being a well-put together post, both clearly tying together several related concepts and pushing the surrounding conversation forward. I like 'blatant cherrypicking is the best kind' as an encapsulation of the concept.\n\n**Some high level thoughts here:**\n\n*   It's better to share cherry-picking-algorithm at a high enough level that allows people to predict *future* things you might suddenly not be able to talk about in a few years. (i.e. I can list the things that I don't currently talk about, but in a year a new issue might get politicized, that I didn't think to spell out in advance. And sharing \"I don't talk about X\" right as X is getting politicized might be particularly socially hazardous. It's also just costly, in time, to periodically update your taboos, and costly in other people's time to constantly be checking up on it)\n*   Ideally, if it's only OTHER people we're worried about social harm from (i.e. non-aspiring-espistemic-rationalists), we still get to talk about the thing to build a fully integrated worldmodel. One property that a [Citadel of Truth](https://www.lesswrong.com/posts/P3FQNvnW8Cz42QBuA/dialogue-on-appeals-to-consequences?commentId=rdcxfgrqGuxyu2DGJ) should have is *actually* keeping things private from the outside world. (This is a solveable logistical problem, although you do have to actually solve it. It might be good for LW to enable posts to be hidden from non-logged out users, perhaps requiring some karma threshold to see taboo posts)\n*   The hardest of hard modes is \"local politics\", where it's not just that I'm worried about nebulous \"outsiders\" hurting me (or friends feeling pressure to disown me because they in turn face pressure from outsiders). Instead, the issue is politics *inside* the citadel. It seems like a quite desirable property to able to talk freely about which local orgs and people deserve money and prestige \u2013 but I don't currently know of robust game mechanics that will actually, reliably enable this in any environment where I don't personally know and trust each person.\n\n*   (Having multiple \"inner citadels\" of trust is sort of the de-facto way this is done currently, in my experience. Having clearer signposting on how to get trustworthy might be a good improvement. Notably, proclaiming \"I only care about truth, not politics\" is not sufficient for me to trust someone in this domain.)\n\n**Some concrete \"cherry-picking-algorithm-sharings\"**\n\nI'm happy, at this present moment, to note:\n\nI generally avoid talking online about mainstream national political issues (gender and social justice issues in particular) unless they cross a particular threshold for \"relevant to EA concerns\", or \"personally important to me\".\n\n(For example, climate change is politicized, but it's pretty important to fit it into my overall catastrophic risk ontology, and worth paying the cost for. I don't talk about it that often, partly because it still has a slightly-disproportionate cost*, and partly because it just turns out climate change isn't *that* important after having thought about it in EA context)\n\nIt currently so happens that gender/social-justice issues are both \"national politics\" and also \"local politics\", which makes them additionally hard to talk openly about. But this is a property of the particular year, and different issues might be more sensitive in a couple years. If you want to know [which things I can't say](http://www.paulgraham.com/say.html) in a couple years, and I haven't written another such comment in the meanwhile, you may need to do interpretive labor and careful observation. Which sucks, and I'm sorry.\n\n**the climate change cost isn't just in \"people might ostracize me\" (I'm not actually worried about that), but \"random people are less likely to be thinking clearly, and the conversation quality is often going to be worse\".*\n\nThere's an interesting thing where abortion becomes a much more interesting topic to me now that I have more nuanced views of moral uncertainty and trade. But this is a topic that I think makes most sense to discuss \"within the citadel\" (where \"within the citadel\" means \"I'm reasonably confident randos from the culture war won't show up, and/or start making life difficult for me or causes I care about\". Especially because most of the value isn't related to abortion itself, but integrating a worldview that includes abortion as well as digital uploads and low-grade simulations)\n\n*Local Politics*\n\nLocal politics (i.e. facts pertinent to \"who get money/prestige in the rationalsphere\") has the double-edged property of \"being much more important to talk about\" and \"being harder and anti-inductive to talk about\". This post has provided a good reminder for me to figure out some thoughts here and write them up. I think they're beyond scope for this comment though.\n\n*Final note:*\n\nNone of these are things that I *don't talk about period*, they are just things that are disproportionately costly to talk about, so I don't talk about them freely without putting some thought into it and making sure it's worth it."
+   }
+  },
+  {
+   "_id": "Nq2NbpigjDrmqcZjR",
+   "parentCommentId": null,
+   "postedAt": "2019-09-24T20:50:33.747Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "I was trying to devise some strategy. For example, suppose the underlying reality has the equal number of \"green\" and \"blue\" facts, but the \"green\" facts are reported with probability 100%, and the \"blue\" facts with probability 33%. If you only read one Green newspaper, you can't find out the truth. But reading three independent Green newspapers could give you some clue -- the \"green\" facts are reported in all of them, the \"blue\" facts only in some of them. This would suggest that something is going on... even without reading any non-Green sources!\n\nBut the problem is that this toy model does not reflect reality. No one reports 100% of facts in line with their narrative. Facts are many, pages are scarce, you select the important things (among those that are in line with your narrative). Like, you cover presidential elections, and mostly ignore people who save kittens. So, using my strategy above, a suspicious reader would conclude that the suppressed Blue politics are about saving kittens, because that's what the Green newspapers *don't* synchronize about.\n\nSimilarly, the differences between various Green newspapers could be e.g. regional. Both *Washington Green* and *New York Green* would report about presidential elections, but the former would also mention less important things happening in Washington, and the latter would mention less important things happening in New York.\n\nOn the other hand, there would be some natural synchronization about which \"blue\" facts are allowed to be reported. The ones that are least dangerous to the narrative, of course! Giving a voice to the [selected weakest](https://www.lesswrong.com/posts/dHQkDNMhj692ayx78/avoiding-your-belief-s-real-weak-points) Blue points (or the strawman versions thereof) could be perceived as extra virtuous, while minimizing risk that readers start taking those points seriously. And the reader who tries to be extra charitable to the other side could end up trying to defend the strawmen.\n\nAt the end, it seems I was trying to *extract signal from noise*. Perhaps this is impossible. Unlike in simple mathematical models, you usually don't know the filtering algorithm, and it doesn't even have to be consistent. So the suspicion (even one supported by evidence) that you are being manipulated, does not help you undo the manipulation. You are likely to undershoot, you are likely to overshoot, you are likely to shoot in a completely wrong direction. You can't [revert noise](https://wiki.lesswrong.com/wiki/Reversed_stupidity_is_not_intelligence)."
+   }
+  },
+  {
+   "_id": "v8Xye9a8NcS4zwwwb",
+   "parentCommentId": "Nq2NbpigjDrmqcZjR",
+   "postedAt": "2019-09-24T23:20:38.231Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Slider",
+    "displayName": "Slider"
+   },
+   "contents": {
+    "markdown": "In the logic where blue politics is about kittens you need to assume that non-green political things are blue. If the yellow news paper is spotty about dog saving does it make it a green or blue politics?"
+   }
+  },
+  {
+   "_id": "2DvEY3tKiGdrP5Gom",
+   "parentCommentId": null,
+   "postedAt": "2019-09-25T04:12:50.840Z",
+   "baseScore": 24,
+   "user": {
+    "username": "DaystarEld",
+    "displayName": "DaystarEld"
+   },
+   "contents": {
+    "markdown": "Great post. Something that's worth noting is that this is true \\*even if reality is not 1:1:1.\\*  \n\nLet's say the joke \"reality has a well known Green bias\" is actually true, and add an extra Green side to that impossible die and make it a true four sided pyramid, easy to picture and shake in your hands. It's now 2:1:1 Green:Blue:Grey  \n\nReality says \"Roll 10d4,\" and you let all the little pointy shapes in your palms spill out to reveal... \\*rolls actual dice\\* ~4 Green, ~4 Grey, and ~2 Blue.  \n\n\"Oh snap,\" you, a Green, might say. \"Evidence that my philosophy/political views are correct!... Er, I mean, more correct than the local alternative competing one! And really, that's what matters, isn't it? No one's PERFECT, but at least we can feel justified in fighting the good fight!\"  \n\nYou still have two glaring problems.  \n\n1) You're still, in the majority of cases, wrong, on this particular subject/roll. This is an unpopular thing to say among Greens. \"We're actually wrong on most things, but we're more right than the opposition!\" is only ever going to be a rallying cry for those who intrinsically dislike tribalism and grok lesser-of-two-evils and advocate for slow and steady progress, not those trying to Win The Battle for the Soul/Future/Rights of the Whatever.  \n\n2) Your opponents are actually still right on half the things they're fighting for compared to the things you're right about. Even hinting at this will make you EVEN MORE UNPOPULAR among your fellow Greens. Especially if any of the things they're right about are particularly hot-button issues at the point in spacetime that you find yourself in.  \n\nSo, being a Green (or a Grey who knows that Greys have no chance and so hesitantly puts on a Green uniform) who now wants to actually go into politics and push for positive change, you will by necessity feel a lot more inclined to focus on those 4 things that you have strong evidence your side is right about, ignore those 2 things that your opponent is right about (unless you're behind closed doors with similarly reasonable Greens, Blues, or Greys), and maybe once in awhile try to push at a couple of the 4 things that both sides are wrong about, assuming you have any political capital to spare (you probably don't, hell you probably don't even have enough to focus on all of the 4 dice-backed Green topics).  \n\nWell guess what: now to an \"objective observer,\" you, an intelligent and competent politician, look like a biased ideologue who's blinded by his partisanship and just appealing to his rank-and-file.  \n\nChange this from 10 separate issues to 10 pieces of evidence that make up the nuance of a single issue, and a similar thing happens as nuance gets left at the wayside. Now imagine that not everyone is actually researching all those dice rolls and instead just randomly looking at the subsection of them that happen across their newsfeed, or which appeal to their particular interests, or are the least complicated to take in.  \n\nIt's disheartening, but it can help to note that those who are trying to actually make changes in any social sphere are not working under the same rules/toward the same goals as those trying to just seek truth. This is not a defense of lying, by omission or otherwise, but it is a defense of people who have good reasons to do or say things that we, observing them from the outside, may think are evidence of them being mindkilled."
+   }
+  },
+  {
+   "_id": "v46uGNFFktq4Qmkjj",
+   "parentCommentId": null,
+   "postedAt": "2019-09-25T07:52:48.003Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Optimization Process",
+    "displayName": "Optimization Process"
+   },
+   "contents": {
+    "markdown": "(Strong approval for this post. Figuring out how to deal with filtered evidence is close to my heart.)\n\n> Suppose that the facts relevant to making optimal decisions about an Issue are represented by nine rolls of the Reality die, and that the quality (utility) of Society's decision is proportional to the (base-two logarithm) entropy of the distribution of what facts get heard and discussed.\n\nSorry-- what distribution are we measuring the entropy of? When I hear \"entropy of a distribution,\" I think $\\left(\\sum_x -P(x) \\log P(x)\\right)$ -- but it's not clear to me how to get from there to $\\log_2 9$, $\\log_2 6$, and $\\frac{6}{7} \\log_2 7 + \\frac{1}{7} \\log_2 21$.\n\n"
+   }
+  },
+  {
+   "_id": "BEeaYrEZzC453zWxw",
+   "parentCommentId": "v46uGNFFktq4Qmkjj",
+   "postedAt": "2019-09-25T15:33:44.638Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "You have three green slots, three gray slots, and three blue slots. You put three counters each on each of the green and gray slots, and one counter each on each of the blue slots. The frequencies of counters per slot is [3, 3, 3, 3, 3, 3, 1, 1, 1]. The total number of counters you put down is 3*6 + 3 = 18 + 3 = 21. To turn the frequencies into a probability distribution, you divide everything by 21, to get [1/7, 1/7, 1/7, 1/7, 1/7, 1/7, 1/21, 1/21, 1/21]. Then the entropy is $6\\cdot-\\frac{1}{7}\\log_{2}\\frac{1}{7}+3\\cdot-\\frac{1}{21}\\log_{2}\\frac{1}{21}$, which is $\\frac{6}{7}\\log_{2}7+\\frac{3}{21}\\log_{2}21$. Right? (Thanks for checking\u2014it would be _really embarrassing_ if I got this wrong. I might edit the post later to include more steps.)"
+   }
+  },
+  {
+   "_id": "ks6xE2HYBo97wCiR9",
+   "parentCommentId": null,
+   "postedAt": "2019-09-25T16:53:05.729Z",
+   "baseScore": 5,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "A \u2018three-sided die\u2019 (or, more properly, a d3) is quite easy to construct, actually. Simply label a twelve-sided die such that four of the faces say \u20181\u2019, four say \u20182\u2019, and four say \u20183\u2019. (Similar to [this twelve-sided d4](https://www.amazon.com/gp/product/B01K5ZRZQG).)"
+   }
+  },
+  {
+   "_id": "QyQLg2RCj5PDa38Eu",
+   "parentCommentId": null,
+   "postedAt": "2019-09-25T17:40:05.478Z",
+   "baseScore": 8,
+   "user": null,
+   "contents": {
+    "markdown": "The toy example you gave seems like something that would make for a fun simulation ala Nicky Case's [stuff](www.ncase.me), you can try with multiple groups, different types of evidence (which support either side in varying amounts), and different coordination mechanisms.\r\n\r\nI'll look into something this weekend. If anyone else likes doing JS development, ping me, and we can figure something out!"
+   }
+  },
+  {
+   "_id": "DxCYuBT8GHyZfBtEs",
+   "parentCommentId": null,
+   "postedAt": "2019-09-25T23:28:13.656Z",
+   "baseScore": 4,
+   "user": {
+    "username": "rhollerith_dot_com",
+    "displayName": "RHollerith"
+   },
+   "contents": {
+    "markdown": "Here is Zack's article formatted as plain text suitable for offline reading: [https://gist.githubusercontent.com/hruvulum/ac9774ae322d958c46532804a5d01393/raw/945562bfaef6c50d501228990f6e458e762895b2/selective_reporting.txt](https://gist.githubusercontent.com/hruvulum/ac9774ae322d958c46532804a5d01393/raw/945562bfaef6c50d501228990f6e458e762895b2/selective_reporting.txt)"
+   }
+  },
+  {
+   "_id": "SMQxxmkrSYfhRuxcC",
+   "parentCommentId": "DxCYuBT8GHyZfBtEs",
+   "postedAt": "2019-09-25T23:44:26.577Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Apologies for the little LWs \u2013 we've removed them in our most recent commit to the site but ran into a bug that's been preventing us from deploying."
+   }
+  },
+  {
+   "_id": "3JuBJxJDxvtm88TyS",
+   "parentCommentId": "SMQxxmkrSYfhRuxcC",
+   "postedAt": "2019-09-26T07:41:52.790Z",
+   "baseScore": 4,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "(note, this is now fixed)"
+   }
+  },
+  {
+   "_id": "Yei8uGKLwGG8dx4X2",
+   "parentCommentId": "3JuBJxJDxvtm88TyS",
+   "postedAt": "2019-09-26T17:50:13.320Z",
+   "baseScore": 4,
+   "user": {
+    "username": "rhollerith_dot_com",
+    "displayName": "RHollerith"
+   },
+   "contents": {
+    "markdown": "I appreciate the fix."
+   }
+  },
+  {
+   "_id": "ANhxaLmJNuPTXHDda",
+   "parentCommentId": null,
+   "postedAt": "2019-09-27T00:11:04.186Z",
+   "baseScore": 27,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Curated. I've tried to think about similar topics - silencing of different kinds of information can also lead to [information cascades](https://www.lesswrong.com/posts/2uDBJWCksvzhDzHGf/understanding-information-cascades), for example. This was a simple toy model that I had properties I'd never put into an explicit model before - if signalling always looks like at least a 3:1 ratio of args in your side's favour, then random chance is gonna mean some people (even if 3:1 is the ground truth) will have lopsided info and have to lie, and that's a massive corruption of those people's epistemologies.\n\n> So far, so standard. (You *did* [read the Sequences](https://www.readthesequences.com/), right??)\n\nYes, indeed I did. A bunch of the beginning was nice to see again, it's good for people to reread that stuff, and for any newer users who haven't done it for the first time yet.\n\nI wasn't so much enjoying one political footnote which seemed mostly off-topic or something, until the line at the end saying\n\n> If I'm *doing my job right*, then my analogue in a [\"nearby\" Everett branch](https://www.lesswrong.com/posts/WqGCaRhib42dhKWRL/if-many-worlds-had-come-first) whose local subculture was as \"right-polarized\" as my Berkeley environment is \"left-polarized\", would have written a post making the *same* arguments.\n\nwhich I *really* like as a way of visualising needling the truth between political biases in any environment.\n\nThe post is very readable and clearly explained, plus lots of links for context, which is always great.\n\nI mostly feel confused about quantifying how biased the decisions are. If you have 9 honest rolls then that's log\\_2 of 9 = 3.2 bits. But if you roll it 9 times and hide the 3 rolls in a certain direction, then you don't have log\\_2 of 6 = 2.6 bits. That would be true if you had 6 honest rolls (looking like 2:2:2) but 3:3:0 surely is not the same amount of evidence. I'm generally not sure how best to understand the effects of biases of this sort, and want to think about that more."
+   }
+  },
+  {
+   "_id": "c9MawycyihvE9PJiR",
+   "parentCommentId": null,
+   "postedAt": "2019-09-27T03:44:39.351Z",
+   "baseScore": 17,
+   "user": {
+    "username": "hg00",
+    "displayName": "hg00"
+   },
+   "contents": {
+    "markdown": "Nice post. I think one thing which can be described in this framework is a kind of \"distributed circular reasoning\". The argument is made that \"we know sharing evidence for Blue positions causes harmful effects due to Green positions A, B, and C\", but the widespread acceptance of Green positions A, B, and C itself rests on the fact that evidence for Green positions is shared much more readily than evidence for Blue positions."
+   }
+  },
+  {
+   "_id": "KkeiJp6FowCnrzdSR",
+   "parentCommentId": "QyQLg2RCj5PDa38Eu",
+   "postedAt": "2019-09-28T16:01:20.391Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "This sounds fun, but unfortunately, I don't think I have time to commit to anything!\u2014I have a lot more (prose) writing to do today and tomorrow.\n\n(I also try to avoid JavaScript, to the extent that even my new browser game, _U.S.S. Uncommon Priors Require Origin Disputes_ ([source](https://github.com/zackmdavis/USS_Uncommon_Priors_Require_Origin_Disputes), [demo](http://138.68.217.33/)) is mostly written in Rust (compiled to [WebAssembly](https://webassembly.org/)), with just enough JavaScript glue to listen to keystrokes and paint the [canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API).)"
+   }
+  },
+  {
+   "_id": "jwrTGcv63MWrh5rXf",
+   "parentCommentId": null,
+   "postedAt": "2019-09-29T03:19:00.406Z",
+   "baseScore": 23,
+   "user": {
+    "username": "vedrfolnir",
+    "displayName": "vedrfolnir"
+   },
+   "contents": {
+    "markdown": "(This post is important enough that I'm breaking my commitment not to post until a certain time in the future.)\n\nThe model here strikes me as the correct \\*sort\\* of model, but deserving of substantial complication. Two complications in particular seem clear and relevant to me.\n\nFirst, will the smart sincere idealists be simply \\*misled?\\* Given that this hypothetical imperfect rationalist space exists within Green territory, deviations from the Overton ratio will be punished by Greens \\*both inside and outside\\* the rationalist space; as such, it could (entirely unintentionally, at least at first) serve to \\*reinforce\\* Green partisan hegemony, especially if there's a large imbalance between the abilities of Greendom and Bluedom to offer \\*patronage\\*.\n\nWe already know from history that regimes may become so... self-serving and detached from reality, as one could put it... that they'll feel the need to actively select against smart, sincere idealists, or any permutation thereof. Loyalty to anything but the regime may be seen as an inefficiency and optimized away.\n\nAs a result, it could be useful for Green partisans to keep such spaces around, albeit low-prestige and generally reviled. Partisans also have an interest in identifying the sincere and the idealistic, but for precisely the opposite reasons. (Cf. the Hundred Flowers Campaign.)\n\nSecond, the neat division of truths into Green, Blue, and Gray rings unconvincing to me. Consider the Greens and Blues as having reality maps: certain things directly benefit their reality maps, certain things directly harm those maps, and certain things are neutral. (To pick on Zoroastrianism: the reality of Ahura Mazda or Angra Mainyu would be in the first category, a genealogical account of Zoroastrian doctrine in the Nietzschean sense would be in the second, and the contents of a randomly selected academic journal in the field of (say) accounting would, I assume, be almost entirely in the third.)\n\nIf we multiply the three categories of the Greens by the three categories of the Blues, we get nine options, not three. If we make certain assumptions about Green-Blue conflict, we can reduce this somewhat, and posit that anything that is beneficial to one side but seemingly neutral to the other in fact benefits the first at the expense of the second.\n\nBut this leaves five possibilities, not three! In addition to \\[+Green -Blue\\], \\[-Green +Blue\\], and \\[0Green 0Blue\\], we have \\[+Green +Blue\\] and \\[-Green -Blue\\]. Would Blues and Greens not fear displacement by something outside their union?"
+   }
+  },
+  {
+   "_id": "byNKK7dsG4tKdEsAf",
+   "parentCommentId": "jwrTGcv63MWrh5rXf",
+   "postedAt": "2019-09-29T03:50:08.394Z",
+   "baseScore": 13,
+   "user": {
+    "username": "quanticle",
+    "displayName": "quanticle"
+   },
+   "contents": {
+    "markdown": ">We already know from history that that regimes may become so... self-serving and detached from reality, as one could put it... that they'll feel the need to actively select against smart, sincere idealists or any permutation thereof. \r\n\r\nCoincidentally, I was reading this [excellent article](https://newcriterion.com/issues/2019/10/leninthink) about the mindset behind Leninism, and I felt like this passage was particularly insightful:\r\n\r\n>In his history of Marxism, Ko\u0142akowski explains some puzzling aspects of Bolshevik practice in these terms. Everyone understands why Bolsheviks shot liberals, socialist revolutionaries, Mensheviks, and Trotskyites. But what, he asks, was the point of turning the same fury on the Party itself, especially on its most loyal, Stalinists, who accepted Leninist-Stalinist ideology without question? Ko\u0142akowski observes that it is precisely the loyalty to the ideology that was the problem. Anyone who believed in the ideology might question the leader\u2019s conformity to it. He might recognize that the Marxist-Leninist Party was acting against Marxism-Leninism as the Party itself defined it; or he might compare Stalin\u2019s statements today with Stalin\u2019s statements yesterday. 'The citizen belongs to the state and must have no other loyalty, not even to the state ideology,' Ko\u0142akowski observes."
+   }
+  },
+  {
+   "_id": "xsccctBdiHPQTTNWX",
+   "parentCommentId": null,
+   "postedAt": "2019-10-01T00:27:07.248Z",
+   "baseScore": 12,
+   "user": {
+    "username": "cata",
+    "displayName": "cata"
+   },
+   "contents": {
+    "markdown": "Wow, this post really got me thinking. Dealing with this kind of pervasive filtering seems super important and also difficult. Thanks for writing it.\n\nYour proposal that you can clue other people into your filtering mechanism seems hard in practice. Any effort in this vein means that you are saying that you suspect the consensus is misleading, which means that you are saying that non-consensus beliefs are more likely to be true, and people can pick up on this. I tried to come up with ways to express \"this is cherry-picked, but\" without triggering that but I couldn't figure out ways that seemed plausible.\n\nApproaches like Raemon's, where you say \"I'm just never going to talk about controversial thing X\" seem mentally hard to update on -- in a world where there are a million people who say \"I'm never going to talk about X\" and a thousand who are constantly presenting cherry-picked evidence about X, it's very difficult for my mind to interpret the filtering disclaimers as object-level evidence about X that can fight with the evidence provided by the cherry-pickers."
+   }
+  },
+  {
+   "_id": "EKFTisZv6kxAtRrij",
+   "parentCommentId": "xsccctBdiHPQTTNWX",
+   "postedAt": "2019-10-01T06:12:55.956Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "One outcome might be that you live in a particular rationalist filter bubble where everyone can't-say similar sets of things, or that maybe you can take the things people say in aggregate and see that they form a fairly digestible pattern.\n\n(I suspect I'm not alone in avoiding talking about mainstream politics, and I'd suspect there's roughly four groups in my circles that are something like \"avoid politics\", \"disproportionately lean social leftist\", \"disproportionately lean libertarian\", and \"disproportionately lean edgy and contrarian\", or something kinda like that, and if you can get a sense of how many of each group there are you can turn that into an overall heuristic.\")"
+   }
+  },
+  {
+   "_id": "o3HZy8EWsYXMrWaLq",
+   "parentCommentId": "2DvEY3tKiGdrP5Gom",
+   "postedAt": "2019-10-01T23:47:44.974Z",
+   "baseScore": 4,
+   "user": {
+    "username": "RRand",
+    "displayName": "RRand"
+   },
+   "contents": {
+    "markdown": "It's worth pointing out that *grey* in the post refers to\n\n> a fact that not even the worst ideologues know how to spin as \"supporting\" their side\".\n\nI'm not sure what good grey rolls do in the context of this post (especially given the proviso that \"there is a 'Blue' and a 'Green' position on almost every contemporary issue of political or cultural importance\").\n\nBut grey rolls are, of course, important: Grey facts and grey issues are uncorrupted by the Great War, and hence are that much more accessible/tractable. The more grey facts there are, the better rationalists we can be.\n\nWith respect to your comment, the presence of Grey, Yellow, Orange and Purple *Teams* would actually help things substantially -- if I report facts from the six teams equally, it's harder to label me as a partisan. (And it's harder for any team to enforce partisanship.) Even if Blue-supporting facts truly are taboo (Green is unlikely to have more than one archnemesis), that's much less limiting when only a sixth of facts are Blue. It's a nice advantage of multipolar politics."
+   }
+  },
+  {
+   "_id": "QJz3jGsrLhLCxxjBa",
+   "parentCommentId": "BEeaYrEZzC453zWxw",
+   "postedAt": "2019-10-08T05:52:57.435Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Optimization Process",
+    "displayName": "Optimization Process"
+   },
+   "contents": {
+    "markdown": "Ahhh! Yes, that helps a great deal. Thank you!"
+   }
+  },
+  {
+   "_id": "KL4osqP3HjXdfB2kq",
+   "parentCommentId": "ks6xE2HYBo97wCiR9",
+   "postedAt": "2019-10-08T12:54:20.426Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Thecommexokid",
+    "displayName": "Thecommexokid"
+   },
+   "contents": {
+    "markdown": "Or this product http://spielpro.com/d3-by-the-dice-lab/"
+   }
+  },
+  {
+   "_id": "bBT46J2qZS3RkLPAi",
+   "parentCommentId": "ks6xE2HYBo97wCiR9",
+   "postedAt": "2019-10-09T15:20:10.165Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Thelo",
+    "displayName": "Thelo"
+   },
+   "contents": {
+    "markdown": "Another easy option for rolling a N-sided die is a N-sided prism, like a pencil that you roll on the table that can only come to rest on one of N sides (and never on the tips). With 3 sides it becomes a triangular prism that doesn't quite roll as well as we'd like, but it's doable.\n\nYet another option is a spinning top with N faces, where you can set N to whatever you want that's >= 3.\n\nBut you're right that in practice, probably re-labeling an existing dice, like relabeling a d6 as \\[1,1,2,2,3,3\\], is easiest."
+   }
+  },
+  {
+   "_id": "7BtYQ3zn3gSqwjytX",
+   "parentCommentId": "o3HZy8EWsYXMrWaLq",
+   "postedAt": "2019-10-09T20:21:53.423Z",
+   "baseScore": 10,
+   "user": {
+    "username": "matthias-goergens",
+    "displayName": "Matthias G\u00f6rgens"
+   },
+   "contents": {
+    "markdown": "What seems to happen in practice is that everything non-Green gets lumped together as Blue. Even if the other people do not see themselves as being on one faction.\n\nAnd then you have the additional complications of out-group vs far-group."
+   }
+  },
+  {
+   "_id": "aA7Ry9x6YfnZWnbBM",
+   "parentCommentId": "jwrTGcv63MWrh5rXf",
+   "postedAt": "2020-05-02T12:57:23.635Z",
+   "baseScore": 1,
+   "user": {
+    "username": "wizzwizz4",
+    "displayName": "wizzwizz4"
+   },
+   "contents": {
+    "markdown": "> But this leaves five possibilities, not three!\n\n\\[+Green +Blue\\] and \\[-Green -Blue\\] don't affect Green and Blue's relative standing, so they're equivalent to \\[0Green 0Blue\\]."
+   }
+  },
+  {
+   "_id": "yADLzADbqxTsrkpQK",
+   "parentCommentId": "c9MawycyihvE9PJiR",
+   "postedAt": "2020-05-02T13:00:55.990Z",
+   "baseScore": 1,
+   "user": {
+    "username": "wizzwizz4",
+    "displayName": "wizzwizz4"
+   },
+   "contents": {
+    "markdown": "[https://ncase.me/loopy/](https://ncase.me/loopy/)"
+   }
+  },
+  {
+   "_id": "oNLauWYbceSFsj2M8",
+   "parentCommentId": null,
+   "postedAt": "2020-12-02T15:22:44.100Z",
+   "baseScore": 6,
+   "user": {
+    "username": "daniel-kokotajlo",
+    "displayName": "Daniel Kokotajlo"
+   },
+   "contents": {
+    "markdown": "This post improved my understanding of how censorship, polarization, groupthink, etc. work. I also love the slogan \"Blatant cherry-picking is the best kind.\""
+   }
+  },
+  {
+   "_id": "wTAbz9HpczriAyH7C",
+   "parentCommentId": "ANhxaLmJNuPTXHDda",
+   "postedAt": "2020-12-02T19:03:52.353Z",
+   "baseScore": 4,
+   "user": {
+    "username": "rohinmshah",
+    "displayName": "Rohin Shah"
+   },
+   "contents": {
+    "markdown": "> But if you roll it 9 times and hide the 3 rolls in a certain direction, then you don't have log_2 of 6 = 2.6 bits. That would be true if you had 6 honest rolls (looking like 2:2:2) but 3:3:0 surely is not the same amount of evidence. I'm generally not sure how best to understand the effects of biases of this sort, and want to think about that more.\n\nThe general formula is\u00a0$-\\sum\\limits_{obs} P(obs) \\log P(obs)$, where obs is the observation that you see. You need to calculate\u00a0$P(obs)$\u00a0based on the problem setup; if you are given the ground truth of how the 9 rolls happen as well as the algorithm by which the 6 dice rolls to reveal are chosen, you can compute\u00a0$P(obs)$\u00a0for each obs by brute force simulation of all possible worlds."
+   }
+  },
+  {
+   "_id": "bD5Br7snayuRvBAPZ",
+   "parentCommentId": null,
+   "postedAt": "2020-12-03T19:10:43.135Z",
+   "baseScore": 4,
+   "user": {
+    "username": "mr-hire",
+    "displayName": "Trinley Goldenberg"
+   },
+   "contents": {
+    "markdown": "I've referenced this post at least a few times when trying to discuss the nuances of contextualizing vs. decoupling norms."
+   }
+  },
+  {
+   "_id": "mrQBXfFir8GW37dWz",
+   "parentCommentId": null,
+   "postedAt": "2021-01-02T22:19:33.526Z",
+   "baseScore": 22,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Self-review.) I've edited the post to include the [$\\frac{6}{7} \\log_{2} 7 + \\frac{1}{7} \\log_{2} 21$ calculation](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting?commentId=BEeaYrEZzC453zWxw) as footnote 10.\n\nThe post doesn't emphasize this angle, but this is also more-or-less my abstract story for the classic puzzle of why [disagreement](https://www.lesswrong.com/tag/disagreement) is so prevalent, which, [from a Bayesian-wannabe](https://link.springer.com/article/10.1023/A:1026251404228) rather than a human perspective, should be shocking: there's only one reality, so honest people should get the same answers. How can it simultaneously be the case that disagreement is ubiquitous, but people [usually aren't outright lying](https://www.lesswrong.com/posts/bSmgPNS6MTJsunTzS/maybe-lying-doesn-t-exist)? Explanation: the \"dishonesty\" is mostly in the form of motivatedly asking different questions.\n\n_Possible future work:_ varying the model assumptions might yield some more detailed morals. I never got around to trying the diminishing-marginal-relevance variation suggested in footnote 8. Another variation I didn't get around to trying would be for the importance of a fact to each coalition's narrative to vary: maybe there are [a few \"sacred cows\"](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/) for which the social cost of challenging is _huge_ (as opposed to just having to keep one's _ratio_ of off-narrative reports in line).\n\n_Prior work:_ So, _I_ [happened to](https://www.lesswrong.com/posts/tSgcorrgBnrCH8nL3/don-t-revere-the-bearer-of-good-info) learn about the filtered-evidence problem from the Sequences, but of course, there's a big statistics literature about learning from [missing data](https://en.wikipedia.org/wiki/Missing_data) that I learned a little bit about in 2020 while perusing Ch. 19 of _Probabilistic Graphical Models: Principles and Techniques_ by Daphne Koller and the other guy."
+   }
+  },
+  {
+   "_id": "zhiHEMo3kTt8o9Ckk",
+   "parentCommentId": "TWtRpAqeA77buf4Jz",
+   "postedAt": "2021-01-19T04:54:34.803Z",
+   "baseScore": 18,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Update: in the past year, since writing this comment, I periodically thought 'man, I should probably post some somewhat controversial opinions, to get into the habit of actually having the backbone to do that sometimes.'\u00a0\n\nAnd... well, I haven't gotten around to it. And I think there at least is a little bit of \"Ray is just being cowardly here\", but, also... it just doesn't feel super worth it. It's effortful to write up stuff in the first place, and I have a ton of stuff I want to write that *isn't* controversial which I think is really important, and meanwhile I don't think on the object level that any given controversial opinion was really that valuable to express *except* for building up my social resilience backbone.\n\nI think \"build up social resilience\" is actually pretty important, enough that I lean towards \"yes actually feel bad about this even though any given controversial opinion doesn't feel very important to express\". But, whelp, here we are."
+   }
+  },
+  {
+   "_id": "gN3sc7vQRw6qB7ZZ2",
+   "parentCommentId": null,
+   "postedAt": "2021-01-23T22:18:11.004Z",
+   "baseScore": 4,
+   "user": {
+    "username": "hamnox",
+    "displayName": "hamnox"
+   },
+   "contents": {
+    "markdown": "Crucial. I definitely remember reading this and thinking it was one of the most valuable posts I'd seen all year. Good logical structure.  \n  \nBut it's hard to read? It has jarring, erratic rhetoric flow; succinct where elaboration is predictably needed, and verbose where it is redundant. A mathematician's scratch notes, I think."
+   }
+  },
+  {
+   "_id": "NevE2sHCrE6THuHuT",
+   "parentCommentId": null,
+   "postedAt": "2021-11-28T15:57:18.624Z",
+   "baseScore": 10,
+   "user": {
+    "username": "ege-erdil",
+    "displayName": "Ege Erdil"
+   },
+   "contents": {
+    "markdown": "This is a rather pedantic remark that doesn't have much relevance to the primary content of the post (EDIT: it's also based on a misunderstanding of what the post is actually doing - I missed that an explicit prior is specified which invalidates the concern raised here), but\n\n> If such a coin is flipped ten times by someone who doesn't make literally false statements, who then reports that the 4th, 6th, and 9th flips came up Heads, then the update to our beliefs about the coin depends on what algorithm the not-lying[1] reporter used to decide to report those flips in particular. If they always report the 4th, 6th, and 9th flips independently of the flip outcomes\u2014if there's no evidential entanglement between the flip outcomes and the choice of which flips get reported\u2014then reported flip-outcomes can be treated the same as flips you observed yourself: three Headses is 3 * 1 = 3 bits of evidence in favor of the hypothesis that the coin is Heads-biased. (So if we were initially 50:50 on the question of which way the coin is biased, our posterior odds after collecting 3 bits of evidence for a Heads-biased coin would be 23:1 = 8:1, or a probability of 8/(1 + 8) \u2248 0.89 that the coin is Heads-biased.)\n\nis not how Bayesian updating would work in this setting. As I've explained in [my post](https://www.lesswrong.com/posts/ea7CGqF3pmqpebogK/laplace-s-rule-of-succession) about Laplace's rule of succession, if you start with a uniform prior over \\\\( [0, 1] \\\\) for the probability of the coin coming up heads and you observe a sequence of \\\\( N \\\\) heads in succession, you would update to a posterior of \\\\( \\operatorname{Beta}(N+1, 1) \\\\) which has mean \\\\( (N+1)/(N+2) \\\\). For \\\\( N = 3 \\\\) that would be \\\\( 4/5 \\\\) rather than \\\\( 8/9 \\\\).\n\nI haven't formalized this, but one problem with the entropy approach here is that the distinct bits of information you get about the coin are actually not independent, so they are worth less than one bit each. They aren't independent because if you know some of them came up heads, your prior that the other ones also came up heads will be higher, since you'll infer that the coin is likely to have been biased in the direction of coming up heads.\n\nTo not leave this totally up in the air, if you think of the \\\\( n \\\\)th heads having an information content of \n\n\\\\[ \\log_2 \\left( \\frac{n+1}{n} \\right) \\\\] \n\nbits, then the total information you get from \\\\( n \\\\) heads is something like \n\n\\\\[ \\sum_{k=1}^{n} \\log_2 \\left(\\frac{k+1}{k} \\right) = \\log_2(n+1) \\\\]\n\nbits instead of \\\\( n \\\\) bits. Neglecting this effect leads you to make much more extreme inferences than would be justified by Bayes' rule."
+   }
+  },
+  {
+   "_id": "xkktmDWi86fHZpJ7E",
+   "parentCommentId": "NevE2sHCrE6THuHuT",
+   "postedAt": "2021-11-28T18:04:12.107Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks for this analysis! However\u2014\n\n> if you start with a uniform prior over [0,1] for the probability of the coin coming up heads\n\nI'm not. The post specifies \"a coin that is either biased to land Heads 2/3rds of the time, _or_ Tails 2/3rds of the time\"\u2014that is (and maybe I should have been more explicit), I'm saying our prior belief about the coin's bias is just the discrete distribution {\"1/3 Heads, 2/3 Tails\": 0.5, \"2/3 Heads, 1/3 Tails\": 0.5}.\n\nI agree that a beta prior would be more \"realistic\" in the sense of applying to a wider range of scenarios (your uncertainty about a parameter is usually continuous, rather than \"it's either this, or it's that, with equal probability\"), but I wanted to make the math easy on myself and my readers."
+   }
+  },
+  {
+   "_id": "wmE8mnWYSdEuAZ2Q9",
+   "parentCommentId": "xkktmDWi86fHZpJ7E",
+   "postedAt": "2021-11-28T18:51:06.875Z",
+   "baseScore": 2,
+   "user": {
+    "username": "ege-erdil",
+    "displayName": "Ege Erdil"
+   },
+   "contents": {
+    "markdown": "Ah, I see. I missed that part of the post for some reason.\n\nIn this setup the update you're doing is fine, but I think measuring the evidence for the hypothesis in terms of \"bits\" can still mislead people here. You've tuned your example so that the likelihood ratio is equal to two and there are only two possible outcomes, while in general there's no reason for those two values to be equal."
+   }
+  },
+  {
+   "_id": "68yheQXJsyw7buauC",
+   "parentCommentId": null,
+   "postedAt": "2023-09-10T18:09:16.502Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Hivewired",
+    "displayName": "Slimepriestess"
+   },
+   "contents": {
+    "markdown": "I like this post a lot, but I have a bit I want to push back on/add nuance towards, which is *how the social web behaves* when presented with \"factionally inconsistent\" true information. In the presented hypothetical world controlled by greens, correct blue observations are discounted and hidden, (and the reverse also holds in the reversed case). However, I don't think the information environment of the current world resembles that very much, the faction boundaries are much less distinct and coherent, often are only alliances of convenience, and the overall social reality field is less \"static, enemy territory\" than is presented as.\n\nThis is important because:  \n\\- freedom of speech means in practice anyone can say anything  \n\\- saying factionally-unpopular things can be status-conferring because the actual faction borders are unclear and people can flip sides.  \n\\- sharing the other faction's information in a way that makes them look bad can convey status to you for your faction  \n\\- the other faction can encode true information into what you think is clearly false, and when you then share it to dunk on them, you inadvertently give that true information to others.\n\nthis all culminates in a sort of recursive societal waluigi effect where the more that one faction tries to clamp down on a narrative, the more every other faction will inadvertently be represented within the structure of that clamped narrative, and all the partisan effects will replicate themselves inside that structure at every level of complexity.\n\nIf factional allegiances trump epistemic accuracy, then you will not have the epistemics to notice when your opponents are saying true things, and so if you try to cherrypick false things to make them look worse, you will accidentally convey true things without realizing it.\n\nLet's give an example:\n\nSay we have a biased green scientist who wants to \"prove greens are always right\" and he has that three sided die that comes up green 1/3 of the time. He wants to report \"correct greens\" and \"incorrect blues\" to prove his point. When a roll he expects to be green comes up green, he reports it, when a roll he expects to be green comes up blue, he *also* reports it *as evidence blue is wrong,* because it gives the \"wrong answer\" to his green-centric-query. if he's interpreting everything from a green-centric lens, then he will not notice he is doing this.\u00a0\n\n\"the sky clearly blue-appearing to causal observation, which confirms my theory that the sky is green under these conditions I have specified, it merely *appears* blue for the same reason blues are always wrong\"\u00a0\n\nbut if you're a green who cares about epistemics, or a blue who is looking for real evidence, that green just gave you a bunch of evidence without noticing he was doing it. There are enough people in the world who are just trying to cherrypick for their respective factions, that they will not notice they're leaking correct epistemics where everyone else can see. This waluigi effect goes in every direction, you can't point to the other faction and describe how they're wrong without describing them, which, if they're right about something, will get slipped in without you realizing it. This is part of why truth is an asymmetric weapon.\u00a0\n\nThe described \"blue-green factions divided\" world feels sort of \"1984\" to our world's \"Brave New World\", in a 1984-esque world, where saying \"the sky is blue iff the sky is blue, the sky is green iff the sky is green\" would get you hung as a traitor to the greens, the issues described in this thread would likely be more severe and closer to the presented description, but in our world, where \"getting hung as a traitor\" is, for most people outside of extremely adverse situations, \"a bunch of angry people quote tweet and screenshot you and post about you and repeat \"lol look how wrong they are\" hundreds of times where everyone can see exactly what you're saying\", well that's basically just free advertising for what you consider true information, and the people who care about truth will be looking for it, not for color coding."
+   }
+  }
+ ]
+}

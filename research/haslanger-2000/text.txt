@@ -1,0 +1,1206 @@
+                                                           NOÛS 34:1 ~2000! 31–55
+
+
+
+
+          Gender and Race: (What) Are They?
+           (What) Do We Want Them To Be? 1
+                         Sally Haslanger
+                 Massachusetts Institute of Technology
+
+                                       If her functioning as a female is not enough
+                                    to define woman, if we decline also to explain
+                                          her through “the eternal feminine,” and if
+                                          nevertheless we admit, provisionally, that
+                                  women do exist, then we must face the question:
+                                                                  what is a woman?
+                                            —Simone de Beauvoir, The Second Sex
+
+                                       I guess you could chuckle and say that I’m
+                                         just a woman trapped in a woman’s body.
+                                —Ellen DeGeneres, My Point...and I Do Have One
+
+                                            The truth is that there are no races:
+                                                  there is nothing in the world
+                                       that can do all we ask race to do for us.
+                                —Kwame Anthony Appiah, In My Father’s House
+
+
+It is always awkward when someone asks me informally what I’m working on
+and I answer that I’m trying to figure out what gender is. For outside a rather
+narrow segment of the academic world, the term ‘gender’ has come to function as
+the polite way to talk about the sexes. And one thing people feel pretty confident
+about is their knowledge of the difference between males and females. Males are
+those human beings with a range of familiar primary and secondary sex charac-
+teristics, most important being the penis; females are those with a different set,
+most important being the vagina or, perhaps, the uterus. Enough said. Against this
+background, it isn’t clear what could be the point of an inquiry, especially a
+philosophical inquiry, into “what gender is”.
+
+
+© 2000 Blackwell Publishers Inc., 350 Main Street, Malden, MA 02148, USA,
+and 108 Cowley Road, Oxford OX4 1JF, UK.
+
+                                       31
+32   NOÛS
+
+
+    But within that rather narrow segment of the academic world concerned with
+gender issues, not only is there no simple equation of sex and gender, but the
+seemingly straightforward anatomical distinction between the sexes has been
+challenged as well. What began as an effort to note that men and women differ
+socially as well as anatomically has prompted an explosion of different uses of
+the term ‘gender’. Within these debates, not only is it unclear what gender is and
+how we should go about understanding it, but whether it is anything at all.
+    The situation is similar, if not worse, with respect to race. The self-evidence of
+racial distinctions in everyday American life is at striking odds with the uncer-
+tainty about the category of race in law and the academy. Work in the biological
+sciences has informed us that our practices of racial categorization don’t map
+neatly onto any useful biological classification; but that doesn’t settle much, if
+anything. For what should we make of our tendency to classify individuals ac-
+cording to race, apparently on the basis of physical appearance? And what are we
+to make of the social and economic consequences of such classifications? Is race
+real or is it not?
+    This paper is part of a larger project, the goal of which is to offer accounts of
+gender and race informed by a feminist epistemology. Here my aim is to sketch
+some of the central ideas of those accounts. Let me emphasize at the beginning
+that I do not want to argue that my proposals provide the only acceptable ways to
+define race or gender; in fact, the epistemological framework I employ is explic-
+itly designed to allow for different definitions responding to different concerns. It
+is sometimes valuable to consider race or gender alone or to highlight the differ-
+ences between them; however, here I will begin by exploring some significant
+parallels. Although there are dangers in drawing close analogies between gender
+and race, I hope my discussion will show that theorizing them together can pro-
+vide us valuable resources for thinking about a wide range of issues. Working
+with a model that demonstrates some of the parallels between race and gender
+also helps us locate important differences between them.
+
+                             I. THE QUESTION(S)
+It is useful to begin by reflecting on the questions: “What is gender?”, “What is
+race?” and related questions such as: “What is it to be a man or a woman?” 2 ,
+“What is it to be White? Latino? or Asian?” There are several different ways to
+understand, and so respond to, questions of the form, “What is X?” or “What is it
+to be an X?” For example, the question “What is knowledge?” might be construed
+in several ways. One might be asking: What is our concept of knowledge? ~look-
+ing to apriori methods for an answer!. On a more naturalistic reading one might
+be asking: What ~natural! kind ~if any! does our epistemic vocabulary track? Or
+one might be undertaking a more revisionary project: What is the point of having
+a concept of knowledge? What concept ~if any! would do that work best? 3 These
+different sorts of projects cannot be kept entirely distinct, but draw upon different
+methodological strategies. Returning to the questions, “What is race?” or “What
+                                                              Gender and Race 33
+
+
+is gender?” we can distinguish, then, three projects with importantly different
+priorities: conceptual, descriptive, and analytical.
+    A conceptual inquiry into race or gender would seek an articulation of our
+concepts of race or gender ~Riley 1988!. To answer the conceptual question, one
+way to proceed would be to use the method of reflective equilibrium. ~Although
+within the context of analytic philosophy this might be seen as a call for a con-
+ceptual analysis of the term~s!, I want to reserve the term ‘analytical’ for a dif-
+ferent sort of project, described below.!
+    In contrast to the conceptual project, a descriptive project is not concerned
+with exploring the nuances of our concepts ~or anyone else’s for that matter!; it
+focuses instead on their extension. Here, the task is to develop potentially more
+accurate concepts through careful consideration of the phenomena, usually rely-
+ing on empirical or quasi-empirical methods. Paradigm descriptive projects oc-
+cur in studying natural phenomena. I offered the example of naturalistic approaches
+to knowledge above: the goal is to determine the ~natural! kind, if any, we are
+referring to ~or are attempting to refer to! with our epistemic talk. However, a
+descriptive approach need not be confined to a search for natural or physical
+kinds; inquiry into what it is to be, e.g., a human right, a citizen, a democracy,
+might begin by considering the full range of what has counted as such to deter-
+mine whether there is an underlying ~possibly social! kind that explains the temp-
+tation to group the cases together. Just as natural science can enrich our “folk”
+conceptualization of natural phenomena, social sciences ~as well as the arts and
+humanities! can enrich our “folk” conceptualization of social phenomena. So, a
+descriptive inquiry into race and gender need not presuppose that race and gender
+are biological kinds; instead it might ask whether our uses of race and gender
+vocabularies are tracking social kinds, and if so which ones.
+    The third sort of project takes an analytical approach to the question, “What is
+gender?” or “What is race?” ~Scott 1986!. On this approach the task is not to
+explicate our ordinary concepts; nor is it to investigate the kind that we may or
+may not be tracking with our everyday conceptual apparatus; instead we begin by
+considering more fully the pragmatics of our talk employing the terms in ques-
+tion. What is the point of having these concepts? What cognitive or practical task
+do they ~or should they! enable us to accomplish? Are they effective tools to
+accomplish our ~legitimate! purposes; if not, what concepts would serve these
+purposes better? In the limit case of an analytical approach the concept in ques-
+tion is introduced by stipulating the meaning of a new term, and its content is
+determined entirely by the role it plays in the theory. But if we allow that our
+everyday vocabularies serve both cognitive and practical purposes, purposes that
+might also be served by our theorizing, then a theory offering an improved un-
+derstanding of our ~legitimate! purposes and0or improved conceptual resources
+for the tasks at hand might reasonably represent itself as providing a ~possibly
+revisionary! account of the everyday concepts.4
+    So, on an analytical approach, the questions “What is gender?” or “What is
+race?” require us to consider what work we want these concepts to do for us; why
+34   NOÛS
+
+
+do we need them at all? The responsibility is ours to define them for our purposes.
+In doing so we will want to be responsive to some aspects of ordinary usage ~and
+to aspects of both the connotation and extension of the terms!. However, neither
+ordinary usage nor empirical investigation is overriding, for there is a stipulative
+element to the project: this is the phenomenon we need to be thinking about. Let
+the term in question refer to it. On this approach, the world by itself can’t tell us
+what gender is, or what race is; it is up to us to decide what in the world, if
+anything, they are.
+    This essay pursues an analytical approach to defining race and gender. How-
+ever, its analytical objectives are linked to the descriptive project of determining
+whether our gender and race vocabularies in fact track social kinds that are typ-
+ically obscured by the manifest content of our everyday race and gender con-
+cepts.5 Although the analyses I offer will point to existing social kinds ~and this
+is no accident!, I am not prepared to defend the claim that these social kinds are
+what our race and gender talk is “really” about. My priority in this inquiry is not
+to capture what we do mean, but how we might usefully revise what we mean for
+certain theoretical and political purposes.
+    My characterization of all three approaches remains vague, but there is one
+reason to be skeptical of the analytical approach that should be addressed at the
+outset. The different approaches I’ve sketched differ both in their methods and
+their subject matter. However, we come to inquiry with a conceptual repertoire in
+terms of which we frame our questions and search for answers: hence, the subject
+matter of any inquiry would seem to be set from the start. In asking what race is,
+or what gender is, our initial questions are expressed in everyday vocabularies of
+race and gender, so how can we meaningfully answer these questions without
+owing obedience to the everyday concepts? Or at least to our everyday usage?
+Revisionary projects are in danger of providing answers to questions that weren’t
+being asked.
+    But ordinary concepts are notoriously vague; individual conceptions and lin-
+guistic usage varies widely. Moreover, inquiry often demonstrates that the ordi-
+nary concepts used initially to frame a project are not, as they stand, well-suited
+to the theoretical task at hand. ~This is one reason why we may shift from a
+conceptual project to an analytical one.! But precisely because our ordinary con-
+cepts are vague ~or it is vague which concept we are expressing by our everyday
+use of terms!, there is room to stretch, shrink, or refigure what exactly we are
+talking about in new and sometimes unexpected directions.
+    However, in an explicitly revisionary project, it is not at all clear when we are
+warranted in appropriating existing terminology. Given the difficulty of deter-
+mining what “our” concept is, it isn’t entirely clear when a project crosses over
+from being explicative to revisionary, or when it is no longer even revisionary but
+simply changes the subject. If our goal is to offer an analysis of “our” concept of
+X, then the line between what’s explication and what’s not matters . But if our
+goal is to identify a concept that serves our broader purposes, then the question of
+terminology is primarily a pragmatic and sometimes a political one: should we
+                                                               Gender and Race 35
+
+
+employ the terms of ordinary discourse to refer to our theoretical categories, or
+instead make up new terms? The issue of terminological appropriation is espe-
+cially important, and especially sensitive, when the terms in question designate
+categories of social identity such as ‘race’ and ‘gender’.
+   Are there principles that determine when it is legitimate to appropriate the
+terms of ordinary discourse for theoretical purposes? An answer, it seems to me,
+should include both a semantic and a political condition ~though in some cases
+the politics of the appropriation will be uncontroversial!. The semantic condition
+is not surprising: the proposed shift in meaning of the term would seem seman-
+tically warranted if central functions of the term remain the same, e.g., if it helps
+organize or explain a core set of phenomena that the ordinary terms are used to
+identify or describe.6 Framing a political condition in general terms is much more
+difficult, however, for the politics of such appropriation will depend on the ac-
+ceptability of the goals being served, the intended and unintended effects of the
+change, the politics of the speech context, and whether the underlying values are
+justified. We will return to some of these issues later in the paper once my analy-
+ses have been presented.
+
+
+          II. CRITICAL (FEMINIST, ANTI-RACIST) THEORY
+In an analytical project we must begin by considering what we want the concept
+in question for. Someone might argue, however, that the answer is simple: our
+concepts must do the work of enabling us to articulate truths. But of course an
+unconstrained search for truth would yield chaos, not theory; truths are too easy
+to come by, there are too many of them. Given time and inclination, I could tell
+you many truths—some trivial, some interesting, many boring—about my phys-
+ical surroundings. But a random collection of facts does not make a theory; they
+are a disorganized jumble. In the context of theorizing, some truths are more
+significant than others because they are relevant to answering the question that
+guides the inquiry. ~Anderson 1995.!
+    Theorizing—even when it is sincerely undertaken as a search for truth—must
+be guided by more than the goal of achieving justified true belief. Good theories
+are systematic bodies of knowledge that select from the mass of truths those that
+address our broader cognitive and practical demands. In many contexts the ques-
+tions and purposes that frame the project are understood and progress does not
+require one to investigate them. But in other contexts, e.g., especially when de-
+bate has seemed to break down and parties are talking at cross-purposes, an ad-
+equate evaluation of an existing theory or success in developing a new one is only
+possible when it is made clear what the broader goals are.
+    With this sketch of some of the theoretical options, I want to frame my own
+project as a critical analytical effort to answer the questions: “What is gender?”,
+“What is race?” and the related questions “What is it to be a man?” “...a woman?”,
+“...White?” “...Latino?” etc.“ More specifically, the goal of the project is to con-
+sider what work the concepts of gender and race might do for us in a critical—
+36   NOÛS
+
+
+specifically feminist and antiracist—social theory, and to suggest concepts that
+can accomplish at least important elements of that work. ~Guess 1981.! So to
+start: why might feminist antiracists want or need the concepts of gender and
+race? What work can they do for us?
+   At the most general level, the task is to develop accounts of gender and race
+that will be effective tools in the fight against injustice. The broad project is
+guided by four concerns:
+
+    ~i! The need to identify and explain persistent inequalities between fe-
+        males and males, and between people of different “colors” 7 ; this in-
+        cludes the concern to identify how social forces, often under the guise
+        of biological forces, work to perpetuate such inequalities.
+   ~ii! The need for a framework that will be sensitive to both the similarities
+        and differences among males and females, and the similarities and dif-
+        ferences among individuals in groups demarcated by “color”; this in-
+        cludes the concern to identify the effects of interlocking oppressions,
+        e.g., the intersectionality of race, class, and gender. ~Crenshaw 1993.!
+  ~iii! The need for an account that will track how gender and race are im-
+        plicated in a broad range of social phenomena extending beyond
+        those that obviously concern sexual or racial difference, e.g., whether
+        art, religion, philosophy, science, or law might be “gendered” and0or
+        “racialized”.
+  ~iv! The need for accounts of gender and race that take seriously the agency
+        of women and people of color of both genders, and within which we can
+        develop an understanding of agency that will aid feminist and antiracist
+        efforts to empower critical social agents.
+
+In this paper I will begin to address the first two concerns, though the fourth will
+become relevant later in the discussion. Let me emphasize, however, that my goal
+in this paper is not to provide a thoroughgoing explanation of sexism and racism,
+if one wants by way of explanation a causal account of why and how females have
+come to be systematically subordinated throughout history, or why and how “col-
+or” has come to be a basis for social stratification. My goal here is in some ways
+more modest, and in other ways more contentious. Prior to explanation it is valu-
+able to provide clear conceptual categories to identify the phenomenon needing
+explanation, e.g., categories that identify the kind of injustice at issue and the
+groups subject to it. In the case of racial and sexual subordination this is not as
+easy as it may seem. In the first place, the forms of racial and sexual subordina-
+tion are tremendously heterogeneous and it would help to have accounts that
+enable us to distinguish racial subordination and sexual subordination from other
+sorts. But further, we must be cautious about treating familiar demarcations of
+“color” and “sex” as purely natural categories, as if the question at hand is simply
+why one’s “color” or sex—where we take for granted our familiar understandings
+of these terms—has ever seemed to be socially significant. At least at this stage of
+                                                                 Gender and Race 37
+
+
+the inquiry we must allow that the criteria for distinguishing “colors” or “sexes”
+differ across time and place, and that the boundaries are at least partly political;
+but in spite of this variation, we are still dealing with an overarching phenomenon
+of racial and sexual subordination.
+
+                            III. WHAT IS GENDER?
+Even a quick survey of the literature reveals that a range of things have counted
+as “gender” within feminist theorizing. The guiding idea is sometimes expressed
+with the slogan: “gender is the social meaning of sex”. But like any slogan, this
+one allows for different interpretations. Some theorists use the term ‘gender’ to
+refer to the subjective experience of sexed embodiment, or a broad psychological
+orientation to the world ~“gender identity” 8 !; others to a set of attributes or ideals
+that function as norms for males and females ~“masculinity” and “femininity”!;
+others to a system of sexual symbolism; and still others to the traditional social
+roles of men and women. My strategy is to offer a focal analysis that defines
+gender, in the primary sense, as a social class. A focal analysis undertakes to
+explain a variety of connected phenomena in terms of their relations to one that is
+theorized as the central or core phenomenon. As I see it, the core phenomenon to
+be addressed is the pattern of social relations that constitute the social classes of
+men as dominant and women as subordinate; norms, symbols, and identities are
+gendered in relation to the social relations that constitute gender.9 As will become
+clearer below, I see my emphasis as falling within, though not following uncrit-
+ically, the tradition of materialist feminism.10
+   Among feminist theorists there are two problems that have generated pessi-
+mism about providing any unified account of women; I’ll call them the common-
+ality problem and the normativity problem. Very briefly, the commonality problem
+questions whether there is anything social that females have in common that
+could count as their “gender”. If we consider all females—females of different
+times, places, and cultures—there are reasons to doubt that there is anything
+beyond body type ~if even that! that they all share ~Spelman 1988!. The norma-
+tivity problem raises the concern that any definition of “what woman is” is value-
+laden, and will marginalize certain females, privilege others, and reinforce current
+gender norms ~Butler 1990, Ch. 1!.
+   It is important to note, even briefly, that these problems take on a different cast
+when they arise within a critical analytical project. The emphasis of an analytical
+project is not on discovering commonalities among females: although the empir-
+ical similarities and differences between females are relevant, the primary goal is
+an analysis of gender that will serve as a tool in the quest for sexual justice ~see
+section II!. Moreover, a critical project can accept the result that an effort to
+define “what women is” carries normative implications, for critical projects ex-
+plicitly embrace normative results; the hope is that the account’s implications
+would not reinforce but would help undermine the structures of sexual oppres-
+sion. However, we will return to these issues below.
+38   NOÛS
+
+
+   Given the priority I place on concerns with justice and sexual inequality, I take
+the primary motivation for distinguishing sex from gender to arise in the recog-
+nition that males and females do not only differ physically, but also systemati-
+cally differ in their social positions. What is of concern, to put it simply, is that
+societies, on the whole, privilege individuals with male bodies. Although the
+particular forms and mechanisms of oppression vary from culture to culture,
+societies have found many ways—some ingenious, some crude—to control and
+exploit the sexual and reproductive capacities of females.
+   The main strategy of materialist feminist accounts of gender has been to define
+gender in terms of women’s subordinate position in systems of male domi-
+nance.11 Although there are materialist feminist roots in Marxism, contemporary
+versions resist the thought that all social phenomena can be explained in or re-
+duced to economic terms; and although materialist feminists emphasize the role
+of language and culture in women’s oppression, there is a wariness of extreme
+forms of linguistic constructivism and a commitment to staying grounded in the
+material realities of women’s lives. In effect, there is a concerted effort to show
+how gender oppression is jointly sustained by both cultural and material forces.
+   Critiques of universalizing feminisms have taught us to be attentive to the
+variety of forms gender takes and the concrete social positions females occupy.
+However it is compatible with these commitments to treat the category of gender
+as a genus that is realized in different ways in different contexts; doing so enables
+us to recognize significant patterns in the ways that gender is instituted and em-
+bodied. Working at the most general level, then, the materialist strategy offers us
+three basic principles to guide us in understanding gender:
+
+     ~i! Gender categories are defined in terms of how one is socially posi-
+         tioned, where this is a function of, e.g., how one is viewed, how one is
+         treated, and how one’s life is structured socially, legally, and econom-
+         ically; gender is not defined in terms of an individual’s intrinsic phys-
+         ical or psychological features.
+
+~This allows that there may be other categories—such as sex—that are defined in
+terms of intrinsic physical features. Note, however, that once we focus our atten-
+tion on gender as social position, we must allow that one can be a woman without
+ever ~in the ordinary sense! “acting like a woman”, “feeling like a woman”, or
+even having a female body.!
+
+   ~ii! Gender categories are defined hierarchically within a broader complex
+        of oppressive relations; one group ~viz., women! is socially positioned
+        as subordinate to the other ~viz., men!, typically within the context of
+        other forms of economic and social oppression.
+  ~iii! Sexual difference functions as the physical marker to distinguish the
+        two groups, and is used in the justification of viewing and treating the
+        members of each group differently.
+                                                                Gender and Race 39
+
+
+~Tentatively! we can capture these main points in the following analyses:
+     S is a woman iffdf S is systematically subordinated along some dimension
+  ~economic, political, legal, social, etc.!, and S is “marked” as a target for this
+  treatment by observed or imagined bodily features presumed to be evidence
+  of a female’s biological role in reproduction.12
+     S is a man iffdf S is systematically privileged along some dimension ~eco-
+  nomic, political, legal, social, etc.!, and S is “marked” as a target for this
+  treatment by observed or imagined bodily features presumed to be evidence
+  of a male’s biological role in reproduction.
+It is a virtue, I believe, of these accounts, that depending on context, one’s sex
+may have a very different meaning and it may position one in very different kinds
+of hierarchies. The variation will clearly occur from culture to culture ~and sub-
+culture to sub-culture!; so e.g., to be a Chinese woman of the 1790’s, a Brazilian
+woman of the 1890’s, or an American woman of the 1990’s may involve very
+different social relations, and very different kinds of oppression. Yet on the analy-
+sis suggested, these groups count as women insofar as their subordinate positions
+are marked and justified by reference to ~female! sex. ~Also Hurtado 1994, esp.
+142.! Similarly, this account allows that the substantive import of gender varies
+even from individual to individual within a culture depending on how the mean-
+ing of sex interacts with other socially salient characteristics ~e.g., race, class,
+sexuality, etc.!. For example, a privileged White woman and a Black woman of
+the underclass will both be women insofar as their social positions are affected by
+the social meanings of being female; and yet the social implications of being
+female vary for each because sexism is intertwined with race and class oppression.
+    There are points in the proposed analysis that require clarification, however.
+What does it mean to say that someone is “systematically subordinated” or “priv-
+ileged”, and further, that the subordination occurs “on the basis of” certain fea-
+tures? The background idea is that women are oppressed, and that they are
+oppressed as women. But we still need to ask: What does it mean to say that
+women are oppressed, and what does the qualification “as women” add?
+    Marilyn Frye’s account of oppression with Iris Young’s elaborations provides
+a valuable starting point ~Frye 1983; Young 1990!. Although these ideas are
+commonplace within certain intellectual circles, it is useful to summarize them
+very briefly here. There are of course unresolved difficulties in working out a
+satisfactory theory of oppression; I’m afraid I can’t take on that further task here,
+so I can only invoke the rough outlines of the background view with the hope that
+an adequate account can at some point be supplied. Nonetheless, oppression in
+the intended sense is a structural phenomenon that positions certain groups as
+disadvantaged and others as advantaged or privileged in relation to them. Op-
+pression consists of, “an enclosing structure of forces and barriers which tends to
+the immobilization and reduction of a group or category of people.” ~Frye 1983,
+11.! Importantly, such structures, at least as we know them, are not designed and
+policed by those in power, rather,
+40   NOÛS
+
+
+  ...oppression refers to the vast and deep injustices some groups suffer as a conse-
+  quence of often unconscious assumptions and reactions of well-meaning people in
+  ordinary interactions, media and cultural stereotypes, and structural features of bu-
+  reaucratic hierarchies and market mechanisms—in short, the normal processes of
+  everyday life. ~Young 1990, 41.!
+
+
+   Developing this concept of oppression, Young specifies five forms it can take:
+exploitation, marginalization, powerlessness, cultural imperialism, and ~system-
+atic! violence. The key point for us is that oppression comes in different forms,
+and even if one is privileged along some dimension ~e.g., in income or respect!,
+one might be oppressed in others.13 In fact, one might be systematically subordi-
+nated along some social axis, and yet still be tremendously privileged in one’s
+overall social position.
+   It is clear that women are oppressed in the sense that women are members of
+groups that suffer exploitation, marginalization, etc. But how should we under-
+stand the claim that women are oppressed as women. Frye explains this as follows:
+
+  One is marked for application of oppressive pressures by one’s membership in some
+  group or category...In the case at hand, it is the category, woman....If a woman has
+  little or no economic or political power, or achieves little of what she wants to achieve,
+  a major causal factor in this is that she is a woman. For any woman of any race or
+  economic class, being a woman is significantly attached to whatever disadvantages
+  and deprivations she suffers, be they great or small....@In contrast,# being male is
+  something @a man# has going for him, even if race or class or age or disability is going
+  against him. ~Frye 1983, 15–16.!
+
+
+But given the diffusion of power in a model of structural oppression how are we
+to make sense of one’s being “marked” and the “application” of pressures? In the
+context of oppression, certain properties of individuals are socially meaningful.
+This is to say that the properties play a role in a broadly accepted ~though usu-
+ally not fully explicit! representation of the world that functions to justify and
+motivate particular forms of social intercourse. The significant properties in
+question—in the cases at hand, assumed or actual properties of the body—mark
+you “for application of oppressive pressures” insofar as the attribution of these
+properties is interpreted as adequate, in light of this background representation,
+to explain and0or justify your position in a structure of oppressive social rela-
+tions. In the case of women, the idea is that societies are guided by representa-
+tions that link being female with other facts that have implications for how one
+should be viewed and treated; insofar as we structure our social life to accom-
+modate the cultural meanings of the female ~and male! body, females occupy an
+oppressed social position.
+   Although I agree with Frye that in sexist societies social institutions are struc-
+tured in ways that on the whole disadvantage females and advantage males, we
+must keep in mind that societies are not monolithic and that sexism is not the only
+                                                                  Gender and Race 41
+
+
+source of oppression. For example, in the contemporary US, there are contexts in
+which being Black and male marks one as a target for certain forms of systematic
+violence ~e.g., by the police!. In those contexts, contrary to Frye’s suggestion,
+being male is not something that a man “has going for him”; though there are
+other contexts ~also in the contemporary US! in which Black males benefit from
+being male. In examples of this sort, the systematic violence against males as
+males is emasculating ~and may be intended as such!; but there are important
+differences between an emasculated man and a woman. On the sort of view we’re
+considering, a woman is someone whose subordinated status is marked by refer-
+ence to ~assumed! female anatomy; someone marked for subordination by refer-
+ence to ~assumed! male anatomy does not qualify as a woman, but also, in the
+particular context, is not socially positioned as a man.
+   These considerations suggests that it may be useful to bring context explicitly
+into our account. Recent work on gender socialization also supports the idea that
+although most of us develop a relatively fixed gender identity by the age of three,
+the degree to which the marked body makes a difference varies from context to
+context. In her study of elementary school children, Barrie Thorne suggests:
+
+  Gender boundaries are episodic and ambiguous, and the notion of “borderwork” @i.e.,
+  the work of contesting and policing gender boundaries# should be coupled with a
+  parallel term—such as “neutralization”—for processes through which girls and boys
+  (and adults...) neutralize or undermine a sense of gender as division and opposition.
+  ~Thorne 1993, 84.!
+
+Thorne’s study is motivated by a recognition that gender is a well-entrenched
+system of oppression. However, her comments here are intended as an antidote to
+two problematic tendencies in speaking of girls and boys, men and women: first,
+the tendency to over-generalize gender differences based on paradigm or stereo-
+typed interactions; second, the tendency to view individuals ~specifically chil-
+dren! as passive participants in gender socialization and, more generally, gendered
+life.
+    In some respects, Frye’s and Thorne’s approaches appear to be in tension with
+one another. Frye is keen to highlight the structural facts of sexist oppression: like
+it or not, your body positions you within a social hierarchy. Thorne, on the other
+hand, examines how oppression is lived, enforced, and resisted at the micro-
+level. There are important advantages to both: without a recognition of oppres-
+sive structures and the overall patterns of advantage and disadvantage, individual
+slights or conflicts can seem harmless. But without a recognition of individual
+variation and agency, the structures take on a life of their own and come to seem
+inevitable and insurmountable. But can both perspectives be accommodated in an
+account of gender? The idea seems simple enough: there are dominant ideologies
+and dominant social structures that work together to bias the micro-level inter-
+actions, however varied and complex they may be, so that for the most part males
+are privileged and females are disadvantaged.
+42   NOÛS
+
+
+   Although an adequate account of gender must be highly sensitive to contex-
+tual variation, if we focus entirely on the narrowly defined contexts in which
+one’s gender is negotiated, we could easily lose sight of the fact that for most of
+us there is a relatively fixed interpretation of our bodies as sexed either male or
+female, an interpretation that marks us within the dominant ideology as eligible
+for only certain positions or opportunities in a system of sexist oppression. Given
+our priority in theorizing systems of inequality, it is important first to locate the
+social classes men and women in a broad structure of subordination and privilege 14 :
+
+  S is a woman iff
+    i! S is regularly and for the most part observed or imagined to have certain
+       bodily features presumed to be evidence of a female’s biological role in
+       reproduction;
+   ii! that S has these features marks S within the dominant ideology of S’s
+       society as someone who ought to occupy certain kinds of social position
+       that are in fact subordinate ~and so motivates and justifies S’s occupying
+       such a position!; and
+  iii! the fact that S satisfies ~i! and ~ii! plays a role in S’s systematic subordi-
+       nation, i.e., along some dimension, S’s social position is oppressive, and
+       S’s satisfying ~i! and ~ii! plays a role in that dimension of subordination.
+
+  S is a man iff
+    i! S is regularly and for the most part observed or imagined to have certain
+       bodily features presumed to be evidence of a male’s biological role in
+       reproduction;
+   ii! that S has these features marks S within the dominant ideology of S’s
+       society as someone who ought to occupy certain kinds of social position
+       that are in fact privileged ~and so motivates and justifies S’s occupying
+       such a position!; and
+  iii! the fact that S satisfies ~i! and ~ii! plays a role in S’s systematic privilege,
+       i.e., along some dimension, S’s social position is privileged, and S’s sat-
+       isfying ~i! and ~ii! plays a role in that dimension of privilege.
+
+These accounts are, however, compatible with the idea that ~at least for some of
+us! one’s gender may not be entirely stable, and that other systems of oppression
+may disrupt gender in particular contexts: a woman may not always function
+socially as a woman; a man may not always function socially as a man.15 To
+return to a previous example, when systems of White supremacy and male dom-
+inance collide, a Black man’s male privilege may be seen as so threatening that it
+must be violently wrested from him. In an effort to accommodate this variation,
+we can add:
+
+  S functions as a woman in context C iffdf
+   i! S is observed or imagined in C to have certain bodily features presumed
+      to be evidence of a female’s biological role in reproduction;
+                                                                 Gender and Race 43
+
+
+   ii! that S has these features marks S within the background ideology of C as
+       someone who ought to occupy certain kinds of social position that are in
+       fact subordinate ~and so motivates and justifies S’s occupying such a
+       position!; and
+  iii! the fact that S satisfies ~i! and ~ii! plays a role in S’s systematic subordi-
+       nation in C, i.e., along some dimension, S’s social position in C is op-
+       pressive, and S’s satisfying ~i! and ~ii! plays a role in that dimension of
+       subordination.
+
+And mutatis mutandis for functioning as a man in context C.
+    It is important to note that the definitions don’t require that the background
+ideology in question must use ~assumed! reproductive function as itself the jus-
+tification for treating men or women in the way deemed “appropriate”; ~assumed!
+reproductive features may instead simply be “markers” of supposedly “deeper”
+~and morally relevant?! characteristics that the ideology supposes justifies the
+treatment in question. ~Appiah 1992, 13–15.!
+    Although ultimately I will defend these analyses of man and woman, I’ll argue
+below that there are reasons to modify the broader materialist strategy in defining
+gender. In short, I believe that gender can be fruitfully understood as a higher-
+order genus that includes not only the hierarchical social positions of man and
+woman, but potentially other non-hierarchical social positions defined in part by
+reference to reproductive function. I believe gender as we know it takes hierar-
+chical forms as men and women; but the theoretical move of treating men and
+women as only two kinds of gender provides resources for thinking about other
+~actual! genders, and the political possibility of constructing non-hierarchical
+genders.
+
+                              IV. WHAT IS RACE?
+One advantage of this account of gender is the parallel it offers for race. To begin,
+let me review a couple of points that I take to be matters of established fact: First,
+there are no racial genes responsible for the complex morphologies and cultural
+patterns we associate with different races. Second, in different contexts racial
+distinctions are drawn on the basis of different characteristics, e.g., the Brazilian
+and US classification schemes for who counts as “Black” differ. For these reasons
+and others, it appears that race, like gender, could be fruitfully understood as a
+position within a broad social network.
+    Although suggestive, this idea is not easy to develop. It is one thing to ac-
+knowledge that race is socially real, even if a biological fiction; but it is another
+thing to capture in general terms “the social meaning of color”. There seem to be
+too many different forms race takes. Note, however, that we encountered a sim-
+ilar problem with gender: is there any prospect for a unified analysis of “the social
+meaning of sex”? The materialist feminist approach offered a helpful strategy:
+don’t look for an analysis that assumes that the meaning is always and every-
+44   NOÛS
+
+
+where the same; rather, consider how members of the group are socially posi-
+tioned, and what physical markers serve as a supposed basis for such treatment.
+   How might we extend this strategy to race? Transposing the slogan, we might
+say that race is the social meaning of the geographically marked body, familiar
+markers being skin color, hair type, eye shape, physique. To develop this, I pro-
+pose the following account.16
+
+First definition:
+
+  A group is racialized iffdf its members are socially positioned as subordinate
+  or privileged along some dimension ~economic, political, legal, social, etc.!,
+  and the group is “marked” as a target for this treatment by observed or imag-
+  ined bodily features presumed to be evidence of ancestral links to a certain
+  geographical region.
+
+Or in the more elaborate version:
+
+  A group G is racialized relative to context C iffdf members of G are ~all and
+  only! those:
+    i! who are observed or imagined to have certain bodily features presumed
+       in C to be evidence of ancestral links to a certain geographical region ~or
+       regions!;
+   ii! whose having ~or being imagined to have! these features marks them
+       within the context of the background ideology in C as appropriately
+       occupying certain kinds of social position that are in fact either subordi-
+       nate or privileged ~and so motivates and justifies their occupying such a
+       position!; and
+  iii! whose satisfying ~i! and ~ii! plays ~or would play! a role in their system-
+       atic subordination or privilege in C, i.e., who are along some dimension
+       systematically subordinated or privileged when in C, and satisfying ~i!
+       and ~ii! plays ~or would play! a role in that dimension of privilege or
+       subordination.17
+
+In other words, races are those groups demarcated by the geographical associa-
+tions accompanying perceived body type, when those associations take on eval-
+uative significance concerning how members of the group should be viewed and
+treated. As in the case of gender, the ideology need not use physical morphology
+or geography as the entire basis for “appropriate” treatment; these features may
+instead simply be “markers” of other characteristics that the ideology uses to
+justify the treatment in question.
+   Given this definition, we can say that S is of the White ~Black, Asian...! race
+@in C# iff Whites ~Blacks, Asians...! are a racialized group @in C#, and S is a
+member.18 On this view, whether a group is racialized, and so how and whether an
+individual is raced, is not an absolute fact, but will depend on context. For ex-
+ample, Blacks, Whites, Asians, Native Americans, are currently racialized in the
+                                                                Gender and Race 45
+
+
+US insofar as these are all groups defined in terms of physical features associated
+with places of origin, and insofar as membership in the group functions socially
+as a basis for evaluation. However, some groups are not currently racialized in the
+US, but have been so in the past and possibly could be again ~and in other contexts
+are!, e.g., the Italians, the Germans, the Irish.
+    It is useful to note a possible contrast between race and ethnicity. I don’t have
+a theory of ethnicity to offer; these are some preliminary comparisons. One’s
+ethnicity concerns one’s ancestral links to a certain geographical region ~perhaps
+together with participation in the cultural practices of that region!; often ethnicity
+is associated with characteristic physical features. For our purposes, however, it
+might be useful to employ the notion of “ethnicity” for those groups that are like
+races as I’ve defined them except that they do not experience systematic subordi-
+nation or privilege in the context in question.19 Ethnic groups can be ~and are!
+racialized, however, and when they are, one’s membership in the group positions
+one in a social hierarchy; but ~on the view I’m sketching! the occurrence of this
+hierarchical positioning means that the group has gone beyond simply being an
+ethnic group and functions in that context as a race. In short, we can distinguish
+between grouping individuals on the basis of their ~assumed! origins, and group-
+ing them hierarchically on the basis of their ~assumed! origins, and the contrast
+between race and ethnicity might be a useful way to capture this distinction.
+
+
+                 V. NORMATIVITY AND COMMONALITY
+So what, if anything, is achieved by adopting the above analyses? Are they the
+tools we need? Let’s first consider the problems of commonality and normativity,
+and begin with gender.
+    Remember, the problem of commonality questions whether there is anything
+social that all females can plausibly be said to have in common. If we ask whether
+females share any intrinsic ~non-anatomical! features such as psychological make-
+up, character traits, beliefs, values, experiences or, alternatively, whether there is
+a particular social role that all females have occupied across culture and history,
+the answer seems to be “no”.
+    On my analysis women are those who occupy a particular kind of social po-
+sition, viz., one of sexually-marked subordinate. So women have in common that
+their ~assumed! sex has socially disadvantaged them; but this is compatible with
+the kinds of cultural variation that feminist inquiry has revealed, for the substan-
+tive content of women’s position and the ways of justifying it can vary enor-
+mously. Admittedly, the account accommodates such variation by being very
+abstract; nonetheless, it provides a schematic account that highlights the inter-
+dependence between the material forces that subordinate women, and the ideo-
+logical frameworks that sustain them.
+    One might complain, however, that there must be some women ~or rather,
+females! who aren’t oppressed, and in particular, aren’t oppressed as women.
+Perhaps there are; e.g., some may “pass” as men, others may be recognizably
+46   NOÛS
+
+
+female but not be subordinated in any way linked to that recognition. I’m not
+convinced that there are many cases ~if any! of the latter, but I’ll certainly grant
+that there could be females who did not satisfy the definition that I’ve offered. In
+fact, I believe it is part of the project of feminism to bring about a day when there
+are no more women ~though, of course, we should not aim to do away with
+females!!. I’m happy to admit that there could be females who aren’t women in
+the sense I’ve defined, but these individuals ~or possible individuals! are not
+counterexamples to the analysis. The analysis is intended to capture a meaningful
+political category for critical feminist efforts, and non-oppressed females do not
+fall within that category ~though they may be interesting for other reasons!.
+    But this leads us directly from the commonality problem to the normativity prob-
+lem. The normativity problem raises the challenge that any effort to define women
+will problematically privilege some women and ~theoretically! marginalize oth-
+ers, and will itself become normative. One worry is that bias inevitably occurs in
+deciding which experiences or social roles are definitive; a second worry is that
+if someone wants to be a “real” woman, she should conform to the definition of
+women provided, and this will reinforce rather than challenge male dominance.
+    On the account I’ve offered, it is true that certain females don’t count as “real”
+women; and it is true that I’ve privileged certain facts of women’s lives as defin-
+itive. But given the epistemological framework outlined above, it is both inevi-
+table and important for us to choose what facts are significant on the basis of explicit
+and considered values. For the purposes of a critical feminist inquiry, oppression
+is a significant fact around which we should organize our theoretical categories; it
+may be that non-oppressed females are marginalized within my account, but that
+is because for the broader purposes at hand—relative to the feminist and antiracist
+values guiding our project—they are not the ones who matter. The important issue
+is not whether a particular account “marginalizes” some individuals, but whether
+its doing so is in conflict with the feminist values that motivate the inquiry. And as
+far as I can tell, not focusing our theoretical efforts on understanding the position
+of oppressed females would pose just such a conflict.
+    The question remains whether my definition of woman helps sustain gender
+hierarchy by implicitly offering a normative ideal of woman. Given that women
+on my definition are an oppressed group, I certainly hope not! Instead, the defi-
+nition is more likely to offer a negative ideal that challenges male dominance.
+    I won’t defend here my account of racialized groups against an extension of
+the normativity and commonality complaints, for I would simply repeat the strat-
+egy just employed. Although there are interesting nuances in adapting the argu-
+ments to apply to racialized groups, I don’t see anything peculiar to race that
+would present an obstacle to developing the same sort of response.
+
+                          VI. NEGOTIATING TERMS
+Let me now turn to summarize some of the advantages of the proposed defini-
+tions. At this point we could bracket the terminological issues and just consider
+                                                                  Gender and Race 47
+
+
+whether the groups in question are ones that are important to consider given the
+goals of our inquiry. I hope it is clear from what I’ve already said how the analy-
+ses can help us identify and critique broad patterns of racial and sexual oppres-
+sion ~MacKinnon 1987!, and how they accommodate the intersectionality of social
+categories. But a further and, I think, more interesting question is whether it is
+useful to think of these groups in these terms: Does it serve both the goal of
+understanding racial and sexual oppression, and of achieving sexual and racial
+equality to think of ourselves as men or women, or raced in the ways proposed?
+   By appropriating the everyday terminology of race and gender, the analyses
+I’ve offered invite us to acknowledge the force of oppressive systems in framing
+our personal and political identities. Each of us has some investment in our race
+and gender: I am a White woman. On my accounts, this claim locates me within
+social systems that in some respects privilege and in others subordinate me. Be-
+cause gender and racial inequality are not simply a matter of public policy but
+implicate each of us at the heart of our self-understandings, the terminological
+shift calls us to reconsider who we think we are.
+   This point highlights why the issue of terminological appropriation is espe-
+cially sensitive when the terms designate categories of social identity. Writing in
+response to a NY Times editorial supporting the terminological shift from “Black”
+to “African-American,” Trey Ellis responded:
+
+
+  When somebody tries to tell me what to call myself in all its uses just because they
+  come to some decision at a cocktail party to which I wasn’t even invited, my mama
+  raised me to tell them to kiss my black ass. In many cases, African-American just
+  won’t do.20
+
+
+The issue is not just what words we should use, and who gets to say what words
+to use, but who we take ourselves to be, and so, in some sense, who we are. Terms
+for social groups can function as descriptive terms: it may be accurate to say that
+someone is a woman when she satisfies certain conditions. However, terms for
+social groups serve other rhetorical purposes. Typically the act of classifying
+someone as a member of a social group invokes a set of “appropriate” ~contex-
+tually specific! norms and expectations. It positions her in a social framework and
+makes available certain kinds of evaluation; in short, it carries prescriptive force.
+Accepting or identifying with the classification typically involves an endorse-
+ment of some norms and expectations, however, not always the socially sanc-
+tioned ones. The question whether I should be called a “woman” or a “wommon”,
+“White” or “Euro-American”, is not just a matter of what words to use, but what
+norms and expectations are taken to be appropriate; to ask what I should be called
+is to ask what norms I should be judged by ~Haslanger 1993, esp. 89–91!.
+    Although “identifying” someone as a member of a social group invokes a set
+of “appropriate” norms, what these norms are is not fixed. What it means to be a
+woman, or to be White, or to be Latino, in this sense, is unstable and always open
+48   NOÛS
+
+
+to contest. The instability across time is necessary to maintain the basic structure
+of gender and race relations through other social changes: as social roles change—
+prompted by the economy, immigration, political movements, natural disasters,
+war, etc.—the contents of normative race and gender identities adjust. The flex-
+ibility across contexts accommodates the complexity of social life: what norms
+are assumed to apply depends on the dominant social structure, the ideological
+context, and other dimensions of one’s identity ~such as class, age, ability, sexu-
+ality!. But this instability and flexibility is exactly what opens the door for groups
+to redefine themselves in new ways. One strategy is for the group to adopt new
+names ~‘African-American’, ‘womyn’!; another is to appropriate old names with
+a normative twist ~‘queer’!; but in some cases the contest is over the meanings of
+the standard terms ~“Ain’t I a woman?”!. Because individuals are so deeply in-
+vested in gender and, at least in the US, race categories, it remains of crucial
+importance to be and to be perceived as a ‘woman’ or a ‘man’ and as a member of
+one of the standard races. But even so, ~although this is something of an exag-
+geration! it is possible to view our gender and race vocabulary as, in effect, pro-
+viding terminological place-holders marking space for the collective negotiation
+of our social identities.
+    Given the normative force and political potential of identifying someone ~or
+self-identifying! in racial or gendered terms, how do we evaluate a terminologi-
+cal appropriation of the kind I’m proposing? For example, isn’t there something
+disingenuous about appropriating race and gender terminology because it is used
+to frame how we think of ourselves and each other, in order to use them for new
+concepts that are not part of our self-understandings?
+    This latter question is especially pressing because the appropriation under
+consideration intentionally invokes what many find to be positive self-under-
+standings—being Latina, being a White man—and offers analyses of them which
+emphasize the broader context of injustice. Thus there is an invitation not only to
+revise one’s understanding of these categories ~given their instability, this hap-
+pens often enough!, but to revise one’s relationship to their prescriptive force. By
+offering these analyses of our ordinary terms, I call upon us to reject what seemed
+to be positive social identities. I’m suggesting that we should work to undermine
+those forces that make being a man, a woman, or a member of a racialized group
+possible; we should refuse to be gendered man or woman, refuse to be raced. This
+goes beyond denying essentialist claims about one’s embodiment and involves an
+active political commitment to live one’s life differently ~Stoltenberg 1989!. In
+one sense this appropriation is “just semantics”: I’m asking us to use an old term
+in a new way. But it is also politics: I’m asking us to understand ourselves and
+those around us as deeply molded by injustice and to draw the appropriate pre-
+scriptive inference. This, I hope, will contribute to empowering critical social
+agents. However, whether the terminological shift I’m suggesting is politically
+useful will depend on the contexts in which it is employed and the individuals
+employing it. The point is not to legislate what terms to use in all contexts, but to
+offer resources that should be used judiciously.
+                                                               Gender and Race 49
+
+
+     VII. LINGERING CONCERNS, PROMISING ALTERNATIVES
+
+There is, nonetheless, a broader concern one might have about the strategy I’ve
+employed: Why build hierarchy into the definitions? Why not define gender and
+race as those social positions motivated and justified by cultural responses to the
+body, without requiring that the social positions are hierarchical? Wouldn’t that
+provide what we need without implying ~implausibly! that women are, by defi-
+nition, subordinate, men, by definition, privileged, and races, by definition, hi-
+erarchically positioned?
+   If we were to remove hierarchy from the definitions, then there would be two
+other benefits: first, by providing a place in our model for cultural representations
+of the body besides those that contribute to maintaining subordination and priv-
+ilege, we could better acknowledge that there are positive aspects to having a
+gender and a race. And second, the accounts would provide a framework for
+envisioning the sorts of constructive changes needed to create a more just world.
+The suggestion that we must eliminate race and gender may be a powerful rally-
+ing call to those who identify with radical causes, but it is not at all clear that
+societies can or should avoid giving meanings to the body, or organizing them-
+selves to take sexual and reproductive differences into account. Don’t we at least
+need a concept of gender that will be useful in the reconstructive effort, not only
+the destructive one?
+   Consider gender. I am sympathetic to radical rethinkings of sex and gender. In
+particular, I believe that we should refuse to use anatomy as a primary basis for
+classifying individuals and that any distinctions between kinds of sexual and
+reproductive bodies are importantly political and open to contest. Some authors
+have argued that we should acknowledge the continuum of anatomical differ-
+ences and recognize at least five sexes ~Fausto-Sterling 1993!. And if sexual
+distinctions become more complex, we would also need to rethink sexuality,
+given that sexual desire would not fit neatly within existing homosexual0hetero-
+sexual paradigms.
+   However, one can encourage the proliferation of sexual and reproductive
+options without maintaining that we can or should eliminate all social impli-
+cations of anatomical sex and reproduction. Given that as a species there are
+substantial differences in what human bodies contribute to reproduction, and
+what sorts of bodies bear the main physical burdens of reproduction, and given
+further that reproduction cannot really help but be a socially significant fact ~it
+does, after all, produce children!, it can seem difficult to imagine a functioning
+society, more specifically, a functioning feminist society, that doesn’t acknowl-
+edge in some way the difference between those kinds of bodies that are likely
+able to bear children, and those that aren’t. One could argue that we should
+work towards a society free of gender in a materialist sense—one in which
+sex-oppression does not exist—while still allowing that sexual and reproduc-
+tive differences should be taken into account in a just society. ~Frye 1996;
+Gatens 1996.!
+50   NOÛS
+
+
+   I will not debate here the degree to which a just society must be attentive to
+sexual and reproductive differences. Whether we, as feminists, ought to recom-
+mend the construction of ~new! non-hierarchical genders or work to abolish gen-
+der entirely is a normative issue I leave for another occasion. Nonetheless, at the
+very least it would help to have terminology to debate these issues. I propose that
+we use the definitions of man and woman offered above: it is clear that these
+dominant nodes of our current gender structures are hierarchical. But borrowing
+strategies employed before, we can define gender in generic terms under which
+the previous definitions of man and women fall,21 thus allowing the possibility of
+non-hierarchical genders and breaking the binary opposition between man and
+woman.
+
+  A group G is a gender relative to context C iffdf members of G are ~all and
+  only! those:
+    i! who are regularly observed or imagined to have certain bodily features
+       presumed in C to be evidence of their reproductive capacities 22 ;
+   ii! whose having ~or being imagined to have! these features marks them
+       within the context of the ideology in C as motivating and justifying some
+       aspect~s! of their social position; and
+  iii! whose satisfying ~i! and ~ii! plays ~or would play! a role in C in their
+       social position’s having one or another of these designated aspects.
+
+I offer this analysis as a way of capturing the standard slogan: gender is the social
+meaning of sex. Note, however, that in imagining “alternative” genders we should
+be careful not to take for granted that the relevant biological divisions will cor-
+respond to what we consider “sex”.23 ~Alternative groupings could include: “preg-
+nant persons,” “lactating persons,” “menstruating persons,” “infertile persons,”
+~perhaps “homosexuals,” depending on the story given about physical causes!!.
+Neither should we assume that membership in a gender will constitute one’s
+personal or psychological identity to any significant degree. Recall that on the
+accounts of gender and race I am proposing, both are to be understood first and
+foremost as social groups defined within a structure of social relations; whatever
+links there might be to identities and norms are highly contingent and would
+depend on the details of the picture. For example, we might imagine that “after
+the revolution” gender is a component of one’s overall social position because,
+for example, there are legal protections or medical entitlements granted to indi-
+viduals classified as having a certain sort of “sexed” body; but this need not have
+broad implications for psychological identity or everyday social interactions, for
+the “sex” of bodies might not even be publicly marked.
+   Turning briefly to race, the parallel issue arises: Do we need a concept of
+non-hierarchical “races” in order to frame and debate different visions of a “ra-
+cially” just society? It would seem that we have the terminological resources
+available without a further definition: let races be, as previously defined, those
+                                                                Gender and Race 51
+
+
+hierarchically organized groups that are defined ~roughly! by physical features
+and ~assumed! geographical origins, and call those that aren’t hierarchically or-
+ganized ~in the context in question! “ethnicities”. Admittedly, ethnicity as we
+know it does have implications for social status and power, so my proposal is to
+employ the term for a somewhat idealized conception.
+   As in the case of gender, the question arises whether it ought to be part of an
+anti-racist project to recommend the preservation of existing ethnic groups or the
+formation of “new” ethnicities. And more generally, we need to ask whether a
+feminist anti-racism should treat genders and ethno-racial groups in the same
+way over the long term. Should we seek, e.g., to eliminate all genders and ethno-
+racial groupings; to preserve and proliferate them; to eliminate gender but not
+ethnicity ~or vice versa!? These questions deserve careful attention but I cannot
+address them here.
+   Because the structure of definitions has become quite complex, it may help at
+this point to provide a diagram:
+
+
+                                             Gender
+
+        hierarchical genders                        non-hierarchical genders
+
+       men               women                        [other (new) genders]
+
+             Ethno-racial groups: defined (contextually) by (assumed)
+               physical features, ancestry, and geographical origins
+
+hierarchical ethno-racial groups              non-hierarchical ethno-racial groups
+
+              [races]                                 [(idealized) ethnicities]
+
+
+
+
+                               VIII. CONCLUSION
+On the accounts I’ve offered, there are striking parallels between race and gender.
+Both gender and race are real, and both are social categories. Neither gender nor
+race is chosen, but the forms they take can be resisted or mutated. Both race and
+gender ~as we know it! are hierarchical, but the systems that sustain the hierarchy
+are contingent. And although the ideologies of race and gender and the hierar-
+chical structures they sustain are substantively very different, they are intertwined.
+   There are many different types of human bodies; it is not the case that there is
+a unique “right” way of classifying them, though certain classifications will be
+52   NOÛS
+
+
+more useful for some purposes than others. How we classify bodies can and does
+matter politically, for our laws, social institutions, and personal identities are
+profoundly linked to understandings of the body and its possibilities. This is
+compatible with the idea that what possibilities a human body has is not wholly
+a function of our understandings of it. Our bodies often outdo us, and undo us, in
+spite of the meanings we give them.
+    Within the framework I’ve sketched, there is room for theoretical categories
+such as man, woman, and race ~and particular racial groups!, that take hierarchy
+to be a constitutive element, and those such as gender and ethnicity that do not. As
+I have suggested before, I am willing to grant that there are other ways to define
+race or gender, man or woman, that are useful to answer different questions,
+motivated by different concerns and priorities. I’m sure we need several concepts
+to do all the work needed in understanding the complex systems of racial and
+gender subordination.
+    In short, ~speaking of my analyses! I’m less committed to saying that this is
+what gender is and what race is, than to saying that these are important categories
+that a feminist antiracist theory needs. As I’ve explained above, I think there are
+rhetorical advantages to using the terms ‘gender’, ‘man’ and ‘woman,’ and ‘race’
+for the concepts I’ve defined, but if someone else is determined to have those
+terms, I’ll use different ones. To return to the point made much earlier in charac-
+terizing analytic projects: it is our responsibility to define gender and race for our
+theoretical purposes. The world itself can’t tell us what gender is. The same is true
+for race. It may be as Appiah claims that “there is nothing in the world that can do
+all we ask race to do for us” ~Appiah 1992, 45!, if our project inevitably inherits
+the concept’s complex history; but we might instead ask “race” to do different
+things than have been asked before. Of course, in defining our terms, we must
+keep clearly in mind our political aims both in analyzing the past and present, and
+in envisioning alternative futures. But rather than worrying, “what is gender,
+really?” or “what is race, really?” I think we should begin by asking ~both in the
+theoretical and political sense! what, if anything, we want them to be.
+
+
+                                              Notes
+    1
+      Special thanks to: Elizabeth Anderson, Larry Blum, Tracy Edwards, Marilyn Frye, Stephen
+Darwall, Elizabeth Hackett, Elizabeth Harman, Donald Herzog, Will Kymlicka, Ishani Maitra, Mika
+Lavaque-Manty, Joe Levine, Elisabeth Lloyd, Mary Kate McGowan, Toril Moi, Christine Overall,
+Gerald Postema, Phyllis Rooney, Debra Satz, Geoff Sayre-McCord, Barry Smith, Jacqueline Stevens,
+Natalie Stoljar, Martin Stone, Ásta Sveinsdóttir, Paul Taylor, Greg Velazco y Trianosky, Catherine
+Wearing, Ralph Wedgwood, and Stephen Yablo for helpful comments on earlier versions of this paper.
+Extra thanks to Louise Antony for her extensive and tremendously insightful comments and editorial
+advice. Thanks to audiences in the philosophy departments at the University of Kentucky, University
+of North Carolina, Queens University, Stanford University, Tufts University, and the University of
+Utah where I presented this material in talks. Research on this project was supported by the National
+Humanities Center where I was a fellow during 1995– 6; thanks to Delta Delta Delta Sorority whose
+support of the Center underwrote my fellowship there.
+                                                                                  Gender and Race 53
+
+     2
+       I use the terms ‘man’ and ‘woman’ to distinguish individuals on the basis of gender, the terms
+‘male’ and ‘female’ to distinguish individuals on the basis of sex.
+     3
+       See Stich 1998. Stich uses the term “analytical epistemology” for what I would call a “concep-
+tual” rather than an “analytical” project.
+     4
+       Cf. Appiah and Gutmann 1996, pp. 30–105. Appiah doesn’t consider an analytical approach to
+race except rather elliptically on p. 42.
+     5
+       On the distinction between manifest and operative concepts, see my 1995, esp. p. 102.
+     6
+       It is important to keep in mind that what’s at issue is not a criterion for sameness of meaning, but
+the boundary between what could count as a revisionary project and a new project altogether.
+     7
+       We need here a term for those physical features of individuals that mark them as members of a
+race. One might refer to them as “racial” features, but to avoid any suggestion of racial essences I will
+use the term ‘color’ to refer to the ~contextually variable! physical “markers” of race, just as I use the
+term ‘sex’ to refer to the ~contextually variable! physical “markers” of gender. I mean to include in
+“color” more than just skin tone: common markers also include eye, nose, and lip shape, hair texture,
+physique, etc. Although the term ‘people of color’ is used to refer to non-Whites, I want to allow that
+the markers of “Whiteness” count as “color”.
+     8
+       There are at least four different uses of the term ‘identity’that are relevant in considering the issue
+of gender or racial “identity”; here my comments about “gender identity” are admittedly superficial.
+     9
+       Very roughly, feminine norms are those that enable one to excel in the social position consti-
+tuting the class women; feminine gender identity ~at least in one sense of the term! is a psychological
+orientation to the world that includes the internalization of feminine norms; and feminine symbols are
+those that encode idealized feminine norms. What counts as a “feminine” norm, a “feminine” gender
+identity, or a “feminine” symbol is derivative ~norms, symbols, and identities are not intrinsically
+feminine or masculine!, and depends on how the social class of women is locally constituted.
+    10
+       For a sample of materialist feminist work, see Hennessy and Ingraham 1997.
+    11
+       Some theorists ~Delphy, Hartmann! focus on the economic exploitation of women in domestic
+relations of production; others ~Wittig! focus on sexual and reproductive exploitation under compul-
+sory heterosexuality; others ~MacKinnon! focus on sexual objectification.
+    12
+       These analyses allow that there isn’t a common understanding of “sex” across time and place.
+On my account, gendered social positions are those marked by reference to features that are generally
+assumed in the context in question to either explain or provide evidence of reproductive role, whether
+or not these are features that we consider “sex”.
+    13
+       On the importance of disaggregating power and oppression, see Ortner 1996.
+    14
+       This proposal depends on the claim that at least some societies have a “dominant ideology”.
+Others have employed the notions of “background,” “hegemony,” “habitus,” for the same purpose.
+Rather than debating what is the preferred notion, I’m happy to let the term “dominant ideology”
+serve as a placeholder for an account to be decided upon later. Given the strategy of my accounts,
+however, we must be sure to allow for multiple ideological strands in any society. See Geuss 1981,
+Hoy 1994.
+    15
+       We noted before that on a materialist account sex and gender don’t always coincide. I’m making
+here a further claim: one may be gendered man or woman without functioning socially in that gender
+every moment of one’s life.
+    16
+       On this I am deeply indebted to Stevens forthcoming, Ch. 4, and Omi and Winant 1994, esp.
+pp. 53– 61.
+    17
+       There are aspects of this definition that need further elaboration or qualification. I will mention
+four here.
+    First, on my account, those who actually have the ancestral links to the specified region but who
+“pass”, do not count as members of the racialized group in question. This is parallel to the case of a
+female functioning socially as a man or a male functioning socially as a woman. Because the goal is
+to define race and gender as social positions, I endorse this consequence of the definitions.
+    Second, as it stands the definition does not accommodate contexts such as Brazil in which mem-
+bership in “racial” groups is partly a function of education and class. It excludes privileged ~“Whit-
+54     NOÛS
+
+ened”! members from the subordinate races they might seem—considering only “color”—to belong
+to, and subordinated ~“darkened”! members from privileged races, because they don’t satisfy the third
+condition. But it cannot handle the inclusion of the “Whitened” members in the privileged group or
+the “darkened” members in the subordinated group because they don’t satisfy the first condition. How-
+ever, we could take the definition to capture a strong version of racialization, and develop another ver-
+sion on which appropriate “color” is relevant but not necessary by modifying the second condition:
+        ii*! having ~or being imagined to have! these features—possibly in combination with others—
+     marks them within the context of C’s cultural ideology as appropriately occupying the kinds of
+     social position that are in fact either subordinate or privileged ~and so motivates and justifies their
+     occupying such a position!;
+The first condition already allows that the group’s members may have supposed origins in more than
+one region ~originally necessary to accommodate the racialization of “mixed-race” groups!; modi-
+fying the second condition allows that racialized groups may include people of different “colors”, and
+depend on a variety of factors.
+     Third, need racialized groups be “marked” by actual or assumed body type? What about Jews, Na-
+tive Americans, and Romanies? ~Romanies are also interesting because it isn’t entirely clear that there
+is a supposed place of origin, though I take “no place of origin” to be a factor in their racialization, and
+to serve as the limit case.! I would suggest that that there are some ~perhaps imagined! physical fea-
+tures that are regarded as salient in contexts where Jews and Native Americans are racialized, though
+not every member of the group need have those features if there is other evidence of ancestral links.
+However, ultimately it might be more useful to allow racial membership to be determined by a cluster
+of features ~such as physical appearance, ancestry, and class! weighted differently in different contexts.
+     Finally, I want the definition to capture the idea that members of racial groups may be scattered
+across social contexts and may not all actually be ~immediately! affected by local structures of priv-
+ilege and subordination. So, for example, Black Africans and African-Americans are together mem-
+bers of a group currently racialized in the US, even if a certain ideological interpretation of their
+“color” has not played a role in the subordination of all Black Africans. So I suggest that members of
+a group racialized in C are those who are or would be marked and correspondingly subordinated or
+privileged when in C. Those who think ~plausibly! that all Blacks worldwide have been affected by
+the structures and ideology of White supremacy do not need this added clause; and those who want a
+potentially more fine-grained basis for racial membership can drop it.
+     18
+        As in the case of gender, I recommend that we view membership in a racial0ethnic group in
+terms of how one is viewed and treated regularly and for the most part in the context in question;
+though as before, one could distinguish being a member of a given race from functioning as one by
+considering the degree of one’s entrenchment in the racialized social position ~not on the basis of
+biology or ancestry!.
+     19
+        We may want to allow there to be kinds of social stratification between ethnic groups that falls
+short of the kind of systematic subordination constitutive of race. My account remains vague on this
+point. Clarification might be gained by plugging in a more sophisticated account of social hierarchies.
+The body is also relevant: are ethnicities distinguishable from races by the degree to which they are
+perceived as capable of assimilation?
+     20
+        Trey Ellis, Village Voice, June 13, 1989; quoted in H. L. Gates 1992, “What’s In a Name?”,
+p. 139. Gates quotes the passage differently, leaving out ‘black“ before “ass“. Although he adds Ellis’s
+conclusion, he robs the quote of its self-exemplifying power by the alteration.
+     21
+        Thanks to Geoff Sayre-McCord for suggesting this approach.
+     22
+        It is important here that the “observations” or “imaginings” in question not be idiosyncratic but
+part of a broader pattern of social perception; however, they need not occur, as in the case of man and
+woman, “for the most part”. They may even be both regular and rare.
+     23
+        I leave it an open question whether groups that have been identified as “third genders” count as
+genders on my account. Some accounts of gender that purport to include third genders pay inadequate
+attention to the body, so cannot distinguish, e.g., race from gender. See, e.g., Roscoe 1996.
+                                                                          Gender and Race 55
+
+
+                                          References
+Anderson, Elizabeth. ~1995! “Knowledge, Human Interests, and Objectivity in Feminist Epistemol-
+          ogy,” Philosophical Topics 23:2:27–58.
+Appiah, K. Anthony and Amy Gutmann. ~1996! Color Conscious. Princeton, NJ: Princeton Univer-
+          sity Press.
+Appiah, K. Anthony. ~1992! In My Father’s House. New York: Oxford University Press.
+Butler, Judith. ~1990! Gender Trouble. New York: Routledge.
+Crenshaw, Kimberlé. ~1993! “Beyond Racism and Misogyny: Black Feminism and 2 Live Crew,”
+          Words that Wound, ed., M. Matsuda, C. Lawrence, R. Delgado, and K. Crenshaw. Boulder,
+          CO: Westview, 111–132.
+Fausto-Sterling, Anne. ~1993! “The Five Sexes: Why Male and Female Are Not Enough,” The Sci-
+          ences 33:2: 20–24.
+Frye, Marilyn. ~1996! “The Necessity of Differences: Constructing a Positive Category of Women,”
+          Signs 21:4: 991–1010.
+Frye, Marylin. ~1983! The Politics of Reality. Freedom, CA: Crossing Press.
+Gatens, Moira. ~1996! “A Critique of the Sex-Gender Distinction,” Imaginary Bodies. New York:
+          Routledge, 3–20.
+Gates, Jr., Henry Louis. ~1992! Loose Canons. New York: Oxford University Press.
+Geuss, Raymond. ~1981! The Idea of a Critical Theory. Cambridge: Cambridge University Press.
+Haslanger, Sally. ~1993! “On Being Objective and Being Objectified,” A Mind of One’s Own, ed., L.
+          Antony and C. Witt. Boulder: Westview, 85–125.
+Haslanger, Sally. ~1995! “Ontology and Social Construction,” Philosophical Topics 23:2: 95–125.
+Hennessy, Rosemary and Chrys Ingraham, eds. ~1997! Materialist Feminism. New York: Routledge.
+Hoy, David. ~1994! “Deconstructing Ideology,” Philosophy and Literature 18:1.
+Hurtado, Aída. ~1994! “Relating to Privilege: Seduction and Rejection in the Subordination of White
+          Women and Women of Color,” Theorizing Feminism, ed., Anne Hermann and Abigail Stew-
+          art. Boulder, CO: Westview Press, 136–154.
+MacKinnon, Catharine. ~1987! “Difference and Dominance: On Sex Discrimination,” Feminism Un-
+          modified. Cambridge, MA: Harvard University Press, 32– 45.
+Omi, M. and H. Winant. ~1994! Racial Formation in the United States. New York: Routledge.
+Ortner, Sherry. ~1996! “Gender Hegemonies,” Making Gender. Boston: Beacon Press, 139–172.
+Riley, Denise. ~1988! Am I That Name? Minneapolis: University of Minnesota Press.
+Roscoe, Will. ~1996! “How to Become a Berdache: Toward a Unified Analysis of Gender Diversity,”
+          Third Sex, Third Gender, ed., Gilbert Herdt. New York: Zone Books, 329–372.
+Scott, Joan. ~1986! “Gender: A Useful Category of Historical Analysis,” American Historical Review
+          91:5:1053–75.
+Spelman, Elizabeth. ~1988! The Inessential Woman. Boston: Beacon Press.
+Stevens, Jacqueline. ~forthcoming! Reproducing the State. Princeton: Princeton University Press.
+Stich, Stephen. ~1988! “Reflective Equilibrium, Analytic Epistemology, and the Problem of Cogni-
+          tive Diversity,” Synthese 74: 391– 413.
+Stoltenberg, John. ~1989! Refusing To Be a Man. New York: Meridian Books.
+Thorne, Barrie. ~1993! Gender Play. New Brunswick, NJ: Rutgers University Press.
+Young, Iris. ~1990! Justice and the Politics of Difference. Princeton: Princeton University Press.
+

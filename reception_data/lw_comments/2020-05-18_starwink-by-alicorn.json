@@ -1,0 +1,25 @@
+{
+ "post": {
+  "_id": "bTW87r8BrN3ySrHda",
+  "title": "\"Starwink\" by Alicorn",
+  "postedAt": "2020-05-18T08:17:53.193Z",
+  "pageUrl": "https://www.lesswrong.com/posts/bTW87r8BrN3ySrHda/starwink-by-alicorn",
+  "commentCount": 1
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "FLzghZseH8eexWnx5",
+   "parentCommentId": null,
+   "postedAt": "2020-05-19T19:11:23.130Z",
+   "baseScore": 4,
+   "user": {
+    "username": "daniel-kokotajlo",
+    "displayName": "Daniel Kokotajlo"
+   },
+   "contents": {
+    "markdown": "Nice! Pairs well with Greg Egan's [Crystal Nights](https://www.gregegan.net/MISC/CRYSTAL/Crystal.html), which is a similar story told from the other perspective."
+   }
+  }
+ ]
+}

@@ -1,0 +1,411 @@
+{
+ "post": {
+  "_id": "DhjcdzTyqHte2v6bu",
+  "title": "\"Deep Learning\" Is Function Approximation",
+  "postedAt": "2024-03-21T17:50:36.254Z",
+  "pageUrl": "https://www.lesswrong.com/posts/DhjcdzTyqHte2v6bu/deep-learning-is-function-approximation",
+  "commentCount": 29
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "9hr5sDSxZe25hSdjJ",
+   "parentCommentId": null,
+   "postedAt": "2024-03-21T18:50:06.546Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Algon",
+    "displayName": "Algon"
+   },
+   "contents": {
+    "markdown": "The main thing I liked about this post was that you were making a serious attempt at tabooing your words. So I upvoted your post.\u00a0\n\n  \nI would've strong upvoted this if you were more consistent with tabooing words (e.g. exploit, optimization etc.) and attempted intensive definitions for more of them. I understand that's hard, because a bunch of these words have not been given crisp-definitions, or if they have, those definitions might not be obvious. Still, the added precision would've been a boon for a post talking about how we need to be clearer about what our state of knowledge is so we don't go confusing ourselves."
+   }
+  },
+  {
+   "_id": "s4ZDtiP2vjwcrkwzT",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T02:22:14.224Z",
+   "baseScore": 10,
+   "user": {
+    "username": "DaemonicSigil",
+    "displayName": "DaemonicSigil"
+   },
+   "contents": {
+    "markdown": "> It's the same thing for piecewise-linear functions defined by multi-layer parameterized graphical function approximators: the model is the dataset. It's just not meaningful to talk about what a loss function implies, independently of the training data. (Mean squared error of what? Negative log likelihood of what? Finish the sentence!)\n\n> This confusion about loss functions...\n\nI don't think this is a confusion, but rather a mere difference in terminology. Eliezer's notion of \"loss function\" is equivalent to Zack's notion of \"loss function\" [curried](https://en.wikipedia.org/wiki/Currying) with the training data. Thus, when Eliezer writes about the network modelling or not modelling the loss function, this would include modelling the process that generated the training data."
+   }
+  },
+  {
+   "_id": "oFTFpJ6imHGizbchy",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T02:46:40.416Z",
+   "baseScore": 32,
+   "user": {
+    "username": "ErickBall",
+    "displayName": "ErickBall"
+   },
+   "contents": {
+    "markdown": "Downvoted because I waded through all those rhetorical shenanigans and I still don't understand why you didn't just say what you mean."
+   }
+  },
+  {
+   "_id": "xHkYmG8gKXNFbpGfy",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T05:31:32.775Z",
+   "baseScore": 12,
+   "user": {
+    "username": "jarviniemi",
+    "displayName": "Olli J\u00e4rviniemi"
+   },
+   "contents": {
+    "markdown": "I liked how this post tabooed terms and looked at things at lower levels of abstraction than what is usual in these discussions.\u00a0\n\nI'd compare tabooing to a frame by Tao about how in mathematics you have the [pre-rigorous, rigorous and post-rigorous stages](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/). In the post-rigorous stage one \"would be able to quickly and accurately perform computations in vector calculus by using analogies with scalar calculus, or informal and semi-rigorous use of infinitesimals, big-O notation, and so forth, **and be able to convert all such calculations into a rigorous argument whenever required\"** (emphasis mine).\u00a0\n\nTabooing terms and being able to convert one's high-level abstractions into mechanistic arguments whenever required seems to be the counterpart in (among others) AI alignment. So, here's positive reinforcement for taking the effort to try and do that!\n\n* * *\n\nSeparately, I found the part\n\n> (Statistical modeling engineer Jack Gallagher has described his experience of this debate as \"like trying to discuss crash test methodology with people who insist that the wheels must be made of little cars, because how else would they move forward like a car does?\")\n\nquite thought-provoking. Indeed, how is talk about \"inner optimizers\" driving behavior any different from \"inner cars\" driving the car?\n\nHere's one answer:\n\nWhen you train a ML model with SGD-- wait, sorry, no. When you try construct an accurate multi-layer parametrized graphical function approximator, a common strategy is to do small, gradual updates to the current setting of parameters. (Some could call this a random walk or a stochastic process over the set of possible parameter-settings.) Over the construction-process you therefore have multiple intermediate function approximators. What are they like?\n\nThe terminology of \"function approximators\" actually glosses over something important: how is the function *computed*? We [know](https://en.wikipedia.org/wiki/Computational_complexity) that it is \"harder\" to construct some function approximators than others, and depending on the amount of \"resources\" you simply [cannot](https://en.wikipedia.org/wiki/Hardness_of_approximation)[^8cpzzxa7uwx]\u00a0do a good job. Perhaps a better term would be \"approximative function calculators\"? Or just anything that stresses that there is *some* internal process used to convert inputs to outputs, instead of this \"just happening\".\n\nThis raises the question: what *is* that internal process like? Unfortunately the texts I've read on multi-layer parametrized graphical function approximation have been incomplete in these respects (I hope the new editions will cover this!), so take this merely as a guess. In many domains, most clearly games, it seems like \"looking ahead\" would be useful for good performance[^m7vfauq5d]: \u00a0if I do X, the opponent could do Y, and I could then do Z. Perhaps these approximative function calculators implement even more general forms of search algorithms.\n\nSo while searching for accurate approximative function calculators we might stumble upon calculators that itself are searching for something. How neat is that!\n\nI'm pretty sure that under the hood cars don't consist of smaller cars or tiny car mechanics - if they did, I'm pretty sure my car building manual would have said something about that.\n\n[^8cpzzxa7uwx]: (As usual, assuming standard computational complexity conjectures like P != NP and that one has reasonable lower bounds in finite regimes, too, rather than only asymptotically.) \n\n[^m7vfauq5d]: Or, if you don't like the word \"performance\", you may taboo it and say something like \"when trying to construct approximative function calculators that are good at playing chess - in the sense of winning against a pro human or a given version of Stockfish - it seems likely that they are, in some sense, 'looking ahead' for what happens in the game next; this is such an immensely useful thing for chess performance that it would be surprising if the models did not do anything like that\"."
+   }
+  },
+  {
+   "_id": "HsrYYBetagEkrdiCP",
+   "parentCommentId": "oFTFpJ6imHGizbchy",
+   "postedAt": "2024-03-22T05:41:45.854Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "This comment had been apparently deleted by the commenter (the comment display box having a \"deleted because it was a little rude, sorry\" deletion note in lieu of the comment itself), but the \u22ee-menu in the upper-right gave me the option to undelete it, which I did because I don't think my critics are obligated to be polite to me. (I'm surprised that post authors have that power!) I'm sorry you didn't like the post."
+   }
+  },
+  {
+   "_id": "wko7Nbn2okKGh9ZGr",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T07:12:28.292Z",
+   "baseScore": 6,
+   "user": {
+    "username": "lcmgcd",
+    "displayName": "lemonhope"
+   },
+   "contents": {
+    "markdown": "I think this is a strong starting point but I think the nice crisp \"neural net = function approximator\" mostly falls apart as a useful notion when you do fancy stuff with your neural net like active learning or RLAIF. Maybe it's not technically the neural net doing that...\n\nI guess we don't have great terms to delineate all these levels of the system:\n\n- code that does a forward pass (usually implicitly also describing backward pass & update given loss)\n- code that does that plus training (ie data fetch and loss function)\n- that plus RL environment or training set\n- that plus \"training scaffolding\" code that eg will do active learning or restart the game if it freezes\n- just code & weights for a forward pass during inference (presuming that the system has separable training and inference stages)\n- that plus all the \"inference scaffolding\" code which will eg do censorship or internet search or calculator integration\n- that plus the \"inference UI\". (Consider how differently people use gpt4 api vs chatgpt website.) (This could also eg be the difference between clicking a checkbox for who to kill and clicking the cancel button on the notification!)\n- the actual final system turned on in the wild with adversarial users and distribution shift and so on\n\nI wonder if some folks are taking past each other by implicitly referring to different items above..."
+   }
+  },
+  {
+   "_id": "XernsBJb7yGgdFggK",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T08:24:33.793Z",
+   "baseScore": 19,
+   "user": {
+    "username": "Veedrac",
+    "displayName": "Veedrac"
+   },
+   "contents": {
+    "markdown": "It took me a good while reading this to figure out whether it was a deconstruction of tabooing words. I would have felt less so if the post didn't keep replacing terms with ones that are both no less charged and also no more descriptive of the underlying system, and then start drawing conclusions from the resulting terms' aesthetics.\n\nWith regards to Yudkowsky's takes, the key thing to keep in mind is that Yudkowsky started down his path by reasoning backwards from properties ASI would have, not from reasoning forward from a particular implementation strategy. The key reason to be concerned that outer optimization doesn't define inner optimization isn't a specific hypothesis about whether some specific strategy with neural networks will have inner optimizers, it's because ASI will *by necessity* involve active optimization on things, and we want our alignment techniques to have at least any reason to work in that regime at all."
+   }
+  },
+  {
+   "_id": "AeAbr4ExASTm8rKKh",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T08:41:41.586Z",
+   "baseScore": 6,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "> It wasn't obvious beforehand that this would work! You'd expect that if your function approximator has more parameters than you have example input\u2013output pairs, it would overfit, implementing a complicated function that reproduced the example input\u2013output pairs but outputted crazy nonsense for other choices of \nx\u2014the more expressive function approximator proving useless for the lack of evidence to pin down the correct approximation.\n\n> And that is what we see for function approximators with only slightly more parameters than example input\u2013output pairs, but for sufficiently large function approximators, the trend reverses and \"generalization\" improves\u2014the more expressive function approximator proving useful after all, as it admits algorithmically simpler functions that fit the example pairs.\n\nOne way I think of this that makes it more intuitive:\n\nYou can understand mean squared error as implying that your regression equation has a Gaussian-distributed error term $\\varepsilon$:\n\n$$Y = \\beta X + \\varepsilon$$\n\nIn simple statistical models, this $\\varepsilon$ latent is not explicitly estimated, but instead eliminated by pumping up the sample size so much that it can be averaged away. This only works when you have far fewer parameters than data points.\n\nOverparameterized models, on the other hand, use the \"texture\" of the datapoint (as in, rare, \"high-frequency\" \"noise\" characteristics that allow you to relatively uniquely pick out the datapoint from the dataset) to identify the datapoint, and shove the $\\varepsilon$ term into that \"texture\". (You can see this explicitly in 1D regression problems, where the overparameterized models have a sharp deviation from the trend line at each data point.)\n\nI think this works under quite general conditions. I vaguely remember there was a paper that showed that if you train a NN on random labels, then it \"learns to memorize\" in some sense (can't remember what sense exactly but I think it was something like, it could more quickly be trained on a *different* random labelling). I suspect this is because it learns to emphasize the \"textures\" of the datapoints in the training set, finding features that more unqiuely distinguish datapoints in the future.\n\nReal NNs obviously also learn real structure, not just $\\varepsilon$, but I assume they do some mixture where at least part of what they learn is just arbitrary features that distinguish unique datapoints."
+   }
+  },
+  {
+   "_id": "iWEjp8PEjvdSuAdAb",
+   "parentCommentId": "oFTFpJ6imHGizbchy",
+   "postedAt": "2024-03-22T13:55:31.468Z",
+   "baseScore": 8,
+   "user": {
+    "username": "abramdemski",
+    "displayName": "abramdemski"
+   },
+   "contents": {
+    "markdown": "To me, the lengthy phrases do in fact get closer to \"zack saying what zack meant\" than the common terms like 'deep learning' -- but, like you, I didn't really get anything new out of the longer phrases. I believe that people who *don't* already think of deep learning as function approximation may get something out of it tho. So in consequence I didn't downvote or upvote."
+   }
+  },
+  {
+   "_id": "RMijiYk7irHxNAs4Y",
+   "parentCommentId": "HsrYYBetagEkrdiCP",
+   "postedAt": "2024-03-22T15:40:17.896Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Algon",
+    "displayName": "Algon"
+   },
+   "contents": {
+    "markdown": "I am suprised that you have that affordance. I want to know I can delete my comments and be sure they won't get read by anyone after I delete them."
+   }
+  },
+  {
+   "_id": "K6XrgmaYyCegtHiXJ",
+   "parentCommentId": "s4ZDtiP2vjwcrkwzT",
+   "postedAt": "2024-03-22T16:01:37.544Z",
+   "baseScore": 31,
+   "user": {
+    "username": "abramdemski",
+    "displayName": "abramdemski"
+   },
+   "contents": {
+    "markdown": "The issue seems more complex and subtle to me.\n\nIt is fair to say that the loss function (when combined with the data) is a stochastic environment (stochastic due to sampling the data), and the effect of gradient descent is to select a policy (a function out of the function space) which performs very well in this stochastic environment (achieves low average loss).\n\nIf we assume the function-approximation achieves the minimum possible loss, then it must be the case that the function chosen is an optimal control policy where the loss function (understood as including the data) is the utility function which the policy is optimal with respect to.\n\nIn this framing, both Zack and Eliezer would be wrong:\n\n*   Zack would be wrong because there is nothing nonsensical about asking whether the function-approximation \"internalizes\" the loss. Utility functions are *usually* understood behaviorally; a linear regression might not \"represent\" (ie denote) squared-error anywhere, but might still be utility-theoretically optimal with respect to mean-squared error, which is enough for \"representation theorems\" (the decision-theory thingy) to apply.\u00a0\n*   Eliezer would be wrong because his statement that there is no guarantee about representing the loss function would be factually incorrect. At best Eliezer's point could be interpreted as saying that the representation theorems break down when loss is merely very low rather than perfectly minimal.\n\nBut Eliezer (at least in the quote Zack selects) is clearly saying \"explicit internal representation\" rather than the decision-theoretic \"representation theorem\" thingy. I think this is because Eliezer is thinking about inner optimization, as Zack also says. When we are trying to apply function-approximation (\"deep learning\") to solve difficult problems for us -- in particular, difficult problems never seen in the data-set used for training -- it makes some sense to suppose that the internal representation will involve nontrivial computations, even \"search algorithms\" (and importantly, we know of no way to rule this out without crippling the generalization ability of the function-approximation).\u00a0\n\nSo based on this, we could refine the interpretation of Eliezer's point to be: even if we achieve the minimum loss on the data-set given (and therefore obey decisiot-theretic representation-theorems in the stochastic environment created by the loss function combined with the data), there is no particular guarantee that the search procedure learned by the function-approximation is explicitly searching to minimize said loss.\u00a0\n\nThis is significant because of *generalization*. We actually want to run the approximated-function on *new* data, with hopes that it does \"something appropriate\". (This is what Eliezer means when he says \"distribution-shifted environments\" in the quote.) This important point is not captured in your proposed reconciliation of Zack and Eliezer's views.\n\nBut then why emphasize (as Eliezer does) that the function approximation does not necessarily internalize the loss function it is trained on? Internalizing said loss function would probably *prevent it from doing anything truly catastrophic* (because it is not planning for a world any different than the actual training data it has seen). But it does not especially guarantee that it *does what we would want it to do*. (Because the-loss-function-on-the-given-data is not what we really want; really we want some appropriate generalization to happen!)\n\nI think this is a rhetorical simplification, which is fair game for Zack to try and correct to something more accurate. Whether Eliezer truly had the misunderstanding when writing, I am not sure. But I agree that the statement is, at least, uncareful.\n\nHas Zack *succeeded* in correcting the issue by providing a more accurate picture? Arguably [TurnTrout made the same objection in more detail](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target). He summarizes the whole thing into two points:\n\n> 1.  Deep reinforcement learning agents will not come to intrinsically and primarily value their reward signal; reward is not *the trained agent's* optimization target.\n> 2.  Utility functions express *the relative goodness* of outcomes. Reward *is not best understood* as being a kind of utility function. Reward has the mechanistic effect of *chiseling cognition into the agent's network*. Therefore, properly understood, reward does not express relative goodness and is therefore *not an optimization target at all*.\n\n(Granted, TurnTrout is talking about reward signals rather than loss functions, and this is an important distinction; however, my understanding is that he would say something very similar about loss functions.)\n\nPoint #1 appears to strongly agree with at least a major part of Eliezer's point. To re-quote the List of Lethalities portion Zack quotes in the OP:\n\n> Even if you train really hard on an exact loss function, that doesn't thereby create an explicit internal representation of the loss function inside an AI that then continues to pursue that exact loss function in distribution-shifted environments. Humans don't explicitly pursue inclusive genetic fitness; **outer optimization even on a very exact, very simple loss function doesn't produce inner optimization in that direction.** \\[...\\] This is sufficient on its own \\[...\\] to trash entire categories of naive alignment proposals which assume that if you optimize a bunch on a loss function calculated using some simple concept, you get perfect inner alignment on that concept.\n\nHowever, I think point #2 is similar in spirit to Zack's objection in the OP. (TurnTrout does not respond to the same exact passage, but has his own post taking issues with [List of Lethalities](https://www.lesswrong.com/posts/kpFxkXBbpF5pWDRrc/some-of-my-disagreements-with-list-of-lethalities).)\n\nI will call the objection I see in common between Zack and TurnTrout the ***type error objection***. Zack says that of course a line does not \"represent\" the loss function of a linear regression; *why would you even want it to?* TurnTrout says that \"reward is not the optimization target\" -- we should think of a reward function as a \"chisel\" which shapes a policy, rather than thinking of it as the goal we are trying to instill in the policy. In both cases, I understand them as saying that the loss function used for training is *an entirely different sort of thing* from the goals an intelligent system pursues after training. (The \"wheels made of little cars\" thing also resembles a type-error objection.)\n\nWhile I strongly agree that we should not naively assume a reinforcement-learning agent internalizes the reward as its utility function, I think the type-error objection is over-stated, as may be clear from my point about decision-theoretic representation theorems at the beginning.\n\nReward functions do have the wrong type signature, but neural networks are not actually trained on reward gradients; rather, a loss is defined from the reward in some way. The type signature of the loss function is *not* wrong; indeed, if training were perfect, then we could conclude that the resulting neural networks would be decision-theoretically perfect at minimizing loss on the training distribution.\n\nWhat we would *not* be able to make confident predictions about is what such systems would do *outside of the training distribution*, where the training procedure has not exercised selection pressure on the behavior of the system. Here, we must instead rely on the generalization power of function-approximation, which (seen through a somewhat bayesian lens) means trusting the system to have the inductive biases which we would want."
+   }
+  },
+  {
+   "_id": "HqD9neEHDSm7uEoAk",
+   "parentCommentId": "RMijiYk7irHxNAs4Y",
+   "postedAt": "2024-03-22T16:35:02.240Z",
+   "baseScore": 25,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "Oh, hmm, this is an edge-case we've never ran into. The point of giving authors the ability to undelete comments they can delete is so that they can reverse deletions they made (or admins made on their post trying to help them enforce their norms) not the deletions other people made.\n\nI'll look into fixing the permissions here. Definitely not intended, just a side effect of some other things we tried to do."
+   }
+  },
+  {
+   "_id": "vDg543DzFApJgcmCR",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T17:11:40.132Z",
+   "baseScore": 4,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "It may also be worth adding that transformers aren't piecewise linear. A self-attention layer dynamically constructs pathways for information to flow through, which is very nonlinear."
+   }
+  },
+  {
+   "_id": "MeeLoG3KyDth99Fmk",
+   "parentCommentId": null,
+   "postedAt": "2024-03-22T21:03:41.543Z",
+   "baseScore": 16,
+   "user": {
+    "username": "Closed Limelike Curves",
+    "displayName": "Closed Limelike Curves"
+   },
+   "contents": {
+    "markdown": "I'm not sure what point this post is trying to make exactly. Yes, it's function approximation; I think we all know that.\n\nWhen we talk about inner and outer alignment, outer alignment is \"picking the correct function to learn.\" (When we say \"loss,\" we mean the loss *on a particular task*, not the abstract loss function like RMSE.)\u00a0\n\nInner alignment is about training a model that generalizes to situations outside the training data."
+   }
+  },
+  {
+   "_id": "Z9Pc2fLfsJzoTdHA4",
+   "parentCommentId": "K6XrgmaYyCegtHiXJ",
+   "postedAt": "2024-03-22T22:10:57.669Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Algon",
+    "displayName": "Algon"
+   },
+   "contents": {
+    "markdown": "> In both cases, I understand them as saying that the loss function used for training is *an entirely different sort of thing* from the goals an intelligent system pursues after training.\u00a0\n\nI think Turntrout would object to that charecterization as it is privileging the hypothesis that you get systems which pursue goals after training. \u00a0I'm assuming you mean the agent does some sort of EV maximization by \"goals an intelligent systems pursues\". \u00a0Though I have a faint suspicion Turntrout would disagree even with a more general interpretation of \"pursues goals\"."
+   }
+  },
+  {
+   "_id": "7iqpeNAjfDiBTfojo",
+   "parentCommentId": "oFTFpJ6imHGizbchy",
+   "postedAt": "2024-03-22T22:59:54.001Z",
+   "baseScore": 5,
+   "user": {
+    "username": "rhollerith_dot_com",
+    "displayName": "RHollerith"
+   },
+   "contents": {
+    "markdown": "As a deep-learning novice, I found the post charming and informative."
+   }
+  },
+  {
+   "_id": "cMuA7aEeSbMHaRTNH",
+   "parentCommentId": null,
+   "postedAt": "2024-03-23T03:46:30.553Z",
+   "baseScore": 42,
+   "user": {
+    "username": "tin482",
+    "displayName": "tin482"
+   },
+   "contents": {
+    "markdown": "This does a great job of importing and translating a set of intuitions from a much more established and rigorous field. However, as with all works framing deep learning as a particular instance of some well-studied problem, it's vital to keep the context in mind:\n\nDespite literally thousands of papers claiming to \"understand deep learning\" from experts in fields as various as computational complexity, compressed sensing, causal inference, and - yes - statistical learning, *NO* rigorous, first-principles analysis has *ever* computed *any aspect* of *any* deep learning model beyond toy settings. *ALL* published bounds are vacuous in practice.\n\nIt's worth exploring why, despite strong results in their own settings, and despite strong \"intuitive\" parallels to deep learning, this remains true. The issue is that all these intuitive arguments have holes big enough to accommodate, well, the end of the world. There are several such challenges in establishing a tight correspondence between \"classical machine learning\" and deep learning, but I'll focus on one that's been the focus of considerable effort: defining simplicity.\n\nThis notion is essential. If we consider a truly arbitrary function, there is no need for a relationship between the behavior on one input and the behavior on another - the No Free Lunch Theorem. If we want our theory to have content (that is, **to constrain the behavior of a Deep Learning system whatsoever**) we'll need to narrow the range of possibilities. Tools from statistical learning like the VC dimension are useless as is due to overparameterization, as you mention. We'll need a notion of simplicity that captures what sorts of computational structures SGD finds in practice. Maybe circuit size, or minima sharpness, or noise sensitivity... - how hard could it be?\n\nWell no one's managed it. To help understand why, here are two (of many) barrier cases:\n\n*   Sparse parity with noise. For an input bitstring x, y is defined as the xor of a fixed, small subset of indices. E.g if the indices are 1,3,9 and x is 101000001 then y is 1 xor 1 xor 1 = 1. Some small (tending to zero) measurement error is assumed. Though this problem is approximated almost perfectly by extremely small and simple boolean circuits (a log-depth tree of xor gates with inputs on the chosen subset), it is believed to require an exponential amount of computation to predict even marginally better than random! Neural networks require exponential size to learn it in practice.  \n    Deep Learning Fails\n*   The protein folding problem. Predict the shape of a protein from its amino acid sequence. Hundreds of scientists have spent decades scouring for regularities, and failed. Generations of supercomputers have been built to attempt to simulate the subtle evolution of molecular structure, and failed. Billions of pharmaceutical dollars were invested - hundreds of billions were on the table for success. The data is noisy and multi-modal. Protein language models learn it all anyway.  \n    Deep Learning Succeeds!\n\nFor what notion is the first problem complicated, and the second simple?\n\nAgain, without such a notion, statistical learning theory makes no prediction whatsoever about the behavior of DL systems on new examples. If a model someday outputted a sequence of actions which caused the extinction of the human race, we couldn't object on principle, only say \"so power-seeking was simpler after all\". And even with such a notion, we'd still have to prove that Gradient Descent tends to find it in practice and a dozen other difficulties...\n\nWithout a precise mathematical framework to which we can defer, we're left with Empirics to help us choose between a bunch of sloppy, spineless sets of intuitions. Much less pleasant. Still, here's a few which push me towards Deep Learning as a \"computationally general, pattern-finding process\" rather than function approximation:\n\n*   Neural networks optimized only for performance show surprising alignment with representations in the human brain, even exhibiting 1-1 matches between particular neurons in ANNs and living humans. This is an absolutely unprecedented level of predictivity, despite the models not being designed for such and taking no brain data as input.\n*   LLM's have been found to contain rich internal structure such as grammatical parse-trees, inference-time linear models, and world models. This sort of mechanistic picture is missing from any theory that considers only i/o\n*   Small changes in loss (i.e. function approximation accuracy) have been associated with large qualitative changes in ability and behavior - such as learning to control robotic manipulators using code, productively recurse to subagents, use tools, or solve theory of mind tasks.\n\nI know I've written a lot, so I appreciate your reading it. To sum up:\n\n*   Despite intuitive links, efforts to apply statistical learning theory to deep learning have failed, and seem to face substantial difficulties\n*   So, we have to resort to experiment where I feel this intuitive story doesn't fit the data, and provide some challenge cases"
+   }
+  },
+  {
+   "_id": "tHd39fFZcHYhG9bfm",
+   "parentCommentId": null,
+   "postedAt": "2024-03-23T17:22:37.219Z",
+   "baseScore": 5,
+   "user": {
+    "username": "the-cactus",
+    "displayName": "hmys"
+   },
+   "contents": {
+    "markdown": "Other people were commending your tabooing of words, but I feel using terms like \"multi-layer parameterized graphical function approximator\" fails to do that, and makes matters worse because it leads to non-central fallacy-ing. It'd been more appropriate to use a term like \"magic\" or \"blipblop\". Calling something a function appropriator leads to readers carrying a lot of associations into their interpretation, that probably don't apply to deep learning, as deep learning is a very specific example of function approximation, that deviates from the prototypical examples in many respects. (I think when you say \"function approximator\" the image that pops into most peoples head is fitting a polynomial to a set of datapoints in R^2)  \n  \nCalling something a function approximator is only meaningful if you make a strong argument for why a function approximator cant (or at least is systematically unlikely to) give rise to specific dangerous behaviors or capabilities. But I don't see you giving such arguments in this post. Maybe I did not understand it. In either case, you can read posts like Gwern's \"Tools want to be agents\" or Yudkowsky's writings, explaining why goal directed behavior is a reasonable thing to expect to arise from current ML, and you can replace every instance of \"neural network\" / \"AI\" with \"multi-layer parameterized graphical function approximator\", and I think you'll find that all the arguments make just as much sense as they did before. (modulo some associations seeming strange, but like I said, I think thats because there is some non-central fallacying going on)."
+   }
+  },
+  {
+   "_id": "KbnyJgAb8TL9R9t2q",
+   "parentCommentId": "cMuA7aEeSbMHaRTNH",
+   "postedAt": "2024-03-23T17:43:15.279Z",
+   "baseScore": 20,
+   "user": {
+    "username": "quintin-pope",
+    "displayName": "Quintin Pope"
+   },
+   "contents": {
+    "markdown": "> *NO* rigorous, first-principles analysis has *ever* computed *any aspect* of *any* deep learning model beyond toy settings\n\nThis is false. From the abstract of [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)\n\n> Hyperparameter (HP) tuning in deep learning is an expensive process, prohibitively so for neural networks (NNs) with billions of parameters. We show that, in the recently discovered Maximal Update Parametrization (muP), many optimal HPs remain stable even as model size changes. This leads to a new HP tuning paradigm we call muTransfer: parametrize the target model in muP, tune the HP indirectly on a smaller model, and zero-shot transfer them to the full-sized model, i.e., without directly tuning the latter at all. We verify muTransfer on Transformer and ResNet. For example, 1) by transferring pretraining HPs from a model of 13M parameters, we outperform published numbers of BERT-large (350M parameters), with a total tuning cost equivalent to pretraining BERT-large once; 2) by transferring from 40M parameters, we outperform published numbers of the 6.7B GPT-3 model, with tuning cost only 7% of total pretraining cost. A Pytorch implementation of our technique can be found at [this http URL](http://github.com/microsoft/mup) and installable via \\`pip install mup\\`.\n\nmuP comes from a principled mathematical analysis of how different ways of scaling various architectural hyperparameters alongside model width influences activation statistics."
+   }
+  },
+  {
+   "_id": "DZvGK52WjTEBd8WoD",
+   "parentCommentId": "cMuA7aEeSbMHaRTNH",
+   "postedAt": "2024-03-23T18:32:22.373Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> For what notion is the first problem complicated, and the second simple?\n\nI might be out of my depth here, but\u2014could it be that sparse parity with noise is just objectively \"harder than it sounds\" (because every bit of noise inverts the answer), whereas protein folding is \"easier than it sounds\" (because if it weren't, evolution wouldn't have solved it)?\n\nJust because the log-depth xor tree is small, doesn't mean it needs to be easy to find, if it can hide amongst vastly many others that might have generated the same evidence ... which I suppose is your point. (The \"function approximation\" frame encourages us to look at the boolean circuit and say, \"What a simple function, shouldn't be hard to noisily approximate\", which is not exactly the right question to be asking.)"
+   }
+  },
+  {
+   "_id": "kHq6jt6n9R6whBsBq",
+   "parentCommentId": "KbnyJgAb8TL9R9t2q",
+   "postedAt": "2024-03-23T20:56:04.552Z",
+   "baseScore": 9,
+   "user": {
+    "username": "tin482",
+    "displayName": "tin482"
+   },
+   "contents": {
+    "markdown": "I was trying to make a more specific point. Let me know if you think the distinction is meaningful -\n\nSo there are lots of \"semi-rigorous\" successes in Deep Learning. One I understand better than muP is good old Xavier initialization. Assuming that the activations at a given layer are normally distributed, we should scale our weights like 1/sqrt(n) so the activations don't diverge from layer to layer (since the sum of independent normals scales like sqrt(n)). This is exactly true for the first gradient step, but can become false at any later step once the weights are no longer independent and can \"conspire\" to blow up the activations anyway. So not a \"proof\" but successful in practice.\n\nMy understanding of muP is similar in that is \"precise\" only if certain correlations are well controlled (I'm fuzzy here). But still v. successful in practice. But the proof isn't airtight and we still need that last step - checking \"in practice\".\n\nThis is very different from the situation within statistical learning itself, which has many beautiful and unconditional results which we would very much like to port over to deep learning. My central point is that *in the absence of a formal correspondence, we have to bridge the gap with evidence.* That's why the last part of my comment was some evidence I think speaks against the intuitions of statistical learning theory. I consider Xavier initialization, muP, and scaling laws, etc. as examples where this bridge was successfully crossed - but still necessary! And so we're reduced to \"arguing over evidence between paradigms\" when we'd prefer to \"prove results within a paradigm\""
+   }
+  },
+  {
+   "_id": "b6TixodtGyLnmZ7d3",
+   "parentCommentId": "DZvGK52WjTEBd8WoD",
+   "postedAt": "2024-03-23T22:18:28.181Z",
+   "baseScore": 4,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "I think it's also a question of the learning techniques used. It seems like generalizable solutions to xor involve at least one of the two following:\n\n * noticing that many of the variables in the input can be permuted without changing the output and therefore it's only the counts of the variables that matter\n * noticing how the output changes or doesn't change when you start with one input and flip the variable one at a time\n\nBut current neural networks can't use either of these techniques, partly because it doesn't align well with the training paradigm. They both kind of require the network to be able to pick the inputs to see the ground truth for, whereas training based on a distribution has the (input, output) pairs randomized.\n\nTo \"humanize\" these problems, we can:\n\n * Break intuitive permutation invariance by using different symbols in each slot. So instead of an input looking like 010110 or 101001 or 111000, it might look like A\ud83d\ude084z\ud83d\udc5ei or B\ud83d\udd25\ud83d\ude31Z\ud83d\ude050 or B\ud83d\ude08\ud83d\ude31Z\ud83d\ude05i.\n * Break the ability to notice the effects of single bitflips by just seeing random strings rather than neighboring strings.\n\nThis makes it intuitively much harder to me."
+   }
+  },
+  {
+   "_id": "u7qfAM7ZF289rbftc",
+   "parentCommentId": null,
+   "postedAt": "2024-03-23T23:13:55.394Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Gurkenglas",
+    "displayName": "Gurkenglas"
+   },
+   "contents": {
+    "markdown": "Let's investigate whether functions must necessarily contain an agent in order to do sufficiently useful cognitive work. Pick some function of which an oracle would let you save the world."
+   }
+  },
+  {
+   "_id": "Gs6gsogqd8hiXBiQt",
+   "parentCommentId": "K6XrgmaYyCegtHiXJ",
+   "postedAt": "2024-03-24T02:36:18.486Z",
+   "baseScore": 4,
+   "user": {
+    "username": "DaemonicSigil",
+    "displayName": "DaemonicSigil"
+   },
+   "contents": {
+    "markdown": "To be clear, I'm definitely pretty sympathetic to TurnTrout's type error objection. (Namely: \"If the agent gets a high reward for ingesting superdrug X, but did not ingest it during training, then we shouldn't particularly expect the agent to want to ingest superdrug X during deployment, even if it realizes this would produce high reward.\") But just rereading what Zack has written, it seems quite different from what TurnTrout is saying and I still stand by my interpretation of it.\n* eg. Zack writes: \"obviously the line itself does not somehow contain a representation of general squared-error-minimization\". So in this line fitting example, the loss function, i.e. \"general squared-error-minimization\" refers to the function $L(\\text{training data}, f_\\theta)$, and not $L(f_\\theta)$.\n* And when he asks why one would even want the neural network to represent the loss function, there's a pretty obvious answer of \"well, the loss function contains many examples of outcomes humans rated as good and bad and we figure it's probably better if the model understands the difference between good and bad outcomes for this application.\" But this answer only applies to the curried loss.\n\nI wasn't trying to sign up to defend everything Eliezer said in that paragraph, especially not the exact phrasing, so can't reply to the rest of your comment which is pretty insightful."
+   }
+  },
+  {
+   "_id": "AziZ5453i7TuC6vRi",
+   "parentCommentId": "tHd39fFZcHYhG9bfm",
+   "postedAt": "2024-03-24T22:17:12.403Z",
+   "baseScore": 23,
+   "user": {
+    "username": "gwern",
+    "displayName": "gwern"
+   },
+   "contents": {
+    "markdown": "> That deviates from the prototypical examples in many respects.\n\nIt basically proves too much because it's equivocation. I am struggling to find anything in Zack's post which is not just the old wine of the \"just\" fallacy in new 'function approximation' skins. When someone tells you that a LLM is \"just\" next token prediction, or a neural network is \"just some affine layers with nonlinearities\" or it's \"just a Markov chain with a lot of statistics\", then you've learned more about the power and generality of 'next token prediction' etc than you have what they were trying to debunk.\n\n>> If I use the mean squared error loss function to approximate a set of data points in the plane with a line (which some authors call a \"linear regression model\" for some reason), obviously the line itself does not somehow contain a representation of general squared-error-minimization. The line is just a line.\n\nI don't think that is obvious at all, and is roughly on the level of saying 'a tiger is just a set of atoms in a 3D volume' or 'programs are just a list of bits'. What are these data points on this hyperplane, exactly...? They could be anything - they could be, say, embeddings of optimization algorithms\\*. If you had an appropriate embedding of the latent space of algorithms, why can't there be a point (or any other kind of object or structure, such as a line) which corresponds to general squared-error minimization or others? And this doesn't seem 'possible', this seems likely: already an existing LLM like GPT-4 or Claude-3 Opus is clearly mapping its few-shot examples to some sort of latent space, appears to be doing internal gradient descent on higher level embeddings or manifolds, and is quite effective at writing things like 'here are 10 variants of error minimization optimization algorithms as examples; write a Python program using Numpy to write a new one which [...]' (and if it is not, it sure seems like future ones will); something inside that LLM must correspond to a small number of bytes and some sort of mathematical object and represent the combination of the points. Programs and algorithms are 'just' data points, like everything else. (\"With an appropriate encoding, an AGI is just an index into the decimal expansion of pi; an index, a simple ordinary natural number, is obviously completely harmless; QED, AGI is completely harmless.\") Which means that if you think something is 'just' data, then your assertions are meaninglessly vacuous because if it applies to everything, then it means nothing.\n\n\\* Or more relevantly, RL algorithms such as specific agents... of course a line or point on an appropriate hyperplane can 'represent' the loss function, and it would be a useful thing to do so. Why would you ever want a system to not be able to do that? We can see in Decision Transformers and research into the meta-reinforcement learning behavior of LLMs that large LLMs prompted with reward functions & scenarios, trained by imitation learning at scale across countless agents, do what must be exactly that, and represent environments and rewards, and can eg. explicitly write the source code to implement reward functions for RL training of sub-agents. I think it's telling that these results generally do not come up in these posts about how 'reward is not the optimization target'."
+   }
+  },
+  {
+   "_id": "xp5KwGpavQB3QaxHF",
+   "parentCommentId": "AziZ5453i7TuC6vRi",
+   "postedAt": "2024-03-24T23:45:39.799Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> I am struggling to find anything in Zack's post which is not just the old wine of the \"just\" fallacy [...] learned more about the power and generality of 'next token prediction' etc than you have what they were trying to debunk.\n\nI wouldn't have expected _you_ to get anything out of this post!\n\nOkay, if you project this post into a one-dimensional \"AI is scary and mysterious\" _vs._ \"AI is not scary and not mysterious\" culture war subspace, then I'm certainly writing in a style that mood-affiliates with the latter. The reason I'm doing that is because the picture of what deep learning is that I got from being a _Less Wrong_-er felt markedly different from the picture I'm getting from reading the standard textbooks, and I'm trying to supply that diff to people who (like me-as-of-eight-months-ago, and unlike Gwern) haven't read the standard textbooks yet.\n\nI think this is a situation where [different readers need to hear different things](https://slatestarcodex.com/2014/03/24/should-you-reverse-any-advice-you-hear/). I'm sure there are grad students somewhere who already know the math and could stand to think more about what its power and generality imply about the future of humanity or lack thereof. I'm not particularly well-positioned to help them. But I also think there are a lot of people on this website who have a lot of practice pontificating about the future of humanity or lack thereof, who don't know that Simon Prince and Christopher Bishop don't think of themselves as writing about agents. I think that's a problem! (One which I am well-positioned to help with.) If my attempt to remediate that particular problem ends up mood-affiliating with the wrong side of a one-dimensional culture war, maybe that's because the one-dimensional culture war is crazy and we should stop doing it."
+   }
+  },
+  {
+   "_id": "ihHbw2uPTkj8hkt55",
+   "parentCommentId": "xp5KwGpavQB3QaxHF",
+   "postedAt": "2024-03-25T00:59:12.477Z",
+   "baseScore": 7,
+   "user": {
+    "username": "gwern",
+    "displayName": "gwern"
+   },
+   "contents": {
+    "markdown": "I don't object to ironic exercises like \"A Modest Proposal\" or [\"On The Impossibility of Supersized Machines\"](https://arxiv.org/abs/1703.10987), but it can certainly be difficult to write and ensure the message gets across, and I don't think it does here. "
+   }
+  },
+  {
+   "_id": "ZpSHQad8a9tWivkrr",
+   "parentCommentId": null,
+   "postedAt": "2024-03-25T13:34:54.409Z",
+   "baseScore": 5,
+   "user": {
+    "username": "logan-zoellner",
+    "displayName": "Logan Zoellner"
+   },
+   "contents": {
+    "markdown": "> but for *sufficiently large* function approximators, [the trend reverses](/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)\n\nTransformers/deep learning work because of built-in regularization methods (like dropout layers) and not because \"the trend reverses\". \u00a0If you did naive \"best fit polynomial\" with a 7 billion parameter polynomial you would not get a good result."
+   }
+  },
+  {
+   "_id": "yr89gEw5CaEBsYw2u",
+   "parentCommentId": null,
+   "postedAt": "2025-12-13T00:19:44.764Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Self-review.) I was having fun with a rhetorical device in this one, which didn't land for all readers; I guess that's how it goes sometimes.\n\nTo try to explain what I was trying to do here in plainer words: I feel like a lot of people who read this website but don't read textbooks walk away with an intuitive picture of deep learning as being like evolving an animal to do your bidding, which is scary because evolution is not controllable.\n\nThat was strikingly not the intuitive picture I got from reading standard academic tutorial material on the topic in late 2023 and early 2024. As a lifetime _Less Wrong_ reader reading Simon Prince's [_Understanding Deep Learning_ (2023)](https://udlbook.github.io/udlbook/), one gets the sense that Prince isn't really thinking about \"AI\" as people on this website understand it, even if the term gets used.\n\nIt's a computational statistics book. Prince is writing about a class of techniques for fitting statistical models to data. The fact that statistics happens to have some impressive applications doesn't make it about summoning a little animal.\n\nThe difference in views seemed worth writing about. I was inspired by [some Tweets by Charles Foster](https://lightbrd.com/CFGeek/status/1647318970234703874):\n\n> At some point I switched from seeing neural networks as arcane devices to seeing them as moldable variants of \"boring\" building blocks from signal processing, feedback control, associative learning, & functional programming. Like some kind of function approximation plastic/epoxy\n>\n> Tbh \"neural network\" is maybe too suggestive of a term. Like it anchors people on vague intuitions about emergence/agency rather than on mechanistic thinking. Call them \"nonlinear coupling networks\" or \"plastic basis functions\" or go back to \"parallel distributed processors\"\n\nSorry, I worry that I'm still not succeeding at conveying the intuition: probably some people reading this review comment are shaking their head, disappointed that I seem to be trotting out the AI skeptic's ignorant \"It's just math; math can't hurt you\" canard. So to be clear (and I think I was clear enough about this in the post; see, _e.g._, the final paragraph), I absolutely agree that math can kill you, obviously. I'm just saying that after I read the math, the summoning-a-little-animal mental image didn't seem faithful to the math: you should be thinking about how the model's outputs interpolate the training data, not how the little animal's behavior unpredictably fails to reflect some putative utility function that \"outer\" training failed to instill.\n\n... I'm still not communicating the thing, am I? You know what? Forget it. Don't read this review and don't read this post. Read [Prince 2023](https://udlbook.github.io/udlbook/) or [Bishop and Bishop 2024](https://www.bishopbook.com/). Read textbooks!"
+   }
+  },
+  {
+   "_id": "sta6QPgoqc8c8uLdG",
+   "parentCommentId": "oFTFpJ6imHGizbchy",
+   "postedAt": "2024-03-22T22:59:44.547Z",
+   "baseScore": 2,
+   "user": {
+    "username": "rhollerith_dot_com",
+    "displayName": "RHollerith"
+   },
+   "contents": null
+  },
+  {
+   "_id": "Ww7rMfqeNhDSwdKCp",
+   "parentCommentId": "xp5KwGpavQB3QaxHF",
+   "postedAt": "2024-03-25T00:09:22.265Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Veedrac",
+    "displayName": "Veedrac"
+   },
+   "contents": null
+  }
+ ]
+}

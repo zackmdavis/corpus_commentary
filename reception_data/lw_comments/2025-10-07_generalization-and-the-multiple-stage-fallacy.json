@@ -1,0 +1,77 @@
+{
+ "post": {
+  "_id": "As3euLoCJwjvPBMt4",
+  "title": "Generalization and the Multiple Stage Fallacy?",
+  "postedAt": "2025-10-07T06:20:46.172Z",
+  "pageUrl": "https://www.lesswrong.com/posts/As3euLoCJwjvPBMt4/generalization-and-the-multiple-stage-fallacy",
+  "commentCount": 9
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "AmE9Ah6EqeGPBxueB",
+   "parentCommentId": null,
+   "postedAt": "2025-10-07T09:41:18.044Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "> In analogy, someone who wanted to argue that it's infeasible to build text-to-image generative models that make art that humans enjoy, could partition their prediction of failure into disjunctive failure modes: the model has to generalize what hands look like; it has to generalize what birds look like. It has to generalize which compositions and color combinations are pleasing\u2014which is arguably an \"ought\"/steering problem, not an \"is\"/prediction problem! One-shotting all of those separate problems isn't something that human beings can do in real life, the argument would go. But of course, the problems aren't independent, and text-to-image generators do exist.\n\nIsn't part of the deal here that we didn't one-shot image generation, though?\u00a0\n\nThe first image generators were crazy, we slowly iterated on them, and image generation is \"easy\" because unlike superintelligence or even self-driving cars or regular ol' production code, nothing particularly bad happens if a given image is bad."
+   }
+  },
+  {
+   "_id": "ewyifkaPqbvvwnTrq",
+   "parentCommentId": null,
+   "postedAt": "2025-10-07T15:13:49.016Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "There are two different issues with \"the first critical try\" (the After regime), where misalignment is lethal. First, maybe alignment is sufficiently solved, and so when you enter After, that's why it doesn't kill you. But second, maybe After never arrives.\n\nGradualist arguments press both issues, not just alignment of After. Sufficient [control](https://www.lesswrong.com/posts/d9FJHawgkiMSPjagR/ai-control-improving-safety-despite-intentional-subversion) makes increasingly capable AIs non-lethal if misaligned, which means that an AI that would bring about the After regime today wouldn't do so in the future where better countermeasures (that are not about alignment) are in place. Which is to say this particular AI won't enter the After regime yet, because the world is sufficiently different and this AI's capabilities are now insufficient for lethality, an even more capable AI would be necessary for that.\n\nThis is different from an ASI Pause delaying the After regime until ASI-grade alignment is solved, because the level of capabilities that counts as After keeps changing. Instead of delaying ASI at a fixed level of capabilities until alignment is solved, After is being pushed into the future by increasing levels of control that make increasingly capable AIs non-critical. As a result, After never happens at all, instead of only happening once alignment at a relevant level is sufficiently solved.\n\n(Of course the feasibility of ASI-grade control is as flimsy as the feasibility of ASI-grade alignment, when working on a capabilities schedule without an AGI/ASI Pause, not to mention [gradual disempowerment](https://www.lesswrong.com/posts/pZhEQieM9otKXhxmd/gradual-disempowerment-systemic-existential-risks-from) in the gradualist regime without an AGI Pause. But the argument is substantially different, and a proponent of gradualist development of ASI-grade control might feel that there is no fixed After, and maybe that After never actually arrives even as capabilities keep increasing. The arguments against feasibility of gradualist development of ASI-grade alignment on the other hand feel like they are positing a fixed After whose arrival remains inevitable at some point, which doesn't *acknowledge* the framing from gradualist arguments about development of ASI-grade control.)"
+   }
+  },
+  {
+   "_id": "DTtTHDDW3ktRtB9LN",
+   "parentCommentId": "AmE9Ah6EqeGPBxueB",
+   "postedAt": "2025-10-07T20:57:29.402Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "That said, FYI I was kind of enlightened by this phrasing:\n\n> That is, in the multiple stage fallacy, someone who wishes to portray a proposition as unlikely can **prey on people's reluctance to assign extreme probabilities** by spuriously representing the proposition as a conjunction of sub-propositions that all need to be true.\n\nI'd been feeling sus about why the multiple stage fallacy was even a fallacy at all, apart from \"somehow in practice people fuck it up.\" Multiplying probabilities together is... like, how else are you supposed to do any kind of sophisticated reasoning?\n\nBut, \"because people are scared of (or bad at) assigning extreme probabilities\" feels like it explains it to me."
+   }
+  },
+  {
+   "_id": "pf7pJhh7P5zBZo784",
+   "parentCommentId": null,
+   "postedAt": "2025-10-08T17:08:48.559Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Buck",
+    "displayName": "Buck"
+   },
+   "contents": {
+    "markdown": "I liked Joe Carlsmith's discussion of this [here](https://joecarlsmith.com/2023/05/08/predictable-updating-about-ai-risk)."
+   }
+  },
+  {
+   "_id": "uJyLjX6byyb8qyfyG",
+   "parentCommentId": "DTtTHDDW3ktRtB9LN",
+   "postedAt": "2025-10-08T17:29:05.444Z",
+   "baseScore": 5,
+   "user": {
+    "username": "kave",
+    "displayName": "kave"
+   },
+   "contents": {
+    "markdown": "I think the larger effect is treating the probabilities as independent when they're not.\n\nSuppose I have a jar of jelly beans, which are either all red, all green or all blue. You want to know what the probability of drawing 100 blue jelly beans is. Is it\u00a0$\\frac{1}{3}^{100} \\approx 2\u22c510^{-48}$? No, of course not. That's what you get if you multiply 1/3 by itself 100 times. But you should condition on your results as you go. P(jelly1 = blue)\u22c5P(jelly2=blue|jelly1=blue)\u22c5P(jelly3=blue|jelly1=blue,jelly2=blue) ...  \n  \nEvery factor but the first is 1, so the probability is\u00a0$\\frac{1}{3}$."
+   }
+  }
+ ]
+}

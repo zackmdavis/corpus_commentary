@@ -1,0 +1,155 @@
+{
+ "post": {
+  "_id": "GodqHKvQhpLsAwsNL",
+  "title": "Discontinuous Linear Functions?!",
+  "postedAt": "2025-06-06T00:29:21.765Z",
+  "pageUrl": "https://www.lesswrong.com/posts/GodqHKvQhpLsAwsNL/discontinuous-linear-functions",
+  "commentCount": 11
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "9RtSgpF5HDvF4Nraq",
+   "parentCommentId": null,
+   "postedAt": "2025-06-06T09:00:02.430Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Gurkenglas",
+    "displayName": "Gurkenglas"
+   },
+   "contents": {
+    "markdown": "> for any \u03b5, we can take\u00a0$k := \\lceil \\frac{1}{\\varepsilon} \\rceil$\n\nYou mean take\u00a0$N := \\lceil \\frac{1}{\\varepsilon} \\rceil$.\n\nsqrt(x) is continuous at 0 with an infinitely steep slope."
+   }
+  },
+  {
+   "_id": "guPEbeKtPnqsBhrjg",
+   "parentCommentId": null,
+   "postedAt": "2025-06-06T22:49:36.347Z",
+   "baseScore": 12,
+   "user": {
+    "username": "jeffrey-liang",
+    "displayName": "Jeffrey Liang"
+   },
+   "contents": {
+    "markdown": "Okay I took the nerd bait and signed up for LW to say:\n\nFor your example to work you need to restrict the domain of your functions to some compact e.g.\u00a0$C^1([0,1])$because the uniform norm requires the functions to be bounded.\n\nAlso note this example works because you're not using the \"usual\" topology on\u00a0$C^1([0,1])$\u00a0which also includes the uniform norm of the derivative and makes the space complete. It is much more difficult if the domain is complete!"
+   }
+  },
+  {
+   "_id": "aPLdnMmajfH85axpH",
+   "parentCommentId": "guPEbeKtPnqsBhrjg",
+   "postedAt": "2025-06-13T02:29:55.732Z",
+   "baseScore": 6,
+   "user": {
+    "username": "NuclearCuriosity",
+    "displayName": "CuriouslyNuclear"
+   },
+   "contents": {
+    "markdown": "> For your example to work you need to restrict the domain of your functions to some compact e.g.\u00a0$C^1([0,1])$because the uniform norm requires the functions to be bounded.\n\nHmm, is this really a substantive problem? Call it an \"[extended norm](https://planetmath.org/extendednorm)\" instead of a norm and everything in the post works, right? My reasoning: An extended norm yields an extended metric space, which still generates a topology \u2014 it's just that points which are infinitely far apart are in different connected components. Since you get a perfectly valid topology, it makes perfect sense for the post to talk about continuity. Or at least I think so; am I missing something?"
+   }
+  },
+  {
+   "_id": "6msrTPjs6AZsqHBL5",
+   "parentCommentId": null,
+   "postedAt": "2025-06-13T02:36:57.819Z",
+   "baseScore": 5,
+   "user": {
+    "username": "NuclearCuriosity",
+    "displayName": "CuriouslyNuclear"
+   },
+   "contents": {
+    "markdown": "This is a good post. I remember being so confused in a real analysis class when my professor started talking about how important it is that we restrict our attention to *continuous* linear functions (what on Earth was a discontinuous linear function supposed to be?). This post explains what's going on better than my professor or textbook did.\n\nI agree with one of the other commenters that this part is not technically phrased accurately:\n\n> One way to think about continuity is that a function not having any \"jumps\" implies that it can't have an \"infinitely steep\" slope\n\nBecause eg the derivative of \u00a0$f(x)=\\sqrt[3]{x}$\u00a0at\u00a0$x=0$\u00a0is\u00a0$+\\infty$\u00a0despite the fact that it's continuous there."
+   }
+  },
+  {
+   "_id": "JejkpATKGhcS7qrJM",
+   "parentCommentId": "aPLdnMmajfH85axpH",
+   "postedAt": "2025-06-13T14:59:22.436Z",
+   "baseScore": 4,
+   "user": {
+    "username": "jeffrey-liang",
+    "displayName": "Jeffrey Liang"
+   },
+   "contents": {
+    "markdown": "Perhaps! I'm not familiar with extended norms. But when you say \"let's put the uniform norm on\u00a0$C^1(R)$\" warning bells start going off in my head \ud83d\ude05"
+   }
+  },
+  {
+   "_id": "rKEhK6dLDfg8XdzxA",
+   "parentCommentId": "guPEbeKtPnqsBhrjg",
+   "postedAt": "2025-06-23T05:30:51.258Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks for commenting\u2014and for your patience. I've changed the domain to be an arbitrary closed interval and credited you at the bottom."
+   }
+  },
+  {
+   "_id": "vwExtmZkubgyCB6rt",
+   "parentCommentId": "9RtSgpF5HDvF4Nraq",
+   "postedAt": "2025-06-23T05:32:01.235Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks for commenting\u2014and for your patience. I've corrected the k/N slip-up, deleted the misleading clause about \"a function not having any 'jumps' impl[ying] that it can't have an 'infinitely steep' slope\", and thanked you at the bottom."
+   }
+  },
+  {
+   "_id": "DXEj72tm3kdZ4feBd",
+   "parentCommentId": "vwExtmZkubgyCB6rt",
+   "postedAt": "2025-06-23T05:35:35.029Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Gurkenglas",
+    "displayName": "Gurkenglas"
+   },
+   "contents": {
+    "markdown": "you haven't deleted it."
+   }
+  },
+  {
+   "_id": "5TcCzt8kukTLqgTf5",
+   "parentCommentId": "DXEj72tm3kdZ4feBd",
+   "postedAt": "2025-06-23T05:38:17.499Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Now I have. (Sorry, apparently I got confused while trying to make parallel updates to [the original](http://zackmdavis.net/blog/) and this mirrorpost; they're not using the same source file due to differences between platform markup engines.)"
+   }
+  },
+  {
+   "_id": "GjuET6ivfwtsGhTkr",
+   "parentCommentId": "5TcCzt8kukTLqgTf5",
+   "postedAt": "2025-06-23T06:05:39.704Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Gurkenglas",
+    "displayName": "Gurkenglas"
+   },
+   "contents": {
+    "markdown": "> a small change in the input can't correspond to an arbitrarily large change in the output\n\nThe sign function doesn't have an *arbitrarily* large change in the output. Do you maybe mean that an *infinitesimal* change in the input can only produce an infinitesimal change in the output? I don't see how *that* fails, but maybe just because I don't have a definition for it at hand."
+   }
+  },
+  {
+   "_id": "goWcraBsAJrtfGChf",
+   "parentCommentId": null,
+   "postedAt": "2026-04-20T12:35:16.445Z",
+   "baseScore": 3,
+   "user": {
+    "username": "scroogemcduck1",
+    "displayName": "XelaP"
+   },
+   "contents": {
+    "markdown": "1: The title is indeed the correct way to react to learning this fact.  \n2: I'd like to explicitly point out that for linear functions, all you need to check is continuity at 0, which in other words means you only need to check that it's *bounded*, where 'bounded' here means that if I send in a vector of size 1, I don't get something of unbounded size.  \n  \nThat is, for linear functions, the only way a discontinuity can happen is if the unit sphere \"blows up\" when you send it into the function."
+   }
+  }
+ ]
+}

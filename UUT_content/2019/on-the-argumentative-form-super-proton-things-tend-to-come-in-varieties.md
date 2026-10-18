@@ -1,0 +1,38 @@
+Title: On the Argumentative Form "Super-Proton Things Tend to Come In Varieties"
+Date: 2019-12-13 05:00
+Category: commentary
+Tags: categorization, epistemology, Eliezer Yudkowsky
+
+> "[...] Between one and the infinite in cases such as these, there are no sensible numbers. Not only two, but any finite number, is ridiculous and can't exist."
+>
+> —_The Gods Themselves_ by Isaac Asimov
+
+[Eliezer Yudkowsky Tweets](https://twitter.com/ESYudkowsky/status/1108277090577600512) (back in March), linking to [a _Quillette_ interview with Lisa Littman](https://quillette.com/2019/03/19/an-interview-with-lisa-littman-who-coined-the-term-rapid-onset-gender-dysphoria/) (positer of "rapid onset gender dysphoria"):
+
+> [Everything more complicated than](https://twitter.com/ESYudkowsky/status/1108277090577600512) protons tends to come in varieties. Hydrogen, for example, has isotopes. Gender dysphoria involves more than one proton and will probably have varieties.
+
+> [To be clear, I don't](https://twitter.com/ESYudkowsky/status/1108280619014905857) know much about gender dysphoria. There's an allegation that people are reluctant to speciate more than one kind of gender dysphoria. To the extent that's not a strawman, I would say only in a generic way that GD seems liable to have more than one species.
+
+So, I actually think the moral here is wrong! (_Subtly_ wrong, in a way that took me a day or two to notice at the time, and am blogging about now.)
+
+It's true that ["in the real world, nothing above the level of [protons] repeats itself exactly."](https://www.lesswrong.com/posts/82eMd5KLiJ5Z6rTrr/superexponential-conceptspace-and-simple-words) But when we say that a psychological or medical diagnosis "comes in varieties," we're talking about distinct taxa/clusters, not the mere existence of variation due to things not being identical down to the atomic scale; otherwise, the observation that something "comes in varieties" would be trivial. And [Occam's razor/minimum-message-length](https://www.lesswrong.com/posts/f4txACqDWithRi7hs/occam-s-razor) says that we shouldn't postulate [more explanatory entities](https://www.lesswrong.com/posts/Atu4teGvob5vKvEAF/decoherence-is-simple) (such as categories) unless they can [pay rent](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences) in better predictions.
+
+There's a ["zero–one–infinity"](https://en.wikipedia.org/wiki/Zero_one_infinity_rule)-like _reductio ad absurdum_ argument to be made here. Suppose we observe some people [wake up with their left arm turned into a blue tentacle](http://yudkowsky.net/rational/technical/). We might want to coin a term like _tentacular brachitis_ to summarize our observations.
+
+The one comes to us and says, "Everything more complicated than protons tends to come in varieties. Tentacular brachitis involves more than one proton and will probably have varieties."
+
+This, in itself, doesn't tell us anything useful about what those varieties might be ... but suppose we do some more research and indeed find that patients' tentacles have a distinct [cluster structure](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace). Not only is there [covariance](https://en.wikipedia.org/wiki/Covariance) between different tentacle features—perhaps tentacles that are a darker shade of blue also tend to be slimier—but the color–sliminess joint distribution is starkly bimodal: modeling the tentacles as coming from two distinct "dark-blue/slimy" and "light-blue/less-slimy" taxa is a better statistical fit than positing a linear darkness/sliminesss continuum. So, congratulating ourselves on a scientific job-well-done, we speciate our diagnosis into two: "Tentacular brachitis A" and "Tentacular brachitis B".
+
+The one comes back to us and says, "Everything more complicated than protons tends to come in varieties. Tentacular brachitis A involves more than one proton and will probably have varieties."
+
+You see the problem. We have an infinite regress: the argument that the original category will probably need to be split into subcategories, goes just as well for each of the subcategories.
+
+So isn't "Gender dysphoria involves more than one proton[; therefore, it] will probably have varieties" a [fake explanation](https://www.lesswrong.com/posts/fysgqk4CjAwhBgNYT/fake-explanations)? The phrase "gender dysphoria" was worth inventing as a [shorter code](http://yudkowsky.net/rational/technical/) for the not-vanishingly-rare observation of "humans wanting to change sex", but unless and until you have specific observations indicating that there are meaningfully different ways dysphoria can manifest, you shouldn't posit that there are "probably" multiple varieties, because in a ["nearby" Everett branch](https://www.lesswrong.com/posts/9cgBF6BQ2TRB3Hy4E/and-the-winner-is-many-worlds) where human evolution happened slightly differently, there probably _aren't_: brain-intersex conditions have a kind of _a priori_ plausibility to them, but whatever weird quirk leads to autogynephilia probably wouldn't happen with every roll of the evolutionary dice if you rewound far enough, and the [memeplex](/2018/Jan/dont-negotiate-with-terrorist-memeplexes/) driving Littman's ROGD observations was invented recently.
+
+So I think a better moral than "Things larger than protons will probably have varieties" would be "Beware [fallacies of compression](https://www.lesswrong.com/posts/y5MxoeacRKKM3KQth/fallacies-of-compression)." The advice to be alert to the _possibility_ that your initial category should be split into multiple subspecies is correct and important and well-taken, but the _reason_ it's good advice is not _because things are made of protons_ (!?!).
+
+At this point, some readers might be thinking, "Wait a minute, M. Taylor! Didn't you notice that part about 'There's an allegation that people are reluctant to speciate more than one kind of gender dysphoria'? That's [_your_ hobbyhorse](/tag/two-type-taxonomy/)! Even if Yudkowsky doesn't know you exist, by publicly offering a _general_ argument that there are multiple types of dysphoria, he's _effectively_ doing your cause a favor—and here you are _criticizing_ him for it! Isn't that disloyal and ungrateful of you?"
+
+Great question! And the answer is: **no, absolutely not**. (And, though I can never speak for anyone but myself, I can only _imagine_ that Yudkowsky would agree? Everything I do, I [learned from him](https://www.readthesequences.com/).) And the _reason_ it's not disloyal and ungrateful is because the entire mindset in which arguments _can_ constitute a political favor is a _confusion_. The map is not the territory; what's true is already so. You [can't](https://www.lesswrong.com/posts/eY45uCCX7DdwJ4Jha/no-one-can-exempt-you-from-rationality-s-laws) make something _become true_ by arguing for it; you can only [use arguments to figure out what's true](https://www.lesswrong.com/posts/9f5EXt8KNNxTAihtZ/a-rational-argument).
+
+The fact that [not everybody knows this](https://thezvi.wordpress.com/2019/07/02/everybody-knows/) makes it especially important for me to loudly and publicly dispute [bad arguments whose conclusion I think is true](https://www.lesswrong.com/posts/WQFioaudEH8R7fyhm/local-validity-as-a-key-to-sanity-and-civilization) for _other reasons_. I don't _want_ to trick people into accepting my [bottom line](https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line) for fake reasons! What I want is for us all to [get better at anticipating our experiences](https://www.lesswrong.com/posts/a7n8GdKiAZRX86T5A/making-beliefs-pay-rent-in-anticipated-experiences). Together.

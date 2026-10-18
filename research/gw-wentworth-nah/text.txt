@@ -1,0 +1,957 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Testing The Natural Abstraction Hypothesis: Project Intro
+
+johnswentworth6 Apr 2021 21:24 UTC
+LW: 170 AF: 61
+41 comments6 min readLW link1 review
+Natural AbstractionWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Contents
+
+Background & Motivation
+
+The Problem and The Plan
+
+Summary
+
+The natural abstraction hypothesis says that
+
+Our physical world abstracts well: for most systems, the information relevant “far away” from the system (in various senses) is much lower-dimensional than the system itself. These low-dimensional summaries are exactly the high-level abstract objects/​concepts typically used by humans.
+
+These abstractions are “natural”: a wide variety of cognitive architectures will learn to use approximately the same high-level abstract objects/​concepts to reason about the world.
+
+If true, the natural abstraction hypothesis would dramatically simplify AI and AI alignment in particular. It would mean that a wide variety of cognitive architectures will reliably learn approximately-the-same concepts as humans use, and that these concepts can be precisely and unambiguously specified.
+
+Ultimately, the natural abstraction hypothesis is an empirical claim, and will need to be tested empirically. At this point, however, we lack even the tools required to test it. This post is an intro to a project to build those tools and, ultimately, test the natural abstraction hypothesis in the real world.
+
+Background & Motivation
+
+One of the major conceptual challenges of designing human-aligned AI is the fact that human values are a function of humans’ latent variables: humans care about abstract objects/​concepts like trees, cars, or other humans, not about low-level quantum world-states directly. This leads to conceptual problems of defining “what we want” in physical, reductive terms. More generally, it leads to conceptual problems in translating between human concepts and concepts learned by other systems—e.g. ML systems or biological systems.
+
+If true, the natural abstraction hypothesis provides a framework for translating between high-level human concepts, low-level physical systems, and high-level concepts used by non-human systems.
+
+The foundations of the framework have been sketched out in previous posts.
+
+What is Abstraction? introduces the mathematical formulation of the framework and provides several examples. Briefly: the high-dimensional internal details of far-apart subsystems are independent given their low-dimensional “abstract” summaries. For instance, the Lumped Circuit Abstraction abstracts away all the details of molecule positions or wire shapes in an electronic circuit, and represents the circuit as components each summarized by some low-dimensional behavior—like V = IR for a resistor. This works because the low-level molecular motions in a resistor are independent of the low-level molecular motions in some far-off part of the circuit, given the high-level summary. All the rest of the low-level information is “wiped out” by noise in low-level variables “in between” the far-apart components.
+
+In the causal graph of some low-level system, X is separated from Y by a bunch of noisy variables Z. For instance, X might be a resistor, Y might be a capacitor, and Z might be the wires (and air) between them. Noise in Z wipes out most of the low-level info about X, so that only a low-dimensional summary f(X) is relevant to predicting the state of Y.
+Chaos Induces Abstractions explains one major reason why we expect low-level details to be independent (given high-level summaries) for typical physical systems. If I have a bunch of balls bouncing around perfectly elastically in a box, then the total energy, number of balls, and volume of the box are all conserved, but chaos wipes out all other information about the exact positions and velocities of the balls. My “high-level summary” is then the energy, number of balls, and volume of the box; all other low-level information is wiped out by chaos. This is exactly the abstraction behind the ideal gas law. More generally, given any uncertainty in initial conditions—even very small uncertainty—mathematical chaos “amplifies” that uncertainty until we are maximally uncertain about the system state… except for information which is perfectly conserved. In most dynamical systems, some information is conserved, and the rest is wiped out by chaos.
+
+In a system of billiard balls, a small initial error in a ball’s angle is exponentially amplified as the balls travel and bounce off each other. This is chaos.
+Anatomy of a Gear: What makes a good “gear” in a gears-level model? A physical gear is a very high-dimensional object, consisting of huge numbers of atoms rattling around. But for purposes of predicting the behavior of the gearbox, we need only a one-dimensional summary of all that motion: the rotation angle of the gear. More generally, a good “gear” is a subsystem which abstracts well—i.e. a subsystem for which a low-dimensional summary can contain all the information relevant to predicting far-away parts of the system.
+
+If we look at all the atoms in one little chunk of one gear, only the average motion of all the atoms will tell us about the motion of far-away atoms in a neighboring gear.
+Science in a High Dimensional World: Imagine that we are early scientists, investigating the mechanics of a sled sliding down a slope. The number of variables which could conceivably influence the sled’s speed is vast: angle of the hill, weight and shape and material of the sled, blessings or curses laid upon the sled or the hill, the weather, wetness, phase of the moon, latitude and/​or longitude and/​or altitude, astrological motions of stars and planets, etc. Yet in practice, just a relatively-low-dimensional handful of variables suffices—maybe a dozen. A consistent sled-speed can be achieved while controlling only a dozen variables, out of literally billions. And this generalizes: across every domain of science, we find that controlling just a relatively-small handful of variables is sufficient to reliably predict the system’s behavior. Figuring out which variables is, in some sense, the central project of science. This is the natural abstraction hypothesis in action: across the sciences, we find that low-dimensional summaries of high-dimensional systems suffice for broad classes of “far-away” predictions, like the speed of a sled.
+
+The Problem and The Plan
+
+The natural abstraction hypothesis can be split into three sub-claims, two empirical, one mathematical:
+
+Abstractability: for most physical systems, the information relevant “far away” can be represented by a summary much lower-dimensional than the system itself.
+
+Human-Compatibility: These summaries are the abstractions used by humans in day-to-day thought/​language.
+
+Convergence: a wide variety of cognitive architectures learn and use approximately-the-same summaries.
+
+Abstractability and human-compatibility are empirical claims, which ultimately need to be tested in the real world. Convergence is a more mathematical claim, i.e. it will ideally involve proving theorems, though empirical investigation will likely still be needed to figure out exactly which theorems.
+
+These three claims suggest three different kinds of experiment to start off:
+
+Abstractability: does reality abstract well? Corresponding experiment type: run a reasonably-detailed low-level simulation of something realistic; see if info-at-a-distance is low-dimensional.
+
+Human-Compatibility: do these match human abstractions? Corresponding experiment type: run a reasonably-detailed low-level simulation of something realistic; see if info-at-a-distance recovers human-recognizable abstractions.
+
+Convergence: are these abstractions learned/​used by a wide variety of cognitive architectures? Corresponding experiment type: train a predictor/​agent against a simulated environment with known abstractions; look for a learned abstract model.
+
+The first two experiments both require computing information-relevant-at-a-distance in a reasonably-complex simulated environment. The “naive”, brute-force method for this would not be tractable; it would require evaluating high-dimensional integrals over “noise” variables. So the first step will be to find practical algorithms for directly computing abstractions from low-level simulated environments. These don’t need to be fully-general or arbitrarily-precise (at least not initially), but they need to be general enough to apply to a reasonable variety of realistic systems.
+
+Once we have algorithms capable of directly computing the abstractions in a system, training a few cognitive models against that system is an obvious next step. This raises another algorithmic problem: how do we efficiently check whether a cognitive system has learned particular abstractions? Again, this doesn’t need to be fully general or arbitrarily precise. It just needs to be general enough to use as a tool for the next step.
+
+The next step is where things get interesting. Ideally, we want general theorems telling us which cognitive systems will learn which abstractions in which environments. As of right now, I’m not even sure exactly what those theorems should say. (There are some promising directions, like modular variation of goals, but the details are still pretty sparse and it’s not obvious whether these are the right directions.) This is the perfect use-case for a feedback loop between empirical and theoretical work:
+
+Try training various cognitive systems in various environments, see what abstractions they learn.
+
+Build a model which matches the empirical results, then come up with new tests for that model.
+
+Iterate.
+
+Along the way, it should be possible to prove theorems on what abstractions will be learned in at least some cases. Experiments should then probe cases not handled by those theorems, enabling more general models and theorems, eventually leading to a unified theory.
+
+(Of course, in practice this will probably also involve a larger feedback loop, in which lessons learned training models also inform new algorithms for computing abstractions in more-general environments, and for identifying abstractions learned by the models.)
+
+The end result of this process, the holy grail of the project, would be a system which provably learns all learnable abstractions in a fairly general class of environments, and represents those abstractions in a legible way. In other words: it would be a standardized tool for measuring abstractions. Stick it in some environment, and it finds the abstractions in that environment and presents a standard representation of them. Like a thermometer for abstractions.
+
+Then, the ultimate test of the natural abstraction hypothesis would just be a matter of pointing the abstraction-thermometer at the real world, and seeing if it spits out human-recognizable abstract objects/​concepts.
+
+Summary
+
+The natural abstraction hypothesis suggests that most high-level abstract concepts used by humans are “natural”: the physical world contains subsystems for which all the information relevant “far away” can be contained in a (relatively) low-dimensional summary. These subsystems are exactly the high-level “objects” or “categories” or “concepts” we recognize in the world. If true, this hypothesis would dramatically simplify the problem of human-aligned AI. It would imply that a wide range of architectures will reliably learn similar high-level concepts from the physical world, that those high-level concepts are exactly the objects/​categories/​concepts which humans care about (i.e. inputs to human values), and that we can precisely specify those concepts.
+
+The natural abstraction hypothesis is mainly an empirical claim, which needs to be tested in the real world.
+
+My main plan for testing this involves a feedback loop between:
+
+Calculating abstractions in (reasonably-realistic) simulated systems
+
+Training cognitive models on those systems
+
+Empirically identifying patterns in which abstractions are learned by which cognitive models in which environments
+
+Proving theorems about which abstractions are learned by which cognitive models in which environments.
+
+The holy grail of the project would be an “abstraction thermometer”: an algorithm capable of reliably identifying the abstractions in an environment and representing them in a standard format. In other words, a tool for measuring abstractions. This tool could then be used to measure abstractions in the real world, in order to test the natural abstraction hypothesis.
+
+I plan to spend at least the next six months working on this project. Funding for the project has been supplied by the Long-Term Future Fund.
+
+What links here?
+(My un­der­stand­ing of) What Every­one in Tech­ni­cal Align­ment is Do­ing and Why by Thomas Larsen (29 Aug 2022 1:23 UTC; 416 points)
+
+How To Get Into In­de­pen­dent Re­search On Align­ment/​Agency by johnswentworth (19 Nov 2021 0:00 UTC; 366 points)
+
+Shal­low re­view of live agen­das in al­ign­ment & safety by technicalities (27 Nov 2023 11:10 UTC; 352 points)
+
+On how var­i­ous plans miss the hard bits of the al­ign­ment challenge by So8res (12 Jul 2022 2:49 UTC; 327 points)
+
+Why Agent Foun­da­tions? An Overly Ab­stract Explanation by johnswentworth (25 Mar 2022 23:17 UTC; 327 points)
+
+How to pur­sue a ca­reer in tech­ni­cal AI alignment by Charlie Rogers-Smith (EA Forum; 4 Jun 2022 21:36 UTC; 270 points)
+
+Nat­u­ral Ab­strac­tions: Key Claims, The­o­rems, and Critiques by LawrenceC (16 Mar 2023 16:37 UTC; 252 points)
+
+How To Go From In­ter­pretabil­ity To Align­ment: Just Re­tar­get The Search by johnswentworth (10 Aug 2022 16:08 UTC; 217 points)
+
+Shal­low re­view of tech­ni­cal AI safety, 2024 by technicalities (29 Dec 2024 12:01 UTC; 202 points)
+
+What’s Gen­eral-Pur­pose Search, And Why Might We Ex­pect To See It In Trained ML Sys­tems? by johnswentworth (15 Aug 2022 22:48 UTC; 161 points)
+
+On how var­i­ous plans miss the hard bits of the al­ign­ment challenge by So8res (EA Forum; 12 Jul 2022 5:35 UTC; 126 points)
+
+Long-Term Fu­ture Fund: May 2021 grant recommendations by abergal (EA Forum; 27 May 2021 6:44 UTC; 110 points)
+
+A mostly crit­i­cal re­view of in­fra-Bayesianism by David Matolcsi (28 Feb 2023 18:37 UTC; 110 points)
+
+Pro­duc­tive Mis­takes, Not Perfect Answers by adamShimi (7 Apr 2022 16:41 UTC; 101 points)
+
+The Tele­phone The­o­rem: In­for­ma­tion At A Dis­tance Is Me­di­ated By Deter­minis­tic Constraints by johnswentworth (31 Aug 2021 16:50 UTC; 101 points)
+
+Re­search agenda: For­mal­iz­ing ab­strac­tions of computations by Erik Jenner (2 Feb 2023 4:29 UTC; 94 points)
+
+High­lights: Went­worth, Shah, and Mur­phy on “Re­tar­get­ing the Search” by RobertM (14 Sep 2023 2:18 UTC; 88 points)
+
+Test­ing The Nat­u­ral Ab­strac­tion Hy­poth­e­sis: Pro­ject Update by johnswentworth (20 Sep 2021 3:44 UTC; 88 points)
+
+Rob Bensinger's comment on Dis­cus­sion with Eliezer Yud­kowsky on AGI interventions by Rob Bensinger (12 Nov 2021 19:06 UTC; 81 points)
+
+Shal­low re­view of live agen­das in al­ign­ment & safety by technicalities (EA Forum; 27 Nov 2023 11:33 UTC; 76 points)
+
+What Selec­tion The­o­rems Do We Ex­pect/​Want? by johnswentworth (1 Oct 2021 16:03 UTC; 73 points)
+
+How to pur­sue a ca­reer in tech­ni­cal AI alignment by Charlie Rogers-Smith (4 Jun 2022 21:11 UTC; 69 points)
+
+Path de­pen­dence in ML in­duc­tive biases by Vivek Hebbar (10 Sep 2022 1:38 UTC; 68 points)
+
+Vot­ing Re­sults for the 2021 Review by Raemon (1 Feb 2023 8:02 UTC; 66 points)
+
+Align­ment Org Cheat Sheet by Orpheus16 (20 Sep 2022 17:36 UTC; 65 points)
+
+How Do Selec­tion The­o­rems Re­late To In­ter­pretabil­ity? by johnswentworth (9 Jun 2022 19:39 UTC; 60 points)
+
+The Prag­mas­cope Idea by johnswentworth (4 Aug 2022 21:52 UTC; 59 points)
+
+johnswentworth's comment on Nat­u­ral Ab­strac­tions: Key Claims, The­o­rems, and Critiques by LawrenceC (16 Mar 2023 20:35 UTC; 59 points)
+
+The Brain That Builds Itself by Jan (31 May 2022 9:42 UTC; 57 points)
+
+Paradigms of AI al­ign­ment: com­po­nents and enablers by Vika (2 Jun 2022 6:19 UTC; 55 points)
+
+Refram­ing in­ner alignment by davidad (11 Dec 2022 13:53 UTC; 53 points)
+
+Ele­men­tary Condensation by Jan (8 Apr 2026 0:51 UTC; 51 points)
+
+Re­ply to Nate Soares on Dolphins by Zack_M_Davis (10 Jun 2021 4:53 UTC; 49 points)
+
+[Ap­pendix] Nat­u­ral Ab­strac­tions: Key Claims, The­o­rems, and Critiques by LawrenceC (16 Mar 2023 16:38 UTC; 48 points)
+
+In­tro­duc­tion: Gaus­sian Nat­u­ral Latents by Haru (18 Jun 2026 18:41 UTC; 47 points)
+
+A sin­gle prin­ci­ple re­lated to many Align­ment sub­prob­lems? by Q Home (30 Apr 2025 9:49 UTC; 46 points)
+
+The Nat­u­ral Ab­strac­tion Hy­poth­e­sis: Im­pli­ca­tions and Evidence by CallumMcDougall (14 Dec 2021 23:14 UTC; 44 points)
+
+Com­put­ing Nat­u­ral Ab­strac­tions: Lin­ear Approximation by johnswentworth (15 Apr 2021 17:47 UTC; 41 points)
+
+Is In­struc­tGPT Fol­low­ing In­struc­tions in Other Lan­guages Sur­pris­ing? by DragonGod (13 Feb 2023 23:26 UTC; 39 points)
+
+Blood Is Thicker Than Water 🐬 by Zack_M_Davis (28 Sep 2021 3:21 UTC; 39 points)
+
+Con­sider try­ing Vivek Heb­bar’s al­ign­ment exercises by Orpheus16 (24 Oct 2022 19:46 UTC; 38 points)
+
+AISafety.info: What is the “nat­u­ral ab­strac­tions hy­poth­e­sis”? by Algon (5 Oct 2024 12:31 UTC; 38 points)
+
+What Does The Nat­u­ral Ab­strac­tion Frame­work Say About ELK? by johnswentworth (15 Feb 2022 2:27 UTC; 35 points)
+
+An overview of some promis­ing work by ju­nior al­ign­ment researchers by Orpheus16 (26 Dec 2022 17:23 UTC; 34 points)
+
+[Heb­bian Nat­u­ral Ab­strac­tions] Introduction by Samuel Nellessen (21 Nov 2022 20:34 UTC; 34 points)
+
+adamShimi's comment on Dis­cus­sion with Eliezer Yud­kowsky on AGI interventions by Rob Bensinger (12 Nov 2021 15:33 UTC; 28 points)
+
+The econ­omy as an anal­ogy for ad­vanced AI systems by rosehadshar (15 Nov 2022 11:16 UTC; 28 points)
+
+JessRiedel's comment on Nat­u­ral Ab­strac­tions: Key Claims, The­o­rems, and Critiques by LawrenceC (29 Feb 2024 15:01 UTC; 27 points)
+
+[AN #148]: An­a­lyz­ing gen­er­al­iza­tion across more axes than just ac­cu­racy or loss by Rohin Shah (28 Apr 2021 18:30 UTC; 24 points)
+
+Why the Prob­lem of the Cri­te­rion Matters by Gordon Seidoh Worley (30 Oct 2021 20:44 UTC; 24 points)
+
+[Si­mu­la­tors sem­i­nar se­quence] #2 Semiotic physics—revamped by Jan (27 Feb 2023 0:25 UTC; 22 points)
+
+Neu­ral net /​ de­ci­sion tree hy­brids: a po­ten­tial path to­ward bridg­ing the in­ter­pretabil­ity gap by Nathan Helm-Burger (23 Sep 2021 0:38 UTC; 21 points)
+
+aog's comment on Safety Im­pli­ca­tions of LeCun’s path to ma­chine intelligence by Ivan Vendrov (16 Jul 2022 6:16 UTC; 19 points)
+
+AXRP Epi­sode 11 - At­tain­able Utility and Power with Alex Turner by DanielFilan (25 Sep 2021 21:10 UTC; 19 points)
+
+Con­sider try­ing Vivek Heb­bar’s al­ign­ment exercises by [deleted] (EA Forum; 24 Oct 2022 19:46 UTC; 16 points)
+
+Cat­e­gories of Ar­gu­ing Style : Why be­ing good among ra­tio­nal­ists isn’t enough to ar­gue with everyone by Camille B. (7 May 2023 17:45 UTC; 16 points)
+
+[deleted]'s comment on The Field of AI Align­ment: A Post­mortem, and What To Do About It by johnswentworth (27 Dec 2024 9:21 UTC; 16 points)
+
+adamShimi's comment on Look­ing Deeper at Deconfusion by adamShimi (14 Jun 2021 7:00 UTC; 15 points)
+
+Iden­ti­fi­ca­tion of Nat­u­ral Modularity by Stephen Fowler (25 Jun 2022 15:05 UTC; 15 points)
+
+[Heb­bian Nat­u­ral Ab­strac­tions] Math­e­mat­i­cal Foundations by Samuel Nellessen (25 Dec 2022 20:58 UTC; 15 points)
+
+Zack_M_Davis's comment on The date of AI Takeover is not the day the AI takes over by Daniel Kokotajlo (10 Jan 2022 7:04 UTC; 13 points)
+
+Bounty: De­tect­ing Steganog­ra­phy via On­tol­ogy Translation by Elliot Callender (27 Jan 2026 22:01 UTC; 12 points)
+
+DragonGod's comment on Large lan­guage mod­els can provide “nor­ma­tive as­sump­tions” for learn­ing hu­man preferences by Stuart_Armstrong (2 Jan 2023 19:54 UTC; 11 points)
+
+johnswentworth's comment on Po­ten­tial Bot­tle­necks to Tak­ing Over The World by johnswentworth (8 Jul 2021 1:51 UTC; 11 points)
+
+adamShimi's comment on What is the most effec­tive way to donate to AGI XRisk miti­ga­tion? by JoshuaFox (31 May 2021 11:20 UTC; 11 points)
+
+A mesa-op­ti­miza­tion per­spec­tive on AI valence and moral patienthood by jacobpfau (EA Forum; 9 Sep 2021 22:23 UTC; 10 points)
+
+An overview of some promis­ing work by ju­nior al­ign­ment researchers by [deleted] (EA Forum; 26 Dec 2022 17:23 UTC; 10 points)
+
+[Linkpost] How To Get Into In­de­pen­dent Re­search On Align­ment/​Agency by Jackson Wagner (EA Forum; 14 Feb 2022 21:40 UTC; 10 points)
+
+Align­ment Tar­gets and The Nat­u­ral Ab­strac­tion Hypothesis by Stephen Fowler (8 Mar 2023 11:45 UTC; 10 points)
+
+Coun­ter­ing ar­gu­ments against work­ing on AI safety by Rauno Arike (20 Jul 2022 18:23 UTC; 7 points)
+
+johnswentworth's comment on Selec­tion The­o­rems: A Pro­gram For Un­der­stand­ing Agents by johnswentworth (10 Oct 2021 16:56 UTC; 5 points)
+
+johnswentworth's comment on Com­put­ing Nat­u­ral Ab­strac­tions: Lin­ear Approximation by johnswentworth (16 Apr 2021 15:05 UTC; 4 points)
+
+the gears to ascension's comment on The AI Con­trol Prob­lem in a wider in­tel­lec­tual context by philosophybear (13 Jan 2023 1:28 UTC; 3 points)
+
+harsimony's comment on My Plan to Build Aligned Superintelligence by apollonianblues (21 Aug 2022 18:03 UTC; 3 points)
+
+adamShimi's comment on Fre­quent ar­gu­ments about alignment by John Schulman (28 Jun 2021 9:41 UTC; 2 points)
+
+Alfred Harwood's comment on Ab­strac­tions are not Natural by Alfred Harwood (4 Nov 2024 16:53 UTC; 2 points)
+
+DragonGod's comment on Want to pre­dict/​ex­plain/​con­trol the out­put of GPT-4? Then learn about the world, not about trans­form­ers. by Cleo Nardo (16 Mar 2023 10:22 UTC; 2 points)
+
+Zack_M_Davis's comment on Im­pli­ca­tions of au­to­mated on­tol­ogy identification by Alex Flint (18 Feb 2022 5:43 UTC; 2 points)
+
+Martin Randall's comment on Ree­val­u­at­ing “AGI Ruin: A List of Lethal­ities” in 2026 by Dean Valentine (25 Apr 2026 15:13 UTC; 2 points)
+
+johnswentworth6 Apr 2021 21:24 UTC
+LW: 170 AF: 61
+41 comments6 min readLW link1 review
+Natural AbstractionWorld Modeling
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Stuart_Armstrong 15 Jan 2023 20:45 UTC
+LW: 4 AF: 4
+
+0
+AF
+
+A decent introduction to the natural abstraction hypothesis, and how testing it might be attempted. A very worthy project, but it isn’t that easy to follow for beginners, nor does it provide a good understanding of how the testing might work in detail. What might consist a success, what might consist a failure of this testing? A decent introduction, but only an introduction, and it should have been part of a sequence or a longer post.
+
+Raemon 16 Jan 2023 7:49 UTC
+LW: 4 AF: 3
+
+0
+AFParent
+
+I’m curious if you’d looked at this followup (also nominated for review this year) http://​​lesswrong.com/​​posts/​​dNzhdiFE398KcGDc9/​​testing-the-natural-abstraction-hypothesis-project-update
+
+Stuart_Armstrong 16 Jan 2023 15:41 UTC
+LW: 4 AF: 3
+
+0
+AFParent
+
+I have looked at it, but ignored it when commenting on this post, which should stand on its own (or as part of a sequence).
+
+Raemon 16 Jan 2023 18:50 UTC
+LW: 4 AF: 3
+
+0
+AFParent
+
+Fair. Fwiw I’d be interested in your review of the followup as a standalone.
+
+Stuart_Armstrong 23 Jan 2023 21:23 UTC
+LW: 2 AF: 2
+
+0
+AFParent
+
+Here’s the review, though it’s not very detailed (the post explains why):
+
+https://​​www.lesswrong.com/​​posts/​​dNzhdiFE398KcGDc9/​​testing-the-natural-abstraction-hypothesis-project-update?commentId=spMRg2NhPogHLgPa8
+
+Raemon 23 Jan 2023 21:24 UTC
+LW: 2 AF: 1
+
+0
+AFParent
+
+Yup, makes sense. Thank you!
+
+John_Maxwell 9 Apr 2021 5:40 UTC
+LW: 40 AF: 14
+
+0
+AF
+
+I’m glad you are thinking about this. I am very optimistic about AI alignment research along these lines. However, I’m inclined to think that the strong form of the natural abstraction hypothesis is pretty much false. Different languages and different cultures, and even different academic fields within a single culture (or different researchers within a single academic field), come up with different abstractions. See for example lsusr’s posts on the color blue or the flexibility of abstract concepts. (The Whorf hypothesis might also be worth looking into.)
+
+This is despite humans having pretty much identical cognitive architectures (assuming that we can create a de novo AGI with a cognitive architecture as similar to a human brain as human brains are to each other seems unrealistic). Perhaps you could argue that some human-generated abstractions are “natural” and others aren’t, but that leaves the problem of ensuring that the human operating our AI is making use of the correct, “natural” abstractions in their own thinking. (Some ancient cultures lacked a concept of the number 0. From our perspective, and that of a superintelligent AGI, 0 is a ‘natural’ abstraction. But there could be ways in which the superintelligent AGI invents ‘natural’ abstraction that we haven’t yet invented, such that we are living in a “pre-0 culture” with respect to this abstraction, and this would cause an ontological mismatch between us and our AGI.)
+
+But I’m still optimistic about the overall research direction. One reason is if your dataset contains human-generated artifacts, e.g. pictures with captions written in English, then many unsupervised learning methods will naturally be incentivized to learn English-language abstractions to minimize reconstruction error. (For example, if we’re using self-supervised learning, our system will be incentivized to correctly predict the English-language caption beneath an image, which essentially requires the system to understand the picture in terms of English-language abstractions. This incentive would also arise for the more structured supervised learning task of image captioning, but the results might not be as robust.)
+
+This is the natural abstraction hypothesis in action: across the sciences, we find that low-dimensional summaries of high-dimensional systems suffice for broad classes of “far-away” predictions, like the speed of a sled.
+
+Social sciences are a notable exception here. And I think social sciences (or even humanities) may be the best model for alignment—‘human values’ and ‘corrigibility’ seem related to the subject matter of these fields.
+
+Anyway, I had a few other comments on the rest of what you wrote, but I realized what they all boiled down to was me having a different set of abstractions in this domain than the ones you presented. So as an object lesson in how people can have different abstractions (heh), I’ll describe my abstractions (as they relate to the topic of abstractions) and then explain how they relate to some of the things you wrote.
+
+I’m thinking in terms of minimizing some sort of loss function that looks vaguely like
+
+reconstruction_error + other_stuff
+
+where reconstruction_error is a measure of how well we’re able to recreate observed data after running it through our abstractions, and other_stuff is the part that is supposed to induce our representations to be “useful” rather than just “predictive”. You keep talking about conditional independence as the be-all-end-all of abstraction, but from my perspective, it is an interesting (potentially novel!) option for the other_stuff term in the loss function. The same way dropout was once an interesting and novel other_stuff which helped supervised learning generalize better (making neural nets “useful” rather than just “predictive” on their training set).
+
+The most conventional choice for other_stuff would probably be some measure of the complexity of the abstraction. E.g. a clustering algorithm’s complexity can be controlled through the number of centroids, or an autoencoder’s complexity can be controlled through the number of latent dimensions. Marcus Hutter seems to be as enamored with compression as you are with conditional independence, to the point where he created the Hutter Prize, which offers half a million dollars to the person who can best compress a 1GB file of Wikipedia text.
+
+Another option for other_stuff would be denoising, as we discussed here.
+
+You speak of an experiment to “run a reasonably-detailed low-level simulation of something realistic; see if info-at-a-distance is low-dimensional”. My guess is if the other_stuff in your loss function consists only of conditional independence things, your representation won’t be particularly low-dimensional—your representation will see no reason to avoid the use of 100 practically-redundant dimensions when one would do the job just as well.
+
+Similarly, you speak of “a system which provably learns all learnable abstractions”, but I’m not exactly sure what this would look like, seeing as how for pretty much any abstraction, I expect you can add a bit of junk code that marginally decreases the reconstruction error by overfitting some aspect of your training set. Or even junk code that never gets run /​ other functional equivalences.
+
+The right question in my mind is how much info at a distance you can get for how many additional dimensions. There will probably be some number of dimensions N such that giving your system more than N dimensions to play with for its representation will bring diminishing returns. However, that doesn’t mean the returns will go to 0, e.g. even after you have enough dimensions to implement the ideal gas law, you can probably gain a bit more predictive power by checking for wind currents in your box. See the elbow method (though, the existence of elbows isn’t guaranteed a priori).
+
+(I also think that an algorithm to “provably learn all learnable abstractions”, if practical, is a hop and a skip away from a superintelligent AGI. Much of the work of science is learning the correct abstractions from data, and this algorithm sounds a lot like an uberscientist.)
+
+Anyway, in terms of investigating convergence, I’d encourage you to think about the inductive biases induced by both your loss function and also your learning algorithm. (We already know that learning algorithms can have different inductive biases than humans, e.g. it seems that the input-output surfaces for deep neural nets aren’t as biased towards smoothness as human perceptual systems, and this allows for adversarial perturbations.) You might end up proving a theorem which has required preconditions related to the loss function and/​or the algorithm’s inductive bias.
+
+Another riff on this bit:
+
+This is the natural abstraction hypothesis in action: across the sciences, we find that low-dimensional summaries of high-dimensional systems suffice for broad classes of “far-away” predictions, like the speed of a sled.
+
+Maybe we could differentiate between the ‘useful abstraction hypothesis’, and the stronger ‘unique abstraction hypothesis’. This statement supports the ‘useful abstraction hypothesis’, but the ‘unique abstraction hypothesis’ is the one where alignment becomes way easier because we and our AGI are using the same abstractions. (Even though I’m only a believer in the useful abstraction hypothesis, I’m still optimistic because I tend to think we can have our AGI cast a net wide enough to capture enough useful abstractions that ours are in their somewhere, and this number will be manageable enough to find the right abstractions from within that net—or something vaguely like that.) In terms of science, the ‘unique abstraction hypothesis’ doesn’t just say scientific theories can be useful, it also says there is only one ‘natural’ scientific theory for any given phenomenon, and the existence of competing scientific schools sorta seems to disprove this.
+
+Anyway, the aspect of your project that I’m most optimistic about is this one:
+
+This raises another algorithmic problem: how do we efficiently check whether a cognitive system has learned particular abstractions? Again, this doesn’t need to be fully general or arbitrarily precise. It just needs to be general enough to use as a tool for the next step.
+
+Since I don’t believe in the “unique abstraction hypothesis”, checking whether a given abstraction corresponds to a human one seems important to me. The problem seems tractable, and a method that’s abstract enough to work across a variety of different learning algorithms/​architectures (including stuff that might get invented in the future) could be really useful.
+
+paulom 23 May 2021 4:19 UTC
+18 points
+
+0
+
+I think this line of research is interesting. I really like the core concept of abstraction as summarizing the information that’s relevant ‘far away’.
+
+A few thoughts:
+
+- For a common human abstraction to be mostly recoverable as a ‘natural’ abstraction, it must depend mostly on the thing it is trying to abstract, and not e.g. evolutionary or cultural history, or biological implementation. This seems more plausible for ‘trees’ than it does for ‘justice’. There may be natural game-theoretic abstractions related to justice, but I’d expect human concepts and behaviors around justice to depend also in important ways on e.g. our innate social instincts. Innate instincts and drives seem likely to a) be complex (high-information) and b) depend on our whole evolutionary history, which is itself presumably path-dependent and chaotic, so I wouldn’t expect this to be just a choice among a small number of natural alternatives.
+
+An (imperfect) way of reframing this project is as an attempt to learn human concepts mostly from the things that are causally upstream of their existance, minimizing the need for things that are downstream (e.g. human feedback), and making the assumption that the only important/​high-information thing upstream is the (natural concept of the) human concept’s referent.
+
+- If an otherwise unnatural abstraction is used by sufficiently influential agents, this can cause the abstraction to become ‘natural’, in the sense of being important to predict things ‘far away’.
+
+- What happens when a low-dimensional summary is still too high dimensional for the human /​ agent to reason about? I conjecture that values might be most important here. An analogy: optimal lossless compression doesn’t depend on your utility function, but optimal lossy compression does. Concepts that are operating in this regime may be less unique. (For that matter, from a more continuous perspective: given `n` bits to summarize a system, how much of the relevance ‘far way’ can we capture as a function of `n`? What is the shape of this curve—is it self similar, or discrete regimes, or? If there are indeed different discrete regimes, what happens in each of them?)
+
+- I think there is a connection to instrumental convergence, roughly along the lines of ‘most utility functions care about the same aspects of most systems’.
+
+Overall, I’m more optimistic about approaches that rely on some human concepts being natural, vs. all of them. Intuitively, I do feel like there should be some amount of naturalness that can help with the ‘put a strawberry on a plate’ problem (and maybe even the ‘without wrecking anything else’ part).
+
+johnswentworth 23 May 2021 16:14 UTC
+7 points
+
+0
+Parent
+
+Great comment, you’re hitting a bunch of interesting points.
+
+For a common human abstraction to be mostly recoverable as a ‘natural’ abstraction, it must depend mostly on the thing it is trying to abstract, and not e.g. evolutionary or cultural history, or biological implementation. …
+
+A few notes on this.
+
+First, what natural abstractions we use will clearly depend at least somewhat on the specific needs of humans. A prehistoric tribe of humans living on an island near the equator will probably never encounter snow, and never use that natural abstraction.
+
+My claim, for these cases, is that the space of natural abstractions is (approximately) discrete. Discreteness says that there is no natural abstraction “arbitrarily close” to another natural abstraction—so, if we can “point to” a particular natural abstraction in a close-enough way, then there’s no ambiguity about which abstraction we’re pointing to. This does not mean that all minds use all abstractions. But it means that if a mind does use a natural abstraction, then there’s no ambiguity about which abstraction they’re using.
+
+One concrete consequence of this: one human can figure out what another human means by a particular word without an exponentially massive number of examples. The only way that’s possible is if the space of potential-word-meanings is much smaller than e.g. the space of configurations of a mole of atoms. Natural abstractions give a natural way for that to work.
+
+Of course, in order for that to work, both humans must already be using the relevant abstraction—e.g. if one of them has no concept of snow, then it won’t work for the word “snow”. But the claim is that we won’t have a situation where two people have intuitive notions of snow which are arbitrarily close, yet different. (People could still give arbitrarily-close-but-different verbal definitions of snow, but definitions are not how our brain actually represents word-meanings at the intuitive level. People could also use more-or-less fine-grained abstractions, like eskimos having 17 notions of snow, but those finer-grained abstractions will still be unambiguous.)
+
+If an otherwise unnatural abstraction is used by sufficiently influential agents, this can cause the abstraction to become ‘natural’, in the sense of being important to predict things ‘far away’.
+
+Yes! This can also happen even without agents: if the earth were destroyed and all that remained were one tree, much of the tree’s genetic sequence would not be predictive of anything far away, and therefore not a natural abstraction. But so long as there are lots of genetically-similar trees, “tree-like DNA sequence” could be a natural abstraction.
+
+This is also an example of a summary too large for the human brain. Key thing to notice: we can recognize that a low-dimensional summary exists, talk about it as a concept, and even reason about its properties (e.g. what could we predict from that tree-DNA-sequence-distribution, or how could we estimate the distribution), without actually computing the summary. We get an unambiguous “pointer”, even if we don’t actually “follow the pointer”.
+
+Another consequence of this idea that we don’t need to represent the abstraction explicitly: we can learn things about abstractions. For instance, at some point people looked at wood under a microscope and learned that it’s made of cells. They did not respond to this by saying “ah, this is not a tree because trees are not made of cells; I will call it a cell-tree and infer that most of the things I thought were trees were in fact cell-trees”.
+
+I think there is a connection to instrumental convergence, roughly along the lines of ‘most utility functions care about the same aspects of most systems’.
+
+Exactly right. The intuitive idea is: natural abstractions are exactly the information which is relevant to many different things in many different places. Therefore, that’s exactly the information which is likely to be relevant to whatever any particular agent cares about.
+
+Figuring out the classes of systems which learn roughly-the-same natural abstractions is one leg of this project.
+
+What links here?
+Nat­u­ral Ab­strac­tion: Con­ver­gent Prefer­ences Over In­for­ma­tion Structures by paulom (14 Oct 2023 18:34 UTC; 28 points)
+
+Kaj_Sotala 7 Apr 2021 17:17 UTC
+LW: 15 AF: 8
+
+0
+AF
+
+Oh cool! I put some effort into pursuing a very similar idea earlier:
+
+I’ll start this post by discussing a closely related hypothesis: that given a specific learning or reasoning task and a certain kind of data, there is an optimal way to organize the data that will naturally emerge. If this were the case, then AI and human reasoning might naturally tend to learn the same kinds of concepts, even if they were using very different mechanisms.
+
+but wasn’t sure of how exactly to test it or work on it so I didn’t get very far.
+
+One idea that I had for testing it was rather different; make use of brain imaging research that seems able to map shared concepts between humans, and see whether that methodology could be used to also compare human-AI concepts:
+
+A particularly fascinating experiment of this type is that of Shinkareva et al. (2011), who showed their test subjects both the written words for different tools and dwellings, and, separately, line-drawing images of the same tools and dwellings. A machine-learning classifier was both trained on image-evoked activity and made to predict word-evoked activity and vice versa, and achieved a high accuracy on category classification for both tasks. Even more interestingly, the representations seemed to be similar between subjects. Training the classifier on the word representations of all but one participant, and then having it classify the image representation of the left-out participant, also achieved a reliable (p<0.05) category classification for 8 out of 12 participants. This suggests a relatively similar concept space between humans of a similar background.
+
+We can now hypothesize some ways of testing the similarity of the AI’s concept space with that of humans. Possibly the most interesting one might be to develop a translation between a human’s and an AI’s internal representations of concepts. Take a human’s neural activation when they’re thinking of some concept, and then take the AI’s internal activation when it is thinking of the same concept, and plot them in a shared space similar to the English-Mandarin translation. To what extent do the two concept geometries have similar shapes, allowing one to take a human’s neural activation of the word “cat” to find the AI’s internal representation of the word “cat”? To the extent that this is possible, one could probably establish that the two share highly similar concept systems.
+
+One could also try to more explicitly optimize for such a similarity. For instance, one could train the AI to make predictions of different concepts, with the additional constraint that its internal representation must be such that a machine-learning classifier trained on a human’s neural representations will correctly identify concept-clusters within the AI. This might force internal similarities on the representation beyond the ones that would already be formed from similarities in the data.
+
+The farthest that I got with my general approach was “Defining Human Values for Value Learners”. It felt (and still feels) to me like concepts are quite task-specific: two people in the same environment will develop very different concepts depending on the job that they need to perform… or even depending on the tools that they have available. The spatial concepts of sailors practicing traditional Polynesian navigation are sufficiently different from those of modern sailors that the “traditionalists” have extreme difficulty understanding what the kinds of birds-eye-view maps we’re used to are even representing—and vice versa; Western anthropologists had considerable difficulties figuring out what exactly it was that the traditional navigation methods were even talking about.
+
+(E.g. the traditional way of navigating from one island to another involves imagining a third “reference” island and tracking its location relative to the stars as the journey proceeds. Some anthropologists thought that this third island was meant as an “emergency island” to escape to in case of unforeseen trouble, an interpretation challenged by the fact that the reference island may sometimes be completely imagined, so obviously not suitable as a backup port. Chapter 2 of Hutchins 1995 has a detailed discussion of the way that different tools for performing navigation affect one’s conceptual representations, including the difficulties both the anthropologists and the traditional navigators had in trying to understand each other due to having incompatible concepts.)
+
+Another example are legal concepts; e.g. American law traditionally held that a landowner did not only control his land but also everything above it, to “an indefinite extent, upwards”. Upon the invention of this airplane, this raised the question: could landowners forbid airplanes from flying over their land, or was the ownership of the land limited to some specific height, above which the landowners had no control?
+
+Eventually, the law was altered so that landowners couldn’t forbid airplanes from flying over their land. Intuitively, one might think that this decision was made because the redefined concept did not substantially weaken the position of landowners, while allowing for entirely new possibilities for travel. In that case, we can think that our concept for landownership existed for the purpose of some vaguely-defined task (enabling the things that are commonly associated with owning land); when technology developed in a way that the existing concept started interfering with another task we value (fast travel), the concept came to be redefined so as to enable both tasks most efficiently.
+
+This seemed to suggest an interplay between concepts and values; our values are to some extent defined in terms of our concepts, but our values and the tools that we have available for furthering our values also affect that how we define our concepts. This line of thought led me to think that that interaction must be rooted in what was evolutionarily beneficial:
+
+… evolution selects for agents which best maximize their fitness, while agents cannot directly optimize for their own fitness as they are unaware of it. Agents can however have a reward function that rewards behaviors which increase the fitness of the agents. The optimal reward function is one which maximizes (in expectation) the fitness of any agents having it. Holding the intelligence of the agents constant, the closer an agent’s reward function is to the optimal reward function, the higher their fitness will be. Evolution should thus be expected to select for reward functions that are closest to the optimal reward function. In other words, organisms should be expected to receive rewards for carrying out tasks which have been evolutionarily adaptive in the past. [...]
+
+We should expect an evolutionarily successful organism to develop concepts that abstract over situations that are similar with regards to receiving a reward from the optimal reward function. Suppose that a certain action in state s1 gives the organism a reward, and that there are also states s2–s5 in which taking some specific action causes the organism to end up in s1. Then we should expect the organism to develop a common concept for being in the states s2–s5, and we should expect that concept to be “more similar” to the concept of being in state s1 than to the concept of being in some state that was many actions away.
+
+In other words, we have some set of innate values that our brain is trying to optimize for; if concepts are task-specific, then this suggests that the kinds of concepts that will be natural to us are those which are beneficial for achieving our innate values given our current (social, physical and technological) environment. E.g. for a child, the concepts of “a child” and “an adult” will seem very natural, because there are quite a few things that an adult can do for furthering or hindering the child’s goals that fellow children can’t do. (And a specific subset of all adults named “mom and dad” is typically even more relevant for a particular child than any other adults are, making this an even more natural concept.)
+
+That in turn seems to suggest that in order to see what concepts will be natural for humans, we need to look at fields such as psychology and neuroscience in order to figure out what our innate values are and how the interplay of innate and acquired values develops over time. I’ve had some hope that some of my later work on the structure and functioning of the mind would be relevant for that purpose.
+
+johnswentworth 9 Apr 2021 15:57 UTC
+LW: 10 AF: 4
+
+0
+AFParent
+
+On the role of values: values clearly do play some role in determining which abstractions we use. An alien who observes Earth but does not care about anything on Earth’s surface will likely not have a concept of trees, any more than an alien which has not observed Earth at all. Indifference has a similar effect to lack of data.
+
+However, I expect that the space of abstractions is (approximately) discrete. A mind may use the tree-concept, or not use the tree-concept, but there is no natural abstraction arbitrarily-close-to-tree-but-not-the-same-as-tree. There is no continuum of tree-like abstractions.
+
+So, under this model, values play a role in determining which abstractions we end up choosing, from the discrete set of available abstractions. But they do not play any role in determining the set of abstractions available. For AI/​alignment purposes, this is all we need: as long as the set of natural abstractions is discrete and value-independent, and humans concepts are drawn from that set, we can precisely define human concepts without a detailed model of human values.
+
+Also, a mostly-unrelated note on the airplane example: when we’re trying to “define” a concept by drawing a bounding box in some space (in this case, a literal bounding box in physical space), it is almost always the case that the bounding box will not actually correspond to the natural abstraction. This is basically the same idea as the cluster structure of thingspace and rubes vs bleggs. (Indeed, Bayesian clustering is directly interpretable as abstraction discovery: the cluster-statistics are the abstract summaries, and they induce conditional independence between the points in each cluster.) So I would interpret the airplanes exampe (and most similar examples in the legal system) not as a change in a natural concept, but rather as humans being bad at formally defining their natural concepts, and needing to update their definitions as new situations crop up. The definitions are not the natural concepts; they’re proxies.
+
+Thomas Kwa 12 Apr 2022 16:32 UTC
+3 points
+
+0
+Parent
+
+However, I expect that the space of abstractions is (approximately) discrete. A mind may use the tree-concept, or not use the tree-concept, but there is no natural abstraction arbitrarily-close-to-tree-but-not-the-same-as-tree. There is no continuum of tree-like abstractions.
+
+This doesn’t seem likely to me. Language is optimized for communicating ideas, but let’s take a simpler example than language: transmitting a 256x256 image of a dog or something, with a palette of 100 colors, and minimizing L2 error. I think that
+
+The palette will be slightly different when minimizing L2 error in RGB space rather than HSL space
+
+The palette will be slightly different when using a suboptimal algorithm (e.g. greedily choosing colors)
+
+The palette will be slightly different when the image is of a slightly different dog
+
+The palette will be slightly different when the image is of the same dog from a different angle
+
+By analogy, shouldn’t concepts vary continuously with small changes in the system’s values, cognitive algorithms, training environment, and perceptual channels?
+
+What links here?
+Nat­u­ral Ab­strac­tions: Key Claims, The­o­rems, and Critiques by LawrenceC (16 Mar 2023 16:37 UTC; 252 points)
+
+johnswentworth 12 Apr 2022 17:36 UTC
+6 points
+
+0
+Parent
+
+The key there is “slightly different”.
+
+Another analogy: consider this clustering problem.
+
+Different clustering algorithms will indeed find slightly different parameterizations of the clusters, slightly different cluster membership probabilities, etc. But those differences will be slight differences. We still expect different algorithms to cluster things in one of a few discrete ways—e.g. identifying the six main clusters, or only two (top and bottom, projected onto y-axis), or three (left, middle, right, projected onto x-axis), maybe just finding one big cluster if it’s a pretty shitty algorithm, etc. We would not expect to see an entire continuum of different clusters found, where the continuum ranges from “all six separate” to “one big cluster”; we would expect a discrete difference between those two clusterings.
+
+Ben Pace 24 May 2021 2:39 UTC
+LW: 9 AF: 5
+
+0
+AF
+
+Curated. This is a pretty compelling research line and seems to me like it has the potential to help us a great deal in understanding how to interface and understand and align machine intelligence systems. It’s also the compilation of a bunch of good writing+work from you that I’d like to celebrate, and it’s something of a mission statement for the ongoing work.
+
+I generally love all the images and like the way it adds a bunch of prior ideas together.
+
+TurnTrout 8 Apr 2021 16:07 UTC
+LW: 8 AF: 7
+
+0
+AF
+
+I’m really excited about this project. I think that in general, there are many interesting convergence-related phenomena of cognition and rational action which seem wholly underexplored (see also instrumental convergence, convergent evolution, universality of features in the Circuits agenda (see also adversarial transferability), etc...).
+
+My one note of unease is that an abstraction thermometer seems highly dual-use; if successful, this project could accelerate AI timelines. But that doesn’t mean it isn’t worth doing.
+
+johnswentworth 8 Apr 2021 16:48 UTC
+LW: 7 AF: 6
+
+0
+AFParent
+
+Re: dual use, I do have some thoughts on exactly what sort of capabilities would potentially come out of this.
+
+The really interesting possibility is that we end up able to precisely specify high-level human concepts—a real-life language of the birds. The specifications would correctly capture what-we-actually-mean, so they wouldn’t be prone to goodhart. That would mean, for instance, being able to formally specify “strawberry on a plate” in non-goodhartable way, so an AI optimizing for a strawberry on a plate would actually produce a strawberry on a plate. Of course, that does not mean that an AI optimizing for that specification would be safe—it would actually produce a strawberry on a plate, but it would still be perfectly happy to take over the world and knock over various vases in the process.
+
+Of course just generally improving the performance of black-box ML is another possibility, but I don’t think this sort of research is likely to induce a step-change in that department; it would just be another incremental improvement. However, if alignment is a bottleneck to extracting economic value from black-box ML systems, then this is the sort of research which would potentially relax that bottleneck without actually solving the full alignment problem. In other words, it would potentially make it easier to produce economically-useful ML systems in the short term, using techniques which lead to AGI disasters in the long term.
+
+TekhneMakre 10 Apr 2021 6:37 UTC
+3 points
+
+0
+Parent
+
+The specifications would correctly capture what-we-actually-mean, so they wouldn’t be prone to goodhart
+
+I think there’s an ambiguity in “concept” here, that’s important to clarify re/​ this hope. Humans use concepts in two ways:
+
+1. as abstractions in themselves, like the idea of an ideal spring which contains its behavior within the mental object, and
+
+2. as pointers /​ promissory notes towards the real objects, like “tree”.
+
+Seems likely that any agent that has to attend to trees, will form the ~unique concept of “tree”, in the sense of a cluster of things, and minimal sets of dimensions needed to specify the relevant behavior (height, hardness of wood, thickness, whatever). Some of this is like use (1): you can simulate some of the behavior of trees (e.g. how they’ll behave when you try to cut them down and use them to build a cabin). Some of this is like use (2): if you want to know how to grow trees better, you can navigate to instances of real trees, study them to gain further relevant abstractiosn, and then use those new abstractions (nutrient intake, etc.) to grow trees better.
+
+So what do we mean by “strawberry”, such that it’s not goodhartable? We might mean “a thing that is relevantly naturally abstracted in the same way as a strawberry is relevantly naturally abstracted”. This seems less goodhartable if we use meaning (2), but that’s sort of cheating by pointing to “what we’d think of these strawberrys upon much more reflection in many more contexts of relevance”. If we use meaning (1), that sems eminently goodhartable.
+
+Jeremy Gillen 14 Oct 2022 16:55 UTC
+7 points
+
+0
+
+I haven’t read every natural abstraction post yet, but I’m wondering whether this is a useful frame:
+
+The relevant inductive bias for algorithms that learn natural abstractions might be to minimize expected working memory use (simultaneously with model complexity). This means the model will create labels for concepts that appear more frequently in the data distribution, with the optimal label length smaller for more commonly useful concepts.
+
+In a prior over computable hypotheses, the hypotheses should be ordered by K-complexity(h) + AverageMemoryUsageOverRuntime(h).
+
+I think this gives us the properties we want:
+
+The hypothesis doesn’t compute details when they are irrelevant to its predictions.
+
+The most memory efficient way to simulate the output of a gearbox uses some representation equivalent to the natural summary statistics. But if the system has to predict the atomic detail of a gear, it will do the low level simulation.
+
+There exists a simple function from model-state to any natural concept.
+
+Common abstract concepts have a short description length, and need to be used by the (low K-complexity) hypothesis program.
+
+Most real world models approximate this prior, by having some kind of memory bottleneck. The more closely an algorithm approximates this prior, the more “natural” the set of concepts it learns.
+
+johnswentworth 21 Nov 2022 22:39 UTC
+6 points
+
+0
+Parent
+
+On my current understanding, this is true but more general; the natural abstraction hypothesis makes narrower predictions than that.
+
+adamShimi 7 Apr 2021 21:39 UTC
+LW: 6 AF: 5
+
+0
+AF
+
+This project looks great! I especially like the focus on a more experimental kind of research, while still focused and informed on the specific concepts you want to investigate.
+
+If you need some feedback on this work, don’t hesitate to send me a message. ;)
+
+Leon Lang 20 Jan 2023 1:52 UTC
+5 points
+
+0
+
+Summary
+
+The natural abstractions hypothesis makes three claims:
+
+Abstractability: to make predictions in our world, it’s enough to know very low-dimensional summaries of systems, i.e., their abstractions (empirical claim)
+
+Human-compatibility: Humans themselves use these abstractions in their thinking (empirical claim)
+
+Convergence/​naturality: most cognitive systems use these abstractions to make predictions (mathematical+empirical claim)
+
+John wants to test this hypothesis by:
+
+Running simulations of systems and showing that low-information summaries predict how they evolve
+
+Checking whether these low-information summaries agree with how humans reason about the system
+
+Training predictors/​agents on the system and observing whether they use these low-dimensional summaries. Also, try to prove theorems about which systems will use which abstractions in which environments.
+
+The Holy Grail: having a machine that provably detects the low-dimensional abstractions useful for making predictions in almost any system. Then, use it in the real world and observe whether the concepts agree with human real-world concepts. John says this would prove the NAH
+
+Further Thoughts
+
+To me, it seems like conceptual/​theoretical progress is at least as much needed as empirical progress since we still don’t quite conceptually understand what it means to “make predictions about a system”:
+
+Clearly, predicting all the low-level details is not possible with abstract summaries alone.
+
+Thus, the only thing one can ever hope to predict with abstract summaries are… other abstract summaries.
+
+However, this seems to create a chicken-egg problem: we already need to know the relevant abstractions in order to assess whether the abstractions are useful for predicting the values of those. It’s not enough to find “any low-dimensional piece of information” that is good for predicting… yeah, for predicting what?
+
+The problem of science that John discusses has a nice interpretation for alignment research:
+
+Probably there is only a small number of variables to tweak in exactly the right way when building advanced AI, and this will be enough — for a superintelligent being, at least — to correctly predict that everything will remain aligned. Let’s find those variables.
+
+This reminds me of Eliezer’s claim that probably, the alignment solution fits into one very simple “book from the future” that contains all the right ideas, similar to how our world now contains the simple idea of a ReLU that wasn’t accessible 20 years ago.
+
+I think if we had this abstraction-thermometer, then we wouldn’t even need “convergence” anymore: simply use the thermometer itself as part of the AGI by pointing the AGI to the revealed human-value concept. Thus, I think I’m fine with reducing the NAH to just the AH, consisting of only the two claims that low-dimensional information will be enough for making predictions and that human concepts (in particular, human values) are such low-dimensional information. Then, we “just” need to build an AGI that points to human values and make sure that no other AGI will be built that doesn’t point there (or even couldn’t point there due to using other abstractions).
+
+If we don’t have the “N” part of NAH, then this makes “alignment by default” less likely. But this isn’t that bad from the perspective of trying to get “alignment by design”.
+
+Hoagy 8 Apr 2021 17:20 UTC
+LW: 5 AF: 4
+
+0
+AF
+
+Reading this after Steve Byrnes’ posts on neuroscience gives a potentially unfortunate view on this.
+
+The general impression is that the a lot of our general understanding of the world is carried in the neocortex which is running a consistent statistical algorithm and the fact that humans converge on similar abstractions about the world could be explained by the statistical regularities of the world as discovered by this system. At the same time, the other parts of the brain have a huge variety of structures and have functions which are the products of evolution at a much more precise level, and the brain is directly exposed to, and working in response to, this higher level of complexity. Of course, it doesn’t mean these systems can’t be reliably compressed, and presumably have structure of their own, but it may be very complex, not be discoverable without high definition and so progress on values wouldn’t follow easily from progress in understanding world-modelling abstractions.
+
+This would suggest that successes in reliably measuring abstractions would be of greater use to general capability and world modelling than to understanding human values. It would also potentially give some scientific backing to the impression from introspection and philosophy that the core concepts of human values are particularly difficult concepts to point at.
+
+I guess one lesson would be to try and put a focus on this case where at least part of the complexity of the goal of a system is in a system directly in contact with the cognitive system rather than observed at a distance.
+
+Also interested in helping on this—if there’s modelling you’d want to outsource.
+
+johnswentworth 8 Apr 2021 19:21 UTC
+LW: 5 AF: 5
+
+0
+AFParent
+
+Also interested in helping on this—if there’s modelling you’d want to outsource.
+
+Here’s one fairly-standalone project which I probably won’t get to soon. It would be a fair bit of work, but also potentially very impressive in terms of both showing off technical skills and producing cool results.
+
+Short somewhat-oversimplified version: take a finite-element model of some realistic objects. Backpropagate to compute the jacobian of final state variables with respect to initial state variables. Take a singular value decomposition of the jacobian. Hypothesis: the singular vectors will roughly map to human-recognizable high-level objects in the simulation (i.e. the nonzero elements of any given singular vector should be the positions and momenta of each of the finite elements comprising one object).
+
+Longer version: conceptually, we imagine that there’s some small independent Gaussian noise in each of the variables defining the initial conditions of the simulation (i.e. positions and momenta of each finite element). Assuming the dynamics are such that the uncertainty remains small throughout the simulation—i.e. the system is not chaotic—our uncertainty in the final positions is then also Gaussian, found by multiplying the initial distribution by the jacobian matrix. The hypothesis that information-at-a-distance (in this case “distance” = later time) is low-dimensional then basically says that the final distribution (and therefore the jacobian) is approximately low-rank.
+
+In order for this to both work and be interesting, there are some constraints on both the system and on how the simulation is set up. First, “not chaotic” is a pretty big limitation. Second, we want the things-simulated to not just be pure rigid-body objects, since in that case it’s pretty obvious that the method will work and it’s not particularly interesting. Two potentially-interesting cases to try:
+
+Simulation of an elastic object with multiple human-recognizable components, with substantial local damping to avoid small-scale chaos. Cloth or jello or a sticky hand or something along those lines could work well.
+
+Simulation of waves. Again, probably want at least some damping. Full-blown fluid dynamics could maybe be viable in a non-turbulent regime, although it would have to parameterized right—i.e. Eulerian coordinates rather than Lagrangian—so I’m not sure how it well it would play with APIC simulations and the like.
+
+If you wanted to produce a really cool visual result, then I’d recommend setting up the simulation in Houdini, then attempting to make it play well with backpropagation. That would be a whole project in itself, but if viable the results would be very flashy.
+
+Important implementation note: you’d probably want to avoid explicitly calculating the jacobian. Code it as a linear operator—i.e. a function which takes in a vector, and returns the product of the jacobian times that vector—and then use a sparse SVD method to find the largest singular values and corresponding singular vectors. (Unless you know how to work efficiently with jacobian matrices without doing that, but that’s a pretty unusual thing to know.)
+
+Hoagy 24 May 2021 20:48 UTC
+LW: 12 AF: 9
+
+0
+AFParent
+
+Been a while but I thought the idea was interesting and had a go at implementing it. Houdini was too much for my laptop, let alone my programming skills, but I found a simple particle simulation in pygame which shows the basics, can see below.
+
+exponents of the Jacobian of a 5 particle, 200 step simulation, with groups of 3 and 2 connected by springs
+Planned next step is to work on the run-time speed (even this took a couple of minutes run, calculating the frame-to-frame Jacobian is a pain, probably more than necessary) and then add some utilities for creating larger, densely connected objects, will write up as a fuller post once done.
+
+Curious if you’ve got any other uses for a set-up like this.
+
+johnswentworth 24 May 2021 22:01 UTC
+LW: 3 AF: 3
+
+0
+AFParent
+
+Nice!
+
+A couple notes:
+
+Make sure to check that the values in the jacobian aren’t exploding—i.e. there’s not values like 1e30 or 1e200 or anything like that. Exponentially large values in the jacobian probably mean the system is chaotic.
+
+If you want to avoid explicitly computing the jacobian, write a method which takes in a (constant) vector u and uses backpropagation to return ∇x0(xt⋅u). This is the same as the time-0-to-time-t jacobian dotted with u, but it operates on size-n vectors rather than n-by-n jacobian matrices, so should be a lot faster. Then just wrap that method in a LinearOperator (or the equivalent in your favorite numerical library), and you’ll be able to pass it directly to an SVD method.
+
+In terms of other uses… you could e.g. put some “sensors” and “actuators” in the simulation, then train some controller to control the simulated system, and see whether the data structures learned by the controller correspond to singular vectors of the jacobian. That could make for an interesting set of experiments, looking at different sensor/​actuator setups and different controller architectures/​training schemes to see which ones do/​don’t end up using the singular-value structure of the system.
+
+Hoagy 30 May 2021 11:14 UTC
+LW: 10 AF: 7
+
+0
+AFParent
+
+Another little update, speed issue solved for now by adding SymPy’s fortran wrappers to the derivative calculations—calculating the SVD isn’t (yet?) the bottleneck. Can now quickly get results from 1,000+ step simulations of 100s of particles.
+
+Unfortunately, even for the pretty stable configuration below, the values are indeed exploding. I need to go back through the program and double check the logic but I don’t think it should be chaotic, if anything I would expect the values to hit zero.
+
+It might be that there’s some kind of quasi-chaotic behaviour where the residual motion of the particles is impossibly sensitive to the initial conditions, even as the macro state is very stable, with a nicely defined derivative wrt initial conditions. Not yet sure how to deal with this.
+
+wheels are the best object I’ve been able to make so far—they bounce against each other quite nicely. video at imgur.com/​QxddkZK
+
+johnswentworth 31 May 2021 17:08 UTC
+LW: 2 AF: 2
+
+0
+AFParent
+
+If the wheels are bouncing off each other, then that could be chaotic in the same way as billiard balls. But at least macroscopically, there’s a crapton of damping in that simulation, so I find it more likely that the chaos is microscopic. But also my intuition agrees with yours, this system doesn’t seem like it should be chaotic...
+
+Pattern 30 May 2021 15:52 UTC
+4 points
+
+0
+
+The natural abstraction hypothesis can be split into three sub-claims, two empirical, one mathematical:
+
+The third one:
+
+Convergence: a wide variety of cognitive architectures learn and use approximately-the-same summaries.
+
+Couldn’t this be operationalized as empirical if a wide variety...learn and give approximately the same predictions and recommendations for action (if you want this, do this), i.e. causal predictions?
+
+Human-Compatibility: These summaries are the abstractions used by humans in day-to-day thought/​language.
+
+This seems contingent on ‘the human summaries are correct’ and ‘natural abstraction summaries are correct’, then claiming this happens, is just making a claim about a particular type of convergence. (Modulo the possibility that:
+
+“human recommendations (may)/​do not describe the system, and (may) instead focus on ‘what you should do’ which requires guesses about factors like ‘capabilities or resources’.)”
+
+)
+
+Along the way, it should be possible to prove theorems on what abstractions will be learned in at least some cases. Experiments should then [mostly] probe cases not handled by those theorems, enabling more general models and theorems, eventually leading to a unified theory.
+
+I say ‘mostly’ because probing cases believed to be handled may reveal failure.
+
+Then, the ultimate test of the natural abstraction hypothesis would just be a matter of pointing the abstraction-thermometer at the real world, and seeing if it spits out human-recognizable abstract objects/​concepts.
+
+Interesting this doesn’t involve ‘learners’ communicating, to see what sort of language they’ll develop. But this (described above) seems more straightforward.
+
+It would imply that a wide range of architectures will reliably learn similar high-level concepts from the physical world, that those high-level concepts are exactly the objects/​categories/​concepts which humans care about (i.e. inputs to human values), and that we can precisely specify those concepts.
+
+It seems good that the program described involves testing a variety, then seeing how they turn out (concerning object details, if not values), rather than attempting to design understandable architectures, if one wants to avoid the risk of a ‘ontological turn’ whereby ‘an AI’ develops a way of seeing the world that doesn’t line up after it ‘goes big’. (On the other hand, if understanding global systems requires learning concepts we haven’t learned yet, then, without learning those concepts, we might not be able to understand maps produced by (natural abstraction) learners without said learning. This property—something can’t be understood without certain knowledge or concepts—might be called ‘info-locked maps’ or ‘conceptual irreducibility’. Though it’s just a hypothesis for now.)
+
+johnswentworth 31 May 2021 17:05 UTC
+4 points
+
+0
+Parent
+
+Couldn’t this be operationalized as empirical if a wide variety...learn and give approximately the same predictions and recommendations for action (if you want this, do this), i.e. causal predictions?
+
+Very good question, and the answer is no. That may also be a true thing, but the hypothesis here is specifically about what structures the systems are using internally. In generally, things could give exactly the same externally-visible predictions/​actions while using very different internal structures.
+
+You are correct that this is a kind of convergence claim. It’s not claiming convergence in all intelligent systems, but I’m not sure exactly what the subset of intelligence systems is to which this claim applies. It has something to do with both limited computation and evolution (in a sense broad enough to include stochastic gradient descent).
+
+Rohin Shah 23 Apr 2021 21:39 UTC
+LW: 4 AF: 4
+
+0
+AF
+
+Planned summary for the Alignment Newsletter:
+
+We’ve previously seen some discussion about <@abstraction@>(@Public Static: What is Abstraction?@), and some [claims](https://​​www.lesswrong.com/​​posts/​​wopE4nT28ausKGKwt/​​classification-of-ai-alignment-research-deconfusion-good?commentId=cKNrWxfxRgENS2EKX) that there are “natural” abstractions, or that AI systems will <@tend@>(@Chris Olah’s views on AGI safety@) to <@learn@>(@Conversation with Rohin Shah@) increasingly human-like abstractions (at least up to a point). To make this more crisp, given a system, let’s consider the information (abstraction) of the system that is relevant for predicting parts of the world that are “far away”. Then, the **natural abstraction hypothesis** states that:
+
+1. This information is much lower-dimensional than the system itself.
+
+2. These low-dimensional summaries are exactly the high-level abstract objects/​concepts typically used by humans.
+
+3. These abstractions are “natural”, that is, a wide variety of cognitive architectures will learn to use approximately the same concepts to reason about the world.
+
+For example, to predict the effect of a gas in a larger system, you typically just need to know its temperature, pressure, and volume, rather than the exact positions and velocities of each molecule of the gas. The natural abstraction hypothesis predicts that many cognitive architectures would all converge to using these concepts to reason about gases.
+
+If the natural abstraction hypothesis were true, it could make AI alignment dramatically simpler, as our AI systems would learn to use approximately the same concepts as us, which can help us both to “aim” our AI systems at the right goal, and to peer into our AI systems to figure out what exactly they are doing. So, this new project aims to test whether the natural abstraction hypothesis is true.
+
+The first two claims will likely be tested empirically. We can build low-level simulations of interesting systems, and then compute what summary is useful for predicting its effects on “far away” things. We can then ask how low-dimensional that summary is (to test (1)), and whether it corresponds to human concepts (to test (2)).
+
+A [followup post](https://​​www.alignmentforum.org/​​posts/​​f6oWbqxEwktfPrKJw/​​computing-natural-abstractions-linear-approximation) illustrates this in the case of a linear-Gaussian Bayesian network with randomly chosen graph structure. In this case, we take two regions of 110 nodes that are far apart each, and operationalize the relevant information between the two as the covariance matrix between the two regions. It turns out that this covariance matrix has about 3-10 “dimensions” (depending on exactly how you count), supporting claim (1). (And in fact, if you now compare to another neighborhood, two of the three “dimensions” remain the same!) Unfortunately, this doesn’t give much evidence about (2) since humans don’t have good concepts for parts of linear-Gaussian Bayesian networks with randomly chosen graph structure.
+
+While (3) can also be tested empirically through simulation, we would hope that we can also prove theorems that state that nearly all cognitive architectures from some class of models would learn the same concepts in some appropriate types of environments.
+
+To quote the author, “the holy grail of the project would be a system which provably learns all learnable abstractions in a fairly general class of environments, and represents those abstractions in a legible way. In other words: it would be a standardized tool for measuring abstractions. Stick it in some environment, and it finds the abstractions in that environment and presents a standard representation of them.”
+
+Planned opinion:
+
+The notion of “natural abstractions” seems quite important to me. There are at least some weak versions of the hypothesis that seem obviously true: for example, if you ask GPT-3 some new type of question it has never seen before, you can predict pretty confidently that it is still going to respond with real words rather than a string of random characters. This is effectively because you expect that GPT-3 has learned the “natural abstraction” of the words used in English and that it uses this natural abstraction to drive its output (leaving aside the cases where it must produce output in some other language).
+
+The version of the natural abstraction hypothesis investigated here seems a lot stronger and I’m excited to see how the project turns out. I expect the author will post several short updates over time; I probably won’t cover each of these individually and so if you want to follow it in real time I recommend following it on the Alignment Forum.
+
+johnswentworth 23 Apr 2021 21:50 UTC
+LW: 2 AF: 2
+
+0
+AFParent
+
+Nice summary.
+
+bageldaughter 10 Apr 2021 20:40 UTC
+4 points
+
+0
+
+Another neat direction this work can go in is toward corroborating the computational feasibility of simulationism and artificial life.
+
+If abstractions are natural then certain optimizations in physical simulation software are potentially not impossible. These optimizations would be of the type that save compute resources by computing only at those abstraction levels the inhabitants of the simulation can directly observe/​measure.
+
+If abstractions aren’t natural, then the simulation software can’t generically know what it can get away with lossily compressing wrt a given observer. Or something to that effect.
+
+Charlie Steiner 9 Apr 2021 5:24 UTC
+LW: 4 AF: 3
+
+0
+AF
+
+One generalization I am also interested in is to learn not merely abstract objects within a big model, but entire self-contained abstract levels of description, together with actions and state transitions that move you between abstract states. E.g. not merely detecting that “the grocery store” is a sealed box ripe for abstraction, but that “go to the grocery store” is a valid action within a simplified world-model with nice properties.
+
+This might be significantly more challenging to say something interesting about, because it depends not just on the world but on how the agent interacts with the world.
+
+Gordon Seidoh Worley 9 Apr 2021 0:16 UTC
+LW: 4 AF: 3
+
+0
+AF
+
+Nice! From my perspective this would be pretty exciting because, if natural abstractions exist, it solves at least some of the inference problem I view at the root of solving alignment, i.e. how do you know that the AI really understands you/​humans and isn’t misunderstanding you/​humans in some way that looks like it does understand from the outside but it doesn’t. Although I phrased this in terms of reified experiences (noemata/​qualia as a generalization of axia), abstractions are essentially the same thing in more familiar language, so I’m quite excited for the possibility that we can prove that we may be able to say something about the noemata/​qualia/​axia of minds other than our own beyond simply taking for granted that other minds share some commonality with ours (which works well for thinking about other humans up to a point, but quickly runs up against problems of assuming too much even before you start thinking about beings other than humans).
+
+Connor Leahy 8 Apr 2021 11:47 UTC
+4 points
+
+0
+
+I am so excited about this research, good luck! I think it’s almost impossible this won’t turn up at least some interesting partial results, even if the strong versions of the hypothesis don’t work out (my guess would be you run into some kind of incomputability or incoherence results in finding an algorithm that works for every environment).
+
+This is one of the research directions that make me the most optimistic that alignment might really be tractable!
+
+martinkunev 16 Feb 2024 2:41 UTC
+3 points
+
+0
+
+I’m wondering whether useful insights can come from studying animals (or even humans from different cultures) - e.g. do fish and dolphins form the same abstractions; do bats “see” using ecolocation?
+
+lemonhope 11 Sep 2022 18:43 UTC
+LW: 3 AF: 3
+
+0
+AF
+
+Thoughts on when models will or won’t use edge cases? For example, if you made an electronic circuit using evolutionary algorithms in a high fidelity simulation, I would expect it to take advantage of V = IR being wrong in edge cases.
+
+In other words, how much of the work do you expect to be in inducing models to play nice with abstraction?
+
+ETA: abstractions are sometimes wrong in stable (or stabilizable) states, so you can’t always lean on chaos washing it out
+
+johnswentworth 19 Sep 2022 18:12 UTC
+LW: 3 AF: 3
+
+0
+AFParent
+
+When we have a good understanding of abstraction, it should also be straightforward to recognize when a distribution shift violates the abstraction. In particular, insofar as abstractions are basically deterministic constraints, we can see when the constraint is violated. And as long as we can detect it, it should be straightforward (though not necessarily easy) to handle it.
+
+TekhneMakre 28 Jun 2021 18:46 UTC
+3 points
+
+0
+
+This Is Just To Say
+
+I have recalled
+
+the forms
+
+that were in
+
+my mind
+
+and which
+
+you were probably
+
+saving
+
+for Plato
+
+Forgive me
+
+they were convergent
+
+so abstract
+
+and so cold
+
+J Bostock 24 May 2021 14:00 UTC
+3 points
+
+0
+
+This sounds very interesting and I’d be very excited to hear the results of your work. I have a lot of random disorganized thoughts on the matter which I’ll lay out here in case some of them are valuable.
+
+I wonder if, for ordinary neural networks, something like bottlenecking the network at one or more of the layers would force abstraction.
+
+This makes me think of autoencoders trying to compress information, which leads to an interesting question: is there a general way to “translate” between autoencoders trained on the same dataset? By this I mean having a simple function (like an individual matrix) between the first half of one autoencoder and the second half of another. If there is this would give evidence that they are using the same abstractions.
+
+This also reminds me of that essay about the tails coming apart, which suggests to me that the abstractions a system will use will depend on the dataset, the outcome being predicted, and also perhaps the size and capabilities of the model (a bigger model might make more accurate predictions by splitting “grip strength” and “arm strength” apart but a smaller model might have to combine them). This seems to be related to the dimensionality points you’ve mentioned, where the specific abstractions used depend on the number of abstractions a model is allowed to use.
+
+This makes me think of Principal Component Analysis in statistics, which has a similar vibe to the natural abstraction hypothesis in that it involves compressing statistical information onto a smaller number of dimensions, exactly how many dimensions depends on the statistical methods you are using.
+
+In the real world, the classic examples of abstractions are stuff like “temperature of a gas” which involves throwing away something like 180 bits of information per individual gas molecule (if my memory of statistical mechanics is correct), while still letting you predict internal energy, pressure, how it will flow. Abstractions for other systems are unlikely to be as clear-cut: we can probably not compress 10^25ish bits of information into a small number of bits of information, for the average system. For exampe I think that about 8 characteristics of different plant species (seed size, height, leaf thickness etc.) can be compressed onto two dimensions which contain about 80% of the variation in the data, but it’s not immediately clear why we ought to stop there, or indeed use a second dimension when one would presumably contain >40% of the variation.
+
+Finally I suspect that the name “abstraction thermometer” is underselling the capabilities of what you describe. Finding all the abstractions of any given system is incredibly powerful. For example one set of abstractions which would predict the progression of a disease would be the set of the pathogens, proteins, and small molecules which can cause that disease. If the natural abstraction hypothesis is true (and in cases like this it would seem to be) then an “abstraction thermometer” is in this case able to find out everything about the biological system in question, and would therefore give us an incredible amount of knowledge.
+
+tailcalled 7 Apr 2021 8:23 UTC
+3 points
+
+0
+
+Exciting stuff. One thing I suspect is that you’ll need some different account for abstractions in the presence of agency/​optimization than abstractions that deal with unoptimized things, because agency implies “conspiracies” where many factors may all work together to achieve something.
+
+Like your current point about “information at a distance” probably applies to both, but the reasons that you end up with information at a distance likely differ; with non-agency phenomena, there’s probably going to be some story based on things like thermodynamics, averages over large numbers of homogenous components, etc., while agency makes things more complex.
+
+Back to top

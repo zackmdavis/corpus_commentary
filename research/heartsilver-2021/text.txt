@@ -1,0 +1,950 @@
+Article
+
+Deflating Byrne’s “Are Women Adult
+Human Females?”
+Maggie Heartsilver (pseudonym)
+Author email: oneofitskind@protonmail.com
+
+Submitted: 8 February 2021, accepted: 6 March 2021, published: 25 April 2021
+
+
+
+Abstract: The primary aim of this paper is to show that Alex Byrne’s arguments in “Are
+Women Adult Human Females?” provide no reason to doubt the truth of the proposition
+that trans women are women. Byrne’s conclusion is that women are adult human females.
+However, it is safe to say that much of the interest in his article is driven by the assumption
+that it is a short step from that conclusion to the further conclusion that trans women are
+not women. If Byrne is understood to be defending that further conclusion, however, then
+some of his arguments are dialectically ineffective. The others commit an evidential fallacy
+or rest on a false premise.
+
+Keywords: gender; sex; trans; Alex Byrne
+
+How to cite:   Heartsilver, M. (pseudonym) Deflating Byrne’s “Are Women Adult
+Human Females?”. Journal of Controversial Ideas 2021, 1(1), 9; doi:10.35995/jci01010009.
+ © 2021 Copyright by the author. This article is an open access article distributed under the terms and
+conditions of the Creative Commons Attribution (CC BY 4.0) license.
+
+My objective is to explain why Alex Byrne’s arguments in “Are Women Adult Human
+Females?”1 provide no reason to doubt the truth of the proposition that trans women
+are women. To be fair to Byrne, he does not claim to have shown that that proposition is
+false. Nevertheless, I think it is safe to say that much of the interest in his article is driven
+by the assumption that it is a short step from his conclusion that women are adult human
+females to the further conclusion that trans women are not women. Thus, I think a focus
+on whether his arguments actually do support that further conclusion is well­placed.
+
+1. Byrne’s Theses
+Byrne describes himself as defending
+      “AHF        S is a woman iff S is an adult human female”,
+where AHF should be understood to be “implicitly necessitated, with ‘S’ bound by a
+universal quantifier within the scope of the necessity operator”.2 He assumes the truth of
+
+
+1
+    Philosophical Studies vol. 177 (January 2020): 3783–803. Byrne’s position is clarified in “Gender Muddle:
+    Reply to Dembroff” (in this issue of Journal of Controversial Ideas), and so I rely on that source as well.
+2
+    Byrne, “Are Women Adult Human Beings?”, 3784.
+
+
+                                                                                                             1
+    Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+        “NF        Trans women are not female”,
+where NF “is also to be understood as a universal generalization”.3 Together, AHF and
+NF entail
+        NW         No trans woman is a woman.4
+     A cursory reading of Byrne’s article suggests, therefore, that Byrne might well be
+implicitly arguing for NW. However, he does not explicitly draw that conclusion. He does
+explicitly claim that not all trans women are women.5 Depending on how “trans woman”
+is defined, I agree with him about that. Byrne defines “trans woman” to include any “male”
+who, due to gender dysphoria, transitions to living as a woman.6 Given that definition,
+some trans women do not believe that they are women, and I am certainly in no position
+to claim that such persons are mistaken about their own gender.
+     For the purpose of assessing whether Byrne’s arguments provide evidential support
+for NW, I prefer to simply stipulate that “trans woman” means “someone who was born
+reproductively male7 but sincerely believes that they are a woman”. (The definition is
+intended merely to roughly capture the extension of “trans woman”. I am not suggesting
+that anyone’s gender is reducible to a belief.) Even on this definition, I agree with Byrne
+that not all trans women are women because I believe that one can be mistaken about
+one’s own gender. Thus, I am concerned to show only that Byrne’s article provides no
+reason to doubt the generic proposition that trans women are women. Interpreted as a
+generic proposition as opposed to a universal generalization, “trans women are women”
+leaves semantic room for exceptions.
+     Byrne’s decision to refrain from explicitly drawing the conclusion that NW is true is
+not the only reason why there is room for doubt about whether Byrne intends to provide
+support for that conclusion. Another reason is that Byrne concedes that there may be
+counterexamples to AHF:
+
+        Given that true and interesting equivalencies in the style of AHF and JTB [i.e., S is
+        knowledge iff S is justified true belief] are notoriously hard to find, one should be wary
+        of claiming that AHF is more than a very good approximation. More carefully put, the
+        thesis of this paper is that woman is a biological (and not social) category, and that
+        AHF is close enough. But for simplicity we can defend it outright.8
+
+Even if woman is a biological category, and even if adult human female is a close
+approximation of that category, and even if no trans woman is female, Byrne has left some
+logical room for the possibility that some, and perhaps even many, trans women fall into
+the biological category of woman. Many trans women are hormonally female, and many
+are, in terms of their secondary sexual characteristics and their observable phenotype,
+more female than male. Might Byrne believe that the possession of such biological traits
+by an adult human being brings them close enough to being female to count as a woman?
+
+
+3
+      Byrne, “Are Women Adult Human Beings?”, 3799.
+4
+      The claim that AHF and NF together entail NW assumes that “S is a female” and “S is female” are
+      logically equivalent.
+5
+      Byrne, “Are Women Adult Human Beings?”, 3800.
+6
+      Byrne, “Are Women Adult Human Beings?”, 3794, note 20.
+7
+      The expression, “reproductively male” can be spelled out in different ways. For the purposes of this
+      definition of “trans woman”, it will suffice to stipulate that to be born reproductively male is to be born with
+      male reproductive organs.
+8
+      Byrne, “Are Women Adult Human Beings?”, 3785.
+
+
+                                                                                                                    2
+    Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+I suspect not, for elsewhere he makes it clear that he thinks that a human being must be
+reproductively female in order to be a female.9 It is quite possible, then, that Byrne is
+trying to support NW by way of supporting AHF. Be that as it may, my objective is to show
+that the arguments he uses to defend AHF do not provide evidential support for NW. For
+my purposes, then, Byrne’s actual intentions do not really matter.
+     To be precise, I take Byrne’s two central theses to be, first, that “woman is a
+biological (and not social) category” and, second, that AHF is true or at least “a very
+good approximation”. In Section 2, I argue that the first of those theses is false, because
+woman is a social category. This conclusion does not, however, undermine AHF. In other
+words, Byrne can still argue that adult human female, understood as a social category,
+is at least a close approximation of the category woman. In Section 3, I discuss
+possible counterexamples to AHF, but I do not argue on the basis of those possible
+counterexamples that AHF is false. The heart of my argument appears in Sections 4–6,
+where I try to show that Byrne’s six arguments in defense of AHF provide no reason to
+deny that trans women are women. Some of my arguments in Sections 5 and 6 rely in
+part on my argument in Section 2 that woman is a social category, and so the reader is
+asked to be patient if it is not immediately clear precisely how Section 2 is relevant to my
+main argument.
+
+2. Is Woman a Social Category?
+In a recent critique of “Are Women Adult Human Females”, Robin Dembroff questions
+Byrne’s claim that woman is not a social category partly on the grounds that, in the sense
+of ‘adult’ in which all women are adults, ‘adult’ denotes a social category.10 In response
+to Dembroff, Byrne writes:
+        But I trust it is clear that ‘adult’ in the statement of AHF is supposed to be interpreted
+        as in ‘adult chimpanzee’; that is also the natural interpretation of ‘adult’ in the
+        dictionary entry for ‘woman’. Other senses of ‘adult’ are irrelevant.11
+By itself, this remark would not solve a problem that Dembroff raises, that when “adult”
+is used to describe a mature nonhuman animal like Byrne’s adult chimpanzee, it is
+naturally interpreted to mean “sexually mature”, which in a female chimpanzee would
+mean “impregnatable”. Sexual maturity in cis girls is usually reached between the ages
+of 11 and 16. The average age is 14. Thus, many if not most girls reach adulthood in
+this biological sense well before they become women (at least in the targeted sense of
+“woman”, which Byrne describes as the “standard everyday sense”).12
+
+
+9
+      “Is Sex Binary?”, Arc Digital (November 1, 2018). Being reproductively female can be spelled out in terms
+      of the capacity to become pregnant, or the possession of female reproductive organs, or the production
+      of large gametes, etc. Byrne suggests that “females are the ones who have advanced some distance
+      down the developmental pathway that results in the production of large gametes—ovarian differentiation
+      has occurred, at least to some extent”.
+10
+      Robin Dembroff, “Escaping the Natural Attitude About Gender”, Philosophical Studies vol. 178 (March
+      2021), 990. If adult is a social category, then it follows that adult human female is a social category and,
+      given AHF, that woman is a social category. To define “social category”, Byrne borrows a definition of
+      a socially constructed category offered by Sally Haslanger: “a category F is socially constructed (i.e., is
+      a social category) iff ‘in order for X to be F, X must exist within a social matrix that constitutes F’s’’’ See
+      Byrne, “Are Women Adult Human Females?”, 3784, note 2. Haslanger’s definition can be found in her,
+      Resisting Reality: Social Construction and Social Critique (Oxford: Oxford University Press), 87, 131.
+11
+      Byrne, “Gender Muddle”, 9.
+12
+      Byrne, “Gender Muddle”, 3–4.
+
+
+                                                                                                                   3
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+     Byrne tries to solve the problem by settling on the completion of puberty as the
+relevant biological milestone that qualifies a female human for adulthood and hence
+womanhood because that is when “human females have fully matured into the adult
+form”.13 That helps, but it still makes womanhood start too early. Most girls complete
+puberty between the ages of 15 and 17, and many do so earlier than that. Byrne tries
+to make the shoe fit by insisting that 15­ and 16­year­old girls are “young women” and
+hence women (a questionable inference given that expressions like “young man” and
+“young lady” are often applied to preteens). He also points out that he does not deny
+that AHF only approximates the truth, and so he could, if need be, simply adopt the view
+that women include only those adult human females who are not in the “very early stages
+of adulthood”.14
+     The issue, however, is not whether we can find some biological property that is
+acquired by most girls at least roughly at the same time that girls become women. Rather,
+the issue is whether the possession of any such property is necessarily tied to being a
+woman. There is reason to think that it is not, for we do not distinguish women from girls
+on the basis of whether they have reached sexual maturity or full height, or on the basis
+of whether they have completed puberty or have completed puberty but not too recently,
+or even on the basis of statistical averages for when any of these biological milestones
+are reached. That would entail that the age at which a girl becomes a woman is variable
+in ways that it is not. There is a wide range of ages at which girls complete puberty, but
+we do not, on that basis, recognize a wide range of ages at which girls become women.
+Moreover, research suggests that (in the United States) African­American girls complete
+puberty, on average, almost a year earlier than white girls, and most girls complete puberty
+earlier than most boys. However, we do not infer that African­American girls become
+women almost a year earlier than white girls, or that boys become men later than girls
+become women. Nor would we take seriously the suggestion that, because historically
+the average age for the completion of puberty used to be much higher, people used to
+become men or women much later than they do now. Insofar as we are prepared to
+recognize variability in the age at which people become women or men, it is typically
+because we recognize that, cross­culturally or cross­historically, variation in social norms
+has resulted in variation in the age at which manhood or womanhood is reached. In certain
+cultures, for example, young teens who pass certain initiation tests are then recognized
+as men or women. At least many of us are willing to allow that, in those cultures, manhood
+or womanhood arrives earlier than in our own.
+     It seems plausible, then, to suppose that, in the sense of “adult” in which one
+becomes a man or a woman when one reaches adulthood, “adult” denotes a social
+category. In the United States, for example, we start calling someone a man or woman at
+the age of 18 or 21 or thereabouts, not because we believe that some biological landmark
+has been reached within that age range, but rather because of social factors such as the
+new legal rights and responsibilities that are acquired at those ages and cultural norms
+about the appropriate minimum age for marriage, independence from one’s parents, etc.
+This is not to deny that “adult” has one or more biological senses that can be applied to
+mature human beings no less than to mature chimpanzees, but biological adulthood is
+certainly not the only factor that we rely on as a basis for distinguishing women from girls.
+We rely on social factors as well. Thus, I am inclined to think that, in the sense relevant to
+
+
+13
+     Byrne, “Gender Muddle”, 8.
+14
+     Byrne, “Gender Muddle”, 8.
+
+
+
+                                                                                            4
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+defining the “everyday standard sense” of ‘woman’, “adult” denotes a social/legal category
+that is no doubt related to, but not reducible to, biological adulthood. Byrne’s thesis that
+“woman”, in the “standard everyday sense” of “woman” does not denote a social category
+is false.15
+
+3. Possible Counterexamples to AHF
+Of course, Byrne can concede that woman is a social category and still defend his thesis
+that AHF is true or at least a close approximation. He can also continue to insist that
+“human” and “female” in AHF denote biological categories. Indeed, recognizing that, in
+AHF, “adult” denotes a social category would actually provide support for AHF by enabling
+AHF to escape two potential counterexamples that Byrne is committed to regarding as
+actual counterexamples: precocious puberty and delayed puberty. Because he wants
+adult to be a biological category, Byrne must concede that AHF has the result that girls
+who complete puberty at an unusually early age are, therefore, women at an unusually
+early age, which is obviously false. He is also committed to saying that AHF has the
+result that females whose puberty comes unusually late therefore become women at an
+unusually late age, which is also obviously false. However, if the relevant sense of “adult”
+in AHF is understood to be the social (or legal) one, then the 11­year­old girl who has
+completed puberty is nevertheless not yet a woman, and the 25­year­old female who has
+not yet completed puberty is nevertheless a woman. Problem solved.
+     There are, however, other possible counterexamples to AHF to consider. As Byrne
+points out, some of them concern the boundaries of the category human. Depending on
+how “human” is defined for the purpose of making AHF more precise, one might have to
+worry about whether women of the species Homo erectus once roamed the Earth,16 or
+whether some of the remarkable instances of intergalactic convergent evolution in Star
+Trek are women. Moreover, the possibility of cyborg or robotic men or women (perhaps
+Data from Star Trek is one), if it is a possibility, could be the basis for thinking that
+even “human” in AHF should not be understood to denote a biological category. Indeed,
+perhaps “adult human female” in AHF should be replaced by “adult female person”, where
+“person” denotes a psychological category. (Some dictionaries define “woman” as “adult
+female person” instead of “adult female human”.)
+     We can, however, safely set these kinds of cases aside. Some of them might threaten
+the claim that AHF is a necessary truth or even true, but they do not threaten Byrne’s
+more refined thesis that the category woman is at least closely approximated by adult
+human female. Byrne rightly focuses on two other possible counterexamples: “intersex
+individuals” and “trans women”. (To be an “intersex individual”, as I understand Byrne’s
+
+
+15
+     One might object that, in the sense relevant to distinguishing girls from women, “adult” can denote a
+     biological or a social category, depending on the context. In referring to a human being raised by wolves,
+     for example, one might be tempted to identify them as a woman or man at the age of sexual maturity
+     even if that age in the particular case is 11, because using the social/legal sense of “adult” as the relevant
+     criterion really does not make much sense in that context. My own linguistic intuition, for what it is worth,
+     is that, while it does make sense to describe them as an adult male or adult female, it does not really
+     make sense to describe them as a man or woman. Others might have different intuitions here, and so
+     perhaps a case can be made that I should meet Byrne halfway and recognize that the relevant sense of
+     “adult” denotes a nonsocial or social category, depending on the context. “Halfway” would be a bit of an
+     exaggeration, though, because, in almost every case, the relevant category would be the social one.
+16
+     Byrne discusses this sort of case in “Gender Muddle”, 8, note 42.
+
+
+
+
+                                                                                                                 5
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+use of the expression, is to be an individual who is neither reproductively female nor
+reproductively male.)17
+     Both intersex individuals and trans women could pose a threat even to Byrne’s refined
+thesis. I say “could” and not “do”, however, because whether intersex and trans persons
+pose a threat to that thesis depends partly on the scope of “female” in AHF. If being
+a female in the sense of “female” that is relevant to AHF requires being reproductively
+female, then no intersex individuals and no trans women will be women under AHF. On the
+other hand, if “female” in AHF is understood in a way that is consistent with the proposition
+that some intersex individuals and trans women are female, then neither the existence
+of intersex individuals nor the existence of trans women needs to threaten AHF.18 It is
+important, then, to distinguish AHF from any particular interpretation of AHF. As I have
+already indicated, I am unsympathetic to Byrne’s interpretation of AHF, which appears
+to be
+     BRB       S is a woman iff S is a biologically adult, reproductively female, member of
+the biological group: humans.19
+Setting aside trans women as the more contested case, it surprises me that Byrne does
+not regard many intersex individuals as providing compelling counterexamples to BRB
+and to the crucial corollary of BRB that being reproductively female is a logically necessary
+condition for being a woman. I find it obvious that many intersex individuals who regard
+themselves as women are women even though they are not reproductively female, and I
+suspect (although this is only a guess) that most reasonable people would, on reflection,
+agree with me on this point. After all, intersex individuals include some people who not
+only regard themselves as women but are regarded by those who know them as women,
+and who were, in virtue of their observable anatomy, assigned female at birth, and who
+may not even be aware that they are not reproductively female. I will not, however, press
+this point here. In this paper, I do not attempt to reach the conclusion that some intersex
+persons (or trans women) are women, nor do any of my arguments rely on the truth of
+that conclusion.
+      Byrne suggests that the inclination to reject AHF on the basis of the existence of
+intersex individuals “might be driven by failing to make the distinction between being
+(rightly) treated as a woman and actually being one” or by “a well­documented tendency
+to give too much weight to stereotypical or representative features”.20 I can only assure
+Byrne that, in rejecting BRB partly on the basis of the existence of certain intersex
+individuals, I am not confused in either of these ways. Of course, he is free to be skeptical
+about my assurances. Dialectically, this could be a dead end.
+      Unlike Byrne, then, I would secure AHF against the objection that some intersex
+individuals are women by abandoning BRB and incorporating a non­reproductive sense
+of “female” into AHF that is inclusive with respect to both intersex and trans women. As
+
+
+17
+     Byrne, “Are Women Adult Human Beings?”, 3793.
+18
+     The suggestion that an intersex individual can be female might appear to be self­contradictory, for
+     “intersex” is often defined in terms of being neither female nor male. However, I trust that the reader can
+     see that such a problem is solved if being intersex is defined in terms of being reproductively neither
+     male nor female. Just as a trans woman can be female in a non­reproductive sense without being
+     reproductively female, an intersex woman can be female in a non­reproductive sense without being
+     reproductively female.
+19
+     BRB itself is open to a variety of interpretations, depending on how “biologically adult”, “reproductively
+     female”, and “humans” are made precise.
+20
+     Byrne, “Are Women Adult Human Beings?”, 3794.
+
+
+                                                                                                              6
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+discussed in Section 2, I would also be inclined to replace Byrne’s biological notion of
+an adult with a social/legal notion and his biological notion of human with something
+broader and perhaps not even essentially biological. Some might respond to my use
+of a non­reproductive sense of “female” by accusing me of “humpty­dumptyism”—using
+words to mean whatever I want them to mean—but I think that such an accusation would
+involve a failure to recognize just how variable and sensitive to context (and, in some
+contexts, also widely contested) the meaning of “female” is when applied to humans as
+opposed to other animals. There is no doubt that, in many contexts, including but certainly
+not limited to certain scientific and medical ones, “female” can be used correctly to mean
+“reproductively female”. It seems clear to me, however, that, in other contexts, “female”
+can be used correctly in ways that include trans and intersex women and girls as female
+(and exclude trans men, trans boys, and some nonbinary persons from being female).
+Nor am I referring only to the way “female” might be used within certain trans communities.
+Such usage can also be found on the pages of generalist newspapers and magazines, in
+the distinction many cis and trans people make between being assigned female at birth
+and actually being female, in the fact that the law often recognizes that someone who is
+not reproductively female is nevertheless female, and so on. The suggestion that “female”
+has only a single, reproductive meaning, invariant across all contexts, seems to me to be
+unduly narrow.
+      Correct or not, the prevalence of such usage should come as no surprise because,
+in many contexts, to describe someone as a female is simply to describe them as a
+woman or girl, rendering the question of whether trans women (and intersex individuals
+who regard themselves as women) are female no different than the question of whether
+they are women—or so I would be inclined to argue. Sorting all of this out would, of
+course, require another, more extensive, discussion.21 My point here is merely that it is
+one thing to defend AHF, where AHF is understood in a merely formal way, and quite
+another to defend BRB or any other interpretation of AHF. This point is crucial to the
+discussion below, because the threat to the proposition that trans women are women
+posed by BRB and other interpretations of AHF in which “female” is understood to refer
+only to those who are reproductively female is potentially much greater than that posed
+by AHF, understood in a merely formal way (i.e., in a way that is consistent with any
+interpretation of AHF, including interpretations in which “female” is understood in a way
+that includes trans women as “female”).
+
+4. Arguments That Support AHF but Not NW
+Byrne offers six non­demonstrative arguments in defense of AHF. He asserts that,
+together, those six arguments constitute a “strong cumulative case” for AHF.22 In his
+reply to Dembroff, he also suggests that this cumulative case makes AHF the “default
+hypothesis”.23 I am not entirely sure what he means by “default hypothesis”, but a likely
+possibility is that he thinks that, together, his six arguments justify the conclusion that AHF
+is presumptively true (or, perhaps more accurately, presumptively approximately true),
+
+
+21
+     I am inclined towards the view that “female” is polysemous, but contextualist accounts of the semantics of
+     “female” would also need to be given serious consideration in any thorough exploration of the semantics of
+     “female”, as would Dembroff’s interesting suggestion that, in some contexts, certain gender terms might
+     be floating signifiers. See Dembroff, “Escaping the Natural Attitude About Gender”, 11–12.
+22
+     Byrne, “Are Women Adult Human Beings?”, 3790.
+23
+     Byrne, “Gender Muddle”, 4.
+
+
+
+                                                                                                             7
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+which is to say that, barring evidence or reasons to believe that AHF is false, we ought to
+believe that AHF is true. If that is what he is claiming, then Byrne owes us an explanation of
+how it is that his evidence is supposed to establish such a bold conclusion. From the mere
+fact that a known truth E is evidence for a hypothesis H, one cannot justifiably infer that,
+barring evidence against H, H is probably true. That sort of reasoning is fallacious even
+when H entails E. One reason (among others) why such an inference is fallacious, relevant
+to the discussion below, is that, if H is one among a number of competing hypotheses, E
+might be evidence for H but also evidence for at least one competing hypothesis.
+      Setting this evidential fallacy aside, let us turn to the question of whether the six
+arguments that Byrne advances in defense of AHF provide any evidence for NW (or
+against the generic claim that trans women are women). I argue in this section that
+three of the six arguments may provide genuine support for AHF, but nevertheless do
+not support NW. Then, in Sections 5 and 6, I argue that the other three arguments fail to
+provide support even for AHF.
+      Argument 1. One of Byrne’s six arguments is simply the suggestion that the fact
+that “woman/girl” and “female” are stylistic variants of each other even in hyperintensional
+contexts can be explained in terms of, and so is evidence for, AHF.24 If this argument were
+developed in a way that addressed alternative explanations of the evidence, evidential
+support for AHF might be demonstrated. However, if “female” can mean “woman or girl”,
+and “female” in such a use does not need to be interpreted as “reproductively female”,
+then this argument is a nonstarter if it is also intended to support NW. Byrne’s own
+example illustrates this. Byrne quotes a passage from a book by Julia Serano in which
+she describes her childhood self as someone who wanted to be a girl and wanted to be
+female. Serano seems to draw no distinction between the two desires. Thus, it appears
+that Serano appropriately uses “female” and “girl” as stylistic variants in a hyperintensional
+context. However, even though that fact about Serano may be evidentially relevant to
+AHF, understood formally, it does not support BRB let alone the proposition that no trans
+women are women. It seems safe to say that Serano was not suggesting that, when, as
+a child, she wanted to be a girl and wanted to be female, she wanted to be reproductively
+female. Some trans women very much wish that they were capable of pregnancy, but
+others have no such wish, and a young girl, trans or cis, is even less likely to want to
+possess ovaries or to be capable of pregnancy or to be otherwise reproductively female.
+      Argument 2. In a second argument, Byrne’s central premise is that “AHF explains
+how we sometimes know that an individual is a woman, despite knowing nothing else
+relevant about her other than the fact that she is an adult human female.”25 Byrne’s
+explanation, naturally enough, is that we know this by deduction from AHF. Byrne uses a
+specific example to make his point:
+
+
+
+      Mitochondrial Eve lived more than 100,000 years ago, in Africa. She is the most
+      recent common matrilineal ancestor of all humans alive today. We know nothing
+      about her life or opinions, except that she is human and had children. Nonetheless,
+      as the New York Times (correctly) puts it, she is “a woman from whom all living
+      humans inherited their mitochondrial DNA”26
+
+
+24
+     Byrne, “Are Women Adult Human Beings?”, 3789–90.
+25
+     Byrne, “Are Women Adult Human Beings?”, 3788.
+26
+     Byrne, “Are Women Adult Human Beings?”, 3788.
+
+
+                                                                                            8
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+Can we know that Eve was a woman despite knowing nothing else relevant about her
+other than the fact that she was a biologically adult, reproductively female, human being?
+Byrne says yes, but that assertion strikes me as highly contestable. Setting aside issues
+concerning whether we know that Eve was an adult in the relevant sense, I would object
+that, in order to know that Eve was a woman, we would have to know that she was not
+trans. For if we knew instead that Eve was, say, a trans man, we would have good grounds
+for thinking that Eve was a man. Of course, this might easily be overlooked. The writer
+for the Times, for example, probably never even considered the question of whether Eve
+might have been a trans man, or, even if they did, they might have assumed that someone
+who existed at that time could not possibly have been trans.27 But that does not negate
+the fact that one cannot really know that Eve was a woman unless one knows that Eve
+was not a trans man.
+      Of course, Byrne might respond to my objection by insisting that, because all trans
+men are women, we do not need to know that Eve was not trans in order to know that
+she was a woman. However, absent some independent argument in defense of the
+assertion that all trans men are women, such a response would expose a methodological
+flaw in Byrne’s reasoning. If one is to reason from data to explanatory hypothesis, as
+Byrne purports to be doing, it is preferable to use as data facts that cannot reasonably
+be disputed. Many reasonable people would reject or at least suspend judgment about
+the “data” in Byrne’s argument because they believe that, or at least take seriously the
+possibility that, trans men are men.
+      More importantly for our purposes, if intended to support not just AHF but also the
+further conclusion that NW is true (again, I am not saying that this is Byrne’s intention),
+then the argument is dialectically ineffective. I assume that an argument from the
+assumption that no trans man is a man to the conclusion that no trans woman is a
+woman would be tantamount to begging the question.28 It would certainly not be a serious
+argument. Consider, for example, the following argument:
+
+       No trans man is a man
+       If no trans man is a man, then no trans woman is a women.
+       Thus, no trans woman is a woman.
+
+The argument is valid, and I am confident that its second assumption is true, but no
+one would mistake it for serious contribution to a debate over whether trans women are
+women. In such a debate, it would be dialectically pointless. If Byrne’s argument for AHF
+is intended to support NW, and it does rest on the assumption that no trans man is a man,
+then it is dialectically pointless for precisely the same reason. Strictly speaking, it is not
+question­begging because it does not rely on NW as an assumption, but there is not much
+light between the assumption that no trans woman is a woman (NW) and the assumption
+that no trans man is a man.
+
+
+27
+     Perhaps we can know that Eve was not trans. Even today, trans men represent a small percentage
+     of the population, and one could argue that someone who existed in Eve’s day would have lacked the
+     conceptual tools that being a trans man would require. I take no stand on whether Eve could have been
+     trans. What being trans actually involves is itself a difficult question that I am avoiding here by merely
+     stipulating that a trans woman/man is someone who sincerely believes that they are a woman/man in
+     spite of being born reproductively male/female.
+28
+     I am assuming that something like John Martin Fischer and Garrett Pendergraft’s account of begging the
+     question is accurate. See “Does the Consequence Argument Beg the Question?”, Philosophical Studies
+     166, no. 3 (2013): 575–95.
+
+
+                                                                                                             9
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+      It is possible, however, that Byrne would deny that his argument contains the implicit
+assumption that no trans man is a man. It is difficult to know, because Byrne does not tell
+us how it is that we are supposed to know that his key premise—that “we” know that Eve
+was a woman “despite knowing nothing else about her except the fact that she was an
+adult human female”—is true. If Byrne believes that it is simply self­evident or obvious that
+this premise is true, then, strictly speaking, his argument does not rest on the assumption
+that no trans man is a man, but he should be concerned that many of his epistemic peers
+will not share his judgment that the premise is so clearly true that it requires no defense.
+Indeed, it is difficult to imagine how this premise could seem obviously true to someone
+who is aware that it is true only if no trans man is a man unless that person were already
+convinced that no trans man is a man. Additionally, an argument that no trans woman is
+a woman that cannot convince anyone who is not already convinced that no trans man is
+a man is dialectically ineffective.
+      Nevertheless, I concede that, if we do know that Eve was not trans, then the case of
+Mitochondrial Eve may provide evidence for
+      ACHF        S is a woman if S is an adult human female who is not trans.
+ACHF is entailed by AHF, but perhaps it is worth defending in its own right; for, unlike
+AHF, it is not threatened by the standard (albeit contested) counterexamples to AHF:
+trans women, trans men, nonbinary adults assigned female at birth, and intersex women.
+My interest here, however, is in what evidence there might be for the truth of NW, and,
+although the truth of ACHF is evidence for AHF, I see no reason to suppose that it is
+evidence for NW.
+     Argument 3. Another one of Byrne’s six arguments is almost the same as the one we
+have just examined, and it leads to the same sort of dialectical stalemate if it is intended
+to support NW, but this time the argument focuses on the category girl rather than woman.
+Here, Byrne begins with the reasonable assumption that AHF stands or falls with
+      JHF       S is a girl iff S is a juvenile human female.29
+He then proceeds to defend JHF (and thereby indirectly defend AHF) by appeal to the
+alleged fact that, when a reproductively female human is born, “it is almost invariably
+known by inspection that the baby is female” and “a girl—no speculations about the baby’s
+society, upbringing or psychology are needed”.30 Can evidence for NW can be gleaned
+from this argument? I do not see how. On the assumption that we know that there are
+no newborn trans children, Byrne’s example provides evidential support for JHF only in
+virtue of providing support for
+      JCHF        S is a girl if S is a juvenile, reproductively female, human who is not trans.
+
+
+However, just as the truth of ACHF is not evidence for NW, the truth of JCHF is not
+evidence for NW.
+    I suspect, however, that Byrne is basing his argument on the assumption that we can
+know that a (reproductively) female baby is a girl despite knowing nothing else relevant
+about her other than the fact that she is a juvenile human female. However, then the
+argument will lead to precisely the same dialectical stalemate that we reached in our
+
+
+29
+     Byrne, “Are Women Adult Human Beings?”, 3788.
+30
+     Byrne, “Are Women Adult Human Beings?”, 3788–9.
+
+
+
+                                                                                             10
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+discussion of the parallel argument concerning women rather than girls. Some of us will
+resist the argument on the grounds that knowing that the newborn female is a girl would
+require knowing that they are not trans. Byrne will disagree. If he does so on the grounds
+that trans boys are girls, then the argument is dialectically pointless if intended to support
+NW. The only way forward is to find independent support for or against the proposition
+that trans boys are boys.31
+
+5. An Evidential Fallacy
+Argument 4. A fourth among Byrne’s six arguments rests on the claim that AHF “predicts
+the correct verdict in cases of gender role reversal”.32 Byrne provides two examples of
+such cases. One of these is a fictional world in which all reproductive males occupy what
+is, in the actual world (or at least in France), the female gender role, and all reproductive
+females occupy what is in the actual world the male gender role. The other is the historical
+case of Nora Vincent, who disguised herself as a man to explore what it is like to be a
+man. In both cases, AHF correctly predicts that changing gender roles does not result in
+changing gender. Vincent, for example, remained a woman even though she looked like,
+was treated like, and behaved like, a man. Byrne concludes that, because the result is
+predicted by AHF, it is evidence for AHF.
+      This argument commits a common evidential fallacy. For there are serious views on
+the truth conditions for “S is a woman” that are incompatible with AHF (or at least with
+interpretations of AHF in which “female” is understood to mean “reproductively female”)
+that also correctly predict that gender role change does not change gender.33 Indeed, any
+internalist account of gender “predicts the correct verdict in cases of gender role reversal”.
+Hence, the mere fact that gender role change does not change gender is not evidence
+that favors AHF over any of these competitors, and, therefore, that fact does not, by itself,
+generate any presumption that AHF is true. AHF would gain an advantage only over views
+like, “S is a woman iff S is an adult human who occupies what is in fact a female gender
+role”. To my knowledge, however, the relevant literature contains no defense of such a
+crude and implausible view.
+      It is also worth pointing out that, if it is intended to support NW, Byrne’s argument
+concerning the hypothetical world in which all reproductive females occupy what is, in the
+actual world, the female gender role appears to be question­begging. For Byrne claims
+that his premise in that argument is that “the males who occupy female gender roles are
+men”. (GM 8). However, those reproductive males who occupy female gender roles would
+presumably include trans women, and so it appears that Byrne is simply assuming that
+NW is true.
+
+
+31
+     Byrne suggests that it is possible to support the premise that we can almost invariably know by inspection
+     that a (reproductively) female baby is a girl. He says that one can find such support in “the knowledge
+     norm of assertion ... in typical cases, there is nothing wrong with asserting that the mewling baby is a
+     girl, or that she is female”. (See “Gender Muddle”, 7) I find this remark confusing, and so I am not sure
+     what to say in response. However, I do agree that, if a reproductively female newborn cannot possibly be
+     trans, then there is nothing wrong with asserting that it is a girl. If a newborn can be trans, then those of
+     us who are not already convinced that trans boys are girls will think there is something risky if not wrong
+     about asserting that the relevant newborn is a girl. The dialectical stalemate reappears at another level.
+32
+     Byrne, “Are Women Adult Human Beings?”, 3789.
+33
+     See, for example, Esa Díaz­León, “Woman as a Politically Significant Idea: A Solution to the Puzzle”,
+     Hypatia 31, no. 2 (Spring 2016): 245–58.
+
+
+
+
+                                                                                                               11
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+      Argument 5. In a fifth argument, Byrne appeals to the dictionary definition of “woman”
+as “adult female human” to support AHF. Byrne is not so naïve as to suggest that this
+dictionary definition proves that AHF is true. Nevertheless, he claims that it provides some
+evidence that counts in favor of AHF and so contributes to his cumulative case for AHF.
+His only support for that claim in his original paper, however, is his dubious suggestion
+that the dictionary definition is “hard to reconcile with the alternative view that woman
+is a social category”.34 If the conclusion of Section 2 is correct, however, woman is a
+social category because “adult”, in the sense in which a girl becomes a woman when
+she becomes an adult, denotes a social category. Thus, there is no need to “reconcile”
+the dictionary definition with the view that woman is a social category, for there is no
+conflict between them to reconcile. Byrne simply assumes that, in the dictionary entry for
+“woman”, “adult female human” does not denote a social category, and then he uses that
+assumption as a basis for claiming that the dictionary definition is hard to reconcile with
+the view that “woman” does denote a social category.
+      If Byrne is trying to support NW on the grounds of AHF, another problem arises, for
+the dictionary definition does not reproduce BRB or any other particular interpretation of
+AHF—with minor revision,35 it reproduces AHF. Byrne assumes that, in the dictionary
+definition of “woman” as “adult female human”, “female” is to be understood to mean
+“reproductively female”. The dictionary definition itself, however, is consistent with other
+understandings of “female”. Thus, that definition can be explained just as well by an
+interpretation of AHF that is consistent with trans women being women. Nor would such
+an interpretation come into conflict with the dictionary definition of “female”. Webster’s,
+for example, contains this entry for the noun “female”:
+
+       1a: a female person: a woman or a girl. b: an individual of the sex that is typically
+       capable of bearing young or producing eggs. 2: a pistillate plant.36
+
+Nothing in 1a demands that “female” must be understood in a narrow, reproductive
+sense. Indeed, even 1b is consistent with the suggestion that trans women are
+female. Moreover, Webster’s also defines the adjective “female” in a way that allows
+for trans­woman­inclusive interpretations of the more common dictionary definition of
+“woman” as “adult female human” (as opposed to “adult human female”):
+
+       1a(1): of, relating to, or being the sex that typically has the capacity to bear young or
+       produce eggs...
+
+       b: having a gender identity that is the opposite of male.
+
+In his reply to Dembroff, Byrne suggests that, “[u]nless dictionaries are completely useless
+as guides to the meanings of words, it must be admitted that [the dictionary definition]
+provides some support for AHF”. He adds that “this is by no means decisive, but it
+is a consideration nonetheless”.37 However, here Byrne commits the same evidential
+fallacy that he commits in his appeal to gender role change. Again, the mere fact
+that a hypothesis explains or predicts some datum does not by itself show that the
+
+
+34
+     Byrne, “Are Women Adult Human Beings?”, 3787.
+35
+     Most English dictionaries define “woman” as “adult female human” (or “adult female person”) rather than
+     “adult human female”.
+36
+     https://www.merriam­webster.com/dictionary/female.
+37
+     Byrne, “Gender Muddle”, 6.
+
+
+                                                                                                         12
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+datum supports that hypothesis over any and all competing hypotheses and certainly
+does not establish that the hypothesis in question is presumptively true. Byrne should
+consider alternative hypotheses to see how well they do in terms of explaining or at least
+accommodating the dictionary definition of “woman” before concluding that that definition
+supports AHF. Indeed, Byrne appears to have done just that in his original paper, where he
+concedes that “perhaps the ‘dictionary definition’ ... merely reflects the fact that almost any
+woman is an adult human female”.38 There is no more reason to think that the dictionary
+definition reflects the alleged truth that, necessarily, women are adult female humans than
+there is to think that it merely reflects the undisputed fact that at least most women are
+adult human females. Any alternative to AHF that can explain the latter fact can do just
+as well as AHF in terms of explaining the dictionary definition of “woman”.
+     More importantly for the purposes of this paper, the dictionary definition quite clearly
+has no evidential bearing on the truth value of NW. Dictionary definitions are usually
+imperfect partly because they so often generalize from the more typical or central or
+undisputed cases in ways that do not do justice to the less typical or borderline or disputed
+ones. That is one reason why it is generally a really bad idea to use a dictionary definition
+as evidence that a term applies or does not apply to a borderline or contested case. Thus,
+trying to find evidence in the dictionary definition of “woman” for the conclusion that trans
+women are not women strikes me as an unpromising project.
+
+6. Byrne’s “Most Compelling” Evidence
+Argument 6. Five of Byrne’s arguments have now been found to provide no evidence for
+NW or for the denial of the proposition that trans women are women. Let us turn, then,
+to Byrne’s sixth argument. Partly because Byrne regards this argument as the “most
+compelling” of the six, I quote the passage that contains the argument in its entirety:
+
+      Anyone in the business of hunting or farming needs to take a keen interest in the
+      difference between male and female animals, and it is not surprising that long lists
+      of gendered animal words are found in numerous languages. For instance, in
+      English there are many (mostly monolexemic, often ambiguous) expressions for adult
+      females belonging to non­human kinds: ‘doe’, ‘sow’, ‘hen’, ‘goose’, ‘mare’, ‘peahen’,
+      ‘queen’, and so on. Given the utility of a similar word in the human case, it would be
+      astounding if English made an exception here. Moreover, since the best candidates
+      in other languages for such a word are translations of ‘woman’, if English makes an
+      exception then near­enough all other languages do too.
+
+      The semantics of words like “doe” are not remotely controversial—they are standardly
+      taken to pick out biological categories like adult female deer. It is no coincidence
+      that Williamson, seeking a paradigm case of an “analytic” truth, chose “Vixens are
+      female foxes”.
+
+      Of the six considerations, this is perhaps the most compelling. Someone who wants
+      to deny AHF needs to explain why this pattern of gendered animal words leaves us
+      out. Could the explanation be that when it comes to classifying their allies and rivals,
+      as opposed to animals that are tasty or dangerous, ordinary people are interested in
+      socially significant categories, not biological ones? That line of thought confuses a
+
+
+38
+     Byrne, “Are Women Adult Human Beings?”, 3786.
+
+
+                                                                                            13
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+       social category with a socially significant one: we are interested in socially significant
+       categories, but a category can be both socially significant and biological. Female and
+       male are clear examples. Peacocks have an important role in Hindu mythology—the
+       social/religious significance of the category peacock is not a good reason for denying
+       that it is biological.39
+
+The pattern to which Byrne appeals is real, of course, but it is important to recognize,
+as Byrne himself does, that it is not perfectly uniform. “Doe” can be used to refer to a
+juvenile female deer as well as an adult female deer, for example, whereas “mare” is
+not used to refer to juveniles. For most but not all nonhuman species, there is only a
+gender­neutral term for juvenile members of the species. Moreover, some of the gendered
+terms have multiple uses and others do not. The word “sow”, for example, in the context
+of the (despicable) pig farming industry, is used to pick out only those female pigs who
+have had a litter. Notice, too, that the latter meaning of “sow” is likely to have been shaped
+by social interests related to pig farming.
+      What would we expect of the English language, then, in terms of its gendered words
+for human beings? I agree with Byrne that we would naturally expect the existence of
+one or more words that are similar to words like “doe” and “sow” and “vixen”. However, in
+light of the enormous gulf between the social significance to humans of other humans and
+the social significance to humans of nonhuman animals, and in light of the fact that the
+pattern in question already lacks uniformity due, in part, to the influence of social factors,
+one might reasonably expect gendered words for human beings to differ from gendered
+words for other animals in ways that reflect the social gulf between them. At the very least,
+one would not be surprised to find such a lack of uniformity. Nor does this suggestion
+confuse “a social category with a socially significant one”. It simply recognizes that social
+norms and practices and interests shape language.
+      Furthermore, a lack of uniformity is exactly what we find in gendered terms that
+apply to human beings. The term “sow” requires for its correct application adulthood only
+in the sense of sexual maturity, but the term “woman” at least typically requires, for its
+correct application, adulthood in a different, social/legal sense, as discussed in Section 2
+above. A lack of uniformity is also what we see in the use of gendered words like “mother”
+and “father”. Those very same words are more likely to pick out biological categories
+when applied to nonhuman animals. Applied to humans, on the other hand, there are
+both social and biological senses of these terms. Thus, an adoptive mother is a mother
+despite her lack of biological credentials, and not just metaphorically or figuratively. It
+seems likely that the term “mother”, as applied to human beings, has been shaped by
+the social role associated with being a biological mother, and so can correctly be used
+to pick out properties that are not exclusively biological.40 It appears, then, that Byrne is
+simply incorrect to assume that the existence of gendered animal words that denote purely
+biological categories, such as adult porcine female or female deer, should make us expect
+the existence of words in English used exclusively to describe humans as belonging to
+precisely parallel categories.
+      Nor is there really a need for a term in English to pick out the female members of our
+species, for the word “female”, used as a noun, fulfills that function. Perhaps because
+
+
+39
+     Byrne, “Are Women Adult Human Beings?”, 3787.
+40
+     Sophie Grace Chappell usefully explores the analogy between being a trans woman or man and being
+     an adoptive parent in “Trans Women/Man and Adoptive Parents: An Analogy”, https://blog.apaonline.org/
+     2018/07/20/trans­women­men­and­adoptive­parents­an­analogy/.
+
+
+                                                                                                       14
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+humans are more interested in themselves than in other species, in most contexts the
+word “female” by itself, unaccompanied by the modifier “human”, is everywhere used
+correctly and unambiguously to talk about female humans specifically. Moreover, in many
+contexts, “female” can even be used unambiguously to talk about reproductively female
+humans specifically. Thus, there is no need for the word “woman” to fulfill the function of
+words like “doe”, words that denote the reproductively female members of the species.
+
+7. Conclusions
+Byrnes’ “most compelling” evidence for AHF, therefore, turns out to be no evidence at
+all. As we have seen, some of his other five arguments commit an evidential fallacy, and
+the remainder, although they may provide evidence for AHF, nevertheless provide no
+evidence for NW or against the proposition that trans women are women. My conclusion,
+then, is that Byrne’s arguments provide no reason to deny that trans women are women.
+This is not to say that my own conviction that trans women are women is correct.
+I have provided no justification for that conclusion here. My comments have been
+entirely negative.
+      Stepping back briefly to look at the larger picture, I would need to be convinced that
+Byrne’s article, or my discussion of his article here, has much theoretical significance.
+Indeed, insofar as the question is whether AHF is true, the corresponding debate strikes
+me as a mere verbal dispute. Byrne makes heavy weather out of the fact that his thesis
+is about women and not about the word “woman”,41 but it appears that the truth value of
+AHF depends entirely on what the word “woman” means. After all, AHF is supposed to
+be understood to be “implicitly necessitated”. However, it seems to me that, if AHF is a
+necessary truth, this is precisely because “woman” means “adult human female”. What
+alternative is there? AHF is not a candidate for joining the ranks of propositions like
+“Water is H2 0”, which, if Kripke is right, is an a posteriori necessary truth. For we have not
+discovered through empirical investigation that women are adult human females. Nor is
+AHF a candidate for being a logical or mathematical or moral truth. It looks much more
+like a candidate to join the ranks of truths like
+      AUM        S is a bachelor iff S is an adult unmarried human male,
+which derives its claim to necessity from the respective meanings of the relevant
+expressions. Imagine someone’s defending the thesis that AUM is a necessary truth
+and then insisting that their thesis is about bachelors and not about the word “bachelor”.
+One might wonder whether they were insisting on a distinction without a difference.
+      Furthermore, Byrne himself concedes that we should expect that AHF only
+approximates the truth. Are we to nevertheless imagine that there is some undiscovered
+proposition about women, closely approximated by AHF, that actually is a necessary
+truth? I would need to be convinced that the search for such a proposition is not entirely
+quixotic. Furthermore, that means that my suspicion is that the search for a category
+woman that answers to the “everyday standard sense” of “woman” is also quixotic.
+      In my opinion, for what it is worth, progress in the philosophy of gender is more
+likely to be achieved by generating one or more theoretical concepts of womanhood
+that one can expect to depart from common usage and even meaning (which is tied
+to, though not entirely determined by, common usage) in theoretically or normatively
+
+
+41
+     Byrne, “Are Women Adult Human Beings?”, 3784–5, and “Gender Muddle”, 6–7.
+
+
+
+                                                                                            15
+ Journal of Controversial Ideas 2021, 1(1), 9; 10.35995/jci01010009
+
+
+
+useful ways. To propose an analogy from epistemology, a notion of evidence is used
+in Bayesian confirmation theory that is intended to be more useful for understanding
+evidential reasoning than the ordinary, messy, and confused everyday notion or notions
+expressed by the word “evidence”. Bayesians understandably roll their eyes when some
+naïve philosopher says, “You misunderstand the nature of evidence, as proven by the
+following counterexample ...”, and then proceeds to describe a case where something that
+would count as evidence under the Bayesian definition of evidence would not count as
+evidence given the everyday standard sense of “evidence”. If philosophy (and linguistics
+and even hermeneutics) has taught us anything, it is that natural language is a chaotic
+mess that is often ill­suited to scientific or philosophical investigation. Indeed, as Byrne
+himself appears to recognize, it is such a mess that we should not expect to be able to
+provide logically necessary and sufficient conditions for the correct application of most
+ordinary predicates, including the predicate “is a woman”. Moreover, the history of
+oppression has taught us that language has often been an obstacle to moral progress.
+Developing a set of precise, theoretically or normatively useful, gender concepts could
+help us to overcome the current theoretical or normative limitations of some of the gender
+terms that natural languages like English have to offer.
+      Trying instead to simply develop a formula to capture the everyday standard sense of
+“woman” is especially problematic because, at this very moment, the target may be moving
+as more people are beginning to use “woman” and even “female” in a way that includes
+trans women in the extension of these terms. To insist that people avoid such usage on
+the grounds that it is, at least for now, deviant or incorrect is to insist that people follow
+rules that have absolutely no authority. Indeed, even if the dominant current meaning of
+“woman” is captured by BRB, that might simply reflect the fact that the dominant culture is
+oppressive to trans people. The bottom line, in my view, is that people should use words
+as they like so long as they are guided in their usage by a proper concern for justice and
+for the wellbeing of others. The passengers on the Clapham Omnibus and the analytic
+philosophers in the seminar room may not like the way I use the term “woman”—one of
+them might even angrily shake their copy of the Oxford English Dictionary at me as if it
+were holy writ—but why should I care?
+      This is not to say that philosophers should stop doing work on the meaning of
+gender terms or the metaphysics of gender. Serious and promising work of that sort has
+already been done by philosophers, including, among several others, Elizabeth Barnes,42
+Talia Mae Bettcher,43 Robin Dembroff,44 Esa Diáz León,45 and Sally Haslanger.46 I
+have chosen those five theorists as my examples partly because their work focuses on
+substantive issues. Efforts to identify a reliable formula for identifying who counts as a
+woman in “the everyday standard sense” of “woman” are, I suspect, less likely to yield
+interesting or useful results. Worse still, such efforts might provide rhetorical cover for
+oppression. They should be pursued with caution.
+
+
+
+42
+     “Gender and Gender Terms”, Nous 53, no. 3 (2020): 704–30.
+43
+     “Trans Identities and First­Person Authority”, in You’ve Changed: Sex Reassignment and Personal
+     Identity, ed. Laurie Shrage (Oxford: Oxford University Press, 2016); and “Trans Women and the Meaning
+     of ‘Woman.’”, in The Philosophy of Sex, ed. Nicholas Power, Raja Halwani and Alan Soble (Lanham, MD:
+     Rowman and Littlefield, 2013).
+44
+     “Real Talk on the Metaphysics of Gender”, Philosophical Topics (forthcoming).
+45
+     “Woman as a Politically Significant Idea: A Solution to the Puzzle”.
+46
+     “The Sex/Gender Distinction and the Social Construction of Reality”, in The Routledge Companion to
+     Feminist Philosophy, eds. A. Garry, S. J. Khader and A. Stone (New York: Routledge, 2017).
+
+
+                                                                                                       16
+

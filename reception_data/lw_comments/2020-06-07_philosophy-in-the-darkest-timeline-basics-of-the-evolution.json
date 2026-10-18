@@ -1,0 +1,233 @@
+{
+ "post": {
+  "_id": "4hLcbXaqudM9wSeor",
+  "title": "Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning",
+  "postedAt": "2020-06-07T07:52:09.143Z",
+  "pageUrl": "https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution",
+  "commentCount": 17
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "QMfaZTS3YSrpbvse3",
+   "parentCommentId": null,
+   "postedAt": "2020-06-08T08:25:38.552Z",
+   "baseScore": 0,
+   "user": {
+    "username": "FeepingCreature",
+    "displayName": "FeepingCreature"
+   },
+   "contents": {
+    "markdown": "I thought this was the standard theory of meaning that everyone already believed.\n\nIs there anyone who doesn't know this?"
+   }
+  },
+  {
+   "_id": "5T7ffNKt7bc2GhvCF",
+   "parentCommentId": null,
+   "postedAt": "2020-06-08T13:09:21.347Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Alexei",
+    "displayName": "Alexei"
+   },
+   "contents": {
+    "markdown": "Would you / when would you recommend Brian Skyrms's Signals: Evolution, Learning, and Information?"
+   }
+  },
+  {
+   "_id": "rdwt9jS4pMXuxMYDu",
+   "parentCommentId": null,
+   "postedAt": "2020-06-08T22:37:38.705Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Randomini",
+    "displayName": "Randomini"
+   },
+   "contents": {
+    "markdown": "After spending hours at your computer console struggling with the [symbol grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem), you realise the piece of paper had icicles on it and that the codec contained [information more important than the signal](https://en.wikipedia.org/wiki/The_medium_is_the_message)."
+   }
+  },
+  {
+   "_id": "HNLdEdHut4negoEfT",
+   "parentCommentId": null,
+   "postedAt": "2020-06-09T05:55:04.955Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(More comments on [/r/rational](https://www.reddit.com/r/rational/comments/gypd44/rstcedu_philosophy_in_the_darkest_timeline_basics/) and [/r/SneerClub](https://www.reddit.com/r/SneerClub/comments/gz6kyl/local_computer_scientist_discovers_truth_and/).)"
+   }
+  },
+  {
+   "_id": "3FvRNXsBJoL8rDf7v",
+   "parentCommentId": null,
+   "postedAt": "2020-06-09T14:02:59.399Z",
+   "baseScore": -5,
+   "user": {
+    "username": "ligvent",
+    "displayName": "ligvent"
+   },
+   "contents": {
+    "markdown": "."
+   }
+  },
+  {
+   "_id": "ZvNGCjavG9KjLMmTw",
+   "parentCommentId": "3FvRNXsBJoL8rDf7v",
+   "postedAt": "2020-06-09T14:43:35.839Z",
+   "baseScore": -1,
+   "user": {
+    "username": "ligvent",
+    "displayName": "ligvent"
+   },
+   "contents": {
+    "markdown": "."
+   }
+  },
+  {
+   "_id": "zDcZsC99fbJwP7Wwj",
+   "parentCommentId": "QMfaZTS3YSrpbvse3",
+   "postedAt": "2020-06-09T21:16:48.779Z",
+   "baseScore": 1,
+   "user": {
+    "username": "thomas-kwa",
+    "displayName": "Thomas Kwa"
+   },
+   "contents": {
+    "markdown": "I notice a version of this comment has +8 karma on /r/rational, but -2 here. Maybe it's worth elaborating, or being nicer?"
+   }
+  },
+  {
+   "_id": "umes2EnfT7M57eeFz",
+   "parentCommentId": "zDcZsC99fbJwP7Wwj",
+   "postedAt": "2020-06-10T16:59:04.237Z",
+   "baseScore": 4,
+   "user": {
+    "username": "dxu",
+    "displayName": "dxu"
+   },
+   "contents": {
+    "markdown": "Differing discourse norms; in general, communities that don't expend a constant amount of time-energy into maintaining better-than-average standards of discourse will, by default, regress to the mean. (We saw the same thing happen with LW1.0.)"
+   }
+  },
+  {
+   "_id": "sDbSFww4xaxZgiSAH",
+   "parentCommentId": "5T7ffNKt7bc2GhvCF",
+   "postedAt": "2020-06-18T04:36:43.221Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Thanks for your patience.) If you liked the technical part of this post, then yes! But supplement or substitute Ch. 6, \"Deception\", with Don Fallis and Peter J. Lewis's [\"Towards a Formal Analysis of Deceptive Signaling\"](http://philsci-archive.pitt.edu/13337/), which explains what Skyrms gets wrong."
+   }
+  },
+  {
+   "_id": "HYHjs98ovtYns9KGo",
+   "parentCommentId": "QMfaZTS3YSrpbvse3",
+   "postedAt": "2020-06-22T01:11:39.788Z",
+   "baseScore": 28,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks for the comment!\u2014and for your patience.\n\nSo, the _general_ answer to \"Is there anyone who doesn't know this?\" is, in fact, [\"Yes.\"](https://www.lesswrong.com/posts/BNfL58ijGawgpkh9b/everybody-knows#Not_Everybody_Knows) But I can try to say a little bit more about why I thought this was worth writing.\n\nI _do_ think _Less Wrong_ and /r/rational readers know that words don't have intrinsic definitions. If someone wrote a story that _just_ made the point, \"Hey, words don't have intrinsic definitions!\", I would probably downvote it.\n\nBut I think this piece is actually doing _more work_ and exposing more [details](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding) than that\u2014I'm actually providing executable source code (!) that sketches _how_ a simple sender\u2013reciever game with a reinforcement-learning rule correlates a not-intrinsically-meaningful signal with the environment such that it can be construed as a meaningful word that could have a definition.\n\nIn analogy, [explaining _how_](https://www.lesswrong.com/posts/FqJGfSrXphrcwpiZe/causality-and-moral-responsibility) the subjective sensation of \"free will\" might arise from a deterministic system that computes plans (without being able to predict what it will choose in advance of having computed it) is doing _more work_ than the mere observation \"Na\u00efve free will can't exist because physics is deterministic\".\n\nSo, I _don't_ think all this was already obvious to _Less Wrong_ readers. If it was already obvious to you, then you should be commended. However, even if some form of these ideas was already well-known, I'm also a proponent of [\"writing a thousand roads to Rome\"](https://www.lesswrong.com/posts/Q924oPJzK92FifuFg/write-a-thousand-roads-to-rome): part of how you _get_ and _maintain_ a community where \"everybody knows\" certain basic material, is by many authors grappling the ideas and putting their own ever-so-slightly-different pedagogical spin on them. It's fundamentally _okay_ for Yudkowsky's account of free will, _and_ Gary Drescher's account (in Chapter 5 of [_Good and Real_](https://www.gwern.net/docs/statistics/decision/2006-drescher-goodandreal.pdf)), _and_ [my story about writing a chess engine](http://zackmdavis.net/blog/2019/05/minimax-search-and-the-structure-of-cognition/) to all exist, even if they're all basically \"pointing at the same thing.\"\n\nAnother possible motivation for writing a new presentation of an already well-known idea, is because the new presentation might be better-suited as a prerequisite or \"building block\" towards more novel work in the future. In this case, some recent _Less Wrong_ discussions have used a [\"four simulacrum levels\"](https://www.lesswrong.com/posts/8XDZjfThxDxLvKWiM/excerpts-from-a-larger-discussion-about-simulacra) framework [(loosely inspired by the work of Jean Baudrillard)](https://www.lesswrong.com/posts/yqEh9ewKwzig4kzyx/what-is-meant-by-simulcra-levels?commentId=JfN7vQgSvdfP9QKM2) to try to model how political forces alter the meaning of language, but I'm pretty unhappy with the \"four levels\" formulation: the fact that I could never remember the difference between \"level 3\" and \"level 4\" even after it was explained several times (Zvi's [latest post](https://www.lesswrong.com/posts/qDmnyEMtJkE9Wrpau/simulacra-levels-and-their-interactions) helped a _little_), and the contrast between the \"linear progression\" and [\"2x2\"](https://www.lesswrong.com/posts/yqEh9ewKwzig4kzyx/what-is-meant-by-simulcra-levels?commentId=37XzvF9nkdcnARhyP) [formulations](https://www.lesswrong.com/posts/fEX7G2N7CtmZQ3eB5/simulacra-and-subjectivity), make me feel like we're talking about a hodgepodge of different things and haphazardly shoving them into this \"four levels\" framework, rather than having a clean [deconfused](https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/#section2) concept to do serious thinking with. I'm optimistic about a formal analysis of sender\u2013receiver games (following the work of Skyrms [and others](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution?commentId=sDbSFww4xaxZgiSAH)) being able to provide this. Now, I haven't done that work _yet_, and maybe I won't find anything interesting, but laying out the foundations for that _potential_ future work was part of my motivation for this piece."
+   }
+  },
+  {
+   "_id": "oicqroCqgT2ss2GaT",
+   "parentCommentId": "zDcZsC99fbJwP7Wwj",
+   "postedAt": "2020-06-22T01:14:18.492Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "So, I actually [don't think](https://www.lesswrong.com/posts/bwkZD6uskCQBJDCeC/self-consciousness-wants-to-make-everything-about-itself) _Less Wrong_ needs to be nicer! (But I agree that elaborating more was warranted.)"
+   }
+  },
+  {
+   "_id": "qvWqgQXrLFkmctxkw",
+   "parentCommentId": "HYHjs98ovtYns9KGo",
+   "postedAt": "2020-06-22T07:00:11.053Z",
+   "baseScore": 2,
+   "user": {
+    "username": "FeepingCreature",
+    "displayName": "FeepingCreature"
+   },
+   "contents": {
+    "markdown": "Fair enough - it's probably good to have it in writing. But this seems to me like the sort of explanation that is \"the only possible way it could conceivably work.\" How *could* we bootstrap language learning if not for our existing, probably-inherent faculty for correlating classifiers over the the environment? Once you say \"I want to teach something the meaning of a word, but the only means I have to transmit information to them is present them with situations and have them make inferences\"\u2026 there almost isn't anything to add to this. The question already seems to contain the only possible answer.\r\n\r\nMaybe you need to have read *Through the Looking Glass*?"
+   }
+  },
+  {
+   "_id": "E7xTjxmyLLiwQkJnS",
+   "parentCommentId": null,
+   "postedAt": "2020-10-20T15:51:40.326Z",
+   "baseScore": 4,
+   "user": {
+    "username": "TurnTrout",
+    "displayName": "TurnTrout"
+   },
+   "contents": {
+    "markdown": "I really like this post. Thanks for writing it!\n\n(Why didn't you mention the Slaughterbot Slip-up of '24, though?)"
+   }
+  },
+  {
+   "_id": "XR2jKcvPsZC8WcbrL",
+   "parentCommentId": null,
+   "postedAt": "2021-06-14T04:49:26.920Z",
+   "baseScore": 11,
+   "user": {
+    "username": "Icarus Gallagher",
+    "displayName": "Icarus Gallagher"
+   },
+   "contents": {
+    "markdown": "Very cool story! I laughed a lot, and \u2018hm\u2019ed a lot. As a longtime Internet ratsphere person, but not a traditional philosophy nerd, the idea of *modelling* the emergence of semantic meaning like you would model genetics or something literally never occurred to me. I can\u2019t understand the notion that if a concept has ever been written about in philosophy, you are not allowed any credit for your independent derivation of it anywhere unless you cite the literature. Except, of course, as part of one of those negative-sum inb4ing contests that seems to be eating the world. [Yes, it\u2019s kind of adjacent to IP law, but while I haven\u2019t worked out my feelings about IP law, I know *exactly* how I feel about the rule of Credit Others For Your Own Thoughts Or Don\u2019t Express Them and it\u2019s ick.]\n\nI have one...not objection to, exactly, but meliorating addition to, or possibly just anecdote about my reaction to [depending on how many readers turn out to have ~ the same thing going on] - this line:\n\n\u2018 Or rather\u2014this is a good-natured joke. \"Good-natured joke\" and \"gaslighting as a bullying technique\" are two descriptions of the same regularity in human psychology, even while no one thinks of themselves as doing the latter. \u2019 \n\nIt is possible that it was flatly obvious to everyone but me reading this story for the first time that you meant \u2018 Both of these terms can be used to *refer* to an underlying regularity in human psychology, call it X, which is functionally tuned to do bullying, *or* either term may *also* be used to refer to *another* regularity, call it Y, which is functionally tuned to produce nothing but mutual joy, or to any number of other regularities, any of whose *interpretations* by the receiver may differ not only from what the sender consciously thinks of themselves as doing, but also from what the social reflex is *actually programmed* to do, \u2019 and not \u2018 If you think you\u2019re on the receiving end of an actual good-natured joke but it\u2019s even a little bit ambiguous, think again! it\u2019s gaslighting. \u2019 But with the Internet and culture in the state they\u2019re in, and being myself prone to interpreting every social signal in the worst possible light [yes, including this story] I want to note that there *are* human social reflexes tuned to produce nothing but mutual joy. They exist. All is not lost yet.\n\nAgain, great story, and thank you. :)"
+   }
+  },
+  {
+   "_id": "TFgFLJ6TQDCKcXwR3",
+   "parentCommentId": "XR2jKcvPsZC8WcbrL",
+   "postedAt": "2021-06-15T05:56:52.971Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> As a longtime Internet ratsphere person, but not a traditional philosophy nerd, the idea [...] never occurred to me.\n\nAre you sure that's not the other way around?? (I don't think Brian Skyrms is a _traditional_ philosopher.)"
+   }
+  },
+  {
+   "_id": "Fy2m3p9QGHZ2rhvhN",
+   "parentCommentId": "TFgFLJ6TQDCKcXwR3",
+   "postedAt": "2021-06-19T20:46:52.647Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Icarus Gallagher",
+    "displayName": "Icarus Gallagher"
+   },
+   "contents": {
+    "markdown": "I had never heard of him before! I was referring to a cloud of implicit norms I feel like I\u2019ve seen around something I would call \u201ctraditional philosophy\u201d, but part of what makes \u201dtraditional philosophy\u201d stand out a distinct thing in my mind is that those norms exist in it. I should probably be clearer."
+   }
+  },
+  {
+   "_id": "dEpGKkgrcML2FAnXC",
+   "parentCommentId": null,
+   "postedAt": "2025-10-19T00:49:58.283Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "> (You shudder involuntarily and wish your brain had generated a different arbitrary example; you still occasionally have nightmares about your injuries during the Summer of Wolves back in '25.)\n\nGreat news, the Summer of Wolves did not happen (that I know of, at least?). We are probably not in this timeline."
+   }
+  }
+ ]
+}

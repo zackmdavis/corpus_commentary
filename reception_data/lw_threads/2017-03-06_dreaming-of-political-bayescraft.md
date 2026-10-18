@@ -1,0 +1,412 @@
+Title: Dreaming of Political Bayescraft
+LessWrong-URL: https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft
+Posted: 2017-03-06
+Fetched: 2026-10-13 (LessWrong GraphQL API; rendered by tools/render_lw_threads.py)
+Comments: 49 (commentCount field: 49)
+
+#### [-] Lumifer · 6 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=epgaZ3zAW2x6Z2Pfd
+Why do you equate "genuinely appealing to some feature of human psychology" with benevolence? Killing a rival is genuinely appealing to some feature of human psychology, so is "to crush your enemies, to see them driven before you, and to hear the lamentations of their women".
+
+#### [>] Zack_M_Davis [AUTHOR] · 3 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=n9fXGZqFRjW6kcFCn
+I don't expect the joy of crushing one's enemies to be stable under reflection. If you *really know deep down* that [your enemies are just humans like you](http://lesswrong.com/lw/i0/are_your_enemies_innately_evil/) with a slightly different set of genes who grew up in a different culture, crushing them probably seems less like a good idea, on the grounds that the badness of the subjective experience of suffering being crushed shouldn't depend on whether that experience gets implemented in your own skull or somewhere else (*e.g.*, your enemy's skull). At the same time, however, the underlying features of human psychology that make crushing one's enemies *seem* like a good idea if you *don't* know that much philosophy, are probably not things that we want to give up, because they're probably also what make video games and team sports fun.
+
+#### [>>] Lumifer · 12 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=22REAvjXwTMnjqH7r
+> I don't expect the joy of crushing one's enemies to be stable under reflection.
+
+I expect the joy of crushing one's enemies to be very stable since it matches the biologically hardwired incentives: you want to perpetuate **your** genes, not the genes of your neighbour.
+
+> crushing them probably seems less like a good idea, on the grounds that the badness of the subjective experience of suffering being crushed shouldn't depend on whether that experience gets implemented in your own skull or somewhere else (e.g., your enemy's skull)
+
+Boggle. Have you, um, looked around at empirical reality? You can theorycraft about perfectly compassionate bodhisattvas who treat the suffering of each sentient as their own, but in the world I live in people crush each other's skulls for power and wealth on a very very regular basis (sometimes with clubs and sometimes with drones) and such practices don't seem to be going away.
+
+The mainstay of government power -- including in the West -- is still the explicit threat of violence. If you piss off the government enough, men with guns will come and force you into compliance. These men are very clear about the difference between your suffering and their suffering.
+
+#### [>>>] Zack_M_Davis [AUTHOR] · 2 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=CpLGmpQSTRgmcQDND
+> the world I live in people crush each other's skulls for power and wealth on a very very regular basis and such practices don't seem to be going away.
+
+Yes, but I'm thinking that if they *knew* of some clever plan to get the *same* amount of power and wealth but *without* the skull-crushing, a lot of people would take it.
+
+> The mainstay of government power -- including in the West -- is still the explicit threat of violence.
+
+Unfortunately, that part's *never* going away: might makes right. But as people and systems made of people continue to exert optimization power on the world, it tends to become increasingly *counterfactual* violence: if you can *predict* the outcome of a conflict, you and your adversary can just implement that outcome without bothering to pay the cost of actually fighting.
+
+> These men are very clear about the difference between your suffering and their suffering.
+
+Yes, it's probably more profitable for you to model them as extensions of "the government" rather than agents in themselves.
+
+#### [>>>>] komponisto · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=r76u3cMZG5gZPpf2X
+> might makes right
+
+Might is perhaps a necessary condition for right, but I would not be inclined to call it a sufficient one.
+
+#### [>>>>>] Zack_M_Davis [AUTHOR] · 1 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=B4KKmrDxWiEHEZqxZ
+... says the guy whose ancestors successfully survived and reproduced.
+
+#### [>>>>>>] komponisto · 4 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=LSS5fa4HfyJycnEJd
+Oh, you meant "might *made* right".
+
+#### [>>>>>>>] Zack_M_Davis [AUTHOR] · 3 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=WAv7aHsn9KNDKMns9
+Yes, that's a better way of putting it, thanks.
+
+#### [>>>>>>>>] username2 · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=2NZDttiLoMK7A6WGd
+I think you missed the point komponisto was making.
+
+#### [>>>>>>>] fubarobfusco · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=SBGKKzMxbATFeYrNY
+See Scott's ["The Goddess of Everything Else"](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/) for a poetical exposition on the subject.
+
+#### [>>>>] Lumifer · 4 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=e6wodHqroYXhdJxgk
+> if they knew of some clever plan to get the same amount of power and wealth but without the skull-crushing, a lot of people would take it
+
+Some would, yes. But there is a slight problem -- such people want more power than what's freely available ("there can be only one"). This means there's **competition** for power and at this point willingness to crush skulls becomes a rather important advantage.
+
+> it tends to become increasingly counterfactual violence
+
+Careful with terminology. That's not *counterfactual* violence -- that's *potential* violence. It is nicely encompassed by the traditional phrase "Your money or your life". If I'm holding a gun to your head, of course it's convenient for me if you are going to obey me unconditionally without me having to pull the trigger.
+
+> more profitable for you to model them as extensions of "the government"
+
+"Profitable" is probably the wrong word :-) But wasn't your point that if they're enlightened enough, they would refuse to carry out the government's orders?
+
+#### [>>>>>] Zack_M_Davis [AUTHOR] · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=rz4ZPAEjeWJcb2bRj
+> But wasn't your point that if they're enlightened enough, they would refuse to carry out the government's orders?
+
+No, I'm thinking that if someone understood history, human psychology, and the game-theoretic [Bayes-structure](http://lesswrong.com/lw/o7/searching_for_bayesstructure/) of the universe well enough, they might be able to understand how and why currently-existing governments evolved, and then use that knowledge to engineer new institutions that do a better job of being powerful, stable, and protecting human values?
+
+But this is just me thinking out loud. If this comment isn't useful or interesting, you should downvote it!
+
+#### [>>>>>>] Lumifer · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=MsAgTgnGx2tQyfY8k
+> then use that knowledge to engineer new institutions that do a better job of being powerful, stable, and protecting human values
+
+Yeah, Asimov called that psychohistory :-) Marxists were doing precisely that: they thought they understood how and why the social order evolved and they used that knowledge to engineer new institutions. How did it work out?
+
+However "engineering" is not enough. So you come up with new institutions -- you still need power to implement them. How are you going to acquire this power?
+
+> But this is just me thinking out loud.
+
+That's a good thing. Discussion is good, punishing wrong-thinkers is bad.
+
+#### [>>>>>>] gjm · 4 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=uv8RmPBz6W8gE6Faz
+> you should downvote it
+
+Downvoting has been disabled for some time.
+
+#### [>>>>>>>] Zack_M_Davis [AUTHOR] · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=kRPRCSCuJd42sqPvx
+Huh, so it is! I've been away for a while!
+
+#### [>>>] gjm · 0 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=4aefzPvGjYZAu64Ng
+> people crush each other's skulls for power and wealth on a very very regular basis
+
+Some people do, yeah. But I, for one, have never crushed anyone's skull for power and wealth (mine or anyone else's), and I'm not sure I know anyone who has, and the net quantity of skullcrushing per person seems to be decreasing over time despite the extremely nasty skullcrushing bonanzas of the early-to-mid 20th century.
+
+And while my life has its sorrows and troubles, none of them seems to me to have anything to do with not getting to crush enough skulls. And, again, this seems to me to be true of most of the people I know. So at least within my nice liberal middle-class bubble -- which is, y'know, actually a pretty big bubble, encompassing a substantial fraction of the population -- the "joy of crushing one's enemies" seems not to be much of a thing any more.
+
+Of course, if you allow for metaphorical crushing (sports, board games, getting promoted ahead of the other guy) then there's more of it about. But you have to extend the sense of "crushing" rather a lot for that, and the fact that people seldom actually die from losing at football, chess or office politics is a pretty important fact about those pastimes.
+
+> The mainstay of government power \[...\] is still the explicit threat of violence
+
+Sure. But most of the time the government gets its way without needing to follow through on that threat, and most of the time that's a good thing. (So it seems to me. I am aware that there are political factions that take the opposite view.)
+
+#### [>>>>] Dagon · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=LPjB5vChrLMiyp4uc
+Wait. The fact that the government usually gets it's way with a deeply hidden implicit threat of violence rather than with overt violence matters how? The underlying primate behaviors of jealousy and social power is still there, and it's hard to claim those aren't fundamental features of human psychology.
+
+#### [>>>>>] gjm · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=JD8sjhPzraeSkLcgs
+The foregoing discussion was about how much *joy* people take in crushing their enemies, driving them before them, and hearing the lamentation of their women.
+
+Government power may well be founded on the theoretical possibility (and relatively rare reality) of coercive violence (I would suggest, naive special snowflake that I am, that actually the consent of the governed is just as important as the threat of coercive violence, but never mind that) but it doesn't generally involve a great deal of joyful skullcrushing, and joy-in-skullcrushing on the part of the enforcers is generally regarded as a bug rather than a feature and isn't, so far as I can see, actually required in practice.
+
+#### [>>>>] Lumifer · 5 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=rruC97huu3Ryw3mWG
+> But I, for one, have never crushed anyone's skull for power and wealth
+
+And so, how much power or wealth do you have? Compared to people who were willing to crush skulls.
+
+> the net quantity of skullcrushing per person seems to be decreasing over time
+
+That's not obvious to me. I understand that there is considerable debate over the secular trend of violence over timeline measured in centuries.
+
+> most of the time the government gets its way without needing to follow through on that threat
+
+*Because* this threat is real and if you try to call the bluff, the government will make an example out of you.
+
+#### [>>>>>] gjm · 8 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=gxx7MbkDTFqziECMa
+> how much power or wealth do you have? Compared to people who were willing to crush skulls.
+
+Hard to tell, but I'm much better off than e.g. almost anyone in the armed forces, the great majority of criminals, etc. I'm sure this has much more to do with having marketable skills and above-average ability to delay gratification than with my unwillingness to crush skulls, but I really haven't seen any sign that I'd be much richer or more powerful if I were more inclined towards skullcrushing.
+
+> That's not obvious to me.
+
+Nor to me. It was deliberate that I said "seems to be" rather, than, say, "definitely is". I wasn't trying to deny that there's debate.
+
+#### [>>>>>] username2 · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=gZ4LpPsYnHwfuinX6
+> That's not obvious to me. I understand that there is considerable debate over the secular trend of violence over timeline measured in centuries.
+
+Steven Pinker has put forward the most comprehensive argument I'm aware of in [The Better Angels of our Nature](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature) in favor of the position that violence is declining over time, no matter how you reasonably measure it. Among the people I know working on this (I've met a few), the uncertainty is over the causes, not the trend itself. But I suppose there could be biases at play still, given that they self-selected to work on these issues.
+
+That all said, I don't think it contradicts the point you are making. There are many reasons that violence is subsiding, as Mr. PInker goes over. But ultimately we are moving over time towards stronger states, and the state's position is based on having a monopoly on violence. When the state has assured its own security, it no longer needs to exercise that power, just threaten it. And after a generation of conditioning, that threat need no longer be brandished -- people just know their roles and fulfill them, with only the deviants being labelled as 'criminals' and having state violence applied against them. So we can expect the amount of violence enacted over time to go down, even as the power asymmetry and implicit threat of violence goes up.
+
+#### [>>>>>>] gjm · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=ncYiiL9bZG4hwEBWR
+> Steven Pinker \[...\]
+
+I have seen it suggested that Pinker's alleged observation of declining violence is something of a statistical artefact -- violent death has a heavy-tailed distribution, so the usual methods of estimating trends may fail badly.
+
+> we can expect the amount of violence enacted over time to go down, even as the power asymmetry and implicit threat of violence goes up
+
+That may be true, but the context here is a discussion of whether we should see joy in crushing one's enemies as an essential and stable part of human nature. I think there's an important difference between joy in crushing one's enemies and the practical expedience of threatening to crush one's enemies, from that perspective.
+
+#### [>>>>>>>] username2 · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=nxGkrPypAs2oocuRm
+> That may be true, but the context here is a discussion of whether we should see joy in crushing one's enemies as an essential and stable part of human nature.
+
+Taking joy in vengeance / revenge is pretty darn universal. It seems really strange to have to justify this, given the preponderance of evidence in the form of literature, plays, and myth from all cultures.
+
+#### [>>>>>>>>] gjm · 4 karma · 2017-03-08 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=fhadQoZZke9DyGWMA
+Some degree of joy-in-vengeance appears to be built into human biology, yes. Zack suggests that it isn't "stable under reflection": that is, if we were able to modify our values, then even though at present we have some tendency to rejoice in the suffering of our enemies we would (if smart enough) choose to stop doing so.
+
+I think there is some evidence to support this, and in particular to support the idea that we *have*, on a timescale of centuries, modified our values to involve less rejoicing in the suffering of enemies.
+
+This is one of those discussions where it seems like each comment is addressing a question just slightly different from the previous comment's, and after a while there's severe divergence, so let's take it from the top for context's sake.
+
+*   Zack originally claimed that " the forces of memetic evolution are somewhat benevolent" on the grounds that ideas that spread "have to be genuinely appealing to some feature of human psychology".
+*   Lumifer objected that appealing to human psychology and benevelonce are very different things, offering the example of crushing one's enemies.
+    *   I think this is a reasonable objection.
+*   Zack countered that the joy of crushing one's enemies is probably not stable under reflection.
+    *   I'm not sure this is *relevant* to the foregoing discussion, but I think it's right. As evidence I remark that most people *thinking about values* seem to conclude that taking joy in crushing one's enemies is mostly a bad thing. Most systems of ethics either condemn it explicitly or embrace principles that imply condemning it.
+*   Lumifer said: no, the joy of crushing one's enemies should be very stable because it or something very like it is biologically hardwired.
+    *   This looks to me like a very different notion of stability from Zack's: something strongly enough hardwired will be Lumifer-stable even if it's so clearly opposed to our other explicitly-held values as to be definitely not Zack-stable.
+        *   Whether that's a problem depends on why Zack considered the notion of stability-under-reflection relevant in the first place, which I am not certain of.
+    *   It also looks empirically wrong to me. For sure, joy-in-crushing-enemies hasn't *completely disappeared from human nature* (no doubt for exactly the reasons Lumifer gave) -- but it seems to me to have become much less pronounced and much less important in how societies work, over (say) the last couple of thousand years. At least in the societies LW people are almost all part of.
+*   Lumifer claimed, more specifically, that literal enemy-crushing -- smashing skulls, and all that -- is still commonplace. (Again, as an objection to Zack's claim that joy-in-crushing-enemies isn't stable under reflection.)
+    *   This is again clearly concerned with Lumifer-stability (does it in fact persist given human nature?) rather than Zack-stability (would we keep it if we had the choice?).
+    *   And it also looks empirically doubtful at best. Most of "Western civilization", which of course is far from being the whole world but is a big chunk of it, has treated joy in literal skullcrushing as socially unacceptable in almost all circumstances for quite some time, and this doesn't seem to have done us any particular harm. The existence of skullcrushing in (overt and less-overt) wars far away, and the theoretical threat of skullcrushing for those too obdurately unwilling to obey the law, are irrelevant, since they don't offer most of us any opportunities for actual joyful skullcrushing.
+
+So: sure, we're hardwired for some degree of vengefulness; sure, some amount of (actual or threatened) skullcrushing is necessary for practical reasons. Yet, despite those things, we in the allegedly-civilized West mostly manage to get by with no literal skullcrushing at all and not all that much metaphorical skullcrushing, and our societies are pretty successful by any reasonable measure, more so I think than societies that still embrace skullcrushing as a source of joy.
+
+That is, joy in crushing our enemies, in "our" societies,
+
+*   is generally condemned by people and institutions that have thought hard about values
+*   has been quite successfully suppressed
+*   without obvious adverse consequences
+*   despite biological hardwiring and occasional pragmatic necessity
+
+all of which seems to me to support Zack's contention that it's not stable under reflection.
+
+#### [>>>>>>>>>] Lumifer · 0 karma · 2017-03-08 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=xMuSzJyJryxEJu2R6
+> That is, joy in crushing our enemies, in "our" societies (*) is generally condemned by people and institutions that have thought hard about values; (*) has been quite successfully suppressed; (*) without obvious adverse consequences; (*) despite biological hardwiring and occasional pragmatic necessity.
+
+Let's try a couple of examples: (a) WW2; (b) Islamic terrorism.
+
+Plus, there is the usual problem of what to do when Joyous Skullcrushers come swinging their clubs.
+
+#### [>>>>>>>>>>] gjm · 0 karma · 2017-03-08 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=iNQQvdKmca8nTo6H7
+> Let's try a couple of examples
+
+Would you care to make some actual *argument* explicit enough to be debated? I mean, if I'd claimed that violence has been completely eradicated from the world then those examples would refute me very nicely, but I haven't said anything of the sort.
+
+> what to do when Joyous Skullcrushers come swinging their clubs
+
+Die. Or, if you get more advance warning, send in the police or army, institutions developed so that a largely non-skullcrushing society can survive despite the existence of other skullcrushers.
+
+What proposition is it that you think you're arguing against?
+
+#### [>>>>>>>>>>>] Lumifer · 0 karma · 2017-03-08 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=G9ukCK4twAyX2S9ni
+> Would you care to make some actual argument explicit enough to be debated?
+
+You don't think keeping your guessing is more fun? :-)
+
+I would probably argue that a society's attitude to the biological aggressiveness and lust for power is variable and depends on the society's current needs. In peacetime, without major threats, you want the population to sit down, shut up, and emulate a flock of sheep. Rocking the boat is baaaad. There is an exception for police/army types since you need to maintain a credible threat of violence.
+
+However the world is not a safe place. One a serious threat materializes, you want your population, notably your young men, to be raring to go crush some skulls of the hated enemies. And suddenly it becomes a *desireable* feature -- go kill the Huns! kill the Japs! No angst, kill them to feel good about yourself.
+
+If your population becomes sufficiently sheepified and you happen to have a big bad wolf as a neighbour, though, you have problems. Certainly, it's neither necessary nor sufficient to be a sheep in order to find yourself eaten, but lacking the willingness to fight eases the way into someone's stomach.
+
+So I think that the underlying brutishness is a valuable feature that societies ("elties", maybe) want to switch on and off at will, depending on the circumstances. I'm guessing you're mostly focused on the long period of peace in Europe post-WW2 and I'm taking a bit wider and a bit longer view.
+
+#### [>>>>>>>>>>>>] gjm · 0 karma · 2017-03-08 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=MGWv7HXXSwRhwzPGW
+> You don't think keeping you guessing is more fun?
+
+For whom?
+
+> I'm guessing you're mostly focused on the long period of peace in Europe post-WW2 and I'm taking a bit wider and a bit longer view.
+
+I'm saying that given that we've managed several decades of non-skullcrushing, and they seem to have been on the whole pretty good decades by most measures, it seems clear that skullcrushing-lust is not an unavoidable feature of human psychology, nor in "reasonable" times is it a sorely-needed one.
+
+That's perfectly consistent with saying, as you did and I think I would agree, that sometimes The Powers That Be find it convenient to encourage a substantial part of the population to feel skullcrushing-lust directed a particular way. Or even with saying, as you did though I think I probably disagree, that sometimes it's actually necessary *for the benefit of the people as a whole* for them to feel skullcrushing-lust. (I think a country can have pretty effective armed forces even if they aren't in it for the joy of seeing people crushed, blown up, sliced to bits, etc.)
+
+Incidentally, I think your sheep metaphor conflates peacefulness with obedience. Those who rule want obedient people all the time; sometimes they want obediently peaceful people, sometimes obediently bloodthirsty ones. As far as obedience goes, in skullcrushing mode the people aren't any less sheep-like.
+
+#### [>>>>>>>>>>>>>] Lumifer · 0 karma · 2017-03-09 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=4RhNJHk7phJ72xgtT
+> we've managed several decades of non-skullcrushing
+
+By "we" you mean the rich developed countries, right? I don't think Sub-Saharan Africa ever stopped and Middle East isn't too far behind...
+
+I'm not sure that your point demonstrates that skullcrushing-lust is "avoidable". What it shows is that it can be successfully controlled and channeled.
+
+> I think your sheep metaphor conflates peacefulness with obedience
+
+Good point about obedience, but I mean not just that. Since population control is still quite imperfect :-/ the *mood* of the population matters. Being obedient is correlated with the position on the docile - bloodthirsty axis. I disagree that in the skullcrushing mode people are just as obedient -- I think they are less obedient. You might be able compensate for that because they are more easily manipulated and redirected, but that's a slightly different thing.
+
+#### [>>>>>>>>>>>>>>] gjm · 0 karma · 2017-03-09 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=NBig3XXBinDzhSgHa
+> By "we" you mean the rich developed countries, right?
+
+Near enough, yes.
+
+> What it shows is that it can be successfully controlled and channeled.
+
+I think this may just be a disagreement about definitions.
+
+I ask again: What proposition is it that you think you're arguing against?
+
+> Being obedient is correlated with the position on the docile-bloodthirsty axis.
+
+I beg leave to doubt this, or at least to doubt whether it has the significance it seems you're suggesting. If you consider only times of peace when TPTB want docile (I note in passing that yet again you're choosing terminology that encourages equivocation between "peaceful" and "obedient") sheep, then of course obedience will be correlated with docility. But if you consider only times of war when TPTB want bloodthirsty sheep, you'll find obedience correlated with bloodthirstiness. Lately peace is more common than war, and it's mostly only the youngish men that TPTB want to be bloodthirsty, so no doubt *overall* the correlation with peacefulness is positive. I think that reflects the fact that peacefulness is usually more useful than bloodthirstiness, not a fundamental link between peacefulness and obedience.
+
+I'm maybe overstating my case a bit. People have moods in which they want to burn the world down, and those tend to be less obedient and more bloodthirsty. So there probably is *some* genuine correlation between obedience and peacefulness that isn't just a matter of peace being, well, *mostly better* than war. But I think your choices of metaphor are liable to push readers towards thinking there's much such correlation than there is.
+
+#### [>>>>>>>>>>>>>>>] Lumifer · 0 karma · 2017-03-09 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=gC8dKHs4RWsgY7iEh
+> What proposition is it that you think you're arguing against?
+
+That we can get rid of bloodthirstiness in humans easily enough.
+
+> But if you consider only times of war when TPTB want bloodthirsty sheep, you'll find obedience correlated with bloodthirstiness.
+
+I don't think so. Let me make a caricature of my position so that it becomes clearer: humans have a violent beast inside them which civilization contains and tries to tame. This beast is not obedient by its nature. In peacetime TPTB make the containment cage as strong as possible, but in wartime the cage is open and the beast is let loose. There is less obedience, but that's the price you pay for the ability to smash. Think berserkers.
+
+I shudder to imagine what kind of thinking on the part of my readers will *this* metaphor push them towards :-P
+
+#### [>>>>>>>>>>>>>>>>] gjm · 0 karma · 2017-03-10 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=C8NmisqcCXxi9eLts
+> That we can get rid of bloodthirstiness in humans easily enough.
+
+Well, depending on what you mean by "we", "get rid of" and "in humans" my answer is somewhere between "yes we can, and we have, and we can see that all around us" and "well, duh, of course we can't, and no one claimed otherwise" :-).
+
+> Let me make a caricature of my position \[...\] violent beast \[...\] not obedient by its nature \[...\] containment cage.
+
+OK, so the corresponding caricature of my position goes like this: humans do indeed have such a beast, but it can in fact be tamed as well as contained, and in many humans it is well enough tamed that its existence is scarcely detectable, and taming it doesn't appear to do anyone any harm. If released, the beast doesn't obey its human very well, but that's largely orthogonal to the (dis)obedience of individual humans to the society they're in and its leaders. In particular, the idea that individuals will become more free if they release the beast is an error, often deliberately fostered by people of malign intentions; the actual main effects of releasing the beast are (1) that you are more at the mercy of the beast, which you do not control well, and (2) that you are *more* at the mercy of TPTB, if they happen to be the sort of PTB that are good at manipulating people by throwing red meat to their beasts.
+
+#### [>>>>>>>>>>>>>>>>>] Lumifer · 0 karma · 2017-03-10 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=JF3y8FZrvuxZFj2xj
+> Well, depending on what you mean
+
+Indeed :-)
+
+> taming it doesn't appear to do anyone any harm
+
+Under the assumption that this segregated part of the society, the Beast Riders (commonly called the armed forces), will be adequate to stop the Joyous Skullcrushers if and when they appear.
+
+> the idea that individuals will become more free if they release the beast is an error
+
+Yes, I agree with that.
+
+#### [>>>>>>] Lumifer · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=XqMnLpw7Z4gzekuDp
+> Steven Pinker
+
+Yes, I think he is the primary proponent of the violence-is-declining argument and his book served as the focus for these discussions.
+
+> So we can expect the amount of violence enacted over time to go down, even as the power asymmetry and implicit threat of violence goes up.
+
+That's a valid point, but it applies only to the violence between the state and its subjects. There is also inter-state violence which tends to account for most of the corpses plus raiding/predation by the state outside of its own borders (see the recent American adventures in the Middle East after the Iraq war).
+
+Plus there is also the commonly-ignored distinction between showing that a historical trend existed and making a *forecast*: saying that this trend will continue in the future. Given that we live in interesting times, I would be wary of assuming that historical trends will just extrapolate.
+
+#### [>>>>>>>] username2 · 0 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=wPj4YfbZJP4oWiLxm
+I suggest reading the book or watching his [master course lecture](https://www.edge.org/conversation/steven_pinker-a-history-of-violence-edge-master-class-2011). He deals with exactly these objections in more detail than I'm willing to regurgitate.
+
+#### [>>>>] DryHeap · 0 karma · 2017-03-09 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=F2mhJqivtLZSJLQ7R
+> But I, for one, have never crushed anyone's skull for power and wealth (mine or anyone else's), and I'm not sure I know anyone who has, and the net quantity of skullcrushing per person seems to be decreasing over time despite the extremely nasty skullcrushing bonanzas of the early-to-mid 20th century.
+
+I'm not sure if the user you are replying to meant it like this, but it would make sense that your ancestors did plenty of the "skull-crushing" for you (in a sense), and that is why you are here today. The colonialism and use of violence in the past is why you enjoy the life you do today.
+
+#### [>>>>>] gjm · 2 karma · 2017-03-10 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=jHQK2Aq77wm6BzZLZ
+> The colonialism and use of violence in the past is why you enjoy the life you do today.
+
+Maybe so. Also, the single-celled-ness of my distant ancestors was an essential step to the form of life I now have; their primitivity is (part of) why I enjoy the life I do today. This observation doesn't in the least lead me to wish I were a single-celled life form, nor to see single-celled life forms as somehow my superiors, nor to anticipate a future reversion to single cells in my descendants.
+
+If your suggestion is that since some of my ancestors were skullcrushers and I wouldn't be here without them I should look back with admiration to my skullcrushing ancestors, or that I should expect my successors to return to skullcrushing, then I would be interested to know why the argument doesn't apply equally to unicellularity.
+
+#### [>>>>>>] DryHeap · 0 karma · 2017-03-17 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=CWxjgyF2r8YQzSW8o
+> I would be interested to know why the argument doesn't apply equally to unicellularity.
+
+I apologize for a misunderstanding. My argument was not that one should "expect \[their\] successors to return to skullcrushing." It is that, as skull-crushing was an essential part of our evolution, it makes sense that we still have that latent impulse. Think sex.
+
+> I ... have never crushed anyone's skull for power and wealth ... and I'm not sure I know anyone who has
+
+The people who actively "skull-crush" for power and wealth are largely tribes of people in the third world. This is occurring in many parts of Africa and some parts of the Middle East. This is where they do not enjoy the same quality of a first-world life as you or I do. Sure, you may not do any skull-crushing. You live a life which is pleasant enough, and the propagation of your lineage is guaranteed enough (and if you do not wish to bear fruit, so to speak, this is another indicator of the pleasantries of the first world). This is missing the point.
+
+> So at least within my nice liberal middle-class bubble -- which is, y'know, actually a pretty big bubble, encompassing a substantial fraction of the population -- the "joy of crushing one's enemies" seems not to be much of a thing any more.
+
+First, it's not a large bubble given total human population. It is in fact quite a small bubble standing on the shoulders of violent giants. Maybe we should leave this bubble from time to time.
+
+Second, the joy of crushing you enemies is still innate, as you state yourself ("if you allow for metaphorical crushing ... then there's more of it about"). Just as sexual reproduction leads to competitively viable organisms, leading to our innate desire for sex (even without the explicit desire to reproduce - another wonder of our first world) , violent competition led us to the point we are now. Can you say that you do not enjoy your doses of "metaphorical crushings"? Would you say that, in a doomsday-scenario, the use of violence would be a competitive advantage? If so, then surely some are utilizing it. They would have the advantage. They would reproduce (whether consensual or not - yet again a modern world invention). And we return to our forebears, and the latent spirit of violence lying beneath the surface of our civilized lives...
+
+I digress. I'm not implying that all acts of our ancestors are needed today. I am stating that, no matter one's personal experience with violence, their existence has benefited from previous acts of violence. To state that these impulses have left us is false.
+
+#### [>>>>>>>] gjm · 0 karma · 2017-03-17 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=McapmXHqWyEj8PYdt
+> Can you say that you do not enjoy your doses of "metaphorical crushings"?
+
+Well, speaking purely for myself, my skullcrushing activities never get more non-metaphorical than, say, a game of chess. I've no particular objection to fictional violence, but tend to find it among the least interesting things in the fiction containing it. I will concede that I enjoy winning at chess, but I beg leave to doubt how much evidence that is for the stability of joy-in-actual-skull-crushing.
+
+I'm afraid it seems to me that your comment is long on rhetoric and short on actual reasoning, which makes it difficult to respond to in a way I find adequate. So I'll just repeat in slightly different words what I already said: yes, plenty of skullcrushing in our ancestral past, but I am unconvinced that this fact tells us much about what our future either will or should be like.
+
+#### [>>>>>>>>] DryHeap · 0 karma · 2017-03-27 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=gGckbC9RY5WGwg5zQ
+> I am unconvinced that this fact tells us much about what our future either will or should be like.
+
+My digression above could have caused a misunderstanding of my point. I do not mean to say that we are/should return to violence in the Western world, but rather that the desire is still present within us and large-scale violence happens much more often than in our semi-homogeneous middle class bubbles.
+
+I don't imagine the conversation is headed to any conclusion/meeting point, but I wanted to clarify what I was saying to highlight the misunderstanding.
+
+#### [-] Dagon · 14 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=fvLKZSFkgfW4fxBad
+> Being smart is more important than being good (for humans).
+
+Scary wrong. Smart and good are multiplicative factors. The most important one is whichever you can improve by a higher percentage.
+
+#### [>] Zack_M_Davis [AUTHOR] · 1 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=2rubdwdcoxYszWTdt
+Sure, I consider the "(for humans)" parenthetical to be doing a lot of work. If we interpret "good" as meaning what (some agent-like system) [would want if it knew more, thought faster, *&c.*](https://arbital.com/p/cev/), it's going to be true that some humans are quantitatively less good with respect to the "good" (extrapolated volition) of everyone else. But I expect most people to *wildly overestimate* the quantitative extent to which this matters; selfishness is a *much* more powerful force in the world than outright evil. So, you should read me as claiming that *smart* is improvable by a much higher percentage.
+
+#### [>>] Dagon · 0 karma · 2017-03-06 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=ZTGvzxNmDtfALjrfY
+> I consider the "(for humans)" parenthetical to be doing a lot of work.
+
+that *is* a lot of work, and probably should be made explicit that you mean "for typical smartness and goodness of my current peer group". Unless you really mean to deny that "goodness" can be zero or negative, and then becomes far more important than smartness.
+
+#### [>>>] Zack_M_Davis [AUTHOR] · 16 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=nzJjacKqYa3WYjbep
+> should be made explicit that you mean "for typical smartness and goodness of my current peer group".
+
+It turns out that my current peer group does not have a magical monopoly on goodness! It even turns out that being two or three standard deviations from the mean in intelligence does not give us a magical monopoly on goodness! I didn't notice this until very recently!
+
+I think it's a really valuable (if expensive and painful) exercise to spend a *lot* of time reading the literature of some ideology that you despise, *really* trying to learn from their models and *see* the Bayes-structure that they're pointing at, even if you don't like them and don't want to join their group. When the model clicks (this may take a few years), you might learn something! (You still don't have to join the hated outgroup when this happens—you are in fact free to continue to hate them—but the experience may change you enough that you don't fit in with your ingroup anymore.)
+
+#### [>>>>] Lumifer · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=6AQd8SkKS7pG323eq
+> it's a really valuable (if expensive and painful) exercise ... you might learn something
+
+Those two thoughts don't seem to match well. If you think it's valuable enough to be worth the expense and the pain, presumably you have a better description of the potential payoff other than "learn something"?
+
+#### [>>>>>] Zack_M_Davis [AUTHOR] · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=4EGhcWEszWPy3AiAd
+The payoff is the shock of, "Wait! A lot of the customs and ideas that my ingroup thinks are obviously inherently good, aren't actually what I want now that I understand more about the world, and I predict that my ingroup friends would substantially agree if they knew what I knew, but I can't just tell them, because from their perspective it probably just looks like I suddenly went crazy!"
+
+I know, that's still vague. The *reason* I'm being vague is because the details *are* going to depend on your ingroup, and which hated outgroup's body of knowledge you chose to study. Sorry about this.
+
+#### [>>>>>>] Lumifer · 1 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=pypaRdGbanhPqcCwK
+> A lot of the customs and ideas that my ingroup thinks are obviously inherently good, aren't actually what I want now that I understand more
+
+So if my attitude is already this, can I skip the pain and the expense? :-)
+
+#### [-] Sarunas · 2 karma · 2017-03-07 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=ZHMxSvdXj57xX5xzx
+> Any time you find yourself being tempted to be loyal to an idea, it turns out that what you should actually be loyal to is whatever underlying feature of human psychology makes the idea look like a good idea; that way, you'll find it easier to fucking update when it turns out that the implementation of your favorite idea isn't as fun as you expected!
+
+I agree that this is a step in the right direction, but I want to elaborate why I think this is hard.
+
+It is my impression that many utopians stay loyal to their chosen tactics that are supposed to closen the utopia even after the efficiency of the those tactics come into question. My hypothesis for why such thing can happen is that, typically, the tactics are relatively concrete whereas goals they are supposed to achieve are usually quite vague (e.g. "greater good"). Thus when goals and tactics conflict the person who tries to reconcile them will find it easier to modify the goals than the tactics, perhaps without even noticing that the new goals may be slightly different from the old goals, since due to vagueness the old goals and the new goals overlap so much. Over time, goals may drift into becoming quite different from the starting point. At the same time, since tactics are more concrete it is easier to notice changes in them.
+
+I suspect that in your case we might observe something similar, since it is often quite hard to pinpoint exactly what underlying features of human psychology make a certain idea compelling.
+
+> really smart people who know lots of science and lots of probability and game theory might be able to do better for themselves
+
+I agree that science, probability and game theory put constraints on how hard problems of politics could be solved. Nevertheless, I suspect that those constraints, coupled with vagueness of our desires, may turn out to be lax enough to allow many different answers for most problems. In this case this idea would help to weed out a lot of bad ideas, but it may not be enough to choose among those the rest. In another case, those constraints may turn out to be too restrictive to satisfy a lot of desires people find compelling. Then we would get some kind of impossibility theorem and the question which requirements to relax and what imperfections to tolerate.
+
+#### [-] abramdemski · 9 karma · 2019-11-04 · https://www.lesswrong.com/posts/ZhQQgmpvYC6an3Mym/dreaming-of-political-bayescraft?commentId=CNYYNhs29yRQpWrhv
+> Any time you find yourself being tempted to be loyal to an idea, it turns out that what you should actually be loyal to is whatever underlying feature of human psychology makes the idea *look* like a good idea; that way, you'll find it easier to *fucking update* when it turns out that the implementation of your favorite idea isn't as fun as you expected!
+
+I agree that there's an important skill here, but I also want to point out that this seems to tip in a particular direction which may be concerning.
+
+Ben Hoffman [writes about authenticity vs accuracy](http://benjaminrosshoffman.com/authenticity-vs-factual-accuracy/).
+
+*   An authenticity-oriented person thinks of honesty as being true to what you're feeling right now. Quick answers from the gut are more honest. Careful consideration before speaking is a sign of dishonesty. Making a promise and later breaking it isn't dishonest if you really meant the promise when you made it!
+*   An accuracy-oriented person thinks of honesty as making a real effort to tell the truth. Quick answers are a sign that you're not doing that; long pauses before speaking are a sign that you are. It's not just about saying what you really believe; making a factual error when you could have avoided it if you had been more careful is almost the same as purposefully lying (especially given concerns about motivated cognition).
+
+Authenticity and accuracy are both valuable, and it would be best to reconcile them. But, my concern is that your advice against being loyal to an idea tips things away from accuracy. If you have a knee-jerk reaction to be loyal to the generators of an idea rather than the idea itself, it seems to me like you're going to make some slips toward the making-a-promise-and-breaking-it-isn't-dishonest-if-you-meant-it direction which you wouldn't reflectively endorse if you considered it more carefully.
+

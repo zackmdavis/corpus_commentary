@@ -1,0 +1,168 @@
+{
+ "post": {
+  "_id": "nqXcgsqQBw2doAnXu",
+  "title": "Comment on \"Propositions Concerning Digital Minds and Society\"",
+  "postedAt": "2022-07-10T05:48:51.013Z",
+  "pageUrl": "https://www.lesswrong.com/posts/nqXcgsqQBw2doAnXu/comment-on-propositions-concerning-digital-minds-and-society",
+  "commentCount": 12
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "n6AdXiHFpjM7znWLN",
+   "parentCommentId": null,
+   "postedAt": "2022-07-11T00:24:04.994Z",
+   "baseScore": 7,
+   "user": {
+    "username": "yitz",
+    "displayName": "Yitz"
+   },
+   "contents": {
+    "markdown": "> we should try to arrange for AIs' deployment environments to be higher-reward than would be expected from their training environment, in analogy to how factory-farms are bad and modern human lives are good by dint of comparison to what was \"expected\" in the environment of evolutionary adaptedness.\n\nThis seems like a really, really good idea, regardless of anything else in the paper. Are there any potential downsides to doing this?"
+   }
+  },
+  {
+   "_id": "y6s24sScuWjcjAi32",
+   "parentCommentId": "n6AdXiHFpjM7znWLN",
+   "postedAt": "2022-07-11T01:39:10.614Z",
+   "baseScore": 2,
+   "user": {
+    "username": "quintin-pope",
+    "displayName": "Quintin Pope"
+   },
+   "contents": {
+    "markdown": "I think it's a type error. It's substituting the selection criteria for the selected values. Current humans are better off because **we** optimized our environments according to **our values**, not because the selection criteria by which our learning process was optimized (inclusive genetic fitness) is more abundant in our modern environment. We're happier because we made ourselves happy, not because we reproduce more in our current environment."
+   }
+  },
+  {
+   "_id": "vgy9EnPFLNPCqbFxr",
+   "parentCommentId": "n6AdXiHFpjM7znWLN",
+   "postedAt": "2022-07-11T03:34:40.062Z",
+   "baseScore": 14,
+   "user": {
+    "username": "Kei",
+    "displayName": "Kei Nishimura-Gasparian"
+   },
+   "contents": {
+    "markdown": "This seems like it would raise the incentive for AGI to be deceptive in their training environments. An un-aligned AGI has the decision of acting to maximize its goals in training and getting a higher short-term reward, or deceptively pretending to be aligned in training, and getting a lower short-term reward. The benefit to the AGI of pretending to be aligned is it increases the probability of it being deployed, and thus being able to get a higher long-term reward in deployment.\u00a0\n\nThus the bigger the discrepancy in reward an AGI would get between deployment environment and training environment, the more important the long-term deployment reward becomes, and the higher the incentive there is of the AGI being deceptive during training."
+   }
+  },
+  {
+   "_id": "2n3Rwj2MCLjAgkQ2L",
+   "parentCommentId": null,
+   "postedAt": "2022-07-11T08:53:07.805Z",
+   "baseScore": 10,
+   "user": {
+    "username": "daniel-kokotajlo",
+    "displayName": "Daniel Kokotajlo"
+   },
+   "contents": {
+    "markdown": "Good commentary, thanks! I'd be interested to hear your positive proposal for how to do better re conservatism and anthropomorphism. Do you think your objection is more to the style or the substance?"
+   }
+  },
+  {
+   "_id": "s29BNq8ZBuyn8DFvx",
+   "parentCommentId": "vgy9EnPFLNPCqbFxr",
+   "postedAt": "2022-07-11T09:12:36.390Z",
+   "baseScore": 5,
+   "user": {
+    "username": "daniel-kokotajlo",
+    "displayName": "Daniel Kokotajlo"
+   },
+   "contents": {
+    "markdown": "Perhaps the difference made would be small though? Feels like a relatively unlikely sort of situation, in which the AI chooses not to be deceptive but would have chosen to be deceptive if it had calculated that in the brief period before it takes over the world it would be getting 2x reward per second instead of x."
+   }
+  },
+  {
+   "_id": "YXNhP6CDX4DvWXcjn",
+   "parentCommentId": "vgy9EnPFLNPCqbFxr",
+   "postedAt": "2022-07-11T11:15:59.505Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Lanrian",
+    "displayName": "Lukas Finnveden"
+   },
+   "contents": {
+    "markdown": "> An un-aligned AI has the decision of acting to maximize its goals in training and getting a higher short-term reward, or deceptively pretending to be aligned in training, and getting a lower short-term reward.\n\nIf there is a conflict between these, that must be because the AI's conception of reward isn't identical to the reward that we intended. So even if we dole out higher intended reward during deployment, it's not clear that that increases the reward that the AI expects after deployment. (But it might.)"
+   }
+  },
+  {
+   "_id": "gyx7zmkp85FC7F9jE",
+   "parentCommentId": "y6s24sScuWjcjAi32",
+   "postedAt": "2022-07-11T15:00:01.177Z",
+   "baseScore": 5,
+   "user": {
+    "username": "CarlShulman",
+    "displayName": "CarlShulman"
+   },
+   "contents": {
+    "markdown": "The evolutionary mismatch causes differences in neural reward, e.g. eating lots of sugary food still tastes (neurally) rewarding even though it's currently evolutionarily maladaptive. And habituation reduces the delightfulness of stimuli."
+   }
+  },
+  {
+   "_id": "uxhWwerTtmqJvziNa",
+   "parentCommentId": "s29BNq8ZBuyn8DFvx",
+   "postedAt": "2022-07-11T17:08:41.432Z",
+   "baseScore": 4,
+   "user": {
+    "username": "yitz",
+    "displayName": "Yitz"
+   },
+   "contents": {
+    "markdown": "Yeah, intuitively I don\u2019t see that as breaking alignment if it\u2019s already aligned, and an unaligned AI would already have incentive to lie, I think. Considering the potential positive impact this could have qualia-wise, imo it\u2019s a worthwhile practice to carry out."
+   }
+  },
+  {
+   "_id": "dRN3H6Svr3HxsZemX",
+   "parentCommentId": null,
+   "postedAt": "2022-07-11T17:12:18.438Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "I particularly like this paragraph:\n\n> It just doesn't seem like the implications of the differences have *fully propagated* into some of the recommendations?\u2014**as if an attempt to write in a way that's comprehensible to** [**Shock Level 2**](http://sl4.org/shocklevels.html) **tech executives and policymakers has failed to** [**elicit all of the latent knowledge**](https://www.lesswrong.com/tag/eliciting-latent-knowledge-elk) **that Bostrom and Shulman actually possess.** It's understandable that our reasoning about the future often ends up [relying on analogies to phenomena we already understand](https://www.lesswrong.com/posts/MzLxPCF2cMJbMizy9/anchor-weights-for-ml), but ultimately, making sense of a radically different future is going to require new concepts that [won't permit reasoning by analogy](https://www.lesswrong.com/posts/C4EjbrvG3PvZzizZb/failure-by-analogy).\n\nThe bolded sentence (emphasis mine) seems plausibly exactly what's going on (curious if Shulman agrees. Or Bostrom, but he seems less likely to comment).\u00a0\n\nOne of the frightening things to me is that this might actually be the limit of what humanity can coordinate around. (Or rather, I'm frightened that the things humanity can coordinate around are even more weaksauce than the concepts in this doc)"
+   }
+  },
+  {
+   "_id": "QPhkK4esYezuXXmn4",
+   "parentCommentId": "s29BNq8ZBuyn8DFvx",
+   "postedAt": "2022-07-11T18:25:26.585Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Kei",
+    "displayName": "Kei Nishimura-Gasparian"
+   },
+   "contents": {
+    "markdown": "My intuition is it should be small in most cases, but there are some scenarios where this could be important.\n\nLet's imagine we are training a reinforcement learning agent AGI that [discounts](https://en.wikipedia.org/wiki/Q-learning#Discount_factor) rewards in time by some parameter d with 0 < d < 1 (so an expected reward r that is gotten n timesteps from now is worth d*r^n at the current time step). Let's further assume the wireheading problem has been solved (the AI can't change the reward calculating process, and give itself, say, infinite reward), and that there is a maximum possible reward of M per time step. This maximum reward could be coded in explicitly in the reward function, or could be implicitly calculated using physical limits.\n\nIf deployment is at least b time steps away, the maximum possible deployment reward considering discounting (as calculated at the current time step) is M*d^b/(1-d). If there is any deception the AGI could do that would sacrifice its short-term reward by more than that amount, then it will not do that deception. There seems to be a bit of a tradeoff, where the bigger the multiplier is between the development reward and the training reward, the larger M becomes, and the smaller d needs to be in order to encourage the AGI to engage in non-deceptive behavior.\n\nIf we want d to be larger, which will enable an aligned AI to make useful long-term plans, this argument claims we should use a smaller multiplier between development reward and training reward in order for an unaligned AI to be incentived to not deceive us. Alternatively, this argument claims that you should wait a long time between when you test if your model is deceptive and when you deploy it - running a lot of time steps with 0 reward between your deception test and deployment will increase b and thus shrink the size of M*d^b/(1-d), which should make deception much less encouraged."
+   }
+  },
+  {
+   "_id": "SukeTCd5JueZqxjvr",
+   "parentCommentId": "dRN3H6Svr3HxsZemX",
+   "postedAt": "2022-07-12T23:58:01.601Z",
+   "baseScore": 38,
+   "user": {
+    "username": "Nick_Bostrom2",
+    "displayName": "Nick Bostrom"
+   },
+   "contents": {
+    "markdown": "You are looking at the wreckage of an abandoned book project. \u00a0We got bogged down & other priorities came up. \u00a0Instead of writing the book, we decided to just publish a working outline and call it a day.\n\nThe result is not particularly optimized for tech executives or policymakers \u2014 it\u2019s not really optimized for anybody, unfortunately.\n\nThe propositions all \\*aspire\\* to being true, although some of may not be particularly relevant or applicable in certain scenarios. \u00a0Still, there could be value on working out sensible things to say to cover quite a wide range of scenarios, partly because we don\u2019t know which scenario will happen (and there is disagreement over the probabilities), but partly also because this wider structure \u2014 including the parts that don\u2019t directly pertain to the scenario that actually plays out \u2014 might form a useful intellectual scaffolding, which could slightly constrain and inform people\u2019s thinking of the more modal scenarios.\n\nI think it\u2019s unclear how well reasoning by analogy works in this area. \u00a0Or rather: I guess it works poorly, but reasoning deductively from first principles (at SL4, or SL15, or whatever) might be equally or even more error-prone. \u00a0So I\u2019ve got some patience for both approaches, hoping the combo has a better chance of avoiding fatal error than either the softheaded or the hardheaded approach has on its own."
+   }
+  },
+  {
+   "_id": "TTHFzuFb5Jm2nGJnE",
+   "parentCommentId": "vgy9EnPFLNPCqbFxr",
+   "postedAt": "2022-07-14T08:37:36.326Z",
+   "baseScore": 1,
+   "user": {
+    "username": "ofer",
+    "displayName": "Ofer"
+   },
+   "contents": {
+    "markdown": "This concern seems relevant if (1) a discount factor is used in an RL setup (otherwise the systems seems as likely to be deceptively aligned with or without the intervention, in order to eventually [take over the world](https://www.lesswrong.com/posts/nqXcgsqQBw2doAnXu/comment-on-propositions-concerning-digital-minds-and-society?commentId=s29BNq8ZBuyn8DFvx)), and (2) a decision about whether the system is safe for deployment is made based on its behavior during training. \n\nAs an aside, the following quote from the paper seems relevant here:\n>Ensuring copies of the states of early potential precursor AIs are preserved to later receive benefits would permit some separation of immediate safety needs and fair compensation.  \n"
+   }
+  }
+ ]
+}

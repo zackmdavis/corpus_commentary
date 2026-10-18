@@ -1,0 +1,767 @@
+Archives of Sexual Behavior, Vol. 14, No. 3, 1985
+
+Typology of Male-to-Female Transsexualism
+R a y B i a n c h a r d , Ph.D ~
+
+This study tested a prediction derived f r o m the hypothesis that asexua! and
+bisexual transsexualism are actually subtypes o f heterosexual transsexualism.
+Two questionnaire scales measuring erotic attraction to males and females
+were administered to 163 male-to-female transsexuals. A cluster analysis o f
+their scores divided the subjects into f o u r groups: heterosexual, homosexual, bisexual, and asexual. Fisher Exact tests were used to compare the frequency with which subjects in the f o u r clusters reported a history o f erotic
+arousal in association with cross-dressing. A s predicted, there were no differences among the asexual, bisexual, and heterosexual transsexuals, and all
+three groups included a much higher proportion o f fetishistic cases than the
+homosexual group (p <_ . 0001, two-tailed). These findings support the view
+that male transsexuals may be divided into two basic types: heterosexual and
+horn osexual.
+KEY WORDS: transsexualism; transvestism; gender disorders; fetishism.
+
+INTRODUCTION
+
+A considerable amount of research on gender identity disorders has been
+devoted to their classification. There is now widespread agreement on certain points. Most workers would agree that there is only one major syndrome
+of gender disturbance in females, and the great bulk of typological study
+has been carried out on males only. Within the male population, all modern
+authorities would agree in differentiating transvestites (defined by Freund
+et al., 1982, as heterosexual males who engage in cross-gender fantasy or
+behavior only when they are erotically aroused) from transsexuals (men who
+
+~Gender Identity Clinic, Clarke Institute of Psychiatry, 250 College Street, Toronto, Ontario,
+Canada M5T 1R8.
+243
+0004 0002/85/0600-0247504,50/0
+
+© 1985 Plenum Publishing Corporafion
+
+248
+
+B|anchard
+
+have a long-standing and nonfluctuating desire to possess a female body and
+to live permanently in society as women). Beyond that point, differences begin to appear in the various typological schemes that have been proposed.
+Certain workers, for example, have found it necessary to designate a separate
+category for males who appear to be intermediate between transvestism and
+transsexualism; other authorities have no separate label for such cases (Steiner
+et al., 1985). With regard to transsexualism proper, the current trend is
+to recognize the existence of more than one type. The number of basic transsexual types, however, has not yet been settled. It was to this question that
+the present study was addressed.
+Typical of current, mainstream thinking on the typology of transsexualism is the classification scheine set out in the third edition of the Diagnostic and Statistical Manual o f Mental Disorders (American Psychiatric
+Association, 1980), commonly known as DSM-III. The DSM-III describes
+three specific types of transsexualism-heterosexual, homosexual, and
+asexual-corresponding to the individual's predominant sexual history prior to the appearance of the full transsexual syndrome. The labels homosexual and heterosexual are used just as they are with nontranssexual individuals,
+to refer to erotic attraction to members of the same and the opposite biological (as opposed to psychological) sex, and their application is not reversed
+following sex reassignment surgery. A tripartite division of transsexuals has
+also been employed by other writers. Bentler (1976) also divided male-tofemale transsexuals into heterosexual, homosexual, and asexual types. Person and Ovesey (1974a,b) classified their series as primary, transvestitic, and
+homosexual transsexuals. The last two syndromes were seen as developments
+secondary to transvestism and effeminate homosexuality. The primary transsexuals were described as "asexual," and the transvestitic transsexuals as heterosexual; Person and Ovesey's trichotomy, therefore, is roughly congruent
+to that of Bentler and the DSM-III.
+Other investigators have distinguished more or fewer than three types.
+Hirschfeld (1922, p. 144) distinguished four types of gender disturbance in
+males: heterosexual, homosexual, automonosexual (or narcissistic), and bisexual. As opposed to asexua#ty, which denotes a lack of sexual drive, automonosexualism refers to a strong sexual interest in one's own person, with
+a concomitant lack of erotic interest in others.
+In contrast to the above authors, Buhrich and McConaghy (1978)
+described only two transsexual types: fetishistic transsexuals, who reported
+a history of erotic arousal in association with cross-dressing, and nuclear
+transsexuals, who denied such a history. The fetishistic transsexuals showed
+evidence of a "more heterosexual orientation" (p. 73). Similarly, Freund et
+al. (1982), using a simple questionnaire method to classify transsexuals
+dichotomously as heterosexual or homosexuäl, found that a rauch higher
+
+Typology of Transsexualism
+
+249
+
+proportion of those classified as heterosexual reported a history of erotic
+arousal in association with cross-dressing. From these data, together with
+epidemiological evidence, Freund has argued that there are two etiologically
+different types of cross-gender identity in males, a fetishistic type, which is
+found in heterosexuals, and a nonfetishistic type, which is found in homosexuals (Freund, 1985; Freund et al., 1982). In their epidemiological argument, Freund et al.(1982) pointed out that the strong correlation between
+heterosexual orientation and fetishistic cross-dressing observable within the
+population of gender-disturbed males is paralleled by the simultaneous absence of fetishistic cross-dressing and heterosexual transsexualism in biological females. With extremely rare exceptions of dubious diagnosis,
+female-to-male transsexuals erotically prefer female partners; and a powerful, insistent desire to wear men's clothes for the purpose of sexual excitement is also virtually unknown in females.
+Although their study focused on fetishistic cross-dressing, Freund et
+al. (1982) pointed out that this phenomenon is only one manifestation of
+a more general category of fetishism, in which the fetish-object symbolizes
+the subject's own femininity, and fetishistic activity is accompanied by the
+fantasy of being a woman. The individual's favorite such symbol might not
+be women's clothing but rather some aspect of the feminine toilet, such as
+putting on makeup or shaving the legs. Freund et al. (1982) labelled this
+erotic disorder cross-genderfetishisrn, in contradistinction to simple fetishism,
+in which the fetish-object is not associated with the idea of being a woman.
+In summary, the above writers have collectively described four types
+of transsexual: heterosexual, homosexual, bisexual, and a fourth type that,
+at least with regard to erotic interest in other persons, may be described as
+"asexual." These descriptions need not, however, correspond to four different disorders.
+The present study investigated an extension of Freund's hypothesis that
+there are only two etiologically different types of transsexualism: heterosexual and homosexual. It is hypothesized here that asexual and bisexual transsexualism are actuälly subtypes of heterosexual transsexualism. The writer
+believes that the differentiation of these subtypes from the heterosexual "parent group" is brought about by two different processes. In asexual transsexualism, cross-gender fetishism (of the anomaly underlying it) so overshadows,
+or competes with, the erotic attraction to females that the individual appears
+to have little erotic attraction to other persons at all; his heterosexuality is,
+in a sense, latent. The process believed to account for the apparent existence
+of bisexual transsexuals is somewhat different. In these individuals, the erotic
+anomaly manifested in cross-gender fetishism also finds expression in the
+fantasy of having intercourse, as a woman, with a man. The effective erotic
+stimulus, however, is not the male physique per se, as it is in true homosexu-
+
+250
+
+B|anchard
+
+al attraction, but rather the thought of being a female, which is symbolized
+in the fantasy of being penetrated by a male. For these persons, the
+imagined-occasionally r e a l - m a l e sexual partner serves the same function
+as women's apparel or makeup, namely, to aid and intensify the fantasy of
+being a woman.
+This investigation tested one simple prediction derived from the above
+extension of Freund's hypothesis. It is already known that the great majority of heterosexual transsexuals report a history of cross-gender fetishism and
+that the great majority of homosexual transsexuals do not. It was reasoned
+that, if asexual and bisexual transsexualism are subtypes of heterosexual transsexualism, then both asexual and bisexual transsexuals should report a history of cross-gender fetishism about as frequently as heterosexual
+transsexuals, and much more frequently than homosexual transsexuals.
+
+METHOD
+Subjeets
+The pool of potential subjects included those male patients previously
+studied by Freund et al. (1982), plus those added to that sample by Blanchard (1985), plus 34 male patients with complete data who subsequently
+presented at the Clarke Institute of Psychiatry Gender Identity Clinic or
+Research Section of Behavioral Sexology. Eligible for inclusion in the study
+were all patients presenting with a gender disorder, all patients acknowledging some history of cross-dressing, regardless of presenting complaint, a n d
+all homosexual patients who preferred physically mature male partners, regardless of presenting complaint.
+The actual criteria for inclusion in the study were the subject's responses
+to two questionnaire items: (1) "Have you ever felt like a woman? a, only
+if you were wearing at least one piece of female underwear or clothing, b,
+while wearing at least one piece of female underwear or clothing and only
+occasionally at other times as weil, c, at all times and for at least one year,
+d, never felt like a woman"; (2) "Did you ever feel sexually aroused when
+putting on females' underwear or clothing? a, yes, b, no, c, never put on females' underwear or clothes." Following Freund et al. (1982), those patients
+were designated as transsexual whose response to the first item indicated that
+they felt like women at all times for 1 year and who did not deny cross-dressing
+on the second item. As it happened, every subject who mer the first criterion
+also met the second.
+The 163 subjects classified as transsexual had a mean age of 29.7 years
+(SD - 9.7). The number of subjects with less than grade 12 education was
+
+Typology of Transsexualism
+
+251
+
+80, and the number with high school graduation or university studies was
+83. At the time of completing the questionnaire, 4 subjects had been castrated, but none had undergone vaginoplasty. To the author's knowledge, 39
+subjects have subsequently undergone vaginoplasty, and another 4 are on
+a waiting list for this operation.
+
+Materials
+
+All scale items used in the present investigation were embedded within
+Freund's unpublished Erotic Preferences Examination Scheme, which is routinely administered to male patients in the two departments to which the subjects had been referred. Only three measures were employed in the study.
+The first measure was the item "Did you ever feel sexually aroused when
+putting on females' underwear or clothing?" This item was used to determine
+whether the subject had a positive'or negative history of cross-gender
+fetishism. Because there were no patients who denied cross-dressing, the
+responses of all subjects were either y e s or no.
+The second and third measures assessed erotic attraction to physically
+mature males (androphilia) and erotic attraction to physically mature females
+(gynephilia). The original versions of these two measures were developed by
+Freund et al. (1982), who called them the Androphilia Scale and the Gynephilia
+Scale. In their study of gender disorders, Freund et al. (1982) found it useful
+to combine these two scales into one unidimensional bipolar measure, which
+they called the AG Index. Blanchard (1985) added one item to those making
+up Freund's AG Index and then subjected this item pool to an optimal scaling procedure (Nishisato, 1980) in order to determine the best scoring weights
+for male gender patients. Blanchard called bis version the Modified AG Index; like the AG Index, it is unidimensional and bipolar.
+In the present study, the Modified AG Index was redivided into two
+scales in order to measure erotic attraction to males and females independently. The two separate measures thus created will be referred to as the Modified Androphilia and Modified Gynephilia Scales. They are similar to Freund's
+original Androphilia and Gynephflia Scales, except that the optimal scoring
+weights determined by Blanchard (1985) have been retained, as has the
+orte added item. The sign of the scoring weights was reversed for the modified Gynephilia items, so that low scores on both scales indicate the absence
+of erotic attraction, and high scores indicate its presence. These two measures are presented in the Appendix. It should be emphasized that the scoring
+weights shown were optimized specifically for male gender patients and that
+these modified scales should only be administered to similar samples. The
+alpha reliability of the Modified Androphilia Scale in the present sample of
+
+Blanchard
+
+252
+
+subjects was 0.96, and that of the Modified Gynephilia Scale was 0.87. The
+correlation between the two scales was - 0 . 6 9 .
+
+RESULTS
+The first step in analyzing the data was to divide the subjects into heterosexual, asexual, bisexual, and homosexual groups. This was accomplished
+with a cluster analysis, using the BMDP K-Means Clustering program (Engelman and Hartigan, 1981). Input variables were subjects' scores on the
+Modified Androphilia and Modified Gynephilia Scales; the data were standardized by converting raw scores on both scales to z scores. It was specified
+in advance that the analysis yield four clusters. As expected, the clusters found
+were identifiable as heterosexual, homosexual, asexual, and bisexual types.
+This can be seen in Fig. 1, which shows each subject's Modified Gynephilia
+(raw) score plotted against his Modified Androphilia score. There were 16
+subjects in the heterosexual cluster, 12 in the asexual, 35 in the bisexual, and
+100 in the homosexual. Additional information on the cluster analysis is given
+in Table I. This table presents the means and standard deviations for each
+
+12"
+
+w
+
+8-
+
+~o
+
+o
+Q~
+
+o
+
+0
+
+o
+
+oo °
+
+<
+J
+
+o
+
+o
+
+4-
+
+o
+
+0
+
+o
+
+o
+
+%o
+
+O.
+Ld
+Z
+>-
+
+o
+
+0
+
+o
+
+0-
+
+o
+
+oo
+
+300 °
+
+Ld
+
+o
+
+b_
+
+ô -4-
+
+o
+
+l
+@ @Q
+
+-8-
+
+MODIFIED ANDROPHILIA SCORE
+
+Fig. 1. The four clusters. This figure shows each subject's Modified Gynephilia (raw) score plotted against his Modified Androphilia score. The clusters are located as follows: heterosexual, white circles, upper-left quadrant; asexual, black circles, l o w e r l e f t quadrant; bisexual, white circles, upper-right quadrant;
+homosexual, black circles, lower-right quadrant.
+
+Typology of Transsexualism
+
+253
+
+Table !. Cluster Analysis: Descriptive Statistics
+Scale
+Modified
+gynephilia
+
+Cluster
+
+Modified
+androphilia
+
+Means
+Bisexual
+Heterosexual
+Homosexual
+Asexual
+
+1.56
+7.55
+- 5.82
+- 2.12
+
+4. t5
+- 17.58
+9.86
+- 14.73
+
+Standard deviations
+Bisexual
+Heterosexual
+Homosexual
+Asexual
+
+3.01
+2.82
+1.39
+2.83
+
+4.18
+1.64
+2.37
+3.90
+
+Analyses of variance
+Mean squares
+Between
+Within
+DF
+F ratio
+p value
+
+1097.76
+4.61
+3, 159
+238.31
+< .001
+
+5030.58
+8.79
+3, 159
+572.20
+< .001
+
+cluster on the two scales. It also presents an analysis of variance for each
+scale, which compares the between-clustër mean square to the within-cluster
+mean square. The F ratlos from these analyses indicate that both scales contributed strongly to the formation of the four requested clusters.
+The second step in data analysis compared the four transsexual types
+with regard to cross-gender fetishism. Table II shows the number of subjects in each cluster who responded y e s and n o to the item, "Did you ever
+feel sexually aroused when putting on females' underwear or clothing?" The
+data shown in this table were analyzed in six pairwise Fisher Exact tests, which
+compared every cluster to every other cluster. The homosexual cluster differed
+from every other cluster at or beyond the 0.0001 level (two-tailed). None of
+
+Table Il. Number of Subjects in Each Cluster Acknowledging a History of
+Cross-Gender Fetishism
+Cluster
+Ever felt sexually aroused
+while cross-dressing
+
+Heterosexual
+
+Asexual
+
+Bisexual
+
+Homosexual
+
+Yes
+No
+
+14
+2
+
+9
+3
+
+23
+12
+
+15
+85
+
+254
+
+Blanchard
+
+I00
+
+80
+(.9
+O')
+
+60
+W
+h
+l--
+
+4O
+n~
+W
+EL
+
+J
+
+I
+
+~oi
+o
+HET
+
+ASEX
+
+BISEX
+
+HOMO
+
+TYPE OF T R A N S S E X U A L
+
+Fig. 2. The percentageof subjects in each of the four clusters
+reporting a history of cross-gender fetishism.
+
+the differences among the heterosexual, asexual, and bisexual groups approached statistical significance. The relations among the groups are readily
+perceived in Fig. 2, which graphs the percentage of subjects in each cluster
+who responded yes.
+
+DISCUSSION
+The hypothesis that asexual and bisexual transsexuals differentiate,
+through processes described in the Introduction, from a basic heterosexual
+type necessitates the prediction that a history of cross-gender fetishism will
+be reported by a substantial majority of both asexual and bisexual
+t r a n s s e x u a l s - a majority similar to the proportion of heterosexual transsexuals who report such a history and rauch greater than the proportion of
+homosexual transsexuals. That prediction survived this objective and "handsoft" study, which could readily have shown it to be false. The theorist who
+is dissatisfied with the present hypothesis as an explanation of these findings
+taust provide an alternative explanation for the high rates of cross-gender
+
+Typ•logy of Transsexualism
+
+255
+
+fetishism reported by the asexual and bisexual subjects. In order for this alternative explanation to be competitive, he or she must then show that it
+necessitates some new prediction that goes beyond the observed data and
+that does not flow from the present hypothesis. At this time, however, the
+view argued h e r e - t h a t the high and similar rates of cross-gender fetishism
+associated with asexual, bisexual, and heterosexual transsexualism suggest
+that they are cognate conditions-would appear more probable than the contrary assumption that these are totally unrelated conditions that merely happen to share this rare and striking symptom.
+As mentioned in the Introduction, previous writers have proposed a
+separate diagnostic category for males intermediate between transvestism and
+heterosexual transsexualism. Buhrich and McConaghy (1979) called them
+"marginal transvestites"; Freund et al. (1982) called them "borderline transsexuals." If one accepts the hypothesis that the discriminable syndromes of
+cross-gender identity in heterosexual males may be variations of a single, underlying disorder, then the typological schemes proposed by Freund et aL
+and Buhrich and McConaghy can be seen as complementary to the present
+scheme. On this view, asexual and bisexual transsexualism are variations of
+an extreme disorder-heterosexual transsexualism-which, in a milder or less
+advanced form, appears as borderline transsexualism and, in its mildest form,
+as transvestism. It is possible that there are also asexual and bisexual subtypes of borderline transsexualism or even asexual and bisexual subtypes of
+transvestism; the present study, however, did not take up this question. One
+may note in passing that the omission of a "marginal transvestite" or "borderline transsexual" category from the DSM-III is rather surprising, considering that its authors point out that some proportion of transvestites eventuaHy
+want to dress and live permanently as women and recommend that, in such
+cases, the diagnosis should be changed to transsexualism. This progression
+can take years, however, and it might never reach full transsexualism, so
+it would seem convenient to have an additional label for intermediate cases.
+One may wonder why 12.5% of the heterosexual transsexuals in the
+present study denied any history of cross-gender fetishism, and 15°70 of the
+homosexual transsexuals acknowledged such a history. Two recent studies
+suggest that the less than perfect correlation between sexual orientation and
+cross-gender fetishism might be caused at least partly by unreliability in gender
+patients' verbal self-reports. Blanchard et al. (in press) administered the
+Crowne-Marlowe (1964) Social Desirability Scale, as well as eight questionnaire measures that tapped various features of the clinical history commonly given great weight in differential diagnosis, to 51 homosexual and 64
+heterosexual adult male gender patients. The tendency for a heterosexual subject to describe himself in terms of moral excellence or admirable personal
+qualities was significantly correlated with scores in the "transsexual" direc-
+
+256
+
+Blanchard
+
+tion on all eight sexological measures; for the homosexual subjects, only one
+correlation was significant. A substantial correlation of - 0 . 4 8 between the
+Social Desirability Scale and Blanchard's (1985) Cross-Gender Fetishism
+Scale suggests that the stronger a heterosexual patient's motivation to create
+a favorable impression on the examiner, the greater his tendency to deny
+any history of erotic arousal in association with cross-dressing or preparing
+the feminine toilet. One would expect this tendency to be most marked in the
+transsexual cases, who are the most strongly motivated to obtain approval
+for sex reassignment surgery.
+The suspicion that cross-gender fetishism may be underestimated from
+patients' self-reports was confirmed in a second study, using a very different
+methodology. Blanchard et al. (1984) investigated whether an erotic response
+to cross-dressing fantasies could be detected in heterosexual gender patients
+who verbally denied any erotic arousal in association with cross-dressing for
+at least the past year. Subjects were 35 male gender patients plus 10 paid
+heterosexual controls. Patients were divided into groups according to their
+response to a questionnaire item asking the proportion of occasions that crossdressing was erotically arousing during the past year and offering response
+options ranging from a l w a y s to never. The eight patients who indicated that
+they had never been erotically aroused by cross-dressing during the past year
+included five who further indicated that they had never experienced fetishistic arousal in their whole lives. Penile blood volume was monitored while
+subjects listened to descriptions of cross-dressing and sexually neutral activities. All patient groups (including the eight nonadmitters) responded significantly more to cross-dressing than to neutral narratives; controls did not.
+These two studies suggest that a greater proportion of heterosexual transsexuals may have a history of cross-gender fetishism than can or will admit
+to it; and it is perfectly possible that fetishistic arousal is an invariable component of such patients' development.
+The remaining question concerns the 15% of homosexual transsexuals
+who acknowledged a history of cross-gender fetishism. It is possible that some
+of these were heterosexual cases who were incorrectly classified in the present
+study because they had misrepresented their erotic interests on the Modified
+Androphilia and Gynephilia Scales. A postoperative male-to-female patient
+at the author's clinic, for example, recently confided at a follow-up interview that he had only pretended to be attracted to males prior to surgery
+because he thought this would improve his chances of gaining approval for
+this operation; he was now prepared to admit that this had never been the
+case and that he (now "she") is currently involved in a "lesbian" relationship. Systematic evidence of this type of distortion was also among the findings of Blanchard et al. (in press). Among the eight sexological measures
+employed in that study were the Modified Androphilia and Modified Gy-
+
+Typology of Transsexua|ism
+
+257
+
+nephilia Scales. The Social Desirability scores of the heterosexual patients
+were positively correlated with the Modified Androphilia and negatively correlated with the Modified Gynephilia Scale; the corresponding correlations
+of the homosexual patients were not significant. These findings suggest that
+the stronger a heterosexual patient's motivation to create a favorable impression on the examiner, the greater his tendency to exaggerate erotic interest in males and downplay erotic attraction to females. This, in turn,
+suggests that any misclassified cases in the present study are rauch more likely
+to be heterosexual cases misclassified as homosexual than vice versa.
+The existence of distortion in the verbal report of gender-disturbed males
+has long been suggested by clinical observers, who have commented on it
+in quite diverse contexts. The remarks of a sample of experienced clinicians
+have been summarized by Blanchard et al. (in press). The desire to obtain surgical sex reassignment (or hormones, etc.) is certainly not the only possible
+source of such distortion; a variety of motives, "unconscious" as well as extrinsic, have been inferred by practitioners. The present study is no more
+immune to contamination from this factor than previous taxonomic studies.
+There is no reason, however, to suppose that its findings are an artifact of
+response distortion; it would seem more likely that these findings have
+emerged in spite of it.
+The implications of the present findings and those summarized above
+remain to be considered. Surgical outcome studies have shown that "transvestitic" or "secondary" transsexuals may profit as well from sex reassignment as the idealized "true" or "primary" transsexual (Bentler, 1976; Laub
+and Fisk, 1974). The implications of the above findings, therefore, are for
+etiological research rather than clinical management. Three research directions are suggested. (1) If further evidence supports the hypothesis that asexual
+and bisexual transsexualism are subtypes of heterosexual transsexualism, then
+the task of identifying the causes of gender disorders is reduced to a search
+for only t w o - o n e for heterosexual and orte for homosexual cross-gender
+identity. (2) If future evidence supports the hypothesis that heterosexual
+gender identity inversion is invariably accompanied by cross-gender fetishism,
+then only those causal hypotheses of heterosexual gender inversion need be
+considered that can account for the concomitance of these phenomena. (3)
+The search for separate etiologies for asexual, bisexual, and heterosexual
+transsexualism would be replaced by a search for those additional constitutional or experiential factors that determine whether cross-gender fetishism
+leaves a heterosexual transsexual's erotic attraction to females relatively intact (heterosexual transsexualism), nullifies or masks this attraction (asexual transsexualism), or gives rise to some secondary erotic interest in males
+that coexists with the individual's basic attraction to females (bisexual transsexualism).
+
+258
+
+Blanchard
+ACKNOWLEDGMENTS
+
+I thank Cathy Spegg for her assistan¢e in analyzing the data, and Kurt
+F r e u n d a n d K e n n e t h J. Z u c k e r f o r t h e i r c r i t i c i s m s o f t h e m a n u s c r i p t .
+
+REFERENCES
+American Psychiatric Association. (1980). Diagnostic and Statistical Manual o f Mental Disorders (3rd ed.). Author, Washington, D.C.
+Bentler, P. M. (1976). A typology of transsexualism: Gender identity theory and data. Arch.
+Sex. Behav. 5: 567-584.
+Blanchard, R. (1985). Research methods for the typological study of gender disorders in
+males. In Steiner, B. W. (ed.), Gender Dysphoria: Development, Research, Management,
+Plenum Press, New York.
+Blanchard, R., Clemmensen, L. H., and Steiner, B. W. (in press). Social desirability response
+set and systematic distortion in the self-report of adult male gender patients. Arch. Sex.
+Behav.
+Blanchard, R., Racansky, I. G., and Steiner, B. W. (1984). Phallometric detection of cross~
+gender fetishism in heterosexual male gender dysphorics. Manuscript submitted for publication.
+Bubrich, N., and McConaghy, N. (1978). Two clinically discrete syndromes of transsexualism.
+Brit. J. Psychiat. 133: 73-76.
+Buhrich, N., and McConaghy, N. (1979). Three clinically discrete categories of fetishistic transvestism. Areh. Sex. Behav. 8: 151-157.
+Crowne, D. P., and Marlowe, D. (1964). The Approval Motive: Studies in Evaluative Dependence. Wiley, New York.
+Engelman, L., and Hartigan, J. A. (1981). K-means clustering [BMDP Statistical Software].
+University of California Press, Berkeley, California.
+Freund, K. (1985). Cross-gender identity in a broader context. In Steiner, B. W. (ed.), Gender
+Dysphoria: Development, Research, Management, Plenum Press, New York.
+Freund, K., Steiner, B. W., and Chan, S. (1982). Two types of cross-gender identity. Arch.
+Sex. Behav. 11 : 49-63.
+Hirschfeld, M. (1922). Sexualpathologie [Sexual Pathology]. Marcus & Weber, Bonn.
+Laub, D. R., and Fisk, N. (1974). A rehabilitation program for gender dysphoria syndrome
+by surgical sex change. Plast. Reeonstr. Surg. 53: 388-403.
+Nishisato, S. (1980). Analysis o f Categorical Data: Dual Sealing and Its Applications. University of Toronto Press, Toronto.
+Person, E., and Ovesey, L. (1974a). The transsexual syndrome in males. I. Primary transsexualism. Amer. J. Psyehother. 28: 4-20.
+Person, E., and Ovesey, L. (1974b). The transsexual syndrome in males. II. Secondary transsexualism. Amer. J. Psyehother. 28: 174-193.
+Steiner, B. W., Blanchard, R., and Zucker, K. J. (1985). Introduction. In Steiner, B. W.
+(ed.), Gender Dysphoria: Development, Research, Management, Plenum Press, New York.
+
+Typology of Transsexualism
+
+259
+
+Appendix: Partner Preference Measures with Scoring Weights Given in Parentheses
+
+The Modified Androphilia Scale
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+A b o u t how old were you when you first felt sexually attracted to males?
+( + 1.3) younger than 6
+( + 1.2) between 6 and 11
+( + 0 . 8 ) between 12 and 16
+( - 0 . 1 ) older than 16
+( - 1.6) never
+W h a t qualities did you like in males to whom you were sexually attracted?
+( + 1.0) strong masculine behavior
+( + 0 . 4 ) slightly masculine behavior
+( - 0 . 5 ) rather feminine behavior
+( - 1.7) did not feel sexually attracted to males
+Would you have preferred
+( - 0 . 3 ) male homosexual partners
+( + 0 . 8 ) male partners who were not homosexual
+( + 0.6) had no preference
+( - 1 . 7 ) did not feel sexually attracted to males
+Since age 16 and up to age 25 (or younger if you are less than 25), how did the
+preferred age of male partners change as you gor older?
+( + 0 . 9 ) became gradually younger
+( + 0.9) became gradually older
+( + 0 . 7 ) remained about the same
+( - 1 . 6 ) never felt attracted to males
+Since what age have you been sexually attracted to males only?
+( + 1.3) younger than O
+( + 1 . 3 ) between 6 and 11
+( + 1 . 0 ) between 12 and 16
+( + 0 . 8 ) older than 16
+( - 1.2) never
+Since age 18, how old was the oldest male to whom you could have felt sexually attracted?
+( + 0 . 6 ) between 17 and 19
+( + 0 . 6 ) between 20 and 30
+( + 0 . 8 ) between 31 and 40
+( + 0 . 7 ) between 41 and 50
+( + 0 . 7 ) older than 50
+( - 1 . 7 ) did not feel sexually attracted to males
+Would you have preferred a male partner
+( + 0 . 4 ) who was willing to have you lead hirn
+( + 0 . 7 ) who was willing to lead you
+( + 0 . 5 ) you didn't care
+( - 1 . 8 ) did not feel sexually attracted to males
+Since age 16, have you ever been equally, or more, attracted sexualty by a male age
+17 and over than by females age 17-40?
+( + 0.9) yes
+( - 1.4) no
+How old were you when you first kissed a male because you felt sexually attracted to
+hirn?
+( + 1 . 3 ) younger than 12
+( + 1.0)between 12 and 16
+( + 0 . 7 ) older than 16
+( - 1.3) never
+
+260
+10.
+
+11.
+
+12.
+
+13.
+
+Blanchard
+What kind of sexual contact with a male would you have preferred on the whole,
+even though you m a y not have done it?
+( + 1.1) your partner putting his privates between your upper legs (thighs)
+( - 0 . 1 ) your partner putting his privates into your rear end
+( + 0 . 3 ) you would have preferred one of these two modes but you cannot decide
+which one
+( + 0 . 6 ) you would have preferred some other mode of sexual contact
+( - 1 . 6 ) had no desire for physical contact with males
+Since age 12, how old were you when you first touched the privates of a male to
+w h o m you felt sexually attracted?
+( + 1 . 0 ) between 12 and 16
+( + 0 . 5 ) older than 16
+( - 1.2) never
+Since the age of 16, have you ever fallen in love with a person of the male sex?
+( + 1.0) yes
+( - 0 . 9 ) no
+A b o u t how old were you when you first made quite strong efforts to see males who
+were undressed or scantily dressed?
+( + 1.2) younger than 12
+( + 1 . 0 ) between 12 and 16
+( + 0 . 5 ) older than 16
+( - 0 . 8 ) never
+
+The Modified Gynephilia Scale
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+How do you prefer females age 17-40 to react when you try to come into sexual contact (not necessarily intercourse) with them?
+( + 1.5) cooperation on the part of the female
+( + 0 . 8 ) indifference
+( + 1.4) a little resistance
+( - 0 . 3 ) you don't care
+( - 0 . 9 ) do not try to come into sexual contact with females age 17-40
+Do you prefer females of age 17-40
+( + 0 . 9 ) who have no sexual experience
+( + 1.6) who have had a little experience
+( + 1.2) who have had considerable experience
+( + 0 . 9 ) you don't care how m u c h experience
+( - 0 . 8 ) not enough interest in females age 17-40 to know
+In your sexual fantasies, are females age 17-40 always, or almost always, involved?
+( + 1.5) yes
+( - 0 . 5 ) no
+( - 0 . 7 ) haven't had such fantasies
+Since the age of 17, when you went dancing, was this to
+( + 1.7) mainly meet girls at the dance
+( - 1 . 0 ) mainly meet male friends at the dance
+( - 0 . 6 ) mainly because you liked dancing itself
+( + 0 . 2 ) never went dancing since age 17
+Have you ever desired sexual intercourse with a female age 17-407
+( + 0 . 9 ) yes
+( - 0 . 9 ) no
+Between 13 and 16, when you first saw females 13 or over in the nude (or dressing
+or undressing), including striptease, movies, or pictures, did you feel sexually
+aroused?
+( + 1.4) very rauch
+( + 0 . 3 ) mildly
+( - 0 . 8 ) not at all
+( - 0 . 3 ) never saw females 13 or over in the nude, dressing, or undressing (including
+striptease, movies, or pictures)
+
+Typoiogy of Transsexualism
+7.
+
+8.
+
+9.
+
+10.
+
+261
+
+When you have a wet dream (reach climax while dreaming), do you always, or
+almost always, dream of a female age 17-40?
+( + 1.6) yes
+( - 0 . 7 ) no
+( + 0 . 1 ) don't remember any wer dreams
+Was there any period of 14 days or less when you had sexual intercourse with a female age 17-40 more than 5 times?
+( + 1.1) yes
+( - 0 . 1 ) no, and you are older than 25
+( - 0 . 9 ) no, and you are 25 or younger
+Since age 13, have you ever fallen in lore with or had a crush on a female who was
+between the ages of 13-40?
+( + 0.7) yes
+( - 0 . 8 ) no
+How old were you when you first tried (on your own) to see females 13 or older
+naked or dressing or undressing (including striptease, movies, or pictures)?
+( + 0 . 9 ) younger than 12
+(+0.7) between 12 and 16
+( + 0 . 4 ) older than 16
+( - 0.8) never
+
+

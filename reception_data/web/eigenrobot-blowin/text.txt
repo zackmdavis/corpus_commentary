@@ -1,0 +1,401 @@
+eigenrobot,s Blog
+
+SubscribeSign in
+
+The Answer is Blowin' in the Wind
+
+The Categories, Revisited
+
+eigenrobot
+
+Jan 22, 2025
+
+105
+
+31
+
+5
+
+Share
+
+This post has one image containing unsalacious nudity.
+
+0. Our Story So Far
+
+During the first wave of discourse around transgender issues, Scott Alexander wrote an influential essay defending transgender to the rationalists.
+
+His argument, summarizing, was:
+
+Existing classifications of people as “men” and “women” are not actually clear-cut when considers them rigorously;
+
+We can and ought to use our latitude in how we establish categories for peoples’ well-being; and,
+
+Using self-identification as our mechanism for categorizing gender is an easy win for human flourishing.
+
+It’s been a little more than a decade since the The Categories Were Made for Man was published, and for its decennial—in a very different world—I’d like to revisit its ideas in the light of our experiences in a society that broadly adopted its recommendations in policy.
+
+This is a long piece that I’m breaking into two posts; here’s an abstracted summary to help you track my train of thought.
+
+The first two sections are, respectively, a review and a critique of The Categories’ framework to trans issues. They hit the following beats:
+
+Scott’s basic arguments in (1) and (2) are correct and lucid.
+
+The argument in (2) is not pursued as deeply as it ought to be, in retrospect.
+
+The policy of treating self-identification as sufficient for determining gender (3) is probably suboptimal.
+
+Some failure modes of pure self-identification became quickly apparent after its adoption.
+
+Localized, patchwork classification of gender might allow for welfare-optimizing flexibility if we abandon the chimera of a universal classifier.
+
+The second piece will offer some attempts at compromise policies to correct course in light of the past ten years of experience. These suggestions attempt to balance the well-being of trans people with those of other populations.
+
+I expect they will please no one.
+
+1. The Argument, Restated
+
+I agree almost entirely with 2014-era1 Scott’s ontological premises, and I’ll start by reviewing our areas of consensus as I understand them. Specifically:
+
+“Categories” are not provided wholly formed by nature but rather imposed by humans for human purposes, and
+
+Biology at best inadequately maps onto what we generally think of as “sex” or “gender” and can’t provide a clean natural ontology.
+
+These claims don’t establish the desirability of transgender in themselves, but they open the door to considering it, and form the most important part of Scott’s argument.
+
+(1.a) Nature rarely provides clean categories for all of Man’s purposes.
+
+The world was young, the mountains green,
+
+No stain yet on the moon was seen,
+
+No words were laid on stream or stone
+
+When Durin woke and walked alone.
+
+He named the nameless hills and dells;
+
+He drank from yet untasted wells . . .
+
+(J. R. R. Tolkien)
+
+One of the oldest questions in philosophy: what is a man?2
+
+When Plato attempted a plain solution, Diogenes demonstrated his error by presenting him with a plucked chicken. Later philosophers3 considered countless other solutions, yet a decisive and rigorous solution remains elusive.
+
+This is not a problem specific to gender.
+
+Let us revisit the exercise with which Scott opens his essay: is a whale a fish?
+
+America’s foremost cetologist as measured by citation count4 will tell you that yes, whales are fish:
+
+The uncertain, unsettled condition of this science of Cetology is in the very vestibule attested by the fact, that in some quarters it still remains a moot point whether a whale be a fish. In his System of Nature, A.D. 1776, Linnæus declares, “I hereby separate the whales from the fish.” But of my own knowledge, I know that down to the year 1850, sharks and shad, alewives and herring, against Linnæus’s express edict, were still found dividing the possession of the same seas with the Leviathan.
+
+The grounds upon which Linnæus would fain have banished the whales from the waters, he states as follows: “On account of their warm bilocular heart, their lungs, their movable eyelids, their hollow ears, penem intrantem feminam mammis lactantem,” and finally, “ex lege naturæ jure meritoque.” I submitted all this to my friends Simeon Macey and Charley Coffin, of Nantucket, both messmates of mine in a certain voyage, and they united in the opinion that the reasons set forth were altogether insufficient. Charley profanely hinted they were humbug.
+
+Be it known that, waiving all argument, I take the good old fashioned ground that the whale is a fish, and call upon holy Jonah to back me.
+
+The expert acknowledges the distinct features of whales from other fishes, per Linnaeus; but ultimately settles with a comfortable whaler’s convention that, as it has fins and lives entirely in the ocean, it ought to be considered a fish. So shut up.
+
+Was he wrong to do so? A novice biologist might class a whale in the mammalian clade and end there; but in doing so he would arguably err, because “fishes” as commonly understood do not comprise a monophyletic group. In fact, if we were to be scientistical about this, we would have to agree that a cladistically-sophisticated definition of “fishes” necessarily includes not only whales but dinosaurs, birds, and mankind.
+
+Yes, that is to say: trans 👏 women 👏 are 👏 fish.
+
+The basic issue is that in categorizing we are imposing meaning on a nebulous reality whose “essence” we don’t get to directly observe, and that may not intrinsically “have” meaning. This slipperiness or arbitrariness of taxonomical schemes is most enjoyably established by Borges, but it is a common theme of postmodern thought—and indeed even known to earlier men.
+
+For example, our modern-era American cetologist assures us that his efforts to impose an ontology requires heroic energy and judiciousness:
+
+Yet is it no easy task. The classification of the constituents of a chaos, nothing less is here essayed.
+
+Or, consulting the highest and oldest authority and reading between the lines just a bit:
+
+And out of the ground the Lord God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
+
+( . . . )
+
+And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man. And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
+
+Nature does not tell us whether Pluto “is” a planet, nor whether blue and green “are” different colors, nor when nor how a “child” becomes an “adult”. It is for God to create, and it is upon us to determine what “man” and “woman” “are” for the purposes we choose.5
+
+(1.b) Biology is not sufficient to obtain a natural categorization of gender.
+
+From such crooked timber as humankind is made of, nothing entirely straight can be made.
+
+(Immanuel Kant)
+
+Having argued for the general difficulty of establishing natural categories from base reality, we consider the failure of biology to produce clean and unambiguous sexes and genders. The problem we’re going to encounter is that we won’t be able to create a classification system that neatly divides all of the biological features we associate with “gender” into two discrete categories.
+
+Skipping past some trivial examples6, it’s true that we can identify sex7 in some sense or in most cases from chromosomal configurations, although this is not infallible. For example, per Scott8, the presence of a Y chromosome isn’t really adequate to identify a person as “male:”
+
+. . . most people seem to assume that the ultimate tiebreaker in man vs. woman questions is presence of a Y chromosome. I’m not sure this is a very principled decision, because I expect most people would classify congenital androgen insensitivity patients (XY people whose bodies are insensitive to the hormone that makes them look male, and so end up looking 100% female their entire lives and often not even knowing they have the condition) as women.
+
+In complete cases of androgen insensitivity syndrome, an affected person will have “female” genitals from birth on and develop adult “female” secondary sexual characteristics, lacking only menstruation and a uterus. They nevertheless have nonfunctional internal testes, although these are usually removed.
+
+Such a person might in some generous sense have a male “sex” given that they’re closer to producing sperm than eggs, but does this translate to gender? I don’t know; do you think these CAIS patients belong in a men’s locker room?
+
+ECCE VIR
+
+I assert that if the people in these photos lived before the 19th century, they would have been unambiguously—in your ancestral society or any other—classified as women, in spite of their secret XY karyotype. This is a problem for the notion that traditional understandings of gender seamlessly align with the fine grain of modern biology, and it leaves us in the position of having to make one of the following choices:
+
+karyotype is not a sufficient criterion for determining gender and we should choose different or additional criteria
+
+karyotype is a sufficient criterion, and the people in the above photograph are men
+
+gender is fake actually
+
+I’m not advocating for any of these choices particularly. The point is that not matter which path we take, we are making a choice. Gender is not in Heaven.
+
+And this is just one central example of the fact that biology isn’t clean and deterministic. Our wetworks are convoluted, hacked together, bearing the mutational loads and kludges of four billion years of evolution. Sex and sex roles are not a simple on/off switch. The route between having a Y chromosome and becoming “male” is modulated by plenty of additional biochemical and developmental stages, any of which might veer off path. It’s unsurprising that many people might fall in grey areas, or even be in some sense at war with themselves. Scott again:
+
+I could relate this mysterious difference to the various heavily researched apparent biological correlates of transgender, including unusual variants of the androgen receptor, birth-sex-discordant sizes of various brain regions, birth-sex-discordant responses to various pheromones, high rates of something seemingly like body integrity identity disorder, and of course our old friend altered digit ratios.
+
+Looking for a “natural” ontology that meets your desired notion of gender in this chaos is a hopeless task. You won’t be able to do it; you are going to have to choose; and in doing that you surrender the premise that there is an unambiguous revealed order.
+
+(1.c) Revisiting the 2014 conclusion: Gender ought to be self-identified.
+
+I want to emphasize again that all we’ve done so far is to establish that we have leeway—indeed, we are obligated, if we want any notion of gender at all—to establish, as humans, some criteria for classification by gender.
+
+This does not mean that we are hopeless or bereft of gender, because contrary to the extruded social theory product of our graduate schools, social constructs are extremely real, binding, and meaningful. (If you don’t believe that, try walking across the 2.5 mile social construct separating North and South Korea.)
+
+It does mean that we have to choose
+
+the basis we use for determining gender—whatever that is—and implicitly,
+
+an objective or set of objectives that we hope to meet via our choice of gender.
+
+Scott’s recommended solution to this problem was humanitarian and also clinical:
+
+gender is to be determined by self-identification; because
+
+it is a minor price to pay for the dignity and survival of people experiencing gender dysphoria.
+
+Reading back ten years into the future, this feels—sweet (really), nostalgic. A warm memory of what, somehow, were simpler times, when it seemed like it would be easier to Become Good.
+
+In the background to writing of The Categories, the Truscum Wars9 had been raging for long enough that academic papers about the conflict had been published. Transgender was no longer strictly about medical “transsexualism” but an expression of identity; but The Categories brushed aside this development to deal with the immediate issue:
+
+(This isn’t actually the whole story – some of the more sophisticated people want to split “sex” and “gender”, so that people who want to talk about what chromosomes they’ve got have a categorization system to do that with, and a few people even want to split “chromosomal sex” and “anatomical sex” and “gender” and goodness knows what else – and I support all of these as very important examples of the virtue of precision – but to a first approximation, they want to define gender as self-identification).
+
+( . . . )
+
+I’m writing this post today because I just finished accepting a transgender man to the mental hospital. He alternates between trying to kill himself and trying to cut off various parts of his body because he’s so distressed that he is biologically female. We’ve connected him with some endocrinologists who can hopefully get him started on male hormones, after which maybe he’ll stop doing that and hopefully be able to lead a normal life.
+
+This elision was understandable but fateful. In the coming years, gender identitarianism would combine with the implementation of self-identification as the sole determinant of gender to reveal some limitations of Scott’s solution and reasoning that undergirded it.
+
+(1.d) Intermission.
+
+The rest of this essay proceeds as follows.
+
+In Section II, I will lay out two shortcomings of the world model presented in The Categories and touch on their implications for approaching transgender integration. This will conclude the current post.
+
+Later, in Section III, I’ll discuss what options we have for grappling with transgender, given the opportunities and challenges identified in the previous section. In Section IV, I’m going yell at people for a little while.
+
+2. Gender-Identity: “Tractable”
+
+Although Scott makes a compelling case that gender is a case where we have some liberty to determine boundaries for the sake of human wellbeing, his subsequent deployment of that information in making policy recommendations has turned out to be inadequate to the complexities of transgender.
+
+In this section, I tweak his analysis in two ways:
+
+I attempt a taxonomy of trans people under self-identification, and highlight some ways in which the expanded conception of transgender complicates the analysis of The Categories.
+
+I propose an approach to decomposing The Categories’s implicit monolithic conception of gender that might allow us to tailor our social response to transgender’s challenge to the gender ancien regime.
+
+(2.a) Self-identification opens the door to non-medical transgender.
+
+The Categories is implicitly transmedicalist, which is to say that its model of transgender is concerned with individuals who suffer from dysphoria: an intense dissonance between their outward or “assigned” gender and their internal gender orientation. Casually, these are people who are “wired wrong” for their bodies.
+
+Before the gender revolution of the 00s-10s, transgender was treated as a psychiatric medical condition. Self-identification was partly seen as a way of reducing barriers to treatment, whether via hormones or surgery, for people experiencing dysphoria. However, as a norm, it also effectively removed any sort of requirement of dysphoria for consideration of a person as trans.
+
+A transmedicalist framework can reject arguments like “I identify as an attack helicopter” because, realistically, no one is experiencing attack helicopter dysphoria. A pure self-identification framework can’t respond as effectively: with no objective criteria, overcoming this reductio ad absurdum is harder.
+
+The difficulty is not just theoretical, because self-identification opens the door to new classes of trans people who
+
+may see fewer net benefits from “acceptance” than do the dysphoric trans people centered by Scott, and who
+
+may be seen, to varying extents, as less “deserving” of acceptance.10
+
+An attempt at a taxonomy follows. I imagine there are other terminologies; I do not use them because I don’t know what they are. I am not confident that I am spanning the set of potential cases.
+
+We’ll begin by more carefully drawing borders around the subcategory that, originally, defined the class:
+
+Trans by Dysphoria: The Categories considers people who suffer dysphoria to the extent that it may be understood as a medical condition. Dysphoric trans are fixed in their identity, and don’t oscillate or waver. Their condition is involuntary in every meaningful sense. In a society without broad acceptance of trans people, no one would choose this for themselves.
+
+As we’ve moved toward a society where gender is wholly determined by self-identification and publicly accepted to a greater degree, the cost of “being” trans is lower. In this world, some people who do not experience dysphoria may identify as trans. Non-mutually-exclusive motivations may include:
+
+Expressive Trans: Trans as a meaning of expressing themselves, or operating socially in a manner that simply makes them comfortable.
+
+Sexual Trans: Some subset of people get off on identifying as a “non-birth” gender sexually, whether privately or publicly.11
+
+Trans-as-a-Bit (TaaB): Trans as a means of getting attention, or as a means of bodily critiquing gender or transgender as an idea. Are they “really” trans? Under self-identification, who are we to dispute it?
+
+Opportunistic Trans: Trans in order to exploit social hierarchies created with the intention of helping “real,” in some sense, trans people. The Elizabeth Warrens of transgender. Put your gender anarchy on your asylum application to win fabulous prizes.
+
+Predatory Trans: Trans as a means of evading social gender structures for the purpose of exploiting people rely on those structures for protection.
+
+In a simple world with only dysphoric trans people, trans desert is straightforward and homogeneous; costs and benefits are easy to evaluate; and Scott’s prescription works well.
+
+In the post self-identification world, matters are a hot mess. An outside observer has no easy way of identifying the subcategories to which a non-dysphoric trans person belongs. Even more, by the self-identification convention, every person claiming to be trans has access to all of the categoric advantages afforded dysphoric trans people.
+
+This issue is complex but the greatest problem is adverse selection. In creating allowances for one group of trans people (expressive trans, say) we also create a means for other groups (say, predators) to “mis”-identify themselves; and we may not be able to (or simply may not, depending on legal context) differentiate between the classes. Overall, the potential for exploitation of self-identification should be expected to sharply reduce the net social benefit of any policy handling transgender.
+
+A second substantial consideration is that different classes of trans people may approach “being” trans in different ways. My expectation is that the modal dysphoric trans person—say, a trans woman—wants to be perceived as a woman; but some expressive or trans-as-a-bit trans woman may want to be perceived specifically as a trans woman, by not conforming to the norms of conventional femininity.
+
+Reserving any judgment about validity of this mode,12 I think it’s obviously costlier to socially accommodate intentionally non-conforming transgender than it is to make room for the conforming case.
+
+(2.b) Gender may be seen viewed as a context-specific social hack.
+
+The second shortcoming of The Categories is that it treats gender as all-or-nothing: one may be (eg) a woman or not, and once this classification is determined by one means or another it applies in all situations.
+
+As long as we’re taking gender classification as a means to some end, rather than a purely natural category, there’s no reason this needs to be the case. And, in fact, there are a great number of practical problems with a gender monolith. Consider some cases.
+
+The Workplace. In an office environment, “gender” is mostly irrelevant or vestigial. Identifying a trans man as a man in this context is a matter of social grace; there are few other costs incurred because gender doesn’t really matter. For a firm, we’re productive factors, not men and women.
+
+Sports. What about women’s sports? What is “gender” here? It’s not some profound internal essence. Women’s sports are separate because the group of people conventionally classified as men tend to have meaningfully-different development and biochemistry, and women’s sports exist to allow people without those features compete on something like a level playing field. In this case, the role of gender is to separate people into classes of “has access to certain biological advantages,” or “doesn’t.”
+
+Medicine. Gynecologists are doctors who specialize in the treatment of “women;” practically, this means they concern themselves with organs like the uterus. They are not concerned with some essential “womanness;” gender, here, means possession of specific organs or biochemical configurations.
+
+Prison. Criminals are housed separately on the basis of gender. Here, too, a gender “essence” is not important. Gender has two salient factors. First, prison is violent, and because “men” tend to be vastly stronger than “women;” housing them together would expose “women” to violence they would systematically be less-able to resist. Second, many “men” in prison would systematically sexually assault “women,” given the opportunity. The meaningful role of gender in prison is to separate a victim class from a class of people who would likely prey on them.13
+
+If we insist on a unitary “gender” to be used in every social case where gender is leveraged, we end up in some awkward situations. Consider once more our XY CAIS case from 1(b) above. Shall we put a CAIS person in a men’s prison because of their karyotype? If not, shall we recommend they visit a gynecologist? Both options seem ridiculous to me.
+
+Instead, we might consider decomposing gender status by social case for some or all trans people.
+
+By allowing a less-global understanding of gender—instead of “trans X are X” we might have “trans X are X by default, excepting in circumstances Y and Z”—we can avoid some of the brutal edge cases where “trans X” are actually not “X” for the specific context.
+
+This isn’t costless. For dysphoric people in particular, appending exceptions to their acceptance as a member of their identified gender can be expected to be rough.
+
+(2.c) Trans Men, Trans Women, and Gender Anarchists
+
+A final issue to note is that trans men and trans women are not the same because men and women are not the same, possibly in a clinical sense and definitely in a practical one.
+
+First, consider that gay men and lesbians differ from heterosexuals in meaningfully opposite or asymmetrical ways in spite of their commonality as “gay.” In a similar vein, the specific modes of transgender at play may vary across, and differently within, trans men and trans women.14
+
+(2.d) Summing up.
+
+I’ve identified two ideas—trans heterogeneity, and gender universality—that complicate the analysis of The Categories in somewhat abstract terms above. To make them more tractable still, let’s boil these considerations down to some choices.
+
+Should identity-only trans people be categorized identically to dysphoric trans people? Doing so makes things simple, and maybe one understands self-identification to be intrinsically valid rather than a convenience. It also invites attack from people critical of transgender full stop, and leaves the door wide open for exploitation by bad actors.
+
+Should trans gender recognition be universal or conditional? A universalist model of transgender acceptance is simple to apply, but leads to failure modes that are to varying degrees inflammatory or silly. A conditional approach is potentially cumbersome, solves only some of these issues, and possibly undermines the extent to which trans people are benefited by categorization with their preferred gender.
+
+Should trans men be treated differently than trans women? Some ideological approaches to transgender, or to gender generally, would suggest that we should not: the cases are and ought to be identical. A practical approach might demand otherwise, because many of the uses of gender that we’re concerned about involve specific and asymmetrical concerns of cis men and women.
+
+In the next post, I will present a menu of policy options; their tradeoffs; and some considerations that might cause one to lean toward or against each.
+
+1
+
+Throughout, when I refer to Scott, I refer to the author as he existed in November of 2014. I don’t necessarily ascribe any of these views to Scott of current_date.
+
+As long as I’m disclaiming, I should note that I have no special insight into Scott’s mind outside of what I am inferring from his writings and his reputation, and if he objects to any characterization of his views here I preemptively accept those objections.
+
+2
+
+I realize I’m abusing the English superposition of the (eg) Latin concepts of vir and homo in a single word man to misrepresent historical arguments. Don’t care, doesn’t matter, let me cook.
+
+3
+
+See, eg, Konami (1997).
+
+4
+
+Melville (1851)
+
+5
+
+Naturally our objective in this ontology will be the greater glorification of God and His Creation. I assume there will be no complaints about this objective, nor any confusion among my readers as to what it might entail.
+
+6
+
+Not all people are fertile, not all life stages are fertile, not all men have two testes, people can be injured, and so on.
+
+7
+
+I’m going to use “sex” to refer to some kind of biological assignment of male-ness or female-ness, and “gender” to refer to a social or self-identified role as masculine or feminine. A recurring theme of these ontological essays is that abstract nouns are prone to abuse. I’m sorry for my contribution to this problem; I’m trying to do better.
+
+8
+
+Here I’ll just pull heavily from Scott; he’s frankly spent more time thinking and caring about this aspect than I have and I hope he won’t mind as I’m citing to agree with him.
+
+9
+
+I don’t know if there’s another term for this. I assume this term is probably insulting to someone; but I don’t know to whom, or why, or even which party to the dispute it might refer to.
+
+10
+
+This may or may not matter in a cosmic sense, but it has implications for policy feasibility.
+
+11
+
+Frankly I don’t think this is “invalid.” I’m not going to relitigate Blanchard here, but I do want to note that I completely unironically see AGP as a plausible strong indicator of femininity or femaleness.
+
+12
+
+I mean really, I am in no position to throw stones over social nonconformity.
+
+13
+
+Obviously, given rates of rape in prison, this is not a complete success. But consider the counterfactual.
+
+14
+
+Long discussion of this in detail in this Twitter thread.
+
+105
+
+31
+
+5
+
+Share
+
+Previous
+
+Discussion about this post
+
+CommentsRestacks
+
+Alice
+
+Jan 22, 2025
+
+Liked by eigenrobot
+
+Thanks for the great read. I'm a veteran of what you called the "Truscum Wars" and the fact that my side (the "transmedicalists") lost has probably been the most devastating thing that has happened to the transsexual/transgender community in many decades.
+
+There was a brief honeymoon period after Obergefell where it seemed like society had come around to the idea of a rare, highly-selected class of people for whom there was a mismatch in their gender presentation and biological sex, but that period has obviously ended thanks to the overreach of trans activists and their ironclad refusal to accept any boundaries on their movement, such as the reasonable idea that a person's sex matters in some scenarios (sports, doctor's office) and not others (school, workplace).
+
+Self-ID, as you noted, turned out to be fairly disastrous in allowing both deliberately bad actors and misled people experiencing other mental conditions to be grouped into the previously highly-selected class. Unfortunately, as the diagnostic criteria for gender dysphoria have become so watered down and most psychologists and doctors will diagnose anyone for any reason (via informed consent), this is no longer a useful way of separating the "true" trans from those experiencing other afflictions.
+
+I'm looking forward to part 2 and your policy proposals.
+
+Reply
+
+Share
+
+David Chapman
+
+Jan 22, 2025
+
+Liked by eigenrobot
+
+I find this very sensible. (Speaking, fwiw, as a person who is arguably non-binary, bisexual, and intersex; or arguably not in each case, depending on the arguer's ideological commitments; and who suspects that these peculiarities are linked by more than coincidence.) I look forward to the second half!
+
+I am curious about what motivated you to write this. Of course that's probably a private matter. However, it's an analysis that it seems would require a great deal of careful thought about a subject most people form quick opinions about; and that is likely to occur only if one has skin in the game.
+
+Reply
+
+Share
+
+29 more comments...
+
+TopLatestDiscussions
+
+No posts
+
+Ready for more?
+
+Subscribe
+
+© 2026 eigenrobot · Privacy ∙ Terms ∙ Collection notice
+
+Start your SubstackGet the app
+
+Substack is the home for great culture

@@ -1,0 +1,532 @@
+{
+ "post": {
+  "_id": "79YHdub9LRRSjBQK9",
+  "title": "Contra Piper on When Conversation Is Possible",
+  "postedAt": "2026-09-08T03:41:41.736Z",
+  "pageUrl": "https://www.lesswrong.com/posts/79YHdub9LRRSjBQK9/contra-piper-on-when-conversation-is-possible",
+  "commentCount": 40
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "B8i4nqvku9Bca9ZNG",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T05:18:03.484Z",
+   "baseScore": 40,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "> It certainly doesn't make conversation with *me* impossible. When someone tells me that my understanding of my beliefs and motives should be rejected, I don't take my ball and go home in a huff, muttering that they've made further conversation nearly impossible. Rather, I respond the same way I do to any other disagreement: by supporting my view with reasoning and evidence. Why would the rules be different just because the topic of discussion happens to be my own beliefs and motives?\n\nMan, I was right there with you going \"Yes! That! Exactly!\" right up until \"I respond \\[...\\] by supporting my view with reasoning and evidence\". There is a very important step before that! In cases where I *am* wrong about my own beliefs or motives, it is *very* difficult to notice that myself; other people pointing it out is one of the very few ways to notice. So when someone suggests I am wrong about my beliefs or motives, is extra super-duper important to step back, check the evidence, and consider whether they might be right!\n\nAnd of course they could turn out right or wrong, I need to use reasoning and evidence to figure that out just like I do for everything else. The rules are indeed not any different just because the topic of discussion happens to be my own internal mental states and mechanisms."
+   }
+  },
+  {
+   "_id": "MM5ZXNkd84xjLjjaZ",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T05:24:17.970Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Leviad",
+    "displayName": "Drake Morrison"
+   },
+   "contents": {
+    "markdown": "> indeed, the very existence of persistent disagreements (when you'd expect honest rational agents to simply update on each other's evidence and converge on the correct probability) [suggests that hidden motives are common](/posts/e4GBj6jxRZcsHFSvP/assume-bad-faith).\n\nOr perhaps its a case of [trapped priors.](https://www.astralcodexten.com/p/trapped-priors-as-a-basic-problem) Ontology differences mean you don't interpret the same piece of evidence the same way.\n\n> The correctness of my understanding of my beliefs and motives is something I can defend to skeptics in front of third parties (successfully or otherwise); it's not something that needs to be assumed as a prerequisite for even talking at all.\n\nI think you miss how costly it is to do so, especially when your interlocutor is already dismissing your claims about yourself. To use your earlier exampole about buying cookies from your girlfriend: if you happened to not produce artifacts of your thinking when deciding where to buy cookies, the only thing you have is claims about your internal reasoning. Which is opaque to your interlocutor who just got through dismissing your claims about your internal reasoning!\n\n> In light of these observations, I think Piper's apparently well-meaning advice is more naturally understood as a negotiating threat\n\nThat's the highest-order hypothesis? Feels like taking an adversarial stance unnecessarily. It can easily be the case the conditions to continue the conversation are too costly. That's not a threat."
+   }
+  },
+  {
+   "_id": "wgY3sEaZbhDrg2vr6",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T05:41:09.616Z",
+   "baseScore": 33,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "I think there's some kind of relatively binary culture split on this issue.\n\nMany people (including me and apparently you) are like \"duh, of course peoples' self-models are wrong all the time, so of course we need to treat them like any other claims people make, i.e. use ordinary reasoning and evidence to determine whether they're true\". (And more generally, beyond rationalist circles, many people just treat claims about peoples' self-models the same way they treat any other claims.)\n\nMany other people feel like peoples' self-models are sacred and inviolable, and those people get SUPER triggered if person A claims that person B is wrong about person B's own internal motivations, emotions, memories, etc. You can see an anonymous example on LessWrong [here](https://www.lesswrong.com/posts/dDZcMG8xopYgnNfvK/lw-women-lw-online#Submitter_B), for instance.\n\nI have had big fights about this before with people close to me, and I have a post somewhere in the drafts pile attempting to cross the communication gap from each side."
+   }
+  },
+  {
+   "_id": "ePqjGqYCtJB8wF7KE",
+   "parentCommentId": "MM5ZXNkd84xjLjjaZ",
+   "postedAt": "2026-09-08T06:12:30.743Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> if you happened to not produce artifacts of your thinking when deciding where to buy cookies, the only thing you have is claims about your internal reasoning\n\nSure. So, there was actually a bit of [unflagged](https://tvtropes.org/pmwiki/pmwiki.php/Main/DontExplainTheJoke) dramatic irony in the (fictional, despite being told in the first person) cookie story\u2014\n\nSuppose \"I\" didn't make any spreadsheets, but when questioned, I say (as in the post) that my internal reasoning considered the \"obvious objective criteria\" of \"price, quality, Anzac biscuit availability, and owner's prior familiarity with the salon's reading list.\"\n\nIt might occur to you to ask followup questions: \"Wait, why [specifically Australian](https://en.wikipedia.org/wiki/Anzac_biscuit) cookies? And what does it matter if the _dessert vendor_ has done the reading? It kind of seems like you specifically chose those criteria in order to give your girlfriend the business.\" If I don't have a _surprisingly compelling_ response to these obvious questions, that's also a sort of evidence about my intent."
+   }
+  },
+  {
+   "_id": "ZB9wcPNp7bRCGKFoB",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T06:27:12.780Z",
+   "baseScore": 7,
+   "user": {
+    "username": "WillPetillo",
+    "displayName": "WillPetillo"
+   },
+   "contents": {
+    "markdown": "You've said X and done Y, these seem in conflict to me, what's the deal? = OK (but read the room)  \n  \nMy first impression of you carries more weight than your lifetime of self-assessment, and I feel comfortable casually asserting this = not 100% guaranteed to be wrong, but danger danger!  \n  \nI am so deeply embedded in my mind-palace that I can't differentiate my model of reality from reality itself, therefore anyone who disagrees with me is so obviously wrong that they can't possibly not know this on some level and are therefore lying if they claim otherwise = very bad!"
+   }
+  },
+  {
+   "_id": "HrBuK35tsDohzCQ5j",
+   "parentCommentId": "ZB9wcPNp7bRCGKFoB",
+   "postedAt": "2026-09-08T06:42:40.476Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> (but read the room)\n\nSorry, I don't understand this part. Why read the room? What information is conveyed by reading the room, specifically?\n\nUm, to motivate the question, I'm a little worried that injunctions to \"read the room\" might be a bid to comply with local status hierarchies, such that people with enough power among the ingroup can get away with asking \"these seem in conflict to me, what's the deal?\", while other people asking the same question are adversarially construed as doing the \"My first impression carries more weight than your lifetime\" or \"I am so deeply embedded in my mind-palace\" things.\n\nBut that's just my non-confident paranoid worry; I'm definitely not claiming that's what you meant!"
+   }
+  },
+  {
+   "_id": "mkE4KX6ayxaGSokcX",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T08:15:56.533Z",
+   "baseScore": 11,
+   "user": {
+    "username": "jai-d-no-the-other-one",
+    "displayName": "Jai"
+   },
+   "contents": {
+    "markdown": "Moving debates to be about the motives of one side or another (in an adversarial context) is an implicit attack on credibility. Rather than making arguments about observable state in the world, the argument is now about whether one party should be paid any heed at all. It's also typically going to be fruitless for the accused party: either they're reflective enough to be fairly confident in what their beliefs are such that they immediately know that the accusation is false and are now faced with the chore of providing empirical evidence for something they're very confident in, or they're not and their epistemics on the matter are unlikely to be sharpened under adversarial pressure.\n\nIn either case, you're not arguing about the thing you were arguing about anymore, you're arguing about whether one of you should be arguing at all.\n\nMotive arguments are arguments of last resort, when you're confident that not only is your opponent wrong, but that they are so wrong for such fundamental reasons that there is no reason to pay their arguments any attention at all. And that can happen - sometimes a party is motivated in such a way that they'll reliably generate bad arguments for a position. But that's not a target you aim for if you want to have an ongoing dialogue.\n\n(This assumes an adversarial context; in non-adversarial contexts motives can be questioned as a means of understanding. Politics is always adversarial.)"
+   }
+  },
+  {
+   "_id": "Qp7EBbemcbjCf7cNQ",
+   "parentCommentId": "mkE4KX6ayxaGSokcX",
+   "postedAt": "2026-09-08T08:18:45.501Z",
+   "baseScore": 4,
+   "user": {
+    "username": "jai-d-no-the-other-one",
+    "displayName": "Jai"
+   },
+   "contents": {
+    "markdown": "The more I think about it, the more it seems like the split here is just going to be adversarial vs cooperative contexts."
+   }
+  },
+  {
+   "_id": "MxssQg9Mdrf6imFDn",
+   "parentCommentId": "wgY3sEaZbhDrg2vr6",
+   "postedAt": "2026-09-08T08:22:55.528Z",
+   "baseScore": 9,
+   "user": {
+    "username": "jai-d-no-the-other-one",
+    "displayName": "Jai"
+   },
+   "contents": {
+    "markdown": "I suspect it's less that people's self-models are sacred than that self-model-accuracy is closely tied to credibility. In adversarial contexts credibility arguments are conversation-stopping. But they can be totally fine in non-adversarial contexts where all parties involved are confident that none of the involved parties want to permanently undermine their credibility."
+   }
+  },
+  {
+   "_id": "k2MFzmiGKbfWBzNAw",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T08:33:34.559Z",
+   "baseScore": 13,
+   "user": {
+    "username": "DaemonicSigil",
+    "displayName": "DaemonicSigil"
+   },
+   "contents": {
+    "markdown": "Consider the following Motte / Bailey (not saying you're arguing for the Bailey here):\n\nMotte: People are sometimes mistaken about the reasons and motivations behind their own beliefs. Reasonable people should be willing to discuss the possibility that they may be self-deceiving about their reasons for believing something just as they'd discuss any other fact about the world.\n\nBailey: Given that people are prone to self deception, it's fine in a discussion to replace someone's given reasoning about something with your inference about the actual reason why they believe it. And further, to focus your arguments and attention on this inferred reason, as opposed to their given reason.\n\nThe motte is accurate, while granting the bailey is just re-legalizing the Straw-Man fallacy, but with extra steps. I weakly expect that on the internet, outside of very curated spaces like LessWrong, bailey-type situations are much more common than motte-type situations. If there is a limited ability to distinguish them, it might be positive EV to blanket ignore both."
+   }
+  },
+  {
+   "_id": "bb9SH4FXn5tw6xSTq",
+   "parentCommentId": "wgY3sEaZbhDrg2vr6",
+   "postedAt": "2026-09-08T08:55:48.952Z",
+   "baseScore": 13,
+   "user": {
+    "username": "leogao",
+    "displayName": "leogao"
+   },
+   "contents": {
+    "markdown": "i think there is a social fiction of individual sovereignty that is present in most social situations that explains this [http://lesswrong.com/posts/YiRsCfkJ2ERGpRpen/leogao-s-shortform?commentId=4qYeNi6HB3FFz5xyp](http://lesswrong.com/posts/YiRsCfkJ2ERGpRpen/leogao-s-shortform?commentId=4qYeNi6HB3FFz5xyp)"
+   }
+  },
+  {
+   "_id": "JG4ZdqMdvokciHKsa",
+   "parentCommentId": "wgY3sEaZbhDrg2vr6",
+   "postedAt": "2026-09-08T11:22:56.706Z",
+   "baseScore": 15,
+   "user": {
+    "username": "307th",
+    "displayName": "307th"
+   },
+   "contents": {
+    "markdown": "As someone who falls into the latter camp, I would say the reason I'm not a fan of arguing about someone's true reason for believing X is more pragmatic, which is that when it's done it's mostly done to bulverize rather than for any truth seeking reason. Talking about the object level issue is hard and fiddly, but making up a picture of why your opponent is wrong is fun and can be persuasive to bystanders.\n\nAs for why I think it's bad:\n\n*   Accusations of bias are easy to dress up rhetorically and often can't be disproven\n*   Even in the case where the speculation is accurate, it doesn't have much bearing on the actual issue; you can successfully identify someone is biased towards believing X for silly emotional reason Y but they probably also have concrete reasons A, B, and C, and X may in fact be true despite the silliness of Y.\n*   Conversely, even in the case where X is false, convincing them of not-X seems more likely if you address their concrete reasons A, B, and C rather than spending time trying to figure out which bias is leading them to buy A, B, and C and trying to convince them that they are suffering from that bias.\n\nAs a result of all this, I just find it uninteresting to argue about people's motives. It seems highly unproductive and is usually done by people playing games rather than truth seeking. If we're talking about X, and you say I only believe that because Y despite me saying I believe it because of A, B, and C, I become less interested in the conversation, because now the convo is shifting to be about Y but regardless of whether Y is true or false it doesn't have much to do with X.\n\nObviously people can in fact be wrong about their own motives and so there is a case where it can actually be productive, but even among rationalists I feel like I've much more often seen the unproductive failure mode described above."
+   }
+  },
+  {
+   "_id": "ei67GgEnkYFWygX7Y",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T12:32:14.555Z",
+   "baseScore": 1,
+   "user": {
+    "username": "ben-labowstin",
+    "displayName": "Ben Labowstin"
+   },
+   "contents": {
+    "markdown": "My understanding of the claim is more that:  \n  \nOnce you move an argument to be about someone's understanding of their motivations and beliefs, it risks violating well-grounded rationalist discourse norms and becoming a fully general counterargument (in a similar way to \"you're lying\".) Whilst it's obviously possible for people to engage with that meta-level of argument, it makes continued discussion of the original subject impossible without defending against these more thorny claims, which most people are understandably reticent about.  \n  \nUntil the matter of the untrusted motivations/beliefs is settled, further discussion of the subject becomes nearly impossible.  \n  \n(And the part that I would usually leave unsaid, for the obvious self-referential reason, but am including here due to the specific invitation) - Once you open the door to this kind of thinking, I think there is also a failure mode where it becomes very easy to react to any argument with an assessment of what you think their motivation might be (as you do here.) This easy rejoinder always being available becomes very enticing and has the danger of 1) alienating your discussion partner, and 2) blinding you to more difficult answers that stem from the analysis of why someone might really mean/believe what they are saying."
+   }
+  },
+  {
+   "_id": "awpw8iHdsGCWpK4nj",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T14:30:24.275Z",
+   "baseScore": 51,
+   "user": {
+    "username": "sarahconstantin",
+    "displayName": "sarahconstantin"
+   },
+   "contents": {
+    "markdown": "I think most people have *some*, but not *infinite*, ability to \"not take things personally\", to engage in conversations that border on personal attacks without emotions interfering with their ability to track logic.\n\nSpeaking only for myself, when something gets too triggering, too close to an attack on my ego or something I hold dear, then the conversation will predictably get unproductive. I will *either* defend myself when I'm in the wrong, *or* submit socially when I'm in the right, and *I can't tell which it will be*, but nobody is going to learn the truth and nobody is going to have a good time.\n\nIt is, maybe, an okay social convention to suppose \"when somebody takes things personally, we *presume* they are guilty of something they don't want to admit.\" But it's not literally *true*. People can also get defensive or emotional when they're falsely accused. If you assume \"everybody who's uncomfortable talking to me about this touchy subject is Up To No Good\", you will be wrong a lot of the time. It is not at *all* uncommon for people to be insecure about things that are in fact fine. Particularly if they default to social submission rather than social dominance.\n\nIf you want to engage in honest intellectual reasoning about touchy subjects, you can put in effort to make them less touchy, by establishing social safety.\n\nIf you choose to assume that everybody who has a limit, beyond which they get uncomfortable, take things personally, etc, is not worth conversing with, then you are going to have a very biased view of the world. I have seen this happen to people. They are functionally limited to a tiny circle of interlocutors and their views become, from my perspective, very skewed and ungrounded. People who literally can't be triggered are psychologically unusual and they are not the only people worth learning from. I would *strongly* recommend continuing to intellectually engage with people who are limited to a \"comfort zone\", within that comfort zone, and optionally putting in the work yourself to *make* their comfort zone larger.\n\nIf you *have* a comfort zone, beyond which you can't engage productively, I would recommend being prompt and explicit about ending conversations when they approach the edge of what you can handle. Take responsibility for politely bowing out. Do not concede that you are in the wrong, because *you don't know that*. Let them believe what they want, but end the conversation before you say a bunch of things you regret. Push to the edge of your own comfort zone cautiously and at your own pace. Trying to push yourself beyond what you're capable of, because \"that's what rational people do\" and because someone is pressuring you to do so, leads to regrets."
+   }
+  },
+  {
+   "_id": "ZLEpysucSLYZCdd6D",
+   "parentCommentId": "JG4ZdqMdvokciHKsa",
+   "postedAt": "2026-09-08T14:52:32.454Z",
+   "baseScore": 9,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "I do agree that a lot of people just incompetently throw around hypotheses of others' self-models being wrong. Trying to convince someone that they're suffering from a bias is indeed usually pretty useless. But I do not think e.g. addressing their concrete reasons is typically helpful at all.\n\nMy go-to prototypical example is hangriness. When someone is hangry, it's often more obvious from the outside. There is easy-to-notice evidence, like e.g. \"did this person get angry about three completely unrelated things one after another?\". And when I notice someone is hangry, the correct response is not to argue against whatever they're object-level angry about at the moment; even if I \"succeed\" at that argument, they'll just immediately find a different thing to be angry about. The correct response is to go find food and put it in front of them."
+   }
+  },
+  {
+   "_id": "8GTGNmnGiJaSHHTbh",
+   "parentCommentId": "k2MFzmiGKbfWBzNAw",
+   "postedAt": "2026-09-08T15:18:10.484Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "> to replace someone's given reasoning about something with your inference about the actual reason why they believe it\n\nThis actually is fine, to the extent your inference is correct (which it isn't necessarily, but it could be). That is the crux, not the move of using a different channel for observing a hidden fact of someone's internal justifications (their own reporting vs. your inference)."
+   }
+  },
+  {
+   "_id": "noduPuJtzaCXdRF2A",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T15:32:12.659Z",
+   "baseScore": 17,
+   "user": {
+    "username": "casens",
+    "displayName": "casens"
+   },
+   "contents": {
+    "markdown": "regardless of whether your particular argument here is solid, i don't think that's the most interesting part of what kelsey was saying, ie what discussions kelsey and richard were having and whether or not they were debating productively.  you're looking at kelsey's finger, and you should be looking at what they're pointing at."
+   }
+  },
+  {
+   "_id": "sv7zWXvabct6kbGyq",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T17:09:17.511Z",
+   "baseScore": 6,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "Strong agree, strong upvote, and all that.\n\nI'm going to push back on what I think is a small but very important kernel of truth in what Piper is saying.\n\n> I think the move of declaring someone else so deceived that their own understanding of their beliefs and motives should be rejected inherently makes conversation with them nearly impossible.\n\nThere's a difference between putting 99% of your probability mass on \"they're self deceiving\", or even 99.99%, and *declaring* that they're self deceiving. The latter is a move to round off the residual. It's a move to shut out the *possibility* that they're not self deceived from the conversation. It's the implicit \"The chance that I'm wrong about this is small enough to ignore, and not spend effort reasoning about\". Which, in their perspective which is in this residual, *does* make conversation impossible on any front where the alleged self deception completely invalidates the perspective.\n\nNow, this doesn't mean *all* conversation is impossible. It's totally possible to say \"No, fuck you, you can't round me out of the conversation!\" and bring spreadsheets to back it up. Or to say \"Why do you believe that?\" and see if their reasoning holds up. But it's still a reentering of a conversation your perspective was just pushed out of.\n\nIf I were to find myself believing Piper is too self deceiving to be worth talking politics with, I might declare her to be self deceiving. But I'd do it *knowing* that this will likely make conversation feel impossible to her, because if I'm right she won't know how to side step the containment bucket I've dropped on her.\n\nIf I were to find myself \\*wishing I could\\* talk politics with Piper, or people like piper, then it would be foolish of me to make any declarations. Instead, I would explore that residual. Probe the cracks, where I don't see her words matching her behaviors. Bring the discrepancy to light so that whoever turns out to be wrong will see the conflict. Maybe I expect to know who will be doing the updating, but the work to close the gap is the same either way."
+   }
+  },
+  {
+   "_id": "PnZagnneQvLdpFxAR",
+   "parentCommentId": "sv7zWXvabct6kbGyq",
+   "postedAt": "2026-09-08T17:34:28.855Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Ninety-Three",
+    "displayName": "Ninety-Three"
+   },
+   "contents": {
+    "markdown": ">If I were to find myself believing Piper is too self deceiving to be worth talking politics with, I might declare her to be self deceiving. But I\u2019d do it *knowing* that this will likely make conversation feel impossible to her, because if I\u2019m right she won\u2019t know how to side step the containment bucket I\u2019ve dropped on her.\r\n\r\nAfter Richard made the move in question, Kelsey replied to him, he replied to her, she replied to him again, and he replied to her again. I characterize the replies as \"talking politics\", and assert that you are verifiably wrong."
+   }
+  },
+  {
+   "_id": "fHMeDfTnC25tieMqa",
+   "parentCommentId": "awpw8iHdsGCWpK4nj",
+   "postedAt": "2026-09-08T17:53:44.575Z",
+   "baseScore": 8,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "> It is, maybe, an okay social convention to suppose \"when somebody takes things personally, we *presume* they are guilty of something they don't want to admit.\" But it's not literally *true*. People can also get defensive or emotional when they're falsely accused. If you assume \"everybody who's uncomfortable talking to me about this touchy subject is Up To No Good\", you will be wrong a lot of the time. It is not at *all* uncommon for people to be insecure about things that are in fact fine. Particularly if they default to social submission rather than social dominance.\n\nMaybe the defensive person didn\u2019t take the cookie from the cookie jar, but they\u2019re definitely not anticipating \u201cI\u2019m gonna just show the video footage and then people are going to apologize for the false accusations. Easy\u201d.\n\nMore generally, their behavior shows that they anticipate other people not finding their perspective persuasive. They could still be right, and that\u2019s important to remember. At the same time, when someone tells you \u201cYou probably won\u2019t find this convincing\u201d, that means something.\n\n> If you choose to assume that everybody who has a limit, beyond which they get uncomfortable, take things personally, etc, is not worth conversing with, then you are going to have a very biased view of the world.\n\nThat\u2019s definitely true, but Zack\u2019s criticism is narrower than that.\n\nEverybody has limits. It\u2019s easy to respect someone who says \u201cI\u2019m sorry, I can\u2019t handle this conversation. I recognize that it means I might be wrong, that I\u2019m not confident in my own ability to support my stances, and I don\u2019t know what to do about that. I\u2019ll have to figure this out on my own time. Maybe next time I\u2019ll be ready to talk about this\u201d.\n\nIt\u2019s hard *not* to, actually."
+   }
+  },
+  {
+   "_id": "q2XEbsbcf2JxxTeLm",
+   "parentCommentId": "PnZagnneQvLdpFxAR",
+   "postedAt": "2026-09-08T17:57:19.274Z",
+   "baseScore": 2,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "Nowhere in my comment did I say that Kelsey and Richard would not have a continued exchange that you would characterize as \"talking politics\". Nor did I even imply it.  \n  \nI suggest you read more carefully."
+   }
+  },
+  {
+   "_id": "nhuaCbA6q6bMnXzuT",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T18:41:29.572Z",
+   "baseScore": 2,
+   "user": {
+    "username": "AprilSR",
+    "displayName": "AprilSR"
+   },
+   "contents": {
+    "markdown": "> you must not reveal that you think that\n\nI think the actual demand is somewhat narrower than this, probably? Or at least, my instinct in a situation like this is often to be careful about the manner in which I discuss my thoughts, rather than to outright conceal them.\n\nSomeone could plausibly object even to the narrower requirement about the manner in which one reveals that, but I do think it's narrower."
+   }
+  },
+  {
+   "_id": "ZWsKadWwEqMEMCCTf",
+   "parentCommentId": "wgY3sEaZbhDrg2vr6",
+   "postedAt": "2026-09-08T19:46:45.506Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "While I largely agree that it is important for people to call out others' self-models as biased and fabricated (including for their friends!), my first thought about you and what you might be missing about others here is that (perhaps) you're not tracking how dangerous it can be socially if people around you come to a consensus that you are not a trustworthy source of information about yourself, your behavior, your beliefs, and so on. I suspect the people you're referring to are concerned that they basically will have their voice silenced as a result, and also accusations against them about their behavior will be presumed true because their evidence is not accepted."
+   }
+  },
+  {
+   "_id": "GQfMqXyZDPsyKipBG",
+   "parentCommentId": "q2XEbsbcf2JxxTeLm",
+   "postedAt": "2026-09-08T19:50:03.678Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Ninety-Three",
+    "displayName": "Ninety-Three"
+   },
+   "contents": {
+    "markdown": "Are you claiming that this tweet from Richard doesn't constitute declaring Kelsey to be self-deceiving?\r\n>[Along with Paul I\u2019d put many effective altruists, @slatestarcodex, @KelseyTuoc\r\n,@mattyglesias etc in the tech left bucket. They might not call it that themselves but unfortunately they\u2019re not able to reason very explicitly about how much they\u2019ve capitulated to wokeness, so I don\u2019t trust their self-identifications.](https://x.com/RichardMCNgo/status/2071372646517035120)\r\n\r\nOr are we meant to understand that *you* declaring Kelsey to be self-deceiving would have more impact on her felt ability to converse than Richard doing so?"
+   }
+  },
+  {
+   "_id": "stQ4oaWRuokpBPwNB",
+   "parentCommentId": "ZWsKadWwEqMEMCCTf",
+   "postedAt": "2026-09-08T20:22:20.151Z",
+   "baseScore": 8,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "> I suspect the people you're referring to are concerned that they basically will have their voice silenced as a result...\n\nI don't know who you think I'm subtweeting here but I'm pretty sure I am not subtweeting them. For instance, the actual fights I've had about this have been with romantic partners (it has come up with more than one of them).\n\n... anyway, I dunno about you, but if A gets triggered by B questioning A's self-model, that's one of the biggest updates for me that A has wildly inaccurate self-models. After all, you won't end up with an accurate self-model if the main model-error-correction mechanism is broken. If someone questions my own self-model, and I respond by calmly talking through the actual evidence out loud, that also serves as a costly signal that I think clearly about my own self-model."
+   }
+  },
+  {
+   "_id": "uy9pzjwA5crFH5nbP",
+   "parentCommentId": null,
+   "postedAt": "2026-09-08T20:36:22.968Z",
+   "baseScore": 3,
+   "user": {
+    "username": "less_raichu",
+    "displayName": "less_raichu"
+   },
+   "contents": {
+    "markdown": "I must point out they seem like they don't want to have a conversation with each other no matter what the frame.\n\nI prefer the frame that people have privilege over their beliefs. I would convert my non-view, \"you don't really believe X; you actually believe Y and that causes you to believe X\" into \"you really believe X, and I think it's because Y is informing you.\" All that other stuff is extremely important, like unconscious bias, denial, changing one's mind, altered states of mind, dissonance, not letting go, etc. But I would rather align that when we try to have conversation, you get to report your beliefs as you see fit, and I don't get to say I know what you believe better than you.\n\nThis seems more instrumental for winning votes, twice over:\n\n1.  It's more respectful, hence, as Piper says, more conducive to conversation.\n2.  People know their self-interest, vote with it, and you win votes by responding to it. \"They're deluded because racism\" is a common liberal refrain and it's a self-own.\n\nYou can call this \"Nate Silverism\" because he strongly advocates for \"ignore the voter at your own peril.\" In one article, he made Heather Cox Richardson into a foil of his. Silver thinks Heather Cox Richardsonism is the belief that anyone who disagrees with Heather Cox Richardson has been deluded by the elites, and Silver does not like this way of thinking of people's beliefs."
+   }
+  },
+  {
+   "_id": "EFtHyqbgMCgedJDgj",
+   "parentCommentId": "8GTGNmnGiJaSHHTbh",
+   "postedAt": "2026-09-08T21:05:48.311Z",
+   "baseScore": 4,
+   "user": {
+    "username": "DaemonicSigil",
+    "displayName": "DaemonicSigil"
+   },
+   "contents": {
+    "markdown": "If the inferred reasoning is weaker than their given reasoning, I'm still not sure about that. Even if you are correct that the weak reasoning is the true cause of their beliefs, this does not imply that you should copy their error in reverse. As a rule of thumb, one should probably try to address the stated arguments sufficiently well before moving on to inferred ones."
+   }
+  },
+  {
+   "_id": "mv36uLkGBJ22ekp5N",
+   "parentCommentId": "EFtHyqbgMCgedJDgj",
+   "postedAt": "2026-09-08T21:35:08.626Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "Uncertainty simply asks to track all credible hypotheses, without discarding any of them. So it's only a choice when trying to simplify, that can also be made when it's an easy call. The framing of choosing one option anchors to the word \"replace\" in your comment, but in general you just add alternative hypotheses.\n\nIt's also a good idea to continue tracking what the person says about their own reasoning even when most of the credence shifts to alternatives. This way, you won't lose track of what they mean even if you don't believe it's correct, that is even if you don't consider it a credible hypothesis about what's correct. Like following a plot in a fiction story, it's possible to become mistaken about what it says about the fictional world. And so it's worth tracking what the story says as it goes, even as you are certain it's not describing something in our physical world.\n\n> As a rule of thumb, one should probably try to address the stated arguments sufficiently well before moving on to inferred ones.\n\nConsidering stuff in parallel and developing worldviews for hypotheticals over long periods of time seems more natural than any strictures of ordering, or obligations to visibly \"address arguments\"."
+   }
+  },
+  {
+   "_id": "2fpaketQz2vx7QM4p",
+   "parentCommentId": "mv36uLkGBJ22ekp5N",
+   "postedAt": "2026-09-08T22:24:46.106Z",
+   "baseScore": 2,
+   "user": {
+    "username": "DaemonicSigil",
+    "displayName": "DaemonicSigil"
+   },
+   "contents": {
+    "markdown": "This all makes sense, I think. Just to be clear:\n* In my comments above, I'm talking about the API one should outwardly present in order to be a good discussion partner. Not trying to establish any rules one should use in one's own internal thoughts.\n* By making the same error in reverse, I just mean treating the weaker argument as a crux instead of the stronger one."
+   }
+  },
+  {
+   "_id": "KxLJHESyevz3pDgpW",
+   "parentCommentId": "stQ4oaWRuokpBPwNB",
+   "postedAt": "2026-09-08T22:40:08.148Z",
+   "baseScore": 20,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "I mean I am agreeing with everything you're preaching, and I believe I behave in these ways too.\n\nTo say it in my words: It is very important epistemically that individual instances of someone having a dumb self-model or believing that they believe something (when they don't) are able to be pointed out and discussed without the person feeling that their entire credibility on all things are being called into question and becoming extremely defensive.\n\nBut: sometimes reasonable people are in messed up group settings and are subject to dumb group dynamics, and it is socially destabilizing if the group determines they're not a credible source of information about themselves, and puts them in a kafka-esque trap where evidence they raise is often discredited because they were the one to raise it. Classic scenarios are people reporting bullying being called paranoid and having their social reads and memory discredited (useful because bullying often happens 1-1 in ways that are hard to document), and whistleblowers having heaps of scorn raised upon their basic mental faculties so as to discredit their testimony. I think these situations aren't that rare and how reliable someone is seen as affects them a great deal, so I think on some occasions it's understandable for people to be defensive about having their trustworthiness called into question when it comes to accounts of their own experiences and feelings."
+   }
+  },
+  {
+   "_id": "rrGbD4cGkSDkA9aaQ",
+   "parentCommentId": "2fpaketQz2vx7QM4p",
+   "postedAt": "2026-09-08T22:42:30.071Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "Right, I'm implicitly saying it's worth discussing your actual modeling of a topic, so epistemic principles directly translate to discourse principles. In practice you only discuss the legible parts, but legibility filtering happens after the fact (based on what turns out to be legible), so any choices of how the epistemic content develops are also choices of what should be discussed."
+   }
+  },
+  {
+   "_id": "nT57NsFwmbMbPJuCJ",
+   "parentCommentId": "GQfMqXyZDPsyKipBG",
+   "postedAt": "2026-09-09T00:13:18.388Z",
+   "baseScore": 2,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "Neither."
+   }
+  },
+  {
+   "_id": "St9favmZ9a9oj7auL",
+   "parentCommentId": "nT57NsFwmbMbPJuCJ",
+   "postedAt": "2026-09-09T03:08:31.681Z",
+   "baseScore": -2,
+   "user": {
+    "username": "Ninety-Three",
+    "displayName": "Ninety-Three"
+   },
+   "contents": {
+    "markdown": "Richard claimed Kelsey was self-deceiving. We cannot prove this with certainty, but I read her [changing the topic when pressed](https://x.com/RichardMCNgo/status/2072917203327029356) as evidence that it is. Despite this, they proceeded to talk about politics. You said if the accusation was right, this would likely make conversation feel impossible to her. People rarely initiate conversations they feel are impossible.\r\n\r\nYour claim of \"If [proposition we have evidence for] then conversation will likely feel impossible\" did not strictly say that they would not have a continued exchange that I would characterize as \"talking politics\", but it certainly implied it. I am confused as to how you think this was not implied, and request that you explain.\r\n"
+   }
+  },
+  {
+   "_id": "edHrSituDhCCzqDdS",
+   "parentCommentId": "St9favmZ9a9oj7auL",
+   "postedAt": "2026-09-09T04:06:31.634Z",
+   "baseScore": 2,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "> If I were to find myself believing Piper is too self deceiving to be worth talking politics with, I might declare her to be self deceiving. But I\u2019d do it *knowing* that this will likely make conversation feel impossible to her, because if I\u2019m right she won\u2019t know how to side step the containment bucket I\u2019ve dropped on her.\n\nI'm confused what assumptions you're making here. Are you taking \"self deceiving\" to be binary?  \n  \nI didn't say \"if she's self deceiving \\[*at all*\\]\". I put the bar at *too self deceiving to be worth talking to*. If she turned out to be able to hold a worthwhile conversation after I declared her to be self deceiving, it'd just mean that I was wrong that the level of self deception surpassed the \"not worth talking to\" bar. In other words, if I thought she was a little self deceiving but not to the point where it's worth burning that bridge, I probably wouldn't make such declarations. I might raise the possibility, but I probably wouldn't *declare* it.  \n  \nIs that clearer?"
+   }
+  },
+  {
+   "_id": "hQEhgDF6uG5JqBchs",
+   "parentCommentId": "wgY3sEaZbhDrg2vr6",
+   "postedAt": "2026-09-09T11:48:11.291Z",
+   "baseScore": 11,
+   "user": {
+    "username": "davekasten",
+    "displayName": "davekasten"
+   },
+   "contents": {
+    "markdown": "That is not the thing that Kelsey is doing. Kelsey is saying, \"it is unproductive to continue conversations with people who make claims that their opponents are self-deceived in order to win political arguments; talking more with those people just gives them more sentences to convert into ammunition against their opponents.\"  \n  \nIf your steelman of someone else is returning the result, \"and therefore I must conclude that Kelsey freaking Piper, of all people, is trying to ban bridging gaps with others and questioning self-models,\" ***something has gone catastrophically wrong with your steelmanning process***."
+   }
+  },
+  {
+   "_id": "bCvuDeszQKBYzM2Jn",
+   "parentCommentId": "edHrSituDhCCzqDdS",
+   "postedAt": "2026-09-09T12:05:13.174Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Ninety-Three",
+    "displayName": "Ninety-Three"
+   },
+   "contents": {
+    "markdown": "Ah, I was thrown because Richard asserted self-deception on a particular matter which ought to be somewhat binary. But your post wipes that away to talk about a general sense of being too self-deceiving at which point sure, she might be somewhat but not *too* self-deceiving."
+   }
+  },
+  {
+   "_id": "WjFB7hyQ6J9BaC4uf",
+   "parentCommentId": "hQEhgDF6uG5JqBchs",
+   "postedAt": "2026-09-09T15:11:55.543Z",
+   "baseScore": 1,
+   "user": {
+    "username": "johnswentworth",
+    "displayName": "johnswentworth"
+   },
+   "contents": {
+    "markdown": "I was not claiming that Kelsey Piper in particular feels like her self-models are sacred or inviolable, or that she gets super triggered when people question them. I rarely read Kelsey Piper, I don't have much of a take on her at all."
+   }
+  },
+  {
+   "_id": "ShqYMc6zfibYGaeSY",
+   "parentCommentId": "hQEhgDF6uG5JqBchs",
+   "postedAt": "2026-09-09T17:34:23.721Z",
+   "baseScore": 11,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "But if it's \"unproductive to continue conversations with people who make claims that their opponents are self-deceived in order to win political arguments\", that would seem to be a stance against \"bridging gaps with others\" and \"questioning self-models\" in the specific case where the others with self-model questions are trying to win political arguments. Right?\n\nTo be clear, I think that's a coherent position: in a world of good-faith actors who want the truth and bad-faith actors who want to win political arguments, probably you don't want to waste your time talking to bad-faith actors when you can get all the information you need from good-faith actors. The reason I disagree with it is that I don't think we live in that kind of binary world: I think that [mixed motives are ubiquitous](https://www.lesswrong.com/posts/e4GBj6jxRZcsHFSvP/assume-bad-faith) and that you [lose information by refusing to talk to people who want to win political arguments against you](https://www.lesswrong.com/posts/MjutwGzoLrTTodeTf/hazards-of-selection-effects-on-approved-information-1). People trying to win political arguments [selectively attend to information that supports their preferred policy](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting), but that doesn't make them wrong about the information they do report, which might not be available from other sources.\n\n> Kelsey freaking Piper, of all people\n\nI see this kind of hero-worship occasionally (Piper being perhaps the most common \"beneficiary\" behind Alexander and Yudkowsky), and I think it's bad: bad for you _and_ bad for Kelsey. Your favorite writers are not gods! They\u2014\"of all people\" and _like_ all people\u2014make mistakes sometimes, including politically motivated mistakes.\n\nIf a critic is claiming that they got something simple wrong, maybe it's not worth your time to consider (if your favorite writer is usually right and the critic doesn't have a track record you care about), but it shouldn't occasion a (bold and italic!) pronouncement that the critic has gone catastophically wrong in some supposed duty to steelman your favorite writer."
+   }
+  },
+  {
+   "_id": "NBZrLCSpGeZFXdXCR",
+   "parentCommentId": "hQEhgDF6uG5JqBchs",
+   "postedAt": "2026-09-10T03:56:25.278Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Jiro",
+    "displayName": "Jiro"
+   },
+   "contents": {
+    "markdown": ">Kelsey freaking Piper, of all people\r\n\r\nKelsey [has been called out](https://www.datasecretslox.com/index.php/topic,4106.0.html) on motivated reasoning before.\r\n\r\nEdit: And this certainly counts as being self-deceived."
+   }
+  },
+  {
+   "_id": "PM3TgBrNjcHrnCShb",
+   "parentCommentId": "HrBuK35tsDohzCQ5j",
+   "postedAt": "2026-09-10T04:47:24.935Z",
+   "baseScore": 3,
+   "user": {
+    "username": "WillPetillo",
+    "displayName": "WillPetillo"
+   },
+   "contents": {
+    "markdown": "This is a broader point about paying attention to context. Local status hierarchies are only relevant to a subset of possible conversations. Even where status is at play, it's worth asking whether you want to pick this battle and what you expect to come of it, or if the context is integrity-relevant enough to switch to a mode of honesty no matter what.  \n  \nFor a one-on-one conversation, where I can factor out effects on an external audience, the rule I follow is to check statements under the criteria of \"true, necessary, kind\" where the ideal is to be all 3, but the minimum is 2/3, and so when I am operating with just 2 I want to be really solid on them. So if we're assuming \"true\" is present and \"kind\" is suspended, that's a time to be extra mindful of \"necessary.\""
+   }
+  }
+ ]
+}

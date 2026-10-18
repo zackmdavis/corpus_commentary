@@ -1,0 +1,337 @@
+{
+ "post": {
+  "_id": "Q4yhuwzoy3kNRbv4m",
+  "title": "Agreeing With Stalin in Ways That Exhibit Generally Rationalist Principles",
+  "postedAt": "2024-03-02T22:05:49.553Z",
+  "pageUrl": "https://www.lesswrong.com/posts/Q4yhuwzoy3kNRbv4m/agreeing-with-stalin-in-ways-that-exhibit-generally",
+  "commentCount": 25
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "vpWGC9sHcWydTPqYP",
+   "parentCommentId": null,
+   "postedAt": "2024-03-02T22:07:41.212Z",
+   "baseScore": 15,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(I think this is the best and most important post in the sequence; I suspect that many readers who didn't and shouldn't bother with the previous three posts, may benefit from this one.)"
+   }
+  },
+  {
+   "_id": "Z5akdoX4JLfDvhCzs",
+   "parentCommentId": null,
+   "postedAt": "2024-03-03T01:26:28.269Z",
+   "baseScore": 25,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "> I've read *Surely You're Joking, Mr. Feynman*. I cannot imagine Richard Feynman trying to get away with the \"sometimes personally prudent and not community-harmful\" excuse.\u00a0\n\nIIRC Feynman publicly maintained and announced that he didn't have an exceptionally high IQ or was generally not much smarter than his peers, in a way that seemed deceptive in kind of similar ways.\u00a0\n\nHis son (who I think occasionally comments on LW) also briefly commented on [this](https://twitter.com/carl_feynman/status/1758846050268303857).\n\nIn-general Feynman seemed to me like someone who was pretty cavalier with public discourse. I could dig up the references, but the last few times I checked he routinely exaggerated things, and often made points about society that seemed pretty clearly contradicted by other things he believed."
+   }
+  },
+  {
+   "_id": "An27wmfeYS6WPHcXT",
+   "parentCommentId": "Z5akdoX4JLfDvhCzs",
+   "postedAt": "2024-03-03T02:12:10.829Z",
+   "baseScore": 4,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "I would love to see references for this!"
+   }
+  },
+  {
+   "_id": "hL5FJZoNsaqFhQMYg",
+   "parentCommentId": "An27wmfeYS6WPHcXT",
+   "postedAt": "2024-03-03T10:03:18.099Z",
+   "baseScore": 7,
+   "user": {
+    "username": "rsaarelm",
+    "displayName": "rsaarelm"
+   },
+   "contents": {
+    "markdown": "James Gleick's *Genius* cites a transcript of \"Address to Far Rockaway High School\" from 1965 (or [1966 according to this](https://gt-labs.com/wp-content/web_extras/feynman-full_bibliography.pdf) from California Institute of Technology archives for Feynman talking about how he got a not-exceptionally-high 125 for his IQ score. Couldn't find an online version of the transcript anywhere with a quick search."
+   }
+  },
+  {
+   "_id": "S9Ypco2zdwE7CstBi",
+   "parentCommentId": "hL5FJZoNsaqFhQMYg",
+   "postedAt": "2024-03-03T10:32:57.378Z",
+   "baseScore": 5,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "Sorry, I meant that I\u2019d like to see references for [@habryka](/users/habryka4?mention=user)\u2019s last sentence specifically (i.e., the part for which he says \u201cI could dig up the references\u201d). The IQ thing doesn\u2019t seem to be that."
+   }
+  },
+  {
+   "_id": "hRkHHFeJcKyCwmJZi",
+   "parentCommentId": null,
+   "postedAt": "2024-03-03T11:40:43.528Z",
+   "baseScore": 4,
+   "user": {
+    "username": "cousin_it",
+    "displayName": "cousin_it"
+   },
+   "contents": {
+    "markdown": "I feel like instead of flipping out you could just say \"eh, I don't agree with this community's views on gender, I'm more essentialist overall\". You don't actually have to convince anyone or get convinced by them. Individual freedom and peaceful coexistence is fine. The norm that \"Bayesians can't agree to disagree\" should burn in a fire."
+   }
+  },
+  {
+   "_id": "FJvChQJ9PGchGS9jc",
+   "parentCommentId": "hRkHHFeJcKyCwmJZi",
+   "postedAt": "2024-03-03T16:42:12.529Z",
+   "baseScore": 5,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "I guess one challenge with this is Zack doesn't exactly seem to *agree* with sex essentialism. Rather he used to be a strong opponent of it and then Eliezer told him(?) that he shouldn't blindly oppose sex essentialism because often sex essentialism is correct and important, and now Zack wants the rationalist community to stop randomly lashing out against sex essentialism and instead invest in figuring out which part of sex essentialism are good vs bad? Whereas the rationalist community is mostly too propagandistic/lazy/busy to investigate sex essentialism systematically.\n\n(Zack bets mostly on \"too propagandistic\"; this is clearly the case for Eliezer Yudkowsky and Scott Alexander, as he has documented well in this post. But there's plenty of rationalists with different opinions, and also the rationalist community doesn't invest that much into figuring out other socially significant matters, so I would personally put more weight on the lazy/busy aspect.)"
+   }
+  },
+  {
+   "_id": "vmYCv5zzvuZJq2KNJ",
+   "parentCommentId": "vpWGC9sHcWydTPqYP",
+   "postedAt": "2024-03-03T17:17:47.547Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "It feels self-contained, which from my perspective is a good thing. The links are there, but they seem optional to understanding the main idea. (Though I may be biased, because I have already read most of them.)"
+   }
+  },
+  {
+   "_id": "wnmXjBpgu6CJcgD5t",
+   "parentCommentId": "FJvChQJ9PGchGS9jc",
+   "postedAt": "2024-03-03T17:20:31.474Z",
+   "baseScore": 4,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "\ud83e\udd14 I guess even with Eliezer Yudkowsky and Scott Alexander, one could question how much the problem is that they *started being propagandistic*, versus that they never put grit in to research these topics in the first place. Much of their earlier sex essentialist rhetoric seems derived from easy anecdotes and opinions from other sex essentialists. What's the biggest rationalist research project that overlaps with sex essentialism?"
+   }
+  },
+  {
+   "_id": "v3A2neMJMYHbviMH2",
+   "parentCommentId": null,
+   "postedAt": "2024-03-03T19:00:13.960Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Viliam",
+    "displayName": "Viliam"
+   },
+   "contents": {
+    "markdown": "One important thing I learned when following the links was that some people learn about transsexuality *before* they learn about autism. (Probably many young people these days.) Which can have a big impact on how they evaluate their experience, because there are many things that could plausibly be interpreted as an evidence in either direction, such as \"I do not have preferences or behavior typical for my gender\".\n\nFor example, there was a moment when I learned about autism, and it felt like it explained a few things: \"oh, I don't like drinking beer and watching football *because* I am an autistic nerd\". No more explanation needed.\n\nI imagine that in a parallel reality where I somehow never heard about autism, but everyone talks about transsexuality all the time, it would make sense to take all divergence from stereotypical masculinity as evidence of being trans. (And fail to notice that I do not have stereotypically female preferences and behavior either? Well, maybe I'm in a denial. Or maybe taking the right hormones is going to fix all of that.) This probably still wouldn't be enough to convince me that I am trans, but I would be quite confused."
+   }
+  },
+  {
+   "_id": "DynZoL7ii4SanivrN",
+   "parentCommentId": "v3A2neMJMYHbviMH2",
+   "postedAt": "2024-03-03T19:55:48.124Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Ape in the coat",
+    "displayName": "Ape in the coat"
+   },
+   "contents": {
+    "markdown": "I don't think that there are many people who hear about the concept of transgederism earlier than about the concept of gender non-conformity. The latter perfectly explains not liking beer and football as well.\u00a0\n\n> I imagine that in a parallel reality where I somehow never heard about autism, but everyone talks about transsexuality all the time, it would make sense to take all divergence from stereotypical masculinity as evidence of being trans.\n\nPersonally, I've considered the possibility of myself being trans much earlier than being autistic. At some moment in my life I've dissolved the concept of gender for myself and thus I think that classifying myself as *agender* is a more accurate than calling myself a *man.* And yet the fact that I do not possess much appreciation for stereotypical masculinity is a sufficient evidence that I'm actually a woman, never seriously crossed my mind for obvious reasons that you've mentioned yourself:\n\n> And fail to notice that I do not have stereotypically female preferences and behavior either?\u00a0\n\nAnd yes, later, I figured out that I'm on the spectrum, which seems quite likely to be correlated with my agenderism. Doesn't feel as if this revelation suddenly \"made me a man\" again.\n\n> Well, maybe I'm in a denial. Or maybe taking the right hormones is going to fix all of that.)\n\nPeople could be seriously confused in a way you are talking about only if they do not hear about *anything else at all* other than binary transgenderism. So a huge political movement invalidating gender non-conformity, non-binarism and neurodivercity in favor of binary-transgenderism could be a potential problem. But this is absolutely not the way our world is as all these topics go hand in hand.\n\nIn general, all this scaremongering about \"poor autistic children who are just caught in a fad\" seems making very little sense, as soon as we actually think about it for a couple of minutes, instead of treating it in a pattern matching mode. As a social group, our kind is some of the least likely candidate to be swayed by pure social pressure."
+   }
+  },
+  {
+   "_id": "NdEpgjn3vXDsduNxj",
+   "parentCommentId": null,
+   "postedAt": "2024-03-04T01:28:31.606Z",
+   "baseScore": 19,
+   "user": {
+    "username": "RamblinDash",
+    "displayName": "RamblinDash"
+   },
+   "contents": {
+    "markdown": "Maybe I just don't get it because I'm not part of the Berkeley Community, I just read the writing. But my immediate reaction to this is like, why does Zack care so much about what Eliezer (2024) does or does not think? Or even whether, these days, he is or is not a fraud?\n\nLike if you thought what he wrote in 2007 was great, just listen to that? Many (all?) authors who write great books have also written worse books. Maybe Zack's opinion is falling a long way from wherever it was. \n\nBut perhaps he would be happier to adopt a more ecumenical non-Berkeley-ite stance, which I think has been common all along outside The Berkeley Community, and which is something like \"Eliezer wrote some great stuff that was very influential on my thinking and that I still believe was very insightful, and I really appreciate that. I enjoy reading LW more than I think I'd enjoy the marginal alternative use of reading time, but I don't go too far out of my way to pay attention to or care about what he's up to these days.\" - rather than assigning himself an Epic Quest to Win This Argument.\n\n"
+   }
+  },
+  {
+   "_id": "QF7Lphy8NdrWzaqkC",
+   "parentCommentId": "NdEpgjn3vXDsduNxj",
+   "postedAt": "2024-03-04T03:41:25.164Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "You are perhaps wiser than me. (See also [footnote 20](https://www.lesswrong.com/posts/Q4yhuwzoy3kNRbv4m/agreeing-with-stalin-in-ways-that-exhibit-generally#fn-pkFd5n2xdibTFEDxK-20).)"
+   }
+  },
+  {
+   "_id": "kXNPv9KuGqpnPzgwR",
+   "parentCommentId": "QF7Lphy8NdrWzaqkC",
+   "postedAt": "2024-03-04T04:23:05.215Z",
+   "baseScore": 27,
+   "user": {
+    "username": "RamblinDash",
+    "displayName": "RamblinDash"
+   },
+   "contents": {
+    "markdown": "I think I'm trying to make a different point than footnote 20?\n\nIt seems like you are taking me to be saying something like \"You shouldn't care what EY thinks about this Trans issue because \"Everybody Knows\" not to take his statements on this seriously\" - that's how I read FN20.\n\nWhereas I think my point is much more general and really not specific to Trans at all - like why be so deeply invested in the contents of some one guy's mind, at all? On any issue?\n\nEY wrote some great (book-like objects). Inspiring, even. Worldview changing. But, like, whatever his opinions are today (on any issue), my view is mostly like, who cares? Either his arguments are convincing or they aren't.\n\nBy analogy, suppose (counter factually) that I think that Barack Obama was the greatest president in history (he wasn't, but he has to be alive for this analogy to work). Does that mean that I should decide what I think about today's political and policy problems based on what Obama thinks? Such that if Obama was wrong about something, I should engage in an epic quest to Get Obama's Attention and get him to admit he's wrong? I mean, that would be ridiculous, right?"
+   }
+  },
+  {
+   "_id": "tG9MHqE46t9noy6LM",
+   "parentCommentId": "kXNPv9KuGqpnPzgwR",
+   "postedAt": "2024-03-04T04:42:55.467Z",
+   "baseScore": 11,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Yes, that would be ridiculous. It would also be ridiculous in a broadly similar way if someone spent eight years in the prime of their life prosecuting a false advertising lawsuit against a \"World's Best\" brand ice-cream for not actually being the best in the world.\n\nBut if someone did somehow make that mistake, I could see why they might end up writing a few blog posts afterwards telling the Whole Dumb Story."
+   }
+  },
+  {
+   "_id": "Zo9fFzNXnbur4HKyB",
+   "parentCommentId": "DynZoL7ii4SanivrN",
+   "postedAt": "2024-03-04T06:10:20.765Z",
+   "baseScore": 9,
+   "user": {
+    "username": "localdeity",
+    "displayName": "localdeity"
+   },
+   "contents": {
+    "markdown": "> In general, all this scaremongering about \"poor autistic children who are just caught in a fad\" seems making very little sense, as soon as we actually think about it for a couple of minutes\n\nIt's an empirical question whether a bunch of poor autistic children are getting caught in a fad. \u00a0I don't think merely thinking about it can tell you whether it's happening.\n\n> As a social group, our kind is some of the least likely candidate to be swayed by pure social pressure.\u00a0\n\nPerhaps so. \u00a0On the other hand, perhaps our kind (a) already knows we're weird, and (b) when given a possible explanation for why we're weird, is inclined to accept it.\n\nOn the subject of whether people are pushing kids to think they're the other gender before they understand autism as an alternative explanation (or before they understand much of anything)... [This video](https://www.youtube.com/watch?v=M7KBZeRC1RI) contains a person describing ways of perceiving \"gender messages\" from children aged 1-2 years old, saying that one could be \"misgendering\" such children, that there can be a \"pre-verbal communication about gender, and the message back should not be to negate any of those expressions, but to go with them, and see where they go\"; and that \"Children will know as early as the beginning of the second year of life\".\n\nThe person [is described](https://4thwavenow.com/2016/09/29/gender-affirmative-therapist-baby-who-hates-barrettes-trans-boy-questioning-sterilization-of-11-year-olds-same-as-denying-cancer-treatment/) as:\n\n> A well known subscriber to the \u201cgender affirmative\u201d approach to trans-identified children is Diane Ehrensaft, PhD., a clinical and developmental psychologist. Dr. Ehrensaft, author of The Gender Creative Child, plays a powerful role in the burgeoning field of pediatric transgenderism. She is director and chief psychologist for the University of California-San Francisco children\u2019s hospital gender clinic, and is also an associate professor of pediatrics at UCSF. She sits on the Board of Directors of Gender Spectrum, a San Francisco Bay area organization which is heavily involved in matters pertaining to trans-identified children and youth.\n> \n> In February, Dr. Ehrensaft, along with other pediatric transition specialists, including Joel Baum, MS (senior director of professional development and family services at Gender Spectrum), presented at a conference and continuing education event in Santa Cruz, California.\n\nOf course, I don't know how many people follow her advice."
+   }
+  },
+  {
+   "_id": "DigRHyNxgyjWPjBev",
+   "parentCommentId": "Z5akdoX4JLfDvhCzs",
+   "postedAt": "2024-03-04T07:48:59.289Z",
+   "baseScore": 14,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "IQ seems like the sort of thing Feynman could be \"honestly\" motivatedly wrong about. The thing I'm trying to point at is that Feynman seemingly took pride in being a straight talker, in contrast to how Yudkowsky takes pride in not lying.\n\nThese are different things. Straight talkers sometimes say false or exaggerated things out of sloppiness, but they actively want listeners to [know their reporting algorithm](https://www.lesswrong.com/posts/DoPo4PDjgSySquHX8/heads-i-win-tails-never-heard-of-her-or-selective-reporting). Prudently selecting which true sentences to report in the service of a covert goal is not lying, but it's definitely not straight talk."
+   }
+  },
+  {
+   "_id": "v2BniRP3ZaMJmD9up",
+   "parentCommentId": "tG9MHqE46t9noy6LM",
+   "postedAt": "2024-03-04T11:47:58.779Z",
+   "baseScore": 8,
+   "user": {
+    "username": "RamblinDash",
+    "displayName": "RamblinDash"
+   },
+   "contents": {
+    "markdown": "Absolutely! I value your voice. But, and excuse me if this is a misread, your posts in this series read to me like you are still trying to convince yourself and/or him.\n\nIt reads like you are a sort of rationalist Martin Luther criticizing the Pope. But, like, there are already a lot of metaphorically-protestant rationalists."
+   }
+  },
+  {
+   "_id": "b3Pc3ryhxaduvzeDt",
+   "parentCommentId": null,
+   "postedAt": "2024-03-04T15:07:53.727Z",
+   "baseScore": 16,
+   "user": {
+    "username": "TAG",
+    "displayName": "TAG"
+   },
+   "contents": {
+    "markdown": "Truth and Feelings can be reconciled, so long as you are not extreme about either.: if your true beliefs are hurtful you can keep them to yourself. Your worldview can be kept separate from your persona. The problem is when you bring a third thing -- the thing known as sincerity or tactlessness, depending on whether or not you believe in it -- into the picture. If you feel obliged to tell the truth, you are going to hurt feelings.\r\n\r\nThis used to be well known, but is becoming unknown because of an increasing tendency to use words like \"truth and \"honesty\" in a way that encompasses offering unsolicited opinions  in addition to avoid lying. If you can't make a verbal distinction, its hard to make a conceptual one.\r\n\r\n> He visibly [cared about other people being in touch with reality](https://www.lesswrong.com/posts/anCubLdggTWjnEvBS/your-rationality-is-my-business). \u201cI\u2019ve informed a number of male college students that they have large, clearly detectable body odors. In every single case so far, they say nobody has ever told them that before,\u201d [he wrote](https://www.lesswrong.com/posts/kLR5H4pbaBjzZxLv6/polyhacking?commentId=rYKwptdgLgD2dBnHY). (I can testify that this is true: while sharing a car ride with Anna Salamon in 2011, he told me I had B.O.)[\\[21\\]](https://www.lesswrong.com/posts/Q4yhuwzoy3kNRbv4m/agreeing-with-stalin-in-ways-that-exhibit-generally#fn-pkFd5n2xdibTFEDxK-21)\r\n\r\nWell, that goes beyond having true beliefs and only making true statements.\r\n\r\n"
+   }
+  },
+  {
+   "_id": "4cGG2XdyWezRBd5st",
+   "parentCommentId": null,
+   "postedAt": "2024-09-24T12:11:36.981Z",
+   "baseScore": -11,
+   "user": {
+    "username": "yurii-burak-1",
+    "displayName": "Ya Polkovnik"
+   },
+   "contents": {
+    "markdown": "As someone who agrees with Stalin in, well, most of the questions (with a few exceptions, some of them are quite important, but it's not that important to explain there), what could I say?\n\n1. There are newer papers on IQ and race, and a lot of critique of that one. \n\n2. Ability to solve IQ tests can differ in a single person, for like 10+ points. https://www.reuters.com/article/business/healthcare-pharmaceuticals/study-finds-poverty-reduces-brain-power-idUSL6N0GU1PO/\n\n3. My dad have scored around 170, and considers IQ tests pointless. \n\n4. I agree with your point about the male-looking face.\n\n5. It's pointless to pretend that LGBT+ is not an organisation with ideology. By the way, their ideology is too backwards and reactionary in relation to what do WE plan, regarding the sex and family. \n\n6. Yes, setting a question of racial IQ dependency is bad. Human intelligence is dependent on its development around their whole life and usage. Making such questions, you begin to act to create proofs for them (self-fulfilling prediction, aha), and thus go against the basic principles of democracy. \n\n7. Yes, \"high IQ jews\" goes into the same dumpster."
+   }
+  },
+  {
+   "_id": "PiMyvFebLyxn9tJsN",
+   "parentCommentId": "v2BniRP3ZaMJmD9up",
+   "postedAt": "2024-10-09T06:01:32.894Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Avnix",
+    "displayName": "Sweetgum"
+   },
+   "contents": {
+    "markdown": "Who are some other examples?"
+   }
+  },
+  {
+   "_id": "mx9qw28FRg2m47ZiL",
+   "parentCommentId": "PiMyvFebLyxn9tJsN",
+   "postedAt": "2024-10-09T13:30:55.166Z",
+   "baseScore": 11,
+   "user": {
+    "username": "RamblinDash",
+    "displayName": "RamblinDash"
+   },
+   "contents": {
+    "markdown": "Well, you don't see them as much because they don't necessarily interact with the metaphorical pope(s)/cardinal(s)/etc. I'm just talking about all the thousands of people who have read the sequences and/or other foundational rationalist texts, interpreted them for themselves, and did their best to apply those lessons in their own lives. Many such people exist! They just don't live in the Bay Area, don't necessarily go to rationalist meetups, and might not be active LW posters. So the reason I don't have examples for you is precisely because Active in the Rationalist Community is highly correlated with both \"LW readers are likely to know who this person is\" and/or \u00a0\"this person is publicly identifiable as a Rationalist,\" and also with \"Catholic within this metaphor\" -- Official Rationalist Spaces are effectively catholic churches, in the metaphor. Of course you won't find a ton of protestants there!\n\nThe Protestant/Catholic schism was fundamentally over whether the Bible should be interpreted by the Pope and the Catholic church, with the role of the faithful to listen to their priest and take what they say as the Received Interpretation of the Word of God, or instead whether each individual Christian should become literate, and read and interpret the Bible for themselves. Of course, there were particular points of dispute but they all stemmed from this - is it possible for the Pope to be wrong, and if so, what does that say about our faith?\n\nThe Catholic position was, it is not possible for the Pope to be wrong within the bounds of our faith, and therefore if there is proof that the Pope is wrong then it would prove that our faith is wrong. The Protestant position was, like, of course its possible for the Pope to be wrong, he's just some guy. So when Martin Luther was saying \"it is possible for the Pope to be wrong\" that was a big f'in deal. But you don't see modern protestants going around defiantly asserting that it's possible for the Pope to be wrong - they know there are millions of people who already agree with this idea, and it just kinda seems silly or beside the point for them? A protestant generally doesn't care what the Pope thinks any more than they care what other prominent world leaders think.\n\nThis comment probably won't get a ton of readership on an old post, but if you understand my metaphor and think you are \"protestant,\" please react with Checkmark, even if you are mostly an LW lurker. If you understand and you think you are \"catholic\", react with Xmark. If you think this metaphor makes no sense or is fundamentally wrong, then I guess react with something else."
+   }
+  },
+  {
+   "_id": "bCkH6woBvBQrfvpqo",
+   "parentCommentId": "DigRHyNxgyjWPjBev",
+   "postedAt": "2025-01-13T02:29:16.991Z",
+   "baseScore": 6,
+   "user": {
+    "username": "zyansheep",
+    "displayName": "Zyan"
+   },
+   "contents": {
+    "markdown": "I think I agree with Feynman being a straight talker, but I just want to caution on inferences on Feynman from books about Feynman. See:\n\nTLDW: Feynman didn't actually write any of the books that use his name, and his influence over them is pretty tenuous. (e.g. Surely Your Joking was written by a young friend of Feynman's, and the book wasn't written until like at least 10 years after the stories were originally told, allegedly)"
+   }
+  },
+  {
+   "_id": "fENihZvoJcoMhKZJn",
+   "parentCommentId": "bCkH6woBvBQrfvpqo",
+   "postedAt": "2025-01-13T03:01:24.935Z",
+   "baseScore": 8,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "I didn't watch the whole video\u00a0(it's 2 hours long), but like I remember the process by which the books were written was described in the book. Mostly that they were written as a result of taped conversations between Feynman and a friend of his. This makes it pretty unlikely the books say anything that Feynman didn't actually say (since the conversations were taped), and also is pretty transparent in the book. It also seems kind of more likely to be true than an autobiography, since the impressions have filtered through at least one other person."
+   }
+  },
+  {
+   "_id": "4M7HqiH4Nud7uxrdA",
+   "parentCommentId": "fENihZvoJcoMhKZJn",
+   "postedAt": "2025-01-13T06:38:44.066Z",
+   "baseScore": 4,
+   "user": {
+    "username": "kave",
+    "displayName": "kave"
+   },
+   "contents": {
+    "markdown": "[Here's a little bit about the tapes in the video](https://www.youtube.com/watch?v=TwKpj2ISQAc&t=3771s)"
+   }
+  }
+ ]
+}

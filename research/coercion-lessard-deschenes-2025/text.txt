@@ -1,0 +1,3312 @@
+2994healthcareHealthcareHealthcare (Basel)
+
+Multidisciplinary Digital Publishing Institute (MDPI)
+
+PMC1234583412345834123458344080590110.3390/healthcare13151868
+Factors Associated with Perceived Coercion in Adults Receiving Psychiatric Care: A Scoping Review
+Lessard-DeschênesClara12*Pariseau-LegaultPierre34BilléVincent12Sergerie-RichardSophie12HudsonEmilie12SilvaBenedetta56DrouinJean-Simon12DésiletsMarie7GouletMarie-Hélène12GiansantiDanieleAcademic Editor
+1
+Faculté des Sciences Infirmières, Université de Montréal, 2375, Chemin de la Côte-Ste-Catherine, Montreal, QC H3T 1A8, Canada; vincent.bille@umontreal.ca (V.B.); sophie.sergerie-richard@umontreal.ca (S.S.-R.); emilie.hudson@umontreal.ca (E.H.); jean-simon.drouin@umontreal.ca (J.-S.D.); marie-helene.goulet@umontreal.ca (M.-H.G.)
+2
+Centre de Recherche de l’Institut Universitaire en Santé Mentale de Montréal, Montreal, QC H1N 3V2, Canada
+3
+Département des Sciences Infirmières, Université du Québec en Outaouais, Gatineau, QC J8X 3X7, Canada; pierre.pariseau-legault@uqo.ca
+4
+Centre de Recherche de Montréal Sur Les Inégalités Sociales (CREMIS), Montreal, QC H2X 1K6, Canada
+5
+Community Psychiatry Service, Department of Psychiatry, Lausanne University Hospital and University of Lausanne, 1011 Lausanne, Switzerland; benedetta.silva@chuv.ch
+6
+Cantonal Medical Office, General Directorate for Health, Canton of Vaud Department of Health and Social Action, 1014 Lausanne, Switzerland
+7
+Institut Universitaire en Santé Mentale de Montréal, Montreal, QC H1N 3M5, Canada; mdesilets.iusmm@ssss.gouv.qc.ca
+*
+
+Correspondence: clara.lessard-deschenes@umontreal.ca
+
+3072025
+13151868
+1868
+
+1482025
+
+© 2025 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+Abstract
+
+Background/Objectives: Perceived coercion has been associated with significant negative outcomes, including service avoidance and psychological distress. Despite growing interest, no recent comprehensive review has mapped the full range of factors influencing this experience. This scoping review aimed to synthesize and present the state of knowledge on the factors associated with perceived coercion by adults receiving psychiatric care. Methods: Following the Joanna Briggs Institute methodology, a systematic search of five databases and grey literature was conducted for publications from 1990 to 2025 in English and French. A total of 143 sources were included and thematically analyzed. Consultation with experts and individuals with lived experience enriched the interpretation of findings. Results: Five categories of factors were identified: individual, clinical, relational, legal, and structural. Relational and legal factors were most consistently associated with perceived coercion, while individual and clinical factors showed inconsistent findings. Structural influences were underexamined but significantly shaped the experiences of the individuals receiving care. Conclusions: Perceived coercion arises from a complex dynamic of individual, relational, and systemic influences. Reducing coercion requires moving beyond individual-level factors to address structural conditions and policy frameworks. Future research should prioritize qualitative and intersectional approaches and amplify the voices of those most affected by coercive practices in psychiatric care.
+
+Keywords: coercion, psychiatry, mental health, perceived coercion, formal coercion, informal coercion, factors, restrictive practices
+
+statusreleaseddisplay-pdfyesis-olfnois-manuscriptnois-preprintnois-journal-matternois-scannednois-retractedno
+
+Received 2025 Jun 26; Revised 2025 Jul 22; Accepted 2025 Jul 24; Collection date 2025 Aug.
+
+1. Introduction
+
+Coercion is still a central part of mental health and psychiatric care. Despite ongoing controversy and ethical debates, as well as various initiatives to reduce its use [1], the prevalence of coercion remains high [2,3,4,5,6]. In psychiatric and mental health literature, coercion is often presented as a complex concept described in three forms: formal, informal, and perceived [7]. Formal coercion refers to the use of legally regulated coercive measures such as involuntary hospitalization, seclusion, and restraints [8]. Informal coercion consists of a range of strategies predominantly used by health professionals, often aimed at promoting treatment adherence or other behaviors aligned with normative expectations [3]. Persuasion, inducement, and threats are examples of informal coercion [9]. The current review will focus on perceived coercion, which can be described as the person’s subjective, yet valid, experience of being coerced, regardless of the presence of formal or informal coercion [5].
+
+Although less studied than other forms of coercion, perceived coercion is nevertheless commonly reported by a large number of persons receiving psychiatric care. Studies have shown that up to 74 to 80% of involuntarily hospitalized individuals, and 22 to 25% of those voluntarily admitted for a mental health issue, report perceiving coercion [5,10]. Perceived coercion has many consequences, such as an increased risk of suicide after discharge [11], avoidance of mental health services [12], and feelings of dehumanization and isolation [5]. Yet, the understanding of how this phenomenon is experienced and why it is so prevalent remains limited.
+
+Many studies have examined which factors could be associated with perceived coercion, for example, by studying the influence of age [13], legal status [14], the quality of interactions with health professionals [15], or procedural justice [16]. However, to the best of our knowledge, no review of the literature offers a comprehensive portrait of this phenomenon. A number of literature reviews have looked at perceived coercion, as a main or secondary outcome, by exploring the impacts of seclusion and restraint [17,18], forced medication [18], the patients’ legal status [5,19,20,21,22], and the patients’ decision-making capacity [23]. We found only one systematic review, dating back to 2011, that considered other factors, such as the patients’ quality of life or their sociodemographic characteristics [20]. This review had several limitations, including the selection of studies in English only and the absence of grey literature. Furthermore, more recent studies suggest that perceived coercion may be linked to other factors such as the perception of fairness and justice during treatment, also known as procedural justice [15,16,24,25]. Considering the lack of literature reviews that take into account all the factors that may be associated with perceived coercion, a more global and recent portrait of this subject is needed.
+
+A scoping review method was used to present the state of knowledge on the factors associated with perceived coercion by adults receiving psychiatric care. The research question that was asked is:
+
+What factors are associated with perceived coercion by adults receiving psychiatric care?
+
+2. Methods and Analysis
+
+The Joanna Briggs Institute (JBI) methodology for scoping reviews was followed [26]. Its clear guidelines allowed the reviewers to conduct a thorough review that may be easily replicated to ensure its validity. The nine steps of the JBI methodology were followed: (1) defining the objectives, (2) developing the inclusion criteria, (3) planning the evidence searching, selection, data extraction, and presentation, (4) searching the evidence, (5) selecting the evidence, (6) extracting the evidence, (7) analyzing the evidence, (8) presenting the results, and (9) summarizing the evidence, with the addition of a 10th step of consultation with relevant collaborators to add rigor [27,28]. The consultation took place after the initial data analysis (step 7), during which preliminary results were presented, reviewed, and discussed through direct conversation and critical revision of the written document with key contributors: a person with lived experience of psychiatric care (EH) and a researcher specialized in the field of psychiatry and perceived coercion (BS). Notably, four of the authors of this review also have experience as psychiatric nurses or nurse-managers in various care settings (CLD, VB, PPL, and SSR). The Preferred reporting items for systematic review and meta-analysis extension for Scoping Reviews (PRISMA-ScR) [29] was followed (see Supplementary Table S1). The protocol was initially registered on Open Science Framework (https://osf.io/kc7gw) and consequently published [30].
+
+2.1. Eligibility Criteria
+
+In accordance with the JBI methodology for the development of a scoping review, this review applied specific eligibility criteria for the inclusion of literature based on the type of participants, concept, context, and type of evidence.
+
+The target population was adults aged 18 years or older who are receiving or have received psychiatric care. While no upper age limit was applied, literature focusing specifically on geriatric psychiatry was excluded due to the particularities associated with this subspecialty, such as physical comorbidities and neurodegenerative disorders, which would have introduced complexity beyond the scope of this review and made it more difficult to synthesize findings in relation to general psychiatric care. Similarly, literature on intellectual disability, perinatal psychiatry, and eating disorders was excluded. In the case of eating disorders, this exclusion was due to the specific nature of this subspecialty, which often involves considerations related to physical health (e.g., medical stabilization, nutrition) that are not generalizable to psychiatric care more broadly. In contrast, subspecialties such as psychiatric rehabilitation, forensic psychiatry, community psychiatry, and addiction psychiatry were considered eligible, as they fall within the scope of general psychiatric services and typically share more comparable contexts, practices, and populations with adult psychiatric care. Addiction psychiatry was included because individuals receiving care in these settings are commonly treated within psychiatric services and subject to similar legal and clinical dynamics concerning perceived coercion.
+
+Literature on the factors associated with perceived coercion, understood as the subjective and personal experience of coercion, was included in this review. This association could be measured quantitatively using specific scales (e.g., The MacArthur Admission Experience Survey) or explored qualitatively through participant narratives and themes related to their experience of coercion. All types of mental health care settings were included, whether inpatient, outpatient, or community based.
+
+The types of evidence considered encompassed a broad range of literature, including but not limited to primary studies (quantitative, qualitative, and mixed methods), literature reviews (such as systematic reviews and meta-analyses), conference abstracts, guidelines, theoretical articles, and grey literature (e.g., theses). Only sources available in full text in either French or English were included.
+
+2.2. Search Strategy
+
+A search was conducted in five databases: CINAHL, MEDLINE, PUBMED, EMBASE, and PsychINFO by a librarian specialized in mental health and psychiatry (MD). Based on two main concepts derived from the research questions, “perceived coercion” and “psychiatry/mental illness”, a list of terms was generated, from which a search was conducted using descriptors and keywords (Table 1). Years of publication were limited to 1990 and onward, considering the first studies focusing specifically on perceived coercion were published after this date. A search was then conducted specifically in mental health periodicals to identify articles that might not be in the databases. A search was also conducted to identify grey literature by searching via Google, OpenGrey, university thesis sites, and government agencies (see Supplementary Table S2). The first literature search was conducted in December 2022 and was updated in January 2025 for both databases and grey literature.
+
+Table 1
+
+Example of a search conducted in PUBMED.
+
+DatabaseSearch Using Descriptors and KeywordsFiltersResults
+
+PUBMED
+
+((“Coercion”[Mesh] OR “Involuntary Treatment, Psychiatric”[Mesh] OR “Commitment of Mentally Ill”[Mesh] OR “Restraint, Physical”[Mesh:NoExp] OR Coercion[TIAB] OR Coercing[TIAB] OR Coercive[TIAB] OR Coerced[TIAB] OR Involuntary[TIAB] OR Involuntarily[TIAB] OR Commitment[TIAB] OR commitments[TIAB] OR Restraint[TIAB] OR restrained[TIAB] OR Restraining[TIAB] OR Seclusion[TIAB] OR secluded[TIAB] OR Secluding[TIAB] OR Constraint[TIAB] OR constrained[TIAB] OR Constraining[TIAB] OR forced[TIAB] OR force[TIAB] OR compulsory[TIAB] OR intimidation[TIAB] OR intimidate[TIAB] OR intimidated[TIAB]) AND (“Perception”[Mesh:NoExp] OR “Social Perception”[Mesh:NoExp] OR Perception[TIAB] OR perceptions[TIAB] OR Perceived[TIAB] OR Perceive[TIAB] OR Perceiving[TIAB] OR Experience[TIAB] OR experiences[TIAB] OR Experienced[TIAB] OR Experiencing[TIAB] OR Subjective[TIAB])) AND (“Mental Disorders”[Mesh:NoExp] OR “Bipolar and Related Disorders”[Mesh] OR “Schizophrenia Spectrum and Other Psychotic Disorders”[Mesh] OR “Mentally Ill Persons”[Mesh] OR “Hospitals, Psychiatric”[Mesh] OR “Psychiatric Department, Hospital”[Mesh] OR Psychiatric[TIAB] OR Psychiatry[TIAB] OR “Mental health”[TIAB] OR “Mental illness”[TIAB] OR “mental illnesses”[TIAB] OR “Mentally ill”[TIAB] OR “Mental disorder”[TIAB] OR “mental disorders”[TIAB] OR “Mentally disordered”[TIAB] OR Schizophrenia[TIAB] OR Schizophrenic[TIAB] OR Psychosis[TIAB] OR Psychotic[TIAB] OR bipolar[TIAB])
+
+English, French
+
+4223
+
+2.3. Source of Evidence Selection
+
+All citations were uploaded in Covidence software (2025). After removing duplicates, a first selection was completed based on title and abstract examination of the articles for assessment against the inclusion criteria. The selection was conducted independently by two reviewers (CLD and SSR) following a pilot test. A second selection was based on full-text examination of the literature selected in the first stage and was completed by two reviewers (CLD and EH). If any disagreements arose between the reviewers at any stage of the selection process, they were resolved through discussion to reach a final decision. The first author, who conceptualized the project, discussed any disagreements with the second reviewer and consulted her supervisor (MHG) when an additional opinion was needed. The reasons for exclusion were documented and reported in the flow diagram [29] (Figure 1).
+
+Figure 1
+
+Flow diagram of the source of evidence selection process.
+
+2.4. Data Extraction
+
+Data extraction was performed according to the categories proposed in the JBI methodology for scoping reviews [26] and adapted to the purpose and research questions of the present study: authors, year of publication, country of origin, purpose, population, sample size, context of care, method, type of factor assessed and its description, method of data collection used (scale, questionnaire, interview, etc.), and key findings. Using an Excel table, the first author and a research assistant independently extracted the data after reaching an inter-judge agreement during a pilot testing phase. Discussions took place throughout the extraction process to ensure that no relevant information was missed in case of uncertainty. Although we initially planned on conducting a quality assessment of the included literature, we ultimately decided against it due to the large volume of sources and the primary objective of the review, which was to map and describe the existing body of literature rather than to assess the effectiveness of interventions or make clinical recommendations.
+
+2.5. Data Analysis
+
+The extracted data were coded inductively using Excel software, with codes generated according to the specific factors presented in the literature as associated with perceived coercion. These initial codes were organized in a table to facilitate comparison and synthesis. Following this, broader categories (or themes) were developed by grouping related codes together based on similarities in content or underlying concepts. For example, codes referring to aspects such as age, gender, or education were grouped under a broader category labeled “Sociodemographic”, while codes referring to communication or therapeutic alliance were grouped under “Relational Factors”. The categorization process was iterative and informed by current literature on coercion as well as the research team’s knowledge on the subject of interest. Specifically, we sought to capture how the identified factors related to perceived coercion at different levels (individual, clinical, relational, legal, and structural). Miles et al.’s (2020) content analysis method was followed to structure this process, ensuring that the themes faithfully represented the range of factors as they emerged from the literature [31]. A detailed example of this categorization is provided in Supplementary Table S3. Reviews were considered but excluded from the results if they did not contribute new information, in order to avoid repetition of data. All reviews are presented in Table 2, but only two reviews were included and considered in the results. The preliminary results were presented to the reviewers with lived professional, academic, and personal experiences and discussed through two separate meetings. Their input was considered and incorporated in the final results.
+
+3. Results
+
+3.1. Characteristics of Included Literature
+
+This scoping review includes 143 publications addressing factors associated with perceived coercion. The included publications are presented in Table 2, organized in chronological order according to their year of publication, to illustrate the evolution of the literature over time.
+
+Table 2
+
+Characteristics of included studies.
+
+Authors and Year of PublicationGoal/ObjectiveCountryCare ContextPopulationSample SizeDesignFactors EvaluatedScale Used (If Applicable)
+
+Rogers (1993) [32]
+
+The present paper is concerned with three questions: (1) To what extent is the nominal label of “voluntary” an indicator of patients entering and remaining in hospital of their own free will? (2) What was the range of perceptions, beliefs, and circumstances surrounding those who had entered the hospital as voluntary patients but felt themselves to be there under duress? (3) What differences of view, if any, exist about treatment and services between those patients who construed their status to be genuinely voluntary compared to those who did not?
+
+UK
+
+Inpatient
+
+Voluntarily admitted patients
+
+412
+
+Mixed methods
+
+Legal status
+
+N/A
+
+Bennett et al. (1993) [33]
+
+This article presents a qualitative review of the transcripts of a subset of these interviews. It attends specifically to patients’ perceptions of the morality of attempts by others—primarily family members, friends, and mental health professionals—to influence them to be admitted to the hospital, and of the morality of the process by which these influence attempts resulted in admission.
+
+USA
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+70
+
+Qualitative
+
+Inclusion, beneficent motivation, and good faith
+
+N/A
+
+Lidz et al. (1995) [34]
+
+This article looks at the determinants of patients’ perceptions of coercion.
+
+USA
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+157
+
+Mixed methods
+
+Procedural justice, legal status, and sociodemographic characteristics
+
+MacArthur Admission Experience Interview (AEI)
+
+Nicholson et al. (1996) [35]
+
+The present study was therefore conducted with three goals in mind: (1) to provide additional data on the psychometric properties of the Perceived Coercion Scale and the MacArthur Admission Experience survey from which the PCS was derived; (2) to investigate the relationship between formal legal status and patients’ perceptions of the coerciveness of hospitalization; and (3) to examine the relationships between patient characteristics, especially the degree of coercion in hospital admission, and several measures of the efficacy of psychiatric hospitalization.
+
+USA
+
+Inpatient
+
+All patients admitted to WSH between 1 March 1993, and 15 June 1993
+
+123
+
+Mixed methods
+
+Legal status and sociodemographic characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Hiday et al. (1997) [36]
+
+This paper attempts to develop a better understanding of coercion in psychiatric treatment by studying patient perceptions of coercion and of two closely related constructs—patients’ perceptions of negative pressures in the hospital admission process and patients’ perceptions of fair procedures in the attempts to have them hospitalized. It also examines how these constructs are influenced by sociodemographic and clinical factors.
+
+USA
+
+Outpatient
+
+Involuntarily admitted patients who had been court-ordered to outpatient commitment following hospital discharge
+
+331
+
+Quantitative
+
+Clinical characteristics and sociodemographic characteristics
+
+The authors used 15 true-false items from the MacArthur Interpersonal Relations Scale to construct three dependent variables: perceived coercion, perceived negative pressures, and perceived procedural inequity
+
+Hoge et al. (1997) [37]
+
+In this paper, we report on a study designed to provide preliminary answers to these questions based on patients’ perceptions. 
+(1) How common are “coerced voluntaries” and “uncoerced involuntaries”? (2) When are patients coerced and by whom? Are psychiatrists, other clinicians, or agents of the mental health system pressuring patients? Or are family members and friends responsible for the coercion? 
+(3) How are patients coerced? Are patients being coerced in ways that warrant and are suitable to legal intervention?
+
+USA
+
+Inpatient
+
+Voluntarily and 
+involuntarily admitted patients
+
+157
+
+Mixed methods
+
+Legal status
+
+MacArthur Admission Experience
+Interview (AEI), MacArthur Perceived Coercion
+Scale (MPCS)
+
+Cascardi et al. (1997) [38]
+
+This study aims to evaluate patients who were court-ordered to undergo involuntary psychiatric evaluation following the expiration of an initial “emergency” detainment. Of particular interest is whether individuals who were allowed to sign themselves into the hospital as voluntary patients experienced the admission process differently from those for whom involuntary treatment petitions were initiated. The study also seeks to assess whether patients’ perceptions of coercion were more strongly influenced by interactions with community members or with hospital staff.
+
+USA
+
+Inpatient
+
+Inpatients court-ordered to Crisis Stabilization Units (CSUs) for involuntary evaluation
+
+120
+
+Quantitative
+
+Legal status, sociodemographic characteristics, and locus of control
+
+MacArthur Admission Experience Interview (AEI)
+
+Lidz (1998) [39]
+
+This commentary will outline both what is currently known and the directions future research on coercion in psychiatric care must take in the coming decade to remain relevant within our evolving mental health system.
+
+USA
+
+N/A
+
+N/A
+
+N/A
+
+Review and commentary of the literature
+
+Relationship with staff
+
+N/A
+
+Pescosolido et al. (1998) [40]
+
+The purpose of this study was to systematically consider the different social processes through which people come to enter psychiatric treatment by exploring the stories told by individuals making their first major contact with the mental health system.
+
+USA
+
+Mixed
+
+Inpatients and outpatients making their first major contact with the mental health treatment system
+
+109
+
+Mixed methods
+
+Sociodemographic characteristics and 
+social networks
+
+N/A
+
+Lidz et al. (1998) [41]
+
+The purpose of this study was to determine what predicts patients’ perceptions of coercion surrounding admission to a psychiatric hospital.
+
+USA
+
+Inpatient
+
+Psychiatric inpatient at two university-based hospitals, recently admitted
+
+171
+
+Mixed methods
+
+Legal status, sociodemographic characteristics, coercion-related behaviors or events
+
+MacArthur Admission Experience Interview (AEI)
+
+Hoge et al. (1998) [42]
+
+In the current study, we have included patients, family (including friends and significant others), and clinicians in an attempt to understand two related questions: (1): How do family and clinician perceptions of coercion compare with the Pprceptions of patients? (2): Are the determinants of family and clinician perceptions of coercion the same as the determinants of patient perceptions of coercion?
+
+USA
+
+Inpatient
+
+Data were collected from three groups: newly admitted psychiatric patients, patients’ family members or other significant others who were involved in the admission, and admitting clinicians
+
+433
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+MacArthur Admission Experience Interview (AEI)
+
+Gardner et al. (1999) [43]
+
+The authors examine how patients changed their evaluations of psychiatric hospitalization following hospital treatment.
+
+USA
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients 
+
+433
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Poulsen (1999) [44]
+
+This study aims to investigate differences in perceived coercion among three groups of psychiatric patients: involuntarily committed, voluntarily admitted but later detained, and purely voluntary patients, and to identify predictors of perceived coercion.
+
+Denmark
+
+Inpatient
+
+Psychiatric patients admitted to five closed psychiatric wards at Aarhus University Hospital
+
+143
+
+Quantitative
+
+Legal status, clinical characteristics, social functioning, coercive measures, and sociodemographic characteristics
+
+5-item version of the Admission Experience Scale (AES), Visual Analogue Scale (VAS)
+
+McKenna et al. (1999) [45]
+
+This study attempted to determine broad views of the current mental health legislation.
+
+New Zealand
+
+Inpatient
+
+Inpatients in two acute psychiatric inpatient services in Auckland, New Zealand
+
+138
+
+Quantitative
+
+Previous admission to a psychiatric hospital, previously committed under mental health legislation, and sociodemographic characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Lareau (2000) [46]
+
+This dissertation examines differences between legally mandated and non-legally mandated patients on levels of perceived coercion to enter substance abuse treatment, as well as the effect of the therapeutic alliance on altering intake levels of perceived coercion.
+
+USA
+
+Inpatient
+
+Legally mandated and non-legally mandated patients entering drug treatment at two treatment sites in Philadelphia
+
+69
+
+Quantitative
+
+Legal status, therapeutic alliance, and procedural justice
+
+MacArthur Admission Experience Survey—Short Form (AES), The Survey of Treatment Entry Pressures (STEP)
+
+Lidz et al. (2000) [47]
+
+This study aims to describe who places pressures on patients to be admitted to psychiatric hospitals and to understand the sources and nature of coercive behaviors in psychiatric admissions.
+
+USA
+
+Inpatient
+
+Patients admitted to psychiatric hospitals
+
+433
+
+Mixed methods
+
+Sources of pressures and types of pressures
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+McKenna et al. (2001) [48]
+
+The purpose of this study was to consider patients’ perceptions of aspects of procedural justice within the context of voluntary and involuntary admission to psychiatric hospitals in New Zealand and determine which aspects may reduce patients’ perceptions of coercion.
+
+New Zealand
+
+Inpatient
+
+Patients admitted to the two acute-admitting psychiatric units of Waitemata Health, Auckland, New Zealand
+
+138
+
+Quantitative
+
+Procedural justice
+
+Perceived Coercion Scale within the MacArthur Admission Experience Survey (AES)
+
+Olofsson & Jacobsson (2001) [49]
+
+This study highlights how patients narrated their experiences of being subjected to coercion and their thoughts on how coercion could be prevented in Sweden.
+
+Sweden
+
+Inpatient
+
+Involuntarily admitted patients
+
+18
+
+Qualitative
+
+Patients and healthcare professionals narrated their experiences of the same coercive event
+
+N/A
+
+Rosen et al. (2001) [50]
+
+In this study, we surveyed patients enrolled in a money management program at a university-affiliated Community Mental Health Center (CMHC) in order to (1) compare the patients’ relationship to their clinicians to their relationship with their money managers and (2) explore the diverse dimensions of clients’ experience of money management.
+
+USA
+
+Outpatient
+
+Outpatients enrolled in the CMHC money management program
+
+28
+
+Quantitative
+
+Legal status, sociodemographic characteristics, and therapeutic alliance
+
+N/A
+
+Johansson et Lundman (2002) [51]
+
+The study aims to gain a deeper understanding of this experience: patients who are involuntarily admitted to psychiatric care are extremely vulnerable as a consequence of the control from others and of the personal limitations due to a psychiatric disease that can influence their own control of their lives.
+
+Sweden
+
+Inpatient
+
+Involuntarilyadmitted patients
+
+5
+
+Qualitative
+
+Autonomy, perceived coercion, information received, and influence on treatment process
+
+N/A
+
+Canvin et al. (2002) [52]
+
+The present paper presents the findings of a qualitative investigation into service users’ perceptions and experiences of living with SDOs (Supervised Discharge Orders).
+
+UK
+
+Outpatient
+
+Patient living with SDOs
+
+20
+
+Qualitative
+
+Perceptions and experiences of SDOs and impact on freedom
+
+N/A
+
+Watts & Priebe (2002) [53]
+
+Assertive community treatment (ACT) is a widely propagated team approach to community mental health care that “assertively” engages a subgroup of individuals with severe mental illness who continuously disengage from mental health services. ACT condenses a dilemma that is common in psychiatry. ACT proffers social control whilst simultaneously holding therapeutic aspiration. The clients’ perspective of this dilemma was studied in interviews with 12 clients using the “grounded theory” approach.
+
+UK
+
+Outpatient
+
+Assertive community treatment patients in an impoverished inner-city area of London
+
+12
+
+Qualitative
+
+Deinstitutionalization challenges and integration and community opposition
+
+N/A
+
+Iversen et al. (2002) [54]
+
+In this paper we describe perceived coercion among patients admitted to acute wards in Norway. We applied both the direct and indirect methods to measure perceived coercion. We then compared the two approaches and examined predictors for perceived coercion.
+
+Norway
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients in four acute wards at two Norwegian psychiatric hospitals from October 1998 through November 1999
+
+223
+
+Mixed methods
+
+Sociodemographic characteristics, length of stay, and global assessment of functioning
+
+MacArthur Admission Experience Survey (AES), Coercion Ladder (CL)
+
+McKenna et al. (2003) [55]
+
+The study aimed to explore the impact of coercion on admissions to forensic psychiatric hospitals and to test the hypothesis that admission to forensic psychiatric hospitals would be associated with significantly greater perceived coercion than that perceived by involuntary admissions to general psychiatric hospitals. A further goal was to determine which aspects of procedural justice might reduce patients’ perceptions of coercion on admission to a forensic psychiatric hospital.
+
+New Zealand
+
+Inpatient
+
+Patients admitted to forensic psychiatric hospitals and involuntary admissions to general psychiatric hospitals in New Zealand
+
+138
+
+Quantitative
+
+Negative pressures, procedural justice, and emotional responses to the admission process 
+
+Perceived Coercion Scale within the MacArthur Admission Experience Survey (AES)
+
+Elbogen et al. (2003) [56]
+
+The study aimed to address these questions concerning multiple forms of leverage in treatment and to take preliminary steps toward exploring the combined effects of outpatient commitment (OPC) and representative payees on perceived coercion and treatment adherence.
+
+USA
+
+Outpatient
+
+Patients who had been involuntarily admitted to 1 of 4 hospitals and who were awaiting discharge on outpatient commitment to 1 of 9 counties in north-central North Carolina
+
+258
+
+Quantitative
+
+Outpatient commitment
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Swanson et al. (2003) [57]
+
+No study to date has directly examined whether legally mandated treatment in the community significantly affects quality of life one way or the other. This paper addresses that question empirically.
+
+USA
+
+Outpatient
+
+Involuntarily hospitalized patients who had been ordered to undergo a period of OPC (involuntary outpatient commitment) upon discharge
+
+262
+
+Quantitative
+
+Patients were randomly assigned to be released or continue under outpatient commitment in the community after hospital discharge and were followed for one year. Quality of life, treatment characteristics, and clinical outcomes
+
+MacArthur Admission Experience Survey (AES)
+
+Sørgaard (2004) [58]
+
+This article presents the results of an intervention study aimed at reducing the level of patient-perceived coercion in two acute wards at a psychiatric hospital in Northern Norway. The interventions consisted of procedures aimed at including the patients in the processes of formulating their treatment plan and in a continuous evaluation of their stay.
+
+Norway
+
+Inpatient
+
+Inpatients in an acute psychiatric ward
+
+190
+
+Quantitative
+
+Coercive measures and patronizing attitudes and behaviors
+
+Coercion Ladder (CL)
+
+Taborda et al. (2004) [59]
+
+The main objective of the present study was the assessment of perceptions of coercion among psychiatric and nonpsychiatric (surgical and medical) patients after admission.
+
+Brazil
+
+Inpatient
+
+Comparison between psychiatric patients and medical/surgical patients
+
+205
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Bonsack (2005) [60]
+
+The study aimed to assess the subjective perception of psychiatric admission by patients while still in hospital.
+
+Switzerland
+
+Inpatient
+
+Patient admitted to adult psychiatric care 
+
+87
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+N/A
+
+Van Dorn et al. (2005) [61]
+
+Specifically, the current paper explores the following four interrelated questions: (1) Do persons with serious mental illness think leveraged treatment is fair and effective? (2) What are the characteristics of persons who think that leveraged treatment is fair or unfair, effective or not effective? (3) How are fairness and effectiveness related? (4) How do perceived barriers to care relate to the perceived fairness of leveraged treatment?
+
+USA
+
+Outpatient
+
+Outpatients from publicly funded mental health treatment programs
+
+1011
+
+Quantitative
+
+Sociodemographic characteristics, social environment, clinical, and psychological and behavioral profile
+
+N/A
+
+Rose et al. (2005) [62]
+
+Review of the literature. This study aimed to review patients’ views on issues of information, consent, and perceived coercion about electroconvulsive therapy (ECT).
+
+UK
+
+Inpatient
+
+Patients given ECT
+
+17
+
+Review of the literature
+
+Perceived coercion information received about ECT
+
+N/A
+
+Larsson-Kronberg et al. (2005) [63]
+
+The study aimed to explore the experiences of coercion among individuals undergoing assessment and treatment for substance use disorders under Swedish legislation (LVM) and to understand their perspectives on the entire process from assessment to aftercare.
+
+Sweden
+
+Mixed
+
+Individuals undergoing assessment or with previous experience of assessment and involuntary care under the Swedish Care of Addicts in Certain Cases Act (LVM)
+
+74
+
+Quantitative
+
+Contact with healthcare professionals, opportunities to express opinions, emotional reactions to coercive measures, substance use patterns, and treatment satisfaction
+
+Uppsala questionnaire on coercive measures
+
+Bindman et al. (2005) [64]
+
+This study aimed to investigate predictors of perceived coercion in subjects admitted to psychiatric hospitals in the UK and to test the hypothesis that high perceived coercion at admission predicts poor engagement with community follow-up.
+
+UK
+
+Inpatient
+
+Patients admitted to psychiatric hospitals
+
+100
+
+Quantitative
+
+Sociodemographic characteristics, previous contact with services, and objectively coercive aspects of the admission
+
+MacArthur Admission Experience Survey (AES)
+
+McKenna et al. (2006) [65]
+
+The aim of this study is to determine the level of coercion perceived by those under outpatient commitment in New Zealand. Emphasis is given to consideration of the presence of ambivalence and the role of processes of interaction, including procedural justice, in relation to patients’ perceptions of coercion.
+
+New Zealand
+
+Inpatient
+
+Involuntary outpatient within the first year of their community treatment order presenting for their statutory clinical review
+
+138
+
+Quantitative
+
+Sociodemographic characteristics, previous contact with services, and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Swartz et al. (2006) [66]
+
+This study examined lifetime use rates and correlates of outpatient commitment or related civil court–ordered outpatient treatment in five U.S. communities.
+
+USA
+
+Outpatient
+
+Outpatients from five outpatient clinics affiliated with community mental health centers located in Chicago; Durham, North Carolina; San Francisco; Tampa; and Worcester, Massachusetts
+
+1011
+
+Quantitative
+
+Sociodemographic characteristics, treatment compliance, clinical characteristics, global assessment of functioning, previous contact with services, and treatment satisfaction
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Kjellin et al. (2006) [67]
+
+The objectives of this article are to compare levels of perceived coercion among committed and voluntary patients at admission to psychiatric inpatient care across the five Nordic countries and across centers within countries and to analyze differences in perceived coercion in terms of legal prerequisites and differences in clinical practice.
+
+Switzerland
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients from twelve psychiatric hospitals
+
+920
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, and previous contact with services 
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Appelbaum & Redlich (2006) [68]
+
+This study explores aspects of the population subject to financial leverage, including modeling the predictors of leverage and examining the relationships among financial leverage, treatment compliance, and attitudes toward both treatment and the use of leverage. The goal is to better inform discussions about the legitimate extent of leverage on persons with mental disabilities and the procedures that should regulate these practices.
+
+USA
+
+Outpatient
+
+Outpatients from publicly funded programs were sampled from each of five sites: Chicago, Illinois; Durham, North Carolina; San Francisco, California; Tampa, Florida; and Worcester, Massachusetts
+
+200
+
+Quantitative
+
+Treatment compliance, financial leverage, and treatment satisfaction
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+McKenna et al. (2006) [65]
+
+This thorough literature search on “coercion” and “civil commitment” aimed to outline best practice management strategies for nurses during the clinical application of civil commitment of mentally ill persons.
+
+New Zealand
+
+Mixed
+
+Patients admitted to acute mental health services, acute forensic mental health services, and community mental health services in New Zealand
+
+N/A
+
+Review of the literature
+
+Degree of restriction associated with the service involved, pattern of communication, and procedural justice
+
+N/A
+
+Castille et al. (2007) [69]
+
+understand why, given the objective difference in the use of coercion, there was no difference in the subjective perception of coercion.
+
+USA
+
+Outpatient
+
+patients discharge from psychiatric hospital on court order or not
+
+20
+
+Mixed methods
+
+Court order vs. no court order after hospital discharge relationship with case manager
+
+Not specified
+
+Katsakou & Priebe (2007) [70]
+
+This study aimed to explore psychiatric patients’ experiences of involuntary admission and treatment by reviewing qualitative studies.
+
+UK
+
+Inpatient
+
+Involuntarily admitted patients in acute general psychiatric wards
+
+5
+
+Review of qualitative studies
+
+Autonomy, quality of care, and emotional impact of involuntary treatment
+
+N/A
+
+Renberg et al. (2007) [71]
+
+This study aimed to investigate determinants for perceived coercion during the admission process among voluntarily and involuntarily admitted psychiatric patients, with special focus on sex-specific patterns.
+
+Sweden
+
+Inpatient
+
+Voluntarily and involuntarily admitted psychiatric patients
+
+282
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+MacArthur Perceived Coercion Scale (MPCS), Coercion Ladder (CL)
+
+Sørgaard (2007) [72]
+
+The purpose of this article is to analyze the differences in experienced coercion, patient involvement, and user satisfaction in three groups of patients: voluntary admitted, committed, and a group where the admission was a result of joint decisions between themselves and others.
+
+Norway
+
+Inpatient
+
+Patients in three closed acute wards at the psychiatric department of Nordland Hospital located in the city of Bodø in rural Northern Norway
+
+189
+
+Mixed methods
+
+Sociodemographic characteristics, autonomy, clinical characteristics, coercive measures, previous contact with services, and treatment satisfaction
+
+Coercion Ladder (CL)
+
+Davidson & Campbell (2007) [73]
+
+This paper begins by exploring the literature on coercion and mental health practice and, in doing so, highlights arguments about the relative effectiveness of strategies and ethical dilemmas that are prevalent in this field. The paper concludes with recommendations to develop ways in which practitioners might be better prepared to work within the context of coercive policy and law.
+
+Ireland
+
+Inpatient
+
+The groups consisted of the clients and their respective keyworkers: an Assertive Outreach (AO) group and a Community Mental Health Team (CMHT) group
+
+157
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Zervakis et al. (2007) [74]
+
+This paper examines the association between past involuntary commitment and current perceptions of coercion in a sample of 205 voluntarily hospitalized veterans with severe mental illness.
+
+USA
+
+Inpatient
+
+Voluntarily hospitalized veterans with severe mental illness
+
+205
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, legal status, treatment history, coercive measures, alcohol and drug use, insight into illness severity, self-rated health, and social support
+
+MacArthur Admission Experience Survey (AES)
+
+Link et al. (2008) [75]
+
+This study aimed to address the divergent claims of the coercion to beneficial treatment perspective and the coercion to stigma perspective using a longitudinal study of outpatient commitment among individuals with severe mental illnesses.
+
+USA
+
+Outpatient
+
+Individuals between the ages of 18 and 65, ascertained in treatment facilities in the Bronx and Queens, New York City
+
+184
+
+Quantitative
+
+Previous involuntary inpatient hospitalizations, assignment to mandated outpatient treatment (AOT), and perceptions of being coerced into treatment
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Johansson et al. (2009) [76]
+
+This study elucidates the meaning care has to patients on a lockedacute psychiatric ward.
+
+Sweden
+
+Inpatient
+
+Patients admitted voluntarily or involuntarily to the psychiatric department of a general hospital in Western Sweden
+
+10
+
+Qualitative
+
+Sociodemographic characteristics, clinical characteristics, legal status, and previous contact with services
+
+N/A
+
+Stanhope et al. (2009) [77]
+
+This exploratory study examinedthe extent to which social interaction between consumers and their case managers is related to the treatment experience from the perspective of consumers. The study addressed the following questions: (1) What factors are associated with perceived coercion by the consumer? (2) To what extent are perceived coercion, the consumer-provider relationship, and consumer and service contact characteristics associated with consumers’ evaluation of a service contact?
+
+USA
+
+Outpatient
+
+Consumers of the Housing First program
+
+80
+
+Quantitative
+
+Sociodemographic characteristics, housing status, and service contact characteristics
+
+N/A
+
+Bennewith et al. (2010) [78]
+
+This study aimed to assess whether adult Black and minority ethnic (BME) patients detained for involuntary psychiatric treatment experienced more coercion than similar White patients.
+
+UK
+
+Inpatient
+
+Patients who had been admitted under Sections 2, 3, or 4 of the Mental Health Act 1983 in the UK or who became involuntary patients within a week of admission
+
+778
+
+Quantitative
+
+Sociodemographic characteristics and ethnicity
+
+ Coercion Ladder (CL)
+
+Kim et al. (2010) [79]
+
+This study aimed to investigate variables that influence psychiatric patients’ experience of coercion and the effects of the coercion on the therapeutic relationship.
+
+South Korea
+
+Inpatient
+
+Psychiatric patient
+
+279
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, procedural justice, and coercive measures
+
+N/A
+
+Fu et al. (2010) [80]
+
+Admission experience has been shown to be related to insight and treatment adherence. This study evaluates the clinical correlates of the Chinese Admission Experience Survey (C-AES).
+
+Hong Kong
+
+Inpatient
+
+Inpatients with schizophrenia 
+
+40
+
+Quantitative
+
+Clinical characteristics and treatment compliance
+
+MacArthur Admission Experience Survey (Chinese version)
+
+Phelan et al. (2010) [81]
+
+This study aimed to evaluate the effectiveness and outcomes of New York State’s outpatient commitment program, focusing on psychiatric outcomes, quality of life, perceived coercion, and stigma.
+
+USA
+
+Outpatient
+
+Individuals recently mandated to outpatient commitment and individuals recently discharged from psychiatric hospitals
+
+184
+
+Quantitative
+
+History of involuntary commitment and number of involuntary hospitalizations
+
+N/A
+
+Latimer et al. (2010) [82]
+
+This study tested the hypotheses that negative, but not positive, pressures would be associated with higher perceived coercion, and that procedural justice (which we relabeled “client-centredness” for reasons described below) would be associated with lower perceived coercion. Finally, it assessed whether clinical variables were correlated with negative pressures, with client-centeredness, and with perceived coercion.
+
+Canada
+
+Outpatient
+
+Assertive community treatment patients
+
+38
+
+Quantitative
+
+Procedural justice, negative pressures, and sociodemographic characteristics
+
+MacArthur Admission Experience Interview (AEI)
+
+Thøgersen et al. (2010) [83]
+
+This study aimed to explore views on—and perceptions of—coercion of patients in Danish assertive community teams.
+
+Denmark
+
+Outpatient
+
+Assertive community treatment patients
+
+6
+
+Qualitative
+
+Influence on treatment process, autonomy, and privacy
+
+N/A
+
+Patel et al. (2010) [84]
+
+In this study, we investigated patients’ perspectives of coercion for both depot and oral antipsychotic treatment using a quantitative instrument. For the purposes of this study, “coercion” was defined as that perceived by the patient and did not refer to legal detention status. The null hypothesis was that reported levels of coercion would not differ according to current antipsychotic formulation (depot versus oral tablets).
+
+UK
+
+Outpatient
+
+Voluntary outpatients on maintenance medication
+
+72
+
+Mixed methods
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Jaeger & Rossler (2010) [85]
+
+This study aimed at investigating the factors influencing psychiatric patients’ subjective measures of perceived coercion, fairness, and effectiveness. We hypothesized that patients with experience of leverage and/or coerced voluntarism were more likely to perceive coercion and would feel they were treated with less fairness and would in consequence evaluate their treatment as less effective. An additional aim was to investigate the influence of insight into illness and socio-demographic and clinical factors on these subjective measures.
+
+Switzerland
+
+Mixed
+
+Inpatients and outpatients at the Department of General and Social Psychiatry, University of Zurich
+
+187
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, and treatment compliance
+
+Modified version of the MacArthur Admission Experience Survey (AES)
+
+Howard (2010) [86]
+
+This study aimed to examine the effectiveness and cost-effectiveness of women’s crisis houses by first examining the feasibility of a pilot patient-preference randomized controlled trial (PP–RCT) design.
+
+UK
+
+Mixed
+
+Women requiring voluntary admission who could be admitted to a psychiatric inpatient ward or women’s crisis house
+
+103
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, quality of life, and satisfaction with care
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Daffern et al. (2010) [87]
+
+The aim of the current study is to examine perceptions of coercion and interpersonal style in patients with personality disorder and to examine the relationship between these and subsequent aggression and self-harm during hospitalization. More specifically, do patients with particular interpersonal styles (i.e., hostile and dominant) experience greater coercion, and does this result in them being more likely to act out their frustrations with aggression and self-harm?
+
+Australia
+
+Inpatient
+
+Patients detained under the Mental Health Act (1983) with a legal classification of psychopathic disorder, treated in the Personality Disorder Service at Rampton Hospital
+
+39
+
+Mixed methods
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Galon & Wineman (2010) [88]
+
+The primary purpose of this article is to review current information and research related to coercion and the associated concept of procedural justice in mental health treatment and to discuss the implications of this knowledge for nursing practice. A secondary purpose is to spur thought and comment within the psychiatric nursing community on forms of coercive treatment, particularly OPC.
+
+USA
+
+Outpatient
+
+N/A
+
+N/A
+
+Review and discussion of the literature
+
+Procedural justice, outpatient commitment, and coercive measures
+
+N/A
+
+Newton-Howes et al. (2011) [20]
+
+This study systematically examined the empirical literature on the themes and correlates of coercion as defined by the subjective experience of patients in psychiatric care.
+
+New Zealand
+
+Inpatient
+
+Articles reported on patients in secondary psychiatric care whose treatment was being managed by a consultant psychiatrist
+
+27
+
+Systematic review
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, quality of life, and influence on treatment process
+
+N/A
+
+Katsakou et al. (2011) [89]
+
+The present study aimed (a) to investigate whether specific sociodemographic and clinical characteristics are associated with perceptions of coercion at admission among legally voluntary patients, (b) to examine whether voluntary patients who feel coerced into admission continue to feel coerced during hospital treatment, (c) to identify factors associated with feelings of coercion during treatment, and (d) to explore what experiences—in the view of the patients—lead to feelings of coercion both at admission and during treatment.
+
+UK
+
+Inpatient
+
+Voluntarily admitted patients in nine acute wards in two hospitals in East London
+
+270
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, and satisfaction with care
+
+McArthur Perceived Coercion Scale (MPCS), Coercion Ladder (CL)
+
+Tschopp et al. (2011) [90]
+
+The purpose of the present study was to evaluate the degree of coercion perceived by mental health consumers in an (Assertive Community Treatment) ACT program, the extent to which coercive strategies are perceived to be implemented, and how perceived coercion might relate to the variables of quality of life, working alliance, and sense of empowerment.
+
+USA
+
+Outpatient
+
+Adults diagnosed with predominantly schizophrenia and schizoaffective disorders in an ACT program in the Midwest of the USA
+
+65
+
+Mixed methods
+
+Sociodemographic characteristics and legal status
+
+N/A
+
+Castille et al. (2011) [91]
+
+In the present chapter we begin with a comparison between the two previously mentioned approaches to measuring coercion. We ask: does a person with a court order perceive him/herself as being more coerced than a person in outpatient treatment without a court order?
+
+USA
+
+Outpatient
+
+Men and women between the ages of 18 and 65 years with a history of serious mental illness from various outpatient clinics in two boroughs of New York City
+
+184
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, quality of life, legal status, and previous contact with services
+
+MacArthur Admission Experience Survey (AES)
+
+Sheehan & Burns (2011) [15]
+
+The aim of the study was to investigate the association between the therapeutic relationship and perceived coercion in psychiatric admissions.
+
+UK
+
+Inpatient
+
+Patients admitted to psychiatric hospital
+
+164
+
+Quantitative
+
+Therapeutic alliance, sociodemographic characteristics, and legal status
+
+MacArthur Admission Experience Survey (AES)
+
+Galon & Wineman (2011) [92]
+
+This study aimed to compare OPC and ACT as forms of coercive interventions to evaluate the influence of each individually and in combination on treatment compliance and client-centered outcomes, including quality of life, symptom distress, empowerment, violence, and victimization.
+
+USA
+
+Outpatient
+
+Individuals with severe and persistent mental health problems
+
+154
+
+Quantitative
+
+Outpatient commitment and assertive community treatment
+
+MacArthur Admission Experience Survey (AES)
+
+Zuberi et al. (2011) [93]
+
+This article explores perceptions of coercion and hospitalization among patients admitted to a psychiatric unit in Karachi. We looked for associated patient characteristics.
+
+Pakistan
+
+Inpatient
+
+Patients admitted to psychiatric hospital
+
+87
+
+Quantitative
+
+Legal status and sociodemographic characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Newton-Howes & Stanley (2012) [5]
+
+The aim of this review is therefore to systematically collate those papers that outline the prevalence of perceived coercion to ascertain how common this is and understand the variation in reported rates. An exploration of the factors that may increase or decrease these rates from both a methodological and an epidemiological perspective is also considered.
+
+New Zealand
+
+Mixed
+
+Papers describing adults between 16 and 65 years of age in adult psychiatric care
+
+18
+
+Literature review and meta-regression
+
+Legal status, geographical study location, and instruments used to measure coercion
+
+N/A
+
+Theoridou et al. (2012) [14]
+
+The aim of the present study was to investigate the relationship between perceived coercion and the therapeutic relationship. We hypothesized that perceived coercion would negatively influence the therapeutic relationship as rated by the patient, and vice versa. Thus, we did not posit a unidirectional but a reciprocal effect. We further hypothesized perceived coercion to be influenced by legal status, both at admission and in previous hospitalizations.
+
+Switzerland
+
+Inpatient
+
+Patients admitted to psychiatric hospitals
+
+116
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, and legal status
+
+MacArthur Admission Experience Survey (AES)
+
+Del Vecchio et al. (2012) [94]
+
+This study, conducted within the EUNOMIA project on the evaluation of coercive measures in psychiatry in twelve European countries, intended to assess (1) the clinical and socio-demographic characteristics most frequently associated with higher levels of perceived coercion at admission (2) the relationship between psychiatric symptoms and levels of perceived coercion.
+
+Italy
+
+Inpatient
+
+Patients admitted to psychiatric wards in twelve European countries (Bulgaria, Czech Republic, Germany, Greece, Israel, Italy, Lithuania, Poland, Slovakia, Spain, Sweden, and the United Kingdom)
+
+2815
+
+Quantitative
+
+Clinical characteristics, and social functioning
+
+ McArthur Perceived Coercion Scale (MPCS)
+
+Galon et al. (2012) [95]
+
+This study aimed to examine if assignment to OPC status or ACT differed by race and to elucidate the effect of race on the perceptions of procedural justice and coercion in persons subject to OPC.
+
+USA
+
+Outpatient
+
+Patients placed under outpatient commitment (OPC) orders
+
+140
+
+Quantitative
+
+Sociodemographic characteristics, and procedural justice
+
+MacArthur Admission ExperienceSurvey (AES)
+
+Fiorillo et al. (2012) [96]
+
+This study aimed to identify (1) sociodemographic and clinical characteristics associated with perceived coercion at admission and (2) changes in symptoms and global functioning associated with changes in perceived coercion overtime.
+
+Italy
+
+Inpatient
+
+Patients who were involuntarily admitted or who felt coerced into hospital treatment despite a legally voluntary admission
+
+3093
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, global assessment of functioning, legal status, and previous contact with services
+
+ McArthur Perceived Coercion Scale (MPCS), Cantril Ladder of Perceived Coercion
+
+Morcos (2012) [97]
+
+This paper aimed to examine the relationship between interpersonal style, attitude to medication and potential adherence, and perceived coercion.
+
+UK
+
+Inpatient
+
+Adult male inpatients from general and forensic psychiatry wards treated with antipsychotic medication
+
+52
+
+Quantitative
+
+Interpersonal style and treatment compliance
+
+MacArthur Admission Experience Survey (AES)
+
+Jaeger et al. (2013) [98]
+
+This paper aimed to examine the long-term influence of involuntary hospitalization on medication adherence, engagement in outpatient treatment and perceived coercion to treatment participation.
+
+Germany
+
+Inpatient
+
+Hospitalized patients with schizophrenia or schizoaffective disorder
+
+374
+
+Quantitative
+
+Legal status, sociodemographic characteristics, and clinical characteristics
+
+ Compliance Self-Rating Instrument (CSRI-K)
+
+Anestis et al. (2013) [99]
+
+This study aims to elucidate the characteristics of patients and their admissions that increase the likelihood of perceived coercion during short-term psychiatric hospitalization. It seeks to determine whether interpersonal style—specifically Hostile (H), Dominant (D), and Hostile–Dominant (H–D) styles, which have previously been associated with adverse reactions to hospitalization—along with psychiatric symptoms, gender, and admission status (voluntary or involuntary), predict perceived coercion. Additionally, the study investigates whether the perception of coercion at admission remains stable one year after hospitalization.
+
+Australia
+
+Inpatient
+
+Inpatients admitted to the two acute units at the Alfred Hospital Inpatient Psychiatry Department, in Melbourne, Australia, between 1 March 2009 and 10 August 2009
+
+125
+
+Mixed methods
+
+Legal status, sociodemographic characteristics, and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+McNiel et al. (2013) [100]
+
+The study aimed to evaluate the hypothesis that aspects of the treatment relationship, such as the working alliance, psychological reactance, and perceived coercion, could be important in understanding treatment adherence and satisfaction in a group of patients at risk of experiencing leverage.
+
+USA
+
+Outpatient
+
+Outpatients at two community mental health centers
+
+198
+
+Quantitative
+
+Working alliance quality, psychological reactance, leverage, sociodemographic characteristics, and clinical characteristics
+
+MacArthur Perceived Coercion Scale (MPCS), adapted for outpatient treatment
+
+Seo et al. (2013) [101]
+
+This study analyzed whether coercive intervention observed in Korea’s field of mental health could be justified by the basic assumptions of paternalists: the assumptions of incompetence, dangerousness, and impairment.
+
+South Korea
+
+Inpatient
+
+Patients who had been hospitalized following diagnoses of schizophrenia or mood disorders stayed in the hospital for four weeks
+
+248
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, and global assessment of functioning
+
+MacArthur Admission Experience Survey (AES)
+
+Terkelsen & Larsen (2013 [102])
+
+This study aimed to explore how patients and staff act in the context of involuntary commitment, how interactions are described, and how they might be interpreted.
+
+Norway
+
+Inpatient
+
+People with mental health and substance abuse problems
+
+38
+
+Qualitative
+
+Sociodemographic characteristics, clinical characteristics, and characteristics of the therapeutic environment
+
+N/A
+
+Newton-Howes et al. (2014) [103]
+
+This study aimed to investigate the experience of community treatment orders (CTOs) among Maori and non-Maori patients, comparing their views within mainstream and Maori mental health services.
+
+New Zealand
+
+Outpatient
+
+Patients with experience of CTOs
+
+79
+
+Quantitative
+
+Legal status, sociodemographic characteristics, and type of mental health service
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Larsen & Terkelsen (2014) [104]
+
+This brief literature review gives a few examples of differences in staff and patient attitudes related to coercion, shows how forced treatment might weaken the alliance between staff and patients, and suggests dialogue and reciprocity as practices to reduce coercion.
+
+Norway
+
+Inpatient
+
+Patients from an inpatient psychiatric unit in Norway
+
+12
+
+Qualitative
+
+Legal status and sociodemographic characteristics
+
+N/A
+
+O’Donoghue et al. (2014) [105]
+
+In this study we aimed to quantify the proportion of voluntarily admitted service users with levels of perceived coercion equivalent to that of involuntarily admitted service users. Secondly, we aimed to identify demographic and clinical characteristics of voluntarily admitted service users who experienced high levels of perceived coercion.
+
+Ireland
+
+Inpatient
+
+Individuals admitted voluntarily and involuntarily to three psychiatric hospitals
+
+161
+
+Quantitative
+
+Legal status, clinical characteristics, negative pressures, and procedural justice
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Riley et al. (2014) [106]
+
+The objective of this qualitative study was to explore (1) patients’ experiences with OC (outpatient commitment) and (2) how routines in care and health services affect patients’ everyday living.
+
+Norway
+
+Outpatient
+
+Patients under an OC order who had been at least under the order for 3 months and lived in the catchment area
+
+11
+
+Qualitative
+
+Accommodation (staffing, supervision, etc.), frequency of monitoring by clinicians, initial contact with mental health services, and clinical characteristics
+
+N/A
+
+Munetz et al. (2014) [107]
+
+The study aimed to examine levels of perceived coercion, procedural justice, and the impact of mental health court (MHC) and assisted outpatient treatment (AOT) programs among participants in a community treatment system.
+
+USA
+
+Outpatient
+
+Individuals who had graduated from a mental health court program and former AOT participants who were no longer under court supervision
+
+52
+
+Quantitative
+
+Interactions with judges and case managers and procedural justice 
+
+Modified MacArthur Perceived Coercion Scale (MPCS)
+
+Prebble et al. (2015) [21]
+
+This review aimed to identify literature pertaining to the experiences of people admitted voluntarily to acute adult mental health facilities.
+
+New Zealand
+
+Inpatient
+
+Publications focused on the experiences of voluntary service users in acute adult psychiatric facilities
+
+46
+
+Review of the literature
+
+Legal status, perception of coercion, procedural justice, knowledge of rights, and informed consent
+
+N/A
+
+Donskoy (2015) [108]
+
+The purpose of this paper is to present a focused viewpoint of coercion in psychiatry from the perspective of a survivor and activist.
+
+UK
+
+Inpatient
+
+Psychiatric inpatients
+
+N/A
+
+Viewpoint of a psychiatric survivor and human rights activist
+
+Lack of capacity, consent, paternalism, complicit psychiatry, and application of human rights standards
+
+N/A
+
+Canvin (2016) [109] 
+
+This chapter presents a synthesis of major research themes and findings on patients’ subjective experiences and perceptions of coercion in community psychiatry.
+
+Unspecified
+
+Outpatient
+
+Patients in community psychiatric settings
+
+N/A
+
+Book chapter: synthesis of the literature
+
+Interventions (medication, appointments); obligations (institutional rules, treatment plans, providers’ expectations); threats; and safety
+
+N/A
+
+Norvoll & Pedersen (2016) [110]
+
+This study aimed to explore the views of people with mental health problems on the concept of coercion and to argue for a broader socio-ethical perspective on coercion in mental health care.
+
+Norway
+
+Mixed
+
+Adults with various mental health problems and experiences with coercion
+
+24
+
+Qualitative
+
+Formal and informal coercion across health and welfare services, power relations, deprivation of freedom, and social and existential impacts of coercion
+
+N/A
+
+Fugger et al. (2016) [111]
+
+The objective of the present longitudinal investigation was to analyze the burden caused by physical restraint in psychiatric wards. Three specific research questions were addressed: (1) Does the patients’ subjective perception of physical restraint change the longer the time span from the last fixation? (2) Is there a difference between the patients’ and the investigators’ evaluation of physical restraint? (3) Is there a connection between physical restraint and the presence of consecutive posttraumatic stress disorder?
+
+Austria
+
+Inpatient
+
+Patients who were involuntarily admitted and physically restrained at a psychiatric intensive care unit in the general hospital of Vienna (AKH)
+
+47
+
+Quantitative
+
+Influence on the treatment process, self-evaluation of physical restraint, symptoms of post-traumatic stress disorder, clinical characteristics, and clinical global impression
+
+MacArthur Admission Experience Survey (AES)
+
+Francombe Pridham et al. (2016) [22]
+
+This review of literature aimed to examine the relationship between community treatment orders (CTOs) and patients’ perceptions of coercion, with the objective of understanding factors that might influence the experience of being placed under a CTO.
+
+Canada
+
+Outpatient
+
+Publications focused on the experiences of patients who were or had been subject to a community treatment order (CTO)
+
+23
+
+Review of the literature
+
+Clinical history and characteristics, procedural justice, the legal and health services context of CTOs, presence of additional forms of leverage, and communication with service providers
+
+N/A
+
+Raveesh et al. (2016) [112]
+
+This study aimed to assess perceived coercion in persons with mental disorders admitted involuntarily and correlate it with sociodemographic factors and illness variables.
+
+India
+
+Inpatient
+
+Patients admitted involuntarily to a psychiatric hospital
+
+301
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, and coercive measures
+
+MacArthur Admission Experience Survey (AES)
+
+Zlodre et al. (2016) [113]
+
+The current study examined competence and coercion in a cohort of individuals with severe personality disorder who were detained in high-security hospital and prison settings.
+
+UK
+
+Inpatient
+
+Individuals with severe personality disorder who were detained in high-security hospital and prison settings
+
+174
+
+Quantitative
+
+Clinical characteristics, competence to consent to treatment, and coercion
+
+MacArthur Admission Experience Survey (AES)
+
+Abt (2016) [114]
+
+The research question guiding this dissertation is to explore patients’ reactions to coercion. How does it influence their behavior in the relationship they have with healthcare providers? Specifically, the aim is to understand how the patient processes their experience of coercion and how they manage it.
+
+Switzerland
+
+Inpatient
+
+Involuntarily admitted patients
+
+11
+
+Qualitative
+
+Patients’ experiences of involuntary hospitalization and therapeutic alliance
+
+N/A
+
+Opsal et al. (2016) [115]
+
+The present study aimed to investigate the role that perceived coercion played among patients with SUD that entered treatment. We also aimed to clarify whether patients that were admitted involuntarily perceived coercion differently from those that were admitted voluntarily and to identify factors that could predict perceived coercion.
+
+Norway
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+192
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, and legal status
+
+Perceived Coercion Questionnaire (PCQ)
+
+Gowda et al. (2016) [116]
+
+The main questions of this study were (1) which coercive measures were taken? (2) What was the perceived coercion at admission and at discharge? (3) Which patient and contextual characteristics were related to perceived coercion at admission and discharge?
+
+India
+
+Inpatient
+
+Patients admitted to psychiatric hospitals
+
+75
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, and clinical global impression
+
+MacArthur Perceived Coercion Scale (MPCS), Coercion Ladder (CL)
+
+Gowda et al. (2017) [117]
+
+We aimed to study coercion experiences among patients with schizophrenia who were admitted involuntarily. Additionally, we also assessed if demographic factors, clinical factors, and the use of coercive measures had any influence on how patients perceived the necessity of their own involuntary admission.
+
+India
+
+Inpatient
+
+Patients with schizophrenia admitted under special circumstances of the Mental Health Act
+
+76
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+O’Donoghue et al. (2017) [10]
+
+The ‘Service Users’ Perspective of their Admission’ study examined voluntarily and involuntarily admitted service users’ perception of coercion during the admission process and whether this was associated with factors such as the therapeutic alliance, satisfaction with services, functioning, and quality of life. This report aims to collate the findings of the study.
+
+Australia
+
+Inpatient
+
+Involuntarily admitted patient to three psychiatric inpatient units in Dublin and Wicklow
+
+161
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (AES)
+
+Larkin & Hutton (2017) [23]
+
+This systematic review and meta-analysis aimed to determine the direction, magnitude, and reliability of the relationship between capacity in psychosis and a range of clinical, demographic, and treatment-related factors, thus providing a thorough synthesis of current knowledge.
+
+UK
+
+Unspecified
+
+Publications focused on adults diagnosed with a non-affective psychotic disorder
+
+23
+
+Systematic review, meta-analytical and narrative synthesis
+
+Sociodemographic characteristics, clinical characteristics, and perceived coercion
+
+N/A
+
+Anonymous (2017) [118]
+
+This article presents a patient’s experience with psychiatric services.
+
+Lebanon
+
+Mixed
+
+Psychiatric service user
+
+N/A
+
+First-person account 
+
+Legal status and relationship with staff
+
+N/A
+
+Kisely et al. (2017) [119]
+
+This systematic review aims to examine the effectiveness of compulsory community treatment (CCT) for people with severe mental illness (SMI).
+
+Australia
+
+Outpatient
+
+Trials of adults with SMIs who were managed in a community setting
+
+3
+
+Systematic review
+
+Comparison I: compulsory community treatment versus entirely voluntary care; comparison II: community treatment orders versus supervised discharge; comparison III: community treatment orders versus standard care
+
+N/A
+
+Ramachandra et al. (2017) [120]
+
+The present study was aimed at investigating the perceived coercion of psychiatric patients during admission into a psychiatric hospital, keeping the current Mental Health Act 1987 and MHC Bill, 2013, in perspective.
+
+India
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+205
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, legal status, and history of past hospitalization
+
+MacArthur Admission Experience Survey (AES)
+
+Bradbury et al. (2017) [121]
+
+The aim of the current study was to provide an understanding of the lived experience of involuntary transport (under the MHA) from the perspectives of consumers, carers, mental health nurses, police officers, and ambulance paramedics.
+
+Australia
+
+Inpatient
+
+People with the lived experience of involuntary transport under the MHA: consumers, carers, mental health nurses, police officers, and ambulance paramedics
+
+16
+
+Qualitative
+
+Perspectives of consumers, carers, mental health nurses, police officers, and ambulance paramedics
+
+N/A
+
+Tomlin et al. (2018) [122]
+
+This systematic review examines both empirical and policy literature with the aim of conceptualizing the restrictiveness of forensic care as described by residents, staff, and academic commentators.
+
+UK
+
+Inpatient
+
+Papers were included if they were conducted in secure forensic facilities and involved mentally disordered offenders aged over 18 with any clinical diagnosis
+
+50
+
+Systematic review and concept analysis
+
+Phenomenon of restrictiveness as experienced through relationships, institutional characteristics, and systemic factors
+
+N/A
+
+Horvath et al. (2018) [123]
+
+The present study examines forensic psychiatric inpatients’ perception of coercion regarding the prescribed antipsychotic medication and factors associated with the perception of coercion.
+
+Germany
+
+Inpatient
+
+Patients with schizophrenia, schizotypal, and delusional disorders in two forensic psychiatric institutions in Southern Germany
+
+56
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (AES), Coercion Ladder (CL), Coercion Experience Scale (CES)
+
+Nakhost et al. (2018) [24]
+
+This study aimed to assess the perception of coercion among service users treated under a community treatment order (CTO) compared to a matched comparison group of voluntary psychiatric outpatients and examined the potential predictors of perceived coercion.
+
+Canada
+
+Outpatient
+
+Service users treated under a CTO; voluntary psychiatric outpatients
+
+138
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, legal status, procedural justice, and perceived coercion
+
+N/A
+
+Gowda et al. (2018) [124]
+
+This article aimed to study the prevalence of restraint in an Indian psychiatric inpatient unit and to examine the level of perceived coercion correlating to various forms of restraint.
+
+India
+
+Inpatient
+
+Psychiatric inpatients
+
+200
+
+Qualitative
+
+Sociodemographic characteristics, clinical characteristics, legal status, history of past hospitalization, and coercive measures
+
+N/A
+
+Allison & Flemming (2019) [125]
+
+The aim of this review was to explore mental health patients’ treatment-related experiences of softer coercion and its effect on their interactions with practitioners through a synthesis of qualitative research. There are two main objectives (1) identify patients’ experiences of soft/subtle coercion during admission to, or in, treatment in mental health services and (2) explore the perceived effect of this coercion on patient–practitioner interactions.
+
+UK
+
+Inpatient
+
+Papers describing experiences of patients in mental health services
+
+11
+
+Qualitative thematic synthesis
+
+Sense of self, therapeutic alliance and patients’ perception about their transition through treatment
+
+N/A
+
+Sampogna et al. (2019) [13]
+
+The aim of the study was to (1) identify the sociodemographic and clinical characteristics associated with high levels of perceived coercion at admission in psychiatric wards; (2) assess the relationship between the levels of perceived coercion at admission and the levelsof satisfaction with received care after three months of hospitalizationin a sample of Italian patients with severe mental disorders.
+
+Italy
+
+Inpatient
+
+Patients admitted to psychiatric hospitals
+
+294
+
+Quantitative
+
+Legal status, sociodemographic characteristics, and satisfaction with care
+
+MacArthur Perceived Coercion Scale (MPCS), Cantril Ladder of Perceived Coercion Scale
+
+Lamothe et al. (2019) [126]
+
+The primary objective was to measure the relationship between coercive stress experienced by patients hospitalized in the psychiatric intensive care unit and their level of insight in order to identify potential psychotherapeutic approaches to improve their experience of care and, consequently, enhance clinical practice. The secondary objective was to highlight a potential link between specific coercive measures (such as seclusion) and coercive stress.
+
+France
+
+Inpatient
+
+Patients who had been hospitalized in the psychiatric intensive care unit of the Caen University Hospital
+
+40
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+Coercion Experience Scale (CES)
+
+Guzmán-Parra et al. (2019) [127]
+
+The objective of this study was to analyze the patients’ perceived coercion, symptoms of post-traumatic stress, and subjective satisfaction with the hospitalization treatment associated with the use of different coercive measures during psychiatric hospital stays, particularly the use of involuntary medication, mechanical restraint, or a combination of these measures.
+
+Spain
+
+Inpatient
+
+Patients who had been subject to coercive measures during their psychiatric hospitalization in the Mental Health Hospitalization Units of the University Regional Hospital of Malaga and the General Hospital of Jerez de la Frontera
+
+111
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, coercive measures, satisfaction with treatment, post-traumatic stress, and perceived stress
+
+Coercion Experience Scale (CES), Coercion Ladder (CL)
+
+Akther et al. (2019) [128]
+
+The aim of this systematic review was to synthesize qualitative evidence of patients’ experiences of being formally assessed for admission and/or the subsequent experience of being detained under mental health legislation. This included any legal processes that take place during the assessment process and during detention, such as mental health tribunals.
+
+UK
+
+Inpatient
+
+Papers describing patients’ experiences of assessment or detention under mental health legislation
+
+56
+
+Systematic review and qualitative meta-synthesis
+
+Information and involvement in care, therapeutic environment, relationships with staff, and impact of detention on self-worth and emotional well-being
+
+N/A
+
+Golay et al. (2019) [129]
+
+The first objective of this study was to disentangle the respective contributions of legal admission status and perceived admission status in predicting perceived coercion. The second objective was to examine the extent to which the perceived usefulness of hospitalization influenced perceived coercion.
+
+Switzerland
+
+Inpatient
+
+Patients hospitalized in the Department of Psychiatry at Lausanne University Hospital
+
+152
+
+Mixed methods
+
+Perceived legal status, perceived need for hospitalization, and subjective improvement
+
+MacArthur Admission Experience Survey (AES), Coercion Experience Scale (CES)
+
+Gerle et al. (2019) [130]
+
+The aim of this study was to investigate how 6 patients, who had received care for self-injurious behavior, perceived coercion and how they think coercion could be avoided.
+
+Sweden
+
+Inpatient
+
+Patients who had engaged in self-injury and had been subjected to coercive measures during treatment
+
+6
+
+Qualitative
+
+Threats, coercive measures, control, and involvement in care
+
+N/A
+
+Mandarelli et al. (2019) [131]
+
+The aim of the present study was to translate into Italian and validate the Admission Experience Survey (I-AES) and to explore its psychometric properties, including factorial structure. A second objective of the study was to investigate differences in perceived coercion in different diagnostic groups of psychiatric patients as well as in voluntarily and involuntarily hospitalized patients.
+
+Italy
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+156
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Admission Experience Survey (Italian version)
+
+Clément et al. (2020) [132]
+
+The objective of this study is to identify differences in perceptions between nurses and patients regarding their ideal relationship in the context of a first psychotic episode.
+
+Canada
+
+Inpatient
+
+Individuals who experienced involuntary hospitalization in the context of a first psychotic episode; nurses
+
+10
+
+Qualitative
+
+Therapeutic alliance
+
+N/A
+
+Jessell (2020) [133]
+
+This dissertation aimed to understand the relationship between recovery orientation and the role of psychiatric medication in service planning.
+
+USA
+
+Mixed
+
+Users of mental health services
+
+731
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, recovery orientation of the plan, and role of psychiatric medication
+
+N/A
+
+Scholes et al. (2021) [134]
+
+The aim of this systematic review was to synthesize women service users’ experiences of inpatient mental health services and staff experiences of providing care to women within inpatient mental health services, to appraise the methodological quality of research in this area, and to provide recommendations for clinical practice and future research.
+
+UK
+
+Inpatient
+
+Papers describing the experiences of women service users in inpatient mental health services or staff experiences of providing care to women in these settings
+
+18
+
+Systematic review of qualitative evidence
+
+Feeling of safety, perceptions of factors contributing to iatrogenic harm and ineffective inpatient care, and therapeutic environment
+
+N/A
+
+Schoppmann et al. (2021) [135]
+
+This explorative study investigates baseline expectations and views of patients in forensic wards in German-speaking Switzerland in the context of a recovery-oriented intervention.
+
+Switzerland
+
+Inpatient
+
+Forensic inpatients
+
+37
+
+Qualitative
+
+Sociodemographic characteristics, clinical characteristics, length of stay, and reasons for being sentenced
+
+N/A
+
+Lee & Seo (2021) [136]
+
+This study analyzed the effect of the perceived coercion of persons with mental illness who use community mental health services in Korea on their therapeutic satisfaction and their life satisfaction mediated by the therapeutic relationship.
+
+South Korea
+
+Outpatient
+
+Outpatients with mental disorders aged over 20 years 
+
+185
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, therapeutic alliance, life satisfaction, and satisfaction with care
+
+MacArthur Admission Experience Survey (AES)
+
+O’Callaghan et al. (2021) [137]
+
+This study aims to determine the relationships, if any, between perceived coercion on admission and subsequent formal coercive practices during the admission among psychiatry inpatients in Ireland, and any relationships between perceived coercion on admission and other variables such as age, gender, and diagnosis.
+
+Ireland
+
+Inpatient
+
+Voluntary and involuntary psychiatric inpatients aged 18 years or older who were admitted to the acute psychiatric admission units at Tallaght University Hospital and Connolly Hospital in Dublin
+
+107
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, legal status, length of stay, level of functioning, and coercive measures
+
+MacArthur Admission Experience Survey (AES) 
+
+Fiore et al. (2021) [138]
+
+This study reviews qualitative studies about long-acting injectable antipsychotic drugs with the aim to gain a better understanding of how LAI therapy is perceived by patients, to analyze the perceived pros and cons of treatment with LAIs in comparison to oral medication, and to investigate factors in favor of each particular method of administration based on the experience and opinions of patients.
+
+Italy
+
+Inpatient
+
+This study includes qualitative research exploring patients’ subjective experiences and attitudes toward long-acting injectables (LAIs)
+
+220
+
+Systematic review of qualitative studies
+
+Information received, therapeutic alliance, attitude toward LAIs, coercion, stigma, and recovery
+
+N/A
+
+Hirsch et al. (2021) [139]
+
+The present study investigates perceived coercion in psychiatric inpatients under prescribed antipsychotic medication without a court order. The objective of this study was to investigate whether and to what extent involuntary and voluntary inpatients feel coerced to take their medication and which factors affect perceived coercion.
+
+Germany
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients 
+
+91
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, and legal status
+
+MacArthur Admission Experience Survey (AES) 
+
+Mandarelli & Parmigiani (2021) [140]
+
+Tools for health professionals to improve their communication skills; context: in North America principles of informed consent, patient’s autonomy, and case law have established ethical and legal obligations to provide patients with as much information as they desire about their illness and its treatment [7].
+
+Italy
+
+Unspecified
+
+Psychiatric patients at risk of impaired capacity to consent to treatment
+
+N/A
+
+Book chapter
+
+Legal status and clinical characteristics
+
+N/A
+
+Tully et al. (2022) [141]
+
+The study aimed to explore women’s experiences of routine restrictive practices in mental health inpatient settings.
+
+UK
+
+Inpatient
+
+Women who were inpatients on psychiatric wards
+
+22
+
+Qualitative
+
+Impact of restrictions on relationships, influence on the treatment process, and restrictions providing safety and support 
+
+N/A
+
+Bendall et al. (2022) [142]
+
+The study aimed to explore experiences of restrictive practices from the perspectives of acute care inpatients and staff.
+
+UK
+
+Inpatient
+
+Acute psychiatric inpatients and staff
+
+17
+
+Qualitative
+
+Exploring participants’ experiences of situations considered to involve restrictive practices
+
+N/A
+
+Smyth et al. (2022) [143]
+
+This study aimed to examine and compare retrospective qualitative perceptions of service users in relation to their involuntary admission with their levels of clinical insight, using a mixed-methods approach.
+
+Ireland
+
+Inpatient
+
+Involuntarily admitted inpatients
+
+42
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, and level of insight
+
+N/A
+
+Plunkett et al. (2022) [144]
+
+This research aimed to provide quantitative data about self-rated dignity among involuntary and voluntary psychiatry inpatients and to explore relationships between perceived dignity and legal status, coercion, level of insight, diagnosis, and therapeutic alliance.
+
+Ireland
+
+Inpatient
+
+Psychiatric inpatients aged 18 years or older
+
+107
+
+Quantitative
+
+Legal status, level of insight, negative symptoms, procedural justice, and affective reactions tohospitalization
+
+MacArthur Admission Experience Survey (AES)
+
+Jina-Pettersen (2022) [145]
+
+This study aimed to further understand experiences of inpatient psychiatric trauma using an anonymous platform to obtain forthright data.
+
+Netherlands
+
+Inpatient
+
+Psychiatric inpatient
+
+262
+
+Qualitative
+
+Patients’ lived experiences and subjective perspectives during psychiatric hospitalization
+
+N/A
+
+Martinez et al. (2022) [146]
+
+The present study aimed to assess the impact of past experience of coercion on the perception of coercion and satisfaction with subsequent voluntary hospitalizations.
+
+Switzerland
+
+Inpatient
+
+Psychiatric patients from six hospitals in the French-speaking region of Switzerland
+
+140
+
+Quantitative
+
+Sociodemographic characteristics, satisfaction regarding hospitalization, health and social functioning, and self-reported health
+
+The MacArthur Admission Experience Survey (AES), Coercion Experience Scale (CES)
+
+Hotzy et al. (2023) [147]
+
+The aim of this study was to analyze whether involuntarily admitted patients in different psychiatric hospitals in Switzerland feel well informed about IA and whether the level of perceived information is associated with perceived coercion.
+
+Switzerland
+
+Inpatient
+
+Involuntarily admitted patients 
+
+224
+
+Quantitative
+
+Sociodemographic characteristics and experience with involuntary admission
+
+MacArthur Admission Experience Survey (AES)
+
+Silva et al. (2023) [148]
+
+This review aimed to provide an aggregative synthesis of the qualitative evidence on patients’ experienced coercion during voluntary and involuntary psychiatric hospitalization.
+
+Switzerland
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+26
+
+Review and meta-aggregation of qualitative studies
+
+Patients’ experience of the hospitalization and the associated feeling of coercion, involvement in the decision-making process, and relationships with the staff
+
+N/A
+
+Carimbocas (2023) [149]
+
+The present mixed-method dissertation study examined the potential association between different levels (high or low) of the MacArthur Admission Experience Scale (MAES) variables (perceived coercion, negative pressures, and procedural justice) and recovery outcomes, which were measured using the Illness Management and Recovery Scale (IMRS).
+
+USA
+
+Inpatient
+
+Adults (18 years and older) who had experienced at least one psychiatric hospitalization in their lifetime
+
+31
+
+Mixed methods
+
+Sociodemographic characteristics, clinical characteristics, admission experience, and inpatient experience
+
+MacArthur AdmissionExperience Scale (AES)
+
+Wullschleger et al. (2023) [150]
+
+The present study aimsto analyze the relationship between patients’ appraisal of the justification of coercive measures and their level of perceived coercion.
+
+Germany
+
+Inpatient
+
+Psychiatric inpatients
+
+97
+
+Quantitative
+
+Sociodemographic characteristics, clinical characteristics, and coercive measures
+
+Coercion Experience Scale (CES)
+
+O’Callaghan et al. (2023) [151]
+
+This paper explores factors linking gender with increased perceived coercion, perceived negative pressures, and procedural injustice during psychiatric admission.
+
+Ireland
+
+Inpatient
+
+Adult psychiatric inpatients admitted to acute psychiatric admission units at two general hospitals in Dublin, Ireland
+
+107
+
+Quantitative
+
+Sociodemographic characteristics, legal status, and coercive measures
+
+MacArthur AdmissionExperience Survey (AES)
+
+Pelosse (2023) [152]
+
+The aim of this paper was to gain a deeper understanding of the experiences of coercion and support in exercising rights as lived by individuals with mental health issues who are hospitalized or treated involuntarily in psychiatric care.
+
+Canada
+
+Inpatient
+
+Adult individuals with a history of involuntary psychiatric hospitalization or treatment
+
+11
+
+Qualitative
+
+Sociodemographic characteristics, coercion, and support in the exercise of rights
+
+N/A
+
+Silva et al. (2023) [153]
+
+This study aimed to explore voluntary and involuntary patients’ experience of coercion during psychiatric hospitalization and to identify which factors, from their perspective, mostaffected it.
+
+Switzerland
+
+Inpatient
+
+Inpatients aged between 18 and 65 years who had been hospitalized for more than seven days but less than 15 days
+
+12
+
+Qualitative
+
+Relationship with staff, therapeutic environment, and institutional rules
+
+N/A
+
+Shozi et al. (2023) [154]
+
+The aim of this study was to describe the patient’s experiences of involuntary admission at two psychiatric hospitals in KwaZulu-Natal.
+
+South Africa
+
+Inpatient
+
+Involuntary patients aged 18 years and older
+
+131
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+MacArthur Perceived Coercion Scale (MPCS)
+
+Paun et al. (2024) [155]
+
+The present study aims to evaluate the psychometric properties of a Romanian language version of the AES (R-AES) and to identify predictors for higher perceived coercion.
+
+Romania
+
+Inpatient
+
+Patients admitted to the ‘Professor Doctor Alexandru Obregia’ Psychiatric Hospital in Bucharest
+
+112
+
+Quantitative
+
+Sociodemographic characteristics and clinical characteristics
+
+McArthur Admission Experience Survey (Romanian version)
+
+Morandi et al. (2024) [156]
+
+This study examined how inpatients’ involvement in the decision-making process, the respect of their decision-making preference, and their feeling of having been treated fairly mediate the relationship between involuntary hospitalization and perceived coercion both at admission and during hospital stay.
+
+Switzerland
+
+Inpatient
+
+Voluntary and involuntary hospitalized patients across six psychiatric hospitals in the French-speaking part of Switzerland
+
+230
+
+Quantitative
+
+Legal status, involvement in decision-making, respect for patients’ decision-making preferences, and patients’ perceived fairness of treatment pressures
+
+MacArthur Admission Experience Survey (AES) and Coercion Experience Scale (CES)
+
+Indregard et al. (2024) [157]
+
+In this study, we aimed to compare the occurrence of coercion in open-door policy wards and locked treatment-as-usual wards.
+
+Norway
+
+Inpatient
+
+Psychiatric inpatients at Lovisenberg Diaconal Hospital
+
+556
+
+Quantitative
+
+Open-door policy
+
+Experienced coercion scale(ECS)
+
+Silva et al. (2024) [158]
+
+This study aimed to explore the interplay between these factors and to provide new insights into how they lead to experienced coercion.
+
+Switzerland
+
+Inpatient
+
+Voluntarily and involuntarily admitted patients
+
+225
+
+Quantitative
+
+Formal and informal coercion, perceived fairness and effectiveness, implication in decision-making, and satisfaction with hospitalization
+
+MacArthur Admission Experience Survey (AES)
+
+Fossum et al. (2024) [159]
+
+This study aimed to investigate the association between patient-reported mental health care quality, perceived coercion, and various demographic, clinical, and ward-related factors.
+
+Norway
+
+Inpatient
+
+Psychiatric inpatients
+
+169
+
+Quantitative
+
+Quality of care, sociodemographic characteristics, clinical characteristics, and therapeutic environment
+
+Experienced coercion scale(ECS)
+
+Aluh et al. (2025) [160]
+
+This study aimed to investigate the subjective experience of coercion among patients on admission in Portuguese psychiatric departments by assessing their perceived coercion, procedural justice, and negative pressures during admission. The study also investigated whether this subjective experience of coercion changed with time during admission, and the predictors of this change.
+
+Portugal
+
+Inpatient
+
+Adults admitted to five public psychiatric inpatient departments in rural and urban regions of Portugal
+
+208
+
+Quantitative
+
+Procedural justice, time, legal status, satisfaction with care, gender, number of previous admissions, and immigrant status
+
+McArthur Admission Experience Survey (AES), Coercion Ladder (CL)
+
+Aragones-Calleja & Sánchez-Martínez (2025) [161]
+
+This study aimed to describe and measure users’ experience of coercion and explore their perception of the treatment received in an inpatient medium-stay psychiatric rehabilitation unit (IMSPRU).
+
+Spain
+
+Inpatient
+
+Patients hospitalized in a medium-stay psychiatric rehabilitation unit
+
+75
+
+Mixed methods
+
+Relationship with staff and formal and informal coercion
+
+Coercion Experience Scale (CES)
+
+Nakhost et al. (2025) [162]
+
+This research seeks to address knowledge gaps by studying the prevalence of current experiences of various clinical leverages among general and community mental health outpatients and assessing the relationship between such current clinical leverages and subjective perception of coercion.
+
+Canada
+
+Outpatient
+
+General and community mental health outpatients
+
+137
+
+Quantitative
+
+Sociodemographic characteristics, clinical leverages, pressures, perceived coercion, and clinical characteristics
+
+N/A
+
+Hudson & Beames (2025) [163]
+
+This lived experience narrative recounts the first author’s week-long stay in a psychiatric ED, providing insight into the experiences and challenges of inpatient psychiatric care.
+
+Canada
+
+Inpatient
+
+Psychiatric service user
+
+N/A
+
+Lived experience narrative
+
+Experiences and challenges of inpatient psychiatric care
+
+N/A
+
+Published between 1993 and 2025, the included literature is primarily in English, with the exception of four in French, and originates from 25 countries: the United States (34), the United Kingdom (21), Switzerland (11), Norway (10), New Zealand (9), Canada (7), Ireland (6), Italy (6), Sweden (6), Australia (5), India (5), Germany (4), South Korea (3), Denmark (2), Spain (2), South Africa (1), Austria (1), Brazil (1), China (1), France (1), Lebanon (1), Pakistan (1), the Netherlands (1), Portugal (1), and Romania (1).
+
+Two are master’s dissertations, and four are doctoral theses. Five are abstracts of presentations delivered at international conferences. Two are book chapters [109,140], one is a lived experience narrative [163], another is a first-person account [118], and one is a focused viewpoint on coercion in psychiatry [108]. The remaining 127 are research articles, including 16 reviews. Regarding methodologies, 25 studies use a qualitative design, 24 employ a mixed-methods approach, and 76 follow a quantitative design (including prospective cohort studies, randomized controlled trials, quasi-experimental studies, prospective pilot studies, cross-sectional observational or naturalistic studies, and correlational studies). The study settings are primarily inpatient (100), but also outpatient (31) or mixed (9).
+
+Perceived coercion was assessed using validated scales in 89 of the 143 writings, with the exception of qualitative studies, systematic and literature reviews, book chapters, and 8 quantitative studies. The MacArthur Admission Experience Survey (including the MacArthur Perceived Coercion Scale subscale) was used in 74 writings. Among the 89 writings, 14 used the Coercion Ladder or another Visual Analogue Scale of perceived coercion. Eight studies used the Coercion Experience Scale, and two used the Experienced Coercion Scale. Other studies used the Compliance Self-Rating Instrument (CSRI-K), the Perceived Coercion Questionnaire, the Uppsala Questionnaire on Coercive Measures, and the Survey of Treatment Entry Pressures
+
+3.2. Themes
+
+The presented themes illustrate the various factors studied in the literature on perceived coercion in psychiatry. Five themes emerged from the analysis of the literature and were grouped by the factors they represented: individual, clinical, relational, legal, and structural factors (Figure 2).
+
+Figure 2
+
+Number of studies addressing the different factors identified in the review.
+
+3.2.1. Individual
+
+This theme examines how individual characteristics influence the perception of coercion in psychiatric care. These factors include sociodemographic attributes such as age, race, gender, education, income, and employment, as well as personal experiences, emotional states, self-perception, and the role of social networks. While some of these characteristics show associations with perceived coercion, the findings across studies are often inconsistent or context-dependent, highlighting the complexity of interpreting individual-level influences outside of their broader relational and structural contexts.
+
+Sociodemographic Characteristics
+
+While some sociodemographic characteristics appear to influence perceived coercion, findings across studies were often inconsistent, with many reporting no significant associations.
+
+Most studies found no significant association between age and perceived coercion [14,15,36,38,41,44,54,65,67,82,85,89,116,130,139,150,155]. However, older age was associated with higher perceived coercion in two studies [64,93], with one specifying that participants over 30 were twice as likely to have high perceived coercion scores [93]. Conversely, younger age was associated with perceived coercion at admission among female patients in one study [151] and among all patients in another [155].
+
+Findings on race or ethnicity (Throughout this article, terms such as race, ethnicity, and other identity-related categories are used as they appeared in the original studies included in the review. These terms reflect the language and classifications employed by the respective authors and do not necessarily reflect the preferred or current terminology.) were mixed; White [42,64,77,149] and Latino [77] patients reported higher levels of perceived coercion than African Americans [41,42,47,77]. One study specifically found that white, single women with higher education were more likely to perceive greater coercion [36]. However, several studies found no significant association between race and perceived coercion [15,65,78,89,103,130,154]. Moreover, no association was found between migration background and perceived coercion [139,160].
+
+Similarly, level of education showed no consistent pattern. Most studies found no significant association between level of education and perceived coercion [14,15,36,41,65,117,130,139,154]. University graduates had significantly higher perceptions of coercion in three studies [45,92,95]. However, one study found that people with lower education levels experienced a greater increase in perceived coercion over time [98].
+
+Marital status findings were inconsistent; having a partner was associated with lower perceived coercion in one study [65], but being married or cohabiting was linked to higher perceived coercion in another [74]. Eight studies found no significant association [15,82,85,117,123,130,139,154].
+
+Sex and gender findings were also inconclusive. Most studies found no significant association [15,38,41,42,44,54,65,67,82,85,117,123,130,139,154,160], though a substantial number reported greater perceived coercion among women [35,36,45,71,89,94,96,99,112,137]. In a systematic review on women’s experiences of inpatient mental health services, it was reported that women often felt their histories of abuse were not considered and that they were coerced into compliance within a fearful environment [134]. Research on sexual and gender diversity was limited, with only one doctoral thesis from the United States finding that LGBTQQIA+ participants experienced higher perceived coercion than cisgender heterosexual participants [149].
+
+Religion was explored in two studies, with one Indian study finding that being Muslim or Christian was associated with increased perceived coercion scores [112], while the other, from New Zealand, found no association with the religion of participants [65].
+
+Findings on socioeconomic status and employment varied. Higher perceived coercion was associated with a high socioeconomic status in one study [116], but with low income [112] or low socioeconomic status [117] in two others. Being employed was associated with lower perceived coercion in three studies [116,117,137]. Several studies found no correlation between perceived coercion and socioeconomic status [41,65] or employment [65,89,117,154]. Living situation was not significantly associated with perceived coercion in any of the seven studies examining this factor [15,36,65,89,117,123,139].
+
+Affective Style and Self-Perception
+
+Two studies, one of which included only “male gender” participants [97], found that patients with an interpersonal style characterized as hostile and dominant were more likely to perceive coercion [97,99], while another study found no significant association between interpersonal style and perceived coercion [87]. Emotional responses also played a role in perceptions of coercion. In outpatient care, individuals who experienced sadness, anger, confusion, or fear reported higher levels of perceived coercion, whereas those who felt happiness or relief reported lower levels [65]. Similar findings were observed in inpatient settings, where happiness and relief were associated with lower perceived coercion in both general and forensic populations, while anger and fear were linked to higher levels [55].
+
+Additionally, higher perceived coercion scores were associated with lower self-dignity ratings by patients [144] and among individuals who did not believe they needed treatment or had a mental illness [65] or who felt stigmatized [91]. One study introduced the concept of “internal coercion”, wherein patients felt that their mental illness itself contributed to a sense of loss of control, making hospitalization seem necessary to regain that control [153]. Similarly, a qualitative study reported that feeling ill contributed to patients’ coercive experiences by reinforcing feelings of powerlessness and making it difficult to resist unwanted treatment [110].
+
+Social Environment
+
+Social networks appeared to play a complex role in perceived coercion. Two studies found that having extended family was associated with lower perceived coercion [112,116]. However, larger and closely tied social networks could also exert coercion, pressuring individuals to receive treatment [40] or making decisions on their behalf (132). Similarly, close relatives were found to use threats or pressures to facilitate hospital admission [37], even among voluntary patients [60]. Supervisors and co-workers were also vectors of coercive influence in treatment decisions, with one study documenting that they were sometimes the first to encourage or demand the person seek professional help [40].
+
+3.2.2. Clinical
+
+This theme explores how clinical characteristics, such as psychiatric diagnoses, symptom severity, insight, global functioning, treatment history, and quality of care, relate to perceived coercion. It encompasses not only diagnostic categories but also the trajectories of care and treatment modalities, including inpatient, outpatient, and community-based services.
+
+Diagnosis and Psychiatric Symptoms
+
+Perceived coercion was associated with bipolar disorder or mood disorders [40,93,155], schizophrenia spectrum disorders [14,85,155], depressive disorders [112], and substance use [93,112]. One study found that a diagnosis of psychotic disorder reduced the likelihood of reporting coercion by six times [93]. An association was found between women who had attempted suicide and higher perceived coercion [71]. Other studies found no significant association with diagnosis [41,54,65,67,89,136,154,162].
+
+While most studies found no association between symptom severity and perceived coercion [38,44,54,67,79,89,99,115,136,139], others reported a positive association [14,105,116,123,131,155,162]. Positive [94,96,137] and negative [131,150] symptoms, delusions of harm [91], and manic excitement/disorganization symptoms [131] were all associated with higher perceived coercion. In contrast, one study found that anxiety and depressive symptoms were negatively associated with perceived coercion [131]. Meanwhile, another study found no association between perceived coercion and feelings of illness improvement [60]. Perceived coercion was not associated with dangerousness, as evaluated by professionals using standardized scales of aggression [79,101].
+
+Multiple studies have found that lower insight is associated with higher perceived coercion [64,80,91,116,117,123,139,143]. Specifically, two studies reported that as insight improved over time, perceived coercion decreased [80,116]. One study identified a link between greater awareness of treatment efficacy and lower perceived coercion but found no association between coercion and awareness of mental illness or its social consequences [126]. Three studies reported no significant associations between insight and perceived coercion [136,150,154]. Lower global functioning was often associated with higher perceived coercion [14,20,67,74,82,94,96,116]. However, three studies found no association between the amount of coercion experienced during admission and global functioning [54,136] or impairment [101].
+
+Hospitalization History and Trajectory of Care
+
+Some studies found that a history of hospitalizations was associated with higher levels of perceived coercion [65,91,131,155,162]. However, an equal number of studies found no significant association [54,67,89,139,160], and one study reported that patients with fewer admissions perceived greater coercion [35]. Additionally, a qualitative study described the experience of returning to the hospital as feeling as though one’s entire life was placed under control [114].
+
+Findings on the trajectory of perceived coercion over time were mixed. Some studies reported a decrease in perceived coercion between admission and discharge [94,116,124], while others found no significant change [41,43,60,65]. One study indicated that perceived coercion remained stable for 50% of patients who initially reported feeling coerced at admission [89]. In outpatient settings, however, perceived coercion tended to increase over time [73,77].
+
+Type of Treatment and Quality of Care
+
+Higher perceived coercion was associated with a negative attitude toward medication [123,139]. Individuals receiving depot medication reported greater perceived coercion compared to those taking oral medication [84]. While one study found that better medication adherence was linked to higher perceived coercion [100], others reported greater perceived coercion among nonadherent patients [56,155]. One study found that electroconvulsive therapy was not associated with high levels of perceived coercion [124]. The qualitative component of a mixed-methods study indicated that patients reported feeling coerced due to the strong emphasis placed on treatment adherence by providers, even when they personally found the medication helpful [133]. Participation in treatment planning and evaluation had only a marginal effect on perceived coercion [58]. Higher levels of perceived coercion were significantly associated with lower quality of care [159]. Similarly, being satisfied with received treatment was associated with lower perceived coercion [13,89,100,160].
+
+Several studies examined perceived coercion among individuals receiving services from assertive community treatment teams (ACT). While two studies found no association between ACT and perceived coercion [90,92], both qualitative [83] and quantitative [73] research indicated that patients felt coerced during initial service contacts. Compared to hospital-based care or recent discharge, patients in community treatment [63] and outpatient commitment [81] reported lower levels of coercion. However, patients in outpatient commitment described phone calls and home visits as invasive and controlling [106], and one study found that individuals in assisted living were more likely to perceive coercion [98]. Women randomized to crisis house treatment experienced significantly less perceived coercion than those treated on inpatient wards [86].
+
+3.2.3. Relational
+
+This theme focuses on the interpersonal and relational dynamics that shape individuals’ perceptions of coercion in psychiatric settings. It includes aspects such as the therapeutic relationship, the use of informal coercion, and the degree to which patients perceive procedural justice in their interactions with professionals and institutions.
+
+Therapeutic Relationship
+
+A stronger therapeutic alliance was consistently associated with lower perceived coercion [15,46,50,69,77,136]. Several studies highlighted specific relational factors that shaped patients’ perceptions of coercion. Positive influences included a collaborative and trusting relationship [83,153], encouragement from professionals [47], and their availability [83]. In one study, patients reported that nurses with more experience and greater self-confidence were less coercive [132]. Conversely, negative relational dynamics heightened perceived coercion. Patients reported not being recognized as a human and autonomous person [49,51,83,104,110,149,163], experiencing boundary violations and invasions of privacy from professionals [83], and encountering a lack of kindness (8, 41). Feelings of being ignored or unimportant were also common [49,51,89,118,145], as were perceptions of inadequate support and trust [135,145]. Some patients described interactions as authoritarian or militaristic [104] and felt that their statements were censored [152] or that they had to conform to professionals’ constructs of “adequate” behavior [163]. Perceived coercion was often linked to negative treatment by staff, particularly when professionals expressed frustration toward patients, displayed apathy, or experienced burnout [161]. The distress associated with the use of formal coercive measures was particularly intensified when patients believed decisions were made arbitrarily, punitively, or due to perceived professional incompetence [150].
+
+Informal Coercion
+
+Informal coercion involves interpersonal power dynamics between patients and professionals. Many studies have found a positive association between perceived coercion and the use of threats, leverage, or displays of force [41,45,47,48,65,85,162]. Reported threats included the possibility of outpatient commitment [65], changes in legal status [130], discharge [110], changes in medication [141], unit transfers [130], negative consequences [47], and loss of privileges [68,110,130,141]. Patients also described being pressured to take medication, accept hospital restrictions, or adhere to post-discharge treatment plans [153]. However, some studies found no association between persuasion, inducement, threats, or force and perceived coercion [82], nor between coercive strategies in outpatient settings and perceived coercion [77]. Similarly, informal coercion at admission was not linked to perceived coercion [158]. While inducement showed no significant association with perceived coercion, experiences of persuasion were associated with higher perceived coercion in one study [65]. The belief that refusing treatment would lead to involuntary admission or police intervention was also linked to greater perceived coercion [65]. In qualitative studies, patients perceived coercion when they felt that their physical integrity was compromised and that they were treated as if they had no human value [51], when they were manipulated, persuaded, blackmailed, or restricted from accessing or managing their own affairs [161], or when they were forced to accept unit transfers and medication without any legal justification [152]. Some patients reported feeling that their identity was under attack [53], while constant supervision was identified as the most negative form of informal coercion [130]. Notably, some patients perceived threats as more coercive than formal measures [130]. Being exposed to violence also contributed to perceived coercion [51].
+
+Procedural Justice
+
+Numerous quantitative studies have found an inverse relationship between levels of procedural justice and levels of perceived coercion [15,24,34,38,42,45,48,54,55,65,92,95,105,107,147,156]. Four studies specifically reported that a lack of procedural justice heightened perceived coercion even among voluntarily admitted patients [24,34,42,105]. Several qualitative studies also identified themes related to procedural justice principles (voice, respect, neutrality, trust), particularly highlighting patients’ experiences of not being heard and not receiving all necessary information. For example, greater knowledge about one’s involuntary admission was associated with lower levels of perceived coercion [147]; however, another study found that, despite being provided with information and options, patients felt pressured into hospitalization due to insufficient time for informed decision-making [89]. Some patients reported receiving unclear [163] or manipulated [161] information, leading to feelings of loss of control and objectification [153]. In a review of the literature on patients’ perspectives of electroconvulsive therapy, it was documented that only 50% of patients felt they were given sufficient information, and a third felt they did not consent freely to receiving electroconvulsive therapy despite having signed the consent form, indicating that lack of information led to feeling coerced [62]. Studies across various care settings underscore the significance of being heard. For example, not being heard by healthcare professionals increased feelings of loss of control among women hospitalized in psychiatry [141]. In assertive community treatment, patients described a lack of listening, which heightened their sensitivity to power dynamics [53]. Similarly, two studies on forced community treatment (OPC and ACT) found that not being involved in decision-making and knowing that others were making choices on their behalf was particularly distressing and intrusive [83,106]. Additional concerns included inadequate information about treatment and rights, lack of involvement in decision-making, and limited choices and options [49,89,149,153,161]. Conversely, factors that mitigated perceptions of coercion included being treated as an equal human being [33,104], perceiving professionals as well-qualified [33,49], and trusting that professionals had just intentions [33].
+
+3.2.4. Legal
+
+This theme examines how legal frameworks and practices influence perceived coercion. It considers the impact of admission status, history of involuntary treatment, use of outpatient commitment, and other legally sanctioned measures such as seclusion and restraint. These legal dimensions often intersect with questions of capacity, autonomy, and human rights.
+
+Legal Status at Admission
+
+Numerous studies have shown that involuntary hospitalization is associated with higher perceived coercion [10,13,14,15,35,37,38,42,44,45,48,59,64,72,94,96,120,129,131,137,139,151,155,160]. Qualitative research further highlights the coercive nature of involuntary hospitalization, with individuals reporting a loss of rights [143], freedom [118], choice [51], and control over their lives [152], as well as feeling forced to accept hospitalization [104] and medication [118]. However, some studies found no significant association between perceived coercion and legal status at admission [54,89,156] or reported no differences between voluntarily and involuntarily admitted patients [55,99]. Notably, many voluntary patients also reported feeling coerced [15,35,44,54,60,64,93,105,115], with one study indicating that more voluntary patients (89%) than involuntary patients (21%) perceived coercion [93]. Additionally, patients with a history of involuntary admission reported higher perceived coercion [14,74,75,81,89,98,131], although one study found that perceived coercion decreased in individuals with a forensic history [112]. Patients subjected to outpatient commitment were more likely to perceive coercion [24,57,65,92,95,107], though two studies found no difference [56,69]. In a qualitative study, patients compared supervised discharge orders to an instrument of control [52]. Regarding decision-making capacity, three studies found that a lack of capacity to consent was associated with higher perceived coercion [79,101,113]. Additionally, one study reported that patients who consented to treatment scored higher on competence assessments and experienced lower levels of perceived coercion [113].
+
+Other Restrictive Practices
+
+Patients who experienced coercive measures such as physical restraint [111,124,127], mechanical restraint [150], chemical restraint [124], and seclusion [58,124] were more likely to perceive coercion. Seclusion and restraints were reported as highly distressing, with patients likening them to hell or prison and stating they worsened their condition [81]. However, two studies found no association between seclusion or restraint and perceived coercion at admission [137,151], and another found no significant difference in perceived coercion between individuals who had experienced at least one coercive measure and those who had not [139]. One study reported that forensic and general psychiatric admissions had similar levels of perceived coercion, despite significantly more coercive events in forensic settings [55]. Another study suggested that prior coercive experiences were linked to lower perceived coercion scores [112]. Police transportation was also perceived as highly coercive and traumatizing [121,155].
+
+3.2.5. Structural
+
+This theme addresses structural and institutional features of psychiatric care that contribute to perceived coercion. It includes ward design, institutional rules, and the overall environment and organization of care settings. These structural factors reflect broader systemic norms and values that can profoundly affect patients’ sense of autonomy, safety, and dignity.
+
+Institutional Norms and Practices
+
+While locked wards were experienced as controlling [51,76] and were significantly associated with higher perceived coercion compared to open-door policy wards [157], it was the rigid rules and routines that were most consistently reported as restrictive in the literature [51,89,102,104,114,141,142,145,149,152,153,161]. Patients described restrictions such as prohibitions on smoking, coffee, or going outside [102,142], the inability to use a phone [152], and needing staff permission for basic needs [114,141] as profound losses of control. In both forensic and general psychiatric settings, rules were often perceived as arbitrary, leading to rights deprivation, loss of liberty, and increased uncertainty and tension with healthcare professionals [153]. The experience was particularly distressing when patients were not informed of the rules yet penalized for breaking them [89,141] or when staff enforced policies rigidly rather than flexibly [104,153,161]. Certain enforced rules were especially dehumanizing, such as requiring patients to undress, undergo searches, and wear hospital gowns in front of staff [149]—an experience that was particularly traumatic for individuals with a history of sexual abuse [114,145]. Additionally, one study reported that patients felt pressured to sign a contract upon arrival at the hospital, which led to the imposition of multiple restrictive practices and pressure to take unwanted medication [110].
+
+Institutional Environment and Organization
+
+Harmful environments that lacked therapeutic value, compromised privacy, instilled fear of other patients, and isolated individuals from their families were documented [89]. Psychiatric wards were frequently described as carceral [104,153,161] and overly medicalized, contributing to feelings of inferiority [104]. Organizational shortcomings, such as limited resources, inadequate equipment, and poor bathroom conditions, further shaped negative experiences [149]. Many patients also reported feelings of not belonging or being out of place within these settings [149,153].
+
+4. Discussion
+
+This scoping review provides a comprehensive synthesis of 143 publications on the factors associated with perceived coercion in psychiatric settings. The findings reveal that perceived coercion is a multidimensional construct shaped by a complex interplay of individual, clinical, relational, legal, and structural factors. In this discussion, we interpret the main findings in light of previous research, highlight several critical gaps and inconsistencies in the literature, and consider implications for future studies, clinical practice, and policies.
+
+4.1. Main Findings
+
+Across diverse geographic and care settings, relational and legal factors emerged as the most consistently associated with perceptions of coercion. Relational factors largely pertain to the interactions between individuals and mental health professionals. In line with previous literature, our review reinforces that the quality of the therapeutic relationship is central to how psychiatric care is experienced [164,165]. While earlier studies have associated therapeutic alliance with increased satisfaction, treatment adherence, well-being, and self-efficacy [166,167,168], this review demonstrates that a positive therapeutic relationship can also mitigate perceptions of coercion.
+
+Studies focusing on procedural justice and informal coercion further emphasized key relational dimensions that either contribute to or alleviate feelings of coercion. These include transparent and bidirectional communication and information sharing, trust in the professionals’ intentions and competence, and the avoidance of interventions and approaches based on threats, manipulation, or other forms of informal coercion [147,150,153,161]. Though valuable, the application of procedural justice principles in practice should not be seen as a miracle solution, as their use may remain limited in terms of authenticity and organic integration [169]. As Faissner et al. (2025) note, the testimonies of experiences of coercion by patients often fail to have an impact on the professionals’ narrow view of coercion, a dynamic that points to the persistent presence of epistemic injustice and structural oppression within psychiatry [170].
+
+Legal factors identified in the review also underline the relational nature of perceived coercion. Consistent with prior findings, our review confirms that while perceived coercion is frequently associated with involuntary treatment, it is not limited to it (réf études initiales CP). Many voluntarily admitted individuals reported high levels of coercion, often linked to subtle forms of pressure, lack of adequate information, or exclusion from meaningful decision-making processes. The use of restrictive practices such as seclusion and restraints was also associated with perceived coercion in our review, echoing long-standing concerns in the literature about their ethical and psychological impacts, as well as ongoing debates surrounding the justification of their very existence [171].
+
+In contrast, individual characteristics (such as age, gender, and education) and clinical variables (such as diagnosis and symptom severity) yielded inconsistent associations with perceived coercion, suggesting that these factors may interact with broader systemic and interpersonal contexts rather than function as primary determinants on their own. Clinical indicators in particular provided limited insight into the lived experiences of coercion and their practical implications. While individuals with more severe symptoms were sometimes more likely to report coercion, it remains unclear whether this is due to the symptoms themselves, the higher likelihood of being subjected to formal coercive measures, or to how professionals respond to those perceived as severely ill. Literature on paternalism in psychiatric care suggests that professionals often curtail patients’ autonomy under the guise of protection, benevolence, and normative ideals of functioning [172,173,174]. Considering that individuals exhibiting more severe symptoms are more likely to be perceived as incapable of understanding and therefore of making decisions [175,176], it is not surprising that our results point to a greater perception of coercion among these individuals. A study by Sjöstrand et al. (2015) found that professionals who perceived patients as making unwise treatment decisions were more likely to judge them incapable of decision-making [177]. Yet, the literature tends to show that the majority of individuals diagnosed with severe mental health problems are capable of making decisions regarding their health [178]. This also raises questions about how severity is conceptualized and measured, typically through DSM-5-based scales that overlook broader functional and socio-structural dimensions [179]. In this regard, future research on perceived coercion and its clinical implications for professionals working with individuals from diverse backgrounds should pay close attention to how racial, ethnic, and gendered factors can influence symptom expression as well as preferences for care and treatment [180].
+
+Another finding of interest in our review is the role of structural factors. It appears that the experience of individuals receiving psychiatric care is heavily shaped by elements such as rigid routines and strict rules that limit their autonomy and infringe upon certain rights. Moreover, much like the elements related to the quality of the therapeutic relationship and interactions with healthcare professionals, these professionals are often the ones enforcing the rules and thus perceived as the ones responsible for the negative experience. Although each professional’s approach does influence how care is perceived and the extent to which it is experienced as coercive [47,83,153], the literature also highlights that healthcare workers are trapped within systems that prevent them from intervening in ways that align with their professional values, which are centered on supporting, not controlling, the person [181,182,183]. Operating within chronically underfunded mental health systems that lack adequate resources, professionals are themselves impacted by stressed organizational environments, which undermines their ability to act outside of a paradigm focused on control, safety, and crisis management [184]. As such, research on perceived coercion should further explore the impact of public policies on mental health funding, as well as the working conditions of healthcare professionals.
+
+4.2. Methodological Gaps
+
+This scoping review, which included empirical studies, theoretical papers, reviews, and grey literature, revealed that perceived coercion in psychiatry has predominantly been studied through quantitative research methods. This dominance of quantitative methodology illustrates how studies on coercion are shaped by the biomedical model and highlights the need for more writings from individuals who identify as service users or psychiatric survivors [185]. To this end, a hierarchical approach to knowledge, where quantitative research is perceived as the highest standard, is likely to contribute to epistemic injustices. The results of this scoping review demonstrate that a broad, nuanced, and qualitative understanding of perceived coercion by people receiving psychiatric care is required [186,187].
+
+Given the overall lack of consistent findings from quantitative studies attempting to identify significant associations between perceived coercion and various factors and considering that perceived coercion is fundamentally a subjective human experience, this methodological dominance raises important concerns as it risks simplifying a complex human experience. Notably, most studies focused on inpatient settings and relied heavily on standardized tools, such as the MacArthur Admission Experience Survey [188] or the Coercion Ladder [189], to measure coercion. While widely used and useful for comparison, these instruments offer limited and overly simplistic understanding of psychiatric coercion [190]. These scales are unable to fully capture the richness and variability of individual experiences and do not identify all the contributing elements. As such, they tend to individualize the problem, ignoring the systemic and structural dimensions of coercion.
+
+In contrast, qualitative studies, although fewer in number, provided some of the most critical insights into the lived experience of coercion. For instance, these studies shed light on how structural factors such as rigid ward rules, locked units, lack of privacy, resource scarcity, and dehumanizing practices deeply influence individuals’ perceptions of coercion [51,89,102,104,114,141,142,145,149,152,153,161]. These findings underscore the need to shift research focus away from narrow associations with individual factors and toward structural contributors. Without disregarding the importance of continuing efforts to reduce or eliminate formal coercive practices (such as involuntary treatment and hospitalization), our review points to the need to reconceptualize coercion through a systemic lens. This includes examining how care environments, public policies, and organizational structures constrain both patient experiences and professional practices.
+
+4.3. Overlooked Populations
+
+Our review also identified other significant gaps in the literature. First, there is a near-total absence of studies considering how sexual and gender diversity shapes individuals’ pathways and experiences of coercion. Yet, recent literature on sexual and diversity minorities points to significantly higher odds of diagnosed psychiatric conditions [191,192] as well as a lack of inclusive, identity-affirming, and non-discriminative care [193]. Documenting how coercion is experienced by these persons appears fundamental to ensuring a pathway toward more inclusive psychiatric care. Additionally, very few studies addressed the role of poverty or homelessness, despite the fact that these social conditions influence mental health conditions and care access [194,195], and thus likely the experience of coercion.
+
+Similarly, race and ethnicity have been approached in a predominantly quantitative way, often treated as a standalone variable without intersectional analysis. Most studies reviewed reported no significant association between race or ethnicity and perceived coercion. This finding may appear surprising, especially in light of well-documented evidence that Black individuals, in particular, are disproportionately subjected to coercive practices in psychiatric settings [196,197]. One study on Black persons’ experiences in psychiatric emergency departments found that they reported markedly different treatment compared to individuals who are not subject to racialization, including poorer communication and excessive use of medication [198]. Furthermore, racialized individuals are also less likely to seek care due to systemic racism in healthcare systems [199] and often have less access to voluntary services due to socioeconomic barriers [200]. Yet, studies on perceived coercion have failed to capture the lived experience of psychiatric care and its multiple dimensions. While a number of studies found that White patients reported higher levels of perceived coercion than Black patients, questions remain as to why. As Carimbocas (2023) suggests, could racialized persons be desensitized to coercion based on their repeated exposure to systemic oppression [149]? This certainly warrants further research.
+
+In addition, a significant portion of the literature has focused on identifying sociodemographic profiles associated with higher perceived coercion, such as age or gender. However, the energy invested in determining which age group or gender is more likely to perceive coercion could arguably be more effectively directed toward identifying modifiable factors that significantly impact individuals’ lived experiences. In this regard, it is important to note that sex and gender were primarily examined quantitatively for their association with perceived coercion. While most studies did not find significant associations, ten did report higher levels of perceived coercion among women [35,36,45,71,89,94,96,99,112,137]. Still, the lack of qualitative inquiry into what it means to identify as a woman and how this may shape experiences of psychiatric care remains problematic. Biological sex tells us very little about how healthcare systems and structures could be improved to meet the specific needs of diverse populations. Literature on women’s mental health clearly points to the fact that psychiatric services have been shaped by a biomedical and androcentric vision that often fails to address the realities and needs of individuals who identify as women [201,202].
+
+4.4. Strengths and Limitations of the Study
+
+This scoping review provides a comprehensive overview of the factors studied in relation to perceived coercion in psychiatric care, offering valuable insights for both clinical practice and future research. By mapping the breadth of existing literature across individual, clinical, relational, legal, and structural dimensions, it highlights key modifiable factors, such as the therapeutic relationship, and underscores the need to consider broader systemic contributors, including institutional structures and mental health care policies. These findings can help clinicians tailor interventions to reduce perceived coercion and assist policymakers in addressing underlying systemic issues.
+
+However, this review is not without limitations. First, we did not assess the methodological quality of the included studies. As a result, we cannot draw definitive conclusions about the strength or consistency of findings, nor can we compare results across studies. Our aim was instead to present a portrait of what has been studied to date. Second, the review was limited to publications in English and French, which may have excluded relevant studies published in other languages. Third, while some included studies referenced coercive interactions involving non-healthcare actors, such as police officers, our search strategy did not explicitly target these contexts. Yet, these interactions may contribute to a cumulative coercive experience for individuals navigating multiple institutional systems of authority, an area that warrants further investigation. In addition, the wide timespan covered by this review (1990–2025) has resulted in the inclusion of studies reflecting different cultural and temporal contexts, which may influence how coercion has been conceptualized, experienced, and reported across studies. This should be considered when interpreting the findings of this review.
+
+Despite these limitations, this review demonstrates that perceived coercion emerges from a complex interplay of personal, relational, and structural forces, reinforcing the importance of research that interrogates not only individual-level variables but also the broader systems that shape psychiatric care.
+
+5. Conclusions
+
+This scoping review sheds light on the multifaceted nature of perceived coercion in psychiatric settings. Our findings underscore the critical role of relational dynamics between mental health professionals and the persons receiving care, but also systemic elements such as involuntary treatment frameworks, institutional norms, and resource constraints. The review also draws attention to overlooked dimensions, including the lived experiences of racialized, gender-diverse, and socioeconomically marginalized individuals, whose perspectives remain largely absent from the literature. Considering the predominance of quantitative studies, future research should prioritize qualitative inquiries that center lived experience, amplify marginalized voices, and interrogate the institutional logics that sustain coercive practices. Ultimately, addressing perceived coercion in meaningful ways requires a shift from a narrow focus on individual characteristics toward a more holistic and systemic analysis. This includes rethinking psychiatric care environments, strengthening therapeutic relationships, and reforming mental health policies to better support both care recipients and professionals.
+
+Acknowledgments
+
+We used ChatGPT (OpenAI, GPT-4, June 2025) to assist with the translation (French to English) during the preparation of this manuscript. All translation was subsequently verified and edited by the authors, who take full responsibility for the content of this publication. We would like to thank Coraline Martin for her participation in the data extraction.
+
+Abbreviations
+
+The following abbreviations are used in this manuscript:
+
+UK
+
+United Kingdom
+
+USA
+
+United States of America
+
+Supplementary Materials
+
+The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/healthcare13151868/s1, Table S1: PRISMA-ScR-Fillable-Checklist_ScR perceived coercion; Table S2: Grey literature search; Table S3: Perceived coercion ScR_coding and themes.
+
+Author Contributions
+
+Conceptualization, C.L.-D., P.P.-L. and M.-H.G.; methodology, C.L.-D., P.P.-L., M.-H.G., S.S.-R., E.H. and M.D.; formal analysis, C.L.-D. and V.B.; writing—original draft preparation, C.L.-D. and J.-S.D.; writing—review and editing, C.L.-D., P.P.-L., V.B., S.S.-R., E.H., B.S., J.-S.D., M.D. and M.-H.G.; supervision, P.P.-L. and M.-H.G. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+The original contributions presented in this study are included in the article/Supplementary Materials. Further inquiries can be directed to the corresponding author.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Funding Statement
+
+The first author is the recipient of doctoral scholarships from the Fonds de recherche du Québec en santé (FRQS) in collaboration with l’Unité de soutien SSA du Québec and from the Canadian Institutes of Health Research (CIHR).
+
+Footnotes
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+References
+
+1.
+Gooding P., McSherry B., Roper C. Preventing and reducing ‘coercion’ in mental health services: An international scoping review of English-language studies. Acta Psychiatr. Scand. 2020;142:27–39. doi: 10.1111/acps.13152.
+2.
+Gowda G.S., Lepping P., Ray S., Noorthoorn E., Nanjegowda R.B., Kumar C.N., Math S.B. Clinician attitude and perspective on the use of coercive measures in clinical practice from tertiary care mental health establishment—A cross-sectional study. Indian J. Psychiatry. 2019;61:151–155. doi: 10.4103/psychiatry.IndianJPsychiatry_336_18.
+3.
+Hotzy F., Jaeger M. Clinical Relevance of Informal Coercion in Psychiatric Treatment—A Systematic Review. Front. Psychiatry. 2016;7:197.  doi: 10.3389/fpsyt.2016.00197.
+4.
+Hotzy F., Mötteli S., Theodoridou A., Schneeberger A.R., Seifritz E., Hoff P., Jäger M. Clinical course and prevalence of coercive measures: An observational study among involuntarily hospitalised psychiatric patients. Swiss Med. Wkly. 2018;148:w14616. doi: 10.4414/smw.2018.14616.
+5.
+Newton-Howes G., Stanley J. Prevalence of perceived coercion among psychiatric patients: Literature review and meta-regression modelling. Psychiatrist. 2012;36:335–340. doi: 10.1192/pb.bp.111.037358.
+6.
+Lebenbaum M., Chiu M., Vigod S., Kurdyak P. Prevalence and predictors of involuntary psychiatric hospital admissions in Ontario, Canada: A population-based linked administrative database study. BJPsych Open. 2018;4:31–38. doi: 10.1192/bjo.2017.4.
+7.
+Hem M.H., Gjerberg E., Husum T.L., Pedersen R. Ethical challenges when using coercion in mental healthcare: A systematic literature review. Nurs. Ethics. 2016;25:92–110. doi: 10.1177/0969733016629770.
+8.
+García-Cabeza I., Valenti E., Calcedo A.J.S.M. Perception and use of informal coercion in outpatient treatment: A focus group study with mental health professionals of Latin culture. Salud Ment. 2017;40:63–69. doi: 10.17711/SM.0185-3325.2017.009.
+9.
+Szmukler G., Appelbaum P. Treatment pressures, leverage, coercion, and compulsion in mental health care. J. Ment. Health. 2008;17:233–244. doi: 10.1080/09638230802052203.
+10.
+O’Donoghue B., Roche E., Lyne J., Madigan K., Feeney L. Service users’ perspective of their admission: A report of study findings. Ir. J. Psychol. Med. 2017;34:251–260. doi: 10.1017/ipm.2016.13.
+11.
+Jordan J.T., McNiel D.E. Perceived Coercion During Admission Into Psychiatric Hospitalization Increases Risk of Suicide Attempts After Discharge. Suicide Life-Threat. Behav. 2020;50:180–188. doi: 10.1111/sltb.12560.
+12.
+Szmukler G. Compulsion and “coercion” in mental health care. World Psychiatry. 2015;14:259–261. doi: 10.1002/wps.20264.
+13.
+Sampogna G., Luciano M., Del Vecchio V., Pocai B., Palummo C., Fico G., Giallonardo V., De Rosa C., Fiorillo A. Perceived Coercion Among Patients Admitted in Psychiatric Wards: Italian Results of the EUNOMIA Study. Front. Psychiatry. 2019;10:316.  doi: 10.3389/fpsyt.2019.00316.
+14.
+Theodoridou A., Schlatter F., Ajdacic V., Rössler W., Jäger M. Therapeutic relationship in the context of perceived coercion in a psychiatric population. Psychiatry Res. 2012;200:939–944. doi: 10.1016/j.psychres.2012.04.012.
+15.
+Sheehan K.A., Burns T., Sheehan K.A., Burns T. Perceived coercion and the therapeutic relationship: A neglected association? Psychiatr. Serv. 2011;62:471–476. doi: 10.1176/ps.62.5.pss6205_0471.
+16.
+Galon P., Wineman N.M. Quasi-Experimental Comparison of Coercive Interventions on Client Outcomes in Individuals with Severe and Persistent Mental Illness. Arch. Psychiatr. Nurs. 2011;25:404–418. doi: 10.1016/j.apnu.2010.10.004.
+17.
+Chieze M., Hurst S., Kaiser S., Sentissi O. Effects of Seclusion and Restraint in Adult Psychiatry: A Systematic Review. Front. Psychiatry. 2019;10:491.  doi: 10.3389/fpsyt.2019.00491.
+18.
+Aguilera-Serrano C., Guzman-Parra J., Garcia-Sanchez J.A., Moreno-Küstner B., Mayoral-Cleries F. Variables Associated With the Subjective Experience of Coercive Measures in Psychiatric Inpatients: A Systematic Review. Can. J. Psychiatry. 2017;63:129–144. doi: 10.1177/0706743717738491.
+19.
+Wynn R. Involuntary admission in Norwegian adult psychiatric hospitals: A systematic review. Int. J. Ment. Health Syst. 2018;12:10. doi: 10.1186/s13033-018-0189-z.
+20.
+Newton-Howes G., Mullen R. Coercion in psychiatric care: Systematic review of correlates and themes. Psychiatr. Serv. 2011;62:465–470. doi: 10.1176/ps.62.5.pss6205_0465.
+21.
+Prebble K., Thom K., Hudson E. Service Users’ Experiences of Voluntary Admission to Mental Hospital: A Review of Research Literature. Psychiatry Psychol. Law. 2015;22:327–336. doi: 10.1080/13218719.2014.959156.
+22.
+Pridham K.M., Berntson A., Simpson A.I., Law S.F., Stergiopoulos V., Nakhost A. Perception of Coercion Among Patients with a Psychiatric Community Treatment Order: A Literature Review. Psychiatr. Serv. 2016;67:16–28. doi: 10.1176/appi.ps.201400538.
+23.
+Larkin A., Hutton P. Systematic review and meta-analysis of factors that help or hinder treatment decision-making capacity in psychosis. Br. J. Psychiatry. 2017;211:205–215. doi: 10.1192/bjp.bp.116.193458.
+24.
+Nakhost A., Sirotich F., Pridham K.M.F., Stergiopoulos V., Simpson A.I.F. Coercion in Outpatients under Community Treatment Orders: A Matched Comparison Study. Can. J. psychiatry. 2018;63:757–765. doi: 10.1177/0706743718766053.
+25.
+O’Donoghue B., Roche E., Shannon S., Creed L., Lyne J., Madigan K., Feeney L. Longer term outcomes of voluntarily admitted service users with high levels of perceived coercion. Psychiatry Res. 2015;229:602–605. doi: 10.1016/j.psychres.2015.07.013.
+26.
+Peters M., Godfrey C., McInerney P., Munn Z., Tricco A., Khalil H.  Chapter 11: Scoping Reviews (2020 version) In: Aromataris E., Munn Z., editors. JBI Manual for Evidence Synthesis. Wolters Kluwer; Alphen aan den Rijn, The Netherlands: 2020. 
+27.
+Arksey H., O’Malley L. Scoping studies: Towards a methodological framework. Int. J. Soc. Res. Methodol. 2005;8:19–32. doi: 10.1080/1364557032000119616.
+28.
+Levac D., Colquhoun H., O’Brien K.K. Scoping studies: Advancing the methodology. Implement. Sci. 2010;5:69. doi: 10.1186/1748-5908-5-69.
+29.
+Tricco A., Lillie E., Zarin W., O’Brien K., Colquhoun H., Levac D., Moher D., Peters M.D.J., Horsley T., Weeks L., et al.  PRISMA Extension for Scoping Reviews (PRISMA-ScR): Checklist and Explanation. Ann. Intern. Med. 2018;169:467–473. doi: 10.7326/M18-0850.
+30.
+Lessard-Deschênes C., Goulet M.H., Pariseau-Legault P. Factors associated with perceived coercion in adults receiving psychiatric care: A scoping review protocol. BMJ Open. 2022;12:e065393. doi: 10.1136/bmjopen-2022-065393.
+31.
+Miles M.B., Huberman A.M., Saldaña J.  Qualitative Data Analysis: A Methods Sourcebook. 4th ed. SAGE; Thousand Oaks, CA, USA: 2020. 
+32.
+Rogers A. Coercion and ‘Voluntary’ admission: An examination of psychiatric patient views. Behav. Sci. Law. 1993;11:259–267. doi: 10.1002/bsl.2370110304.
+33.
+Bennett N.S., Lidz C.W., Monahan J., Mulvey E.P., Hoge S.K., Roth L.H., Gardner W. Inclusion, motivation, and good faith: The morality of coercion in mental hospital admission. Behav. Sci. Law. 1993;11:295–306. doi: 10.1002/bsl.2370110307.
+34.
+Lidz C.W., Hoge S.K., Gardner W., Bennett N.S., Monahan J., Mulvey E.P., Roth L.H. Perceived coercion in mental hospital admission. Pressures and process. Arch. Gen. Psychiatry. 1995;52:1034–1039. doi: 10.1001/archpsyc.1995.03950240052010.
+35.
+Nicholson R.A., Ekenstam C., Norwood S. Coercion and the outcome of psychiatric hospitalization. Int. J. Law Psychiatry. 1996;19:201–217. doi: 10.1016/0160-2527(96)00005-2.
+36.
+Hiday V.A., Swartz M.S., Swanson J., Wagner H.R. Patient perceptions of coercion in mental hospital admission. Int. J. Law Psychiatry. 1997;20:227–241. doi: 10.1016/S0160-2527(97)00004-6.
+37.
+Hoge S.K., Lidz C.W., Eisenberg M., Gardner W., Monahan J., Mulvey E., Roth L., Bennett N. Perceptions of coercion in the admission of voluntary and involuntary psychiatric patients. Int. J. Law Psychiatry. 1997;20:167–181. doi: 10.1016/S0160-2527(97)00001-0.
+38.
+Cascardi M., Poythress N.G. Correlates of perceived coercion during psychiatric hospital admission. Int. J. Law Psychiatry. 1997;20:445–458. doi: 10.1016/S0160-2527(97)00014-9.
+39.
+Lidz C.W. Coercion in psychiatric care: What have we learned from research? J. Am. Acad. Psychiatry Law. 1998;26:631–637.
+40.
+Pescosolido B.A., Gardner C.B., Lubell K.M. How people get into mental health services: Stories of choice, coercion and “muddling through” from “first-timers”. Soc. Sci. Med. 1998;46:275–286. doi: 10.1016/S0277-9536(97)00160-3.
+41.
+Lidz C.W., Mulvey E.P., Hoge S.K., Kirsch B.L., Monahan J., Eisenberg M., Gardner W., Roth L.H. Factual sources of psychiatric patients’ perceptions of coercion in the hospital admission process. Am. J. Psychiatry. 1998;155:1254–1260. doi: 10.1176/ajp.155.9.1254.
+42.
+Hoge S.K., Lidz C.W., Eisenberg M., Monahan J., Bennett N., Gardner W., Mulvey E.P., Roth L. Family, clinician, and patient perceptions of coercion in mental hospital admission. A comparative study. Int. J. Law Psychiatry. 1998;21:131–146. doi: 10.1016/S0160-2527(98)00002-8.
+43.
+Gardner W., Lidz C.W., Hoge S.K., Monahan J., Eisenberg M.M., Bennett N.S., Mulvey E.P., Roth L.H. Patients’ revisions of their beliefs about the need for hospitalization. Am. J. Psychiatry. 1999;156:1385–1391. doi: 10.1176/ajp.156.9.1385.
+44.
+Poulsen H.D. Perceived coercion among committed, detained, and voluntary patients. Int. J. Law Psychiatry. 1999;22:167–175. doi: 10.1016/S0160-2527(98)00042-9.
+45.
+McKenna B.G., Simpson A.I., Laidlaw T.M. Patient perception of coercion on admission to acute psychiatric services. The New Zealand experience. Int. J. Law Psychiatry. 1999;22:143–153. doi: 10.1016/S0160-2527(98)00039-9.
+46.
+Lareau C.R.  Dissertation Abstracts International: Section B: The Sciences and Engineering. Volume 61. University Microfilms; Ann Arbor, MI, USA: 2000. The effect of therapeutic alliance on perceived levels of formal and informal coercion; p. 1640.
+47.
+Lidz C.W., Mulvey E.P., Hoge S.K., Kirsch B.L., Monahan J., Bennett N.S., Eisenberg M., Gardner W., Roth L.H. Sources of coercive behaviours in psychiatric admissions. Acta Psychiatr. Scand. 2000;101:73–79. doi: 10.1034/j.1600-0447.2000.101001073.x.
+48.
+McKenna B.G., Simpson A.I.F., Coverdale J.H., Laidlaw T.M. An analysis of procedural justice during psychiatric hospital admission. Int. J. Law Psychiatry. 2001;24:573–581. doi: 10.1016/S0160-2527(00)00069-8.
+49.
+Olofsson B., Jacobsson L. A plea for respect: Involuntarily hospitalized psychiatric patients’ narratives about being subjected to coercion. J. Psychiatr. Ment. Health Nurs. 2001;8:357–366. doi: 10.1046/j.1365-2850.2001.00404.x.
+50.
+Rosen M.I., Desai R., Bailey M., Davidson L., Rosenheck R. Consumer experience with payeeship provided by a community mental health center. Psychiatr. Rehabil. J. 2001;25:190–195. doi: 10.1037/h0095025.
+51.
+Johansson I.M., Lundman B. Patients’ experience of involuntary psychiatric care: Good opportunities and great losses. J. Psychiatr. Ment. Health Nurs. 2002;9:639–647. doi: 10.1046/j.1365-2850.2002.00547.x.
+52.
+Canvin K., Bartlett A., Pinfold V. A ‘bittersweet pill to swallow’: Learning from mental health service users’ responses to compulsory community care in England. Health Soc. Care Community. 2002;10:361–369. doi: 10.1046/j.1365-2524.2002.00375.x.
+53.
+Watts J., Priebe S. A phenomenological account of users’ experiences of assertive community treatment. Bioethics. 2002;16:439–454. doi: 10.1111/1467-8519.00301.
+54.
+Ivar Iversen K., Høyer G., Sexton H., Grønli O.K. Perceived coercion among patients admitted to acute wards in Norway. Nord. J. Psychiatry. 2002;56:433–439. doi: 10.1080/08039480260389352.
+55.
+McKenna B.G., Simpson A.I., Coverdale J.H. Patients’ perceptions of coercion on admission to forensic psychiatric hospital: A comparison study. Int. J. Law Psychiatry. 2003;26:355–372. doi: 10.1016/S0160-2527(03)00046-3.
+56.
+Elbogen E.B., Swanson J.W., Swartz M.S., Wagner H.R. Effects of Legal Mechanisms on Perceived Coercion and Treatment Adherence Among Persons with Severe Mental Illness. J. Nerv. Ment. Dis. 2003;191:580–585. doi: 10.1097/01.nmd.0000092195.22555.12.
+57.
+Swanson J.W., Swartz M.S., Elbogen E.B., Wagner H.R., Burns B.J. Effects of involuntary outpatient commitment on subjective quality of life in persons with severe mental illness. Behav. Sci. Law. 2003;21:473–491. doi: 10.1002/bsl.548.
+58.
+Sørgaard K.W. Patients’ perception of coercion in acute psychiatric wards. An intervention study. Nord. J. Psychiatry. 2004;58:299–304. doi: 10.1080/08039480410005819.
+59.
+Taborda J.G., Baptista J.P., Gomes D.A., Nogueira L., Chaves M.L. Perception of coercion in psychiatric and nonpsychiatric (medical and surgical) inpatients. Int. J. Law Psychiatry. 2004;27:179–192. doi: 10.1016/j.ijlp.2004.01.008.
+60.
+Bonsack C., Borgeat F. Perceived coercion and need for hospitalization related to psychiatric admission. Int. J. Law Psychiatry. 2005;28:342–347. doi: 10.1016/j.ijlp.2005.03.008.
+61.
+Van Dorn R.A., Swartz M., Elbogen E.B., Swanson J.W. Perceived fairness and effectiveness of leveraged community treatment among public mental health consumers in five U.S. cities. Int. J. Forensic Ment. Health. 2005;4:119–133. doi: 10.1080/14999013.2005.10471218.
+62.
+Rose D.S., Wykes T.H., Bindman J.P., Fleischmann P.S. Information, consent and perceived coercion: Patients’ perspectives on electroconvulsive therapy. Br. J. Psychiatry. 2005;186:54–59. doi: 10.1192/bjp.186.1.54.
+63.
+Larsson-Kronberg M., Ojehagen A., Berglund M. Experiences of coercion during investigation and treatment. Int. J. Law Psychiatry. 2005;28:613–621. doi: 10.1016/j.ijlp.2004.05.003.
+64.
+Bindman J., Reid Y., Szmukler G., Tiller J., Thornicroft G., Leese M. Perceived coercion at admission to psychiatric hospital and engagement with follow-up: A cohort study. Soc. Psychiatry Psychiatr. Epidemiol. 2005;40:160–166. doi: 10.1007/s00127-005-0861-x.
+65.
+McKenna B.G., Simpson A.I., Coverdale J.H. Outpatient commitment and coercion in New Zealand: A matched comparison study. Int. J. Law Psychiatry. 2006;29:145–158. doi: 10.1016/j.ijlp.2004.07.004.
+66.
+Swartz M.S., Swanson J.W., Kim M., Petrila J. Use of outpatient commitment or related civil court treatment orders in five U.S. communities. Psychiatr. Serv. 2006;57:343–349. doi: 10.1176/appi.ps.57.3.343.
+67.
+Kjellin L., Høyer G., Engberg M., Kaltiala-Heino R., Sigurjónsdóttir M. Differences in perceived coercion at admission to psychiatric hospitals in the Nordic countries. Soc. Psychiatry Psychiatr. Epidemiol. 2006;41:241–247. doi: 10.1007/s00127-005-0024-0.
+68.
+Appelbaum P.S., Redlich A. Use of leverage over patients’ money to promote adherence to psychiatric treatment. J. Nerv. Ment. Dis. 2006;194:294–302. doi: 10.1097/01.nmd.0000207368.14133.0c.
+69.
+Castille D., Link B. Coercion: Point, perception, process. BMC Psychiatry. 2007;7:S86.  doi: 10.1186/1471-244X-7-S1-S86.
+70.
+Katsakou C., Priebe S. Patient’s experiences of involuntary hospital admission and treatment: A review of qualitative studies. Epidemiol. Psichiatr. Soc. 2007;16:172–178. doi: 10.1017/S1121189X00004802.
+71.
+Renberg E., Johansson B.-M., Kjellin L. Perceived coercion and its determinants at psychiatric admission—Are there sex specific patterns? BMC Psychiatry. 2007;7:P19.  doi: 10.1186/1471-244X-7-S1-P19.
+72.
+Sørgaard K.W. Satisfaction and coercion among voluntary, persuaded/pressured and committed patients in acute psychiatric treatment. Scand. J. Caring Sci. 2007;21:214–219. doi: 10.1111/j.1471-6712.2007.00458.x.
+73.
+Davidson G., Campbell J. An examination of the use of coercion by assertive outreach and community mental health teams in Northern Ireland. Br. J. Soc. Work. 2007;37:537–555. doi: 10.1093/bjsw/bcm017.
+74.
+Zervakis J., Stechuchak K.M., Olsen M.K., Swanson J.W., Oddone E.Z., Weinberger M., Bryce E.R., Butterfield M.I. Previous Involuntary Commitment is Associated With Current Perceptions of Coercion in Voluntarily Hospitalized Patients. Int. J. Forensic Ment. Health. 2007;6:105–112. doi: 10.1080/14999013.2007.10471255.
+75.
+Link B., Castille D.M., Stuber J. Stigma and coercion in the context of outpatient treatment for people with mental illnesses. Soc. Sci. Med. 2008;67:409–419. doi: 10.1016/j.socscimed.2008.03.015.
+76.
+Johansson I.M., Skärsäter I., Danielson E. The meaning of care on a locked acute psychiatric ward: Patients’ experiences. Nord. J. Psychiatry. 2009;63:501–507. doi: 10.3109/08039480903118208.
+77.
+Stanhope V., Marcus S., Solomon P. The impact of coercion on services from the perspective of mental health care consumers with co-occurring disorders. Psychiatr. Serv. 2009;60:183–188. doi: 10.1176/ps.2009.60.2.183.
+78.
+Bennewith O., Amos T., Lewis G., Katsakou C., Wykes T., Morriss R., Priebe S. Ethnicity and coercion among involuntarily detained psychiatric in-patients. Br. J. Psychiatry. 2010;196:75–76. doi: 10.1192/bjp.bp.109.068890.
+79.
+Kim S., Rhee M., Seo M.K. Coercion related variables and effects of coercion on therapeutic relationship. Int. J. Neuropsychopharmacol. 2010;1:224. doi: 10.1017/S1461145710000635.
+80.
+Fu C.K.J., Chow P.L.P., Lam C.W.L. The correlates of subjective admission experience of patients with schizophrenia in Hong Kong. Eur. Psychiatry. 2010;25((Suppl. S1)):25-E11651. doi: 10.1016/S0924-9338(10)71165-2.
+81.
+Phelan J.C., Sinkewicz M., Castille D.M., Huz S., Muenzenmaier K., Link B.G. Effectiveness and outcomes of assisted outpatient treatment in New York State. Psychiatr. Serv. 2010;61:137–143. doi: 10.1176/ps.2010.61.2.137.
+82.
+Latimer E., Farmer O., Crocker A.G., Jenkins T. Perceived coercion, client-centredness, and positive and negative pressures in an assertive community treatment program: An exploratory study. Can. J. Community Ment. Health. 2010;29:35–50. doi: 10.7870/cjcmh-2010-0004.
+83.
+Thøgersen M.H., Morthorst B., Nordentoft M. Perceptions of coercion in the community: A qualitative study of patients in a Danish assertive community treatment team. Psychiatr. Q. 2010;81:35–47. doi: 10.1007/s11126-009-9115-5.
+84.
+Patel M.X., de Zoysa N., Bernadt M., Bindman J., David A.S. Are depot antipsychotics more coercive than tablets? The patient’s perspective. J. Psychopharmacol. 2010;24:1483–1489. doi: 10.1177/0269881109103133.
+85.
+Jaeger M., Rossler W. Enhancement of outpatient treatment adherence: Patients’ perceptions of coercion, fairness and effectiveness. Psychiatry Res. 2010;180:48–53. doi: 10.1016/j.psychres.2009.09.011.
+86.
+Howard L., Flach C., Leese M., Byford S., Killaspy H., Cole L., Lawlor C., Betts J., Sharac J., Cutting P., et al.  Effectiveness and cost-effectiveness of admissions to women’s crisis houses compared with traditional psychiatric wards: Pilot patient-preference randomised controlled trial. Br. J. Psychiatry Suppl. 2010;53:s32–s40. doi: 10.1192/bjp.bp.110.081083.
+87.
+Daffern M., Tonkin M., Howells K., Krishnan G., Ijomah G., Milton J. The impact of interpersonal style and perceived coercion on aggression and self-harm in personality-disordered patients admitted to a secure psychiatric hospital. J. Forensic Psychiatry Psychol. 2010;21:426–445. doi: 10.1080/14789940903505951.
+88.
+Galon P.A., Wineman N.M. Coercion and procedural justice in psychiatric care: State of the science and implications for nursing. Arch. Psychiatr. Nurs. 2010;24:307–316. doi: 10.1016/j.apnu.2009.12.005.
+89.
+Katsakou C., Marougka S., Garabette J., Rost F., Yeeles K., Priebe S. Why do some voluntary patients feel coerced into hospitalisation? A mixed-methods study. Psychiatry Res. 2011;187:275–282. doi: 10.1016/j.psychres.2011.01.001.
+90.
+Tschopp M.K., Berven N.L., Chan F. Consumer perceptions of assertive community treatment interventions. Community Ment. Health J. 2011;47:408–414. doi: 10.1007/s10597-010-9335-z.
+91.
+Castille D.M., Muenzenmaier K.H., Link B.G.  Coercion-Point, perception, process. In: Kallert T.W., Mezzich J.E., Monahan J., editors. Coercive Treatment in Psychiatry: Clinical, Legal and Ethical Aspects. Wiley Blackwell; Hoboken, NJ, USA: 2011. 
+92.
+Galon P.A., Wineman N.M. A comparative study of the perceptions of procedural justice and coercion among patients subject to outpatient commitment and assertive community treatment. Arch. Psychiatr. Nurs. 2011;25:292–301. doi: 10.1016/j.apnu.2010.12.005.
+93.
+Zuberi S.I., Sajid A., Yousafzai A.W., Bhutto N., Khan M.M. Perceived coercion and need for hospital admission among psychiatric in-patients: Figures from a Pakistani tertiary care hospital. Int. Psychiatry Bull. Board. Int. Aff. R. Coll. Psychiatr. 2011;8:14–16. doi: 10.1192/S1749367600006184.
+94.
+Del Vecchio V., Luciano M., Giacco D., Del Gaudio L., Sampogna G., Prisco V., De Rosa C., Fiorillo A. Influence of clinical and socio-demographic features among patients in psychiatric wards on level of perceived coercion. Eur. Psychiatry. 2012;27((Suppl. S1)):1. doi: 10.1016/S0924-9338(12)74763-6.
+95.
+Galon P.A., Wineman N.M., Grande T. Influence of race on outpatient commitment and assertive community treatment for persons with severe and persistent mental illness. Arch. Psychiatr. Nurs. 2012;26:202–213. doi: 10.1016/j.apnu.2011.07.001.
+96.
+Fiorillo A., Giacco D., De Rosa C., Kallert T., Katsakou C., Onchev G., Raboch J., Mastrogianni A., Del Vecchio V., Luciano M., et al.  Patient characteristics and symptoms associated with perceived coercion during hospital treatment. Acta Psychiatr. Scand. 2012;125:460–467. doi: 10.1111/j.1600-0447.2011.01809.x.
+97.
+Morcos M.  Master’s Thesis. School of Medicine, University of Manchester; Manchester, UK: 2012. Perceived Coercion, Adherence to Treatment and Personality Traits; an Observational Cross Sectional Study.
+98.
+Jaeger S., Hoff P., Huber C.G. Long-term effects of involuntary hospitalization on medication adherence, treatment engagement and perception of coercion. Soc. Psychiatry Psychiatr. Epidemiol. 2013;48:1787–1796. doi: 10.1007/s00127-013-0687-x.
+99.
+Anestis A., Daffern M., Thomas S.D.M., Podubinski T., Hollander Y., Lee S., Foley F., de Castella A., Kulkarni J. Predictors of perceived coercion in patients admitted for psychiatric hospitalization and the stability of these perceptions over time. Psychiatry Psychol. Law. 2013;20:492–503. doi: 10.1080/13218719.2012.712833.
+100.
+McNiel D.E., Gormley B., Binder R.L. Leverage, the treatment relationship, and treatment participation. Psychiatr. Serv. 2013;64:431–436. doi: 10.1176/appi.ps.201200368.
+101.
+Seo M.K., Kim S.H., Rhee M. Coercion in psychiatric care: Can paternalism justify coercion? Int. J. Soc. Psychiatry. 2013;59:217–223. doi: 10.1177/0020764011431543.
+102.
+Terkelsen T.B., Larsen I.B. The locked psychiatric ward: Hotel or detention camp for people with dual diagnosis. J. Ment. Health. 2013;22:412–419. doi: 10.3109/09638237.2013.799266.
+103.
+Newton-Howes G., Lacey C.J., Banks D. Community treatment orders: The experiences of Non-Maori and Maori within mainstream and Maori mental health services. Soc. Psychiatry Psychiatr. Epidemiol. 2014;49:267–273. doi: 10.1007/s00127-013-0734-7.
+104.
+Larsen I.B., Terkelsen T.B. Coercion in a locked psychiatric ward: Perspectives of patients and staff. Nurs. Ethics. 2014;21:426–436. doi: 10.1177/0969733013503601.
+105.
+O’Donoghue B., Roche E., Shannon S., Lyne J., Madigan K., Feeney L. Perceived coercion in voluntary hospital admission. Psychiatry Res. 2014;215:120–126. doi: 10.1016/j.psychres.2013.10.016.
+106.
+Riley H., Høyer G., Lorem G.F. ‘When coercion moves into your home’—A qualitative study of patient experiences with outpatient commitment in Norway. Health Soc. Care Community. 2014;22:506–514. doi: 10.1111/hsc.12107.
+107.
+Munetz M.R., Ritter C., Teller J.L., Bonfine N. Mental health court and assisted outpatient treatment: Perceived coercion, procedural justice, and program impact. Psychiatr. Serv. 2014;65:352–358. doi: 10.1176/appi.ps.002642012.
+108.
+Donskoy A.-L. Coercion and trust in psychiatry: The ultimate contradiction. Int. J. Hum. Rights Healthc. 2015;8:70–81. doi: 10.1108/IJHRH-09-2014-0019.
+109.
+Canvin K.  Patient experiences and perceptions of coercion: Universal meaning, individual experiences. In: Molodynski A., Rugkåsa J., Burns T., editors. Coercion in Community Mental Health Care: International Perspectives? Oxford University Press; Oxford, UK: 2016. pp. 143–160.
+110.
+Norvoll R., Pedersen R. Exploring the views of people with mental health problems’ on the concept of coercion: Towards a broader socio-ethical perspective. Soc. Sci. Med. 2016;156:204–211. doi: 10.1016/j.socscimed.2016.03.033.
+111.
+Fugger G., Gleiss A., Baldinger P., Strnad A., Kasper S., Frey R. Psychiatric patients’ perception of physical restraint. Acta Psychiatr. Scand. 2016;133:221–231. doi: 10.1111/acps.12501.
+112.
+Raveesh B.N., Pathare S., Lepping P., Noorthoorn E.O., Gowda G.S., Bunders-Aelen J.G. Perceived coercion in persons with mental disorder in India: A cross-sectional study. Indian. J. Psychiatry. 2016;58:S210–S220. doi: 10.4103/0019-5545.196846.
+113.
+Zlodre J., Yiend J., Burns T., Fazel S. Coercion, competence, and consent in offenders with personality disorder. Psychol. Crime Law. 2016;22:315–330. doi: 10.1080/1068316X.2015.1109086.
+114.
+Abt M.  Doctoral Dissertation. Faculté de Biologie et de Médecine, Université de Lausanne; Lausanne, Switzerland: 2016. « Sortir à Tout Prix » Perspectives Des Patients Hospitalisés sous Contrainte en Psychiatrie: Une Étude par Théorisation Ancrée.
+115.
+Opsal A., Kristensen Ø., Vederhus J.K., Clausen T. Perceived coercion to enter treatment among involuntarily and voluntarily admitted patients with substance use disorders. BMC Health Serv. Res. 2016;16:656.  doi: 10.1186/s12913-016-1906-4.
+116.
+Gowda G.S., Kumar C.N., Manjunatha N., Math S.B. Clinical correlates and predictors of perceived coercion among psychiatric inpatients: A prospective pilot study. Asian J. Psychiatry. 2016;24:134–139. doi: 10.1016/j.ajp.2016.04.004.
+117.
+Gowda G.S., Kondapuram N., Kumar C.N., Math S.B. Involuntary admission and treatment experiences of persons with schizophrenia: Implication for the Mental Health Care Bill 2016. Asian J. Psychiatr. 2017;29:3–7. doi: 10.1016/j.ajp.2017.04.006.
+118.
+anonymous> My experience with psychiatric services. Schizophr. Bull. 2017;43:478–480. doi: 10.1093/schbul/sbv145.
+119.
+Kisely S.R., Campbell L.A., O’Reilly R. Compulsory community and involuntary outpatient treatment for people with severe mental disorders. Cochrane Database Syst. Rev. 2017;2017:CD004408. doi: 10.1002/14651858.CD004408.pub5.
+120.
+Ramachandra, Poreddi V., Ramu R., Selvi S., Gandhi S., Krishnasamy L., Suresh B.M. Admission experiences of psychiatric patients in tertiary care: An implication toward Mental Health Care Bill, 2013. J. Neurosci. Rural. Pract. 2017;8:89–95. doi: 10.4103/0976-3147.193527.
+121.
+Bradbury J., Hutchinson M., Hurley J., Stasa H. Lived experience of involuntary transport under mental health legislation. Int. J. Ment. Health Nurs. 2017;26:580–592. doi: 10.1111/inm.12284.
+122.
+Tomlin J., Bartlett P., Völlm B. Experiences of restrictiveness in forensic psychiatric care: Systematic review and concept analysis. Int. J. Law Psychiatry. 2018;57:31–41. doi: 10.1016/j.ijlp.2017.12.006.
+123.
+Horvath J., Steinert T., Jaeger S. Antipsychotic treatment of psychotic disorders in forensic psychiatry: Patients’ perception of coercion and its predictors. Int. J. Law Psychiatry. 2018;57:113–121. doi: 10.1016/j.ijlp.2018.02.004.
+124.
+Gowda G.S., Lepping P., Noorthoorn E.O., Ali S.F., Kumar C.N., Raveesh B.N., Math S.B. Restraint prevalence and perceived coercion among psychiatric inpatients from South India: A prospective study. Asian J. Psychiatr. 2018;36:10–16. doi: 10.1016/j.ajp.2018.05.024.
+125.
+Allison R., Flemming K. Mental health patients’ experiences of softer coercion and its effects on their interactions with practitioners: A qualitative evidence synthesis. J. Adv. Nurs. 2019;75:2274–2284. doi: 10.1111/jan.14035.
+126.
+Lamothe H., Lebain P., Morello R., Brazo P. Coercive stress in psychiatric intensive care unit: What link with insight? L’Encephale. 2019;45:488–493. doi: 10.1016/j.encep.2019.05.010.
+127.
+Guzmán-Parra J., Aguilera-Serrano C., García-Sanchez J.A., García-Spínola E., Torres-Campos D., Villagrán J.M., Moreno-Küstner B., Mayoral-Cleries F. Experience coercion, post-traumatic stress, and satisfaction with treatment associated with different coercive measures during psychiatric hospitalization. Int. J. Ment. Health Nurs. 2019;28:448–456. doi: 10.1111/inm.12546.
+128.
+Akther S.F., Molyneaux E., Stuart R., Johnson S., Simpson A., Oram S. Patients’ experiences of assessment and detention under mental health legislation: Systematic review and qualitative meta-synthesis. BJPsych Open. 2019;5:e37. doi: 10.1192/bjo.2019.19.
+129.
+Golay P., Morandi S., Silva B., Devas C., Bonsack C. Feeling coerced during psychiatric hospitalization: Impact of perceived status of admission and perceived usefulness of hospitalization. Int. J. Law Psychiatry. 2019;67:101512. doi: 10.1016/j.ijlp.2019.101512.
+130.
+Gerle E., Fischer A., Lundh L.G. “Voluntarily Admitted Against My Will”: Patient Perspectives on Effects of, and Alternatives to, Coercion in Psychiatric Care for Self-Injury. J. Patient Exp. 2019;6:265–270. doi: 10.1177/2374373518800811.
+131.
+Mandarelli G., Parmigiani G., Trobia F., Tessari G., Roma P., Biondi M., Ferracuti S. The Admission Experience Survey Italian Version (I-AES): A factor analytic study on a sample of 156 acute psychiatric in-patients. Int. J. Law Psychiatry. 2019;62:111–116. doi: 10.1016/j.ijlp.2018.12.006.
+132.
+Clément M., Verdon C., Robichaud F., Artaud L., Baki A.A. Perspectives des personnes soignées et des infirmières sur leur relation dans le contexte d’une hospitalisation involontaire lors d’une psychose débutante: Réflexions sur la culture des soins. L’Infirm. Clin. 2020;17:1–17.
+133.
+Jessell L.  Doctoral Dissertation. New York University; Manhattan, NY, USA: 2020. Examining the Relationship Between Recovery Orientation and the Role of Psychiatric Medication in Service Planning: A Mixed Methods Study.
+134.
+Scholes A., Price O., Berry K. Women service users’ experiences of inpatient mental health services and staff experiences of providing care to women within inpatient mental health services: A systematic review of qualitative evidence. Int. J. Nurs. Stud. 2021;118:103920. doi: 10.1016/j.ijnurstu.2021.103920.
+135.
+Schoppmann S., Balensiefen J., Lau S., Graf M., Hachtel H. Patients’ Views With Regard to Personal Recovery in Forensic Psychiatry in German-Speaking Switzerland-An Explorative Study. Front. Psychiatry. 2021;12:695096.  doi: 10.3389/fpsyt.2021.695096.
+136.
+Lee M.H., Seo M.K. Perceived Coercion of Persons with Mental Illness Living in a Community. Int. J. Environ. Res. Public Health. 2021;18:2290.  doi: 10.3390/ijerph18052290.
+137.
+O’Callaghan A.K., Plunkett R., Kelly B.D. The association between perceived coercion on admission and formal coercive practices in an inpatient psychiatric setting. Int. J. Law Psychiatry. 2021;75:101680. doi: 10.1016/j.ijlp.2021.101680.
+138.
+Fiore G., Bertani D.E., Marchi M., Cardoso G., Galeazzi G.M. Patient subjective experience of treatment with long-acting injectable antipsychotics: A systematic review of qualitative studies. J. Bras. Psiquiatr. 2021;70:68–77. doi: 10.1590/0047-2085000000311.
+139.
+Hirsch S., Thilo N., Steinert T., Flammer E. Patients’ perception of coercion with respect to antipsychotic treatment of psychotic disorders and its predictors. Soc. Psychiatry Psychiatr. Epidemiol. 2021;56:1381–1388. doi: 10.1007/s00127-021-02083-z.
+140.
+Mandarelli G., Parmigiani G.  Empathy, Normalization and De-Escalation: Management of the Agitated Patient in Emergency and Critical Situations. Springer Nature AG; Cham, Switzerland: 2021. Communication in psychiatric coercive treatment and patients’ decisional capacity to consent; pp. 113–132.
+141.
+Tully S.M., Bucci S., Berry K. “My life isn’t my life, it’s the systems”: A qualitative exploration of women’s experiences of day-to-day restrictive practices as inpatients. J. Psychiatr. Ment. Health Nurs. 2022;30:110–122. doi: 10.1111/jpm.12855.
+142.
+Bendall C., Williams C., Huddy V. Exploring experiences of restrictive practices within inpatient mental healthcare from the perspectives of patients and staff. J. Psychiatr. Intensive Care. 2022;18:17–29. doi: 10.20299/jpi.2022.005.
+143.
+Smyth S., McFarland J., McGuiness D., Summerville S., Bainbridge E., Hallahan B., Higgins A., Casey D., Murphy K., McDonald C. A mixed methods study examining perceptions by service-users of their involuntary admission in relation to levels of insight. Int. J. Soc. Psychiatry. 2022;68:1764–1773. doi: 10.1177/00207640211061983.
+144.
+Plunkett R., O’Callaghan A.K., Kelly B.D. Dignity, coercion and involuntary psychiatric care: A study of involuntary and voluntary psychiatry inpatients in Dublin. Int. J. Psychiatry Clin. Pract. 2022;26:269–276. doi: 10.1080/13651501.2021.2022162.
+145.
+Jina-Pettersen N. Fear, Neglect, Coercion, and Dehumanization: Is Inpatient Psychiatric Trauma Contributing to a Public Health Crisis? J. Patient Exp. 2022;9:23743735221079138. doi: 10.1177/23743735221079138.
+146.
+Martinez D., Brodard A., Silva B., Diringer O., Bonsack C., Morandi S., Golay P. Satisfaction and Perceived Coercion in Voluntary Hospitalisations: Impact of Past Coercive Experiences. Psychiatr. Q. 2022;93:971–984. doi: 10.1007/s11126-022-10005-8.
+147.
+Hotzy F., Spiess M., Ruflin R., Schneeberger A., Traber R., Morandi S., Jaeger M., Theodoridou A. Association between perceived coercion and perceived level of information in involuntarily admitted patients: Results from a multicenter observational study in Switzerland. Int. J. Law Psychiatry. 2023;91:101934. doi: 10.1016/j.ijlp.2023.101934.
+148.
+Silva B., Bachelard M., Amoussou J.R., Martinez D., Bonalumi C., Bonsack C., Golay P., Morandi S. Feeling coerced during voluntary and involuntary psychiatric hospitalisation: A review and meta-aggregation of qualitative studies. Heliyon. 2023;9:e13420. doi: 10.1016/j.heliyon.2023.e13420.
+149.
+Carimbocas K.  Doctoral Dissertation. Palo Alto University; Palo Alto, CA, USA: 2023. A Closer Look at Perception of Coercion During Admission, Inpatient Experience, and Recovery Outcomes.
+150.
+Wullschleger A., Vandamme A., Mielau J., Heinz A., Bermpohl F., Mahler L., Montag C. Relationship between perceived coercion and perceived justification of coercive measures—Secondary analysis of a randomized-controlled trial. BMC Psychiatry. 2023;23:712.  doi: 10.1186/s12888-023-05192-y.
+151.
+O’Callaghan A.K., Plunkett R., Kelly B.D. What is the role of gender in perceived coercion during psychiatric admission? Ir. J. Psychol. Med. 2024;41:388–392. doi: 10.1017/ipm.2023.6.
+152.
+Pelosse D.  Doctoral Dissertation. Département des Sciences Infirmières, Université du Québec en Outaouais; Gatineau, QC, Canada: 2023. Analyse Phénoménologique Interprétative des Expériences de Coercition et de Soutien à L’exercice des Droits lors D’hospitalisations et de Traitements Involontaires en Soins Psychiatriques.
+153.
+Silva B., Bachelard M., Bonsack C., Golay P., Morandi S. Exploring Patients’ Feeling of Being Coerced During Psychiatric Hospital Admission: A Qualitative Study. Psychiatr. Q. 2023;94:411–434. doi: 10.1007/s11126-023-10039-6.
+154.
+Shozi Z., Saloojee S., Mashaphu S. Experiences of coercion amongst involuntary mental health care users in KwaZulu-Natal, South Africa. Front. Psychiatry. 2023;14:1113821.  doi: 10.3389/fpsyt.2023.1113821.
+155.
+Păun R.-M., Alexandru P.N., Valentin-Petre M., Tudose C. Perceived coercion in psychiatric inpatients: A validation study of the Romanian-language version of the Admission Experience Survey. Psychiatry Psychol. Law. 2024:1–10. doi: 10.1080/13218719.2024.2372767.
+156.
+Morandi S., Silva B., Pauli G., Martinez D., Bachelard M., Bonsack C., Golay P. How do decision making and fairness mediate the relationship between involuntary hospitalisation and perceived coercion among psychiatric inpatients? J. Psychiatr. Res. 2024;173:98–103. doi: 10.1016/j.jpsychires.2024.03.017.
+157.
+Indregard A.-M.R., Nussle H.M., Hagen M., Vandvik P.O., Tesli M., Gather J., Kunøe N. Open-door policy versus treatment-as-usual in urban psychiatric inpatient wards: A pragmatic, randomised controlled, non-inferiority trial in Norway. Lancet Psychiatry. 2024;11:330–338. doi: 10.1016/S2215-0366(24)00039-7.
+158.
+Silva B., Morandi S., Bachelard M., Bonsack C., Golay P. Pathways to experienced coercion during psychiatric admission: A network analysis. BMC Psychiatry. 2024;24:546.  doi: 10.1186/s12888-024-05968-w.
+159.
+Fossum S., Moen Ø.L., Gonzalez M.T., Schröder A., Skundberg-Kletthagen H. Investigating the Associations between Patient-Reported Quality of Care and Perceived Coercion: A Norwegian Cross-Sectional Study. Issues Ment. Health Nurs. 2024;45:784–793. doi: 10.1080/01612840.2024.2361336.
+160.
+Aluh D.O., Diaz-Milanes D., Azeredo-Lopes S., Barbosa S., Santos-Dias M., Silva M., Grigaitė U., Pedrosa B., Velosa A., Cardoso G., et al.  Coercion in Psychiatry: Exploring the Subjective Experience of Coercion Among Patients in Five Portuguese Psychiatric Departments. J. Behav. Health Serv. Res. 2025;52:505–524. doi: 10.1007/s11414-024-09890-7.
+161.
+Aragonés-Calleja M., Sánchez-Martínez V. Users’ Experience of Treatment and Coercion in an Inpatient Medium-Stay Psychiatric Rehabilitation Unit: A Mixed Methods Study. J. Psychiatr. Ment. Health Nurs. 2025;32:467–481. doi: 10.1111/jpm.13128.
+162.
+Nakhost A., Sirotich F., Simpson A., Law S. Prevalence of Current Clinical Leverage and Association with Perceived Coercion in Outpatient and Community Psychiatric Settings: A First in Canada Study. Community Ment. Health J. 2025;61:1037–1046. doi: 10.1007/s10597-024-01444-7.
+163.
+Hudson E., Beames L. My Week of Denial and Disorientation: A Lived Experience Narrative of a Stay in a Psychiatric Emergency Department. J. Psychiatr. Ment. Health Nurs. 2025;32:869–875. doi: 10.1111/jpm.13167.
+164.
+Hartley S., Raphael J., Lovell K., Berry K. Effective nurse–patient relationships in mental health care: A systematic review of interventions to improve the therapeutic alliance. Int. J. Nurs. Stud. 2020;102:103490. doi: 10.1016/j.ijnurstu.2019.103490.
+165.
+Priebe S., McCabe R. Therapeutic relationships in psychiatry: The basis of therapy or therapy in itself? Int. Rev. Psychiatry. 2008;20:521–526. doi: 10.1080/09540260802565257.
+166.
+Rungruangsiripan M., Sitthimongkol Y., Maneesriwongul W., Talley S., Vorapongsathorn T. Mediating Role of Illness Representation Among Social Support, Therapeutic Alliance, Experience of Medication Side Effects, and Medication Adherence in Persons With Schizophrenia. Arch. Psychiatr. Nurs. 2011;25:269–283. doi: 10.1016/j.apnu.2010.09.002.
+167.
+Vahidi M., Hossein E., Namdar A.H., Asghari J.M., David L., Andrew F., Cleary M. Therapeutic Relationships and Safety of Care in Iranian Psychiatric Inpatient Units. Issues Ment. Health Nurs. 2018;39:967–976. doi: 10.1080/01612840.2018.1485795.
+168.
+Wampold B.E., Flückiger C. The alliance in mental health care: Conceptualization, evidence and clinical applications. World Psychiatry. 2023;22:25–41. doi: 10.1002/wps.21035.
+169.
+Lessard-Deschênes C., Pariseau-Legault P., Goulet M.-H. Does mental health practice benefit from procedural justice theory? A critical analysis on the opportunities and pitfalls of procedural justice to address coercion and human rights issues in psychiatry. Aporia. 2024;16:8–20. doi: 10.18192/aporia.v16i1.6947.
+170.
+Faissner M., Braun E., Hempeler C. Epistemic oppression and the concept of coercion in psychiatry. Synthese. 2025;205:24. doi: 10.1007/s11229-024-04853-z.
+171.
+Chieze M., Clavien C., Kaiser S., Hurst S. Coercive Measures in Psychiatry: A Review of Ethical Arguments. Front. Psychiatry. 2021;12:790886.  doi: 10.3389/fpsyt.2021.790886.
+172.
+Bladon H. Avoiding Paternalism. Issues Ment. Health Nurs. 2019;40:579–584. doi: 10.1080/01612840.2019.1570405.
+173.
+Fleisje A. Four shades of paternalism in doctor–patient communication and their ethical implications. Bioethics. 2024;38:539–548. doi: 10.1111/bioe.13307.
+174.
+Pelto-Piri V., Engström K., Engström I. Paternalism, autonomy and reciprocity: Ethical perspectives in encounters with patients in psychiatric in-patient care. BMC Med. Ethics. 2013;14:49.  doi: 10.1186/1472-6939-14-49.
+175.
+Fernandez C., Kennedy H.G., Kennedy M. The recovery of factors associated with decision-making capacity in individuals with psychosis. BJPsych Open. 2017;3:113–119. doi: 10.1192/bjpo.bp.116.004226.
+176.
+Sangroula D., Mainali P., Hagi K., Peteru S. Psychiatric Illness and Medical Decision-Making Capacity: A Retrospective Study in Medical Settings. Psychiatry Int. 2020;1:115–124. doi: 10.3390/psychiatryint1020012.
+177.
+Sjöstrand M., Karlsson P., Sandman L., Helgesson G., Eriksson S., Juth N. Conceptions of decision-making capacity in psychiatry: Interviews with Swedish psychiatrists. BMC Med. Ethics. 2015;16:34.  doi: 10.1186/s12910-015-0026-8.
+178.
+Calcedo-Barba A., Fructuoso A., Martinez-Raga J., Paz S., Sánchez de Carmona M., Vicens E. A meta-review of literature reviews assessing the capacity of patients with severe mental disorders to make decisions about their healthcare. BMC Psychiatry. 2020;20:339.  doi: 10.1186/s12888-020-02756-0.
+179.
+Zimmerman M., Morgan T.A., Stanton K. The severity of psychiatric disorders. World Psychiatry. 2018;17:258–275. doi: 10.1002/wps.20569.
+180.
+Snowden L.R. Bias in mental health assessment and intervention: Theory and evidence. Am. J. Public Health. 2003;93:239–243. doi: 10.2105/AJPH.93.2.239.
+181.
+Hem M.H., Molewijk B., Pedersen R. Ethical challenges in connection with the use of coercion: A focus group study of health care personnel in mental health care. BMC Med. Ethics. 2014;15:82.  doi: 10.1186/1472-6939-15-82.
+182.
+Lessard-Deschênes C., Goulet M.H. The therapeutic relationship in the context of involuntary treatment orders: The perspective of nurses and patients. J. Psychiatr. Ment. Health Nurs. 2022;29:287–296. doi: 10.1111/jpm.12800.
+183.
+Pariseau-Legault P., Pelosse D., Bernheim E., Goulet M.H., Ouellet G., Labrecque-Lebeau L., Jacob J.D., Holmes D. When Psychiatric Services Become a Waiting Room: Situational Analysis of Involuntary Commitment and Treatment as Experienced by Patients and Nurses. Clin. Nurs. Res. 2025;34:168–178. doi: 10.1177/10547738251321067.
+184.
+Bloom S.L.  Organizational Stress and Trauma-Informed Services. In: Levin B.L., Becker M.A., editors. A Public Health Perspective of Women’s Mental Health. Springer; New York, NY, USA: 2010. pp. 295–311.
+185.
+Russo J., Wallcraft J.  Coercive Treatment in Psychiatry: Clinical, Legal and Ethical Aspects. Wiley Blackwell; Hoboken, NJ, USA: 2011. Resisting variables—Service user/survivor perspectives on researching coercion; pp. 213–234.
+186.
+Michaels J.A. Potential for epistemic injustice in evidence-based healthcare policy and guidance. J. Med. Ethics. 2021;47:417. doi: 10.1136/medethics-2020-106171.
+187.
+Anjum R.L., Christine P., Rocca E. When Patient Voices Get Lost in Evidence Hierarchies: A Testimony of Rare Adverse Events and Participatory Epistemic Injustice in Drug Safety Monitoring. Soc. Epistemol. 2025;39:187–201. doi: 10.1080/02691728.2024.2400079.
+188.
+Gardner W., Hoge S.K., Bennett N., Roth L.H., Lidz C.W., Monahan J., Mulvey E.P. Two scales for measuring patients’ perceptions for coercion during mental hospital admission. Behav. Sci. Law. 1993;11:307–321. doi: 10.1002/bsl.2370110308.
+189.
+Høyer G., Kjellin L., Engberg M., Kaltiala-Heino R., Nilstun T., Sigurjónsdóttir M., Syse A. Paternalism and autonomy: A presentation of a Nordic study on the use of coercion in the mental health care system. Int. J. Law Psychiatry. 2002;25:93–108. doi: 10.1016/S0160-2527(01)00108-X.
+190.
+Nyttingnes O., Rugkåsa J., Holmén A., Ruud T. The development, validation, and feasibility of the Experienced Coercion Scale. Psychol. Assess. 2017;29:1210–1220. doi: 10.1037/pas0000404.
+191.
+Lu J.A., Soltani S., Austin S.B., Rehkopf D.H., Lunn M.R., Langston M.E. Mental Health Disparities by Sexual Orientation and Gender Identity in the All of Us Research Program. JAMA Netw. Open. 2025;8:e2456264. doi: 10.1001/jamanetworkopen.2024.56264.
+192.
+O’Brien M., Hirschtritt M.E., Tahir P., Kalapatapu R.K. Experiences of transgender and gender diverse patients in emergency psychiatric settings: A scoping review. J. Am. Coll. Emerg. Physicians Open. 2023;4:e13018. doi: 10.1002/emp2.13018.
+193.
+Clark K.D., Jewell J., Sherman A.D.F., Balthazar M.S., Murray S.B., Bosse J.D. Lesbian, Gay, Bisexual, Transgender and Queer People’s Experiences of Stigma Across the Spectrum of Inpatient Psychiatric Care: A Systematic Review. Int. J. Ment. Health Nurs. 2025;34:e13455. doi: 10.1111/inm.13455.
+194.
+Anombem O., Arisoyin A., Okereke O., Okobi O., Mamman A., Salawu M., Oaikhena I. A Review of the Impact of Homelessness on Mental Health. J. Adv. Med. Med. Res. 2023;35:11–18. doi: 10.9734/jammr/2023/v35i175099.
+195.
+Padgett D.K. Homelessness, housing instability and mental health: Making the connections. BJPsych Bull. 2020;44:197–201. doi: 10.1192/bjb.2020.49.
+196.
+Shea T., Dotson S., Tyree G., Ogbu-Nwobodo L., Beck S., Shtasel D. Racial and Ethnic Inequities in Inpatient Psychiatric Civil Commitment. Psychiatr. Serv. 2022;73:1322–1329. doi: 10.1176/appi.ps.202100342.
+197.
+Knight S., Jarvis G.E., Ryder A.G., Lashley M., Rousseau C. Ethnoracial Differences in Coercive Referral and Intervention Among Patients With First-Episode Psychosis. Psychiatr. Serv. 2022;73:2–8. doi: 10.1176/appi.ps.202000715.
+198.
+Smith C.M., Daley L.A., Lea C., Daniel K., Tweedy D.S., Thielman N.M., Staplefoote-Boynton B.L., Aimone E., Gagliardi J.P. Experiences of Black Adults Evaluated in a Locked Psychiatric Emergency Unit: A Qualitative Study. Psychiatr. Serv. 2023;74:1063–1071. doi: 10.1176/appi.ps.20220533.
+199.
+Hamed S., Bradby H., Ahlberg B.M., Thapar-Björkert S. Racism in healthcare: A scoping review. BMC Public Health. 2022;22:988.  doi: 10.1186/s12889-022-13122-y.
+200.
+Thomeer M.B., Moody M.D., Yahirun J. Racial and Ethnic Disparities in Mental Health and Mental Health Care During the COVID-19 Pandemic. J. Racial Ethn. Health Disparities. 2023;10:961–976. doi: 10.1007/s40615-022-01284-9.
+201.
+Morrow M.  1. Morrow, M. 1 “Women and Madness” Revisited: The Promise of Intersectional and Mad Studies Frameworks. In: Marina M., Lorraine M., editors. Critical Inquiries for Social Justice in Mental Health. University of Toronto Press; Toronto, ON, Canada: 2017. pp. 31–59.
+202.
+Hirshbein L. Sex and Gender in Psychiatry: A View from History. J. Med. Humanit. 2010;31:155–170. doi: 10.1007/s10912-010-9105-5.
+
+Associated Data
+
+Supplementary Materials
+
+Data Availability Statement
+
+The original contributions presented in this study are included in the article/Supplementary Materials. Further inquiries can be directed to the corresponding author.
+

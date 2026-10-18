@@ -1,0 +1,103 @@
+{
+ "post": {
+  "_id": "muEjyyYbSMx23e2ga",
+  "title": "Scoring 2020 U.S. Presidential Election Predictions",
+  "postedAt": "2020-11-08T02:28:29.234Z",
+  "pageUrl": "https://www.lesswrong.com/posts/muEjyyYbSMx23e2ga/scoring-2020-u-s-presidential-election-predictions",
+  "commentCount": 7
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "7aGEwTm2SWxrWJqc2",
+   "parentCommentId": null,
+   "postedAt": "2020-11-08T07:36:15.486Z",
+   "baseScore": 6,
+   "user": {
+    "username": "magfrump",
+    "displayName": "magfrump"
+   },
+   "contents": {
+    "markdown": "While I realize that the PredictIt predictions don't actually have this data available, fivethirtyeight projects vote share by state. How much work do you think it would be to do an analysis that uses vote share instead of just wins by state?"
+   }
+  },
+  {
+   "_id": "RtfsXWEyKzaooiqZ9",
+   "parentCommentId": "7aGEwTm2SWxrWJqc2",
+   "postedAt": "2020-11-08T08:20:08.404Z",
+   "baseScore": 2,
+   "user": {
+    "username": "DanielFilan",
+    "displayName": "DanielFilan"
+   },
+   "contents": {
+    "markdown": "PredictIt does have this available for some states, e.g. [Pennsylvania](https://www.predictit.org/markets/detail/6941/What-will-be-the-margin-in-the-presidential-election-in-Pennsylvania)."
+   }
+  },
+  {
+   "_id": "iibA9SicAbufWE6q5",
+   "parentCommentId": null,
+   "postedAt": "2020-11-11T09:25:52.540Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Oscar_Cunningham",
+    "displayName": "Oscar_Cunningham"
+   },
+   "contents": {
+    "markdown": "Does it make sense to calculate the score like this for events that aren't independent? You no longer have the cool property that it doesn't matter how you chop up your observations.\n\nI think the correct thing to do would be to score the single probability that each model gave to this exact outcome. Equivalently you could add the scores for each state, but for each use the probability conditional on the states you've already scored. For 538 these probabilities are available via their [interactive forecast](https://projects.fivethirtyeight.com/trump-biden-election-map/).\n\nOtherwise you're counting the correlated part of the outcomes multiple times. So it's not surprising that The Economist does best overall, because they had the highest probability for a Biden win and that did in fact occur.\n\nMy suggested method has the nice property that if you score two perfectly correlated events then the second one always gives exactly 0 points."
+   }
+  },
+  {
+   "_id": "2Zzsyh4JGX3oiEYYy",
+   "parentCommentId": "iibA9SicAbufWE6q5",
+   "postedAt": "2020-11-11T10:47:27.146Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Oscar_Cunningham",
+    "displayName": "Oscar_Cunningham"
+   },
+   "contents": {
+    "markdown": "I just did the calculations. Using the interactive forecast from 538 gives them a score of -9.027; using the electoral\\_college\\_simulations.csv data from The Economist gives them a score of -7.841. So The Economist still wins!"
+   }
+  },
+  {
+   "_id": "BcLELEiuPT48QEKfJ",
+   "parentCommentId": "7aGEwTm2SWxrWJqc2",
+   "postedAt": "2020-11-11T19:14:33.026Z",
+   "baseScore": 3,
+   "user": {
+    "username": "steven0461",
+    "displayName": "steven0461"
+   },
+   "contents": {
+    "markdown": "Most closely contested states went to Biden, so vote share is more in Trump's favor than you'd expect based on knowing only who won each state, and PredictIt generally predicted more votes for Trump, so I think PredictIt comes out a lot better than 538 and the Economist."
+   }
+  },
+  {
+   "_id": "P8xgoumgCpAwAMRTa",
+   "parentCommentId": null,
+   "postedAt": "2020-11-15T23:10:30.293Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Radamantis",
+    "displayName": "NunoSempere"
+   },
+   "contents": {
+    "markdown": "[Here](https://predictingpolitics.com/2020/11/12/hindsight-is-2020) is a similar post."
+   }
+  },
+  {
+   "_id": "tftjZDMCqRLqSoW6Q",
+   "parentCommentId": "iibA9SicAbufWE6q5",
+   "postedAt": "2020-12-14T01:20:32.969Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks; you are right and the thing I originally wrote was wrong. For posterity, I added a disclaimer (sixth paragraph) that credits you and the other person who pointed this out."
+   }
+  }
+ ]
+}

@@ -1,0 +1,269 @@
+Title: "Justice, Cherryl."
+LessWrong-URL: https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl
+Posted: 2023-07-23
+Fetched: 2026-10-13 (LessWrong GraphQL API; rendered by tools/render_lw_threads.py)
+Comments: 21 (commentCount field: 21)
+
+#### [-] SarahNibs · 8 karma · 2023-07-23 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=3PkBo3zjdgTitkupB
+> collaborative truth-seeking doesn't exist. The people claiming to be collaborative truth-seekers are lying
+
+Certainly if I wanted to do some collaborative truth-seeking I would choose a partner who believed collaborative truth-seeking existed.
+
+If I didn't think the possibility for collaborative truth-seeking _with a particular individual_ existed, I would be very tempted to instead just sling gotchas at them.
+
+#### [-] Vladimir_Nesov · 44 karma · 2023-07-23 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=kFz2Ngyg3wcgEcCYu
+I think [charity as a useful skill](https://slatestarcodex.com/2013/02/12/youre-probably-wondering-why-ive-called-you-here-today/) is more about aiming to comprehend unfamiliar [frames](https://www.lesswrong.com/posts/BEB7jjxgArztnzmse/meta-rationality-and-frames) than about understanding theories or arguments or truths, or preferences for someone being right. It's about adopting a perceptual lens that puts particular priorities on paying attention to particular features of what's going on, emphasizing those features when describing things, a cognitive dialect that may go unnoticed because a person talks using the same words as you do, but that's not necessarily even *mutually intelligible* with your own thought (on some topics). It's rarely useful to think in another's cognitive dialect, but the skill can become necessary to understand what's going on and to reply in such a way that you too would more likely be understood.
+
+The use of word "charity" for this is unfortunate, as it's no more charitable than learning a foreign tongue in order to communicate with its speakers, without expecting or demanding that they learn yours instead (or even worse, trying to hold a conversation without anyone attempting a proper translation). Of course, there is no obligation to publish texts in a foreign tongue, no obligation to make yourself intelligible to others who didn't bother to learn the language you use. "Ideological Turing Test" is another related idea, but frames can be much smaller than ideologies, effective practice of charity must be nimble.
+
+#### [-] Benquo · 26 karma · 2023-07-23 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=FAdtLazLDsLH3b7db
+It's true that people who ask for "collaborative truth-seeking" are lying, but false that no one does it. Some things someone might do to try to collaborate on seeking the truth instead of pushing a thesis are:
+
+*   Active listening (e.g. trying to restate someone's claims and arguments in one's own words, especially where they seem most unclear or surprising.)
+*   Extending interpretive labor to try to infer the cause of a disagreement.
+*   Offering various considerations for how to think about a question instead of pushing a party line - and clarifying the underlying model in general terms even when one does have a clear thesis.
+
+IME people are perfectly able to distinguish this from less collaborative behavior, though some are more likely to respond strongly positively, and others are more likely to complain that the first two are "judgmental," "accusatory," or "mind-reading," and that the third is "unclear" because it doesn't include a command to endorse some particular conclusion. The second group seems like it overlaps a lot with the sorts of people who ask for the sort of "epistemic charity" you're complaining about.
+
+People who are engaged in collaborative truth-seeking are more likely to talk about or simply demonstrate specific ways to accomplish particular component truth-seeking tasks better together, which is collaborative, and less likely to complain vaguely about how you should be more "collaborative," which is not.
+
+#### [-] Adele Lopez · 5 karma · 2023-07-23 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=vD8s4GNL7FXpsjHkC
+There seems to be a straightforward meaning to "collaborative truth seeking". Consider two rational agents who have a common interest in understanding part of reality better. The obvious thing for them to do is to share relevant arguments and evidence that they have with each other, as openly, efficiently, and unfiltered-ly as possible under their resource constraints. That's the sort of thing that I see as the ideal of "collaborative truth seeking". (ETA: combining resources to gather new evidence and think up new models/arguments is another big part of my ideal of "collaborative truth seeking".)
+
+The thing where people are _attached_ to their "side", and want to win the argument in order to gain status seems to clearly fall short of that ideal, as well as introduce questionable incentives (as you point out). That's to be expected because humans, but it seems like we should still try to _do better_. And I do think humans can and do do better than this sort of attachment-based argumentation style that seems to be our native mode of dealing with belief differences, though it is hard and takes effort.
+
+That said, I agree it's suspicious when someone pulls out the "collaborative truth seeking" card in lieu of sharing evidence and arguments (_because_ it's an easy way for the attachment status motivation to come into play). I also am not particularly sold on things like the principle of charity, steelmanning, or ideological Turing tests because they often seem more like a ploy to have undue attention placed on a particular position than the actual sharing of arguments and evidence that seems to be the real principle to me.
+
+#### [-] jimrandomh · 8 karma · 2023-07-23 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=twLNegAQCtconywtA
+I think that in typical usage, "principle of charity" is conflating two things. On one hand, you have conversational skills like those described in [this comment](https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=FAdtLazLDsLH3b7db). Under this definition, saying that someone is failing to exercise the principle of charity is saying that they're navigating a conversation poorly, doing less interpretative labor than they should be.
+
+On the other hand, sometimes saying that someone is failing to exercise the principle of charity is a way of saying that they have such inaccurate priors that it's interfering with their reading comprehension. Or that they're a malicious liar who's *pretending* to have poor reading comprehension.
+
+Equivocating between these things is a way of allowing people who are failing to exercise the principle of charity (in the latter sense) to save face by only accusing them of the former. This is probably bad, though; norms against malicious misinterpretation don't seem to be adequately enforced in practice, and this is probably a contributing factor.
+
+#### [-] benwr · 13 karma · 2023-07-24 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=HQSHAKfdL8BBzgPLg
+> For contingent evolutionary-psychological reasons, humans are innately biased to prefer "their own" ideas, and in that context, a "principle of charity" can be useful as a corrective heuristic
+
+  
+I claim that the reasons for this bias are, in an important sense, not contingent. i.e. an alien race would almost certainly have similar biases, and the forces in favor of this bias won't entirely disappear in a world with magically-different discourse norms (at least as long as speakers' identities are attached to their statements).  
+  
+As soon as I've said "P", it is the case that my epistemic reputation is bound up with the group's belief in the truth of P. If people later come to believe P, it means that (a) whatever scoring rule we're using to incentivize good predictions in the first place will reward me, and (b) people will update more on things I say in the future.  
+  
+If you wanted to find convincing evidence for P, I'm now a much better candidate to find that evidence than someone who has instead said "eh; maybe P?" And someone who has said "~P" is similarly well-incentivized to find evidence for ~P.
+
+#### [-] M. Y. Zuo · 1 karma · 2023-07-24 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=CitBKp7oq3MEeAhcx
+> An unfortunate obstacle to appreciating the work of Ayn Rand (as someone who adores the ["sense of life"](http://aynrandlexicon.com/lexicon/sense_of_life.html) portrayed in Rand's fiction, while having a much lower opinion of her philosophy) is that when Rand praises selfishness and condemns altruism, she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense that doesn't match how most people would use those words.
+
+There's a deep and important point here that probably deserves it's own post.
+
+Namely, that regardless of how famous a writer is, one should always be wary of idiosyncratic definitions. 
+
+Unless they explicitly claim to adhere to a standardized dictionary definition for words, such as the OED, Merriam-Webster, etc., or explicitly enumerate their definitions ahead of time.
+
+#### [>] Going Durden · 4 karma · 2023-07-25 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=EkdrpZFwPsm6kDaq9
+In Rand's defense, she does define the terms "altruism" and "selfishness" i her works, at length, from every possible angle, at nauseam. Its impossible to read more than one page of her work and still confuse her definitions for standard ones.  
+  
+  
+The confusion usually comes up through a game of telephone, when people opposed to Objectivism comment on things written by fans of Rand, without ever actually reading the source material.
+
+#### [>>] M. Y. Zuo · 1 karma · 2023-07-31 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=am7LqkwnhdH5bLMzj
+I assume you mean "in her works", and "ad nauseam"?
+
+If so, I don't think the rate of readers who comprehend the idiosyncratic definitions are anywhere near 100% of even those who actually finish the first few chapters. 
+
+Maybe not even 90% of all readers, though of course this is just a hunch. 
+
+Just recognizing there exists some vague difference is not sufficient for comprehension. 
+
+The problem is not a purely literary issue but a logistical and logical one too, since altering even just one word is actually quite difficult, without introducing additional logical errors at least, when it's enmeshed in a work of many hundreds of thousands of words that mostly adhere to the dictionary meaning.
+
+The phenomena can even be seen on some far shorter LW posts of only a few tens of thousands of words.
+
+#### [-] Seth Herd · 7 karma · 2023-07-24 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=Ga2w3SFWTkWFryhew
+I found this immensely clarifying WRT the appeal of Rand's philosophy. It would be better stated as "the virtue of honest selfishness". Thank you!
+
+
+That said, I think you're making the same logical error that Rand and Objectivists often make, which is putting things into categories that truly exist on a spectrum.
+
+Every human being is selfish, but most are also altruistic some of the time, toward some people.
+
+Every human being wants to be right, but most are also doing collaborative truth seeking some of the time, to some degree.
+
+
+As an aside, another problem with obviously wanting to be right is that it's simply irritating. Humans don't form their beliefs purely through logic; their emotional biases come into play. When you irritate your audience, you're making it hard for the to believe your true claims. The emotional biases of rationalists often align with truth-seeking, but we're still vulnerable to being irritated out of believing the truth.
+
+#### [>] Going Durden · 8 karma · 2023-07-25 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=ZC9m8GwycGxMnhwXA
+> Every human being is selfish, but most are also altruistic some of the time
+
+  
+What, in your estimation, would be a difference between actual altruism, and "altruism" done for the sake of selfish emotional fuzzies?  
+  
+Lets say I pass a beggar on the street. If I give him a dollar because he needs it, its altruism. If I give him a dollar because I want to feel like Im a Good, Charitable Guy, and genuinely enjoy his thanks, then its selfishness.  
+  
+About the only true altruism I can think of that is not essentially a form of egoism, is when you absolutely HATE the fact that you act charitable, and get zero pleasure from it, not even masochistically. If you so much as get a single second of warm fuzz in your heart from your charitable act, thats just roundabout selfishness. If you pay the beggar 1$ and then feel emotionally better, he is essentially your low-budget therapist, and you just performed a completely selfish act of capitalist exchange.
+
+#### [>>] Seth Herd · 2 karma · 2023-07-25 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=GbW5bhoHEe9tNGTfw
+When I say that people are altruistic, I mean they do it for the internal warm fuzzies.
+
+You can call it a form of egoism, but it still does the exact same good in the world and is as trustworthy as if it were real in some deeper sense (although I don't think there actually is a deeper sense when you go digging through it).
+
+It is trustworthy and genuine in that some people are wired to get more warm fuzzies, and to know they do, so they reliably act charitable. It's sort of a capitalistic exchange, but it's not carefully considered in the way that would imply.
+
+This, along with honesty and I'm sure some other stuff, is what we call "being a good person" and it is pragmatically useful because it gets you loyal friends. That's why it's built into most humans at an instinctive level. We can choose whether to cultivate or suppress this instinct and so to become more selfish or more altruistic.
+
+#### [-] [deleted user] · 12 karma · 2023-07-25 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=Mh4M3zPW5DC2E8JmD
+I think you have profoundly misunderstood Ayn Rand's novels. The position you attribute to her, that even self-proclaimed altruists are secretly selfish, is known as descriptive egoism and is something Ayn Rand fervently disagreed with. Her refutation of this view is actually a major part of both The Fountainhead and Atlas Shrugged.
+
+There's a moment where James Taggart realizes that he was never motivated by material greed:
+
+> It was not the knowledge of his indifference to money that now gave him a shudder of dread. It was the knowledge that he would be equally indifferent, were he reduced to the state of the beggar. There had been a time when he had felt some measure of guilt—in no clearer a form than a touch of irritation—at the thought that he shared the sin of greed, which he spent his time denouncing. Now he was hit by the chill realization that, in fact, he had never been a hypocrite: in full truth, he had never cared for money. This left another hole gaping open before him, leading into another blind alley which he could not risk seeing.
+
+What this is getting at is that wealth was merely a means for him to achieve admiration in the eyes of others. While this may still seem selfish, the key realization here is that what he sought admiration for was not his real self, but a facade that was constructed specifically for the purpose of being liked and admired, and which was shaped on the basis of the ideals of others rather than his own ideals. That is, he wishes for others to like not his true self, but the character he has constructed in reverence to their values and prejudices, not even his own.
+
+Here's a second quote where Howard Roark reflects on Peter Keating's life:
+
+> "I’ve looked at him--at what’s left of him--and it’s helped me to understand. He’s paying the price and wondering for what sin and telling himself that he’s been too selfish. In what act or thought of his has there ever been a self? What was his aim in life? Greatness--in other people’s eyes. Fame, admiration, envy--all that which comes from others. Others dictated his convictions, which he did not hold, but he was satisfied that others believed he held them. Others were his motive power and his prime concern. He didn’t want to be great, but to be thought great. He didn’t want to build, but to be admired as a builder. He borrowed from others in order to make an impression on others. There’s your actual selflessness. It’s his ego he’s betrayed and given up. But everybody calls him selfish."
+
+You can of course agree or disagree with the reasoning, but she is pretty unambiguously repudiating descriptive egoism.
+
+Ayn Rand's theory of narcissism is that it stems from a lack of confidence in one's ability to survive / thrive independently, so that popularity becomes vitally necessary for one's flourishing. A person confident that he can "make it", in some sense, "on his own" will have a tendency to only care about the opinions of people whose judgements he respects. Compare the following quote from Harry Potter and the Methods of Rationality:
+
+> "I don't know how to explain to you," Hermione said in a sad soft voice. "I'm not sure it's something you could ever understand, Harry. All I can think of to say is, how would you feel if *I* thought you were evil?"
+> 
+> "Um..." Harry visualized it. "Yeah, that *would* hurt. A lot. But you're a good person who thinks about that sort of thing intelligently, you've *earned* that power over me, it would *mean* something if you thought I'd gone wrong. I can't think of a single other student, besides you, whose opinion I'd care about the same way -"
+
+(Incidentally, I think Yudkowsky is a lot more influenced by Ayn Rand than he realizes and/or is willing to admit)
+
+Ayn Rand's position is that people are usually born with a certain love of life and confidence in themselves and eagerness to face the world. Some of them lose this, and acquire a feeling of helpless dependence on others, which in turn leads them to value popularity to an unhealthy extent, leading to a narcissism that erodes their sense of self as they more and more habituate to performing a character act shaped according to the values, prejudices, and whims of others. 
+
+For this reason, the Danish translation of The Fountainhead has a title which literally means "only a strong person is free". She would almost certainly have been infuriated at this title, but I think it actually fits pretty well with her view.
+
+#### [>] Zack_M_Davis [AUTHOR] · 17 karma · 2023-07-27 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=GTjhXovJFDyrg5ziP
+You're correct to notice that this post is definitely a [Death of the Author](https://tvtropes.org/pmwiki/pmwiki.php/Main/DeathOfTheAuthor) take; I agree that Rand wouldn't endorse my interpretation of her work.
+
+That said, I don't think I'm arguing for descriptive egoism! I'm not just pointing out that Taggart and Boyle's luxury consumption and corrupt profiteering look conventionally selfish (even though Rand thinks these behaviors stem from a deep selflessness). I'm also pointing out that Rearden further burdening himself to help Mr. Ward (or Dagny supporting Cherryl, or Galt risking himself to protect Dagny, or Roark paying Mallory's rent, _&c._) looks conventionally altruistic (even though Rand wouldn't use that word).
+
+The fact that Rand's concepts (_e.g._, altruism as sacrifice of values) differ from more conventional concepts that use the same words (_e.g._, [altruism](https://en.wiktionary.org/wiki/altruism) as benefitting other people) is lampshaded twice in _The Fountainhead_. In a conversation between Keating and Roark:
+
+> "[...] But egotists are not kind. And you are. You're the most egotistical and kindest man I know. And that doesn't make sense."
+>
+> "Maybe the concepts don't make sense. Maybe they don't mean what people have been taught to think they mean [...]"
+
+And between Wynand and Roark:
+
+> "You made a mistake on the Stoddard Temple, Howard. That statue should have been, not of Dominique, but of you."
+>
+> "No. I'm too egotistical for that."
+>
+> "Egotistical? An egotist would have loved it. You use words in the strangest way."
+>
+> "In the exact way. I don't wish to be the symbol of anything. I'm only myself."
+
+I interpret Roark's remark that "maybe the concepts don't make sense" as amounting to the claim that conventional usage of "selfish" as self-benefitting and "altruism" as other-benefitting, doesn't [carve the reality](https://www.lesswrong.com/posts/esRZaPXSHgWzyB2NL/where-to-draw-the-boundaries) of human psychology at the joints: benevolence towards others flows out of shared values; unconditional regard others-in-general is unnatural. (See also the @InstanceOfClass epigraph at the top of the post.)
+
+#### [>>] pjeby · 6 karma · 2023-07-28 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=Cmgk6W2g8zWGzQD3N
+> Benevolence towards others flows out of shared values; unconditional regard others-in-general is unnatural.
+
+Now there's a nice quotable quote.  I don't think it's entirely accurate, unless people with certain kinds of lobe damage or meditation history count as "unnatural".  (Which I suppose they could.)  On the other hand, those people arguably have brains that define others *as* themselves, and thus having shared values with said ohters as a matter of course.  (Or alternately, I suppose they have a very expansive definition of "shared values".)
+
+But as a truism or proverb, this makes a lot of sense, and should be helpful to people who suffer from feeling like they *should* care more about others-in-general.  Knowing that caring spreads by way of shared values makes it possible to find the caring one already has, before trying to extend it further.  (Rather than constantly going to a well you're told should be full, and always finding it dry.)
+
+#### [>>] [deleted user] · 5 karma · 2023-08-01 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=9yc5LuBxL2rWpCYCk
+The term "altruism" was at the time of The Fountainhead's writing — or at least at the time of Ayn Rand's youth — used in a much stronger sense than it is now, referring not only to a disposition towards charity, but to something more along the lines of what we'd now describe as selflessness. Since then, memes favourable to self-affirmation have entered the dominant culture from the integration of sexual minorities and especially the black gay scene. Thus, the apparent discrepancy in vocabulary is to at least a certain extent a generational gap.
+
+Setting that aside, I think there is an important distinction between having unnatural categories that lump completely separate phenomena together and having coherent categories that are systematically being used as smears in a case they don't properly refer to. If for example some culture is in the habit of referring to atheists as idiots, it does not mean they are using the word "idiot" in a sense that conflates these two phenomena, but simply that they are trying to insult atheists.  
+  
+While that distinction is obvious in this case, I do believe it is often accidentally erased in the name of linguistic descriptivism. The meaning of a word is not merely how it is commonly used, but what people intend to convey by it. When people accuse someone of selfishness, they really do mean someone who is highly egocentric and doesn't care about other people. In Ayn Rand's time, it was of course used somewhat more broadly, since it was also considered selfish to care about your own friends, your own family etc. more than your fellow countrymen or indeed the whole human race.  
+  
+Howard Roark's line there is indeed alluding to the tendency of people to conflate selfishness with narcissism, which does constitute failure to carve reality along the joints, but a similar conversation with Gail Wynand clearly implies that Roark believes this unnatural category stems from people being mistaken about the psychology behind narcissism. Ayn Rand's position is that people have a profound antipathy towards selfishness as she uses the term, much more so than they do towards narcissism of the Peter Keating variety, and that when they do on occasion want to decry narcissism, they do it by associating it with selfishness.
+
+#### [-] MondSemmel · 14 karma · 2023-07-29 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=kXquK5FfzjKPmpLTQ
+Thinking back to the LW moderation kerfuffle from the start of the year, I think this post clarified the nature of the conflict a bit better for me, and I appreciate that.
+
+#### [-] Thenamelessone · 22 karma · 2023-08-02 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=H52JqmwoDbBrfCnEj
+As a neo-objectivist, I will try to address your confusion, as this also confused me in the past. The core problem is the difference between the concepts of altruism and benevolence. **Altruism** is an ethical code that advocates sacrificing one's self-interest for the welfare of others, considering it the standard of the good. On the other hand, **Benevolence** is the virtue of being selectively kind and respectful to others according to egoistic consideration by desiring their well-being to obtain a peaceful, cooperative relationship with them. While both concepts involve consideration for others, benevolence is fundamentally different from altruism as it does not require sacrificing one's values or living for the approval of others; benevolence is an 'otherness' that is mutually beneficial to the self and one's happiness according to one's values, done without guilt or pity.
+
+In your essay, you discuss examples of benevolent actions that might appear to lack direct compensation but are actually motivated by individuals recognizing positive aspects of themselves in others and desiring a relationship with them, even without immediate benefits.
+
+The confusion between benevolence and altruism is quite common among readers of Ayn Rand as she never wrote an essay on the subject, only briefly mentioning how altruism was not benevolence, such as in a 1964 Playboy interview: 
+
+> "It is altruism that has corrupted and perverted human benevolence by regarding the giver as an object of immolation, and the receiver as a helplessly miserable object of pity who holds a mortgage on the lives of others—a doctrine which is extremely offensive to both parties, leaving men no choice but the roles of sacrificial victim or moral cannibal."
+
+Ayn Rand does not directly elaborate on this distinction because she contextualizes them under the framework and virtue of justice and judging when to provide charity. Her own standard provides insight into benevolence:
+
+> "The proper method of judging when or whether one should help another person is by reference to one’s own rational self-interest and one’s own hierarchy of values: the time, money or effort one gives, or the risk one takes should be proportionate to the value of the person in relation to one’s own happiness. To illustrate this on the altruists’ favorite example: the issue of saving a drowning person. If the person to be saved is a stranger, it is morally proper to save him only when the danger to one’s own life is minimal; when the danger is great, it would be immoral to attempt it: only a lack of self-esteem could permit one to value one’s life no higher than that of any random stranger. (And, conversely, if one is drowning, one cannot expect a stranger to risk his life for one’s sake, remembering that one’s life cannot be as valuable to him as his own.) If the person to be saved is not a stranger, then the risk one should be willing to take is greater in proportion to the greatness of that person’s value to oneself. If it is the man or woman one loves, then one can be willing to give one’s own life to save him or her – for the selfish reason that life without the loved person could be unbearable.
+
+David Kelley also delves deeper into this subject in his book 'The Unrugged Individualism' and in his talks on justice and benevolence, which you can watch here.
+
+  
+Another misunderstanding is that, as you note, Ayn Rand does not use selfishness the same way conventional people do, which makes understanding her a bit annoying, but this seems to be more of a failing on your end than hers, as she makes this point *very* clear in The Fountainhead and Atlas Shrugged. As Kalciphoz's comments pointed out, her villains are selfless because they have no sense of self, and while their actions might seem to benefit them, they are living for others. I brought up the concept of benevolence because you can mentally replace altruism with benevolence, and it would solve your mental contradiction; this need for another word of 'otherness' that is similar to altruism but isn't altruism seems to be the key problem in your mind.  
+
+Tying it back to fiction: Ayn Rand's heroes never surrender a greater value for the sake of a lesser one or of a nonvalue, but they always act selectively kind and respectful to others according to egoistic consideration by desiring their well-being to obtain a peaceful, cooperative relationship with them. Don't be an altruist, be benevolent towards others you value and see value in because it ties back to your own happiness.
+
+#### [-] Viliam · 13 karma · 2023-08-03 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=LoY9aCBvdTbA8b6u3
+> she's using the words "selfishness" and "altruism" in her own idiosyncratic ideological sense that doesn't match how most people would use those words.
+
+I think the word "altruism" was defined by A.Comte in the way Rand uses it. (In the dark sense, where the altruism is measured by how much you hurt yourself, and where helping others because you *enjoy* helping is dismissed as insufficiently noble.) And then most people started using "altruism" as a synonym for helping others. So now, when you discuss philosophy, you are stuck in a motte-and-bailey situation.
+
+> Hank Rearden rearranges his production schedule (at a critical time when he could scarcely afford to do so) in order to sell steel to a Mr. Ward, who needs the steel to save his family business (but doesn't see Rearden as obligated to help him). Rearden's motive is pure benevolence: "It's so much for him, thought Rearden, and so little for me!"
+
+This makes mathematical sense from the perspective of *utility function*. I am not a psychopath, so the well-being and suffering of other people is included in my utility function.
+
+From that perspective, I could call helping others a "selfish" action, because it is *my* utility function that I am increasing (and also their utility functions, but that is coincidental). So it's just a question of how much something increases my utility function, and how much does it cost me. Watching you eat a cake increases my utility function less than if I ate that cake myself in the same situation, but it increases it by a non-zero amount nonetheless. So if the cake is cheap, it makes perfect "selfish" sense to give it to you. Even if the cake is quite expensive, but you are e.g. starving and it saves your life. Or if you provide value for me, either by mutually beneficial interaction, or by writing articles that I enjoy, then giving you the cake is an investment in that value.
+
+In other words, the difference between "the world where Mr. Ward's family business survives" and "the world where it does not" is greater -- from the perspective of Rearden's utility function -- than the expected costs of rearranging his production schedule. A perfectly "selfish" reason to help, even at a cost to yourself.
+
+> The villains want to wield power by means of psychological manipulation, guilt-tripping and blackmailing the people who *can* do good work into serving their own parasites and destroyers.
+
+Sometimes the libertarian(?) ethics is simplified as "do not initiate force or fraud against others", and I think the thing that Rand tries so hard to explain is how this psychological manipulation is a form of *fraud*; less direct but not less harmful than usual fraud, because it is often greater in scope. By giving you a fake coin, I can steal a limited amount of product from you; by giving you a fake philosophy, I can redirect your entire life's effort into something useless or harmful -- and yet the former is clearly recognized as a crime, but the latter is not.
+
+> Furthermore, I know that "winning" a debate via sophistry and rhetorical tricks obviously "doesn't count." Maybe I could fool an undiscriminating audience, but *I* would know it wasn't real.
+
+Yes, but maybe you underestimate your ability to fool yourself. Of course, if you know that X is false, but you convince other people about X, your victory will feel empty. But if you could cleverly prevent yourself from finding out that X is false...
+
+I guess the accusation is not that you are lying, but that you are engaging in behaviors that minimize your chances of figuring out when you are wrong. Which is a way to have undeserved victories without them feeling hollow.
+
+#### [-] tailcalled · 4 karma · 2024-04-21 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=EWaqd3ixP39NCgwu8
+You're wrong about the dynamic portrayed in The Fountainhead. I suspect you might also be wrong about the dynamic portrayed in the other of Ayn Rand's books, though I don't know for sure as I haven't read them.
+
+Intuitively, you'd measure altruism by the sum of one's contributions over all the people one is contributing to. In practice, you could measure this by wealth (which'd seem sensible because people pay for what they want), unique regard for the poor and weak (also would seem sensible because the poor and weak have less resources to communicate their needs) and reputation (also would seem sensible because of Aumann's agreement theorem). But then Ayn Rand shows conditions where these seemingly-sensible measurements fail catastrophically.
+
+Consider, for instance, the case of Gail Wynand; he sought wealth, thinking it would grant him power. But because economic inequality was relatively low, the only way to earn wealth is to appeal to a lot of people, i.e. he had to be high in the preference ranking obtained by summing many different people's preference rankings together.
+
+If you sum together a bunch of variables, the resulting scores will become an extremely accurate measure of the general factor(s) which contribute positively to all of these variables. Because it is the general factor shared across common people, you could abstract this as "the common man". In seeking wealth, one becomes forced to follow this general factor, as Gail Wynand did.
+
+Now, what is this general "the common man" factor? It's people's opinions, based on whatever they care about, from sex to justice to whatever. But notably, nobody has time to get properly informed about everything, and a lot of people don't have the skills to make sound judgments on things, so the the general factor underlying people's opinions consists of the most superficial, ignorant positions people could take.
+
+Gail Wynand sought wealth because he thought it would grant him power to escape the control of the common man. However, the only way to gain and keep wealth was to submit absolutely to the common man's judgement, as he found out the hard way.
+
+Now let's go back to Peter Keating. A major theme of the book is that there were two things he was torn between seeking; his own desires (especially Catherine Halsey but also to some extent his own passions in painting and in architecture) versus his reputation (among strangers, though the book shows how his mother kept particular tabs on it).
+
+The issue Peter Keating faced wasn't that he liked honestly-earned wealth and disliked dishonestly-earned wealth. It was partly the same as that of Gail Wynand - that reputation is based on people's most superficial, ignorant judgments. But it was deeper than that, because Gail Wynand had an awareness that people's judgments were trash and mostly let them judge him as being trash, whereas Peter Keating respected their judgments and tried to change himself to fit their judgments.
+
+I think this may have lead him to practice dissociating from his own desires and instead go with other's judgement. Though I don't remember reading much of this process in the story, perhaps because it was already far along in the beginning of the story (as shown with his relationship with his mother). Either way, we see how despite liking Catherine Halsey, he ends up getting married to Dominique Francon (who he's also attracted to, but differently), under the assumption that this is better for his reputation.
+
+But the problem was, there was an endless line of men aiming to impress Dominique Francon by deferring to her desires and by building a strong reputation. If Dominique really wanted that, then Peter Keating would have had much tougher competition than he really had. But instead what Dominique wanted was someone who had his own strength in judgment, and while Peter Keating showed some potential in that (at least in recognizing the social game and standing up to her jabs), he eventually degenerated fully into just deferring to social judgments, and Dominique lost interest in him.
+
+And ultimately this was also the way Peter Keating lost everything else. In competing for bending to other's judgment, there were younger people with less historical baggage who could do so better. He wasn't particularly good at anything, and so he ended up supporting and building his life around an ideology which said that being good is evil, such that his lack of goodness became a virtue.
+
+> *That's* the distinction between Rand's heroes and villains. The heroes want to get rich *by means of* doing genuinely good work that other people will have a genuine self-interest in paying for. The villains want to wield power by means of psychological manipulation, guilt-tripping and blackmailing the people who *can* do good work into serving their own parasites and destroyers.
+
+One important thing to notice is that Howard Roark used some means that would be considered quite immoral by ordinary standards. He blew up the Cortlandt, he raped Dominique Francon (sort of, it seems to me that Ayn Rand has a strange understanding of rape, but that's beside the point), he poached Austen Heller from John Erik Snyte, and he often socially put people in situations he knew they could not handle.
+
+The difference between Howard Roark and Peter Keating isn't that Howard Roark wants to use good means and Peter Keating wants to use scummy means. The difference is that Howard Roark has a form of [contribution](https://sarahconstantin.substack.com/p/contribution) that he cares about making and which he himself is able to judge the quality of, whereas Peter Keating doesn't chase much object-level preference himself, but instead tries to be good as per other's judgment.
+
+> Something people have occasionally noticed about my intellectual style is that I like to win arguments. I take pride and pleasure in pointing out flaws in other people's work in the anticipation of the audience appreciating how clever I am for finding the hole in someone's reasoning.
+> 
+> ...
+> 
+> Overall, when I look at the world of discourse I see, the moral I draw is not that that collaborative truth-seeking is bad.
+> 
+> It's that collaborative truth-seeking *doesn't exist*. The people claiming to be collaborative truth-seekers are *lying*. Given that everyone wants to be seen as right, the question is: are you going to try to be seen as right by means of providing valid evidence and reasoning, or by—other means?
+> 
+> Or to put it another way: the commenter who admits they care for status is all right. They're usually worth the status they earn. They won't lie for it. They don't have to. But watch out for the commenter who yells too loudly how much they scorn status. [Watch out particularly](https://www.lesswrong.com/posts/jrLkMFd88b4FRMwC6/don-t-double-crux-with-suicide-rock) for the one who yells that others must scorn it. They're after something much worse than status.
+
+This seems more similar to Peter Keating than to Howard Roark. Perhaps most similar to Gail Wynand, except Gail Wynand at least had a sort of contempt for their judgment. You'd still be dancing for the judgment of people who are not really paying attention.
+
+#### [-] Ben Pace · 2 karma · 2024-12-16 · https://www.lesswrong.com/posts/vfjptEJ2oahLqRyZz/justice-cherryl?commentId=HPvdbRAGCpxKaMD72
+I appreciated reading this layout of a perspective for uncollaborative truth-seeking discourse, even though I disagree with many parts of it. I'll give it a positive vote here in the last two hours of the nominations period, I hope someone else gives it one too.
+

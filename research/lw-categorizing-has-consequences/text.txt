@@ -1,0 +1,221 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Categorizing Has Consequences
+
+Eliezer Yudkowsky19 Feb 2008 1:40 UTC
+85 points
+13 comments3 min readLW linkArchive
+Philosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Among the many genetic variations and mutations you carry in your genome, there are a very few alleles you probably know—including those determining your blood type: the presence or absence of the A, B, and + antigens. If you receive a blood transfusion containing an antigen you don’t have, it will trigger an allergic reaction. It was Karl Landsteiner’s discovery of this fact, and how to test for compatible blood types, that made it possible to transfuse blood without killing the patient. (1930 Nobel Prize in Medicine.) Also, if a mother with blood type A (for example) bears a child with blood type A+, the mother may acquire an allergic reaction to the + antigen; if she has another child with blood type A+, the child will be in danger, unless the mother takes an allergic suppressant during pregnancy. Thus people learn their blood types before they marry.
+
+Oh, and also: people with blood type A are earnest and creative, while people with blood type B are wild and cheerful. People with type O are agreeable and sociable, while people with type AB are cool and controlled. (You would think that O would be the absence of A and B, while AB would just be A plus B, but no...) All this, according to the Japanese blood type theory of personality. It would seem that blood type plays the role in Japan that astrological signs play in the West, right down to blood type horoscopes in the daily newspaper.
+
+This fad is especially odd because blood types have never been mysterious, not in Japan and not anywhere. We only know blood types even exist thanks to Karl Landsteiner. No mystic witch doctor, no venerable sorcerer, ever said a word about blood types; there are no ancient, dusty scrolls to shroud the error in the aura of antiquity. If the medical profession claimed tomorrow that it had all been a colossal hoax, we layfolk would not have one scrap of evidence from our unaided senses to contradict them.
+
+There’s never been a war between blood types. There’s never even been a political conflict between blood types. The stereotypes must have arisen strictly from the mere existence of the labels.
+
+Now, someone is bound to point out that this is a story of categorizing humans. Does the same thing happen if you categorize plants, or rocks, or office furniture? I can’t recall reading about such an experiment, but of course, that doesn’t mean one hasn’t been done. (I’d expect the chief difficulty of doing such an experiment would be finding a protocol that didn’t mislead the subjects into thinking that, since the label was given you, it must be significant somehow.) So while I don’t mean to update on imaginary evidence, I would predict a positive result for the experiment: I would expect them to find that mere labeling had power over all things, at least in the human imagination.
+
+You can see this in terms of similarity clusters: once you draw a boundary around a group, the mind starts trying to harvest similarities from the group. And unfortunately the human pattern-detectors seem to operate in such overdrive that we see patterns whether they’re there or not; a weakly negative correlation can be mistaken for a strong positive one with a bit of selective memory.
+
+You can see this in terms of neural algorithms: creating a name for a set of things is like allocating a subnetwork to find patterns in them.
+
+You can see this in terms of a compression fallacy: things given the same name end up dumped into the same mental bucket, blurring them together into the same point on the map.
+
+Or you can see this in terms of the boundless human ability to make stuff up out of thin air and believe it because no one can prove it’s wrong. As soon as you name the category, you can start making up stuff about it. The named thing doesn’t have to be perceptible; it doesn’t have to exist; it doesn’t even have to be coherent.
+
+And no, it’s not just Japan: Here in the West, a blood-type-based diet book called Eat Right 4 Your Type was a bestseller.
+
+Any way you look at it, drawing a boundary in thingspace is not a neutral act. Maybe a more cleanly designed, more purely Bayesian AI could ponder an arbitrary class and not be influenced by it. But you, a human, do not have that option. Categories are not static things in the context of a human brain; as soon as you actually think of them, they exert force on your mind. One more reason not to believe you can define a word any way you like.
+
+What links here?
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+“Flinch­ing away from truth” is of­ten about *pro­tect­ing* the epistemology by AnnaSalamon (20 Dec 2016 18:39 UTC; 248 points)
+
+In praise of fake frameworks by Valentine (11 Jul 2017 2:12 UTC; 130 points)
+
+If Clar­ity Seems Like Death to Them by Zack_M_Davis (30 Dec 2023 17:40 UTC; 51 points)
+
+The Na­ture of Logic by Eliezer Yudkowsky (15 Nov 2008 6:20 UTC; 43 points)
+
+Sur­face Analo­gies and Deep Causes by Eliezer Yudkowsky (22 Jun 2008 7:51 UTC; 40 points)
+
+Agree­ing With Stalin in Ways That Ex­hibit Gen­er­ally Ra­tion­al­ist Principles by Zack_M_Davis (2 Mar 2024 22:05 UTC; 35 points)
+
+Zack_M_Davis's comment on Feed­back Re­quested! Draft of a New About/​Wel­come Page for LessWrong by Ruby (1 Jun 2019 2:49 UTC; 34 points)
+
+Fuzzy Boundaries, Real Concepts by orthonormal (7 May 2018 3:39 UTC; 28 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+Failing safely is the anomaly by Andrew Vlahos (25 Jul 2021 4:56 UTC; 17 points)
+
+Grognor's comment on Cult im­pres­sions of Less Wrong/​Sin­gu­lar­ity Institute by John_Maxwell (15 Mar 2012 4:18 UTC; 13 points)
+
+DaFranker's comment on The Won­der of Evolution by Eliezer Yudkowsky (31 Oct 2012 15:30 UTC; 11 points)
+
+How A Highly Sen­si­tive Per­son Sees Words by LightStar (28 Jan 2022 3:16 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+[SEQ RERUN] Cat­e­go­riz­ing Has Consequences by MinibearRex (2 Feb 2012 4:45 UTC; 7 points)
+
+MixedNuts's comment on LW sys­temic bias: US centrism by lucidfox (21 Jul 2011 18:55 UTC; 6 points)
+
+Julian Bradshaw's comment on Ju­lian Brad­shaw’s Shortform by Julian Bradshaw (19 Sep 2026 5:24 UTC; 3 points)
+
+hogwash9's comment on Feed­back for learning by KatjaGrace (2 Feb 2021 22:15 UTC; 3 points)
+
+Julian Bradshaw's comment on Ju­lian Brad­shaw’s Shortform by Julian Bradshaw (19 Sep 2026 5:16 UTC; 2 points)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (18 Oct 2011 4:56 UTC; 2 points)
+
+[deleted]'s comment on By Which It May Be Judged by Eliezer Yudkowsky (14 Dec 2012 13:54 UTC; 2 points)
+
+MichaelA's comment on Risk and un­cer­tainty: A false di­chotomy? by MichaelA (19 Jan 2020 2:51 UTC; 1 point)
+
+Vladimir_Nesov's comment on Re­vis­it­ing tor­ture vs. dust specks by cousin_it (9 Jul 2009 10:01 UTC; 0 points)
+
+Eliezer Yudkowsky19 Feb 2008 1:40 UTC
+85 points
+13 comments3 min readLW linkArchive
+Philosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: Fal­la­cies of CompressionNext: Sneak­ing in Connotations
+
+Psy-Kosh 19 Feb 2008 2:06 UTC
+2 points
+
+0
+
+ponders Just a thought for a possilbe start to a reasonable protocol for such an experiment:
+
+Maybe something like having the subjects themselves create the categories instead of giving it to them? What I mean is this: You’d have, some set of plants (or whatever objects) and a group of test subjects. Then have each subject independantly produce a category. That is, tell them to select X plants at random and give a made up name to that group.
+
+Several possible ways to deal with those that have been assigned to multiple categories. One way may be to remove each such entity. Other would simply be to give those a name somehow constructed from the names of the categories they’re made of. Alternately, invent a new artificial category, like the “2 cat” category, the “3 cat” category, etc...
+
+(This is just a bit if a fuzzy idea, not a full experimental protocol or anything, just a notion of a starting point for one)
+
+Acheman2 19 Feb 2008 3:08 UTC
+8 points
+
+0
+
+Nice article, marred by the inaccurate presentation of maternal-fetal immune reaction. Most severe allergic reactions to the child have to do with Rhesus type, not ABO type. ABO reactions are rarely serious, and could only occur in a type O mother, because it’s type Os who have the anti-A and anti-B antibodies in their blood serum. Irrelevant sidenote: they made a similar mistake on ‘House’ recently.
+
+Eliezer Yudkowsky 19 Feb 2008 3:21 UTC
+3 points
+
+0
+
+Acheman, corrected.
+
+Tom_McCabe2 19 Feb 2008 5:01 UTC
+3 points
+
+0
+
+“Or you can see this in terms of the boundless human ability to make stuff up out of thin air and believe it because no one can prove it’s wrong.”
+
+Suppose that, on a tour of a Mad Scientist’s Lab (tm), you see an object apparently floating in midair. You walk around it, and you determine that there are no structural supports, hidden wires, or air currents holding it up. And it’s still, say, 1900, well before magnetic levitation and so forth are well known. The two alternatives you’ve expounded on before are:
+
+Make up a theory out of thin air and whatever physics knowledge you possess. The theory must, obviously, predict levitation in this instance, but it should also predict a whole bunch of other phenomena, a great deal of which won’t be testable. If the theory gains any notoriety, it will probably be hijacked by crackpots in precisely this manner.
+
+Declare the matter a mystery, beyond the ability of present-day science to solve. This runs into the problem of people worshipping sacred mysteries.
+
+Is there another alternative that has a better chance of finding the correct explanation?
+
+DanielLC 2 Feb 2012 5:27 UTC
+19 points
+
+0
+Parent
+
+Declare the matter a mystery beyond your ability to solve. Find some physicists, and ask them if it’s beyond present-day physics. If it is, let them do science. Very little is beyond science. They’ll work it out eventually. It might not be present day anymore, but they’ll work it out.
+
+Roland2 19 Feb 2008 6:38 UTC
+3 points
+
+0
+
+Tom McCabe:
+
+3rd alternative: analyse more and/​or try to gather more evidence before proposing any solution/​theory to the mystery.
+
+Roland2 19 Feb 2008 6:51 UTC
+3 points
+
+0
+
+As Eliezer wrote:
+http://​​lesswrong.com/​​lw/​​ka/​​hold_off_on_proposing_solutions/​​
+
+Benquo 19 Feb 2008 18:14 UTC
+2 points
+
+0
+
+I thought Mr. McCabe was suggesting that holding off has a tendency to blur into worshiping the mystery. If so, I think the solution may just be to be extra special careful not to do that.
+
+Amanojack 11 Mar 2010 18:04 UTC
+5 points
+
+0
+
+The ideas you’re touching on in this and related posts are probably the most important and most overlooked because they’re not all that “sexy.” These are the kinds of errors made in nearly every utterance and nearly every thought.
+
+A1987dM 4 Feb 2012 11:28 UTC
+9 points
+
+0
+
+Does the same thing happen if you categorize plants, or rocks, or office furniture? I can’t recall reading about such an experiment
+
+IIRC, there were experiments which showed that native speakers of languages with grammatical genders tend to assign stereotypical-man-like features to objects the noun for which is grammatically masculine and stereotypical-woman-like features to objects the noun for which is grammatically feminine.
+
+Scrabbler 15 Apr 2012 16:20 UTC
+10 points
+
+0
+
+“Thus people learn their blood types before they marry”
+
+should be
+
+“Thus people aware of this problem learn their blood types before they deliberately attempt to conceive”
+
+unless it was a statement designed to provoke exactly this analysis. ;)
+
+Benevolence 12 Jul 2012 2:15 UTC
+0 points
+
+0
+
+I think the oddness of this fad can be described by its link to the “science” literary genre.
+
+I heard about this theory a few years ago, and looked it up on the internet, where i promptly found out it was just a myth. however at first i believed it. And i had a decent reason to do so.
+
+I didn’t know a lot about genetics (not that i do now lol). It seemed entirely reasonable that the genetics that determined your blood type would at least give a predisposition for a persons personality to slide in a certain direction from the norm.
+
+This myths popularity can probably be explained by its believability. Only people doing further research would find out its a myth. Most would likely believe it on the spot and be satisfied because it sounds like something that came from doctors and scientists.
+
+It may be that the original myth came about because of someone LOOKING for differences between labelled groups, but honestly it kind of makes sense to do this when those labels represent physical differences in genetics.
+
+Theres a good reason human pattern-recognition runs in overdrive. Its damn useful.
+
+As long as you’re not trying to force yourself to find similarities, but just looking (even if its just for curiosity), I don’t see the problem with trying to find similarities between different groups (labelled or otherwise). After all, so often, those similarities exist, and are very interesting. Especially where humans and psychology are concerned, if that kind of thing tickles your fancy as it does mine.
+
+ScottMcGreal 28 Jul 2015 10:28 UTC
+8 points
+
+0
+
+“The stereotypes must have arisen strictly from the mere existence of the labels.”
+Actually, there is an interesting history to where these (completely bogus) stereotypes came about. Wikipedia has an article on this that explains the historic roots of this fad in racism and politics. For example, Japan had a political conflict with Taiwan, and someone noticed that Taiwanese people are predominantly type O. He therefore argued that “Taiwanese rebelliousness” was genetically determined and that blood type was a marker of this. Clearly this is pattern recognition gone wild, but there was an actual political agenda motivating this false pattern recognition. Therefore, the blood type fad did not originate “strictly from the mere existence of the labels.” Of course it is possible that the fad has persisted long after the original political agendas have been forgotten (although I am speculating here) and this meme has taken on a life of its own so to speak.
+
+Back to top

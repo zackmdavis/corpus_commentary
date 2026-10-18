@@ -1,0 +1,1038 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Where to Draw the Boundary?
+
+Eliezer Yudkowsky21 Feb 2008 19:14 UTC
+94 points
+53 comments3 min readLW linkArchive
+Carving / Clustering RealityRationalityPhilosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+The one comes to you and says:
+
+Long have I pondered the meaning of the word “Art”, and at last I’ve found what seems to me a satisfactory definition: “Art is that which is designed for the purpose of creating a reaction in an audience.”
+
+Just because there’s a word “art” doesn’t mean that it has a meaning, floating out there in the void, which you can discover by finding the right definition.
+
+It feels that way, but it is not so.
+
+Wondering how to define a word means you’re looking at the problem the wrong way—searching for the mysterious essence of what is, in fact, a communication signal.
+
+Now, there is a real challenge which a rationalist may legitimately attack, but the challenge is not to find a satisfactory definition of a word. The real challenge can be played as a single-player game, without speaking aloud. The challenge is figuring out which things are similar to each other—which things are clustered together—and sometimes, which things have a common cause.
+
+If you define “eluctromugnetism” to include lightning, include compasses, exclude light, and include Mesmer’s “animal magnetism” (what we now call hypnosis), then you will have some trouble asking “How does electromugnetism work?” You have lumped together things which do not belong together, and excluded others that would be needed to complete a set. (This example is historically plausible; Mesmer came before Faraday.)
+
+We could say that electromugnetism is a wrong word, a boundary in thingspace that loops around and swerves through the clusters, a cut that fails to carve reality along its natural joints.
+
+Figuring where to cut reality in order to carve along the joints—this is the problem worthy of a rationalist. It is what people should be trying to do, when they set out in search of the floating essence of a word.
+
+And make no mistake: it is a scientific challenge to realize that you need a single word to describe breathing and fire. So do not think to consult the dictionary editors, for that is not their job.
+
+What is “art”? But there is no essence of the word, floating in the void.
+
+Perhaps you come to me with a long list of the things that you call “art” and “not art”:
+
+The Little Fugue in G Minor: Art.
+A punch in the nose: Not art.
+Escher’s Relativity: Art.
+A flower: Not art.
+The Python programming language: Art.
+A cross floating in urine: Not art.
+Jack Vance’s Tschai novels: Art.
+Modern Art: Not art.
+
+And you say to me: “It feels intuitive to me to draw this boundary, but I don’t know why—can you find me an intension that matches this extension? Can you give me a simple description of this boundary?”
+
+So I reply: “I think it has to do with admiration of craftsmanship: work going in and wonder coming out. What the included items have in common is the similar aesthetic emotions that they inspire, and the deliberate human effort that went into them with the intent of producing such an emotion.”
+
+Is this helpful, or is it just cheating at Taboo? I would argue that the list of which human emotions are or are not aesthetic is far more compact than the list of everything that is or isn’t art. You might be able to see those emotions lighting up an fMRI scan—I say this by way of emphasizing that emotions are not ethereal.
+
+But of course my definition of art is not the real point. The real point is that you could well dispute either the intension or the extension of my definition.
+
+You could say, “Aesthetic emotion is not what these things have in common; what they have in common is an intent to inspire any complex emotion for the sake of inspiring it.” That would be disputing my intension, my attempt to draw a curve through the data points. You would say, “Your equation may roughly fit those points, but it is not the true generating distribution.”
+
+Or you could dispute my extension by saying, “Some of these things do belong together—I can see what you’re getting at—but the Python language shouldn’t be on the list, and Modern Art should be.” (This would mark you as a gullible philistine, but you could argue it.) Here, the presumption is that there is indeed an underlying curve that generates this apparent list of similar and dissimilar things—that there is a rhyme and reason, even though you haven’t said yet where it comes from—but I have unwittingly lost the rhythm and included some data points from a different generator.
+
+Long before you know what it is that electricity and magnetism have in common, you might still suspect—based on surface appearances—that “animal magnetism” does not belong on the list.
+
+Once upon a time it was thought that the word “fish” included dolphins. Now you could play the oh-so-clever arguer, and say, “The list: {Salmon, guppies, sharks, dolphins, trout} is just a list—you can’t say that a list is wrong. I can prove in set theory that this list exists. So my definition of fish, which is simply this extensional list, cannot possibly be ‘wrong’ as you claim.”
+
+Or you could stop playing nitwit games and admit that dolphins don’t belong on the fish list.
+
+You come up with a list of things that feel similar, and take a guess at why this is so. But when you finally discover what they really have in common, it may turn out that your guess was wrong. It may even turn out that your list was wrong.
+
+You cannot hide behind a comforting shield of correct-by-definition. Both extensional definitions and intensional definitions can be wrong, can fail to carve reality at the joints.
+
+Categorizing is a guessing endeavor, in which you can make mistakes; so it’s wise to be able to admit, from a theoretical standpoint, that your definition-guesses can be “mistaken”.
+
+What links here?
+37 Ways That Words Can Be Wrong by Eliezer Yudkowsky (6 Mar 2008 5:09 UTC; 267 points)
+
+A Crash Course in the Neu­ro­science of Hu­man Motivation by lukeprog (19 Aug 2011 21:15 UTC; 210 points)
+
+Where to Draw the Boundaries? by Zack_M_Davis (13 Apr 2019 21:34 UTC; 131 points)
+
+In praise of fake frameworks by Valentine (11 Jul 2017 2:12 UTC; 130 points)
+
+The ge­nie knows, but doesn’t care by Rob Bensinger (6 Sep 2013 6:42 UTC; 125 points)
+
+What is op­er­a­tions? by Swimmer963 (Miranda Dixon-Luinenburg) (26 Sep 2019 14:16 UTC; 117 points)
+
+En­tropy, and Short Codes by Eliezer Yudkowsky (23 Feb 2008 3:16 UTC; 95 points)
+
+Novum Or­ganum: Introduction by Ruby (19 Sep 2019 22:34 UTC; 86 points)
+
+Su­per­ex­po­nen­tial Con­ceptspace, and Sim­ple Words by Eliezer Yudkowsky (24 Feb 2008 23:59 UTC; 81 points)
+
+How to pick your categories by [deleted] (11 Nov 2010 15:13 UTC; 78 points)
+
+«Boundaries», Part 3b: Align­ment prob­lems in terms of bound­aries by Andrew_Critch (14 Dec 2022 22:34 UTC; 72 points)
+
+Agents Over Carte­sian World Models by Mark Xu (27 Apr 2021 2:06 UTC; 69 points)
+
+Zack_M_Davis's comment on Re­ply to Nate Soares on Dolphins by Zack_M_Davis (11 Jun 2021 3:57 UTC; 67 points)
+
+Re­duc­tive Reference by Eliezer Yudkowsky (3 Apr 2008 1:37 UTC; 66 points)
+
+Plu­ral­is­tic Mo­ral Reductionism by lukeprog (1 Jun 2011 0:59 UTC; 64 points)
+
+Lawful Creativity by Eliezer Yudkowsky (8 Nov 2008 19:54 UTC; 62 points)
+
+Med­i­ta­tion, in­sight, and ra­tio­nal­ity. (Part 1 of 3) by DavidM (28 Apr 2011 20:26 UTC; 61 points)
+
+Schel­ling Cat­e­gories, and Sim­ple Mem­ber­ship Tests by Zack_M_Davis (26 Aug 2019 2:43 UTC; 60 points)
+
+The Prob­lem of the Criterion by Gordon Seidoh Worley (21 Jan 2021 15:05 UTC; 58 points)
+
+«Boundaries/​Mem­branes» and AI safety compilation by Chris Lakin (3 May 2023 21:41 UTC; 56 points)
+
+Head­ing Toward: No-Non­sense Metaethics by lukeprog (24 Apr 2011 0:42 UTC; 55 points)
+
+Al­gorith­mic In­tent: A Han­so­nian Gen­er­al­ized Anti-Zom­bie Principle by Zack_M_Davis (14 Jul 2020 6:03 UTC; 53 points)
+
+What is a species? by David Goodman (24 Feb 2026 14:23 UTC; 49 points)
+
+Re­cur­sive Self-Improvement by Eliezer Yudkowsky (1 Dec 2008 20:49 UTC; 44 points)
+
+The Na­ture of Logic by Eliezer Yudkowsky (15 Nov 2008 6:20 UTC; 43 points)
+
+Blood Is Thicker Than Water 🐬 by Zack_M_Davis (28 Sep 2021 3:21 UTC; 39 points)
+
+What is a defi­ni­tion, how can it be ex­trap­o­lated? by Stuart_Armstrong (14 Mar 2023 18:08 UTC; 34 points)
+
+Zack_M_Davis's comment on Feed­back Re­quested! Draft of a New About/​Wel­come Page for LessWrong by Ruby (1 Jun 2019 2:49 UTC; 34 points)
+
+Is “Re­cur­sive Self-Im­prove­ment” Rele­vant in the Deep Learn­ing Paradigm? by DragonGod (6 Apr 2023 7:13 UTC; 32 points)
+
+The Out­side View’s Domain by Eliezer Yudkowsky (21 Jun 2008 3:17 UTC; 32 points)
+
+[About Me] Cin­era’s Home Page by DragonGod (7 Feb 2023 12:56 UTC; 30 points)
+
+Hap­piness and Good­ness as Univer­sal Ter­mi­nal Virtues by [deleted] (21 Apr 2015 16:42 UTC; 30 points)
+
+Re­ward splin­ter­ing for AI design by Stuart_Armstrong (21 Jul 2021 16:13 UTC; 30 points)
+
+Rec­og­niz­ing Intelligence by Eliezer Yudkowsky (7 Nov 2008 23:22 UTC; 29 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+Idols of the Mind Pt. 2 (Novum Or­ganum Book 1: 53-68) by Francis Bacon (26 Sep 2019 22:24 UTC; 28 points)
+
+Idols of the Mind Pt. 1 (Novum Or­ganum Book 1: 38–52) by Francis Bacon (24 Sep 2019 19:53 UTC; 27 points)
+
+Defin­ing AI wireheading by Stuart_Armstrong (21 Nov 2019 13:04 UTC; 26 points)
+
+The Foun­da­tional Toolbox for Life: Introduction by ExCeph (22 Jun 2019 6:11 UTC; 23 points)
+
+Prac­ti­cal con­se­quences of im­pos­si­bil­ity of value learning by Stuart_Armstrong (2 Aug 2019 23:06 UTC; 23 points)
+
+A hi­er­ar­chy of disagreement by Biff Wiff (23 Jan 2025 3:17 UTC; 21 points)
+
+When to use “meta” vs “self-refer­ence”, “re­cur­sive”, etc. by Alex_Altair (6 Apr 2022 4:57 UTC; 21 points)
+
+Com­mu­nity build­ing: Is op­ti­miz­ing for “effec­tive­ness” the most effec­tive ap­proach? by Solal 🔸 (EA Forum; 1 Jul 2025 13:52 UTC; 20 points)
+
+The world where LLMs are possible by Ape in the coat (10 Jul 2023 8:00 UTC; 20 points)
+
+Web of con­no­ta­tions: Bleggs, Rubes, ther­mostats and beliefs by Stuart_Armstrong (19 Sep 2018 16:47 UTC; 20 points)
+
+What is autism? by Biff Wiff (12 Apr 2025 18:12 UTC; 18 points)
+
+Biff Wiff's comment on Shar­ing In­for­ma­tion About Nonlinear by Ben Pace (10 Sep 2023 20:59 UTC; 17 points)
+
+Declus­ter­ing, reclus­ter­ing, and filling in thingspace by Stuart_Armstrong (6 Dec 2021 20:53 UTC; 16 points)
+
+Vanessa Kosoy's comment on Cur­rent AIs Provide Nearly No Data Rele­vant to AGI Alignment by Thane Ruthenis (25 Dec 2024 11:52 UTC; 15 points)
+
+Learn­ing Nor­ma­tivity: Language by Bunthut (5 Feb 2021 22:26 UTC; 14 points)
+
+Com­mon Uses of “Ac­cep­tance” by Yi-Yang (26 Jul 2024 11:18 UTC; 14 points)
+
+God Is Great by Mahdi Complex (EA Forum; 29 Oct 2021 7:00 UTC; 13 points)
+
+An Anal­ogy for Interpretability by Roman Malov (24 Jun 2025 14:56 UTC; 13 points)
+
+Whence Your Ab­strac­tions? by Eliezer Yudkowsky (20 Nov 2008 1:07 UTC; 12 points)
+
+jimrandomh's comment on Waser’s 3 Goals of Morality by mwaser (2 Nov 2010 23:35 UTC; 12 points)
+
+Zack_M_Davis's comment on Where to Draw the Boundaries? by Zack_M_Davis (10 Dec 2020 8:34 UTC; 11 points)
+
+MichaelHoward's comment on De­bug­ging the Quan­tum Physics Se­quence by Mitchell_Porter (5 Sep 2012 19:29 UTC; 11 points)
+
+Map­ping our maps: types of knowledge by Swimmer963 (Miranda Dixon-Luinenburg) (27 Apr 2011 2:16 UTC; 9 points)
+
+[deleted]'s comment on Con­scious­ness as a con­fla­tion­ary al­li­ance term for in­trin­si­cally val­ued in­ter­nal experiences by Andrew_Critch (22 Nov 2024 22:54 UTC; 9 points)
+
+Ra­tion­al­ity Read­ing Group: Part N: A Hu­man’s Guide to Words by Gram_Stone (18 Nov 2015 23:50 UTC; 9 points)
+
+Friendly AI ideas needed: how would you ban porn? by Stuart_Armstrong (17 Mar 2014 18:00 UTC; 9 points)
+
+Lenses, Me­taphors, and Meaning by WillPetillo (8 Jul 2025 19:46 UTC; 8 points)
+
+Gunnar_Zarncke's comment on Gun­nar_Zarncke’s Shortform by Gunnar_Zarncke (20 Jan 2023 1:06 UTC; 8 points)
+
+Plasmon's comment on Hu­man con­scious­ness as a tractable sci­en­tific problem by lukeprog (19 Jan 2012 18:14 UTC; 8 points)
+
+Zack_M_Davis's comment on Blegg Mode by Zack_M_Davis (13 Mar 2019 3:05 UTC; 8 points)
+
+Gordon Seidoh Worley's comment on Web of con­no­ta­tions: Bleggs, Rubes, ther­mostats and beliefs by Stuart_Armstrong (15 Nov 2018 2:05 UTC; 8 points)
+
+[SEQ RERUN] Where to Draw the Boundary? by MinibearRex (6 Feb 2012 0:03 UTC; 7 points)
+
+Baughn's comment on True Op­ti­mi­sa­tion by LearnFromObservation (3 Sep 2013 16:13 UTC; 6 points)
+
+Viliam_Bur's comment on Fac­tions, in­equal­ity, and so­cial justice by John_Maxwell (4 Dec 2012 16:41 UTC; 6 points)
+
+Sting's comment on Mak­ing a con­ser­va­tive case for alignment by Cameron Berg (20 Nov 2024 4:25 UTC; 6 points)
+
+nhamann's comment on What is Me­taethics? by lukeprog (27 Apr 2011 20:33 UTC; 6 points)
+
+kilobug's comment on The non­cen­tral fal­lacy—the worst ar­gu­ment in the world? by Scott Alexander (30 Aug 2012 8:18 UTC; 6 points)
+
+wedrifid's comment on Ra­tion­al­ity Quotes De­cem­ber 2014 by Salemicus (31 Dec 2014 11:14 UTC; 5 points)
+
+RobinZ's comment on Open Thread: July 2010 by komponisto (7 Jul 2010 11:45 UTC; 5 points)
+
+gilch's comment on What fact that you know is true but most peo­ple aren’t ready to ac­cept it? by lorepieri (4 Feb 2023 0:41 UTC; 5 points)
+
+wedrifid's comment on By Which It May Be Judged by Eliezer Yudkowsky (14 Dec 2012 11:42 UTC; 5 points)
+
+Giles's comment on I be­lieve it’s doublethink by kerspoon (22 Feb 2012 12:35 UTC; 4 points)
+
+lessdazed's comment on Reli­gion’s Claim to be Non-Disprovable by Eliezer Yudkowsky (23 Jul 2011 6:09 UTC; 4 points)
+
+Pattern's comment on Al­gorith­mic In­tent: A Han­so­nian Gen­er­al­ized Anti-Zom­bie Principle by Zack_M_Davis (15 Jul 2020 21:30 UTC; 4 points)
+
+dxu's comment on Bing chat is the AI fire alarm by Ratios (19 Feb 2023 3:34 UTC; 4 points)
+
+Nick_Tarleton's comment on Ra­tion­al­ity: Com­mon In­ter­est of Many Causes by Eliezer Yudkowsky (30 Mar 2009 5:29 UTC; 3 points)
+
+komponisto's comment on Things you are sup­posed to like by PhilGoetz (23 Oct 2011 7:39 UTC; 3 points)
+
+ExCeph's comment on Order and Chaos by ExCeph (29 Nov 2019 19:58 UTC; 3 points)
+
+Z._M._Davis's comment on The Be­drock of Mo­ral­ity: Ar­bi­trary? by Eliezer Yudkowsky (16 Aug 2008 0:13 UTC; 3 points)
+
+Biff Wiff's comment on adamz­erner’s Shortform by Biff Wiff (2 May 2025 23:04 UTC; 3 points)
+
+Willa's comment on Re: Fierce Nerds by lsusr (20 May 2021 15:06 UTC; 3 points)
+
+Pavitra's comment on Ra­tion­al­ity Quotes: March 2011 by Alexandros (6 Mar 2011 18:31 UTC; 3 points)
+
+lukeprog's comment on Con­cep­tual Anal­y­sis and Mo­ral Theory by lukeprog (24 May 2011 4:58 UTC; 2 points)
+
+wedrifid's comment on [SEQ RERUN] Sort­ing Peb­bles Into Cor­rect Heaps by MinibearRex (27 Jul 2012 5:44 UTC; 2 points)
+
+orthonormal's comment on GroupThink, Theism … and the Wiki by byrnema (15 Apr 2009 23:58 UTC; 2 points)
+
+Leon Lang's comment on X ex­plains Z% of the var­i­ance in Y by Leon Lang (13 Jul 2025 17:02 UTC; 2 points)
+
+Alex_Altair's comment on Com­pu­ta­tion Hazards by Alex_Altair (14 Jun 2012 4:11 UTC; 2 points)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (18 Oct 2011 4:56 UTC; 2 points)
+
+ata's comment on On En­joy­ing Disagree­able Company by Alicorn (7 Jun 2010 4:42 UTC; 2 points)
+
+OrphanWilde's comment on Should we ad­mit it when a per­son/​group is “bet­ter” than an­other per­son/​group? by Biff Wiff (18 Feb 2016 20:35 UTC; 2 points)
+
+Coun­ter­ing Self-De­cep­tion: When De­cou­pling, When De­con­tex­tu­al­iz­ing? by a gently pricked vein (10 Dec 2020 15:28 UTC; 2 points)
+
+komponisto's comment on [LINK] Autis­tic woman banned from hav­ing sex in lat­est Court of Pro­tec­tion case by mstevens (9 Feb 2012 23:38 UTC; 2 points)
+
+wedrifid's comment on Pain and gain motivation by Kaj_Sotala (8 Apr 2010 1:47 UTC; 2 points)
+
+Eugine_Nier's comment on Con­cep­tual Anal­y­sis and Mo­ral Theory by lukeprog (22 May 2011 19:07 UTC; 1 point)
+
+Tiiba2's comment on True Sources of Disagreement by Eliezer Yudkowsky (9 Dec 2008 3:38 UTC; 1 point)
+
+Nick_Tarleton's comment on Ra­tion­al­ity: Com­mon In­ter­est of Many Causes by Eliezer Yudkowsky (30 Mar 2009 5:29 UTC; 1 point)
+
+komponisto's comment on Theists are wrong; is the­ism? by Will_Newsome (20 Jan 2011 9:55 UTC; 1 point)
+
+lessdazed's comment on Wel­come to Less Wrong! (2010-2011) by orthonormal (4 Aug 2011 9:08 UTC; 1 point)
+
+lessdazed's comment on Magic Tricks Re­vealed: Test Your Rationality by Peter Wildeford (13 Aug 2011 20:47 UTC; 1 point)
+
+[deleted]'s comment on Hap­piness and Good­ness as Univer­sal Ter­mi­nal Virtues by [deleted] (22 Apr 2015 5:45 UTC; 1 point)
+
+[deleted]'s comment on Hap­piness and Good­ness as Univer­sal Ter­mi­nal Virtues by [deleted] (22 Apr 2015 6:40 UTC; 1 point)
+
+Viliam_Bur's comment on Why do peo­ple ____? by magfrump (5 May 2012 12:01 UTC; 1 point)
+
+a gently pricked vein's comment on Coun­ter­ing Self-De­cep­tion: When De­cou­pling, When De­con­tex­tu­al­iz­ing? by a gently pricked vein (12 Dec 2020 19:39 UTC; 1 point)
+
+[deleted]'s comment on I would have shit in that alley, too by Declan Molony (21 Jun 2024 1:56 UTC; 1 point)
+
+David_Allen's comment on The “map” and “ter­ri­tory” anal­ogy as it per­tains to po­ten­tially novel ter­ri­to­ries that peo­ple may not anticipate by InquilineKea (7 Jan 2011 19:14 UTC; 1 point)
+
+JenniferRM's comment on “Poli­tics is the mind-kil­ler” is the mind-killer by thomblake (6 Feb 2012 20:10 UTC; 1 point)
+
+wedrifid's comment on A re­ply to Mark Linsen­mayer about philosophy by lukeprog (6 Jan 2013 5:15 UTC; 0 points)
+
+wedrifid's comment on Why do the­ists, un­der­grads, and Less Wrongers fa­vor one-box­ing on New­comb? by CarlShulman (23 Jun 2013 4:50 UTC; 0 points)
+
+shokwave's comment on How to Con­vince Me That 2 + 2 = 3 by Eliezer Yudkowsky (17 Dec 2010 15:21 UTC; 0 points)
+
+lukeprog's comment on Ra­tion­al­ity quotes Jan­uary 2012 by Thomas (9 Jan 2012 22:15 UTC; 0 points)
+
+lukeprog's comment on A Defense of Naive Metaethics by Will_Sawin (7 Jul 2011 23:55 UTC; 0 points)
+
+Steve_Rayhawk's comment on Three Wor­lds De­cide (5/​8) by Eliezer Yudkowsky (3 Feb 2009 13:39 UTC; 0 points)
+
+[deleted]'s comment on Help: When are two com­pu­ta­tions iso­mor­phic? by [deleted] (8 Oct 2010 23:48 UTC; 0 points)
+
+DaFranker's comment on Wel­come to Less Wrong! (July 2012) by Paul Crowley (14 Sep 2012 20:34 UTC; 0 points)
+
+Sebastian_Hagen2's comment on What Would You Do Without Mo­ral­ity? by Eliezer Yudkowsky (29 Jun 2008 21:25 UTC; 0 points)
+
+Rob Bensinger's comment on In­tu­itions Aren’t Shared That Way by lukeprog (29 Nov 2012 22:43 UTC; 0 points)
+
+[deleted]'s comment on Hap­piness and Good­ness as Univer­sal Ter­mi­nal Virtues by [deleted] (22 Apr 2015 7:00 UTC; 0 points)
+
+wedrifid's comment on Great­est Philoso­pher in History by Carinthium (11 Aug 2013 7:20 UTC; 0 points)
+
+wedrifid's comment on Do you have High-Func­tion­ing Asperger’s Syn­drome? by Roko (23 Mar 2012 1:44 UTC; 0 points)
+
+DanielLC's comment on Open thread, July 28 - Au­gust 3, 2014 by polymathwannabe (3 Aug 2014 9:02 UTC; -1 points)
+
+lukeprog's comment on A Defense of Naive Metaethics by Will_Sawin (7 Jul 2011 18:45 UTC; -1 points)
+
+[deleted]'s comment on Log­i­cal Pinpointing by Eliezer Yudkowsky (2 Nov 2012 2:34 UTC; -2 points)
+
+God Is Great by Mahdi Complex (30 Oct 2021 13:03 UTC; -11 points)
+
+Eliezer Yudkowsky21 Feb 2008 19:14 UTC
+94 points
+53 comments3 min readLW linkArchive
+Carving / Clustering RealityRationalityPhilosophy of Language
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:A Hu­man’s Guide to WordsPrevious: Ar­gu­ing “By Defi­ni­tion”Next: En­tropy, and Short Codes
+
+tcpkac 21 Feb 2008 21:12 UTC
+12 points
+
+0
+
+While we’re staking out the new language, I want a word for red flowers, because I like red flowers, and that is much more important to me than their genotype or taxonomy. Also, I want a special word for slightly-out-of-focus photos, which is a very important category for reasons I’m not at liberty to disclose.
+The joints of reality are articulated in a rather large number of dimensions. Carving it correspondingly is going to need one heck of a …. dictionary.
+
+Benoit_Essiambre 21 Feb 2008 21:43 UTC
+−15 points
+
+0
+
+art is a piece of temporary entropic order, the kind that appears extraordinarily from time to time in a universe subject to the second law of thermodynamics.
+
+Frank_Hirsch 21 Feb 2008 22:38 UTC
+8 points
+
+2
+
+Just a small one, because I can’t hold it:
+You can’t judge the usefulness of a definition without specifying what you want it to be useful for.
+And now I’m off to bed… =)
+
+Tom_Breton 21 Feb 2008 22:52 UTC
+6 points
+
+0
+
+Just because there’s a word “art” doesn’t mean that it has a meaning, floating out there in the void, which you can discover by finding the right definition.
+
+True, but it strongly suggests that people who use the term believe there is a referent for it. Sometimes there is none (eg “phlogiston” or “unicorn”). Sometimes the referent is so muddled or misunderstood that the term is has little use except to name the mistake (eg “free will”, which seems to function as a means of grouping quite distinct concepts of subjective freedom together as if they were the same thing, or “qualia” whose referent is a subjective illusion)
+
+But almost always it’s worth asking what they think they mean by it.
+
+@tcpkac, we sometimes call slightly-out-of-focus photos “blurries”. Hope that helps with your important secret project. }:)
+
+Doug_S. 22 Feb 2008 0:25 UTC
+4 points
+
+0
+
+“I think it has to do with admiration of craftsmanship: work going in and wonder coming out. What the included items have in common is the similar aesthetic emotions that they inspire, and the deliberate human effort that went into them with the intent of producing such an emotion.”
+
+Yeah, that’s a lot like what I said. ;) It’s not a perfect Aristotellian or mathematical definition, but it’s about as good as any other phrase I can think of to point at the similarity cluster commonly called “art”. Also, “art” is a word used to sneak in the connotation “worthy of respect and appreciation”, as illustrated by a question like “Can [X] be art?” where X could be a video game, mathematical proof, programming language, newspaper editorial, photograph, comic book, or anything else that some people admire and some don’t.
+
+/​me shrugs
+
+More fun with words:
+
+Programming is the art of figuring out what you want so precisely that even a machine can do it.
+
+Diplomacy is the art of saying “Nice Doggie” while you find a rock.
+
+Politics is the art of looking for trouble, finding it everywhere, diagnosing it incorrectly, and applying the wrong remedies.
+
+Leadership is the art of getting someone else to do something you want done because he wants to do it.
+
+(Bonus points for finding a source for each of these quotes.)
+
+Tom_Breton 22 Feb 2008 1:29 UTC
+−2 points
+
+0
+
+Wrt defining art, I offer my definition:
+
+“An artifact whose purpose is to be perceived and thereby produce in
+its perceiver a positive experience of no direct practical value to
+the perceiver.”
+
+“Artifact” here is meant in the sense of being appropriate for Daniel
+Dennett’s design stance. It is not neccessarily tangible or
+durable.
+
+This is what’s called a Genus-differentia definition, or
+type-and-distinction definition. “Artifact” is the type, the
+rest is the distinction.
+
+This lets me build on existing understandings about artifacts. They
+have a purpose, but they remain artifacts even when they are not
+accomplishing that purpose. They are constructed by human beings, but
+this is a pragmatic fact about human ability and not a part of their
+definition.
+
+I avoided terms that make no definitional progress such as “beauty”
+and “aesthetic”. Using them would just be passing the buck.
+
+This definition seems to include birdsong. Make of that what you
+will. One could reasonably say that birdsong is a fitness signal of
+direct practical value to the intended perceiver, though.
+
+Under this definition, throw-the-paint art is not so much excluded as
+it is a marginal, failed, or not serious example, much the way that a
+hammer (which is another type of artifact) constructed of two twigs
+scotch-taped together at right angles is a failure as a hammer
+
+Tim_Walters 22 Feb 2008 2:00 UTC
+9 points
+
+1
+
+(This would mark you as a gullible philistine, but you could argue it.)
+
+I’d much rather be marked as a gullible philistine than be blind to the wonder of Joyce, Messiaen, and Rothko.
+
+Ian_C. 22 Feb 2008 6:03 UTC
+0 points
+
+0
+
+“You come up with a list of things that feel similar, and take a guess at why this is so.”
+
+Yes, I agree with this entirely. When we observe a scene, what we “automatically receive” on the perceptual level is: sight, sound, smell, touch, taste and similarity (in the form of a feeling). We are just automagically aware that two objects are similar, without going through any (conscious) logical steps to get that knowledge.
+
+Whenever I think about AI design I model similarity as one of the senses.
+
+Yelsgib 22 Feb 2008 7:19 UTC
+2 points
+
+0
+
+I disagree with you (kind of). The fact that the word art exists does, in fact, imply that it has a meaning...for each individual who uses it.
+
+There are no absolute classifiers. Even if there were, we could not know them. Our knowledge is necessarily defined in terms of our own experience and the computations we have performed on this experience.
+
+It is useful to think of the “meaning” of a term as the way in which that term relates to more primitive terms. This is not necessarily a list (e.g. Post-modernism cannot be defined in terms of a list). This might be a deduction—a history of deduction—whatever. For instance, what is a good definition for “Post-Modernism?” Perhaps we must appeal to a large body of knowledge—the point is that the result, the “meaning,” must be at minimum useful to perform computations (computations above and beyond classification, btw—a reason that meaning can include non-necessary information).
+
+So can we justifiably ask the question “what is the meaning of art?”
+
+Sure, but my claim is that this is a massively sugared/​somewhat poorly expressed question rather than an assertion of the absolute existence of the term “art” and the absolute existence of its definition. The questions we might really be asking (perhaps in parallel) are:
+
+What is the use of a definition of art?
+What is a useful definition for art?
+Can a single definition exist (which satisfied all of our classifications)?
+Are our classifications wrong or strange?
+What is my personal definition of art?
+What is the context in which we are trying to define art?
+
+The attempt to answer the question “what is the definition of X?” is often really the attempt to examine a deeper, more difficult to explain question. For instance, in the context of the example of “if no one hears a tree fall, does it make a sound” the question “what is the definition of sound?” can really be multiple questions (one or more of the questions above).
+
+My claim is that people are not good enough at de-sugaring their own questions to actually attack them/​think about them flexibly/​precisely. Let me propose a simple mechanism which I think produces this phenomenon:
+
+You have a conflict of definition (e.g. you and a friend disagree on whether Modern Art is in fact Art). On a computational level you might realize what the problem is. Perhaps you do not have a well-established context (since the definition of the term depends on context). Perhaps you have had significantly different experiences of things which “are modern art” in the sense of being culturally accepted as such. But in either case you are probably too inarticulate to explain exactly what the conflict is. Thus, you use the only tool available to you. You flail around and try to concoct a lingusitic expression of your conflict. You ask “well, what’s your definition of ART then!?!”
+
+I think that we perform this sort of operation a lot:
+
+Well articulated intuition → linguistic expression (loses resolution) → poorly articulated intuition.
+
+(another simple example of this phenomenon is an exasperated inarticulate man yelling “god, i hate women”—probably he does hate all women or claim anything general about women . He just doesn’t have sufficient articulation to say “i am frustrated by my lack of success with women and do not understand them and therefore my frustration grows with each failed attempt at mating one—in addition, i experience a feeling of lack of self-worth which adds to my frustration and further confuses me.” After he says “I hate women” he might actually believe he hates women since he re-translates his linguistic statement into feelings/​belief.)
+
+What are your thoughts on this phenomenon? I’d really like to know.
+
+Do you think that a significant portion of the population harbors implicit or explicit delusions that words exist as absolutes and have definitions which also exist as absolutes? Or do you think something more complicated is going on? What, precisely, is the nature of the bias?
+
+Eliezer Yudkowsky 22 Feb 2008 7:53 UTC
+6 points
+
+0
+
+Tim, what would mark you as a gullible philistine is not just claiming that Modern Art is art, but also claiming that the Python programming language is not art—the combination of the two.
+
+Tim_Walters 22 Feb 2008 9:26 UTC
+0 points
+
+0
+
+Well, I’m glad to hear that I’m off the hook, since I have no problem regarding Python as art (although I’m a Ruby man myself). That said: do you really mean that, given the set { Python, The Rite Of Spring, Beethoven’s Ninth }, the natural joint is { Python, Rite } | { Ninth }, and that this is so obvious that people who disagree deserve to be called rude names? If so, why? If not, what do you mean?
+
+Also, it’s been a while since I read the Tschai books, but my recollection is that The Dying Earth is way better.
+
+Tim_R._Mortiss 22 Feb 2008 9:50 UTC
+0 points
+
+0
+
+Speaking of Vance, he included the following musings on art and artifacts in one of his novels:
+
+“Silence was absolute, save for the purl of water under the hull. At night a pair of large moons cast a serene light through the foliage in a manner which Maihac found almost dreamlike in its effect. He said as much to Bariano, who responded with a condescending shrug. “I am surprised to find you so enthusiastic. It is, after all, a mere trick of nature.” [...] “It is simply that your aesthetic judgments are amorphous. It is naive to detect beauty where none has been specifically intended. The subject is large. Often you will notice an agreeable aspect of nature, effected by random or mathematical processes. It may be serene and congenial, but it is the work of chance and lacks the human afflatus. There is no pulse of positive creativity to infuse it with true beauty.”″
+
+gutzperson 22 Feb 2008 11:58 UTC
+0 points
+
+0
+
+Eliezer,
+This is a bit naughty. TABOOing art on one thread and elaborating on art on this one.
+In my experience, ‘art’ is used like a sponge. Everybody can do with it what they want. Squeeze it, make it woolly, throw it into your face, or talk about the art of science (a paradox!) for example, etc. etc.
+I should know a bit about this. I am an artist and have taught art at universities for twenty years. There are as many definitions as there are water drops in Lake Victoria.
+Quote: So I reply: “I think it has to do with admiration of craftsmanship: work going in and wonder coming out. What the included items have in common is the similar aesthetic emotions that they inspire, and the deliberate human effort that went into them with the intent of producing such an emotion.”
+Modern art does not have that much to do with craftsmanship anymore, more with concepts, context and ‘everybody could be an artist’ if …… At the end, your home movies, put into the right context (a museum) with a good description why it is art, describing a concept of making home movies for audiences in museums, with shaky camera movements, out of focus (no craftsmanship needed) could be a piece of art. Recontextualisation is a keyword.
+
+Ben_Jones 22 Feb 2008 12:46 UTC
+2 points
+
+0
+
+Oh yeah? Well let’s see if the dictionary agrees with you.
+
+the quality, production, expression, or realm, according to aesthetic principles, of what is beautiful, appealing, or of more than ordinary significance.
+
+There, sorted. So, does anyone have anything to say on the concept, rather than the specific example Eliezer gave?
+
+do you really mean that, given the set { Python, The Rite Of Spring, Beethoven’s Ninth }, the natural joint is { Python, Rite } | { Ninth }
+
+Depends on what you’re trying to achieve with your categories. We can only judge how effective our [artificial] categories and their membership tests are at helping us to understand reality. It may look as though the universe makes its own categories, and we are simply trying to recognise them. But however intuitive this feels, we should resist it. Rare though it may be, this can screw with our reasoning; especially when we waste time searching fruitlessly for correlations because we think there should be one there somewhere.
+
+There is no ‘natural joint’.
+
+[It’s all GM these days....]
+
+quintopia 26 Apr 2012 6:58 UTC
+1 point
+
+0
+Parent
+
+I disagree. When I hear ‘natural joint’, I imagine the process a university professor uses to decide where the breakpoints between letter grades fall (“setting the curve”) in such a way to minimize requests by students to change their letter grade. One way I have seen is to sort the grades, then look for large gaps in the distribution. “No one has a final grade between 86.6 and 87.9, so I’ll set 87.9 as the minimum grade needed for an A.” This gap in the distribution is a ‘natural joint’.
+
+Note that this way of dividing up concept-space is much less well-defined than a straightforward Voronoi-diagram-with-concept-prototypes-as-cell-centers, in the sense that it is more memory-intensive when explicitly computed. However, I also think it more accurately reflects the intuitive sort of categories that humans actually produce.
+
+That is, humans don’t just ask “Is this thing more similar to the A prototype or the B prototype (with respect to the particular properties I am interested in)?” when trying to decide is something should be best called an A or a B, but rather, “Is this thing more similar to X and Y from category A or P and Q from category B (with respect to the particular properties I am interested in)?” If X and Y are far from P and Q in concept space, there is a ‘natural joint’ between A and B.
+
+This gap could close up if enough things are added to both A and B that there is an X in A and a P in B that are very close to one another; at this point we consider combining the categories into a single category, or seeking out new properties that further separate them. Sometimes, though, we have good reason to keep different categories to describe concepts that are hopelessly intermingled, and in this and only this case, I would agree that “There is no ‘natural joint’.”
+
+Ben_Jones 22 Feb 2008 13:38 UTC
+0 points
+
+0
+
+P.S. Tim—that wasn’t aimed as a correction of your argument, just an observation.
+
+LG 22 Feb 2008 14:51 UTC
+5 points
+
+0
+
+“You can’t judge the usefulness of a definition without specifying what you want it to be useful for.”
+
+This was going to be my point:
+
+“Once upon a time it was thought that the word “fish” included dolphins. Now you could play the oh-so-clever arguer, and say, “The list: {Salmon, guppies, sharks, dolphins, trout} is just a list—you can’t say that a list is wrong. I can prove in set theory that this list exists. So my definition of fish, which is simply this extensional list, cannot possibly be ‘wrong’ as you claim.”
+
+Or you could stop playing nitwit games and admit that dolphins don’t belong on the fish list.”
+
+I totally see your point, but I think it’s worth exploring why the “nitwit” set is plausible, and why you feel the best defense against a cheeky definition is is an ad hom.
+
+In this instance, I think the answer is that you’re drawing the boundary line for one reason, and they are being twitty and drawing the boundary line arbitrarily just because they think the rules of logic allow them to do so with impunity (ad hom away).
+
+However, I can think of a legitimate reason to draw the boundary in the nitwit way: what if I want a label whose members are all creatures that live in water and use fins to propel themselves? That’s a legitimate category, but it certainly isn’t a boundary appropriate for the word “fish,” which has taxonomical implications, as well as physiological implications more complex than “has fins.”
+
+It may be worth pointing out to the nitwit that he’s drawn a logically valid boundary, but it’s not the territory you’re talking about. Allow him his Fishoids, but steer the conversation back to creatures who have gills and lay eggs. Ideally you can get away with convincing the nitwit to re label HIS category so you can use the real fish label to avoid confusion, but in the interests of continuing a productive conversation, you might consider relabeling the boundary you mean to something neutral (“Gill Creatures”), that your opponent won’t be so comfortable changing arbitrarily.
+
+Tom8 22 Feb 2008 15:37 UTC
+0 points
+
+0
+
+Haven’t read any of the comments, but this seems pretty relevant to what Kripke gets into in the last section of Naming and Necessity.
+
+However, I’m too tired to read it again—could someone comment on this?
+
+Tim_Walters 22 Feb 2008 18:11 UTC
+0 points
+
+0
+
+the quality, production, expression, or realm, according to aesthetic principles, of what is beautiful, appealing, or of more than ordinary significance.
+
+This definition has the advantage of eschewing the pointless essentialism of trying to decide whether any specific object “is” art. If you drive a nail with an unshaped rock, it’s a tool, at least for the moment; if you get an aesthetic experience from something, it’s art, at least for the moment.
+
+There is no ‘natural joint’.
+
+In which case, “natural joint” is as good a category as any, no?
+
+But sure, it’s just shorthand, for me anyway.
+
+Psychohistorian3 22 Feb 2008 20:35 UTC
+10 points
+
+0
+
+This has ruined my dreams of finding the true meaning of Christmas.
+
+tcpkac 22 Feb 2008 21:38 UTC
+1 point
+
+0
+
+Psychoh, do not despair. Remember : “The real challenge can be played as a single-player game, without speaking aloud.”.
+We are looking for the natural joints of reality, and that is a purely subjective assessment. Every single pair of phenomena in the Universe can be the subject of a natural join if the difference in one of their attributes happens to be a salient division for you.
+So draw the line around Christmas any way you want, just like you can draw the line around ‘food things living in the sea’ any way which is relevant to your way of fishing.
+Just don’t speak it aloud.
+
+poke 22 Feb 2008 22:33 UTC
+0 points
+
+0
+
+I think this is an important point but I don’t think you take it far enough. Language is for communication. One use of language is communicating science. It’s not a scientific challenge to realize you need a single word to describe breathing and fire. The words merely communicate the science; science has nothing to do with words or with “carving the world up” into words. Indeed natural language often fails to communicate science; scientists have to rely on formalizations.
+
+The next step is to apply this to all of human psychology and realize that no aspect of human psychology relates to the world in any way; it’s convention all the way down.
+
+Caledonian2 23 Feb 2008 0:12 UTC
+−4 points
+
+0
+
+“Once upon a time it was thought that the phrase “aquatic animal” included dolphins. Now you could play the oh-so-clever arguer, and say, “The list: {Salmon, guppies, sharks, dolphins, trout} is just a list—you can’t say that a list is wrong. I can prove in set theory that this list exists. So my definition of aquatic, which is simply this extensional list, cannot possibly be ‘wrong’ as you claim.”
+
+Or you could stop playing nitwit games and admit that dolphins don’t belong on the aquatic animal list.”
+
+Quoted and altered for emphasis.
+
+If we reject the idea that the conventional meaning of words should restrict us, why is it a ‘nitwit game’ to call dolphins, fish? ‘Fish’ can mean whatever we like it to—just because the word is used in science to refer to things that aren’t mammals doesn’t mean we have to use it that way.
+
+This seems to be a little consistency problem.
+
+TGGP4 23 Feb 2008 0:43 UTC
+3 points
+
+0
+
+Caledonian, octopi have never been considered fish.
+
+Caledonian2 23 Feb 2008 0:59 UTC
+0 points
+
+0
+
+They are aquatic animals. But that is irrelevant—the argument is being made with dolphins. And that is irrelevant, because the point concerns why failing to use a word in the conventionally-accepted manner is suddenly a “nitwit game”, not which word is used to make this curious argument.
+
+Seeking the “real meanings” of words is neither useless nor futile. The point is to recognize that definitions are not a matter of objective and universal truth but of societal labeling convention. What we’re seeking is a deeper, explicit understanding of that convention.
+
+Go back a few thousand years and try telling a fisherman that dolphins aren’t fish. He’d look at you like you were a fool—which you of course would be.
+
+Goplat 23 Feb 2008 2:04 UTC
+15 points
+
+0
+
+The word, “fish”, is not the real issue. What actually matters is that including dolphins in that category leads to making incorrect inferential predictions (“Salmon, guppies, sharks, and trout all lay eggs, so dolphins probably do too.”) as well as weakening the ability to make correct ones (“Do trout have gills? Well, salmon do, but dolphins don’t, so who knows.”)
+
+What kinds of properties is your “aquatic animals” category better at predicting? (And “living in water” doesn’t count, because that’s what you have to already know to see if something’s in the category.)
+
+TGGP4 23 Feb 2008 9:12 UTC
+0 points
+
+0
+
+Octopi were never considered fish but were always considered aquatic animals. They simply aren’t fish and neither are dolphins. If I argue with a fisherman of a few thousand years ago I will have the more correct understanding because things have been learned about these animals in between the time he lived and I do.
+
+Ben_Jones 23 Feb 2008 11:02 UTC
+2 points
+
+0
+
+Goplat—excellent post.
+
+Caledonian2 23 Feb 2008 15:50 UTC
+0 points
+
+0
+
+What actually matters is that including dolphins in that category leads to making incorrect inferential predictions [...] as well as weakening the ability to make correct ones.
+
+First off, making any inferential predictions based solely on the fact that two things are in the same category is unwise. Inferences are strong when they are founded in a wide and deep knowledge base. They are always weak when founded on a single point, regardless of what that point is. If we know nothing about the sorts of things that are included in ‘aquatic animals’ or the criteria that defines the category, having only two examples doesn’t permit us to conclude much of anything about how similar those things are.
+
+Secondly, if we try to make category-based inferences anyway, any categorical distinction lends itself to the errors you’ve mentioned. Even two dolphins have many things that are different between them. That is not a reason to refuse to have the category ‘dolphin’ or to place things in it.
+
+What kinds of properties is your “aquatic animals” category better at predicting?
+
+Categories and labels are not supposed to be used to predict anything. That is not their purpose or function, and not surprisingly, they are not well-suited for the task. They are used to indicate that a specific set of similarities hold: this set can include many different properties, or only a single one. They say absolutely nothing about additional properties. They’re descriptions, and descriptions only.
+
+When words permit us to make additional predictions about properties that we care about, we find those categorical distinctions more useful than others. But useful is not the same as correct, and any correct distinction has an inherent usefulness.
+
+Public_Heretic 23 Feb 2008 19:47 UTC
+1 point
+
+0
+
+“You cannot hide behind a comforting shield of correct-by-definition. Both extensional definitions and intensional definitions can be wrong, can fail to carve reality at the joints.
+“Categorizing is a guessing endeavor, in which you can make mistakes; so it’s wise to be able to admit, from a theoretical standpoint, that your definition-guesses can be “mistaken”.”
+
+I agree heartily with most of this post, but it seems to go off the rails a bit at the end in the section I quote above. Eliezer says intensional definitions (that is, categorizations based on the arbitrary highlighting of certain dimensions as salient) can be “wrong” (i.e. untrue) because they fail to carve reality at the joints. But reality, in its full buzzing and blooming confusion, contains an infinite numbers of ‘joints’ along which it could be carved. It is not at all clear how we could say that focusing one some of those joints is “true” while focusing on other joints is “false,” since all such choices are based on similarly arbitrary conventions.
+
+Now, it is certainly true that certain modes of categorization (i.e. the selection of certain joints) have allowed us to make empirical generalizations that would not otherwise have been possible, whereas other modes of categorization have not yielded any substantial predictive power. But why does that mean that one categorization is “wrong” or “untrue”? Better would seem to be to say that the categorization is “unproductive” in a particular empirical domain.
+
+Let me make my claim more clear (and thus probably easier to attack): categories do not have truth values. They can be neither true nor false. I would challenge Eliezer to give an example of a categorization which is false in and of itself (rather than simply a categorization which someone then used improperly to make a silly empirical inference).
+
+Eliezer Yudkowsky 23 Feb 2008 20:11 UTC
+4 points
+
+0
+
+PH, my reply is contained in Mutual Information, and Density in Thingspace.
+
+Caledonian2 23 Feb 2008 20:22 UTC
+4 points
+
+0
+
+I very much agree with Public Heretic.
+
+Octopi were never considered fish but were always considered aquatic animals. They simply aren’t fish and neither are dolphins.
+
+I have to disagree with this, TGGP. “They simply aren’t fish” is only a meaningful statement if you presuppose what ‘fish’ refers to in a particular way.
+
+‘Fish’ is being used to refer to different concepts. One of these concepts might be expressed in today’s language as something like “streamlined aquatic vertebrate”, so tuna, dolphins, and sharks would all count as ‘fish’. Octopi, turtles, and jellyfish wouldn’t. It’s a matter of body structure. The modern use of the word refers to a more specific biological concept that excludes dolphins, octopi, turtles, and jellyfish (despite the name), and possibly sharks too. (I’d have to look that up.)
+
+It’s basically a translation issue. If you told the fisherman that “dolphins aren’t fish”, he would understand ‘fish’ to refer to a very different concept than its reference for you. By his concept, you would be wrong; by yours, he would be wrong. The key is to recognize what his referred concept is and how it differs from yours. You could explain that the word is used differently where you’re from, explain how it’s used, and possibly persuade the fisherman that your meaning is more useful than his. But if you keep using a different language that merely appears similar, a different mapping of word-to-meaning, you will never communicate anything with the man.
+
+Whenever we wish to use a different meaning for a word than the generally-accepted one, we must state that we’re doing so and what the new meaning is, explicitly. That is the only way we can hope to communicate with each other.
+
+Your use of the word ‘fish’ is not more correct. It is more specific.
+
+danlowlite 3 Sep 2010 15:25 UTC
+0 points
+
+0
+Parent
+
+Sharks are considered fish of a certain type, in that they have a “full cartilaginous skeleton,” at least per Wikipedia. Contrast with bony fish (e.g., tuna, catfish). Also considered fish are stingrays and such.
+
+This is more of a tangent than a response:
+
+I would suppose that because we are more specific about the shark subset, we can safely make more assumptions on it. I’ve been told always that sharks were cold-blooded. According to that Wikipedia article, that is a false belief; most sharks are but some are not.
+
+I would agree that it is a translation issue, because that’s what language lets people do when they talk/​write/​etc. But what about internally? What does it say now that I know some sharks (and therefore fish) are warm-blooded? I mean, besides getting pedantic and correct my daughter’s teacher when that comes up.
+
+I would appear my previous definition of fish is wrong.
+
+Edit: Removed so many supposes.
+
+po8crg 24 Mar 2012 18:37 UTC
+3 points
+
+0
+Parent
+
+Fish, like reptiles are paraphyletic. The cladistic revolutionaries want to abolish the category altogether, or reduce it to just the ray-finned fishes—excluding coelacanths, lungfish, the cartilaginous fish (sharks, rays, skates and chimaeras), and the cyclostomes (hagfish and lampreys).
+
+The result is that some sources will use fish as equivalent to the monophyletic group actinopterygii and others use the traditional polyphyletic pisces. Anytime you see a generalisation about fish that isn’t true of sharks, there’s a good chance that the original source was using fish to mean actinopterygii.
+
+In many ways, it’s a more useful classification − 96% of fish species are in actinopterygii, and there is an awful lot of anatomy that is shared by the actinopterygii but not by the rest of the fish. If you’re going to exclude cetaceans because they have more in common with land animals than with actinopterygii then why not exclude lungfish and coelacanths for the same reason?
+
+Kutta 21 Aug 2010 17:41 UTC
+3 points
+
+0
+
+I have no idea what you mean by modern art. “Modern” referring to the time of creation or to a loose collection of specific artistic movements thriving mostly in the first half of the 20th century? Neither makes much sense to me when declared non-art; the first seems to include everything contemporary while the second includes, for example, Picasso or Virginia Woolf.
+
+bigjeff5 10 Feb 2011 20:21 UTC
+1 point
+
+0
+Parent
+
+Modern-art is a specific type of art that was dominant between about 1860 to 1970′ish. Famous modern-artists are Picasso, and Van Goh, among others. It tends to be quirky and weird, but much more structured than simply splashing buckets of paint on a canvass.
+
+A lot of people consider the vast majority of it to be trash. It’s telling that it can be difficult to distinguish between modern art created by truly talented painters like Picasso and a hack who couldn’t paint a simple bowl of fruit.
+
+But then, art is fuzzy and subjective, so modern-art is not entirely dead.
+
+thomblake 2 May 2011 21:53 UTC
+2 points
+
+0
+
+Typo: eluctromugnetism should be electromugnetism
+
+BethMo 27 May 2011 7:26 UTC
+5 points
+
+0
+
+The definition of art begins to matter a lot when governments have bizarre laws that require spending public funds on it—e.g. Seattle’s SMC 20.32.030 “Funds for works of art” which states that “All requests for appropriations for construction projects from eligible funds shall include an amount equal to one (1) percent of the estimated cost of such project for works of art...”
+
+Of course, the law doesn’t even attempt to define what is and isn’t “art”. They leave that up to the Office of Arts and Cultural Affairs… and I’m sure those folks spend PLENTY of time (also at public expense) debating exactly that question.
+
+ctuck 14 May 2012 19:16 UTC
+3 points
+
+0
+
+I think that Public_Heretic and Eielizer are actually having a disagreement about the definition of the word “Category”.
+
+If Eliezer says that a Category is “a label applied to a set of words that describe things which are similar”, Then he is correct to say that a Category is “Wrong” or “not a proper category” if the words contained in the set do not describe things which are similar.
+
+If Public_Heretic defines a Category as “a label applied to a set of words that describe things”, then he is correct in saying that there can be no wrong or false categories, so long as the label is applied to a set of words.
+
+I’m sure they would both agree to the point that a label applied to a set of words that describe things which are similar is more useful than a label applied to a set of words that describes things which are not similar.
+
+Benevolence 12 Jul 2012 3:38 UTC
+1 point
+
+0
+
+Eliezer:
+
+Its hard for me to put it into words… but i have that feeling in the back of my head of something being wrong.
+
+Maybe I’m a gullible philistine, because while i don’t personally appreciate it, I do hold modern art to fall under the “art” category. Python, not so. Python is more of a tool it seems. You could say that a Python program could be art, and I would accept that. but the language itself doesn’t seem to fit “art” as much as it does “tool”.
+
+Now before you blame me of tossing around and manipulating definitions, I’m going by what i think is the current general understanding of those words. its quite useful following current understandings of words otherwise pizza quietly bucket decision.
+
+Also, you call rationality an “art”. I see where you’re going with that, and i do agree that rationality can be thought of as an art. If I’m not mistaken, your idea behind this is to keep people from falling into the trap of thinking of it as a “method” or something similar, thereby making it a conditional tool, rather than a general style of approaching life.
+
+But honestly it seems to me that saying modern art is not art is to make yourself a philistine. Saying the Python programming language is art feels like stretching the definition of art much like your example of stretching the definition of fish to include dolphins. Perhaps that statement was a jest or some sort of sarcasm i missed. If so i apologize.
+
+Anyway, i’m not going to try to put what i think art means into words, as i either dont know enough words to do so, or simply cant think of them. But i do have the concept in my mind, and it feels like this post is violating this understanding, in a somewhat hypocritical manner.
+
+DrGodCarl 3 Jan 2013 18:29 UTC
+0 points
+
+0
+Parent
+
+I know this is six months out from your original post, but I figured I’d respond anyway. Also, this is my first post, so forgive me if it’s not of the quality expected.
+
+It would appear you view the language as the tool and the products of the language as art, much like the paintbrush and the painting. Would it be fair to say that most, if not all, nontrivial products of the language are to be considered art, at least by you? If so, consider that Python is written in English and is nontrivial. It’s compilers/​interpreters/​implementations are written in other languages as well (C, RPython, &c.) and are also nontrivial. I think with those ideas in mind it’s easier to see the tool as a piece of art; it is as though the paintbrush itself is painted and carved. The language is artfully crafted to be easily read and written. So I think, using what I have interpreted to be your meaning of the word “art” and the way you group it, we have no pizza quietly bucket decision going on here. Though you may still see this as a stretch of a boundary, it is how I see the concept of the Python language as an art.
+
+aspera 11 Oct 2012 5:18 UTC
+1 point
+
+0
+
+Maybe this is covered in another post, but I’m having trouble cramming this into my brain, and I want to make sure I get this straight:
+
+Consider a thingspace. We can divide the thingspace into any number of partially-overlapping sets that don’t necessarily span the space. Each set is assigned a word, and the words are not unique.
+
+Our job is to compress mental concepts in a lossy way into short messages to send between people, and we do so by referring to the words. Inferences drawn from the message have associated uncertanties that depended on the characteristics we believe members of the sets to have, word redundancy, etc.
+
+In principle, we can draw whichever boundaries we like in thingspace (and, I suppose, they don’t need to be hard boundaries). But EY is saying that it’s wise to draw the boundaries in a way that “feels” right, which presumably means that the members have certain things in common. Then when we make inferences, the pdfs are sharply peaked (since we required that for set membership), and the calculation is simpler to do.
+
+He also says that it’s possible to make a “mistake” in defining the sets. Does this result from the failure to be consistent in our definitions, a failure to assign uncertainties correctly, or a failure to define the sets in a wise way?
+
+johnaldis 2 Feb 2013 18:56 UTC
+0 points
+
+0
+
+I think what I mean by “Aha, this the meaning of the word flooble” is:
+“I use the word flooble in everyday life, and I feel comfortable with it. But until now I’ve never been able to ‘play Taboo’ with it. Now I can give a substantive definition of how I use it. This will be useful if I need to unpack my utterances for other people (or, conceivably, computers). Also, when people near me in ‘language space’ use the word flooble, we can compare definitions and possibly dissolve arguments.”
+
+So “the meaning” here isn’t a definition of the word (all must bow to the mighty power of the definition), but a location of my language along the ‘flooble-meaning’ axis. To put it another way, the meaning that we “feel” is the one in our (individual) heads. Of course the word has little power if you can’t use it for communication—although we shouldn’t underestimate its use in the internal monologue.
+
+In all this, I realise other people may be located at other places along the “meaning-meaning” axis, and mean something else by “Aha, this is the meaning of...” but Doug S., in the comment you link, says:
+
+I’ve come up with what is, to me, a satisfactory definition of “art”...
+
+which is a more unpacked version of “meaning” than I usually manage.
+
+The second point I want to make is about words being “wrong”—saying “fish” and meaning to include dolphins, for example.
+
+In a sense, I’m using the top of the post to argue with the bottom of it.
+
+Wondering how to define a word means you’re looking at the problem the wrong way—searching for the mysterious essence of what is, in fact, a communication signal.
+
+vs
+
+You come up with a list of things that feel similar, and take a guess at why this is so. But when you finally discover what they really have in common, it may turn out that your guess was wrong. It may even turn out that your list was wrong.
+
+We have two different uses of words here. Firstly, you have a communication signal, which means “When I say this word, I trust that it conjures a picture in your head which is broadly similar to mine.”—so, for example, you can say “go to the shops and get some fish” to your partner, and you know that they’ll bring back, not just fish, but the right kind of fish—or maybe the shop had no fish, so they got crab, or chicken. Of course, they wouldn’t argue that they’d brought home fish, but the mental picture painted by the word was sufficient that you are happy with their purchase.
+
+Secondly, you have an academic, informational label, which means “Things whose properties are generally correlated for some underlying reason, so that observations of a large set of these things carry evidence about all of these things.” “Is a trout a fish? It has scales and gills, this is good evidence, so we’ll accept that it’s likely to be a fish. Therefore we guess that it lays eggs.” Again, there is an underlying cultural assumption, but the scientific literature makes this explicit. We can actually test whether a dolphin is a (biological) fish, by looking at the properties written in the textbook.
+
+These two uses of words are related, of course, but they are different. In the first case, all you can say about the “meaning” of the word is the dictionary-writer’s approach—roughly how are people using the word? Can we form a better indication of what they mean by it than a list? A use of the word can “fail” in the sense that the idea in the speaker’s head hasn’t been transmitted to the listener, but apportioning blame in this case is pretty pointless. If we must (in order to avoid the problem in the future, for example), I put the onus on the speaker to ensure that they use words which are appropriate to their current milieu and on the listener to use the milieu to interpret the words. If you have gone back in time and say “I eat fish” and someone presents you with unwanted dolphin-meat, that was your error. If they have come to the present (their future) and say “dolphins are my favourite fish”, it’s reasonable to update their vocabulary. In either case, adapting the outliers to the population is a reasonably low-cost way of doing business.
+
+In the second use of a word, an authority really has defined the word to mean something, and a use of it can be “wrong” by not matching the definition. We can also ask “is the authority’s definition helpful?” which I think is where you’re going with “dolphins aren’t fish, even if everyone thinks they are”. If the textbooks define “fish” in such a way to include dolphins, and then we determine that dolphins don’t fit into the same categories as other fish, it’s worth taking them out of the category to avoid future confusion.
+
+As a final remark, consider the use of the word “dairy [products]”. A good way to start an argument is to ask if this classification includes eggs. (This is pertinent to me, since I’m allergic to both milk and eggs. I want to make sure people don’t give me butter, so I say “no dairy products”, and then I either say “or eggs” or “including eggs”. Experience has shown that neither of these phrasings will avoid an argument.)
+
+johnaldis 2 Feb 2013 19:01 UTC
+6 points
+
+0
+
+I think what I mean by “Aha, this the meaning of the word flooble” is:
+“I use the word flooble in everyday life, and I feel comfortable with it. But until now I’ve never been able to ‘play Taboo’ with it. Now I can give a substantive definition of how I use it. This will be useful if I need to unpack my utterances for other people (or, conceivably, computers). Also, when people near me in ‘language space’ use the word flooble, we can compare definitions and possibly dissolve arguments.”
+
+So “the meaning” here isn’t a definition of the word (all must bow to the mighty power of the definition), but a location of my language along the ‘flooble-meaning’ axis. To put it another way, the meaning that we “feel” is the one in our (individual) heads. Of course the word has little power if you can’t use it for communication—although we shouldn’t underestimate its use in the internal monologue.
+
+In all this, I realise other people may be located at other places along the “meaning-meaning” axis, and mean something else by “Aha, this is the meaning of...” but Doug S., in the comment you link, says:
+
+I’ve come up with what is, to me, a satisfactory definition of “art”...
+
+which is a more unpacked version of “meaning” than I usually manage.
+
+The second point I want to make is about words being “wrong”—saying “fish” and meaning to include dolphins, for example.
+
+In a sense, I’m using the top of the post to argue with the bottom of it.
+
+Wondering how to define a word means you’re looking at the problem the wrong way—searching for the mysterious essence of what is, in fact, a communication signal.
+
+vs
+
+You come up with a list of things that feel similar, and take a guess at why this is so. But when you finally discover what they really have in common, it may turn out that your guess was wrong. It may even turn out that your list was wrong.
+
+We have two different uses of words here. Firstly, you have a communication signal, which means “When I say this word, I trust that it conjures a picture in your head which is broadly similar to mine.”—so, for example, you can say “go to the shops and get some fish” to your partner, and you know that they’ll bring back, not just fish, but the right kind of fish—or maybe the shop had no fish, so they got crab, or chicken. Of course, they wouldn’t argue that they’d brought home fish, but the mental picture painted by the word was sufficient that you are happy with their purchase.
+
+Secondly, you have an academic, informational label, which means “Things whose properties are generally correlated for some underlying reason, so that observations of a large set of these things carry evidence about all of these things.” “Is a trout a fish? It has scales and gills, this is good evidence, so we’ll accept that it’s likely to be a fish. Therefore we guess that it lays eggs.” Again, there is an underlying cultural assumption, but the scientific literature makes this explicit. We can actually test whether a dolphin is a (biological) fish, by looking at the properties written in the textbook.
+
+These two uses of words are related, of course, but they are different. In the first case, all you can say about the “meaning” of the word is the dictionary-writer’s approach—roughly how are people using the word? Can we form a better indication of what they mean by it than a list? A use of the word can “fail” in the sense that the idea in the speaker’s head hasn’t been transmitted to the listener, but apportioning blame in this case is pretty pointless. If we must (in order to avoid the problem in the future, for example), I put the onus on the speaker to ensure that they use words which are appropriate to their current milieu and on the listener to use the milieu to interpret the words. If you have gone back in time and say “I eat fish” and someone presents you with unwanted dolphin-meat, that was your error. If they have come to the present (their future) and say “dolphins are my favourite fish”, it’s reasonable to update their vocabulary. In either case, adapting the outliers to the population is a reasonably low-cost way of doing business.
+
+In the second use of a word, an authority really has defined the word to mean something, and a use of it can be “wrong” by not matching the definition. We can also ask “is the authority’s definition helpful?” which I think is where you’re going with “dolphins aren’t fish, even if everyone thinks they are”. If the textbooks define “fish” in such a way to include dolphins, and then we determine that dolphins don’t fit into the same categories as other fish, it’s worth taking them out of the category to avoid future confusion.
+
+As a final remark, consider the use of the word “dairy [products]”. A good way to start an argument is to ask if this classification includes eggs. (This is pertinent to me, since I’m allergic to both milk and eggs. I want to make sure people don’t give me butter, so I say “no dairy products”, and then I either say “or eggs” or “including eggs”. Experience has shown that neither of these phrasings will avoid an argument.)
+
+wedrifid 3 Feb 2013 1:36 UTC
+1 point
+
+0
+Parent
+
+As a final remark, consider the use of the word “dairy [products]”. A good way to start an argument is to ask if this classification includes eggs. (This is pertinent to me, since I’m allergic to both milk and eggs. I want to make sure people don’t give me butter, so I say “no dairy products”, and then I either say “or eggs” or “including eggs”. Experience has shown that neither of these phrasings will avoid an argument.)
+
+Really? If you say “no dairy products or eggs” people will argue? This seems to imply each of:
+
+They don’t understand what a dairy is or where eggs come from.
+
+They don’t understand how logic works. (The flexibility of “Or” is usually a convenient way to express things colloquially while also being technically correct.)
+
+They think their misunderstanding of both is sufficiently important as to justify arguing with the correct usage.
+
+dirk 26 Apr 2024 11:52 UTC
+1 point
+
+0
+Parent
+
+“Or”, in casual conversation, is typically interpreted and meant as being, implicitly, exclusive (this is whence the ‘and/​or’ construction). It’s not how “or” is used in formal logic that they would misunderstand, but rather, whether you meant it in the formal-logic sense.
+
+DanielLC 7 Jul 2014 23:36 UTC
+0 points
+
+0
+Parent
+
+Why don’t you just say “No milk products or eggs”?
+
+Also, now I’m curious. Do you just happen to be allergic to both milk and eggs, or are you allergic to something they both have in common?
+
+If it’s common to have an allergy to both, that would be a good reason to call them both dairy. Although I’m not sure it’s good to use allergies as part of these definitions, since it’s dangerous to have the imprecision of common definitions when dealing with allergies. If the only sensible thing to do is say that you’re allergic to dairy and eggs, then defining dairy to include eggs just means you’ll end up being redundant.
+
+username2 15 Jul 2016 23:53 UTC
+0 points
+
+0
+
+I propose a compromise. We take dolphins from the fish list, and justly exchange it with Python on the other list.
+
+Clément Delamarre 11 Sep 2018 21:22 UTC
+1 point
+
+0
+
+Greetings ! I am new to your blog. Some articles of yours are truly enlighting me. However, there are posts like this which I clearly don’t understand the point made. The conclusion here is that you can be mistaken at categorizing things :
+
+“Categorizing is a guessing endeavor, in which you can make mistakes; so it’s wise to be able to admit, from a theoretical standpoint, that your definition-guesses can be “mistaken”. ”
+
+Such conclusion is obvious and given in almost any of your articles about words I’ve read so far. So… what’s the point here anyway? To my opinion, the article doesn’t answer to the title at all, and I read it twice.
+
+Overall, I feel a huge lack of clarity in many of your articles or perhaps it’s just me but most of the time I don’t get the big picture. I’d like to understand more of you because I see that sometimes your ideas are very interesting.
+
+Can the author or any of his readers explain to me what is he truly trying to say about definitions on this article and others, more than just “defining words are hard” and such trivial stuff please? I would gladly read you.
+
+PS1: ” A Human’s Guide to Words ” is quiet an inapropriate title for such an obscure/​unclear serial of articles about words.
+
+PS : I apologize for my never-to-be-perfect english.
+
+Дмитрий Зеленский 20 Aug 2019 18:28 UTC
+1 point
+
+0
+
+What is wrong (if you don’t try to match the real biological taxonomy of Pisces) with definition like “vertebrate constantly living in water” for “fish”? While true_fish and dolphins have some differences, they have the very common points that led to the unification in the first place.
+
+EDIT: Had already expanded upon by Scott Alexander.
+
+Jake_NB 11 Sep 2021 7:46 UTC
+1 point
+
+0
+
+I feel the need to address the python vs. modern art thing too—if you just compare the extensional list of art against the intensional definition, you’ll see that modern arts pass as arts (at least sometimes) while python definitely doesn’t. Modern arts involve some work, are intended to inspire aesthetic emotions, and often do in some people experiencing them. Python, while being an elegant tool, was not (probably) designed with the primary intention of producing emotions, but rather with the intention of being a convenient tool to code.
+
+Also, there is a legitimate quest of finding the “right definition” of a word, as in what concept it represents. Even if there is no class corresponding to it in reality (e.g. God) the existence of the word means some people treat it as a meaningful concept. If enough people use the same word with enough gravitas, and you want to talk to them about it, you will need to understand what their common ground of the idea is. Even if, as with free will, you arrive at the conclusion that there is no common ground to speak of. Not as interesting as carving reality, perhaps, but if you are somewhat interested in what other humans think, it does have merit.
+
+Connor McCormick 22 Mar 2022 2:41 UTC
+1 point
+
+0
+
+Turns out, fish don’t evenexist.
+
+Antonio D'souza 15 Jan 2024 1:41 UTC
+1 point
+
+0
+
+That fish list was a pretty good historical example but I can give you a current example: what is a continent?
+
+Back to top

@@ -1,0 +1,757 @@
+Arch Sex Behav (2014) 43:1177–1186
+DOI 10.1007/s10508-014-0275-5
+
+ORIGINAL PAPER
+
+Evidence Against a Typology: A Taxometric Analysis of the
+Sexuality of Male-to-Female Transsexuals
+Jaimie F. Veale
+
+Received: 9 July 2007 / Revised: 4 June 2012 / Accepted: 26 December 2013 / Published online: 12 March 2014
+Ó Springer Science+Business Media New York 2014
+
+Abstract Previous theories and research have suggested
+there are two distinct types of male-to-female (MF) transsexuals and these types can be distinguished by their sexuality.
+Using the scales Attraction to Femininity in Males, Core
+Autogynephilia, Autogynephilic Interpersonal Fanasy, and
+Attraction to Transgender Fiction as indicator variables,
+taxometric analysis was applied to an online-recruited sample
+of 308 MF transsexuals to investigate whether such a distinction is justified. In accordance with previous research findings,
+MF transsexuals categorized as ‘‘nonandrophilic’’ scored significantly higher on Core Autogynephilia than did those categorized as ‘‘androphilic’’; they also scored significantly higher
+on Attraction to Femininity in Males and Attraction to Transgender Fiction. Results of one of the taxometric procedures, LMode, gave slightly more support for a dimensional, rather than
+taxonic (two-type), latent structure. Results of the two other
+taxometric procedures, MAMBAC and MAXCOV, showed
+greater support for a dimensional latent structure. Although
+these results require replication with a more representative
+sample, they show little support for a taxonomy, which contradicts previous theory that has suggested MF transsexuals’
+sexuality is typological.
+Keywords Autogynephilia  Transsexuals  Sexuality 
+Gender dysphoria  Taxometric analysis
+
+J. F. Veale
+Stigma and Resilience among Vulnerable Youth Centre, School of
+Nursing, Faculty of Applied Science, University of British
+Columbia, Vancouver, BC, Canada
+J. F. Veale (&)
+Department of Psychology, University of British Columbia,
+2136 West Mall, Vancouver, BC V6T 1Z4, Canada
+e-mail: jaimie@jaimieveale.com
+
+Introduction
+The latent structure of a construct refers to whether it is
+categorical (variables either one category or the other) or
+dimensional (occurring on a continuum). Examples of categorical constructs include species, disease entity, job title,
+chemical element, or genotype. Examples of dimensional
+constructs include human height, IQ, and yearly income.
+Categorical constructs have what is referred to as a taxonic
+latent structure. Each individual category or taxon has objective boundaries to its membership, which are not imposed on a
+continuum by human social convention. For example, there is
+an objective boundary between the taxa ‘‘cat’’ and ‘‘dog’’
+whereas there is no such boundary between‘‘short’’and‘‘tall.’’
+For further explanation of the distinctions between taxonic and
+dimensional latent structures, see Meehl (1992).
+Blanchard (1989) proposed that there are two distinct
+types (taxa) of male-to-female (MF) transsexuals and these
+distinctions are characterized by their sexuality: ‘‘autogynephilic’’ or ‘‘homosexual.’’ According to Blanchard, autogynephilic MF transsexuals are sexually attracted to females
+(gynephilic), both sexes (bisexual), or neither sex (analloerotic); they are not unusually feminine in childhood; and
+prior to transitioning often live outwardly successful lives as
+males, frequently marrying and having children. These MF
+transsexuals also experience autogynephilia—a term which
+Blanchard (1989) used to refer to ‘‘a male’s propensity to be
+sexually aroused by the thought of himself as a female’’ (p.
+616). Homosexual MF transsexuals are exclusively sexually
+attracted to males (androphilic), do not experience autogynephilia, are highly feminine in their childhood, do not generally have success with attempts to live in the male role, and
+tend to present for treatment of their gender dysphoria at a
+younger age. By splitting MF transsexuals into these two
+groups based on their sexual orientation, Blanchard (1985b,
+
+123
+
+1178
+
+1988, 1989) and others (Freund, Steiner, & Chan, 1982; Johnson
+& Hunt, 1990; Nuttbrock et al., 2011a; Smith, van Goozen,
+Kuiper, & Cohen-Kettenis, 2005) have found evidence for the
+average differences between these groups that Blanchard proposed. However, these differences do not necessarily imply a
+typology exists. These results could also have been reached if
+therewasanontaxoniclatent structurewith acorrelation between
+the sexual orientation of MF transsexuals and these other differences. Although Blanchard (1985a) found some evidence for a
+taxonic latent structure of the sexuality of MF transsexuals by
+obtaining cut-off scores for classifying MF transsexuals into
+two groups using an earlier version of the taxometric procedures
+described in this article, he did not specifically test whether the
+sexuality of MF transsexuals was taxonic or dimensional.
+From studies of physiological measurements of sexual
+arousal, it has also been observed that the sexual orientation of
+biological males, including MF transsexuals, is more category-specific than in biological females (Chivers, Rieger,
+Latty, & Bailey, 2004; Lawrence, Latty, Chivers, & Bailey,
+2005). This means that biological males are more likely to
+respond physiologically to those that they report sexual
+attractions to. Studies have also shown that androphilic MF
+transsexuals have a higher number of older brothers than
+nonandrophilics (Blanchard & Sheridan, 1992; Gómez-Gil
+et al., 2011; Green, 2000; but see Veale, Clarke, & Lomax,
+2010b). While this finding is in accordance with Blanchard’s
+typology, it is also plausible that fraternal birth order is related
+to sexual orientation but not gender identity in all biological
+males. There have been mixed findings of sexual orientation
+difference in studies examining other biological variables
+related to transsexualism (see Simon et al., 2013; Veale, Clarke,
+& Lomax, 2010a).
+To investigate the latent structure of the sexuality of MF
+transsexuals, data collected online which examined the sexuality of MF transsexuals was analyzed using the taxometric
+method created by Meehl (1973, 1992). This method has been
+established as a robust and valid indicator of latent structure,
+withstanding skewed indicators, and is superior to other methods of detecting homogenous groups (e.g., cluster analysis) at
+detecting whether data are dimensional or taxonic (Meehl &
+Yonce, 1994, 1996; Ruscio, Haslam, & Ruscio, 2006).
+
+Method
+Participants
+Participants were recruited for a survey investigating the
+sexuality of MF transsexuals through online forums and
+mailing lists and New Zealand transgender social and support
+groups. In total, 406 MF transsexuals responded to the survey.
+
+123
+
+Arch Sex Behav (2014) 43:1177–1186
+
+The data from 98 participants could not be included because
+they did not complete all scales, leaving a sample of 308.
+Eleven of these responses were collected using a paper survey; the remainder was via an Internet survey.
+The first 184 participants answered a 162-item mostly multiple-choice online questionnaire, which assessed demographics
+and 12 aspects of their sexuality (Veale, Clarke, & Lomax, 2008).
+These participants’agesranged from 16 to79 years,with anaverage age of 39.93 (SD = 14.16). Participants identified as European (90 %), Asian (4 %), Maori (2 %), Pacific Island (1 %),
+‘‘other’’ (3 %), and 4 % did not give an ethnicity. The questionnaire was then shortened to contain only the five scales used in
+this study with demographic questions omitted. This shortened
+questionnaire was completed by a further 124 participants.
+Measures
+To identify which scales could be used for the taxometric
+analysis, the MAXCOV procedure (Meehl & Yonce, 1996)
+was used to classify MF transsexuals into two groups. Four of the
+12 scales completed by the first 184 participants could distinguish these groups greater than the minimum of d = 1.25 recommended by Ruscio et al. (2006). These four scales (Attraction
+to Feminine Males, Attraction to Transgender Fiction, Core
+Autogynephilia, and Autogynephilic Interpersonal Fantasy)
+were used as the indicator variables for the taxometric analysis.
+Attraction to Feminine Males (Veale et al., 2008)
+This scale measures sexual attraction to feminine features in
+males (e.g., long hair, feminine face). There were six items in
+the scale and participants responded on a 5-point response
+scale from not at all (0) to extremely (4). Among this sample,
+the internal reliability coefficient was a = .94. From factor
+analysis, one factor emerged with an eigenvalue greater than
+1; this factor accounted for 70 % of the variance and all six
+items loaded on the factor from .77 to .92 (Veale, 2005).
+Attraction to Transgender Fiction (Veale et al., 2008)
+This scale measured sexual attraction to themes found in
+transgender fiction (e.g., cross-dressing, female-male character swap). There were 12 items in the scale and participants
+responded on a 5-point response scale from not at all sexually
+arousing (0) to extremely sexually arousing (4). In this sample,
+the internal reliability coefficient was a = .96. From factor
+analysis, one factor emerged with an eigenvalue greater than 1;
+this factor accounted for 70 % of the variance and all 12 items
+loaded on the factor from .78 to .87 (Veale, 2005).
+
+Arch Sex Behav (2014) 43:1177–1186
+
+1179
+
+Core Autogynephilia Scale (Blanchard, 1989)
+
+Data Analysis
+
+This 9-item scale measures sexual attraction to the fantasy of
+being a woman. It was created from an emerging factor from a
+factor analysis sampling 2,700 biological males presenting at
+a gender clinic and had an internal reliability of a = .95
+(Blanchard, 1989). Among the present sample, the internal
+reliability coefficient was a = .97. From factor analysis, one
+factor emerged with an eigenvalue greater than 1; this factor
+accounted for 81 % of the variance and all six items loaded on
+the factor from .70 to .95 (Veale, 2005).
+
+Cluster analysis was undertaken using SPSS version 18.
+Taxometric data analysis was conducted using the software
+package provided by Ruscio et al. (2006) that uses the R
+environment.
+The Mean Above Minus Below A Cut (MAMBAC) procedure searches for a cutting score that, if two groups exist,
+will be optimal for differentiating between taxonic groups.
+MAMBAC results—like the results of the other taxometric
+procedures used in this research—are produced on a graph.
+An optimal cutting score is illustrated by a curve with a peak
+or upside-down V shape on the graph. If a graph with this
+shape is produced, then this is evidence of a taxonic latent
+structure. If there is no peak to the curve, then there is no
+optimal cutting score, suggesting dimensional latent structure. For further explanation of the logic of this procedure, see
+Meehl and Yonce (1994) and Ruscio et al. (2006).
+The Maximum Covariance (MAXCOV) procedure examines the covariance of indicators in subsamples of the data,
+referred to as windows. MAXCOV graphs produce low levels of
+covariance in windows that include only members of the same
+taxon. Windows that include a mixture of members from different taxa produce higher levels of covariance. Dimensional data
+only contain one taxon, so the level of covariance stays the same
+throughout the dataset. Taxonic data contain two taxa, so the
+covariance will be higher in the central windows where the taxa
+are mixed and lower at the extremes where the windows contain
+data from only one taxon. Therefore, peaked curves are evidence of taxonic latent structure for the MAXCOV analysis as
+well. The MAXCOV graphs we produce have a standardized
+input indicator (X-axis), with a score of 1 indicating one SD. For
+further explanation of the logic of the MAXCOV procedure, see
+Meehl and Yonce (1996) and Ruscio et al. (2006).
+Unlike the MAMBAC and MAXCOV procedures which use
+coherent cut kinetics, Latent Mode (L-Mode) analysis calculates factor scores to separate taxa. L-Mode graphs plot the
+frequency distributions of the scores estimated based on factor
+extraction from factor analysis. In these graphs, taxonic structured data produces a bimodal distribution, while dimensional
+data produces a unimodal distribution (Ruscio et al., 2006).
+For the MAMBAC, MAXCOV, and L-Mode procedures,
+we simulated sampling distributions that replicated the data
+using bootstrapping procedures. A total of 100 of these distributions simulated taxonic distributions with the correlational
+and distributional attributes of the research data and 100 simulated dimensional distributions with these attributes (see Ruscio
+& Kaczetow, 2009). Comparison curve fit indices (CCFI) are
+also calculated to assess the relative fit of the dimensional and
+taxonic models; a score of 0 indicates the strongest support for
+the dimensional model, a score of 1 provides the strongest
+
+Autogynephilic Interpersonal Fantasy Scale
+(Blanchard, 1989)
+This 4-item scale measures sexual attraction to being admired
+by another person as a woman. It was another emerging factor of
+the factor analysis among the sample of 2,700 and had an internal reliability of a = .86 (Blanchard, 1989). Among the present
+sample, the internal reliability coefficient was a = .88. From factor analysis, one factor emerged with an eigenvalue greater
+than 1; this factor accounted for 74 % of the variance and
+all six items loaded on the factor from .63 to .94 (Veale, 2005).
+Alterations were made to the Core Autogynephilia and
+Autogynephilic Interpersonal Fantasy scales from Blanchard’s
+(1989) original versions. Response options were altered from
+2-point yes or no scales to 6-point Likert scales from never (0)
+to all the time (5) to make the scales more sensitive to variations in participants’ answers. Changes were made to the
+questions in the Core Autogynephilia scale so that participants were asked if they have ever been sexually aroused
+when picturing themselves with attractive or more attractive
+female physical features. The ‘‘attractive or more attractive’’
+part was added to Blanchard’s (1989) original version of the
+scale to make the questions more applicable to biological
+females who also responded to the questionnaire. The skip
+instructions were also changed so that participants answering
+negatively to the first two questions of the Core Autogynephilia Scale would skip the final two questions.
+Sex Linked Behaviors Questionnaire (McConaghy, 1998)
+This questionnaire was used to determine sexual orientation. It
+contains eight items asking about sexual fantasy, sexual arousal,
+and sexual attraction to males or females (e.g.,‘‘Rate the degree
+to which in your current sexual fantasies you are aroused by
+males’’). Response options were 6-point Likert scales from never
+(0) to all the time (5). In this study, the four items measuring
+sexual attraction to females (gynephilia) had an alpha coefficient
+of a = .86 and the four items measuring androphilia had an internal reliability coefficient of a = .85.
+
+123
+
+1180
+
+Arch Sex Behav (2014) 43:1177–1186
+
+support for the taxonic model, and a score of .5 indicates
+equally good or poor support for either structure (Ruscio et al.,
+2006).
+
+Results
+Sexual Orientation of Participants
+Participants’ sexual orientation was categorized in accordance
+with Blanchard (1989). Scores on the androphilia and gynephilia subscales were subjected to k-means cluster analysis with
+four clusters selected for output. Results of this cluster analysis
+
+are shown in Fig. 1. The relative cutoffs for clusters on scales of
+androphilia and gynephilia were almost equivalent to those
+found by Blanchard (see Fig. 1 of Blanchard, 1989, but note that a
+different measure of sexual orientation was used by Blanchard).
+In accordance with Blanchard’s theory, participants were
+also categorized as androphilic or nonandrophilic (by collapsing
+gynephilic, analloerotic, and bisexual categories). Differences
+between these two groups’ average scores on the indicator variables used in this taxometric analysis were tested using a MANOVA. The results of this are shown in Table 1. Participants in
+the androphilic group scored lower, on average, on Core Autogynephilia, Attraction to Feminine Males, and Attraction to Transgender Fiction scales. There was no significant difference
+between the groups on average Autogynephilic Interpersonal
+Fantasy Score.
+
+MAMBAC
+Figures 2 and 3 illustrate the results of the MAMBAC procedure. In Fig. 2, single variables are used as output indicators
+and the remaining three variables were summed to provide a
+composite input indicator, which has 50 cuts along its scale.
+These, and all of the settings used in subsequent graphs, were
+recommended by Ruscio (2009).
+Figure 3 shows simulated taxometric and dimensional comparison data using the 100 simulated comparison data sets. The
+darker lines on the graphs in Fig. 3 represent the research data;
+the lighter lines represent the range of the comparison data. The
+graphs show that the simulated dimensional data provided a
+better fit for the research data. While there was a slight peak near
+the middle of the curve which is a characteristic of taxonic data,
+the outsides of the curve were upturned, which is a characteristic
+of dimensional data. This observation is backed-up up by the
+comparison curve fit index (CCFI) score of .33.
+
+Fig. 1 K-means cluster analysis of scores of sexual orientation
+
+Table 1 Descriptive statistics for indicator variables with results of a
+MANOVA test for sexual orientation group differences
+Possible F
+Androphilic
+range
+(1, 306) (n = 36)
+
+Attraction to
+feminine
+males
+
+Nonandrophilic
+(n = 272)
+
+M
+
+SD
+
+M
+
+SD
+
+4.17
+
+0–32
+
+9.22**
+
+3.81
+
+8.57
+
+9.29
+
+Core
+0–45
+autogynephilia
+
+4.93*
+
+14.08 14.66 19.00
+
+12.21
+
+Autogynephilic
+interpersonal
+fantasy
+
+0–20
+
+0.03
+
+8.18
+
+6.12
+
+8.02
+
+5.26
+
+Attraction to
+transgender
+fiction
+
+0–48
+
+5.96*
+
+6.24
+
+9.99 11.67
+
+12.80
+
+* p\.05, ** p\.01
+
+123
+
+MAXCOV
+Figures 4 and 5 illustrate the results of the MAXCOV analysis.
+In Fig. 4, pairs of variables were used as output indicators and
+the remaining two variables were used as composite input
+indicators with 25 overlapping windows using a 90 % level of
+overlap.
+Figure 5 shows simulated taxometric and dimensional comparison data using 10 simulated comparison data sets. The
+graphs show that although the research data show some evidence of a peak in the middle, the simulated dimensional data
+provide a better fit for the research data. This is reflected in the
+CCFI score of .30.
+The Attraction to Feminine Males Scale discriminated
+groups in the MAXCOV analysis at d = 1.60, the Attraction
+to Transgender Fiction scale discriminated groups at d = 2.50,
+
+Mean difference, Core
+Autogynephilia Scale
+Mean difference, Attraction
+to Transgender Fiction
+
+Mean difference, Autogynephilic
+Interpersonal Fantasy
+
+Fig. 2 MAMBAC graphs using
+single variables as output and the
+composite of the remaining
+variables as input
+
+1181
+Mean difference, Attraction
+to Feminine Males
+
+Arch Sex Behav (2014) 43:1177–1186
+
+Fig. 3 MAMBAC graphs
+comparing research data to
+simulated taxonic and
+dimensional data
+
+the Core Autogynephilia scale discriminated groups at d = 1.96,
+and the Autogynephilic Interpersonal Fantasy scale discriminated groups at d = 1.70.
+The Inchworm Consistency Test was also used to extend
+the possibility of identifying small taxa. Each of the 25 windows in the previous MAXCOV analysis contains data from
+91 cases, which is 29 % of the sample. If a taxon group were a
+smaller proportion of the sample than this (e.g., 10 % of the
+sample), then it would not be detectable in the above graphs.
+The Inchworm Consistency Test was performed using 50 and
+100 windows so that each window contained data from as
+little as 9 % of the sample. This benefit of a lower sample size
+in each window was offset by the increase in sampling error
+characteristic of smaller samples. Figure 6 compares 100
+window graphs to 50 window graphs using single indicators
+as input, and composite eigenvalues (summed from the
+covariance matrix) of the three other variables as output. No
+further information about the latent structure of the data could
+be obtained from these graphs.
+
+L-Mode
+Results of L-Mode analysis are shown in Fig. 7. In the graph
+outlining the research and comparison data, the research data
+was plotted as the dark solid line, the average of the simulated
+taxonic data was plotted on a lighter solid line, and the average
+of the simulated dimensional data was plotted on a lighter
+dotted line. Figure 7 shows that the simulated dimensional data
+provided a slightly better fit for the research data. This is reflected
+in the CCFI score of .46.
+
+Discussion
+Overall, this taxometric analysis found evidence for a dimensional latent structure for the sexuality of MF transsexuals.
+Results of the MAMBAC and MAXCOV analysis supported a
+dimensional latent structure. The L-Mode result was more
+
+123
+
+Covariance, Attraction to Feminine
+Males and Autogynephilic
+Interpersonal Fantasy
+Covariance, Core Autogynephilia
+and Autogynephilic Interpersonal
+Fantasy
+Covariance, Autogynephilic
+Interpersonal Fantasy and
+Attraction to Transgender Fiction
+
+Covariance, Core
+Autogynephilia and Attraction
+to Transgender Fiction
+
+Covariance, Attraction to
+Feminine Males and Attraction
+to Transgender Fiction
+
+Fig. 4 MAXCOV graphs using
+two variables as output and the
+composite of the remaining
+variables as input
+
+Arch Sex Behav (2014) 43:1177–1186
+
+Covariance, Attraction to
+Feminine Males and Core
+Autogynephilia
+
+1182
+
+Fig. 5 MAXCOV graphs
+comparing research data to
+simulated taxonic and
+dimensional data
+
+ambiguous, but still slightly more suggestive of dimensional
+structure.
+Blanchard’s (1989) typological theory proposed two distinct
+etiological pathways of MF transsexualism based on sexuality,
+which should manifest in a taxonic latent structure of MF transsexuals’ sexuality, especially in measures related to this theory.
+This study’s finding of evidence for a dimensional latent struc-
+
+123
+
+ture is inconsistent with Blanchard’stheory. More recent theories
+that explain this sexuality diversity of transsexuals and other
+people with gender-variant identities using social and psychological factors do not rely on a typological distinction. Nuttbrock
+et al. (2011a) found that transvestic fetishism, a component of
+autogynephilia, was positively related to age and White ethnicity. They argued that expression of a gender-variant identity in
+
+Arch Sex Behav (2014) 43:1177–1186
+
+1183
+
+Fig. 6 Inchworm Consistency
+Test graphs comparing 50
+windows with 100 windows for
+the four indicators as input;
+composite eigenvalues of the
+remaining four variables are used
+as output
+
+50 Windows, Attraction to
+Feminine Males
+
+100 Windows, Attraction to
+Feminine Males
+
+50 Windows, Core
+Autogynephilia
+
+100 Windows, Core
+Autogynephilia
+
+50 Windows, Autogynephilic
+Interpersonal Fantasy
+
+100 Windows, Autogynephilic
+Interpersonal Fantasy
+
+50 Windows, Attraction to
+Transgender Fiction
+
+100 Windows, Attraction to
+Transgender Fiction
+
+older and White people tends to be more secretive and therefore
+experienced as exotic and associated with physiological and
+emotional arousal, leading to the sexual arousal component. In a
+follow-up article, Nuttbrock, Bockting, Rosenblum, Mason, and
+Hwahng (2011b) found evidence that secretive cross-dressing
+partially mediated the relationship between transvestic fetishism
+
+and both age and ethnicity. Veale, Lomax, and Clarke (2010c)
+independently proposed a similar theory to account for autogynephilia. As well as these social factors, their Identity-Defense
+Theory proposed that personality factors and coping style/
+defense mechanism use may also account for some of
+this difference. The findings of this study were more
+
+123
+
+1184
+
+Arch Sex Behav (2014) 43:1177–1186
+
+Fig. 7 L-Mode curve and
+comparisons to simulated taxonic
+and dimensional data
+
+consistent with these recent theories than Blanchard’s typological theory.
+A dimensional latent structure of the sexuality of MF transsexuals could fit with recent findings of notable overlap in the
+reported autogynephilia in different sexual orientation subtypes
+of MF transsexuals. Nuttbrock et al. (2011a) found that gynephilic MF transsexuals (82 %) were significantly more likely
+to report lifetime transvestic fetishism than bisexuals (68 %).
+Lawrence (2010) reminded us that Blanchard (1985b) also
+reported similar findings and described this difference between
+gynephilic and bisexual MF transsexuals as ‘‘theoretically
+unimportant’’ (p. 1012). In response to this, Nuttbrock, Bockting, Rosenblum, Mason, and Hwahng (2010) maintained that
+thesedifferences, alongwith the finding that bisexualswere more
+likely to not report transvestic fetishism into adolescence could
+be important to understanding the phenomena. Using the same
+sample as this study, Veale et al. (2008) found none of those categorized as analloerotic were also categorized as autogynephilic
+and this was the lowest frequency out of the four sexual orientation categories. A dimensional latent structure is also in accordance with the qualitative data collected on this sample in which
+many of the transsexuals felt Blanchard’s typology was too
+narrow and did not allow for experiences that did not fit completely into one of his two categories (Veale, Clarke, & Lomax,
+2012).
+In addition to the taxometric evidence, this study produced a
+numberofotherinterestingfindings.In accordancewithprevious
+research (Blanchard, 1989; Freund et al., 1982; Johnson & Hunt,
+1990; Nuttbrocket al., 2011a; Smith et al., 2005), androphilicMF
+transsexuals scored significantly lower than nonandrophilics on
+Core Autogynephilia. This difference was also seen for the Attraction to Transgender Fiction and Attraction to Feminine Males
+scales, which was expected given that these are measuring phenomena closely relating to autogynephilia. Veale et al. (2008)
+reported similar findings using this sample with groups based
+on cluster analysis. In the present study, though, participants
+were grouped using cutoff scores estimated as what these cutoffs would be if a taxonic latent structure exists, using simulated
+taxonic data. It is notable that feminine males were reported as
+
+123
+
+significantly more attractive to the nonandrophilic group even
+though many of these participants would, by definition, not be
+attracted to males at all. Related to this is the observation that MF
+transsexuals sometimes report attractions to other MF transsexuals and will often partner with them (Lawrence, 2013).
+It is also notable that the Attraction to Transgender Fiction
+scale had greater ability to separate potential taxa in the
+MAXCOV analysis than the Core Autogynephilia scale. This
+finding suggests that what differentiates sexuality in MF
+transsexuals most may not be‘‘core autogynephilia,’’but rather
+attraction to themes found in transgender fiction. However, this
+finding could also be explained by validity concerns with the
+way core autogynephilia was measured. Participants may have
+ascribed different meanings to questions asking of sexual
+attraction to oneself as a woman, whereas questions of attraction to transgender fiction do not have such ambiguity. Also,
+autogynephilia was not measured on the binary response scale
+that Blanchard proposed and was instead measured on a 6-point
+Likert scales from never to all the time. The amount of time a
+person is sexually attracted to something is not consistent with
+standard definitions of sexual attraction (Sell, 1997). Another
+notable finding is that androphilic and nonandrophilic MF
+transsexuals did not differ in Autogynephilic Interpersonal
+Fantasy. However, this finding was consistent with Blanchard’s
+(1989) study and can be explained by gynephilic and analloerotic MF transsexuals having similar levels of Autogynephilic
+Interpersonal Fantasy to androphilics.
+Another point of discussion is that the measures of sexual
+orientation did not reach the cut-off of d = 1.25 to be included in
+the taxometric analysis. This is likely to be because singularly the
+two sexual orientation scales lacked the ability to discriminate
+between Blanchard’s subtypes—those in Blanchard’s homosexual subtype would be expected to score high on sexual attraction
+to males and low on sexual attraction to females. However, high
+scores of sexual attraction to males would also be expected
+among bisexual and low scores of sexual attraction to females
+would also be expected among analloerotic (autogynephilic)
+transsexuals. The sexual orientation questions were also altered
+so that the responses indicated the amount of time the participants
+
+Arch Sex Behav (2014) 43:1177–1186
+
+experienced sexual attraction to males or females, not fitting with
+standard definitions of sexual orientation (see above).
+This research was conducted on a mostly internet sample that
+was not representative ofthe wider transsexual population. With
+regard to Blanchard’s MF transsexual subtypes, this method of
+sampling has been criticized for significantly under-representing the androphilic subtype(Lawrence & Bailey, 2009).However,
+using the same analysis method as Blanchard (1989), 36 out of 308
+participants were categorized as androphilic (12 % of the sample).
+Ruscio et al. (2006) suggested a minimum sample size of 300 with
+the smallest taxon constituting a minimum of 10 % of the sample.
+This study meets those minimum requirements. There was no
+further evidence of taxonic latent structure from the Inchworm
+Consistency Test—a procedure for identifying small taxa.
+Although these results need replication using a more representative sampling strategy, they provide evidence against a typology of the sexuality of MF transsexuals as Blanchard (1989)
+proposed.
+Acknowledgments Dave Clarke and Terri Lomax supervised the
+project and provided feedback on an early draft of this article.
+
+References
+Blanchard, R. (1985a). Research methods for the typological study of
+gender disorders in males. In B. W. Steiner (Ed.), Gender dysphoria:
+Development, research, management (pp. 227–257). New York:
+Plenum Press.
+Blanchard, R. (1985b). Typology of male-to-female transsexualism.
+Archives of Sexual Behavior, 14, 247–261.
+Blanchard, R. (1988). Nonhomosexual gender dysphoria. Journal of Sex
+Research, 24, 188–193.
+Blanchard, R. (1989). The concept of autogynephilia and the typology of
+male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R., & Sheridan, P. M. (1992). Sibship size, sibling sex ratio, birth
+order, and parental age in homosexual and nonhomosexual gender
+dysphorics. Journal of Nervous and Mental Disease, 180, 40–47.
+Chivers, M. L., Rieger, G., Latty, E., & Bailey, J. M. (2004). A sex
+difference in the specificity of sexual arousal. Psychological
+Science, 15, 736–744.
+Freund, K., Steiner, B. W., & Chan, S. (1982). Two types of cross-gender
+identity. Archives of Sexual Behavior, 11, 49–63.
+Gómez-Gil, E., Esteva, I., Carrasco, R., Almaraz, M. C., Pasaro, E.,
+Salamero, M., & Guillamon, A. (2011). Birth order and ratio of
+brothers to sisters in Spanish transsexuals. Archives of Sexual
+Behavior, 40, 505–510.
+Green, R. (2000). Birth order and ratio of brothers to sisters in
+transsexuals. Psychological Medicine, 30, 789–795.
+Johnson, S. L., & Hunt, D. D. (1990). The relationship of male transsexual
+typology to psychosocial adjustment. Archives of Sexual Behavior,
+19, 349–360.
+Lawrence, A. A. (2010). A validation of Blanchard’s typology: Comment
+on Nuttbrock et al. (2010) [Letter to the Editor]. Archives of Sexual
+Behavior, 39, 1011–1015.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. New York: Springer.
+
+1185
+Lawrence, A. A., & Bailey, J. M. (2009). Transsexual groups in Veale
+et al. (2008) are‘‘autogynephilic’’and‘‘even more autogynephilic’’
+[Letter to the Editor]. Archives of Sexual Behavior, 38, 173–175.
+Lawrence, A. A., Latty, E. M., Chivers, M. L., & Bailey, J. M. (2005).
+Measurement of sexual arousal in postoperative male-to-female
+transsexuals using vaginal photoplethysmography. Archives of
+Sexual Behavior, 34, 135–145.
+McConaghy, N. (1998). Sex-linked behaviors questionnaire. In C. M.
+Davis, W. L. Yarber, R. Bauserman, G. Schreer, & S. L. Davis (Eds.),
+Handbook of sexuality-related measures (pp. 402–407). Thousand
+Oaks, CA: Sage.
+Meehl, P. E. (1973). MAXCOV-HITMAX: A taxonomic search method
+for loose genetic syndromes. In P. E. Meehl (Ed.), Psychodiagnosis:
+Selected papers (pp. 200–224). Minneapolis: University of Minnesota Press.
+Meehl, P. E. (1992). Factors and taxa, traits and types, differences of
+degree and differences in kind. Journal of Personality, 60, 117–
+174.
+Meehl, P. E., & Yonce, L. J. (1994). Taxometric analysis: I. Detecting
+taxonicity with two quantitative indicators using means above and
+below a sliding cut (MAMBAC procedure). Psychological
+Reports, 74, 1059–1274.
+Meehl, P. E., & Yonce, L. J. (1996). Taxometric analysis: II. Detecting
+taxonicity using covariance of two quantitative indicators in
+successive intervals of a third indicator (MAXCOV procedure).
+Psychological Reports, 78, 1091–1227.
+Nuttbrock, L., Bockting, W. O., Mason, M., Hwahng, S., Rosenblum, A.,
+Macri, M., & Becker, J. (2011a).A further assessment ofBlanchard’s
+typology of homosexual versus non-homosexual or autogynephilic
+gender dysphoria. Archives of Sexual Behavior, 40, 247–257.
+Nuttbrock, L., Bockting, W., Rosenblum, A., Mason, M., & Hwahng, S.
+(2010). The limitations of Blanchard’s typology: A response to
+Lawrence (2010) [Letter to the Editor]. Archives of Sexual Behavior,
+39, 1017–1020.
+Nuttbrock, L., Bockting, W., Rosenblum, A., Mason, M., & Hwahng, S.
+(2011b). Sexual arousal associated with private as compared to public
+feminine dressing among male-to-female transgender persons: A
+further responseto Lawrence (2011)[Letterto theEditor].Archives of
+Sexual Behavior, 40, 1093–1096.
+Ruscio, J. (2009). Taxometric programs for the R computing environment:
+User’s manual. Retrieved from http://www.taxometricmethod.com/
+TaxProgManual%202009-05-15.pdf.
+Ruscio, J., Haslam, N., & Ruscio, A. M. (2006). Introduction to the
+taxometric method: A practical guide. Mahwah, NJ: Lawrence
+Erlbaum Associates.
+Ruscio, J., & Kaczetow, W. (2009). Differentiating categories and
+dimensions: Evaluating the robustness of taxometric analysis.
+Multivariate Behavioral Research, 44, 259–280.
+Sell, R. L. (1997). Defining and measuring sexual orientation: A review.
+Archives of Sexual Behavior, 26, 643–658.
+Simon, L., Kozák, L. R., Simon, V., Czobor, P., Unoka, Z., Szabó, Á., &
+Csukly, G. (2013). Regional grey matter structure differences between
+transsexuals and healthy controls: A voxel based morphometry study.
+PLoS ONE, 8(12), e83947.
+Smith, Y. L. S., van Goozen, S. H. M., Kuiper, A. J., & Cohen-Kettenis,
+P. T. (2005). Transsexual subtypes: Clinical and theoretical
+significance. Psychiatry Research, 137, 151–160.
+Veale, J. F. (2005). Love of oneself as a woman: An investigation into the
+sexuality of transsexual and other women. Unpublished master’s
+thesis, Massey University, Auckland, New Zealand.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2008). Sexuality of male-tofemale transsexuals. Archives of Sexual Behavior, 36, 586–597.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2010a). Biological and
+psychosocial correlates of adult gender-variant identities: A
+review. Personality and Individual Differences, 48, 357–366.
+
+123
+
+1186
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2010b). Biological and
+psychosocial correlates of adult gender-variant identities: New
+findings. Personality and Individual Differences, 49, 252–257.
+Veale, J. F., Clarke, D. E., & Lomax, T. C. (2012). Male-to-female
+transsexuals’ impressions of Blanchard’s autogynephilia theory.
+International Journal of Transgenderism, 13, 131–139.
+
+123
+
+Arch Sex Behav (2014) 43:1177–1186
+Veale, J. F., Lomax, T. C., & Clarke, D. E. (2010c). The identity-defence
+model of gender-variant development. International Journal of
+Transgenderism, 12, 125–138.
+
+

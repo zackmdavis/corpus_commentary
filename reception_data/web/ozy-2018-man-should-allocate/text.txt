@@ -1,0 +1,1407 @@
+About
+
+Comment Policy
+
+Thing of Things
+
+~ The gradual supplanting of the natural by the just
+
+Search:
+
+Man Should Allocate Some More Categories
+
+18
+Monday
+Jun 2018
+
+Posted by ozymandias in feminism
+
+≈ 87 Comments
+
+Tags
+
+ozy blog post, speshul snowflake trans
+
+My friend M. Taylor Saotame-Westlake wrote a blog post during my parental leave from this blog, in which he disagrees with Scott Alexander’s The Categories Were Made For Man Not Man For The Categories and in true dialectical fashion I am disagreeing with both of them.
+
+No one wants to read two long blog posts about the epistemology of transness before they can read my blog post, so let’s sum up the argument so far. Scott argues that categorizations don’t come from the Big Dictionary Up In The Sky: they’re justified based on usefulness. For example, a whale is not a fish to a biologist, because whales are more closely related to other mammals like humans. But a whale is totally a fish to King Solomon, because King Solomon mostly cares about whether a whale is in the ocean or on land. Neither definition is strictly speaking “wrong”: it just depends on whether you’re talking about evolution or planning a hunting trip.
+
+Scott then extends this argument to apply to trans people. Trans men may not be male in a certain biological sense, because they don’t produce small gametes and usually produce large gametes. However, it makes trans men happy to be called men, so we might as well classify them as men.
+
+Taylor points out that there are totally shenanigans going on here. There are two different senses of the word “useful.” Calling a whale a fish is useful in the sense that it captures a group of creatures that share certain traits in common, such as swimming and typically having an aquatic habitat and being the sort of thing you would use a boat to hunt. Calling a trans man a man is useful in the sense that it makes him happy.
+
+You can perfectly well agree that definitions aren’t objectively true and we should use the one that is most useful in the first sense, without agreeing that we should use the one that is most useful in the second sense. For example, if there exists a person who has read entirely too much Strunk and White and insists that “flammable” should mean “not capable of being lit on fire,” they may feel very strongly about this, but I am going to ignore their opinion and instead use it to mean “capable of being lit on fire.” I do not want to hold my language use hostage to every pedant with an opinion.
+
+Now, there are several perfectly good definitions of the word “man” which Taylor and I agree on. First, there is the biological definition, a human who produces small gametes. (Since humans are not yet a sequentially hermaphroditic species, we also use “man” to refer to people who produced small gametes in the past or are going to produce small gametes in the future.) This definition is useful for writing scientific papers and speculating about evolutionary history.
+
+Second, “man” can refer to a particular cluster: people who have XY chromosomes, penises, the ability to grow a beard, testosterone-dominant hormone systems, no breasts, no ability to get pregnant, the capacity to impregnate others, etc. This is a cluster: for example, some (cisgender, non-intersex) men have breasts, can’t grow beards, are infertile, or lost their penises during World War I. This definition is useful for a variety of reasons, ranging from predicting who needs prenatal care to deciding who is likely to empathize with the horrors of the female reproductive system.
+
+By this definition, while some trans people are clearly in one cluster or another, any trans person who has biomedically transitioned is in between. For example, a trans man who has biomedically transitioned can’t get prostate cancer, but is as likely as a cisgender man to go bald.
+
+Saotome-Westlake argues for the existence of a third definition, based on psychology. He argues that (some) trans people are psychologically different from cisgender members of their identified genders: if you graph, say, how likely cisgender women are to be members of the rationalist community, and how likely transgender women are to be members of the rationalist community, these charts will not look very much like each other at all. Therefore, it makes sense to consider trans people to be members of their assigned gender at birth for some purposes.
+
+I’m not going to argue with the claim that trans people are unusual psychologically; it would be silly to do so. However, I note that transgender people are also not particularly similar to their assigned genders at birth. To pick an easily observable example, trans men are vastly overrepresented in gender studies departments, slash fiction writing communities, and lesbian events, while trans women are vastly overrepresented in esports, computer science, and lesbian events. Conversely, as far as I can tell, there has yet to be a single transgender NFL football player, while statistically there ought to be five currently playing.
+
+So by Saotome-Westlake’s argument, any group of women whose interests and personality traits, on average, observably differ from that of women as a whole ought to be classified as not actually women at all.
+
+By extension, lesbians are not women.
+
+Source. Sorry, lesbians, you really should have thought of this before you decided to be so obsessed with the L Word.
+
+Autistic women also are on thin ice.
+
+Source.
+
+And what about horny women? Sex drive is one of the best-attested differences between men and women. Of course, we wouldn’t want to mis-classify anyone, so let’s make the rules as strict as possible: if you’re a woman and you jerk off to visual porn, enjoy casual sex, have had sex with a stranger, and want sex five to six times a week, you will have to go by “he” pronouns from now on. You may pick up your testosterone shot by the door.
+
+Of course, “is this person from a group the distribution of whose personality traits is identical to that of women as a whole?” is not actually the criterion anybody actually uses to classify whether someone is male or female. That is why there is a general consensus that lesbians, autistic women, and horny women are in fact women.
+
+Nor are the problems that Saotame-Westlake identifies best solved through creating this category. In fact, both are solved by allocating new categories:
+
+He quotes a female member of a rationalist community:
+
+There have been “all women” things, like clothing swaps or groups, that then pre-transitioned trans women show up to. And it’s hard, because it’s weird and uncomfortable once three or four participants of twelve are trans women. I think the reality that’s happening is women are having those spaces less—instead doing private things “for friends,” with specific invite lists that are implicitly understood not to include men or trans women. This sucks because then we can’t include women who aren’t already in our social circle, and we all know it but no one wants to say it.
+
+I observe that I have never been invited to any all-female rationalist events.
+
+This is a good thing! On pretty much every conceivable axis, I would be a terrible person to invite to your all-female event. I am attracted to women, so there wouldn’t be the comfort of knowing no one here is sexually attracted to anyone else. I don’t know anything about fashion or makeup. I find many female social bonding rituals somewhere between offensive and incomprehensible. I would be very irritated at being invited.
+
+“That’s not fair, Ozy,” you might say, “you’re transgender, they wouldn’t invite you!”
+
+So consider my friend theunitofcaring, who has graciously agreed to be a cis female example of a person you should not invite to your female-only event.
+
+Once again, she is attracted to women. She does not care about most stereotypically female interests. She finds many social bonding rituals somewhere between offensive and incomprehensible. She has a personality that is different from the stereotypical woman on many axes, and for this reason finds women-only spaces unwelcoming and unpleasant. And, yes, she would be very irritated at being invited.
+
+She has also never received an invite to any of these events!
+
+So far, the organizers are 2/2 in terms of never inviting people they shouldn’t invite. This is a pretty good track record and they should be proud of it. However, if they replaced it with a cis-woman-only system, or a people-who-produce-large-gametes-only system, or whatever, they would invite me or theunitofcaring. The best-case scenario is that we would be irritated and not go. The worst case scenario is that we would be confused what sort of event you were running, show up with the intent to swap clothes, and ruin your event.
+
+The actual category they should be using is not “cis women.” The actual category they should be using is “people who would be contribute to the atmosphere you made this a woman-only event for.”
+
+You might argue that there are not that many cisgender female outliers. Well, let’s assume for the sake of argument that all psychological differences between men and women are correlated into a general factor of Psychological Femaleness. If the Cohen’s d effect size is 1 (commonly glossed as “large”), a full 24% of women will have less psychological femaleness than the average man, which means that 98.67% of your problem is a cisgender female problem.
+
+Or you might argue that that’s all very well if your community is 0.3% trans women, but if ten percent of the people in your community are transgender then that’s a different story. Of course, if your community is full of trans women, it is probably attractive to unusual women in general, and you should expect lots of cisgender outliers as well.
+
+[NOTE: Upon request, the second quote has been removed. If you are interested in reading what I am replying to, please go here and control-F “another (cis) female friend of the blog.” I have also been informed that the person who provided this quote does not identify as a cis woman.]
+
+I do not understand the relationship between this and psychological gender differences. It seems quite obvious that the relevant category here is “people who look like the vast majority of street harassers” versus “people who do not look like the vast majority of street harassers.” The former group uncontroversially includes some trans women (closeted trans women) and some trans men (Buck Angel) and has nothing to do with psychology anyway. No matter how female-typical a trans man’s psychology is, if he has muscles like Chris Hemsworth and a beard like a lumberjack, he belongs in the men’s room.
+
+Indeed, I would argue, there are many cis men in the former category. Even today, and much more so in the past, men’s bathrooms are not equipped with changing tables for babies. When in such a poorly-designed bathroom, some fathers will go into the women’s bathroom and use the changing table there. While obviously we should put changing tables in the men’s bathroom, I think that this use does not erode the protection women’s bathrooms have against harassers. Harassers do not carry around babies in order to have plausible deniability in the event that the woman they are harassing enters a woman’s bathroom at the same time the baby happens to poop.
+
+Similarly, early-transition trans women can be placed into the former category. In our culture, it is generally very stigmatized for men to wear dresses, skirts, makeup, and other signifiers of womanhood. In particular, catcallers and sexist harassers essentially never do: if you’re a catcaller or a sexist harasser, it is probably because you are invested in a particular style of masculinity that is completely incompatible with wearing a skirt. Therefore, allowing all dress-wearing people to use the women’s bathroom has minimal risk of allowing catcallers in. In the event that men wearing dresses and makeup is completely destigmatized to the point that even sexist assholes do so, I am happy to reexamine this statement.
+
+In fact, because of the usefulness of female clothing as a signifier of transness, there is far more danger to norms from early-transition trans men and some butch and gender-non-conforming cis women using the women’s bathroom. If followed to its logical conclusion, this argument suggests that some cis women should be using the men’s room. If strangers regularly refer to you as “sir’, then you may resemble a street harasser or a catcaller far more closely than the average early-transition trans woman, and according to the premises of this argument should use the men’s room. It’s true that cis women in the men’s room might be harassed, no matter their gender presentation, but trans women in the men’s room might be harassed too.
+
+This is not, of course, what I believe. While public bathrooms as refuge from harassment is an important purpose, more important is the primary purpose of public bathrooms, that is, a place to pee. Every person should have the ability to use the bathroom in public. Many trans people and some cis people (both assigned male at birth and assigned female at birth) are not read consistently as male or as female. People who harass and assault other people are far more likely to use the men’s room than the women’s room– that is the point of this entire discussion. If the choices are (a) never pee in public at all, (b) pee in a place where you run a moderate chance of being harassed or assaulted, or (c) slightly erode the norm that people who resemble sexual harassers should not use the women’s bathroom, I think (c) is the only ethical choice.
+
+Finally, I would like to discuss the category I think we should allocate that would make all the discussion of transness much clearer.
+
+Think about money. What do Bitcoin, gold, the little pieces of paper you get from the US government, and cigarettes in a prison have in common? What is the thing that makes all four of those things– all seemingly very different– money?
+
+The answer is that everyone agrees that they’re money. Because everyone agrees that they’re money, you expect that you will be able to exchange them for valuable things in the future. You have an incentive to accumulate cigarettes, gold, or dollar bills even if you don’t smoke, have no interest in making jewelry, and already have perfectly good toilet paper.
+
+I don’t mean to imply that there is no fact of the matter about whether things are money. Clearly there is. Dollar bills are money; Beanie Babies are not. It just happens that the reason that dollar bills are money is that everyone agrees they are money.
+
+I also don’t mean to imply that the definition of money is “things we agree upon to be money.” That would be circular. The definition of money is “any item or verifiable record that is generally accepted as payment for goods and services and repayment of debts in a particular country or socio-economic context.”
+
+Social gender is like money. For example, some cultures have more than two social genders, because everyone agrees that more than two social genders exist.
+
+Social gender is distinct from sex: no cultures have more than two sexes because they decided they did. Social gender is distinct from gender presentation: if you meet a woman with a shaved head and a fondness for cars who has cried twice in her entire life, you will not experience the slightest confusion about whether she’s a woman.
+
+Social gender is useful for prediction. Here are some things you can predict about a person based on their social gender:
+
+Pronouns
+
+Which gendered terms (“husband”, “groom”, “father”) they use
+
+Which gendered insults are used against them
+
+Which gendered holidays (Mother’s Day, Father’s Day) they celebrate
+
+Whether they wear dresses, skirts, or makeup
+
+How vicious the harassment they receive is, if they are Internet famous
+
+Whether people feel comfortable letting them hold their baby
+
+Whether they experience street harassment
+
+How many messages they get on a dating site
+
+Whether people expect them to know how to cook, clean, lift heavy things, or fix cars
+
+How likely they are to be considered a “slut” if they have lots of casual sex
+
+Whether they change their name upon getting married
+
+Whether they are expected to make career sacrifices to take care of their children
+
+And so on and so forth.
+
+Returning to the money example: if a person says that fiat currency isn’t real money, what do they mean? Obviously, they aren’t saying that you can’t exchange fiat currency for goods and services: taking them to the local WalMart will not change their opinion. Our goldbug friend isn’t suggesting that fiat currently isn’t money; they’re suggesting that it shouldn’t be money. They think that everyone should stop agreeing that fiat currency is money, and instead agree that only gold is money. It’s not a definition of what is money; it’s a criterion for what should be considered money.
+
+Similarly, “you’re a woman if you identify as a woman!” is not a definition of womanhood. It is a criterion for who should be a woman. It states that our social genders should be fully consensual: that is, if a person says “I would like to be put in the ‘woman’ category now,” you do that. Right now, this criterion is not broadly applied: a trans person’s social gender generally depends on their presentation, their secondary sexual characteristics, and how much the cis people around them are paying attention. But perhaps it would improve things if it were.
+
+Since it is not, properly speaking, a definition, the decision of who should be socially gendered male or female, and how many social genders we should have is not an epistemic decision. This decision can and should be made on purely utilitarian grounds.
+
+Share this:
+
+Share on X (Opens in new window)
+X
+
+Share on Facebook (Opens in new window)
+Facebook
+
+Like Loading...
+
+Related
+
+Post navigation
+
+← Previous post
+Next post →
+
+87 thoughts on “Man Should Allocate Some More Categories”
+
+Cara said:
+
+June 18, 2018 at 2:53 pm
+
+“Social gender is distinct from sex: no cultures have more than two sexes because they decided they did. Social gender is distinct from gender presentation: if you meet a woman with a shaved head and a fondness for cars who has cried twice in her entire life, you will not experience the slightest confusion about whether she’s a woman.”
+
+Could you elaborate more on these distinctions? Why couldn’t a culture decide they have more than 2 sexes (e.g. people with large/small penises/breasts making 4 sexes)? And is the car-fond woman in question supposed to be obviously a woman?
+
+LikeLike
+
+Reply
+
+russellsteapot42 said:
+
+June 19, 2018 at 1:27 am
+
+Sex seems to pretty clearly be related to reproduction, or at least the possession of certain organs that usually have reproductive capacities. People with larger or smaller breasts or penises don’t reproduce differently in any significant way.
+
+LikeLiked by 1 person
+
+Reply
+
+multiarmedmindset said:
+
+June 18, 2018 at 3:41 pm
+
+I’m impressed and pleased that you and MTSM have the type of gender discourse that I can read right after having woken up and not feel anxious going into my day.
+
+LikeLike
+
+Reply
+
+Sophia Kovaleva said:
+
+June 18, 2018 at 3:56 pm
+
+Now, there are several perfectly good definitions of the word “man” which Taylor and I agree on. First, there is the biological definition, a human who produces small gametes. (Since humans are not a sequentially hermaphroditic species, we also use “man” to refer to people who produced small gametes in the past or are going to produce small gametes in the future.)
+
+Humans are not a sequentially hermaphroditic species yet. Gamete growth mindset: https://www.nature.com/news/rudimentary-egg-and-sperm-cells-made-from-stem-cells-1.16636 (yeah, this method still has the XY -> sperm, XX -> egg constraint. Give it another 10 years to figure that part out – it’s not like we don’t know how to swap nuclei between cells. And also about as much time to figure out how to grow gonads in vitro, the way we already grow hearts in vitro).
+
+I sure love watching this whack-a-mole game of transphobes coming up with definitions of men and women that “surely cannot be changed, at last, we can be certain that we have found the true essence of gender”, and biologists just being like: “yo.”
+
+And I know that intersex people ask to not use them as a token in the debate about gender identity, but what else can I do when people throw around definitions of sex that completely break down in many many cases? Behold, a “man”: https://en.wikipedia.org/wiki/File:Complete_androgen_insensitivity_syndrome.jpg – maybe even producing immature sperms, and possibly even having a uterus.
+
+LikeLiked by 1 person
+
+Reply
+
+ozymandias said:
+
+June 18, 2018 at 4:45 pm
+
+Aw man I totally meant to write “yet”, it might have disappeared in edits. 😦
+
+LikeLiked by 1 person
+
+Reply
+
+M. Taylor Saotome-Westlake said:
+
+June 18, 2018 at 8:34 pm
+
+and biologists just being like: “yo.”
+
+Yo … what? I agree that intersex conditions exist. I agree that stem-cell gametes look like a plausible technological development. Perhaps you could clarify what point you’re trying to make?
+
+LikeLike
+
+Reply
+
+Sophia Kovaleva said:
+
+June 18, 2018 at 10:11 pm
+
+My point is that for basically every definition of a biological sex that attempts to draw a clean boundary – usually but not necessarily in a way that tries to emphasize that transgender people are of an “incorrect” biological sex for their gender:
+
+(1) We’re at most a couple of decades away from being able to change that for good;
+
+(2) There are a lot of people, seen by themselves and the society as cisgender, that end up being classified into an “opposite” sex.
+
+Because of that, biology-based arguments “actually, transgender people are Different” (1) are not gonna hold up at all for much longer, and (2) to the limited extent that they still hold up, they end up misclassifying a lot of people whom no one intended to misclassify. This makes me rather convinced that biology is more or less no one’s true rejection of transgender people, and is mostly being retrofit to rationalize a much simpler point of “eww, transgender people”.
+
+LikeLiked by 4 people
+
+M. Taylor Saotome-Westlake said:
+
+June 24, 2018 at 11:22 pm
+
+Re (1), you would seem to be much more optimistic than I am about future progress in biotechnology. I hope you’re right.
+
+Re (2), but it’s not a lot of people in proportional terms. It’s true that if someone were to say “an adult human is a woman if and only if they have XX chromosomes, no exceptions”, then the 5-per-100,000 XY people with complete androgen insensitivity syndrome (of whom most people would agree are women) would be a counterexample to that particular claim. But that doesn’t prevent the use of slightly-more-complicated multifactorial criteria for “biological women” with an even lower error rate (e.g., women have at least two of XX choromosomes, a vagina, and hormone levels in this-and-such a range), and—more importantly—this has nothing to do with the question how to classify natal males who don’t have androgen insensitivity syndrome.
+
+LikeLike
+
+loki said:
+
+June 26, 2018 at 10:06 am
+
+I think the reason complete androgen insensitivity syndrome is brought up so often is that it resembles a kinda theoretical ‘perfect case’: a woman who is indistinguishable from other women, has a history solely as a woman or girl, and differs only in terms of chromosomes. (You implied in your post that people with this condition are ‘natal males’, which – are they even that? *Genetic* males, sure.) And I think there are trans women who are practically there, and technology could mean that soon more of them can be.
+
+I felt a lot of.. empathy is the word I guess? when I read your article. You have some of my initial intuitions about trans stuff, and it feels like we’re maybe in a slightly similar odd position relative to the trans community of like ‘technically the only difference between me and some trans people is the decision not to transition or identify as trans’.
+
+My thing is ‘I’m pretty sure I don’t have a gender identity or properly grok what one is, but allowing people to put me in the female category sure is the path of least resistance’. It’s not a comfortable fit, and not just because of the ways in which things suck for women, but also because to the extent that ‘brain gender’ is a thing, mine’s pretty masculine. My instinctive styles of relating to people, even my body language is pretty masculine – and this is *after* 27 years of being socialised female.
+
+I guess what I’m wondering is… if we accept that the label ‘woman’ is just referring to a role, that it’s effectively self-referential, that a woman is someone that other people categorise as a woman, then I see how that’s me and maybe not a fair amount of trans women, but in that case I don’t think the category is all that useful in the way you’re talking about. Without some actual Quality of Womanliness that’s being pointed to, the things it predicts revolve around *experiences*, which either makes it self-referential again (if someone is categorised ‘woman’, I can predict that she pays more for a haircut than a man. In many salons, she will be paying more *solely because she is categorised ‘woman’* – i.e. she’ll pay more for the exact same haircut. So it’s circular.) or biological (I can predict that she’s at no risk of developing prostate cancer).
+
+If there is some actual Quality of Womanliness (and it wouldn’t have to be a single specific thing – it could be more like ‘intelligence’), then unless you weight physical appearance very highly relative to everything else, I’m not sure there’s a principled stance where I am a woman and a lot of trans women aren’t. Even the ‘type two programmer cluster’ people talk about (accepting its existence as a premise for the moment) – sure, they have some interests/areas of expertise that are statistically quite ‘male-like’ and people do love to talk about that. But I can’t imagine any fair test – again, that wasn’t weighted toward appearance – rating that group lower in the Quality of Womanliness than ‘AFAB autistic people’.
+
+LikeLike
+
+Pingback: Rational Feed – deluks917
+
+Dan said:
+
+June 18, 2018 at 6:40 pm
+
+What bonding rituals do you find particularly offensive or incomprehensible?
+
+LikeLike
+
+Reply
+
+Mircea said:
+
+June 19, 2018 at 12:23 pm
+
+Personally, I hate it when women sit around and discuss how fat and ugly they are. “No, YOU’RE gorgeous! It’s ME who is hideous! Look at my waist!” “Ohhh honey, your waist is to DIE for. I’m an absolute elephant compared to you!”
+
+LikeLiked by 1 person
+
+Reply
+
+Alice said:
+
+June 18, 2018 at 7:05 pm
+
+I don’t think you’re solving the problem of women’s spaces in any way. Maybe that’s because, as you say yourself, you don’t really understand the value in having such a space.
+
+The people organising these spaces, I gather, wanted to create open, welcoming spaces for women they might not necessarily know, so inviting specific people isn’t a solution. They also didn’t want the kind of atmosphere that was created by a large proportion of the women in the room being trans (and it’s worth considering that the average personality differences between AGP* trans women and cis women might be larger than the average personality differences between women and men. I would expect that self-completed personality questionnaires might not capture this difference, but ratings from third parties probably would. Certainly there are some stereotypical personality traits.)
+
+The solution to that problem would be to have some events that are open to cis women only. But it’s politically and socially impossible to organise such an event. The mass campaigns of aggression and hatred and harassment that are directed at women who even vaguely gesture towards organising such an event… it’s really disturbing.
+
+The solution should be “trans women are women, cis women are women, and in many circumstances such as dating, sporting events, medical treatment, getting your bits waxed or organising a girls-only clothes swap night it’s completely acceptable to draw a distinction between the two.” But that’s somehow completely outside the Overton Window, and if I was to voice that opinion aloud I’d definitely get called a TERF and I’d probably get called a Nazi.
+
+*Is there a descriptive term for the late-transitioning, frequently-autistic group of trans women other than AGP? I don’t want to be any more offensive than I need to be for clarity’s sake.
+
+LikeLike
+
+Reply
+
+Aapje said:
+
+June 18, 2018 at 9:03 pm
+
+@Alice
+
+There are rhetorical and political reasons why people don’t want that distinction to exist. Even the author of this blog has argued in favor of lying about the true nature of transness.
+
+Ceci n’est pas une pipe.
+
+LikeLike
+
+Reply
+
+Alice said:
+
+June 18, 2018 at 9:19 pm
+
+I tend to attribute it to psychological reasons, specifically that a lot of trans women have a very strong need for their status as women to be validated by others, and an equally strong, negative, and sometimes aggressive reaction to the idea that someone else might not see them how they want to be seen.
+
+I also think the psychology of this indicates that many trans activists won’t *ever* be satisfied, so at some point there is going to be some mainstream pushback.
+
+LikeLike
+
+Sophia Kovaleva said:
+
+June 18, 2018 at 10:14 pm
+
+A mainstream pushback against trans people would certainly be quite unprecedented, yeah.
+
+LikeLiked by 1 person
+
+gazeboist said:
+
+June 20, 2018 at 2:48 pm
+
+An imprecise, incomplete, or imperfect model is not the same as an entirely false model; rationalist rhetoric has a general problem of failing to distinguish between these possibilities.
+
+LikeLike
+
+Aapje said:
+
+June 20, 2018 at 4:43 pm
+
+@gazeboist
+
+Who are you addressing with that comment? I didn’t argue that the model is entirely false.
+
+LikeLike
+
+gazeboist said:
+
+June 28, 2018 at 7:05 am
+
+Re-reading the post you linked, I was annoyed at Ozy’s characterization of a simplified/imperfect model (in this case the Bohr atom) as “100% false”*, their description of that model and simplified or imperfect descriptions of transness as “lies”, and your reduction of that post to “argu[ing] in favor of lying about the true nature of transness”.
+
+I recognize that, at the very least, the “100% false” description is a rhetorical exaggeration, but it’s still a very bad characterization of the Bohr atom and even the models of transness that Ozy discusses in their post. This is a specific case of a pervasive problem I’ve noticed in some strains of rationalist thought (noticeable in some areas of rationalist ethical theories as well), which characterizes anything imperfect as perfectly wrong or bad. This is terrible; there are many, many reasons to avoid the urge to make the perfect the enemy of the good; which ones are salient vary by circumstance but in general they are rooted in not conflating importantly different things, some of which are not actually bad things.
+
+In the case of statements that are not true, this tendency equates lying (defined as deliberately causing the formation of false beliefs), not actively preventing someone from forming false beliefs, presenting simplified models, and (in particularly pathological cases) some forms of fiction. All of these are condemned, when in fact only the first can be presumed harmful by default.
+
+(I’ve been thinking about this sort of stuff recently due to a readthrough of the sequences I’ve been doing with some friends, one of whom has some pretty odd ideas about this stuff that I believe are rooted in rationalist thought)
+
+* Important fact about the Bohr model: it is significantly closer to reality than the (almost entirely useless) plum pudding model it succeeded, and is quite sufficient for almost any purpose a precollege student will actually use it for!
+
+LikeLiked by 2 people
+
+Sophia Kovaleva said:
+
+June 18, 2018 at 9:51 pm
+
+The solution should be “trans women are women, cis women are women, and in many circumstances such as dating, sporting events, medical treatment, getting your bits waxed or organising a girls-only clothes swap night it’s completely acceptable to draw a distinction between the two.”
+
+Even under the assumption that your assertions about personality traits are true, in none of your examples does the intended result come from the separation of trans and cis women.
+
+I wholeheartedly agree that in dating, it’s a good idea to be upfront about being trans, since doing otherwise is massively unsafe, and people do get to have their own sexual boundaries, no matter how silly. That said, the preference to not date trans women often doesn’t actually boil down to literally anything other than the actual fact of being trans. You get headlines like “after 19 years of marriage, a horrified man discovers that his wife is transgender”. If 19 years of living with someone and having sex with them doesn’t ring any bells of “this person isn’t female enough”, it’s pretty safe to say that for all romantic and sexual intents and purposes, this person is indistinguishable from an infertile cis woman. If someone doesn’t want to interact with penises or isn’t attracted to people with deep voices – sure, fine, but these preferences are distinct form not wanting to date trans women.
+
+In sporting events, it entirely makes sense to segregate people by their level of testosterone at the moment of the event and a during a certain time period before it. The cis/trans classification does not give you that, because plenty of trans women have testosterone well within the normal female range and have had it there for years, whereas plenty of cis women with PCOS have had it well above the normal female range for years.
+
+In health care, it makes sense to distinguish cis and trans women, but so is distinguishing cis women who have or don’t have internal reproductive organs.
+
+In getting your bits waxed, I’m gonna hazard a guess that you weren’t at all thinking about the cis/trans dichotomy, you were thinking about penises vs vulvas. Which is OK, but is again a different thing from cis/trans.
+
+I don’t even know what you’re trying to select for in clothing swaps – it seems to me that nearly 0 traits that are actually relevant for swapping clothes are neatly split by the cis/trans thing. And if you’re going for personality traits – well, you also claim that this property is only intrinsic to a subset of trans women.
+
+LikeLiked by 2 people
+
+Reply
+
+Alice said:
+
+June 18, 2018 at 11:11 pm
+
+>That said, the preference to not date trans women often doesn’t actually boil down to literally anything other than the actual fact of being trans.
+
+That’s still a legitimate preference, and people shouldn’t be harassed for putting it in dating profiles.
+
+>In sporting events, it entirely makes sense to segregate people by their level of testosterone at the moment of the event and a during a certain time period before it.
+
+That would be valid if testosterone were the *only* physiological advantage men have over women in sports. However, that’s clearly untrue.
+
+>In health care, it makes sense to distinguish cis and trans women, but so is distinguishing cis women who have or don’t have internal reproductive organs.
+
+Sure. And obviously someone’s health record should say if they don’t have reproductive organs, just as it should say their sex at birth so the doctor can see that relevant information easily if they’re admitted to the ER.
+
+I was also thinking of health care from the point of view of the patient – some women may ask for a female healthcare provider and be unhappy getting a trans woman. Again, that’s an entirely legitimate distinction to draw..
+
+With the getting bits waxed, I was indeed thinking about a story I saw about a trans woman suing a waxing salon because a waxer who wasn’t trained to do it wouldn’t wax her testicles. And you’re right that the correct distinction there is penis/vulva. But I was also thinking about it from the point of view of the person getting waxed – just like the healthcare provider case this is a situation where it’s perfectly reasonable to prefer a cis female waxer.
+
+With the clothing swaps, I was talking about the account in the linked post – so while I believe I know what that woman meant, I don’t want to put words in her mouth.
+
+LikeLike
+
+gazeboist said:
+
+June 19, 2018 at 2:01 am
+
+The issue in regard to dating isn’t really an issue with dating per se, I think; it’s more an issue of pre-dating signposting, in so far as “boundary about dating trans people” is the best convenient shorthand for the (set of) preferences Sophla’s talking about. It’s an awful shorthand, but it’s the best we’ve got at the moment. Ideally there would be some way to say eg “straight IRT cis people; trans people (and others far from prototypical cisness) inquire further” in a way that was short, got the point across in a reasonable way, and didn’t insult anyone or give false information, but that way doesn’t seem to exist.
+
+It stems, I think, from the fact that we’ve gotten stuck with “trans” as a descriptor of both life history and present state. My assumption has always been that in the Glorious Transhuman Future transitioning will be a thing you do rather than a thing that you are. I’m always happy to hear about how we’re getting closer to that GTF, but in the mean time I wish we had a few more words in the language (which I think would help move us towards the GTF, actually – some of what’s standing in the way is cultural more than medical). A person who wants to transition in the female direction, a person who is presently transitioning in a female direction, and a person who did, in the past, transition in the female direction are three quite different people, and it would be nice if there were a couple more words to refer to them. I’m reminded of the child -> teen -> adult transition, actually, and I think (?) there are some people out there using that metaphor for general queer-related identity stuff, but it’s clearly not at the stage where it can move into general usage.
+
+LikeLiked by 2 people
+
+LeeEsq said:
+
+June 19, 2018 at 4:20 am
+
+Why do people think that the glorious trans-human future is a thing and is going to happen? For longer than I’ve been alive, various sorts of movements have decided that human society is messed up in this way or that way and everything will be all better when everybody thinks or acts like them. It isn’t true. Many humans are perfectly willing to let this group or that group do there thing but they aren’t going to let a bunch of starry eyed revolutionaries trounce a system that works perfectly well for most people.
+
+LikeLike
+
+Alice said:
+
+June 19, 2018 at 5:23 am
+
+Also with special reference to the clothes swap thing, and with no implication that this is what the woman quoted in the post was talking about – I wouldn’t feel comfortable or happy doing a clothing swap with someone who has a history of getting sexually aroused by dressing in women’s clothing. In an explicitly sexual context I might be fine with it, but not outside of that.
+
+Sometimes, with some trans women, you can feel their fetishising of femininity, and it can be uncomfortable.
+
+I’m pretty sure that is a cruel thing to say and I’m not thrilled to be saying it, but it’s the truth.
+
+LikeLike
+
+ozymandias said:
+
+June 19, 2018 at 2:32 pm
+
+Well, that just goes to show that you shouldn’t invite me to a women’s clothing swap! Which is what I keep saying! If you say “only people who have never been aroused by women’s clothing at this event,” then you will not accidentally invite a cis woman or an afab person who has been aroused by women’s clothing.
+
+(I mean, I guess you could have the claim that the only afabs who are ever aroused by women’s clothing are trans but… I don’t think that’s true at all.)
+
+LikeLiked by 2 people
+
+gazeboist said:
+
+June 19, 2018 at 6:20 am
+
+@Lee
+
+The GTF idea is primarily about technology, not culture. There are people who want to live in the hypothesized society and people who don’t, but that has nothing to do with whether or not it will be possible. I’m saying “in the future, I expect it will be possible to transition to a body that is nigh-indistinguishable from a cis body of the target gender, and that will be a good thing.” I don’t really see the difference (aside from the content of the hypothetical future) between saying that and saying “in the future, I expect electric cars to be as cheap and easy to travel with as gas-powered cars, and that will be a good thing.”
+
+I’m kind of baffled by your response, which sounds like you think I’m advocating anarcho-communism or something.
+
+@alice
+
+At this point I’m too confused not to ask: what the heck do you actually think this woman is talking about? I can imagine two things that could reasonably be called a “clothing swap”: trading clothes that don’t fit you for someone else’s clothes that will, which can be done in a parking lot with no plausible sexualization, or getting naked with someone and then putting their clothes on, which I cannot believe anyone would expect to be nonsexual by default.
+
+LikeLike
+
+Alice said:
+
+June 19, 2018 at 7:41 am
+
+It’s obviously the first one. The reason I’d possibly feel uncomfortable is that makeovers are a staple of AGP porn, dressing up in women’s clothes to masturbate exists in the history of every AGP trans woman- I think there’s a risk that what should be an obviously nonsexual situation would become imbued with a fetishy vibe. I’ve had that experience occasionally before in my interactions with trans women, and it doesn’t feel great.
+
+LikeLike
+
+gazeboist said:
+
+June 19, 2018 at 4:12 pm
+
+There are many things I want to say, but for the moment I’m just going to slap a big ol’ [citation needed] on “dressing up in women’s clothes to masturbate exists in the history of every AGP trans woman”.
+
+LikeLiked by 3 people
+
+Sophia Kovaleva said:
+
+June 19, 2018 at 6:32 pm
+
+There are many things I want to say, but for the moment I’m just going to slap a big ol’ [citation needed] on “dressing up in women’s clothes to masturbate exists in the history of every AGP trans woman”.
+
+Especially given that previously, for the purposes of this thread, “AGP trans women” were not defined as “trans women with the history of being sexually aroused from dressing in feminine clothing”, but rather as “the late-transitioning, frequently-autistic group of trans women”. Like, this is bait-and-switch 101: start by saying “I’ll use this term to denote a relatively plausible claim, even though its etymology involves making grandiose claims”, and then gradually switch to “oh, BTW, [grandiose claim]”.
+
+And it goes to show that it’s nearly impossible to talk about Blanchardianism without very quickly spinning into “BTW, let’s kick out the wrong kind of trans women”.
+
+LikeLiked by 4 people
+
+gazeboist said:
+
+June 19, 2018 at 6:47 pm
+
+Frankly, that claim doesn’t even describe autogynephilia very well. It describes a fetish for women’s clothing, which is quite different from being aroused by having a vagina or using said vagina during sex.
+
+LikeLiked by 2 people
+
+nevang said:
+
+June 20, 2018 at 8:51 pm
+
+I think there’s a risk that what should be an obviously nonsexual situation would become imbued with a fetishy vibe.
+
+So the problem you have here isn’t even trans women at all, it’s ‘people putting sexualness in a nonsexual situation, which makes people uncomfortable’. That is in fact totally a problem! It’s just a problem orthogonal to transness. There are cis women who do that. There are people who do that at non gender-related events. And the solution to that in whichever case is the same, which is ‘tell specifically them to cut it out and/or ban them’.
+
+If I go to a gardening event and spend the time insinuating how plants turn me on so much, and this is not appropriate to the event, it is totally appropriate to ban me, because I specifically am being a total creep.
+
+I’m not saying this is easy – it’s totally a thing our society has a problem with. But we can’t fix that problem by pretending that ‘might do bad things at our event’ somehow maps onto some unrelated trait, especially an already badly-treated one.
+
+LikeLiked by 3 people
+
+m50d said:
+
+June 18, 2018 at 11:12 pm
+
+> The solution should be “trans women are women, cis women are women, and in many circumstances such as dating, sporting events, medical treatment, getting your bits waxed or organising a girls-only clothes swap night it’s completely acceptable to draw a distinction between the two.” But that’s somehow completely outside the Overton Window, and if I was to voice that opinion aloud I’d definitely get called a TERF and I’d probably get called a Nazi.
+
+“cisman” and “ciswoman” are clusters, so someone who identifies as a man and is closer to the cluster of cismen than that of ciswomen simply is a cisman – and, conversely, a transman is necessarily someone who identifies as a man but is more like ciswomen than they are like cismen.
+
+If you were allowed to use the categories “ciswoman or transman” and “cisman or transwoman”, what would you ever use the categories “man” and “woman” for, other than being attentive to the feelings of trans people? “man” and “woman” would become meaningless, transwomen would demand to be included in “ciswoman or transman” (and conversely transmen), and we’d be back where we started. The very essence of transness is a demand that other people categorise you differently from their natural categorisation of you.
+
+LikeLiked by 1 person
+
+Reply
+
+blacktrance said:
+
+June 18, 2018 at 11:47 pm
+
+Depending on how much they’ve transitioned, a trans person may be closer to the cluster of the gender they identify as than to what they were assigned at birth. So the categories would then be “cis man, extensively transitioned trans man, newly transitioning trans woman”, the same with the genders switched, and “other”.
+
+LikeLike
+
+gazeboist said:
+
+June 19, 2018 at 2:04 am
+
+Blacktrance has the right of it. A large part of this whole problem is that we don’t have words for those two categories.
+
+LikeLike
+
+m50d said:
+
+June 19, 2018 at 6:31 am
+
+Blacktrance: I shouldn’t’ve said “cis”: My point is that “men” is a cluster, so there is no distinction between “cis man” and “extensively transitioned trans man” – both are just “member of the male cluster who identifies as such”. (I mean, you can subdivide the cluster of men according to medical history or something if you want to, but that’s not the sense of “trans” that people are making a fuss about here).
+
+LikeLike
+
+gazeboist said:
+
+June 19, 2018 at 6:55 am
+
+Yes, that would be the sane way to do things, but unfortunately that’s not the way those words are used in actual practice, because most people have imbibed a cultural idea of gender as an immutable part of a person’s being more fundamental than any other comparable trait, and thus reject the idea that there can be such a thing as a woman who would prefer to be a man and then takes action to that effect.
+
+LikeLike
+
+m50d said:
+
+June 18, 2018 at 11:03 pm
+
+> I’m not going to argue with the claim that trans people are unusual psychologically; it would be silly to do so. However, I note that transgender people are also not particularly similar to their assigned genders at birth. To pick an easily observable example, trans men are vastly overrepresented in gender studies departments, slash fiction writing communities, and lesbian events, while trans women are vastly overrepresented in esports, computer science, and lesbian events. Conversely, as far as I can tell, there has yet to be a single transgender NFL football player, while statistically there ought to be five currently playing.
+
+You’re talking about a much smaller effect here though. There are plenty of subgroups of men that are similarly underrepresented in the NFL (e.g. asian men); for there to be zero trans people there is unusual but not /that/ unusual. Whereas IME transwomen are something like 90% of female-identifying, say, Haskell programmers.
+
+My general experience is that the demographic of (cis-or-passing) men with similar hobbies/interests/behaviour patterns/… to transwomen is substantial (by no means all men, but a nontrivial subset), while the demographic of (cis-or-passing) women with similar hobbies/interests/behaviour patterns/… to transwomen is penis-shot-off-in-WWII tiny. (My experience of transmen is much more limited, but seems to be the symmetric case). Are you just arguing that this is a difference of degree rather than kind, or are your experiences different from mine?
+
+> People who harass and assault other people are far more likely to use the men’s room than the women’s room– that is the point of this entire discussion.
+
+This is a rhetorical sleight of hand. The point of going for the women’s room isn’t that there would be harassers hanging out in the men’s room; the point is to avoid someone who’s already following you.
+
+> You might argue that there are not that many cisgender female outliers. Well, let’s assume for the sake of argument that all psychological differences between men and women are correlated into a general factor of Psychological Femaleness. If the Cohen’s d effect size is 1 (commonly glossed as “large”), a full 24% of women will have less psychological femaleness than the average man, which means that 98.67% of your problem is a cisgender female problem.
+
+Then I guess the effect size is much larger than 1? I don’t know anything about effect sizes, but the reason people want to hold events that are open to ciswomen and not to transwomen (and similarly for men) is that their experience is that the overwhelming majority of their problem is a trans problem.
+
+(Admittedly this could also be because some non-gendered-but-socially-disruptive traits are overrepresented in transwomen rather than because masculinity is overrepresented in transwomen compared to ciswomen – but even if that were the reason, I don’t think it would help your case?)
+
+LikeLike
+
+Reply
+
+Grif🐱 (@GrifKitty) said:
+
+June 18, 2018 at 11:22 pm
+
+“Well, let’s assume for the sake of argument that all psychological differences between men and women are correlated into a general factor of Psychological Femaleness. If the Cohen’s d effect size is 1 (commonly glossed as “large”), a full 24% of women will have less psychological femaleness than the average man.”
+
+How did you arrive at this calculation? d=1 implies that the difference between means is exactly one (pooled) standard deviation. But only 15.9% of normally distributed data is beyond 1 SD in either tail, not 24%. (This also assumes the populations are normally distributed and have the same variance, which is probably not be the case.)
+
+Not only that, but d=0.8 is only a rule of thumb (which Cohen correctly feared would be widely misused as a gold standard, instead). Why not go for a “huge” effect size of 2.0? Then only 2.3% of women would be less female than the average man.
+
+This is a flagrant abuse of statistics. If you polled women for their intuitions on “what percent of cisgender women do you think are less female than an average cisgender man?” you are not going to get “oh, maybe 25%”.
+
+LikeLiked by 3 people
+
+Reply
+
+Purrtrand Russell said:
+
+June 19, 2018 at 12:24 am
+
+We could just call the category of people who should be invited to all-women’s-night stuff “femmes.” Say “femme-only.” It’s about policing the levels femininity among the women in the group, so you might as well be upfront. (Also, what are the mysterious terrible female bonding rituals? I’m curious).
+
+LikeLike
+
+Reply
+
+Armada said:
+
+June 19, 2018 at 12:55 am
+
+“if there exists a person who has read entirely too much Strunk and White and insists that “flammable” should mean “not capable of being lit on fire,” they may feel very strongly about this”
+
+Do you mean inflammable here? I’ve never heard of “flammable” meaning “unable to be lit on fire.”
+
+LikeLiked by 1 person
+
+Reply
+
+ozymandias said:
+
+June 19, 2018 at 4:41 pm
+
+Pedants who read too much Strunk and White might hold that “flammable,” being the opposite of “inflammable”, should mean “not capable of being set on fire.” The fact that this goes against common usage is the point.
+
+LikeLike
+
+Reply
+
+Armada said:
+
+June 19, 2018 at 5:06 pm
+
+But “inflammable” is (supposedly) the one with the negative prefix, even though it still means “you can set this on fire.”
+
+(Granted, having just looking up the etymology, “inflammable” comes from the same root as “inflame,” rather than being added to “flammable” to negate it, as with “intrepid” or “indivisible.” Presumably our hypothetical grammar nerd isn’t as smart as me enough of a nerd to get that far into it.)
+
+LikeLike
+
+jossedley said:
+
+June 19, 2018 at 5:54 pm
+
+Speaking of pedants, Strunk and White advise writers to avoid flammable altogether and use inflammable to mean capable of combustion. (I have an old 4th edition that I have been carrying off an on for 20 years – I don’t know if they’ve updated.)
+
+Flammable. An oddity, chiefly useful in saving lives. The common word meaning “combustible” is inflammable. But some people are thrown off by the in- and thing inflammable means “not combustible.” For this reason, trucks carrying gasoline or explosives are now marked FLAMMABLE. Unless you are operating such a truck and hence are concerned with the safety of children and illiterates, use inflammable.
+
+(For the record, I disagree with their advice, and would probably avoid both so as to avoid confusion, but I appreciate their magnificent condescension.)
+
+LikeLiked by 1 person
+
+Izaak said:
+
+June 19, 2018 at 1:54 am
+
+The discussion of bathroom politics reminds me of Alison Bechdel’s comic on the matter, which is 23(?) years old: http://i.imgur.com/e6QaMpb.jpg
+
+LikeLiked by 2 people
+
+Reply
+
+gazeboist said:
+
+June 19, 2018 at 2:09 am
+
+For example, a trans man who has biomedically transitioned can’t get prostate cancer, but is as likely as a cisgender man to go bald.
+
+Really? I thought that one was associated with recessive X-chromosome genes, like colorblindness.
+
+LikeLike
+
+Reply
+
+gazeboist said:
+
+June 19, 2018 at 2:10 am
+
+All though I suppose masculine physiology in general is mostly associated with recessive X-chromosome genes, given the relative sizes of the chromosomes.
+
+LikeLiked by 1 person
+
+Reply
+
+gazeboist said:
+
+June 19, 2018 at 2:12 am
+
+No, wait, that’s wrong. As wrong as not having an edit button, almost. Single-X chromosomal anomalies result in unusually neotenous feminine physiology, which wouldn’t fit the recessive X-chromosome hypothesis.
+
+LikeLike
+
+Sophia Kovaleva said:
+
+June 20, 2018 at 9:39 am
+
+This also couldn’t be true because due to X-inactivation, AFAB people effectively have not 2 X chromosomes, but somewhere closer to to 1.03 – 1.15 of them. Granted, these 3% to 15% of a second X chromosome are actually important enough to make a rather noticeable difference between 45,X0 and 45,XX, but sill – most of the difference between 45,XX and 45,XY is due to the Y chromosome.
+
+LikeLike
+
+Protagoras said:
+
+June 19, 2018 at 2:50 pm
+
+Nope. The baldness gene is more active in the presence of more testosterone, it isn’t on one of the sex chromosomes (which is how a lot of masculine traits work).
+
+LikeLike
+
+Reply
+
+gazeboist said:
+
+June 19, 2018 at 4:14 pm
+
+Huh. File that one away under “lies from high school bio”, I guess.
+
+LikeLike
+
+Sophia Kovaleva said:
+
+June 20, 2018 at 9:24 am
+
+More specifically, androgenic alopecia (which is a very common, but not the only type of baldness) is caused by dihydrotestosterone. It’s a testosterone’s metabolite, and one of the major pathways of T->DHT conversion is suppressed by finasteride, which is why it can be used to treat alopecia without having to go on a full-blown HRT (since T levels are more or less unaffected, and DHT isn’t as important for masculine endocrinology as T is).
+
+LikeLike
+
+ilzolende said:
+
+June 19, 2018 at 5:38 am
+
+That is why there is a general consensus that lesbians, autistic women, and horny women are in fact women.
+
+I’m not sure that this is 100% true. If you explicitly ask people if lesbians are women, they’ll say yes, but if Saotome-Westlake can claim that people will conceal politically incorrect beliefs about trans people, I don’t see why this couldn’t also be the case for other other groups, which had successful activist movements earlier. “Lesbians, autistics, AFABs with endogenous high T, AFABs with conspicuous atypical high libido, and so on aren’t women” seems to be obnoxious, cruel, and an overly black-and-white summary, but possibly not an entirely incorrect description of social gender?
+
+I would guess that most people with these conditions would say that they’ve been seen as less of a woman in the past and pressured to do things like perform extra femininity to compensate. I know that butch lesbian radfems on Tumblr complain about “femininity math”, and that lots of autistics describe a sense of isolation from their genders.
+
+LikeLiked by 2 people
+
+Reply
+
+m50d said:
+
+June 19, 2018 at 6:44 am
+
+> “Lesbians, autistics, AFABs with endogenous high T, AFABs with conspicuous atypical high libido, and so on aren’t women” seems to be obnoxious, cruel, and an overly black-and-white summary, but possibly not an entirely incorrect description of social gender?
+
+Those groups are of course somewhat less feminine than typical women. They’re some distance away from the centre of the female cluster in the direction of the male cluster. My life experience is that they’re still comfortably within the female cluster though; one can draw a clear line between the clusters (trans people excepted) and none of your listed groups comes close to the border.
+
+Certainly I’ve never heard anyone complain, even privately, about lesbians/autistics/… disrupting the vibe of their all-female clothing swap etc.. You could argue that people don’t dare even mention this because that would be even less politically acceptable than complaining about transwomen, but I don’t think that’s actually true: my impression is that outgroup versus fargroup means it’s less taboo to be anti-lesbian in these circles than to be anti-trans. The simpler explanation seems to be that lesbians/autistics/… really are much more feminine than transwomen, which would align with my experience.
+
+LikeLiked by 1 person
+
+Reply
+
+Lightning said:
+
+June 19, 2018 at 8:29 pm
+
+>The simpler explanation seems to be that lesbians/autistics/… really are much more feminine than transwomen, which would align with my experience.
+
+I strongly suspect that if you’re commenting on a rationalist blog, your social circles may be subject to quite a lot of selection bias with regard to the sorts of trans women you know, but that’s slightly beside the point.
+
+If “no trans women allowed” is just an inexact proxy for “only feminine people allowed”, why not just say the latter? I don’t think anyone would be up-in-arms about a clothing swap that advertised itself as being “for feminine people”, and that would probably be more effective anyway.
+
+>Certainly I’ve never heard anyone complain, even privately, about lesbians/autistics/… disrupting the vibe of their all-female clothing swap etc..
+
+I think we ought to take seriously the (already thoroughly evinced) explanation that some people are just bigoted and biased against trans women.
+
+LikeLike
+
+m50d said:
+
+June 20, 2018 at 5:26 pm
+
+@Lightning
+
+> If “no trans women allowed” is just an inexact proxy for “only feminine people allowed”, why not just say the latter? I don’t think anyone would be up-in-arms about a clothing swap that advertised itself as being “for feminine people”, and that would probably be more effective anyway.
+
+“Only feminine people allowed” and “only women allowed” are the same statement, aren’t they? Presumably the same transwomen who expect/demand entry to women-only events would expect/demand entry to feminine-people-only events for the same reasons.
+
+> I think we ought to take seriously the (already thoroughly evinced) explanation that some people are just bigoted and biased against trans women.
+
+I’m sure there are plenty of people who dislike a certain subset of trans people (the extent to which that’s bigotry is a part of what we’re arguing about), but you have no need of that hypothesis when we’re talking about all-female events. Of course an all-female event wants to exclude masculine people, by definition. By all means take the position that all-female events are bigotry, but in that case you may as well do so by the front door.
+
+LikeLike
+
+Walter said:
+
+June 20, 2018 at 6:23 pm
+
+“Certainly I’ve never heard anyone complain, even privately, about lesbians/autistics/… disrupting the vibe of their all-female clothing swap etc..”
+
+Roll to disbelieve. There’s no way you haven’t encountered the phenomenon that any explicitly ‘women’s’ group will have a disproportionately large number of lesbians, and that the straight attendees will gripe about this. Like, it is damn near ubiquitous. I bet the ‘Straight Woman’s Dick Appreciation Society’ would have a lesbian treasurer and secretary.
+
+LikeLike
+
+tcheasdfjkl said:
+
+June 20, 2018 at 6:31 pm
+
+I’m something like a cis woman and I have not encountered this thing?
+
+LikeLiked by 1 person
+
+Lightning said:
+
+June 20, 2018 at 6:50 pm
+
+>“Only feminine people allowed” and “only women allowed” are the same statement, aren’t they?
+
+No, I think it’s pretty uncontroversial to say that some men are quite feminine and some women are not. I don’t think I know anyone who believes “feminine people” is synonymous with “women”. Taking as an example some of the cis butch lesbian women I’ve met, I think anyone who called them “feminine” would get laughed at. And I know some male drag queens who never get mistaken for women, but who are obviously feminine in their mannerisms, interests, etc. “Feminine” and “woman” are definitely different (but related) things.
+
+>Presumably the same transwomen who expect/demand entry to women-only events would expect/demand entry to feminine-people-only events for the same reasons.
+
+What I’m getting at is that it is useful to be more specific. If this isn’t just a case of “I’ve watched Ace Ventura and Silence of the Lambs, so trans women make me feel icky and I am going to exclude them and make up a reason for doing so”, then what are the specific qualities a reasonable person might be trying to avoid by excluding trans women? Based on some of the replies in this comments section and what I know about women-only events more generally, I can make some guesses. If we want to exclude people who haven’t been subject to violent misogyny, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude people who can’t get pregnant, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude people who talk loudly about computer science, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude very tall people who are likely to bring dresses and pants to the swap that are too long for most people to wear, let’s just say that. (This will exclude some cis women and some trans women.) If the established premise is true, this method is win-win!
+
+Regarding your points about transmisogyny: I think it is indeed useful to mention that hypothesis, because in my experience it often turns out to be the correct one. I’ve had and seen a lot of conversations about this topic with advocates for trans woman exclusion, and when all is said and done, I find it is usually the case that the operative drive was ultimately a slow-burn hatred or disgust for the bodies of trans women and that the political or functional justifications were only rationalizations for that bigotry. I’m not saying that’s why the person quoted in this post wanted to exclude trans women from her clothing swaps, but it is a strong possibility that is worth keeping in mind.
+
+LikeLiked by 3 people
+
+m50d said:
+
+June 20, 2018 at 9:33 pm
+
+> what are the specific qualities a reasonable person might be trying to avoid by excluding trans women? Based on some of the replies in this comments section and what I know about women-only events more generally, I can make some guesses. If we want to exclude people who haven’t been subject to violent misogyny, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude people who can’t get pregnant, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude people who talk loudly about computer science, let’s just say that. (This will exclude some cis women and some trans women.) If we want to exclude very tall people who are likely to bring dresses and pants to the swap that are too long for most people to wear, let’s just say that. (This will exclude some cis women and some trans women.) If the established premise is true, this method is win-win!
+
+This whole paragraph goes through exactly the same if you say “men” instead of “trans women”. (Again, I don’t necessarily disagree with the position that we shouldn’t have women-only events, but better to get there by the front door if that’s where we’re going).
+
+LikeLiked by 1 person
+
+loki said:
+
+June 21, 2018 at 12:52 pm
+
+As a bi autistic cis* woman who pretty much resembles that remark, my experience would suggest that we have more *perceived* feminity, which isn’t the same thing. I’ll be saying ‘I’ below but this isn’t just me, it’s also my experience of talking to people like me.
+
+*I’d call myself cis-by-default but iirc I’ve brazenly stolen Ozy’s terminology but use it to mean something a bit different than what they intended.
+
+If we accept for a moment femininity as a coherent concept that relates to interests and behaviour in more or less the straightforward manner we’re assuming when we’re talking about something like a clothes swap, I am less *actually* feminine than every trans woman I have met in real life and known for long enough to make any kind of an assessment on that.
+
+I don’t just mean in terms of interests – I’m also talking about subtle things like social styles and assertiveness, or all of the many ways (that I’m currently noticing and mentally collating into an effortpost I’ll write someday) in which women on average behave differently in the context of our shared hobby, RPGs/LARPing.
+
+But, my non-femininity is much less *obvious*.
+
+I mean, to begin with, people aren’t subliminally *looking* for non-feminine behaviour in me – I do believe that when things are subtle we have a tendency to see what we expect to see. But as well as obviously looking more feminine than the people you’re talking about (not every cis woman looks more physically feminine than every trans woman, but I’m *extremely* feminine-shaped), I’ve had much longer to learn plausibly feminine body language and phrasing, particularly in terms of what is expected in an all-female group.
+
+I guess what I’m working toward here is:
+
+Someone’s ‘femininity’ in terms of how much they might *appear* to fit in at such an event, whether other women might feel uncomfortable with them being there, whether they appear to harmonise easily with the flow of that social context, etc
+
+is a different thing from:
+
+Someone’s femininity in terms of how much they actually belong there and will enjoy being there.
+
+It seems not implausible that the difference in column A is primarily a function of being unambiguously considered part of the ‘female’ category, and the experiences that come with that having been the case all your life, rather than the product of some kinda Inner Femininity.
+
+LikeLiked by 2 people
+
+Lightning said:
+
+June 22, 2018 at 5:29 am
+
+@m50d
+
+I agree that it sometimes makes sense to use a more specific bar than “women only” or “no men allowed”, but I’m not as ethically concerned with the existence of man-excluding events as I am with trans woman-excluding ones. That’s not to say that some men don’t feel uncomfortable about being excluded on account of their gender, but man-excluding events don’t run the very serious risk of:
+
+1) perpetuating, solidifying, and normalizing the already pervasive cultural norm of marginalizing and ostracizing trans women
+
+2) giving trans women pretty good reason to believe that people in their community hate them, in turn making them feel terrible about that, even if you don’t hate them and are rather acting on an opaque heuristic (because, as I said, most of the time when someone excludes trans women from their women’s event it’s because “ew, gender-nonconformity is gross/creepy/wrong”) and
+
+3) emboldening transmisogynists in their own attempts to exclude trans women from *every* women’s space (and even from public life).
+
+For the same reason, I’m pretty strongly ethically opposed to—for instance—”White people only” events, but “Black people only” events don’t really concern me.
+
+LikeLiked by 1 person
+
+Sophia Kovaleva said:
+
+June 22, 2018 at 10:25 am
+
+@Lightning
+
+I do think that *some* women-only events perpetuate unhelpful dynamics. For example, our campus had a women-only knitting club, which is I think a bad idea because:
+
+1. It reinforces the idea that knitting is a thing for women, which is bad for both women who don’t want to do that and for men who do.
+
+2. It’s a very intentional kind of space, and selecting for people who are interested in knitting should be the main criterion.
+
+3. Men are uncommon in this hobby anyway, and the group would have stayed cis-woman-majority regardless of filters.
+
+In this case, they weren’t even specifically running on some exclusionary ideology. It was just organized by the university’s women center, whose purpose is, among other things, to run events for women, which is what they did. But at the end of the day, you still end up with exclusionism that runs along the lines of patriarchy.
+
+LikeLiked by 2 people
+
+anon said:
+
+June 19, 2018 at 5:43 am
+
+Your quoted “second cis woman” is a) not a cis woman, b) arguing (in the context of the quotation) for the position that trans women should be allowed in the women’s restroom if they are wearing skirts and therefore making an effort not to look like harassers, and c) really not okay with being quoted on the topic without being asked. (It is a public Internet and you *can* quote whoever you like, but you might care about not making people have panic attacks.)
+
+LikeLike
+
+Reply
+
+ozymandias said:
+
+June 19, 2018 at 2:21 pm
+
+Taylor identifies the person as a cis woman and does not include any request for the person not to be quoted; I think in general if you’re quoted in a blog post you can expect to be quoted in a response blog post. I have edited the post to remove the quote and replace it with a link and directions about how to find it.
+
+The quote was by no means obviously making that point in context, since Taylor brings that up to discuss how “objectively, injecting a substantial fraction of otherwise-mostly-ordinary-but-for-their-gender-dysphoria natal males into spaces and roles that developed around the distribution of psychologies of natal females is going to have consequences—consequences that some of the incumbent women might not be happy about,” which definitely implies that trans women are a problem if not for the skirt thing.
+
+I am sorry that this person is being misgendered, their views are being misrepresented, and their preferences are unclear in a way that causes others to violate them. I am going to send a link to this comment to Taylor in the hopes this can be corrected.
+
+LikeLike
+
+Reply
+
+sniffnoy said:
+
+June 19, 2018 at 8:48 am
+
+It kind of bothers me that this post seems to largely just assume the legitimacy of social gender…
+
+LikeLike
+
+Reply
+
+ozymandias said:
+
+June 19, 2018 at 2:41 pm
+
+I mean, “no one should be a social gender, because social genders shouldn’t exist” is a possible criterion– just like a person who says “money shouldn’t exist, we should instead have full communism.” (I considered including this in the post but left it out because it was really long and I thought it was an obvious implication– I guess not!)
+
+LikeLiked by 1 person
+
+Reply
+
+Fisher said:
+
+June 19, 2018 at 2:21 pm
+
+In sporting events, it entirely makes sense to segregate people by their level of testosterone at the moment of the event and a during a certain time period before it. The cis/trans classification does not give you that, because plenty of trans women have testosterone well within the normal female range and have had it there for years, whereas plenty of cis women with PCOS have had it well above the normal female range for years.
+
+With respect, that’s nonsense, and you know it’s nonsense. Isolating athletic performance (and advantages therin) to a single hormone is grossly reductive to a degree which you would not tolerate (and indeed, haven’t) from other people talking about this subject.
+
+LikeLiked by 1 person
+
+Reply
+
+jossedley said:
+
+June 19, 2018 at 2:38 pm
+
+I don’t know how much testosterone affects athletic performance, so I don’t know the answer, but I would observe that (a) it’s generally considered unfair to use testosterone supplements in various sports, and (b) there are cases where we use other single variables (particularly weight in fighting and age in a lot of sports) to segregate competitors.
+
+LikeLike
+
+Reply
+
+Fisher said:
+
+June 19, 2018 at 2:55 pm
+
+Weight in fighting and age in other sports are not used in binary cases. There are multiple weight classes in boxing and multiple age classes in youth soccer. Furthermore, while anything does (and should) go in recreational sports, there are no elite competitive or professional sports in which other criteria are used to move members of one sex into a different sex’s competitive pool. At no weight or testosterone level may a man join the USWNT. And that’s a good thing if you actually care about competitive or professional women’s sports existing.
+
+LikeLiked by 1 person
+
+Deiseach said:
+
+June 19, 2018 at 2:26 pm
+
+If the choices are (a) never pee in public at all, (b) pee in a place where you run a moderate chance of being harassed or assaulted, or (c) slightly erode the norm that people who resemble sexual harassers should not use the women’s bathroom, I think (c) is the only ethical choice.
+
+If you erode the norm (and there is no “slightly”, once you start eroding it never ends) then option c becomes “sexual harassers then use the opportunity of not being prevented from using this space on the grounds that ‘you can’t ban me just on what you think I look like I might do'” and then you turn your space into option b.
+
+Congratulations, now cis and trans women can equally run the risk of being harassed by creeps who use the excuse of “no I’m really trans”!
+
+The Christopher/Jessica Hambrook case is one; I generally agree with the point in this post (“(t)he bad move here clearly was to allow a convicted sex offender into a place where they might easily victimize other people”) but it’s also clear that eroding the norms allowed that person to gain access to a place of shelter for vulnerable people that the bad old cissexist norm would have denied them.
+
+And I absolutely do think you have to deal with the hard cases and exceptions and come up with some method or rule before you start sandpapering down those stubborn old gnarled norms, rather than airily brushing them off with “it’ll never happen outside the fevered fantasies of bigots!” because when it does happen it’s not going to be any good to say “that person wasn’t really trans, they were a sick predator indulging perverted impulses that happened to include deriving sexual excitation from transvestism” – too many cases of abuse in other situations have had that excuse “X wasn’t really a proper Y” trotted out in defence and it hasn’t been accepted. If we’re going to have to accept that anyone who says they’re trans is trans, that includes the creepers saying ‘no I’m really trans’ too. Or else yes, you will have to bite the bullet and say ‘here’s a way of saying this person is trans and that person is not’ and good luck with the avalanche of denunciation for gatekeeping that will evoke.
+
+LikeLiked by 2 people
+
+Reply
+
+ozymandias said:
+
+June 19, 2018 at 2:43 pm
+
+I mean, empirically, my dad used the women’s room to change me when I was a baby, and I use the women’s room even when I pass as male to strangers ~100% of the time, and bathrooms still seem to be serving their harasser-related role. (Women of Florida, if my dad caused the bathrooms of Florida to no longer be safe from harassers for the past two decades and change, I am deeply sorry. My poopy butt was not that important.)
+
+LikeLiked by 1 person
+
+Reply
+
+Fisher said:
+
+June 19, 2018 at 3:01 pm
+
+Some years back, I visited a chemical plant. After being escorted through a gate that required a security clearance, you had to enter an area in which a hard hat, steel toed shoes, and cut-resistant clothing were required. inside that area was another security gate, beyond that was an area in which chemical resistant clothing had to be worn over that. Inside that area was a restroom which had a baby changing table. I was told that the men’s room also had one, though the table was used for hardhat storage mostly. I never saw any of the required PPE sized for a baby.
+
+LikeLiked by 5 people
+
+gazeboist said:
+
+June 19, 2018 at 4:33 pm
+
+As someone who has only ever been sexually harassed by a group of teenage girls, and has only ever been (arguably, I suppose) sexually assaulted by an asian woman half my size, I’d just like to say that the movement to maintain the fiction that sexual assault and harassment are strictly issues of male perpetrators and female victims has absolutely no credibility with me and should have none with anyone else.
+
+LikeLiked by 1 person
+
+Reply
+
+tcheasdfjkl said:
+
+June 20, 2018 at 6:41 am
+
+I just want to say, as an afab person who benefits a lot from rationalist women’s spaces, I think it is right and proper that trans women are in these spaces. In the online space I know of there is a mixture of posts-relevant-to-afab-people and posts-relevant-to-people-who-wear-women’s-clothing-or-makeup and posts-relevant-to-people-who-experience-sexism etc. (and occasionally posts-relevant-to-trans-women AND posts-relevant-to-afab-trans-people), and I think this is excellent and as it should be.
+
+LikeLiked by 2 people
+
+Reply
+
+tcheasdfjkl said:
+
+June 20, 2018 at 6:47 am
+
+At the same time I am okay with some cis-women-only events existing, but these shouldn’t be considered the “real” women’s events, and this should really really not be the default. I take issue with what I see as an implication in the relevant quote that having several trans women at women’s events objectively dilutes their value to cis women.
+
+LikeLike
+
+Reply
+
+loki said:
+
+June 21, 2018 at 1:16 pm
+
+I also think that the problem of ‘spaces or events where invitees are not specific individuals sometimes end up having people present that others may not want there, sometimes for valid reasons’ is pretty much universal, and the question of how to avoid that, particularly in the logistical grey area of informal community event type things rather than anything official, is one of difficult compromise. If the problem they’re talking about exists, it’s just a specific case of this and I don’t know how much categorisation stuff can help the general problem.
+
+LikeLike
+
+Alice said:
+
+June 21, 2018 at 2:13 pm
+
+Nevang:
+
+Not orthogonal to transness. Correlated with transness. In the specific situation of a clothing swap, likely to be highly correlated with transness.
+
+Ozy:
+
+But you wouldn’t go to an event like this. Even if you technically belonged in a category to which a general invitation had been extended, even if you were invited specifically, you would probably look at the description of the event, understand it to be not to your taste, and stay away. The problem is people who want to go, will envisage themselves included in the invited category of “feminine person” or whatever, but who are actually disruptive to the desired atmosphere. Of course this problem isn’t specific to the issue of trans women at women’s events, but given that it does occur often in this context, people should have the option of making events cis-women only.
+
+Sophia – that wasn’t a definition. I was asking for a euphemism I could use to avoid offending. I eventually decided to just be honest. You may of course feel free to accuse me of bigotry. It’s true, but it’s born of experience. Unfortunately some trans women are embodiments of the exact reason why women might want single-sex spaces. I’m sure some cis women are too, but the priors are different.
+
+gazeboist – I thought it was baked into the definition but you seem to be implying that is not the case. Okay, I accept that, and thank you for the pedantic correction. If I could edit the comment I would substitute “most” for “every.”
+
+LikeLiked by 1 person
+
+Reply
+
+Sophia Kovaleva said:
+
+June 21, 2018 at 4:52 pm
+
+You don’t need a euphemism if what you actually believe and base your decisions on is the most straightforward from-the-original-paper Blanchardianism. Just say what you want to say.
+
+When trans-friendly rationalists talk about partially agreeing with Blanchardianism, it usually takes the form of “well, it looks like there are two fairly noticeable clusters of trans women different on the axes of their life history and personality traits, which is what B&B were probably picking up on” – without necessarily subscribing to all the rest of their ideas about the origins of gender identity. So when you say that you want to exclude this-personality-cluster-how-should-I-name-it, people are gonna assume that you don’t want to hang out with bisexual neurodivergent programmers.
+
+Then you escalate your claim to say that all transfeminine bisexual neurodivergent programmers have a history of being sexually aroused from wearing feminine clothes and the history of jerking-off to makeover porn.
+
+And then you come even further and claim that not only that, but that they still do have this experience and behave inappropriately sexually at clothing swaps.
+
+This is an insane amount of equivocation going on. And an insane amount of extraordinary claims because even Blanchardians invented this epicycle of “romantic attachment to femininity” to deal with the issue of “OK, it’s actually ridiculous to think that someone would be getting boners from clothes that they’re wearing every day, especially if their libido might well be all but annihilated – there must be something else going on”, whereas you’re just straightforwardly claiming that nope, a fetish all the way down. And not only do you attribute kinks to bisexual neurodivergent programmers, but you’re also accusing them of being creeps who engage in these kinks in a room full of non-consenting strangers. You can’t throw around claims and accusations like that and not expect people to want some more justification for your position.
+
+And you don’t even need any of that! If you think that trans women are just categorically gross, and you’re uncomfortable around them – go ahead, make events specifically including cis women only. This would be great! Most people, unless they’re Ruby Nell Bridges, don’t actually want to be in spaces where they’re obviously unwelcome. And knowing in advance that they are would be quite useful. But if you’re be accusing people left and right of all sorts of stuff, they’re gonna object, and not because they’re eager to swap clothes with you. And if your true rejection is “eww, trans women”, it’s unhelpful to be coming up with justifications for it because people are gonna be pointing out that your claims about reality don’t seem to hold up, and your selection criteria don’t actually select for your stated goals (as opposed to the true goal “no trans women, no matter what”).
+
+LikeLiked by 3 people
+
+Reply
+
+Alice said:
+
+June 22, 2018 at 11:13 pm
+
+It’s an odd experience to read your long-winded comment, especially the strange and illogical attempt to restate my position. It doesn’t bear much resemblance to anything I actually said. I’ll restate what I previously said briefly and with as little ambiguity as possible, because I strongly dislike having the nonsense you’ve written attributed to me.
+
+The cluster of trans women we’re referring to are AGP. I originally looked for a euphemism to be nice as some trans women don’t like that term. Then I decided to experiment with honesty instead of niceness.
+
+There is a very strong correlation between being AGP and having a history of a previous sexual fetish for dressing up in women’s clothing. Many cis women including myself would be uncomfortable doing a clothing swap with someone with that past history or indeed current proclivity.
+
+Additionally, it’s sometimes possible to detect when someone is attributing sexual significance to what should be a non-sexual situation, and that can be highly uncomfortable, even if they’re not doing anything outwardly inappropriate. It’s valid to want to not have to deal with that shit. It’s unpleasant.
+
+>go ahead, make events specifically including cis women only
+
+The fact that it’s socially difficult to make events cis women only because doing that will get people harassed on social media and bullied is the problem I’m talking about. Many thanks for your permission, but perhaps you could go and change the culture around trans discourse so people can actually do that?
+
+LikeLiked by 1 person
+
+Eric L said:
+
+June 23, 2018 at 4:49 pm
+
+While I suspect that AGP points at a real thing, this conversation is nicely highlighting why it can be bad to define someone’s identity in terms of their unusual sexual fetish/behavior. Alice, it seems like the definition of a trans woman in your head is something along the lines of, someone who likes to wear women’s clothing and then they *ew, gross, get that image out of my head, I need a shower*. And I can totally understand why that would make you uncomfortable, as I used to feel that way about gay men. Like by definition they were the people who liked to *I’d rather not think about that*. But I don’t like to imagine my parents having sex either, yet this hasn’t made it difficult to be comfortable around them, and eventually I came to be comfortable around gay men too. (Incidentally I think there is something subconsciously helpful about thinking of them as “gay” rather than “homosexual”.)
+
+So, if you have your cis-women-only clothing swap, it seems very likely to me that there will be cis lesbians present who are turned on by sexy women’s clothing, and not only that it seems very likely that some of the clothing being swapped will have been worn at some point by cis women while they were masturbating. Does this not bother you, or is this something you just wouldn’t think about in a cis-only crowd?
+
+LikeLiked by 4 people
+
+Alice said:
+
+June 23, 2018 at 9:03 pm
+
+Honestly, no. It wouldn’t bother me whatsoever in a cis-women only crowd.
+
+It would, however, bother me very much to take part in a clothing swap that was a mixed event for cis men and women, if I knew some of the cis men to have a sexual fetish for transvestitism.
+
+Obviously this is getting at the fact that I have different intuitions about men’s sexuality and women’s sexuality.
+
+And at the fact that trans women’s sexuality feels intuitively a lot more like men’s sexuality.
+
+And although I formerly tried to override this intuition out of politeness/niceness/PCness, upon looking into it, I haven’t seen any evidence that trans women’s sexuality is more like cis women’s sexuality than it is like men’s sexuality. The more evidence I’m exposed to, the more it seems that my initial intuition was entirely correct.
+
+One could argue of course that I shouldn’t have such different emotional reactions to men’s sexuality and to women’s sexuality. But I think a lot of women do.
+
+LikeLike
+
+Lambert said:
+
+June 22, 2018 at 11:55 am
+
+Its weird.
+
+All the low-level debate that’s going on here makes sense to me, but I completely fail to understand what the high-level arguments are or how they connect to the low-level ones.
+
+Oblique meta-level suspicion and/or ramble: Transness etc. is an unseen bone where we thought there was a clean joint. Rather than blunting our cleaver, we should take several, more precise cuts around it.
+
+Informally, it’s useful to talk about the strength of a material. But to really understand things, you need to invoke more specific, rigorous concepts like ultimate tensile strength and yield stress.
+
+In the middle of the 20th century, 3rd world was a fairly natural category. But today, you can’t usually lump China, Ghana, Syria Brazil and Saudi Arabia together (but sometimes you can).
+
+People who have long/short hair, people who like to wear wo/men’s clothes, people who fit well in most wo/men’s clothes, people who want to be seen as wo/men, people who *are* seen as wo/men, people who drink ale and whisky / cosmopolitans and rose, blacksmiths/embroiderers, basketball/netball players, people at risk of cervical/prostate cancer.
+
+While the blunt male/female dichotomy works, we should use it. When it breaks down, we have to take a more precise approach. (Is the above trite, or nonsense?)
+
+LikeLike
+
+Reply
+
+Fisher said:
+
+June 22, 2018 at 3:40 pm
+
+China is second world.
+
+First and second world refer to Cold War alliances, not development.
+
+Third world were those countries that weren’t overtly in either bloc, and they were mostly relatively underdeveloped compared to the NATO/Warsaw Pact/etc. groupings.
+
+LikeLike
+
+Reply
+
+Lambert said:
+
+June 22, 2018 at 8:09 pm
+
+True.
+
+But people use it as an inelegant shorthand for development.
+
+LikeLike
+
+Eric L said:
+
+June 23, 2018 at 5:02 am
+
+“Similarly, “you’re a woman if you identify as a woman!” is not a definition of womanhood. It is a criterion for who should be a woman. It states that our social genders should be fully consensual: that is, if a person says “I would like to be put in the ‘woman’ category now,” you do that.”
+
+What would make this definition more compelling is a different list of predictions from social gender. Because there are the first few essentially tautological ones (having the social gender woman means you will be gendered as a woman), and ignoring those… I don’t think anyone has transitioned to being a woman so that people would call them bitch/slut and harass them online and in the streets. Maybe transwomen identify as women in hopes of being messaged more on dating sites, but I’m skeptical that this is a big part of what transwomen mean when they insist they are women?
+
+I started out mostly agreeing with Scott, though now I think there is some merit to the modified definition of woman Taylor lays out in their follow-up post. Where I’m not sure I agree is this:
+
+“This is the other problem with gender-as-self-identification: passing is hard and not-passing hurts, so kind-hearted people try to protect their trans friends from the pain of not being read the way that they would prefer—with the inevitable result that the laudable instinct to be kind gets corrupted into universal socially-mandatory lies. ”
+
+I indulge the universal socially-mandatory lie that nobody is fat, or at least nobody I’m talking to. This is somewhat easier because you can usually avoid it as a topic of conversation whereas any conversation could contain a pronoun or other gendered term you don’t put much thought into, accidentally revealing your perception of someone’s gender. But gender can be every bit as important to someone’s self-image as body size, perhaps more so, so I think there is merit to trying not to do this regardless of what the best definition of “woman” or “man” is.
+
+LikeLiked by 1 person
+
+Reply
+
+Eric L said:
+
+June 23, 2018 at 8:26 pm
+
+Alright, now to engage in some uninformed and reckless speculation on the psychology of transness…
+
+Well, before we get to that part, some marginally less reckless speculation… A lot of the discussion around this treats it as arbitrary that we sort people into the genders that we do, perhaps even arbitrary that we sort people into genders at all, and surely the only reason we are doing this is because society has taught us to categorize people this way. And while culture undoubtedly has some influence, I think there is good reason to think this is partly innate to our psychology. So it’s pretty well established at this point that homosexual attraction is largely influenced by biology including genetics and prenatal environment, and it stands to reason that heterosexual attraction is largely similarly hardwired for most people. But how could innate gender-specific sexual attraction possibly work if we were not also hardwired to recognize genders?
+
+It’s easy to see how it could have been advantageous to evolve an instinct for recognizing gender, but it also seems plausible we could have evolved a biological need to be recognized as our gender or as a prime specimen of our gender. For an example of how this could work, it seems a common pop-psych theory that men who are insecure in their masculinity will engage in overcompensating behaviors to prove their masculinity. What if this reflects an innate psychological need to either feel or be recognized as masculine, a need that can be satiated? Then if this need isn’t equally present in all biological males, and is present in some biological females then we have an explanation for why trans identification exists and why it doesn’t just manifest as a preference for certain gender-coded activities but rather as a need for others to validate that you are the gender you insist on. Granted I don’t have much evidence for this but one thing I’ve heard in accounts of transmen (and I think Ozy as well?) is how pre-transition they were super-butch and wore nothing but black and leather jackets, etc., but after transition they started wearing a wider array of colors. Which sounds a lot like the behavior of someone who was insecure in their masculinity and was overcompensating but then by transitioning became more secure.
+
+And now for the “trans-friendly” non-self-referential gender definitions we’ve all been waiting for: Man – a human with the psychological propensity to be insecure in their masculinity and to overcompensate in various obnoxious ways. Woman – a human with the psychological propensity to be insecure about their body and all the ways it deviates from society’s impossible feminine beauty standards. Everyone happy with these definitions? Anyone at all? I think I’ll stop talking now or ideally a paragraph ago…
+
+LikeLike
+
+Reply
+
+Pingback: Some Thoughts on Gender, Part 1: Social Construction and First-Person Authority | Majestic Equality
+
+Leave a Reply Cancel reply
+
+Comment
+
+Name
+
+Email
+
+Website
+
+Δ
+
+This site uses Akismet to reduce spam. Learn how your comment data is processed.
+
+Like My Blog?
+
+Amazon Wishlist
+
+Buy My Time
+
+Patreon
+
+Thing of Things Advice
+
+Blogroll
+
+Aha Parenting
+
+Alas A Blog
+
+Alicorn
+
+Catholic Authenticity
+
+Defeating the Dragons
+
+Dylan Matthews
+
+Effective Altruism Forum
+
+Eukaryote Writes Blog
+
+Eve Tushnet
+
+Expecting Science
+
+Glowfic
+
+Gruntled and Hinged
+
+Heteronormative Patriarchy for Men
+
+Ideas
+
+Intellectualizing
+
+Jai With An I
+
+Julia Belluz
+
+Julia Serano
+
+Kelsey Piper
+
+Less Wrong
+
+Love Joy Feminism
+
+Neil Gaiman's Journal
+
+Order of the Stick
+
+Otium
+
+Popehat
+
+PostSecret
+
+Rationalist Conspiracy
+
+Real Social Skills
+
+Science of Mom
+
+Slate Star Codex
+
+Sometimes A Lion
+
+Spiritual Friendship
+
+The Fat Nutritionist
+
+The Pervocracy
+
+The Rationalist Conspiracy
+
+The Unit of Caring
+
+The Whole Sky
+
+Tits and Sass
+
+Topher Brennan
+
+Yes Means Yes
+
+Recent Comments
+
+Tulip on On Taste
+
+nancylebovitz on Disconnected Thoughts on Nouns…
+
+nancylebovitz on Against Asshole Atheists
+
+nancylebovitz on Against Asshole Atheists
+
+Richard Gadsden on Sacred Values Are How Ethical…
+
+Richard Gadsden on The Curb Cut Effect, or Why It…
+
+Review of Ernst Cass… on Against Steelmanning
+
+Timberwere on Monsterhearts Moves List
+
+Articles of Interest… on Getting To A Fifty/Fifty Split…
+
+Eric on Bounty: Guide To Switching Fro…
+
+Create a free website or blog at WordPress.com.
+
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+
+To find out more, including how to control cookies, see here:
+
+Cookie Policy
+
+Comment
+
+Reblog
+
+Subscribe
+
+Subscribed
+
+Thing of Things
+
+Join 1,138 other subscribers
+
+Sign me up
+
+Have a WordPress.com account? Log in now.
+
+Thing of Things
+
+Copy shortlinkView post in Reader
+
+Manage subscriptionsSign upLog in
+
+Report this content
+
+Collapse this bar
+
+Loading Comments...
+
+Write a Comment...
+
+Email (Required)
+
+Name (Required)
+
+Website
+
+%d
+
+Create your own website, free on WordPress.com.Create your own website.
+Start free

@@ -1,0 +1,1192 @@
+Philos Stud (2021) 178:983–1003
+https://doi.org/10.1007/s11098-020-01468-1
+
+
+
+
+Escaping the natural attitude about gender
+
+Robin Dembroff1
+
+
+
+
+Published online: 26 June 2020
+! Springer Nature B.V. 2020
+
+
+
+Abstract Alex Byrne’s article, ‘‘Are Women Adult Human Females?’’, asks a
+question that Byrne treats as nearly rhetorical. Byrne’s answer is, ‘clearly, yes’.
+Moreover, Byrne claims, woman is a biological category that does not admit of
+any interpretation as (also) a social category. It is important to respond to
+Byrne’s argument, but mostly because Byrne’s argument is a paradigmatic
+instance of a wider phenomenon. The slogan ‘‘women are adult human females’’
+is a political slogan championed by anti-trans activists, appearing on billboards,
+pamphlets, and anti-trans online forums. In this paper, I respond to Byrne’s
+argument, revealing significant problems with its background assumptions, con-
+tent, and methodology.
+
+Keywords Metaphysics ! Feminist philosophy ! Philosophy of gender ! Feminist
+philosophy of language
+
+     First question: who is speaking?… Who derives from it his own special
+     quality, his prestige, and from whom, in return, does he receive if not the
+     assurance, at least the presumption that what he says is true? Foucault (1972).1
+
+
+
+
+1
+    Foucault (1972), p. 181. Cited in Brison (2019).
+
+& Robin Dembroff
+  Robin.Dembroff@gmail.com
+1
+      Yale University, New Haven, USA
+
+
+                                                                             123
+984                                                                                              R. Dembroff
+
+
+1 Introduction
+
+The title of Alex Byrne’s article, ‘‘Are Women Adult Human Females?’’, asks a
+question that Byrne treats as nearly rhetorical. Byrne’s answer is, ‘clearly, yes’.
+Moreover, they claim, woman is a biological category that does not admit of any
+interpretation as (also) a social category.2
+   The content of and logical connections within Byrne’s argument are often
+unclear and contain internal inconsistencies. In order to respond to an argument,
+though, such inconsistencies and vagaries must be interpreted. In that spirit, I
+provide and respond to what I think is a charitable reconstruction of Byrne’s
+argument. However, I do so not solely, or even primarily for the purpose of
+responding to Byrne per se: this reconstructed argument, or its nearby relatives, are
+regularly repeated in social, political, and personal contexts. The slogan ‘‘women
+are adult human females’’ is literally that: a political slogan. Moreover, it is a slogan
+that has been championed by anti-trans activists, appearing on billboards,
+pamphlets, and anti-trans online forums.3 It is important to respond to Byrne’s
+argument, but mostly because Byrne’s argument is a paradigmatic instance of a
+wider phenomenon. So while I directly address Byrne in what follows, many of my
+arguments apply also to others who make the same or similar arguments.4
+   My reconstruction of Byrne’s argument is as follows:
+Premise 1                       There is one meaning of ‘woman’ relevant for philosophical
+                                inquiry into the meaning of the term ‘woman’.5
+Premise 2                       That meaning is the ‘‘standard’’ (or ‘‘dominant’’) meaning.6
+Premise 3                       On the ‘‘standard’’ meaning of ‘woman’, ‘woman’ refers to
+                                the category adult human female.7
+
+
+
+
+2
+  Throughout this paper, I use ‘they’ as a singular, gender-neutral pronoun. See Dembroff and Wodak
+(2018) for a philosophical criticism of gender-specific pronouns.
+3
+    See also Corredor (2019) for discussion of far-right political groups’ exploitation of anti-trans rhetoric.
+4
+  For this reason, most references to ‘Byrne’ can be read as shorthand for ‘Byrne and those who make
+similar arguments’.
+5
+  Byrne (2020) frequently refers to ‘‘the meaning’’ of ‘woman’. See also p. 19, footnote 29: ‘‘If AHF has
+two interpretations—corresponding to the dominant and resistant meanings of ‘woman’—the one clearly
+at play in the relevant literature is the first’’. Byrne also refers to resistant meanings as ‘‘non-standard’’
+and dominant meanings as ‘‘ordinary’’.
+6
+  See pp. 18–19, footnote 29. It is also worth noting that although Byrne acknowledges that people use
+gender terms in a variety of ways and that the meanings of these terms are ‘‘disputed’’, they interpret
+anecdotal data as showing that some people ‘‘systematically misapply’’ gender terms. Byrne does not
+consider their own uses of gender terms as potential instances of such misapplication.
+7
+  The entirety (or near entirety) of Byrne’s Sect. 2 defends Premise 3. While some of the arguments in
+this section are presented under the guise of epistemological arguments, I argue that these are simply
+disguised linguistic arguments (see my footnote 10). But even if one is not convinced, one could re-run
+Premises 1–6 with appeals to the ‘‘standard’’ concept of woman (rather than meaning of ‘woman’), in
+order to reflect these supposedly epistemological arguments.
+
+
+123
+Escaping the natural attitude about gender                                                               985
+
+
+Premise 4                       Adult human female is a biological and not social category.8
+Premise 5                       Therefore, the single philosophically relevant meaning of
+                                the term ‘woman’ refers to a biological and not social
+                                category—namely, adult human female. [1, 2, 3, 4]
+Premise 6                       The philosophically relevant meaning of the term ‘woman’
+                                is a reliable guide to the category woman.9
+Conclusion (‘‘AHF’’)            The category woman is the biological and not social
+                                category adult human female [5, 6].
+
+I argue that this argument fails at three crucial steps: the semantic step (premises 1,
+2, and 3), the step from semantics to metaphysics (premise 6), and the metaphysical
+step (premise 4). While I don’t address the key premises (1, 2, 3, 4, and 6) one-by-
+one, I show that the arguments supporting these premises are at best confused—
+more often, they are question-begging or false. In conclusion, I take a step back to
+consider larger methodological and ethical lessons that can be learned from Byrne’s
+paper.
+   Before proceeding, I should pause to acknowledge that Byrne claims at one point
+that their thesis is the ‘‘purely modal’’ thesis that the categories woman and adult
+human female are necessarily equivalent, and that they make no claims about
+‘‘grounding, real definition, a prioricity, or synonymy’’.10 Given this, one might
+worry that my reconstruction distorts Byrne’s argument, since the claim I’ve called
+Byrne’s ‘‘conclusion’’ is a claim about identity, and not necessary coextension. And,
+as many contemporary metaphysicians hold, necessary equivalence is importantly
+distinct from identity.11 However, Byrne disagrees with these metaphysicians. They
+take necessary equivalence to be the same as identity, explicitly claiming that
+‘‘necessarily equivalent categories are identical’’.12
+   This alone would provide sufficient justification for describing Byrne’s thesis as
+one about identity. In addition, though, note that, if Byrne’s thesis were about
+coextension and not identity, their argument would be hopelessly invalid.
+Throughout their paper, Byrne argues that adult human female is a ‘‘biological
+not social’’ category, and then concludes that woman is a ‘‘biological not social’’
+category (p. 7). If Byrne’s thesis were merely that adult human female and woman
+
+
+
+8
+  Byrne, p. 3: ‘‘[The] thesis of this paper is that woman is a biological (and not social) category, and that
+AHF is close enough.’’ See also p. 3, footnote 7: ‘‘Some argue that categories like female are social
+categories… This position is assumed false here…’’.
+9
+  Byrne, p. 2: ‘‘[T]here is nothing wrong with appealing to linguistic evidence that clearly bears on the
+meaning (or intension) of ‘woman’, since that has immediate implications for AHF via disquotational
+principles.’’ Notice that Byrne refers to ‘‘the’’ meaning of ‘woman, per Premise 1. Bafflingly, Byrne
+denies that ‘‘ordinary use’’ of ‘woman’ is ‘‘evidence’’ for or against AHF, but then proceeds to provide
+arguments for AHF that entirely rely on particular, everyday uses of ‘woman’ and ‘girl’.
+10
+     Byrne p. 2.
+11
+     ‘‘See, e.g., Nolan (2014).’’
+12
+   Byrne p. 2, fn 2: (‘‘It will do no harm to individuate categories modally: necessarily equivalent
+categories are identical.’’).
+
+
+                                                                                                123
+986                                                                                           R. Dembroff
+
+
+are coextensive, this line of reasoning would be incoherent. Just consider Kit Fine’s
+(1994) example of two necessarily equivalent but distinct entities: the unit set of
+Socrates and Socrates. It would be incorrect to claim that, because the unit set of
+Socrates has a single member, Socrates must also have a single member. Modal
+equivalence of two entities does not guarantee that they have all the same features—
+this guarantee requires identity. Given, then, that Byrne infers that woman is a
+‘‘biological and not social’’ category from the claim that adult human female is a
+‘‘biological and not social’’ category, Byrne’s thesis must be one about identity.
+
+
+2 The semantic step
+
+Byrne’s argument rests on a semantic claim: the philosophically relevant meaning
+of ‘woman’ refers to adult human female.13 In Sect. 2, and in the span of less than
+five pages, Byrne provides six arguments supporting this semantic claim.14 These
+arguments are as follows:
+1.     AHF reproduces the dictionary definition of ‘woman’.
+2.     One would expect English to have a word that picks out the category adult
+       human female, and ‘woman’ is the only candidate.
+3.     AHF explains how we sometimes know that an individual is a woman, despite
+       knowing nothing else relevant about her other than the fact that she is an adult
+       human female.
+4.     AHF stands or falls with the analogous thesis for girls, which can be supported
+       independently.
+5.     AHF predicts the correct verdict in cases of gender role reversal
+6.     AHF is supported by the fact that ‘woman’ and ‘female’ are often appropriately
+       used as stylistic variants of each other, even in hyperintensional contexts.15
+Rather than go through arguments 1–6 one-by-one, I will focus on three problems
+that are threaded throughout these arguments.
+
+13
+   Byrne’s arguments for this claim simply disregard or ignore the testimony and scholarship of all those
+whose language use conflicts with Byrne’s claim, not least of which includes trans and queer persons,
+persons with intersex variations, and scholars who specialize in gender and sexuality. (More on this in
+Sect. 5.)
+14
+    Byrne might protest that three of these six arguments (2.3, 2.4, and 2.5) are not semantic arguments,
+but rather, arguments that appeal to ‘‘facts about where the women are’’. These three arguments are meant
+to show that someone knows that someone is a woman if they know that person is an adult human female,
+thereby supporting AHF’s sufficiency direction. First, note that one typically can know that someone is a
+woman by knowing that that the person is a lesbian, a wife, a mother, or a sister. Supporting the
+sufficiency direction of AHF is highly uninformative. Second, these arguments reduce to appeals to
+semantic intuitions, insofar as they are arguments at all. For example, two of these arguments (2.3 and
+2.5) appeal to what are stipulated as ‘‘correct’’ descriptions of persons as falling under the term ‘women’,
+as well as intuition pumps about what counterfactual statements ‘‘ordinary’’ people (people who share
+Byrne’s linguistic intuitions?) would assent to. Arguably, the third argument (2.4) rests on linguistic
+intuitions as well, as it simply stipulates that a female-assigned baby is ‘‘known’’ to be a girl. If this
+argument has more content than the claim that people use the term ‘girl’ to describe female-assigned
+babies, I couldn’t find it.
+15
+     Claims 1–6 are, respectively, the headings of Byrne’s Sections 2.1–2.6.
+
+
+123
+Escaping the natural attitude about gender                                                            987
+
+
+2.1 Problem 1: Framing
+
+Byrne’s paper frequently refers to ‘‘the meaning’’ of the term ‘woman’. This is no
+accident: the paper takes for granted that gender terms like ‘man’ and ‘woman’ each
+have a single, invariant meaning. In fact, the main body of the paper does not
+mention the possibility that gender terms have multiple or contextual meanings.
+This is particularly striking given that, as Byrne observes, uses of gender terms vary
+widely and are contentious. This observation appears to be evidence in favor of a
+polysemous or contextualist approach to gender terms—that is, an approach on
+which gender terms either have multiple, related meanings, or have meanings
+relative to contexts that have variant standards. Unsurprisingly, these are the two
+approaches so far defended in the existing philosophical literature on the semantics
+of gender terms.16
+   Despite this evidence, and despite the existing literature defending polysemous or
+contextualist accounts of gender terms, Byrne’s argument proceeds with the
+unargued-for assumption that there is one, unvarying answer to the question What
+does the word ‘woman’ mean? Byrne even suggests we will find this meaning in the
+pages of a dictionary.17 In short, Byrne simply assumes that the views best
+supported by linguistic evidence, which are (non-accidentally) views defended in
+the existent literature, are irrelevant to philosophical inquiry into the semantics of
+gender terms.
+   One might be able to forgive this philosophically naive framing from a
+newcomer to philosophical thinking about gender, were it not for the fact that Byrne
+acknowledges in footnotes that they are aware of polysemic and contextualist views
+of gender terms. For example, at one point, Byrne raises Saul’s (2012) contextualist
+position. However, they do not respond at all to the contextualist position, and only
+take issue with the idea that contextual standards for correct use of ‘women’ could
+include transgender women.18 In a different footnote, Byrne recognizes Bettcher’s
+(2013) position that gender terms take on distinct meanings in trans-inclusive
+communities. Their response is to dismiss this as irrelevant to philosophical inquiry.
+Even if there are multiple meanings of gender terms, Byrne asserts, the meaning
+
+
+16
+   See Bettcher (2013), Saul (2012), Diaz-Leon (2016), Barnes (2019), Laskowski (2020), and Dembroff
+(forthcoming).
+17
+     See Sect. 2.1.
+18
+    Of course, as Bettcher (2013) and Dembroff (forthcoming) both point out, gender terms like ‘woman’
+do systematically extend to trans women within trans-inclusive communities. Byrne ignores this
+contradicting evidence and instead offers two cursory arguments: (1) There could not be a contextual
+meaning of ‘girls’ that secure simultaneous reference to both trans girls and female-assigned babies; and
+(2) an identity-based meaning of ‘woman’ would result in circularity when it came to specifying who is a
+woman, since the answer would be ‘those who identify as a woman’. The first argument displays a
+startlingly uncharitable reading of Saul, who suggests that meaning might be fixed by standards of
+‘‘relevant similarity’’ to those possessing female-coded bodies, never once claiming that these standards
+could not be ambiguous, disjunctive, vague, or underdetermined within a given context. The second
+argument, in turn, simply ignores the existing literature on gender identity, which provides substantive
+and non-circular accounts of what it means to ‘‘identify as a woman’’. Jenkins (2018) and Bettcher (2009),
+for example, directly address the circularity worry.
+
+
+                                                                                             123
+988                                                                                         R. Dembroff
+
+
+‘‘clearly in play in the relevant literature’’ is the ‘‘dominant’’ meaning.19 By
+‘‘dominant’’ meaning, it is safe to presume that Byrne means a meaning that best
+accords with their own linguistic intuitions—as well as dominant power structures.
+But, in that case, Byrne’s claim that these are the meanings at play in the ‘‘relevant
+literature’’ is puzzling. I cannot help but wonder why work by the central figures of
+the philosophical literature, not to mention work by anthropologists, sociologists,
+and linguists, is ‘‘irrelevant’’, and where this elusive ‘‘relevant literature’’ is to be
+found.20 In any case, I see no motivation–other than question begging–for admitting
+that ‘woman’ may have multiple meanings, but insisting that one’s own thesis picks
+out the philosophically ‘relevant’ one.21
+
+
+2.2 Problem 2: Cherry-picked data and question begging
+
+Gender terms like ‘woman’ are sometimes used to refer to persons’ physiological
+features. Such uses are evidence that, in certain contexts and communities, these
+terms take on meanings that entail or include physiological features. But this in no
+way shows that gender terms have one—or one philosophically relevant—meaning.
+‘‘Dominant’’ uses of gender terms—by which I take Byrne to mean use outside of
+trans communities and gender studies—vary widely. As Elizabeth Barnes observes:
+     Common usage of gender terms is currently in flux…[so] it’s difficult to settle
+     on what, if anything, ‘the folk’ or ‘ordinary speakers’ mean by their gender
+     terms. Teenagers probably mean something quite a bit different from their
+     grandparents; wealthy teenagers in Manhattan probably mean something quite
+     a bit different from working class teenagers in Alabama.22
+Even mainstream sources such as national newspapers—including the New York
+Times, which Byrne appeals to multiple times—frequently use gender terms in ways
+that misalign with the claim that ‘woman’ (always) refers to adult human female.23
+So how can Byrne (or anyone) maintain that ‘woman’ has one dominant meaning?
+   The answer is ‘cherry-picked evidence’. By ‘cherry-picked’, I mean both appeals
+to anecdotal instances of natural language use that align with this claim, and
+dismissals of natural language use that do not align with this claim. For example,
+Byrne claims that ‘‘the dictionary’’ definition provides evidence that ‘woman’
+means ‘adult human female’.24 Let’s set aside problems with using the dictionary to
+
+19
+     Byrne, p. 19, fn. 29.
+20
+  E.g., See the fields of sociolinguistics of gender and LGBT linguistics, and especially the work of Lal
+Zimman, such as Zimman (2014).
+21
+     For a richer critique of philosophy’s tendency toward myopism, see Dotson (2012).
+22
+     Barnes (2019), 9.
+23
+   See, e.g. Thomas (2019): ‘‘Author David Thomas still lives as a man, but has begun the male-to-
+female gender transition that will eventually result in becoming a woman.’’ See also Fadulu and Flanagan
+(2019): ‘‘At least 22 transgender people have been fatally shot or killed in 2019… Nearly all of them were
+black women’’.
+24
+  Byrne, p. 4, ‘‘AHF reproduces the dictionary definition of ‘woman’’’. It’s unclear which dictionary
+Byrne is referencing. None of the dictionaries I looked at, including the Oxford English Dictionary and
+
+
+123
+Escaping the natural attitude about gender                                                                  989
+
+
+do philosophy of language. Even dictionaries list multiple meanings for ‘woman’.25
+Byrne also appeals to The New York Times, a 2010 Pourriat film, a 2003 Vincent
+memoir, and a carefully chosen quotation from a trans author, Julia Serano.26 They
+dismiss (as ‘irrelevant’, perhaps?) the language use of feminist philosophers, as well
+as entire linguistic communities where ‘woman’ is explicitly not used to mean
+‘adult human female’ (at least, not as Byrne interprets ‘adult human female’). More
+strikingly, though, Byrne’s argument ignores the endless examples of instances
+within ‘‘dominant’’ contexts, such as in law, print media, social media, policy
+documents, and education, where ‘woman’ is used with meanings other than adult
+human female.27
+   To cover up this cherry-picked use of evidence, Byrne often describes their
+selected examples as ‘‘correct’’, as ‘‘knowledge’’, or as ‘‘appropriate’’. While those
+who endorse polysemic or contextualist approaches need not contest these
+descriptions, such descriptions, combined with Byrne’s stipulation that ‘woman’
+has a single, invariant meaning, amount to question begging at best, and rhetorical
+bullying at worst.28 And while it is clever to attempt to escape charges of question
+begging simply by predicting them, this sleight of hand does not actually make one
+immune to such charges.29
+
+
+Footnote 24 continued
+Mirriam-Webster’s Dictionary, defined ‘woman’ as ‘‘adult human female’’, making it particularly
+obvious that Byrne is defending a political slogan.
+25
+   Miriam-Webster’s, for example, lists six, including the quite obviously social meaning, ‘‘distinctively
+feminine nature’’. This aligns with (Bettcher 2009)’s point that terms like ‘womanly’ show that cultural
+meanings are ‘‘packed right into’’ the meaning of ‘woman’—a point that Byrne first misrepresents as
+entailing that ‘‘‘Ditch digging is womanly’ is necessarily false’’, and then dismisses purely on the grounds
+that it ‘‘is debatable’’—an assertion that certainly leaves something to be desired qua philosophical
+argument. (P. 11, footnote 15) Moreover, Bettcher is by no means alone in their observation. As an
+anonymous referee pointed out, Beauvoir, in the introduction to The Second Sex, also argues that the term
+‘woman’ (or, more precisely, ‘femme’) encodes evaluative content.
+26
+   Section 2. Later in the paper (pp. 16–17), Byrne also appeals to cherry-picked examples of trans
+writers’ uses of ‘woman’ and ‘man’ as evidence for their claim that trans people are not of one mind on
+how to understand the relationship between trans identities and dominant gender categories. (‘‘…trans
+women themselves are not of one mind on [the claim that trans women are women].’’) However, Byrne
+ignores the fact that, in the very same quotations, one finds uses of ‘woman’ that conflict with the thesis
+that ‘woman’ means ‘adult human female’.
+27
+   Byrne might respond that this just shows that who counts as an ‘adult human female’ differs across
+contexts. This response would undermine their insistence that adult human female is a ‘‘biological and not
+social’’ category, since presumably a ‘‘biological and not social’’ category would not consistently differ in
+nature and extension across contexts. See Sect. 4.
+28
+   For example, Byrne stipulates that physiology-based uses of ‘woman’ and ‘man’ in gender role
+reversal cases is ‘‘correct’’ (Sect 2.5, ‘‘AHF predicts the correct verdict in cases of gender role reversal’’),
+and later appeals to this stipulation to dismiss out of hand Talia Bettcher’s argument that in role reversal
+cases ‘‘it isn’t clear how to apply the terms ‘man’ and ‘woman’.’’ (Byrne p. 12, cf Bettcher 2009:
+103–104).
+29
+   Byrne, p. 3: ‘‘People vary in their abilities to correctly identify members of categories, or to correctly
+apply words. Woman and ‘woman’ are no exceptions… It can be tempting to respond to such
+disagreement by losing one’s nerve and retreating to the claim that one’s evidence really consists in
+neutrally characterized facts about speakers’ use of words, or (perhaps worse) facts about ‘‘intuitions’’—
+evidence that one’s opponents are less likely to challenge. That temptation should be resisted. Pointless
+
+
+                                                                                                  123
+990                                                                                           R. Dembroff
+
+
+   Finally, and in a different vein of ‘‘cherry-picking’’, it is revealing to notice that
+Byrne never extends their semantic inquiry to the vast majority of gender terms,
+instead focusing exclusively on ‘woman’, ‘girl’, and occasionally, ‘man’. Why not
+include, for example, ‘lady’, ‘miss’, ‘mister’, ‘widow’, ‘tomboy’, ‘lesbian’, ‘lad’,
+etc.? I suspect Byrne’s response will be that these terms refer to the conjunction of
+woman, girl, boy, or man—categories Byrne argues are ‘‘biological and not
+social’’—with social information, such as class, marital status, gender presentation,
+or sexuality. But let’s examine this more closely. For example, what is this ‘non-
+social’ distinction between those called ‘girls’ and those called ‘women’? Byrne
+proposes an answer: those called ‘girls’ are ‘‘juvenile’’, rather than ‘‘adult’’ human
+females, where the difference between ‘‘juvenile’’ and ‘‘adult’’ is a ‘‘biological and
+not social’’ difference. But what could this purely biological difference be? The
+most plausible answer, it seems, is sexual maturity. But, in that case, the most
+charitable version of Byrne’s view is that what distinguishes those correctly called
+‘girls’ from those correctly called ‘women’ is whether or not the given individuals
+have reached a point of physical maturity associated with being impregnatable. (I
+see no point in mincing words.)
+   Even setting this aside, the claim that there is a biological difference—or a
+difference at all—between those called ‘girls’ and those called ‘women’ conflicts
+with even ‘‘dominant’’ uses of these terms. ‘Woman’ is rarely used to describe
+pubescent adolescents, such as fifteen- and sixteen-year-olds. And ‘girl’ is used not
+only for children, but also for adolescents and adults.30 As the linguist Robin Lakoff
+wrote in 1973, ‘girl’ is a ‘‘common substitute’’ for ‘woman’.31 ‘Girl’ also is
+frequently used as a term of endearment within groups of both female-identified
+friends (as well as male-identified gay friends). And the term ‘girlfriend’, needless
+to say, is not typically used for children. Byrne’s claims about the meanings of these
+terms fail to track even dominant use.
+
+
+
+3 The bridge from semantics to metaphysics
+
+Byrne’s conclusion is a metaphysical one: someone is a woman if and only if that
+person is an adult human female, where adult human female is a ‘‘biological and not
+social’’ category. I’ll address the substance of this claim in the next section. The
+purpose of this section is to address a mostly hidden premise in Byrne’s argument,
+which I state explicitly as Premise 6. This premise says that the ‘‘philosophically
+
+Footnote 29 continued
+charges of ‘‘begging the question’’ may be anticipated; this paper does not attempt the futile task of
+convincing everyone.’’ Emphasis added.
+30
+   See Lakoff (1973), 61: ‘‘[W]omen of all ages are ’girls’.’’ While Lakoff claims that this does not hold
+true for ‘boy’ and ‘man’, this overlooks the important fact that, historically in the U.S., ‘boy’ has been a
+common substitute for ‘man’ when referring to black men. These substitutions share derogation in
+common.
+31
+  Lakoff (1973), 61. This is particularly notable, given that one of Byrne’s six arguments in favor of
+AHF (2.6) is that ‘woman’ and ‘female’ are used interchangeably.
+
+
+123
+Escaping the natural attitude about gender                                                            991
+
+
+relevant’’ meaning of the term ‘woman’ is a reliable guide to the metaphysics of the
+category woman. (Byrne assumes there is only one such category.) In addressing
+this premise, I grant, for the sake of argument, that there is a single meaning of the
+term ‘woman’ that is philosophically relevant. We could even grant that this is the
+‘‘dominant’’ meaning, and the problem remains: one cannot read the metaphysics of
+gender off ‘‘the meaning’’ of natural language gender terms.
+   Barnes (2019) describes the project of the metaphysics of gender as the project of
+saying ‘‘what feature(s) of the world—if any—unify or explain gender’’.32 But there
+are at least two reasons for thinking that everyday use of gender terms is a poor
+guide to such features. The first is discussed at length by Barnes, who writes:
+     A striking feature of the contemporary metaphysics of gender…is that it
+     typically takes the task of explaining gender as the task of explaining what it is
+     to be a woman (or a man, or genderqueer, or etc.) And thus attempts to give a
+     metaphysics of gender often become attempts to give application conditions
+     for gender terms such as ‘woman’… But [giving a metaphysics of gender]
+     might come apart from the project of defining or giving application conditions
+     for our natural language gender terms like ‘woman’.33
+Barnes devotes an entire section of their paper to arguing that the semantics of
+natural language gender terms pull apart from the metaphysics of gender.34 Barnes
+points to the already ‘‘commonplace’’ position within other areas of metaphysics
+that natural language use is a poor guide to metaphysical facts: true sentences of
+natural language and the extensions of natural language predicates do not reveal,
+and need not even map onto, metaphysical structure.35 To illustrate this, Barnes
+points to the popular debate in mereology over the existence and nature of ordinary
+objects, such as tables. While some metaphysicians are committed to providing
+paraphrases of the natural language term ‘table’ that align with their metaphysics,
+increasingly many deny the need for such paraphrasing.36 Words get their meanings
+and application conditions from their everyday use, and we have little to no reason
+to believe that such everyday use would glom onto the metaphysical structures that
+ultimately explain the phenomena that people refer to using natural language.
+Similarly, Barnes goes on to argue, doing the metaphysics of gender means
+understanding the ‘‘bedrock social structure’’ that gives rise to the ‘‘complicated,
+multi-faceted social experience of gender.’’ As with ‘table’, we have little to no
+
+32
+   Barnes (2019), p. 2. Barnes takes this to mean the attempt to ‘‘theorize what it is in virtue of which
+people have genders, or in virtue of which members of a given gender can be said to have something in
+common with each other, or in virtue of which gendered norms and roles have the significance they do’’.
+33
+   Barnes (2019), pp. 2, 3. Barnes’s critique does not apply to Haslanger’s (2000) analysis, which seeks a
+real definition of gender categories, and not a semantic analysis of gender terms. While Haslanger
+describes these categories with the terms ‘women’ and ‘men’, this is because they hold that we can and
+should appropriate the terms ‘women’ and ‘men’ for these metaphysical categories.
+34
+     Byrne fails to even acknowledge, much less address, this argument.
+35
+     Barnes (2019), p. 9.
+36
+   Barnes cites paraphrasers van Inwagen (1990) and Merricks (2001). They point to Bennett (2011),
+Cameron (2008), Dorr (2005), Schaffer (2009), and Sider (2011) as examples of metaphysicians denying
+the need for natural language paraphrasing.
+
+
+                                                                                             123
+992                                                                                           R. Dembroff
+
+
+reason to believe that the extension of natural language terms like ‘woman’ map
+neatly onto this structure.37
+   In addition to Barnes’s argument, there is another, largely undiscussed reason to
+think that natural language terms are a poor guide to the metaphysics of gender38: in
+many contexts, gender terms function less as descriptive terms, and more as what
+political and critical theorists call ‘‘floating signifiers’’.39 Such signifiers are, in
+brief, signifiers that carry robust social or political connotations without a specific
+signified or referent. For example, Ernesto Laclau suggests that the term ‘the
+people’ is a floating signifier: It does not function or carry signification on the basis
+of differences in purely descriptive content, but rather, on the basis of having
+sociopolitical significance that far outstrips any such content. Or, to use Laclau’s
+words, ‘‘what [the floating signifier] wins in extension it loses in intension’’.40
+Laclau here points at the fact that floating signifiers are capable of taking on
+whatever particular descriptive content users wish to impose on them, given these
+users’ social or political ends, all the while maintaining a stable, underlying
+significance. Other likely candidates for floating signifiers include racial terms like
+‘white’ and ‘black’, or terms like ‘democracy’ and ‘justice’. Such terms do not refer
+to a single object, or have agreed upon descriptive content. Rather, their primary
+significance is sociopolitical, and they are used in relation to various objects or
+descriptive contents as part of broader social struggles to harness the power of their
+sociopolitical significance.
+   One helpful way of thinking about floating signifiers is as tools in what David
+Plunkett and Alexis Burgess call disputes over ‘‘conceptual ethics’’. Such disputes,
+on their picture, are disputes over representational (i.e., conceptual or semantic)
+choices, but for ethical (rather than ‘‘merely semantic’’) reasons.41 For example,
+they argue, debates over what is aptly described as the ‘same person’ or as ‘death’
+are best understood as disagreements about non-representational consequences of
+representation, not about the form of representation per se.42 They are arguments
+about what we ought to do, not about the way the world is.
+   While I do not have space to fully argue for this claim here, we can quickly see
+evidence that terms like ‘woman’ and ‘man’ frequently—if not almost always—
+function as floating signifiers in debates over how people ought (or ought not) be
+
+37
+   Barnes (2019), p. 14. Also, as an anonymous referee pointed out to me, Byrne’s assumption that
+ordinary language use is a direct guide to metaphysics is most dubious with respect to non-social kinds,
+and is far more plausible with respect to social kinds. There is, then, tension between Byrne’s claim that
+woman is a non-social kind, and Byrne’s assumption that we have epistemic access to the metaphysics of
+womanhood via ordinary language use.
+38
+   The closest discussion in the analytic literature is Dembroff (forthcoming). But see Wittig (1985) for a
+similar suggestion in earlier feminist thought.
+39
+   ‘‘Floating signifiers’’ are closely related to ‘‘empty signifiers’’, which are signifiers that attempt to
+become devoid of particular content in order to represent a universal, hegemonic reality. Laclau (2005)
+suggests that signifiers of populism, like the ‘moral majority’, are examples of empty signifiers. In
+practice, however, and as Laclau points out, empty and floating signifiers constantly overlap. (p. 43).
+40
+     Laclau (2005), p. 40.
+41
+     Burgess and Plunkett (2013), p. 1092.
+42
+     Burgess and Plunkett (2013), p. 1097.
+
+
+123
+Escaping the natural attitude about gender                                                              993
+
+
+treated on the basis of their physical, social, and psychological features. As Kessler
+and McKenna (1978) point out, attributions of gender—often, via the terms
+‘woman’ or ‘man’—set up an interpretive lens through which we evaluate a
+person’s body, social roles, and gender identity. Two people can agree on all the
+facts about a given person’s body, social roles, and identity, but have drastically
+different normative evaluations of these facts, which they communicate by
+describing this person as a ‘woman’ or a ‘man’. Conservative groups insist that
+‘‘there are only two genders’’, and that ‘‘a woman is an adult human female’’; liberal
+groups claim that ‘‘trans women are women’’ and that ‘‘gender is not binary’’.
+Kessler and McKenna’s point is that these groups could agree on all the underlying
+physical, psychological, and social facts, and still continue to make these opposing
+claims. This suggests that their respectives uses of terms like ‘gender’ and ‘woman’
+are doing normative, political work more so than descriptive work. As Haslanger
+observes, ‘‘the act of classifying someone as a member of a social group invokes a
+set of ‘appropriate’…norms and expectations… in short, it carries prescriptive
+force’’.43 For this reason, Haslanger argues, gender terms often primarily function as
+a way to communicate what norms and expectations are appropriate to apply to a
+person or group, and not to communicate descriptive features of that person or
+group.44
+    The concept of floating signifiers is helpful for understanding the mechanism
+underlying this normative use of gender terms. And, assuming that gender terms do
+function as floating signifiers, this is enough to see why they are unreliable guides to
+the metaphysics of gender. Consider an analogy: suppose two people are arguing.
+One insists, ‘Octopuses are persons’ and the other denies this. They might agree on
+all the relevant facts about octopuses, and continue to have this dispute, because the
+term ‘person’ is functioning as a floating signifier, carrying robust moral
+significance that to some extent floats free of its specific referential content. In
+this scenario, it would be a mistake to go about the metaphysics of personhood by
+looking to these uses of ‘person’. Floating signifiers are not primarily used to
+describe the world, but to prescribe actions, attitudes, and behaviors. Given this, if
+‘woman’ and ‘man’ operate as floating signifiers—and the evidence suggests that
+they do—they are poor guides to the metaphysics of gender.
+    This point is particularly important in light of Byrne’s own claim that, in some
+cases, we should describe people as ‘‘women’’ and treat people as women even if
+they are not ‘‘actually’’ women.45 First, this claim conflicts with Byrne’s own
+methodology of using natural language use of ‘woman’ as a guide to metaphysical
+facts about womanhood. Second, and perhaps more importantly, this claim takes for
+granted that ‘woman’ has a stable extension, and that this extension tracks purely
+
+43
+     Haslanger (2000), p. 47.
+44
+   See Haslanger (2000), p. 48: ‘‘[I]t is possible to view our gender…vocabulary as, in effect, providing
+terminological place-holders marking space for the collective negotiation of our social identities.’’ On one
+reading of Bettcher (2009, 110–111), Bettcher takes a similar view of gender terms according to which
+claims such as ‘‘I am a woman’’ can be speech acts that are not truth apt, and primarily communicate
+one’s ‘‘reasons for acting’’ rather than a ‘‘conception of self’’.
+45
+     See Byrne pp. 11–12.
+
+
+                                                                                               123
+994                                                                            R. Dembroff
+
+
+descriptive features. Byrne’s claim thereby fails if terms like ‘woman’ are indeed
+floating signifiers, since floating signifiers lack stable extensions and are not
+primarily descriptive.46
+   Byrne does not consider the possibility that one can theorize about the
+metaphysics of gender using methodologies other than the analysis of natural
+language use. Byrne would be helped by the decades of gender theory that have
+grappled with this question and developed improved methodologies. One such
+methodology is, in fact, discussed (though misrepresented) by Byrne in their own
+paper—Haslanger’s ameliorative project.47 Byrne presents Haslanger’s ameliorative
+project as a prescriptive political project that is largely disinterested in describing
+the world. But in fact, drawing from W.V.O. Quine, Hilary Putnam, and others,
+Haslanger is careful to situate the ameliorative project within general metaonto-
+logical and semantic commitments that entail the methodological inseparability of
+prescription and description. In doing so, Haslanger goes to great lengths to show
+that the methodology underlying the ameliorative project, despite its prescriptive
+element, is not different in kind than methodologies standardly deployed in other
+areas of metaphysics.
+
+
+
+4 The metaphysical step
+
+Byrne’s paper concludes with metaphysical claims: someone is a woman if and only
+if they are an adult human female, and adult human female is a ‘‘biological and not
+social’’ category. While a small library of books problematizes these claims, I will
+focus on just two problems: the universal framing and the distinction between
+‘‘biological’’ and ‘‘social’’ categories.
+
+4.1 Problem 1: Framing
+
+The framing problem with Byrne’s metaphysical claim is the metaphysical analog
+of the framing problem with their semantic claim. For this reason, I will not spend
+too much time on it, but it is nevertheless important to point out.
+   Throughout the paper, Byrne assumes without argument that there is a single,
+universal category woman. This much is obvious: in addition to frequently referring
+to ‘‘the category woman’’, Byrne refers to ‘‘the prototype of woman’’ and ‘‘the
+essence of womanhood’’.48 This universalist assumption has been criticized by black
+feminist theorists, including Kimberlé Crenshaw and Patricia Hill Collins.49 It also
+is discussed at length in Elizabeth Spelman’s book Inessential Woman, Mari
+Mikkola’s The Wrong of Injustice, and Naomi Scheman’s ‘‘Queering the Center by
+
+
+46
+     Thanks to an anonymous referee for bringing this point to my attention.
+47
+     Haslanger (2000).
+48
+     Byrne, pp. 14, 21.
+49
+     Crenshaw (1989) and Hill Collins (2000, 2016).
+
+
+123
+Escaping the natural attitude about gender                                                                995
+
+
+Centering the Queer’’.50 There is a wealth of empirical literature in anthropology,
+history, sociology, and gender studies concerning alternative gender classification
+schemas found in non-Western societies and LGBTQ communities, as well as
+historical variations in understandings of women and men.51 In light of this
+evidence, both Bettcher (2013) and Dembroff (forthcoming) have defended
+metaphysical pluralism about gender categories.
+   Byrne disregards all of this, instead assuming that woman is a single, universal
+category that aligns with ‘‘dominant’’, Western, contemporary understanding. In order
+to stave off objections, Byrne ignores the historicity of Western gender categories,
+and uses cherry-picked quotations to undermine the legitimacy of queer communities
+and non-Western cultures with nonbinary genders.52 And while I am not here
+claiming that gender pluralism is correct, I am pointing out that there are very good,
+already discussed reasons to reject a universalist framework. Responsible scholarship
+requires addressing these reasons, rather than stipulating their irrelevance.
+
+4.2 Problem 2: The biological/social distinction
+
+Byrne’s conclusion is not simply that ‘the’ category woman is the category adult
+human female, but also that adult human female is a ‘‘biological and not social’’
+category. But what is this distinction? Closer examination reveals that Byrne’s own
+understanding of what makes a category ‘‘biological’’ or ‘‘social’’ does not establish
+that the two are exclusive. Moreover, while Byrne gives little content to adult
+human female, what content there is—especially when combined with Byrne’s
+insistence that this category is ‘‘not social’’—shows that Byrne misunderstands or is
+unfamiliar with relevant work in social ontology, the history of sexology, gender
+theory, and medical and cultural anthropology.
+   Let’s begin with the supposed distinction between ‘‘biological’’ and ‘‘social’’
+categories. Byrne stipulates the following definitions:
+     Biological categories ‘‘[C]ategories proprietary to biology.’’53
+     Social categories Categories with membership conditions that are at least
+     partially constituted by social features.54
+
+50
+     Spelman (1988), Mikkola (2016) and Scheman (1997).
+51
+     Meyerowitz (2004). See also Valentine (2007) and Gill-Peterson (2018).
+52
+    See p. 10, fn 16, where Byrne appeals to linguistic translation (from a language with nonbinary gender
+terms to one with only binary gender terms) to undermine the legitimacy of nonbinary categories. (‘‘…
+literal translations of berdache names do not inspire confidence: admittedly they include ‘man
+transformed into a woman’ and ‘man-woman’, but also ‘acts like a woman’, ‘woman pretenders’, and
+‘unmanly man’.’’) See also p. 16, where Byrne dismisses trans persons’ testimonies as unreliable due to
+‘personal investment’. (‘‘[W]hen someone declares ‘I am an F’ that is often a strong indication that she is
+an F. In the present [transgender] case, however, this is unpersuasive for a perfectly general reason: if
+someone is personally heavily invested in the truth of p, it is prudent to treat her claim that p is true with
+some initial caution.’’) We are presumably meant to suppose that Byrne is an uninterested, objective
+observer.
+53
+     Byrne, p. 1, fn 2.
+54
+   Or, to put this in technical terms that Byrne borrows from Haslanger (2012) (131; cf. 87): ‘‘in order for
+X to be F, X must exist within a social matrix that constitutes F’s’’.
+
+
+                                                                                                 123
+996                                                                                      R. Dembroff
+
+
+While Byrne does not define ‘‘proprietary’’, we can assume that it does not mean
+‘‘exclusive to’’, given that Byrne’s argument is explicitly about the everyday,
+‘‘dominant’’ category woman, and not a technically-defined category only used in
+the context of biological research. So perhaps Byrne means that woman is akin to
+planet—just as astronomers are (let’s suppose) the relevant experts for describing
+what makes a cosmological body a planet, biologists are the relevant experts for
+describing what makes a human body an adult human female.
+   We also are not told what makes a feature constitutively social. Presumably,
+though, it must be something more than simply involving a relationship between
+humans—after all, otherwise, every category within biology that concerns
+reproduction would be social. So perhaps being constitutively social, for Byrne,
+is not simply about relations between humans, but societal relations between
+humans. Even on this understanding, Byrne’s biology/social distinction fails. For
+example, the category caste is a category used within biology to pick out subsets of
+animals within a society of social animals that have particular social functions and
+distinct anatomical or morphological features. Categories of animals defined in
+terms of their caste, such as workers, soldiers, or queens, are therefore defined in
+terms of constitutively social features.
+   Perhaps by ‘‘biological category’’, then, Byrne intended something more like ‘‘a
+category whose membership conditions are fully defined in terms of physiological
+features’’. Certainly, they seem to have something like this in mind, as evidenced by
+their placing adult human female alongside vertebrate and mammal, as well as their
+insistence that persons who lack uteruses and ovaries, even if they otherwise appear
+as ‘‘normal’’ females, are not adult human females.55
+   But if this is what Byrne means by ‘‘biological’’, then new problems arise. First,
+it is completely unclear how Byrne takes adult to have purely physiological
+membership conditions. Even with respect to ordinary language, such as the
+proliferation of terms like ‘adulting’, it seems clear that ‘‘adult’’ is a social
+category.56 Despite this, perhaps Byrne would say that adult humans are those with
+mature reproductive organs. In that case, though, their stipulated definition of adult
+human female tracks a group with a different extension than the persons typically
+considered women. Insofar as Byrne’s thesis is meant to be about what the
+dictionary and ordinary language speakers are talking about when they talk about
+‘women’, their thesis remains false.
+   Second, and more importantly, the claim that adult human female is ‘‘biological
+and not social’’, in these narrow senses of ‘‘biological’’ and ‘‘social’’, fails to
+undermine the traditional sex/gender distinction that Byrne sets out to disprove, and
+also fails to address the sense of ‘‘social’’ (discussed below) in which Kessler and
+McKenna, Butler, Karkazis, Meyerowitz, and others have argued that sex categories
+like female and male are importantly social categories.57 So while Byrne tries to
+
+55
+   The language of normalcy is normatively loaded, and has a long history of weaponization against
+ethnic and racial groups, as well as persons with disabilities. Moreover, as biomedical history and
+physical variations show, there is nothing that answers to description as a ‘‘normal’’ female body.
+56
+     Thanks to an anonymous referee for this example.
+57
+     Butler (1993), Kessler and McKenna (1978), Karkazis (2008) and Meyerowitz (2004).
+
+
+123
+Escaping the natural attitude about gender                                                             997
+
+
+undermine both a sex/gender distinction on which sex is non-social and gender is
+social, as well as the view that sex (even if distinct from gender) is social, they
+succeed in neither.
+   Consider the traditional sex/gender distinction that Byrne targets. According to
+this distinction, someone’s sex concerns what reproductive features (e.g., genitalia,
+gametes, gonads) they have, but their gender concerns how they are viewed and
+treated by others and themselves on the basis of their (perceived) sex. Byrne says
+nothing in the entirety of their paper to undermine this distinction: showing that
+there is some category such that membership is solely based on reproductive
+features is compatible with their being a category such that membership is based on
+being treated a certain way, given (perceived) reproductive features. In fact, Byrne
+themself acknowledges this, albeit in a confused way. They write, ‘‘[A] category
+can be both socially significant and biological… Female and male are clear
+examples.’’58 The whole point of the traditional sex/gender distinction was to make
+an analytic distinction between categories of bodies (and only bodies!) and
+categories of people treated according to the social significance attached to those
+bodies. Byrne conflates the two by referring to them as ‘‘a category’’. But
+recognizing that biological features carry social significance just is recognizing the
+basis of the traditional sex/gender distinction. This point bears emphasis: because
+the traditional sex/gender distinction just is the distinction between categories based
+solely on reproductive features, and categories based on the social significance of
+reproductive features, Byrne’s admission that biological features can be ‘‘socially
+significant’’ not only fails to undermine this distinction; it aligns Byrne with those
+who make this distinction.
+   Byrne also rejects the view that sex itself is social. Despite the fact that this view
+has been defended at length by biomedical anthropologists and historians as well as
+gender scholars, Byrne again simply assumes without argument that this view is
+false.59 And, on the very narrow view of a ‘‘social’’ category that Byrne uses, it is
+true that sex categories are not social. But this claim is orthogonal to the relevant
+claim made by these scholars. Their claim was never and is not the claim that the
+membership conditions of sex categories include constitutively societal features,
+such as particular socialization or treatment. It is, rather, that there is no unique,
+stable, and binary classification of sex traits, that binary classification of bodies as
+female and male is socially motivated and typically vague, underdetermined, or
+ambiguous, and that these classifications are historically and contextually variable.60
+   Byrne’s biological/social division does not, then, touch on this sense of sex as
+social. Nevertheless, Byrne does assume that sex is not social even in this broader
+sense. They take adult human female and adult human male to be universal, stable,
+
+58
+     Byrne, p. 6.
+59
+   Byrne, p. 4, fn 7. (‘‘Some argue that categories like female are social categories… This position is
+assumed false here…’’) Byrne also claims that ‘‘if female is a social category’’, their thesis is easier to
+defend. Given that their thesis is, in their own words, the thesis that ‘‘woman is a biological (and not
+social) category’’—namely, adult human female—I’m unsure how to interpret this claim.
+60
+   As an anonymous referee noted, these difficulties are not unique to sex classification—they also are
+mirrored in species classification. See, e.g., Kitcher (1984) and Ereshefsky (1998).
+
+
+                                                                                              123
+998                                                                          R. Dembroff
+
+
+and discrete categories of sex traits, where a single set of sex traits are shared among
+all women, and where these categories can be explained without reference to
+cultural ideologies. Each of these claims is false.
+   First, there are no such stable, discrete, and exhaustive categories of sex traits.
+Historian Joanne Meyerowitz makes this point clearly:
+     [L]ike gender and sexuality, biological sex has a history. Humans have
+     imagined it differently at different times and in different places. European and
+     American scientists once envisioned sex as a hierarchy of similar beings in
+     which female stood as an inferior version of male. With the Enlightenment of
+     the late eighteenth century, though, they increasingly wrote of two sexed,
+     distinct and opposite. Female less often appeared as a paler copy of male and
+     more often as distinctly different and complementary.61
+As Meyerowitz (along with others) shows in detail, categorizations of sex traits
+under the labels ‘female’ and ‘male’ have and continue to fluctuate across time and
+social context. For example, with the discovery of sex hormones and sex
+chromosomes, sexologists turned from ‘‘the visible realm of genitals to the
+microscopic gaze’’ to embark on a still ongoing ‘‘elusive quest’’ to find
+stable grounds for binary, exhaustive sex categorization.62 And, while sexologists
+go about this miscroscopic search, doctors and nurses continue to assign sex
+categories on the basis of genitals, in some cases following genital reconstructive
+surgery on infants with intersex variations.63 In short, across and even within
+scientific and medical fields, there is no agreement or stability with respect to the
+grounds for sex categorization.64 The details of recent legal battles over whether
+sprinters Caster Semenya and Dutee Chand—both of whom have intersex
+variations—will be eligible to compete in women’s international sport reveals just
+how ‘‘elusive’’ this quest is. In the end, the International Olympic Committee
+stipulated categories of ‘‘sport sex’’—categories based on a combination of
+chromosomes and reproductive organs—relevant only to elite international sport,
+and arguably motivated more by racial prejudices than competitive relevance.65 All
+of that to say: Byrne’s claim that a single, fixed category answers to ‘‘the’’ category
+adult human female is ignorant of the history and sociology of sex categorization.
+   Second, for any one of the many possible binary categorizations of sex traits,
+there are none where these traits are shared universally among the group of people
+considered women (or men), even in dominant contexts. Medical anthropologist
+Katrina Karkazis points out that a century-long search for such traits has come up
+empty:
+     For a century, scientists studied an array of human characteristics that inform
+     our ideas of what sex is, seeking to pin down a single, definitive biological
+
+61
+     Meyerowitz (2004), pp. 21–22. Emphasis added.
+62
+     Meyerowitz (2004), p. 2.
+63
+     See, e.g., Karkazis (2008).
+64
+     See, e.g., Richardson (in progress).
+65
+     Karkazis and Jordan-Young (2018).
+
+
+123
+Escaping the natural attitude about gender                                                          999
+
+
+     indicator. Bodies troubled these schemes and led to socially untenable
+     categorisations. If gonads were understood as the essence of sex, women who
+     were phenotypically female but who had testes were men. This didn’t make
+     sense, so scientists proposed yet other traits. Even as they debated which
+     biological trait signalled its essence, scientists understood sex as biological
+     and involving multiple, if contested, factors.66
+Despite this dead-end, commitment to binary sex classification still persists, leading
+to shoddy research and inconsistent definitions. Historian Sarah Richardson
+describes how attempts to justify binary classification using X and Y chromosomes
+led scientists to distort or gloss over evidence undermining this framework.67 And
+the U.S. government’s attempt to define binary sex classifications resulted in
+inconsistent definitions—one in terms of natal genitalia, and another in terms of
+‘‘immutable biological traits’’.68 In short, as Kessler and McKenna observed in
+1978, ‘‘There are [no features] that always and without exception are true of only
+one gender’’.69 As we continue to learn more about the complexities of sex—down
+to the fact that a single person can have different chromosomal sexes across
+cells70—this forty-year-old observation becomes ever more well-founded.
+   Given this litany of failed attempts to locate a ‘‘single, definitive biological
+indicator’’ of binary sex classification, why do people continue to look for this
+indicator, or to insist that sex is universal and fixed? Moreover, what motivates the
+classifications of sex traits—i.e., what explains why some traits but not others are
+understood as male or female traits?
+   In addressing these questions, we see the important sense in which biological sex
+categories also are social categories. Cultural beliefs about gender,71 technology,
+and medical practices all are relevant to answering these questions. ‘‘Human sexual
+difference is seemingly obvious and certainly real on many levels,’’ argues Anne
+Fausto-Sterling, ‘‘but in another sense it is a carefully crafted story about the social
+relations of a particular historical time and place, mapped onto available bodies’’.72
+In saying this, Fausto-Sterling echoes what others also have observed: a social
+interest in maintaining binary gender categories women and men, basing those
+categories on physical features, and using those categories to restrict sexual and
+social behavior, motivates the imposition of binary classification onto features that
+are in fact varied and mosaic. It also motivates appeals to medicine and science to
+
+
+
+
+66
+     Karkazis (2019). See also Fausto-Sterling (2012).
+67
+     Richardson (2013) cf Karkazis (2019).
+68
+     See discussion in Karkazis (2019).
+69
+     Kessler and McKenna (1978), p. 2.
+70
+     Ainsworth (2015).
+71
+   In this, I include beliefs about persons who stand at intersections of gender with race, ethnicity,
+disability, age, and class—see, e.g., Karkazis and Jordan-Young (2018), Gill-Peterson (2018) and Snorton
+(2017).
+72
+     Fausto-Sterling (1995), p. 21. cf Karkazis (2008), p 6.
+
+
+                                                                                           123
+1000                                                                                          R. Dembroff
+
+
+justify such imposition.73 As Karkazis writes, ‘‘What was thought to be the base or
+root of gender difference [i.e., sex] is actually an effect of gender’’.74 Along the
+same lines, linguist Lal Zimman points out that this effect is particularly visible
+once we observe the diversity across cultures concerning how sex features relate to
+social gender categories. 75
+   I won’t rehash the many detailed arguments for these claims here. A plethora of
+books and articles have been written on these issues. My point is simply this:
+Byrne’s stipulated distinction between the ‘‘biological’’ and the ‘‘social’’ fails to
+show that they are exclusive, fails to undermine the traditional sex/gender
+distinction, and fails to show that sex categories are not, in the relevant and
+interesting sense, social categories. Moreover, the available evidence suggests that
+sex categories are ontologically multiple, not universal or directly mapping onto
+everyday gender categorization, and shaped by historical and cultural interests.
+
+
+5 Conclusion
+
+I‘ve addressed Byrne’s arguments largely on their own terms. I’ve shown that these
+arguments are uninformed and poorly constructed, and set aside their larger
+methodological and ethical problems. In closing, however, I want to pause to touch
+on these problems.
+    Byrne exhibits what Kessler and McKenna call the ‘‘natural attitude’’ concerning
+gender. In this natural attitude, we find a series of assumptions: there are two
+universal genders, every person immutably has one, and all this is vindicated by
+science. Other ways of seeing the world are, to someone with the natural attitude,
+‘ideological’, ‘primitive’, or ‘unscientific’.76
+    Finding this attitude at a family reunion or from certain riders on Byrne’s
+‘‘Clapham Omnibus’’ is not surprising.77 But finding this attitude unexamined and
+on display in a scholarly paper, where one is expected to be responsive to existing
+literature, empirical evidence, and relevant testimony, is quite another thing. In
+setting out with the question ‘what is a woman?’, philosophers must be aware that
+proposed answers bear real-world consequences for people – including persons with
+intersex variations, women of color, and trans and gender nonconforming persons.
+
+73
+   See Karkazis (2008), p. 12: ‘‘Our insistence on a so-called true sex is tied to a deep and abiding social
+interest that individuals engage in ‘‘correct’’ (I.e., socially sanctioned) forms of sexual behavior… The
+moral interest in limiting licentious behaviors…has driven the social interest in the medical determination
+of a single true sex’’.
+74
+    Karkazis (2008), p. 13. ‘‘‘‘Dichotomous gender, far from being natural or innate, or based in our being,
+is accomplished, constructed, and reproduced in interactions and interpretive processes.’’ See also Kessler
+and McKenna (1978), p. 163: ‘‘Biological, psychological, and social differences do not lead to our seeing
+two genders. Our seeing two genders leads to the ‘‘discovery’’ of biological, psychological, and social
+differences.’’ See also Butler 1990.
+75
+     Zimman (2014).
+76
+     Kessler and McKenna (1978), pp. 4–5.
+77
+     Byrne, p. 1. (‘‘Are women (simply) adult human females? It might surprise the woman on the
+     Clapham Omnibus to learn that philosophers almost always answer no.’’).
+
+
+123
+Escaping the natural attitude about gender                                                             1001
+
+
+Despite Byrne’s misrepresentations, feminist metaphysicians do not take this
+awareness to mean that we should construct whatever definition would least offend,
+or would best cater to the wishes of these groups. Rather, we take this awareness to
+place a moral obligation on us to be particularly scrupulous, rigorous, and informed
+about our subject matter. Doing so requires demonstrating sensitivity to relevant
+existing literature, both inside and outside of analytic philosophy, as well as
+understanding this issue’s stakes and complexity.
+   Byrne stipulates frameworks and assumptions that casually dismiss or ignore
+relevant existing literature. They cite the testimony of trans persons only for the
+purpose of undermining these persons’ self-understanding, or for pitting them
+against other trans persons.78 Rather than take account of ways that definitions of
+sex categories impact persons with intersex conditions or from marginalized racial
+and ethnic groups, they sweepingly dismiss cultures with nonbinary gender systems
+in a footnote.79 They conjure a fictional intersex variation for the purpose of arguing
+that, no matter how much an intersex person looks, behaves, or claims to be a
+woman, they are not one.80 Byrne’s paper fundamentally is an unscholarly attempt
+to vindicate a political slogan that is currently being used to undermine civic rights
+and respect for trans persons. And it is here that I return to Byrne’s advice to
+question the motivations behind this debate. ‘‘If someone is personally heavily
+invested in the truth of p,’’ Byrne writes, ‘‘it is prudent to treat [their] claim that p is
+true with some initial caution.’’ I agree. So we may ask: What are the motivations of
+someone who would so confidently insert themself into this high-stakes discourse
+while so ill-informed?81
+
+Acknowledgements Many thanks to Lori Gruen, Katharine Jenkins, Karen Jones, Katrina Karkazis,
+Suzy Killmister, Hannah McCann, Naomi Scheman, and two anonymous referees at Philosophical
+Studies for helpful conversation and feedback during the development of this paper.
+
+
+References
+
+Ainsworth, C. (2015). Sex redefined. Nature, 518(7539), 288.
+Barnes, E. (2019). Gender and gender terms. Nous. https://philpapers.org/rec/BARGAG-6.
+Bennett, K. (2011). Construction area (no hard hat required). Philosophical Studies, 154(1), 79–104.
+Bettcher, T. (2009). Trans identities and first-person authority. In L. Shrage (Ed.), ‘‘You’ve changed’’: Sex
+     reassignment and personal identity. Oxford: Oxford University Press.
+Bettcher, T. (2013). Trans women and the meaning of ‘Woman’. In A. Soble, N. Power, & R. Halwani
+     (Eds.), Philosophy of sex: Contemporary readings, 6th edn. Rowan & Littlefield, pp. 233–50. https://
+     philpapers.org/rec/BETQWA.
+Bettcher, T. (2018). When tables speak: On the existence of trans philosophy. Blog. Daily Nous (blog).
+     May 30, 2018. http://dailynous.com/2018/05/30/tables-speak-existence-trans-philosophy-guest-
+     talia-mae-bettcher/.
+
+
+78
+     Byrne pp. 16–17.
+79
+     Byrne p. 10, fn 16.
+80
+   See Byrne p. 11. (‘‘[Intersex] individuals behave and look just like (human) females. But behaving and
+looking like a female is not sufficient for being one. By any reasonable standard, CAS individuals are not
+female’’).
+81
+     See Bettcher (2018) for further elaboration on this criticism.
+
+
+                                                                                                123
+1002                                                                                        R. Dembroff
+
+
+Brison, S. (2019). Can we end the feminist ‘Sex Wars’ now? Comments on Linda Martı́n Alcoff, rape and
+     resistance: Understanding the complexities of sexual violation. Philosophical Studies, 177(2),
+     303–309.
+Burgess, A., & Plunkett, D. (2013). Conceptual ethics I. Philosophy Compass, 8(12), 1091–1101.
+Butler, J. (1993). Bodies that matter : On the discursive limits of ‘‘sex’’. New York: Routledge.
+Byrne, A. (2020). Are women adult human females? Philosophical Studies. https://doi.org/10.1007/
+     s11098-019-01408-8.
+Cameron, R. (2008). Truthmakers and ontological commitment: or how to deal with complex objects and
+     mathematical ontology without getting into trouble. Philosophical Studies, 140 (1), 1–18.
+Corredor, E. (2019). Unpacking ‘Gender Ideology’ and the global right’s antigender countermovement.
+     Signs: Journal of Women in Culture and Society, 44(3), 613–638. https://doi.org/10.1086/701171.
+Crenshaw, K. (1989). Demarginalizing the intersection of race and sex: A black feminist critique of
+     antidiscrimination doctrine, feminist theory and antiracist politics. University of Chicago Legal
+     Forum, 1, 139–167.
+Dembroff, R. (forthcoming). Real talk on the metaphysics of gender. In Takaoka & Manne (Eds.),
+     Gendered oppression and its intersections, an issueof philosophical topics.
+Dembroff, R., & Wodak, D. (2018). He/she/they/ze. Ergo, an Open Access Journal of Philosophy. https://
+     doi.org/10.3998/ergo.12405314.0005.014.
+Diaz-Leon, E. (2016). Woman as a politically significant term: A solution to the puzzle. Hypatia, 31(2),
+     245–258. https://doi.org/10.1111/hypa.12234.
+Dorr, C. (2005). What we disagree about when we disagree about ontology. In M. E. Kalderon
+     (Ed.), Fictionalism in Metaphysics (pp. 234–86). Oxford University Press.
+Dotson, K. (2012). How is this paper philosophy? Comparative Philosophy, 3(1), 03–29.
+Ereshefsky, M. (1998). Species pluralism and anti-realism. Philosophy of Science, 65(1), 103–120.
+Fadulu, L., & Flanagan, A. (2019). Trump’s rollback of transgender rights extends through entire
+     government. The New York Times, December 6, 2019, sec. U.S. https://www.nytimes.com/2019/12/
+     06/us/politics/trump-transgender-rights.html.
+Fausto-Sterling, A. (1995). Gender, race, and nation: The comparative anatomy of ‘Hottentot’ women in
+     Europe, 1815–1817. In J. Terry & J. Urla (Eds.), Deviant bodies: Critical perspectives on difference
+     in science and popular culture (pp. 19–48). Indiana University Press: Bloomington.
+Fausto-Sterling, A. (2012). Sex/gender: Biology in a social world. The Routledge Series Integrating
+     Science and Culture. New York: Routledge.
+Fine, K. (1994). Essence and modality. Philosophical Perspectives, 8, 1–16.
+Foucault, M. (1972). The archaeology of knowledge and the discourse on language (S. Smith, Trans.).
+     New York: Pantheon.
+Gill-Peterson, J. (2018). Histories of the transgender child. Minneapolis: Baltimore, Md: University of
+     Minnesota Press, Project MUSE.
+Haslanger, S. (2000). Gender and race: (What) are they? (What) do we want them to be?. Noûs, 34(1),
+     31–55.
+Haslanger, S. (2012). Resisting reality : Social construction and social critique. New York: Oxford
+     University Press.
+Hill Collins, P. (2000). Black feminist thought : Knowledge, consciousness, and the politics of
+     empowerment. New York: Routledge.
+Hill Collins, P. (2016). Intersectionality. Malden, MA: Polity Press.
+Jenkins, K. (2018). Toward an account of gender identity. Ergo: An Open Access Journal of Philosophy.
+     https://doi.org/10.3998/ergo.12405314.0005.027.
+Karkazis, K. (2008). Fixing sex : Intersex, medical authority, and lived experience. Durham: Duke
+     University Press.
+Karkazis, K. (2019). The misuses of ‘biological sex’. The Lancet, 394(10212), 1898–1899.
+Karkazis, K., & Jordan-Young, R. (2018). The powers of testosterone: Obscuring race and regional bias
+     in the regulation of women athletes. https://doi.org/10.13140/RG.2.2.19472.71681.
+Kessler, S., & McKenna, W. (1978). An ethnomethodological approach. Gender: University of Chicago
+     Press.
+Kitcher, P. (1984). Species. Philosophy of Science, 51(2), 308–333.
+Laclau, E. (2005). Populism: What’s in a name? In F. Panizza (Ed.), Populism and the mirror of
+     democracy, Verso, pp. 32–49.
+Lakoff, R. (1973). Language and woman’s place. Language in Society, 2(1), 45–80.
+
+
+
+123
+Escaping the natural attitude about gender                                                         1003
+
+
+Laskowski, N. G. (2020). Moral constraints on gender concepts. Ethical Theory and Moral Practice,
+     23(1), 39–51.
+Merricks, T. (2001). Objects and persons. Oxford University Press.
+Meyerowitz, J. J. (2004). How sex changed a history of transsexuality in the United States. Cambridge,
+     MA: Harvard University Press.
+Mikkola, M. (2016). The wrong of injustice : Dehumanization and its role in feminist philosophy. New
+     York, NY: Oxford University Press.
+Nolan, D. (2014). Hyperintensional metaphysics. Philosophical Studies, 171(1), 149–160.
+Richardson, S. (2013). Sex itself: The search for male and female in the human genome. Chicago:
+     University of Chicago Press.
+Richardson, S. (in progress). Sex contextualism. https://www.harvardmagazine.com/2019/11/sarah-
+     richardson-science-sex.
+Saul, J. (2012). Politically significant terms and philosophy of language. In S. L. Crasnow & A.
+     M. Superson (Eds.), Out from the shadows: Analytical feminist contributions to traditional
+     philosophy. Oxford: Oxford University Press.
+Schaffer, J. (2009). On what grounds what. In D. J. Chalmers, D. Manley, & R. Wasserman (Eds.),
+     Metametaphysics (pp. 347–383). New York: Oxford University Press.
+Scheman, N. (1997). Queering the center by centering the queer: Reflections on transsexuals and secular
+     Jews. In D. Meyers (ed.), Feminists rethink the self, Westview Press, pp. 124–62.
+Sider, T. (2011). Writing the book of the world. Oxford University Press.
+Snorton, C. R. (2017). Black on both sides: A racial history of trans identity. Minnesota: University of
+     Minnesota Press.
+Spelman, E. (1988). Inessential woman : Problems of exclusion in feminist thought. Boston: Beacon
+     Press.
+Thomas, D. (2019). My transgender diary: ‘My new face is not yet a pretty sight.’ The Telegraph,
+     December 12, 2019. https://www.telegraph.co.uk/health-fitness/body/transgender-diary-new-face-
+     not-yet-pretty-sight/.
+Valentine, D. (2007). Imagining transgender: An ethnography of a category. Durham: Duke University
+     Press.
+van Inwagen, P. (1990). Material beings. Cornell University Press.
+Wittig, M. (1985). The mark of gender. Feminist Issues, 5(2), 3–12. https://doi.org/10.1007/BF02685575.
+Zimman, L. (2014). The discursive construction of sex: Remaking and reclaiming the gendered body in
+     talk about genitals among trans men. Oxford University Press. https://www.oxfordscholarship.com/
+     view/10.1093/acprof:oso/9780199937295.001.0001/acprof-9780199937295-chapter-2.
+
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published
+maps and institutional affiliations.
+
+
+
+
+                                                                                           123
+

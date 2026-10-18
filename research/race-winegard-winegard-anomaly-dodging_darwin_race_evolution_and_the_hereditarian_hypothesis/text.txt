@@ -1,0 +1,1257 @@
+Personality and Individual Differences 160 (2020) 109915
+
+Contents lists available at ScienceDirect
+
+Personality and Individual Diﬀerences
+journal homepage: www.elsevier.com/locate/paid
+
+Dodging Darwin: Race, evolution, and the hereditarian hypothesis
+a,⁎
+
+b
+
+Bo Winegard , Ben Winegard , Jonathan Anomaly
+a
+b
+c
+
+T
+
+c
+
+Marietta College, United States
+Hillsdale College, United States
+University of Pennsylvania, United States
+
+A R T I C LE I N FO
+
+A B S T R A C T
+
+Keywords:
+Race
+Group diﬀerences
+Evolution
+Intelligence
+Biodiversity
+
+Many intellectuals enthusiastically denounce those who argue that genes play some role in cognitive diﬀerences
+between human populations. However, such proposals are perfectly reasonable and are, in fact, consistent with
+the Darwinian research tradition in which most modern social scientists profess to operate. We argue that population-based cognitive diﬀerences are congruent with our best understanding of the world because there are
+strong reasons to believe that diﬀerent environments and niches selected for diﬀerent physical and psychological
+traits, including general cognitive ability. Like most hereditarians (those who believe it likely that genes contribute to diﬀerences in psychological traits among human populations), we do not believe there is decisive
+evidence about the causes of diﬀerences in cognitive ability. But we will argue that a partial genetic hypothesis is
+most consistent with the Darwinian research tradition.
+
+When Darwin's theory of natural selection was originally advanced,
+it challenged the prevailing religious orthodoxy in Victorian England.
+Most importantly and most “dangerously,” it suggested that the Biblical
+view of special creation was merely mythical, and that humans, like
+other animals, were biological “accidents” resulting from millions of
+years of evolution. Today, Darwin's theory challenges another orthodoxy: The view that all populations of humans have an equal distribution of socially valued traits. The intense anger elicited by the
+argument that some of the well-known Black-White IQ gap is caused by
+genetics reveals the emotional fervour with which the beliefs of the
+modern orthodoxy are held. Responses to claims about cognitive differences among human populations have become even more furious
+recently, despite the fact that gaps in intelligence and achievement
+among various populations persist around the globe, including in places
+where environmental conditions are ostensibly equalizing (e.g.,
+Marks, 2014). Because of this, modern Darwinism in practice is severely
+limited when applied to humans. In this article, we will argue that this
+modern orthodoxy is almost certainly wrong because (1) human populations vary; (2) they vary in predictable, patterned, and measurable
+ways; (3) they vary on a number of psychological traits; and (4) genetic
+diﬀerences plausibly explain at least some of the variance in these
+
+traits.
+We do not attempt to provide a completely comprehensive tour of
+the evidence on cognitive ability diﬀerences among human populations
+(see Jensen, 1998; Nisbett et al., 2012; Rushton & Jensen, 2005). Rather, we attempt to make the philosophical and theoretical case that
+hereditarianism—the view that a substantial proportion (20% or more)
+of diﬀerences in psychological traits within and among human populations is caused by genes—is more fruitful, parsimonious, and productive than is environmentalism—the view that almost all of the differences in psychological traits either within or among human
+populations is caused by environmental forces. We therefore urge
+scholars to overcome their understandable squeamishness and discomfort with hereditarianism1 to discuss it honestly and judiciously, so
+that researchers can fulﬁll the promise of the Darwinian revolution in
+psychology.
+Although accounts of human evolution and adaptation to local environments are promulgated in mainstream textbooks and widely accepted among academics (e.g., Molnar, 2006), they are worth brieﬂy
+covering because they form the basis for broad theoretical considerations that support the contention that human populations vary in
+physical and mental traits at least partially because of diﬀerences in
+
+⁎
+
+Corresponding author.
+E-mail addresses: Bmw002@marietta.edu (B. Winegard), anomaly@upenn.edu (J. Anomaly).
+1
+We use hereditarianism both to refer to the research tradition and to speciﬁc hypotheses. In the sense of a research tradition, hereditarianism is a framework that
+contends that human variation—individual, sex, and population—is at least partially caused by genetics. It then seeks to solve puzzles about human diﬀerences from
+this perspective, forwarding speciﬁc hypotheses to explain speciﬁc diﬀerences. As a hypothesis, it refers to a proposed explanation to a speciﬁc diﬀerence. The
+hereditarian hypothesis about average group diﬀerences in height or intelligence, for example, is that some proportion of the diﬀerences are caused by diﬀerences in
+genes.
+https://doi.org/10.1016/j.paid.2020.109915
+Received 14 November 2019; Received in revised form 8 February 2020; Accepted 11 February 2020
+0191-8869/ © 2020 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/BY/4.0/).
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+important point is this: Modern humans likely evolved in East Africa
+and then spread across the planet, inhabiting radically diverse environments, from the lush tropics with moderate weather to harsh
+woodlands with hot summers and bleak winters. Because of this, they
+evolved slightly diﬀerent characteristics “suited” to those environments.
+
+genes. Anatomically modern humans likely evolved in East Africa between 300,000 and 100,000 years ago (Stringer, 2012). At some point
+after roughly 150,000 years ago, these humans began to exit Africa into
+the Near East. By 45,000 years ago, humans had spread throughout
+much of Asia, Europe, and Oceania; and by 10,000, they had spread
+into America (Bae, Douka, & Petraglia, 2017; Klein, 2009;
+Stringer, 2000). After leaving Africa, humans encountered many novel
+climatological and ecological regions and therefore faced diﬀerent selective regimes from the ones they faced inside Africa. Researchers have
+shown that the story of human evolution is more complicated than was
+once assumed, with waves of war and migration leading various human
+groups to blend with or displace other groups (Reich, 2018). However,
+the basic story remains: The humans that left Africa faced diﬀerent
+environments and climates from those that prevailed in Africa, and
+populations were isolated enough from each other for natural and
+sexual selection to produce nontrivial diﬀerences among them.
+Perhaps the most obvious diﬀerence among human populations is
+their respective skin colors. The average modern Norwegian has fair
+skin; the average modern Saudi Arabian has olive skin; and the average
+Sub-Saharan African has dark skin Jablonski (2014). These diﬀerences
+are correlated with the intensity of UV radiation in the population's
+ancestral environment such that dark skin is related to high intensities
+of radiation. The exact reasons for skin color variation among humans
+are not entirely known, but researchers are fairly conﬁdent that dark
+skin functions as a kind of sunscreen, protecting against cutaneous and
+systemic folate degradation (Jablonski & Chaplin, 2017). And although
+the causes of lighter skin are still debated, many researchers champion
+its relation to pre-vitamin D3 synthesis (Jones, Lucock, Veysey, &
+Beckett, 2018; but see, e.g., Frost, 2007).
+Another interesting diﬀerence among human populations is that
+some have adaptations to extreme altitude (Bigham, 2016). At high
+altitudes (greater than or equal to 2500 m), low barometric pressure
+presents signiﬁcant challenges to human health, survival, and reproduction. Humans who visit places of high altitude may experience
+temporary, acute “mountain sickness”; those who reside in such places
+may experience chronic mountain sickness. Despite this, there are
+human populations who do permanently dwell in high altitude (and
+have for thousands of years) areas such as the Qinghai-Tibetan Plateau
+and the Semien Plateau in Ethiopia. In diﬀerent populations, the
+adaptations to altitude are slightly diﬀerent and the Tibetan adaptations may have been facilitated by introgression of DNA (through interbreeding) from Denisovans or Denisovan-related individuals
+(Huerta-Sánchez et al., 2014).
+Not only did humans encounter new environments during their
+evolution, but they also created them. This process, of an organism
+actively altering its environment, is called niche construction
+(Laland, Matthews, & Feldman, 2016). Capable of spinning ﬁne silky
+webs which it uses for catching prey, laying eggs, and many other
+crucial behaviors, the spider is one of the most recognizable non-human
+animals that has created a remarkable niche for itself—although there
+are many other striking examples, such as beavers and wasps. Humans
+create a ﬂexible niche of norms, traditions, and technologies, called
+culture, which has had profound inﬂuences not just on immediate
+human behavior, but on human evolution (Henrich, 2016). For example, after humans began to domesticate animals, some dairying populations evolved the ability to digest lactose after childhood (lactase
+persistence). This is why the distribution of lactase persistence across
+the globe varies from population to population (Gerbault et al., 2011).
+Domesticated animals also brought new diseases, transmitted from
+animals to humans, which selected for resistance to microbes to which
+hunter-gatherers were never exposed (Crawford, 2009; Greger, 2007).
+We will return to niche construction when we discuss human psychological variation and group diﬀerences in cognitive ability below.
+There are many other examples of human variation in physical traits
+that have been discussed, as noted above, in mainstream textbooks, so
+we will not expand on this physical variation further here. The
+
+1. Classifying human populations
+Most researchers will assent to the above, at least with regard to
+physical traits. But they will claim two things that prevent them from
+endorsing the full-blown study of human biodiversity. First, they will
+claim that human variation is virtually unclassiﬁable and that concepts
+such as race are scientiﬁcally misleading and morally pernicious. And
+second, they will claim that humans do not vary in psychological traits
+or tendencies. We will address the former in this section and the latter
+in the next.
+Since the 1950s, many intellectuals have assailed the concept of
+race, arguing that it is a dangerous ﬁction and a deeply deceptive
+construct that creates an illusion of patterned variation that just does
+not match reality (Kaplan & Winther, 2013). Although these skeptical
+intellectuals have proposed many arguments against race, the three
+most popular are that (1) human variation is almost completely clinal;
+(2) human variation is not correlated in a predictable and patterned
+way; and (3) human variation between groups is small, probably insigniﬁcant, compared to variation within groups. These arguments are either factually wrong or true but misleading.
+Before looking at these arguments in greater detail, it is worth
+noting that one of the most common tactics critics use to argue against
+race is to transform it from a reasonable classiﬁcatory construct into an
+implausible Platonic essence. For example, here is the philosopher
+Antony Appiah's (1990) view of what race (or “racialism”) means:
+There are heritable characteristics, possessed by members of our
+species, that allow us to divide human beings into a small set of
+races, in such a way that all the members of these races share certain
+traits and tendencies with each other that they do not share with
+members of any other race. These traits and tendencies characteristic of a race constitute, on the racialist view, a sort of racial essence
+(pp. 4–5).
+This is a common claim, and is related to a rather less philosophical
+but equally implausible and essentialist notion recently advanced in a
+popular book that race realism is, “at its heart the belief that we are
+born diﬀerent, deep inside our bodies, perhaps even in character and
+intellect, as well as in outward appearance” (Saini, 2019, p xiii). It is
+unclear what “deep in our bodies” means here: the correct way to state
+the hereditarian position would be that human populations on average
+vary on psychological traits at least partially because of genes.
+Unsurprisingly, those who forward these claims about racial
+Platonism rarely include quotations from the supposedly unsophisticated thinkers who are dedicated Platonists. That is because
+almost none exist among serious scholars today. Even Enlightenment
+thinkers such as Kant and Blumenbach, who are often derided today as
+archetypal racists crudely obsessed with racial essences, actually asserted the opposite. As Smith (2015) noted in his book on the concept of
+race in early modern philosophy, “…virtually all explicit claims to the
+eﬀect that there is a real, permanent, essential diﬀerence between different groups rather than a temporary, reversible, contingent one, are
+made by radical free thinkers, such as Voltaire, in the aim of shocking
+modern sensibilities, rather than by conservative thinkers aiming to
+defend the status quo.” Those who believe that race is a useful construct
+are not and have rarely been dedicated to the preposterous proposition
+that racial groups are completely diﬀerent from each other, distinguished by some kind of unique essence (Sesardic, 2010).
+Variation is clinal. This argument contends that human variation is
+not discontinuous, but rather gradual as human groups shade into each
+2
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+other imperceptibly; therefore, “There are no races, only clines”
+(Livingstone & Dobzhansky, 1962, p. 279). Many scientists and philosophers have endorsed this view. There are two retorts. The ﬁrst is that
+even if human variation were completely clinal, researchers could still
+classify it without committing some kind of scientiﬁc sin Relethford (2009).
+Think of age, for example. Variation in age is completely clinal.
+Nevertheless, we can and do make useful divisions, for example,
+“adolescent,” “middle-aged,” or “elderly.” Furthermore, these classiﬁcations, although somewhat arbitrary at the boundary, contain biological information. There really are diﬀerences between elderly people
+and children. The same holds for human populations. Imagine, for example, if variation from Central Africa to Norway were completely
+gradual. Norwegians are fair skinned, blond haired, etc., whereas
+Africans are dark skinned, black haired, etc. Researchers could still
+classify the resulting variation in meaningful ways. Somebody in
+southern Norway, for example, would be more similar, on average, to
+somebody in northern Norway than to somebody in Central Africa. Of
+course, any division will be somewhat arbitrary at the border. When
+does an adolescent become an adult? This is the nature of clinal classiﬁcations—but this arbitrariness does not mean that the classiﬁcation
+is completely without justiﬁcation. And scientists routinely deploy
+constructs that use such classiﬁcations (e.g., age and color).
+The second reply is that variation is not entirely clinal. For example,
+genetic variation is structured in such a way that it mostly clusters by
+continent of origin of the human population (Rosenberg et al., 2002,
+2005).2 Researchers now know that the story of human evolution is
+much messier than once believed, with large amounts of branching and
+later interbreeding (Reich, 2018). But there is still an underlying pattern to the genetic variation that is not completely gradual–some individuals consistently group with other individuals in ways that largely
+conform to common sense racial classiﬁcations (Tang et al., 2005).
+Classiﬁcation is arbitrary because variation is not correlated and patterned. One eloquent and superﬁcially persuasive version of this argument contends that “There are many diﬀerent, equally valid procedures
+for deﬁning races, and those diﬀerent procedures yield very diﬀerent
+classiﬁcations” (Diamond, 1994, p. 84). According to this, classiﬁcations based on, say, antimalarial genes will be diﬀerent but equally
+legitimate as classiﬁcations based on skin color. Scientists can pick
+traits on which to categorize humans, sure, but each of the categorizations will vary and there is no “real” categorization system to which
+scientists can ultimately defer. Therefore, because racial classiﬁcations
+are arbitrary, scientists should eschew them.
+But this argument is tendentious. Researchers do not haphazardly
+categorize humans, picking traits at random. In fact, since the
+Enlightenment, they have worked sedulously to create classiﬁcations
+that have explanatory power. Today, researchers care about (1) evolutionary history and shared ancestry, (2) genetic proﬁles, and (3)
+overall phenotypic proﬁles. A classiﬁcation scheme that grouped the
+Zulu with Icelanders and Norwegians with Northeast Asians would be
+puzzling because it would confuse rather than illuminate evolutionary
+relationships and patterns of variation. Perhaps more charitably, a
+classiﬁcation scheme that grouped Scandinavians with Nilo-Saharan
+speaking ethic groups because both have high rates of lactase persistence might make sense if one is interested only in a single trait. But,
+again, it would clearly violate normal principles of classiﬁcation because these groups diverged from each other long ago in evolutionary
+time, likely evolved the lactase persistence independently, and vary
+along many other traits (Check, 2006).
+Variation within human populations is much greater than between
+human populations. Although this argument is likely older, geneticist
+Richard Lewontin (1972) made it famous, announcing that, “Since such
+racial classiﬁcation is now seen to be of virtually no genetic or
+
+taxonomic signiﬁcance either, no justiﬁcation can be oﬀered for its
+continuance.” One still often encounters this argument today. And although the claim about the relative amount of variance is correct, the
+contention that racial classiﬁcation is “of virtually no genetic or taxonomic signiﬁcance” does not follow. Before examining a more sophisticated argument, consider a simple thought experiment that illustrates
+the ﬂaws with this line of thinking. Suppose that every human population were exactly the same genetically save for four alleles, which
+were unique to each population. Out of 20–25 thousand genes, that is,
+only one varied between groups. But, suppose that those alleles had
+enormous phenotypic consequences. Allele A made one group four feet
+tall, allele B made another group ﬁve feet tall, allele C made another six
+feet tall, etc. It certainly does not seem as though the resulting genetic
+variation would be of no taxonomic signiﬁcance nor that researchers
+should ignore the large genetically caused phenotypic diﬀerences (and
+their pattern) simply because the underlying genetic variation was
+small. Group classiﬁcation is based both on genotypic and phenotypic
+variation and there is no a priori way to know what amount of genetic
+variation is important enough to divide into groups.
+The argument above suggests that Lewontin's claim is conceptually
+ﬂawed. But it is also ﬂawed for another reason: it ignores the eﬀect of
+correlated genetic variation (Tal, 2012), which has been dubbed Lewontin's fallacy (Edwards, 2003). To make Lewontin's fallacy clear,
+consider an analogy. If one looked at the diﬀerences between men's and
+women's faces by examining one trait at a time (say, comparing eye size
+or cheek protrusion), then one would be unable to classify faces into
+male or female with a high degree of accuracy. However, if one considers the correlated diﬀerences at the same time, then one can classify
+human faces into male or female with over 95% accuracy (Bruce et al.,
+1993). Roughly speaking, Lewontin did the former instead of the latter
+with genetic loci, and concluded that race was of little genetic or
+taxonomic signiﬁcance. However, as the analogy to human faces makes
+clear, the signiﬁcance of human genetic variation, like the signiﬁcance
+of a face or indeed of a language, is in the pattern. If one ignores the
+pattern, then one misses the meaning.
+To conclude, race is a perfectly reasonable construct that picks out
+real patterns of human variation. However, in this article, we will
+generally use the term “human population.” The reason for this is quite
+frankly to avoid unnecessary contentiousness. “Race” is a charged term
+and debates about its appropriateness often distract from more important debates, such as the nature of human variation. Still, it is crucial
+to argue against fallacious or misleading claims about our inability to
+classify human variation proﬁtably. Human populations vary in patterned and predictable ways, even if there is no single correct classiﬁcation system. Similarly, cars and trucks, or tables and chairs, vary in
+predictable ways, and are categorized together because they share
+functional features and overlap on a number of characteristics, not
+because there is a single essential feature associated with diﬀerent kinds
+of vehicles or furniture. For example, we do not reject the idea that a
+Tesla is a car simply because it has an electric motor rather than the
+more traditional internal combustion engine. And we do not ﬁnd a
+three-legged table perplexing simply because most tables have either
+four legs or one.3
+In classifying people, we can start with broad continental populations: Africans, Asians, Europeans, Americans, and Oceanianins,4 and
+then move to more granular analyses as scientiﬁc interests change,
+recognizing that large continental categories may lack the precision
+
+See Wittgenstein's (1957) discussion of “family resemblances.”
+There is a large amount of genetic diversity in Africa, so it is important to
+bear in mind that broad continental racial categories are quite crude, and
+perhaps they are not scientiﬁcally useful. That is an empirical question.
+However, it is clear that such classiﬁcations are not arbitrary. We wait further
+evidence and argumentation to make strong conclusions about the most useful
+classiﬁcations of human diversity.
+3
+4
+
+2
+In fact, Rosenberg's results match fairly closely with Blumenbach's classiﬁcations.
+
+3
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+mechanisms, in this case; therefore, modern human skulls still house
+“stone age” brains (Tooby & Cosmides, 2005, p 57). But this misframes
+the actual debate. The claim that hereditarians and others who believe
+in the importance of human psychological diversity advocate is not that
+some human groups have radically diﬀerent mental adaptations from
+other groups, but rather that they have slightly diﬀerent distributions of
+psychological traits that all humans share. Consider an analogy. There
+is a basic design for guitars. They have a body, a neck, a bridge, a
+fretboard, and six strings (for this example, at least). So, there is in some
+sense a “guitar nature.” However, small, correlated diﬀerences in guitar
+parts can lead to nontrivial diﬀerences in sound. Slightly diﬀerent
+textured strings coupled with a slightly larger sound hole might lead to
+a more resonant, even plangent sound, even though the diﬀerence between that guitar and others is quite small. The same holds for human
+psychological traits. Small correlated diﬀerences in the brain might
+cause one group to be slightly more self-controlled, intelligent, ambitious, or aggressive than another (Winegard et al., 2017).
+Another argument that is sometimes advanced is that humans
+evolved to be ﬂexible and therefore did not need to respond to selection
+pressures psychologically because they could respond to them culturally. Undoubtedly, humans are uniquely cultural animals, with remarkably ﬂexible behavioral repertoires (Baumeister, 2005). However,
+there is absolutely no evidence that they somehow evolved just the
+perfect amount of behavioral ﬂexibility in Africa some 150,000 years
+ago such that all their descendants would never evolve slightly diﬀerent
+psychological propensities. And, in fact, there is a lot of evidence to the
+contrary (Wade, 2014). Diﬀerent environments and cultural systems
+likely selected for subtle diﬀerences in psychological proclivities just as
+they did for physical traits. Moreover, among primates it is clear that the
+comparative advantage of humans is the capacity to cooperate with
+large numbers of people (Bowles & Gintis, 2013; Turchin, 2015), to
+learn through cultural transmission (Henrich, 2016; Mesoudi, 2016),
+and to trade with strangers (Ridley, 2010). This requires humans to
+make plans, to develop a theory of mind, and to decipher who is
+trustworthy. Diﬀerent environments, some of which are culturally
+constructed, will tend to select for diﬀerent cognitive abilities and
+propensities. Therefore, the brain is an especially important target of
+natural selection in humans.
+For one example, because of diﬀerences in climate and environmental harshness and later in staple agricultural crop, it is possible that
+Northeast Asians had to cooperate more than some other groups to
+survive and reproduce eﬀectively—or, put slightly diﬀerently, those
+who cooperated more in their societies had higher ﬁtness than those
+who did not (Kitayama, King, Hsu, Liberzon, & Yoon, 2016). And
+therefore, Northeast Asians have subtle, but noticeable and measurable
+shifts in personality traits that make them, on average, more cooperative and collectivistic. From this perspective, it is not a historical
+and cultural accident that Northeast Asians are more collectivistic than
+other populations (Markus & Kitayama, 2010). Rather, for evolutionary
+reasons, they are slightly more sensitive to social disapproval and solitude than other groups, and this leads them to create cultural systems
+that emphasize social harmony and belongingness (Chiao &
+Blizinsky, 2010; Way & Lieberman, 2010). These cultural systems are
+like the niches discussed in the introductory section, and they also exert
+selective pressures on the people who inhabit them. Therefore there is a
+feedback system such that slightly diﬀerent personality traits among
+human populations lead to the creation of slightly diﬀerent cultures,
+which then select, both culturally and genetically, for diﬀerent traits.
+It seems rather likely that we would have many more examples if
+researchers invested more time and resources into searching for them.
+As it stands, there are suggestions that some European groups exhibit
+more individualistic, trusting, and pro-social behavior—especially a
+willingness to follow impersonal rules, and punish rule violators—because of a persistent diﬀerence in marriage patterns (Frost, 2017) and a
+deliberate loosening of kin-based institutions by the Catholic Church
+(Schulz, Bahrami-Rad, Beauchamp, & Henrich, 2019); that Western
+
+required to make scientiﬁc progress on a number of puzzles of human
+variation. Although some may bemoan this, wondering why there are
+not “objectively” correct classiﬁcations, it is nothing unique to human
+variation. Theorists in biology have long been divided into “lumpers”
+and “splitters” and have argued sometimes vociferously about how to
+classify species and subspecies (Endersby, 2009).5
+2. Psychological variation
+As noted in the introductory section, most scholars accept that
+human populations vary physically, and mainstream textbooks discuss
+human variation openly without receiving derision or blowback
+(Molnar, 2006); however, few scholars openly accept that human populations vary psychologically (Winegard, Winegard & Boutwell, 2017).
+This position appears intellectually indefensible, because the brain is
+not somehow impervious to selective forces. Rather, it is an organ like
+any other and therefore is just as susceptible to evolutionary pressures
+as is the skin, lungs, or digestive system. For this reason, some have
+called the view that human populations do not vary psychologically
+“liberal creationism” or “selective dualism,” because it relies upon the
+implausible assumption that human psychological propensities were
+not selected for by diﬀerent environments, niches, and climates in the
+past 50,000 years.
+Although it may seem unfair to label a view “liberal creationism,”
+there is strong evidence that self-described liberals are more likely than
+conservatives to reject scientiﬁc evidence of group diﬀerences on
+ideological grounds (Clark & Winegard, in press). In fact, some opponents of the hereditarian hypothesis have argued that “it is a matter of
+ethical principle that individual and cultural accomplishment is not tied
+to the genes in the same way as the appearance of our hair”
+(Turkheimer, 2007). Others have suggested silence or double standards
+or even deception when dealing with ideas and evidence about population diﬀerences in socially valued traits. According to this view, when
+our ethical ideals conﬂict with the scientiﬁc evidence, we should
+prioritize our ethical ideals over scientiﬁc conclusions. The view that
+we should tell “noble lies” when we think the truth would poison social
+relations is at least as old as Plato's Republic. While we reject the contention that widespread belief in the hereditarian hypothesis would
+have bad ethical consequences (Anomaly & Winegard, 2020), it is
+worth emphasizing that even if telling lies about socially consequential
+topics is sometimes justiﬁable on moral grounds, this does not change
+the fact that they are lies, which generally counts as a consideration
+against them (Anomaly, 2017).
+What is perhaps more perplexing than the fact that many mainstream psychologists dismiss the notion that human populations vary
+psychologically is that some evolutionary psychologists do as well
+(Winegard & Winegard, 2014). Some of the most prominent members of
+the discipline, for example, have argued that any non-sexed linked
+psychological diﬀerences among human populations are caused either
+by stochastic processes or by pleiotropic genetic eﬀects
+(Cosmides, Tooby, & Kurzban, 2003; Tooby & Cosmides, 1990). That is,
+according to this line of argumentation, there is a panhuman nature and
+any deviations from it are largely irrelevant noise. The arguments used
+to defend this position have, we believe, been refuted (or signiﬁcantly
+weakened) by recent developments in genetics and human evolutionary
+analysis. And because many who dispute the fruitfulness of hereditarianism also rely upon them, it is worth examining them in detail.
+The most common is that there has just been too little evolutionary
+time for human psychology to change from 50,000 years ago, because it
+takes many thousands of years to create new adaptations—new mental
+5
+For example, some biologists think of a species as a population that can
+produce fertile oﬀspring, while other biologists consider animals within the
+same genus that have similar traits a species, even if they cannot produce fertile
+oﬀspring.
+
+4
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+favor of hereditarianism, but rather to situate its arguments and hypotheses into a broader evolutionary view of humans and point to the
+strong theoretical plausibility and scientiﬁc fruitfulness of hereditarianism.
+There is a roughly one standard deviation (15-point) IQ gap between American Whites and Blacks, which is itself not a matter of
+dispute (Murray, 2007; Roth, Bevier, Bobko, Switzer III & Tyler, 2001).
+Here, for example, are quotes from two of the most popular textbooks
+on intelligence: “There is some variation in the results, but not a great
+deal. The African American means [on intelligence tests] are about one
+standard deviation unit…below the White means…” (Hunt, 2010, p.
+411). And “It should be acknowledged, then, without further ado that
+there is a diﬀerence in average IQ between blacks and whites in the
+USA and Britain” (Mackintosh, 2011, p. 334). Some researchers do
+contend that this gap has narrowed across the 20th century (Dickens &
+Flynn, 2006), but others dispute this, and it seems reasonable, given the
+preponderance of evidence, to suppose that the gap remains roughly
+one standard deviation.
+When grappling with a problem as complicated as the etiology of
+group diﬀerences in cognitive ability, no one piece of evidence will
+conclusively support one causal theory over another. Instead, researchers have to assess a body of empirical evidence and its relation to
+prior theory to estimate which causal account is more probable
+(Lipton, 2004; Urbach, 1974). Broadly speaking, there are two research
+traditions that organize data and exploration about the causes of group
+diﬀerences in cognitive ability: the hereditarian tradition and the environmentalist tradition. To simplify, research traditions are programs
+in which scientists largely share similar assumptions about speciﬁc
+causal forces and use those assumptions to try to solve various empirical puzzles.8 The hereditarian tradition hypothesizes, inter alia, that
+a signiﬁcant proportion of diﬀerence between Black and Whites in
+cognitive ability is caused by genetics, whereas the environmentalist
+tradition hypothesizes that almost all of the diﬀerence is caused by
+environmental and cultural forces (Nisbett et al., 2012). In what follows, we will point to a few pieces of evidence that support hereditarian
+hypotheses, then we will situate the hereditarian hypotheses into the
+broader Darwinian theory of population variation that we laid out
+above.
+High heritability of intelligence within groups. Heritability is a measure
+of how much of the variance in a trait in a particular environment is
+caused by diﬀerences in genes (Turkheimer, 2000). Cognitive ability is
+one of the most highly heritable psychological traits, often exceeding
+70% in adult samples—meaning that 70% of the variance in intelligence (measured by IQ tests) is caused by diﬀerences in genes
+(Bouchard, 2013). Many scholars have argued, correctly as far as it
+goes, that one cannot uncritically infer that within-group heritability
+applies to between-group heritability; that is, just because much of the
+proportion of within-group variation in intelligence is caused by differences in genes, it does not mean that between-group variation is
+(Sesardic, 2000). However, the contention that within-group heritability is not at least suggestive of causes of between-group diﬀerences
+is wrong—especially if some other knowledge is added. High withingroup heritability does not ipso facto mean that between-group variation is caused by genes; but it does make it more plausible
+
+Europeans are more paciﬁc (and less aggressive) than they used to be
+even 1000 years ago because of an extensive use of the death penalty
+for violent crimes by Western States (Frost & Harpending, 2015); and
+that societies farther from the equator tend to be more monogamous
+and cooperative because paternal provisioning became more important
+the farther from the equator a human population spread (Miller, 1994)
+among other suggestions. The point here is not that all of these hypotheses are correct, but simply that they are plausible, productive, and
+fruitful and should spur more research.
+3. Group diﬀerences in cognitive ability
+Perhaps the greatest refusal to grapple honestly with Darwin's legacy appears in the divisive debate about the etiology of group diﬀerences in intelligence (Rushton, 1999).6 Those who argue that genetics
+at least partially explain the Black-White IQ gap—and other disparities
+in cognitive ability among human populations more broadly—have
+been assailed for their supposed moral depravity and many if not most
+intellectuals publicly refuse even to consider the possibility that genes
+could play any role in group diﬀerences in cognitive ability
+(Cofnas, 2016; Winegard & Winegard, 2015). People seem to feel as
+though it is racist simply to hypothesize that groups might diﬀer on a
+trait as socially valued as intelligence, although this is a fallacy that
+scholars should reject (Carl, 2018).
+Before digging into speciﬁc hypotheses about group diﬀerences in
+cognitive ability, hypotheses that are incendiary and cause immediate
+and visceral resistance, it is probably better to ask a more abstract
+question: Could populations diﬀer, on average, in cognitive ability because of evolutionary processes? Here, it seems diﬃcult to deny that
+they could. Cognitive ability is “visible to selection” and is as amenable
+to evolutionary change as any other trait. Some have contended that
+because it is caused by many, many genes (i.e., is polygenic), cognitive
+ability is unlikely to have changed signiﬁcantly in the last 50,000 years,
+but this is simply incorrect. Animal breeders select for polygenic traits
+without issue. And other polygenic traits, such as height, have likely
+been changed by natural selection in human populations in the past
+45,000 years (Reich, 2018; Savolainen, Lascoux & Merilä, 2013). The
+only empirical question, then, is not could groups diﬀer in cognitive
+ability at least partially because of genes, but do they.
+Indeed, Charles Darwin (1876) wondered whether recent evolution
+might have produced cognitive diﬀerences that help explain the relative
+prosperity of diﬀerent societies:
+It is most diﬃcult to say why one civilised nation rises, becomes
+more powerful, and spreads more widely, than another; or why the
+same nation progresses more at one time than at another. We can
+only say that it depends on an increase in the actual number of the
+population, on the number of men endowed with high intellectual
+and moral faculties, as well as on their standard of excellence (p.
+140).
+Although we think the well-documented black-white IQ gap is no
+more interesting than other cognitive diﬀerences between groups, we
+focus on it to illustrate our view because more has been written about
+this cognitive diﬀerence than many others (Herrnstein & Murray, 1994;
+Rushton & Jensen, 2005).7 Our purpose is not to argue exhaustively in
+
+(footnote continued)
+quite recently.
+8
+See Laudan (1978) for a discussion of research traditions; and compare to
+Kuhn's idea of paradigms, Kuhn (1970). Although a thorough discussion of
+these concepts is beyond the scope of this paper, notice that our use of “research
+tradition” is diﬀerent from Laudan's, because in our usage it is an explanatory
+framework that makes hypotheses (e.g., it predicts that part of the variation in
+humans and among human populations is caused by genes). Lauden considered
+Darwinism a research tradition, but likely would not have considered hereditarianism one. We use the term to describe both, because we believe that
+hereditarianism shares enough similarities with the basic concept of “research
+tradition” to justify the expansion of the concept.
+
+6
+
+There is, of course, a huge literature that debates the validity of IQ tests, and
+we do not have time to discuss it in detail here. But the literature unequivocally
+demonstrates that IQ is predictive of a host of important life outcomes, ranging
+from wealth and educational attainment to health, relationship stability, and
+even criminality. For an inﬂuential view on how to deﬁne intelligence, see
+Gottfredson (1997). For an overview of life outcomes associated with intelligence (as measured by IQ), see Ritchie (2015) and Plomin and von
+Stumm (2018).
+7
+The reason for this focus is clearly that in the American context in the 20th
+century, Blacks and Whites were the two main demographic populations until
+5
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+the IQ gap (Sesardic, 2005). Our argument here, then, is not that discrimination arguments are completely erroneous, but that prejudice,
+systematic discrimination, and other commonly forwarded environmental variables likely cannot explain the entire IQ gap and therefore
+that the comparison to the plants with a zero percent genetic contribution to between-groups diﬀerences is almost certainly inapplicable
+to the Black-White IQ gap.
+Now, to see that it is reasonable to extrapolate from within-group
+heritability to between group causes, consider the following. Imagine
+that we found that the heritability within a group of speaking a particular language is roughly 0% because the variance is entirely environmentally caused. Would that inform hypotheses about the causes
+of group diﬀerences in language spoken? It certainly seems as though
+researchers would and should presume that the between-group variation is substantially environmental, unless evidence strongly contradicted that hypothesis. And it seems as though the obverse should hold
+as well. The heritability of height, for example, is quite high withingroups; therefore, it is eminently reasonable to assume, as most researchers do, that at least some of the between-group variation in
+height is genetic. For example, even before researchers had strong genetic evidence, they assumed and hypothesized that African Pygmy
+groups were shorter than other populations because of diﬀerences in
+their genes (Jelenkovic et al., 2016). This hypothesis is likely correct
+(Pemberton et al., 2018) and might be driven by selection for a diﬀerent
+life history (LH) strategy and the tradeoﬀs that entailed
+(Migliano, Vinicius & Lahr, 2007), although some research has suggested that LH diﬀerences might be a pleiotropic eﬀect of selection
+speciﬁcally for height (Lopez et al., 2019). This does not mean that such
+assumptions are infallible. Rather, it just means that they are useful
+starting points—reasonable priors—that should be updated after further empirical exploration.
+To repeat, high within-group heritability does not automatically
+mean that between-group variation is caused even partially by genetics.
+But we think the pattern of between-group variation in psychological
+traits that we see around the world is best explained by the hereditarian
+hypothesis. Hereditarianism is more parsimonious than environmentalism because it posits that, in most cases, the same causal
+processes that cause within-group variation also cause between group
+variation.
+Global distribution of IQ. Although researchers have focused most
+intensively on diﬀerences between Blacks and Whites in cognitive
+ability, data on IQ scores are now global and suggest many interesting
+diﬀerences among populations (Becker & Rindermann, 2016; Lynn &
+Vanhanen, 2012). For example, many studies have found that Northeast
+Asians (IQ = 103–106) and Ashkenazi Jews (IQ = 110–115) score
+higher than Northern Europeans and higher than Caucasians more
+generally (Herrnstein & Murray, 1994; Hunt, 2010; Jensen, 1998;
+Wade, 2014). These studies are interesting because they suggest a
+broader pattern of human population diﬀerences in cognitive ability.
+They also cast doubt on at least some unsophisticated environmentalist
+explanations of the Black-White gap, which hold that purely social
+forces like persecution or privilege explain the relevant gaps. An obvious explanation for the Black-White IQ gap, as we noted, is that in
+some countries Blacks have faced persistent discrimination and that
+such discrimination has diminished their phenotypic IQ. However, Jews
+have also faced persistent discrimination, and yet have the highest IQ of
+any ethnic group in the world.9 Of course, the patterns of discrimination that Blacks and Jews faced are quite diﬀerent, so there are prejudice-based explanations that are still salvageable. But this example
+
+(Jensen, 1998).
+One of the most famous arguments about the dangers of uncritically
+applying within-group heritability to between-group diﬀerences was
+made by Richard Lewontin (1970). Readers are to imagine a corn seed
+that is planted into pots containing two soils of diﬀerent quality—call
+them soils A (fecund) and B (impoverished). And now imagine that the
+plant height varies a bit inside each pot, but varies drastically between
+pots (say, ﬁve inches in the impoverished and 15 inches in the fecund).
+Variation within each pot, if the pots are tightly controlled by experimenters, will be 100% genetic because there is no environmental variation. However, variation between the pots will be entirely environmental. Therefore, even though plant height is nearly 100% heritable
+within groups, it is nearly 0% heritable between groups. This example
+certainly shows that high within-group heritability does not imply that
+there is high between-group heritability. But there are several reasons
+that this observation is not a strong argument against the hereditarian
+hypothesis.
+First, as noted by Lewontin himself, tweaking the example slightly
+allows it to show that a within-group heritability of 50% (or 0% even) is
+completely consistent with a between group heritability of 100%. So,
+suppose that both pots are ﬁlled with the same soil and that two kinds
+of seeds, red and green, are thrown in randomly. The red seeds lead to
+plants that are 13 inches tall on average, and the green seeds lead to
+plants that are 17 inches tall on average. Suppose now that the plants
+vary randomly in height around their means because of subtle deviations in sunlight and soil quality; and therefore, the heritability of
+height within each color is 50%. However, when researchers calculate
+the respective means for each group, the environmental variance cancels out, and all that is left is the between-group genetic variation.
+Second, the example almost certainly does not pertain to the BlackWhite gap. It is diﬃcult to argue that Blacks and Whites inhabit completely diﬀerent, but uniform environments—that is, it is unlikely that
+there is some X-factor that aﬀects all Blacks but no Whites
+(Jensen, 1998; Warne, 2020). One might immediately object. Surely
+Blacks face ubiquitous discrimination, which Whites do not face? The
+claim that Blacks face ubiquitous prejudice and discrimination in the
+contemporary United States is more often repeated then experimentally
+demonstrated. Blacks certainly might face some discrimination, but we
+are skeptical that it is as pervasive as is often claimed (see
+Boutwell et al., 2017; Zigerell, 2018). Still, to be charitable to the discrimination argument, it is not entirely unreasonable to suppose that if
+prejudice were widespread, this could conceivably aﬀect cognitive
+performance, and certainly some evidence suggests that there is prejudice, perhaps sometimes subtle, against Blacks in the United States
+and elsewhere (Pearson, Dovidio & Gaertner, 2009)
+Nevertheless, even if discrimination against Blacks in some countries is widespread, this would not explain IQ and achievement gaps
+between ethnically homogenous countries, such as Iceland and Haiti, or
+between diﬀerent demographic groups within multi-ethnic countries in
+which racial discrimination is not widespread, such as the UK, France,
+or Sweden. Moreover, the claim that discrimination depresses intelligence must specify some causal mechanism that also aﬀects other
+ethnic groups which suﬀer discrimination. As the prominent environmentalist James Flynn (1980) put it:
+Racism is not some magic force that operates without a chain of
+causality. Racism harms people because of its eﬀects and when we
+list those eﬀects, lack of conﬁdence, low self-image, emasculation of
+the male, the welfare mother home, poverty, it seems absurd to
+claim that any one of them does not vary signiﬁcantly within both
+black and white America (pp. 59–60).
+As within-group heritability increases, the size of the environmental
+variance eﬀect needed to explain between-group diﬀerences increases
+substantially. For example, if the adult within-group heritability is 70%,
+which seems like a fair estimate, then the Black-White environmental
+eﬀect diﬀerence would need to be 1.82 standard deviations to explain
+
+9
+
+According to one view, Ashkenazi Jews have a high IQ in part because for
+about 1,000 years they were excluded from entering some occupations, and
+conﬁned to working in cognitively demanding occupations like banking, from
+which Christians abstained for religious reasons (Hardy, Cochran, and
+Harpending 2006).
+6
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+does point out that a straightforward “discrimination-depresses-IQ argument” is not tenable. It also adds an important data point that environmentalists struggle to explain, but which is perfectly explicable
+from the hereditarian perspective.
+Global results have also shown that the IQ of Sub-Saharan Africans
+is roughly 7510 (Rinderman, 2013). This needs to be qualiﬁed, because
+substantial debate surrounds the estimate. First, some scholars insist
+that tests created largely by Europeans are necessarily biased against
+non-Western people (Nell, 2000). However, this is contradicted by the
+high scores of Northeast Asians and by the fact that IQ tests are predictively valid in Africa (Owen, 1992). The next source of contention is
+the score of the true genotypic estimate. Lynn and Meisenberg
+(2010a,b) argued that it was closer to 70; Wicherts, Dolan and van der
+Maas (2010) argued that it was closer to 80; and recently,
+Rindermann (2013) estimated that it was around 75. The Rindermann
+estimate, in absence of other evidence, strikes us as the most reasonable. We do, however, recognize that Flynn eﬀects may occur, raising
+African IQ at least a few points in the coming decades; therefore, our
+suggestion is not that the current African phenotypic average IQ is
+concordant with their genotypic potential.
+Blacks in the United States trace most of their ancestry to Western
+Africa, but are somewhere between 15–25% admixed with Europeans
+(Baharian et al., 2016; Bryc, Durand, Macpherson, Reich & Mountain,
+2015). Thus, an 85 estimate of the mean IQ of Blacks in the United
+States is consistent with a roughly 75 IQ of Sub-Saharan Africans.
+Furthermore, these broad population patterns are consistent across the
+globe, with each group performing roughly similarly across multiple
+countries (Rushton & Jensen, 2010).
+Transracial adoption. Although there is substantial debate about the
+meaning of the results of transracial adoption studies, the single best
+such study, the Minnesota Transracial Adoption Study (MTRAS), reported by Scarr and Weinberg (1976) and Weinberg, Scarr and
+Waldman (1992) comports well with hereditarian predictions. In this
+study, children of two White parents, one White and one Black parent,
+and two Black parents were adopted into middle class White homes.
+When the adoptees were seven years old, the children of two White
+parents scored 117.6, the mixed scored 109.5, and the children of two
+black parents scored 95.4. In a 10-year follow up, the respective IQs
+were 105.6, 98.5, and 89.4. The results of this study, of course, are
+perfectly explicable by the hereditarian research tradition. And although there are several reasonable criticisms of the hereditarian interpretation of the MTRAS, a wholly environmental explanation of its
+results appears much less parsimonious than one that includes genetic
+causation (Rushton & Jensen, 2005; but see, Thomas, 2017).
+Furthermore, other studies with East Asian children, although
+likewise disputed (Thomas, 2017), also support the hereditarian position. For example, Clark and Hanisee (1982) reported results from a
+study in which 25 four-year olds from Vietnam, Korea, Cambodia, and
+Thailand were adopted into White families and scored 120 (112–114
+with Flynn eﬀect correction) on the Peabody Picture Vocabulary Test,
+despite that 16 were reported to be malnourished at some time in their
+infancy.11 This study, it should be noted, provides ambiguous support
+for hereditarianism because 17 of the children were Southeast Asians,
+from nationalities with IQs lower than 100 according to recent estimates and therefore, at least some of these eﬀects are likely related to
+well-known adoption gains (e.g., Kendler, Turkheimer, Ohlsson,
+Sundquist & Sundquist, 2015). In another study Frydman and
+
+Lynn (1989) reported on 19 Koreans who were adopted into Belgian
+families. They found that the children had a mean IQ of 118 on the
+Wechsler Intelligence Scale for Children (WISC) and that correcting for
+IQ gains, the Korean children had a roughly 10-point advantage over
+native Belgian children (see also, Dalen et al., 2008). And in another
+study of 87 Chinese girls adopted by Dutch families, Finet, Vermeer,
+Juﬀer, Bijttebier and Bosmans (2019) found remarkable cognitive
+“catch-up” nine years after their adoptions such that they had a mean
+ﬂuid IQ of 109.11 at age 10.
+None of the evidence for hereditarianism listed here or in any other
+article is, of course, dispositive. But the hereditarian research tradition
+explains all of these data remarkably well. Because it posits that intellectual potential is inﬂuenced by genes that vary among populations,
+it predicts that, unless environments are wildly diﬀerent, human groups
+will score reasonably similarly wherever they happen to reside.
+Furthermore, it predicts that they will also score reasonably similarly
+when adopted, even if into diﬀerent socioeconomic or racial families
+from their own. The environmentalist research tradition, on the other
+hand, is confronted with many diﬃculties that require ad hoc hypotheses to explain. It begins with a bold theory: All human groups are
+roughly the same in intellectual potential, and, therefore, any population diﬀerences are caused by environmental or cultural forces.
+However, this bold claim is constantly assaulted by counterevidence
+that the environmentalists struggle to explain, especially compared to
+the ease of explanation oﬀered by the hereditarian. The global pattern
+of IQ diﬀerences, for example, appears more diﬃcult for an environmentalist to explain than an hereditarian. And so does the general
+persistence of demographic behavioral patterns across time and space.
+And so do other patterns in cognitive ability that are less often discussed in the literature, such as the high IQ scores of Ashkenazi Jews
+and Northeast Asians, even when they are adopted by White Christian
+families in North America and Europe (Finet et al., 2019; Hernnstein &
+Murray, 1994). It is not the case, of course, that explanations are impossible to forward from an environmentalist perspective; it is simply
+that they are more diﬃcult to forward than from an hereditarian perspective and end up looking more like ad hoc hypotheses than fruitful
+predictions or parsimonious causal narratives.
+Last, the hereditarian research tradition, as we will argue, is much
+more consistent with the single most powerful tradition in biology and
+psychology: Darwinism. As we have noted throughout, human population variation in both physical and psychological traits follows
+straightforwardly from Darwin's theories of natural and sexual selection. The hereditarian research tradition, as we see it, is a straightforward extension of the Darwinian tradition and makes the same basic
+scientiﬁc assumptions: humans are the products of natural and sexual
+selection; individuals vary in heritable traits; groups vary in heritable
+traits; intelligence is an adaptation; humans vary in intelligence; human
+groups vary in intelligence (Rushton, 1999). An environmentalist research tradition does not, of course, entirely contradict Darwinism, so
+far as we can tell, but it is not so obviously congruent with it as is
+hereditarianism. Moreover, researchers now know that genes and cultures co-evolve; therefore, oﬀering an environmental explanation is
+often in part a way of revealing a potentially genetic one. Sometimes
+genes create bodies that sculpt environments in ways that increase their
+proliferation (Dawkins, 1982), just as environments—especially social
+norms—aﬀect which genes ﬁnd their way into future bodies
+(Henrich, 2016).
+Researchers who are keen to unite the hereditarian tradition to
+Darwinism have forwarded several plausible hypotheses about the
+causes of group diﬀerences in cognitive ability. The broadest and most
+general of these is called cold winters theory (Lynn, 2015; Frost, 2019;
+Rushton, 1995). This theory proposes that harsher and more variable
+environments such as those further from the equator would likely have
+selected for more intelligence. The proposal is not that cold weather
+somehow makes people smart, but rather that the attendant problems
+of surviving and reproducing in environments with long, cold winters
+
+10
+It is worth noting that there might be variation in IQ across Sub-Saharan
+Africa because there is a large amount of genetic diversity in Africa. We do not
+mean to suggest here that Sub-Saharan African forms one group that is largely
+homogenous.
+11
+It is important emphasize that the heritability of IQ scores increases substantially across age, moving from well below 50% in childhood to nearly 80%
+in adulthood.
+
+7
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+more precise than biology or psychology will ever be. And many theories in evolutionary biology and psychology will remain speculative
+and tentative until more genetic and archeological evidence is available. Despite this, such theories and hypotheses nevertheless should
+shift the priors of an honest and open scholar. Our belief is that the
+hereditarian research tradition is fully consonant with a broader Darwinian tradition that has been remarkably successful and best explains
+current data; therefore, it should be widely accepted until and unless
+researchers in the environmentalist tradition produce data that strongly
+contradict it or point to speciﬁc puzzles their research tradition can
+solve that hereditarianism cannot. Nevertheless, it is important to be
+humble and to accept the limitations of the current evidence. Speciﬁc
+hypotheses proposed by the hereditarian research tradition seem to us
+much more plausible than those proposed by the environmentalist
+tradition. Hereditarianism also seems more fruitful and capable of
+solving important problems about human variation. However, our
+current understanding of longstanding puzzles about human evolution
+is limited, and even ostensibly simple puzzles such as the causes of skin
+color variance among human populations have not been entirely
+solved. It is unlikely that we will solve the puzzle of the causes of
+variation in human intelligence anytime soon. Our contention is not
+that hereditarians have the ﬁnal answers. Rather, it is that the hereditarian research tradition seems best equipped to provide such answers,
+has forwarded fruitful hypotheses, and is perfectly congruent with
+Darwinism.
+Before concluding, it is worth asking why so many social scientists
+adamantly refuse to consider the hereditarian hypothesis, as well as the
+broader hereditarian research tradition, despite that it is often more
+fruitful than the environmentalist alternative. It is hard to escape the
+conclusion that most of the resistance is driven by ideological and not
+scientiﬁc concerns. Many scholars and journalists are “equalitarians”
+who are strongly predisposed to believe that all demographic groups
+are equal on all socially valued traits (Garrett, 1961; Gottfredson, 1994;
+Winegard & Winegard, 2015; Winegard, Clark, Hasty & Baumeister,
+2019).
+Many scholars, it seems, believe that race and IQ is a toxic topic and
+possibly even dangerous to study. For a long, long time, they have at
+least tacitly endorsed a regime of silence, a kind of quiet noble lie, and
+have punished those who violated this regime ferociously. But, if the
+goal of science is to discover the truth, then the only option scientists
+have is to pursue it even if it might lead to conclusions that challenge
+sacred narratives. Unlike momentary sensibilities, the truth is immutable, and in almost all cases, the costs of a lie outweigh the costs of
+truth. One cost of a lie is misinformation. Today, many believe that the
+overwhelming consensus of reputable scientists is that some variant of
+an environmental explanation for persistent IQ diﬀerences among
+groups is almost certainly correct. But this is wrong. And getting the
+answer wrong can invite costly social policies that are likely to fail, as
+well as create inter-group hostility when people notice that groups
+systematically behave diﬀerently even in similar circumstances
+(Cofnas, 2020; Murray, 2020). Among experts, hereditarianism is
+widely respected and endorsed (Rindermann, Becker, & Coyle, 2016).
+And even those experts who believe that it is ultimately wrong, generally agree that it is a reasonable research tradition that should be
+treated with scientiﬁc respect and confronted with debate and evidence, not moral accusations (Flynn, 1980).
+
+which require long-term planning may tend to select for traits like
+higher intelligence and lower time preference relative to other environments. Food, for example, might be prevalent in the moderate
+months, but becomes scarce in winters, forcing inhabitants to hunt and
+ﬁsh game and/or to preserve food from the more fruitful seasons
+(Berbesque, Marlowe, Shaw & Thompson, 2014). Some scholars have
+argued that the important thing about distance from the equator is
+environmental novelty (Kanazawa, 2004; 2012).
+Although cold winters theory is sometimes mocked for being silly or
+simplistic or for being unhelpfully speculative (McGreal, 2012), similar
+hypotheses are routinely forwarded in the literature about non-human
+animals. For example, researchers have explored the brain size-environmental change hypothesis in a number of species. The main idea is
+that animals that encounter harsher environments are confronted with
+greater obstacles to obtaining reliable food supplies, and thus that
+harsher environments sometimes select for enhanced cognitive capacities (Roth, Gallagher, LaDage & Pravosudov, 2012; Sol, Bacher,
+Reader & Lefebvre, 2008). Although the results are somewhat mixed,
+evidence more or less supports some variant of this hypothesis
+(Maklakov, Immler, Gonzalez-Voyer, Rönn & Kolm, 2011; MorandFerron, Hermer, Jones & Thompson, 2019); and inarguably it has
+spurred scholarship and creative hypothesizing (Kanazawa, 2008; Sayol
+et al., 2018), as well as constructive criticism (Wicherts, Borsboom &
+Dolan, 2010).
+Other researchers have proposed slightly diﬀerent ideas.
+Rushton (1985) famously argued that diﬀerent environments selected
+for diﬀerent life-history (LH) strategies, with Africans possessing the
+fastest LH because they evolved in an unpredictable environment and
+Asians, the slowest because they evolved in a harsh, but predictable
+environment. From this view, intelligence is just one among many LH
+traits that vary in a correlated manner among human populations.
+These include aggression, age of maturation, and impulsivity
+(Meisenberg & Woodley, 2013). Others suggest a diﬀerent explanation
+for these correlated phenotypic traits: the amount of paternal provisioning required varies such that more is needed the further from the
+equator a population lives (Miller, 1994). As a group's diet consists
+more of hunted (or ﬁshed) food, the proportion of calories women
+provide decreases; therefore, women become more dependent on men
+for calories for their children and can no longer “gene shop” reproductively by having more sexual relationships with relatively uncommitted men. Instead, they must form more exclusive bonds with
+men who will provide calories for the children (Marlowe, 2003). And
+this, according to Miller, likely selected for a suite of traits that look
+similar to Rushton's LH traits (less impulsivity, lower libido, etc.).
+These theories likely are not enough to explain diﬀerences in cognitive ability among modern humans and therefore need to be supplemented with other theories, most importantly with some kind of niche
+construction theory (Laland, Odling-Smee & Feldman, 2000). We discussed niche construction in the introduction. Here, the crucial point is
+that some niches can and likely did select for intelligence in humans.
+For example, many theories of human intelligence posit that social
+competition was a chief driver (Bailey & Geary, 2009). These theories
+appear limited and unable to grapple with some data, but, if expanded
+into a broader cultural theory of intelligence, one that posits that intelligence evolved to allow humans to ﬂourish in complicated and often
+competitive cultures, they likely work well (Muthukrishna, Doebeli,
+Chudek & Henrich, 2018; Van Schaik, Isler & Burkart, 2012). Culture, a
+human niche, creates selective pressures on human intelligence because
+it rewards those who are cognitively sophisticated enough to learn rapidly and to innovate (Clark, 2009). From this perspective, cold winters
+may have selected for human intelligence, but then culture, especially
+after the invention of agriculture, did as well, signiﬁcantly augmenting
+it in some cases (Cochran, Hardy & Harpending, 2009; Haidt, 2009).
+None of these theories is as powerful and persuasive as, say,
+Newton's theory of gravitation, but that is the nature of evolutionary
+biology (Hull, 1974). Physics and chemistry are often more certain and
+
+4. Conclusion
+In this article, we have argued that the modern orthodoxy about
+group diﬀerences in cognitive ability is almost certainly incorrect and
+has stultiﬁed research. Speciﬁcally, we argued that (1) humans populations vary; (2) such variation can be classiﬁed; (3) they almost certainly vary psychologically; and (4) they also almost certainly vary in
+cognitive ability. These assertions follow straightforwardly from
+Darwinian considerations. For too long, scholars have attempted to
+8
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+dodge some of these almost inevitable consequences of Darwinism,
+either ignoring psychological variation among human populations or
+actively arguing that it does not exist. This appears misguided and
+untenable. The hereditarian hypothesis that at least part of IQ diﬀerences among human populations, like diﬀerences in other psychological
+traits, are caused by genetics, seems to us the most plausible hypothesis
+for the cause of persistent cognitive diﬀerences. And the hereditarian
+research tradition seems the most powerful and fruitful in the game of
+human variation right now. It is consistent with everything we know
+about biology and best explains the available data. Although there
+might be another, better research tradition waiting to form, we will not
+know until we begin to discuss these topics openly, honestly, and judiciously.
+
+Appleton and Company.
+Dawkins, R. (1982). The extended phenotype. Oxford: Oxford University Press.
+Diamond, J. (1994). Race without color. Discover, 15, 83–89.
+Dickens, W. T., & Flynn, J. R. (2006). Black Americans reduce the racial IQ gap: Evidence
+from standardization samples. Psychological Science, 17, 913–920.
+Edwards, A. W. F. (2003). Human genetic diversity: Lewontin’s fallacy. BioEssays : news
+and reviews in molecular, cellular and developmental biology, 25, 798–801.
+Endersby, J. (2009). Lumpers and splitters: Darwin, Hooker, and the search for order.
+Science (New York, N.Y.), 326, 1496–1499.
+Finet, C., Vermeer, H. J., Juﬀer, F., Bijttebier, P., & Bosmans, G. (2019). Remarkable
+cognitive catch-up in Chinese adoptees nine years after adoption. Journal of Applied
+Developmental Psychology, 65, 101071.
+Flynn, J. R. (1980). Race, IQ and jensen. London: Routledge & Kegan Paul.
+Frost, P. (2007). Human skin-color sexual dimorphism: A test of the sexual selection
+hypothesis. American Journal of Physical Anthropology, 133, 779–780.
+Frost, P. (2017). The Hajnal line and gene-culture coevolution in Northwest Europe.
+Advances in Anthropology, 7, 154–174.
+Frost, P. (2019). The original industrial revolution. did cold winters select for cognitive
+ability? Psych, 1, 166–181.
+Frost, P., & Harpending, H. C. (2015). Western Europe, state formation, and genetic paciﬁcation. Evolutionary Psychology, 13, 230–243.
+Frydman, M., & Lynn, R. (1989). The intelligence of Korean children adopted in Belgium.
+Personality and Individual Diﬀerences, 10, 1323–1325.
+Garrett, H. E. (1961). The equalitarian dogma. Perspectives in Biology and Medicine, 4,
+480–484.
+Gerbault, P., Liebert, A., Itan, Y., Powell, A., Currat, M., & Burger, J., &.Thomas. M. G.
+(2011). Evolution of lactase persistence: An example of human niche construction.
+Philosophical Transactions of the Royal Society B: Biological Sciences, 366, 863–877.
+Gottfredson, L. S. (1994). Egalitarian ﬁction and collective fraud. Society, 31, 53–59.
+Gottfredson, L. S. (1997). Why g matters: The complexity of everyday life. Intelligence, 24,
+79–132.
+Greger, M. (2007). The human/animal interface: Emergence and resurgence of zoonotic
+infectious diseases. Clinical Reviews in Microbiology, 33, 243–299.
+Haidt, J. (2009). Faster evolution means more ethnic diﬀerences. https://www.edge.org/
+response-detail/10376Accessed 1 February 2020.
+Henrich, J. (2016). The secret of our success: How culture is driving evolution, domesticating
+our species, and making us smarter. Princeton, NJ: Princeton University Press.
+Herrnstein, R. J., & Murray, C. (1994). The bell curve: Intelligence and class structure in
+American life. New York, NY: Free Press.
+Huerta-Sánchez, E., Jin, X., Bianba, Z., Peter, B. M., Vinckenbosch, N., & Liang, Y. (2014).
+Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA.
+Nature, 512, 194–197.
+Hull, D. (1974). Philosophy of biological science. Englewood Cliﬀs, NJ: Prentice-Hall, INC.
+Hunt, E. (2010). Human intelligence. New York, NY: Cambridge University Press.
+Jablonski, N. G. (2014). Living color: The biological and social meaning of skin color.
+Berkeley, CA: University of California Press.
+Jablonski, N. G., & Chaplin, G. (2017). The colours of humanity: The evolution of pigmentation in the human lineage. Philosophical Transactions of the Royal Society B:
+Biological Sciences, 372, 20160349.
+Jelenkovic, A., Sund, R., Hur, Y. M., Yokoyama, Y., Hjelmborg, J. V. B., & Möller, S.
+(2016). Genetic and environmental inﬂuences on height from infancy to early
+adulthood: An individual-based pooled analysis of 45 twin cohorts. Scientiﬁc Reports,
+6, 28496.
+Jensen, A. R. (1998). The g factor: The science of mental ability. Westport, CT: Praeger.
+Jones, P., Lucock, M., Veysey, M., & Beckett, E. (2018). The vitamin D–folate hypothesis
+as an evolutionary model for skin pigmentation: An update and integration of current
+ideas. Nutrients, 10(5), 554.
+Kanazawa, S. (2004). General intelligence as a domain-speciﬁc adaptation. Psychological
+Review, 111, 512–523.
+Kanazawa, S. (2008). Temperature and evolutionary novelty as forces behind the evolution of general intelligence. Intelligence, 36, 99–108.
+Kanazawa, S. (2012). The evolution of general intelligence. Personality and Individual
+Diﬀerences, 53, 90–93.
+Kaplan, J. M., & Winther, R. G. (2013). Prisoner’s of abstraction? The theory and measure
+of genetic variation, and the very concept of “race.”. Biological Theory, 7, 401–412.
+Kendler, K. S., Turkheimer, E., Ohlsson, H., Sundquist, J., & Sundquist, K. (2015). Family
+environment and the malleability of cognitive ability: A Swedish national homereared and adopted-away cosibling control study. Proceedings of the National Academy
+of Sciences, 112(15), 4612–4617.
+Kitayama, S., King, A., Hsu, M., Liberzon, I., & Yoon, C. (2016). Dopamine-system genes
+and cultural acquisition: The norm sensitivity hypothesis. Current Opinion in
+Psychology, 8, 167–174.
+Klein, R. G. (2009). The human career: Human biological and cultural origins. Chicago, IL:
+University of Chicago Press.
+Kuhn, T. (1970). The structure of scientiﬁc revolutions. Chicago, IL: Chicago University
+Press.
+Laland, K. N., Odling-Smee, J., & Feldman, M. W. (2000). Niche construction, biological
+evolution, and cultural change. Behavioral and Brain Sciences, 23, 131–146.
+Laland, K., Matthews, B., & Feldman, M. W. (2016). An introduction to niche construction
+theory. Evolutionary Ecology, 30, 191–202.
+Laudan, L. (1978). Progress and its problems: Towards a theory of scientiﬁc growth. Oakland,
+Ca: University of California Press.
+Lewontin, R. C. (1970). Race and intelligence. Bulletin of the Atomic Scientists, 26, 2–8.
+Lewontin, R. C. (1972). The apportionment of human diversity. In T. Dobzhansky, M. K.
+Hecht, & W. C. Steere (Vol. Eds.), Evolutionary biology: 6, (pp. 381–398). New York:
+Appleton- Century- Crofts.
+Lipton, P. (2004). Inference to the best explanation (2nd ed). New York, NY: Routledge.
+Livingstone, F., & Dobzhansky, T. (1962). On the non-existence of human races. Current
+Anthropology, 3, 279–281.
+Lopez, M., Choin, J., Sikora, M., Siddle, K., Harmant, C., & Costa, H. A. (2019). Genomic
+
+References
+Anomaly, J. (2017). Race research and the ethics of belief. Journal of Bioethical Inquiry,
+14, 287–297.
+Anomaly, J., & Winegard, B. (2020). The egalitarian fallacy: Are group diﬀerences
+compatible with political liberalism? Philosophia. https://doi.org/10.1007/s11406019-00129-w.
+Appiah, K. A. (1990). Racisms. In D. T. Goldberg (Ed.). Anatomy of racism (pp. 3–17).
+Minneapolis, MN: University of Minnesota Press.
+Bae, C. J., Douka, K., & Petraglia, M. D. (2017). On the origin of modern humans: Asian
+perspectives. Science (New York, N.Y.), 358, 1269.
+Baharian, S., Barakatt, M., Gignoux, C. R., Shringarpure, S., Errington, J., & Blot, W. J.
+(2016). The great migration and african-american genomic diversity. PLoS genetics,
+12, e1006059.
+Bailey, D. H., & Geary, D. C. (2009). Hominid brain evolution. Human Nature, 20, 67–79.
+Baumeister, R. F. (2005). The cultural animal: Human nature, meaning, and social life. New
+York: Oxford University Press.
+Becker, D., & Rindermann, H. (2016). The relationship between cross-national genetic
+distances and IQ-diﬀerences. Personality and Individual Diﬀerences, 98, 300–310.
+Berbesque, J. C., Marlowe, F. W., Shaw, P., & Thompson, P. (2014). Hunter–gatherers
+have less famine than agriculturalists. Biology Letters, 10, 20130853.
+Bigham, A. W. (2016). Genetics of human origin and evolution: High-altitude adaptations. Current Opinion in Genetics & Development, 41, 8–13.
+Bouchard, T. J. (2013). The wilson eﬀect: The increase in heritability of iq with age. Twin
+Research and Human Genetics, 16, 923–930.
+Boutwell, B. B., Nedelec, J. L., Winegard, B., Shackelford, T., Beaver, K. M., Vaughn, M.,
+et al. (2017). The prevalence of discrimination across racial groups in contemporary
+america: Results from a nationally representative sample of adults. PloS one, 12(8),
+e0183356.
+Bowles, S., & Gintis, H. (2013). A cooperative species: Human reciprocity and its evolution.
+Princeton, NJ: Princeton University Press.
+Bruce, V., Burton, A. M., Hanna, E., Healey, P., Mason, O., & Coombes, A. (1993). Sex
+discrimination: How do we tell the diﬀerence between male and female faces?
+Perception, 22, 131–152.
+Bryc, K., Durand, E. Y., Macpherson, J. M., Reich, D., & Mountain, J. L. (2015). The
+genetic ancestry of african americans, latinos, and european americans across the
+united states. The American Journal of Human Genetics, 96, 37–53.
+Carl, N. (2018). How stiﬂing debate around race, genes and iq can do harm. Evolutionary
+Psychological Science, 4, 1–9.
+Check, E. (2006). Human evolution: How africa learned to love the cow. Nature, 444,
+994–996.
+Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of individualism– collectivism and the serotonin transporter gene. Proceedings of the Royal Society of
+London B: Biological Sciences. 277. Proceedings of the Royal Society of London B:
+Biological Sciences (pp. 529–537).
+Clark, C. J., & Winegard, B. M. (in press). Tribalism in war and peace: The nature and
+evolution of ideological epistemology and its signiﬁcance for modern social science.
+Psychological Inquiry.
+Clark, E. A., & Hanisee, J. (1982). Intellectual and adaptive performance of Asian children
+in adoptive american settings. Developmental Psychology, 18, 595–599.
+Clark, G. (2009). A farewell to alms: A brief economic history of the world. Princeton, NJ:
+Princeton University Press.
+Cochran, G., Hardy, J., & Harpending, H. (2006). Natural history of Ashkenazi intelligence. Journal of biosocial science, 38, 659–693.
+Cochran, G., Hardy, J., & Harpending, H. (2009). The 10,000 year explosion: How civilization accelerated human evolution. New York: Basic Books.
+Cofnas, N. (2016). Science is not always “self-correcting”. Foundations of Science, 21,
+477–492.
+Cofnas, N. (2020). Research into population diﬀerences in intelligence: A defense of free
+inquiry. Philosophical Psychology, 33, 125–147.
+Cosmides, L., Tooby, J., & Kurzban, R. (2003). Perceptions of race. Trends in Cognitive
+Sciences, 7, 173–179.
+Crawford, D. (2009). Deadly companions: How microbes shaped our historyDeadly
+Companions: How microbes shaped our history (Reprint edition). New York, NY: Oxford
+University Press.
+Dalen, M., Hjern, A., Lindblad, F., Odenstad, A., Ramussen, F., & Vinnerljung, B. (2008).
+Educational attainment and cognitive competence in adopted men—A study of international and national adoptees, siblings and a general Swedish population.
+Children and Youth Services Review, 30, 1211–1219.
+Darwin, C. (1876). The decent of man, and selection in relation to sex. New York, NY: D
+
+9
+
+Personality and Individual Differences 160 (2020) 109915
+
+B. Winegard, et al.
+
+Evolution, 79, 181–190.
+Rushton, J. P. (1995). Race, evolution, and behavior: A life history perspective. New
+Brunswick: Transaction.
+Rushton, J. P. (1999). Darwin's really dangerous idea -the primacy of variation. In J. M. G.
+van der Dennen, D. Smillie, & D. R. Wilson (Eds.). The Darwinian heritage and sociobiologv (pp. 210–229). Westport, CT: Praeger.
+Rushton, J. P., & Jensen, A. R. (2005). Thirty years of research on race diﬀerences in
+cognitive ability. Psychology, Public Policy, and Law, 11, 235.
+Rushton, J. P. (1985). Diﬀerential k theory: The sociobiology of individual and group
+diﬀerences. Personality and Individual Diﬀerences, 6, 441–452.
+Rushton, J. P., & Jensen, A. R. (2010). Race and IQ: A theory-based review of the research
+in Richard Nisbett’s intelligence and how to get it. The Open Psychology Journal, 3,
+9–35.
+Saini, A. (2019). Superior: The return of race science. Boston, MA: Beacon Press.
+Savolainen, O., Lascoux, M., & Merilä, J. (2013). Ecological genomics of local adaptation.
+Nature Reviews Genetics, 14, 807–820.
+Sayol, F., Downing, P. A., Iwaniuk, A. N., Maspons, J., & Sol, D. (2018). Predictable
+evolution towards larger brains in birds colonizing oceanic islands. Nature
+Communications, 9, 2820.
+Scarr, S., & Weinberg, R. A. (1976). IQ test performance of black children adopted by
+white families. American Psychologist, 31, 726–739.
+Schulz, J., Bahrami-Rad, D., Beauchamp, J., & Henrich, J. (2019). The church, intensive
+kinship, and global psychological variation. Science (New York, N.Y.), 366(6466),
+1–12.
+Sesardic, N. (2000). Philosophy of science that ignores science: Race, IQ and heritability.
+Philosophy of Science, 67, 580–602.
+Sesardic, N. (2005). Making sense of heritability. New York: Cambridge University Press.
+Sesardic, N. (2010). Race: A social destruction of a biological concept. Biology &
+Philosophy, 25, 143–162.
+Smith, J. E. H. (2015). Nature, human nature, and human diﬀerence: Race in early modern
+philosophy. Princeton, NJ: New Jersey Press.
+Sol, D., Bacher, S., Reader, S. M., & Lefebvre, L. (2008). Brain size predicts the success of
+mammal species introduced into novel environments. The American Naturalist, 172,
+S63–S71.
+Stringer, C. (2000). Paleoanthropology: Coasting out of Africa. Nature, 405, 24–27.
+Stringer, C. (2012). Evolution: What makes a modern human. Nature, 485, 33–35.
+Tal, O. (2012). The cumulative eﬀect of genetic markers on classiﬁcation performance:
+Insights from simple models. Journal of Theoretical Biology, 293, 206–218.
+Tang, H., Quertermous, T., Rodriguez, B., Kardia, S. L., Zhu, X., & Brown, A., & Schork, N.
+J. (2005). Genetic structure, self-identiﬁed race/ethnicity, and confounding in casecontrol association studies. The American Journal of Human Genetics, 76, 268–275.
+Thomas, D. (2017). Racial iq diﬀerences among transracial adoptees: Fact or artifact.
+Journal of Intelligence, 5, 1.
+Tooby, J., & Cosmides, L. (1990). On the universality of human nature and the uniqueness
+of the individual: The role of genetics and adaptation. Journal of Personality, 58,
+17–67.
+Tooby, J., & Cosmides, L. (2005). Conceptual foundations of evolutionary psychology. In
+D. M. Buss (Ed.). The handbook of evolutionary psychology (pp. 5–67). Hoboken, NJ:
+Wiley.
+Turchin, P. (2015). Ultrasociety: How 10,000 years of war made humans the greatest cooperators on earth. New York: Beresta Books.
+Turkheimer, E. (2000). Three laws of behavior genetics and what they mean. Current
+directions in psychological science, 9, 160–164.
+Turkheimer, E. (2007). Race & IQ. Cato Unbound: A journal of debate. https://www.catounbound.org/2007/11/21/eric-turkheimer/race-iq Accessed 1 February 2020.
+Urbach, P. (1974). Progress and degeneration in the ‘IQ debate’ (I). The British Journal for
+the Philosophy of Science, 25, 99–135.
+Van Schaik, C. P., Isler, K., & Burkart, J. M. (2012). Explaining brain size variation: From
+social to cultural brain. Trends in cognitive sciences, 16, 277–284.
+Wade, N. (2014). A troublesome inheritance: Genes, race and human history. New York, NY:
+Penguin.
+Warne, Russell (2020). 35 Myths about human intelligence. Cambridge, UK: Cambridge
+University Press.
+Way, B. M., & Lieberman, M. D. (2010). Is there a genetic contribution to cultural differences? collectivism, individualism and genetic markers of social sensitivity. Social
+Cognitive and Aﬀective Neuroscience, 5, 203–211.
+Weinberg, R. A., Scarr, S., & Waldman, I. D. (1992). The Minnesota transracial adoption
+study: A follow-up of iq test performance at adolescence. Intelligence, 16, 117–135.
+Wicherts, J. M., Borsboom, D., & Dolan, C. V. (2010). Why national IQs do not support
+evolutionary theories of intelligence. Personality and Individual Diﬀerences, 48, 91–96.
+Wicherts, J. M., Dolan, C. V., & van der Maas, H. L. (2010). A systematic literature review
+of the average IQ of sub-Saharan Africans. Intelligence, 38, 1–20.
+Winegard, B., & Winegard, B. (2014). Darwin’s duel with descartes: A review of Nicholas
+wade, a troublesome inheritance: Genes, race, and human history. Evolutionary psychology, 12, 509–520.
+Winegard, B., & Winegard, B. (2015). A social science without sacred values. Unpublished
+manuscript.
+Winegard, B., Winegard, B., & Boutwell, B. (2017). Human biological and psychological
+diversity. Evolutionary Psychological Science, 3, 159–180.
+Winegard, B. M., Clark, C. J., Hasty, C. R., & Baumeister, R. F. (2019). Low-status groups as
+a domain of liberal bias. Manuscript submitted for publication.
+Wittgenstein, L. (1957). In G. E. M. Anscombe Trans (Ed.). New York, NY: The Macmillan
+Company (Original work published 1949).
+Zigerell, L. J. (2018). Black and White discrimination in the United States: Evidence from
+an archive of survey experiments. Research and Politics, 5, 1–8.
+
+evidence for local adaptation of hunter-gatherers to the African rainforest. Current
+Biology, 29, 2926–2935.
+Lynn, R. (2015). Race diﬀerences in intelligence: An evolutionary analysis (2nd ed.).
+Arlington, VA: Washington Summit Publishers.
+Lynn, R., & Meisenberg, G. (2010a). The average iq of sub-Saharan africans: Comments on
+wicherts, dolan, and van der maas. Intelligence, 38, 21–29.
+Lynn, R., & Meisenberg, G. (2010b). National IQs calculated and validated for 108 nations. Intelligence, 38, 353–360.
+Lynn, R., & Vanhanen, T. (2012). National IQs: A review of their educational, cognitive,
+economic, political, demographic, sociological, epidemiological, geographic and
+climatic correlates. Intelligence, 40, 226–234.
+Mackintosh, N. J. (2011). IQ and human intelligence. Oxford, UK: Oxford University Press.
+Maklakov, A. A., Immler, S., Gonzalez-Voyer, A., Rönn, J., & Kolm, N. (2011). Brains and
+the city: Big-brained passerine birds succeed in urban environments. Biology letters, 7,
+730–732.
+Marks, J. (2014). Review of a troublesome inheritance by Nicholas wade. Human biology,
+86(3), 221–226.
+Markus, H. R., & Kitayama, S. (2010). Cultures and selves: A cycle of mutual constitution.
+Perspectives on Psychological Science, 5, 420–430.
+Marlowe, F. W. (2003). The mating system of foragers in the standard cross-cultural
+sample. Cross-Cultural Research, 37, 282–306.
+McGreal, S.A. (2012). Cold winters and the evolution of intelligence. Retrieved from
+https://www.psychologytoday.com/us/blog/unique-everybody-else/201211/coldwinters-and-the-evolution-intelligence. Accessed: 1 February 2020.
+Meisenberg, G., & Woodley, M. A. (2013). Global behavioral variation: A test of diﬀerential-K. Personality and Individual Diﬀerences, 55, 273–278.
+Mesoudi, A. (2016). Cultural evolution: A review of theory, ﬁndings and controversies.
+Evolutionary Biology, 43, 481–497.
+Migliano, A. B., Vinicius, L., & Lahr, M. M. (2007). Life history trade-oﬀs explain the
+evolution of human pygmies. Proceedings of the National Academy of Sciences, 104,
+20216–20219.
+Miller, E. M. (1994). Paternal provisioning versus mate seeking in human populations.
+Personality and Individual Diﬀerences, 17, 227–255.
+Molnar, S. (2006). Human variation: Races, types, and ethnic groups (6th ed.). New York,
+NY: Routledge.
+Morand-Ferron, J., Hermer, E., Jones, T. B., & Thompson, M. J. (2019). Environmental
+variability, the value of information, and learning in winter residents. Animal
+Behaviour, 147, 137–145.
+Murray, C. (2007). The magnitude and components of change in the black–white IQ
+diﬀerence from 1920 to 1991: A birth cohort analysis of the Woodcock–Johnson
+standardizations. Intelligence, 35, 305–318.
+Murray, C. (2020). Human diversity: The biology of gender, race, and class. New York, NY:
+Hachette Book Club.
+Muthukrishna, M., Doebeli, M., Chudek, M., & Henrich, J. (2018). The cultural brain
+hypothesis: How culture drives brain expansion, sociality, and life history. PloS
+Computational Biology, 14, e1006504.
+Nell, V. (2000). Cross-cultural neuropsychological assessment: Theory and practice. Mahwah,
+NJ: Erlbaum.
+Nisbett, R. E., Aronson, J., Blair, C., Dickens, W., Flynn, J., & Halpern, D. (2012).
+Intelligence: New ﬁndings and theoretical developments. American Psychologist, 67,
+130–159.
+Owen, K. (1992). The suitability of Raven's standard progressive matrices for various
+groups in South Africa. Personality and Individual Diﬀerences, 13, 149–159.
+Pearson, A. R., Dovidio, J. F., & Gaertner, S. L. (2009). The nature of contemporary
+prejudice: Insights from aversive racism. Social and Personality Psychology Compass, 3,
+314–338.
+Pemberton, T. J., Verdu, P., Becker, N. S., Willer, C. J., Hewlett, B. S., & Le Bomin, S.,
+Froment, A., Rosenberg, N. A., & (2018). A genome scan for genes underlying adult
+body size diﬀerences between Central African hunter-gatherers and farmers. Human
+Genetics, 137, 487–509.
+Plomin, R., & Stumm, S. (2018). The new genetics of intelligence. Nature Reviews Genetics,
+19, 148–159.
+Reich, D. (2018). Who we are and how we got here: Ancient DNA and the new science of the
+human past. New York, NY: Oxford University Press.
+Relethford, J. H. (2009). Race and global patterns of phenotypic variation. American
+journal of physical anthropology, 139, 16–22.
+Ridley, M. (2010). The rational optimist: How prosperity evolves. New York, NY: Harper
+Collins.
+Rindermann, H. (2013). African cognitive ability: Research, results, divergences and recommendations. Personality and Individual Diﬀerences, 55, 229–233.
+Rindermann, H., Becker, D., & Coyle, T. R. (2016). Survey of expert opinion on intelligence: Causes of international diﬀerences in cognitive ability tests. Frontiers in
+Psychology, 7, 399.
+Ritchie, S. (2015). Intelligence. London, UK: Hodder & Stoughton.
+Rosenberg, N. A., Mahajan, S., Ramachandran, S., Zhao, C., Pritchard, J. K., & Feldman,
+M. W. (2005). Clines, clusters, and the eﬀect of study design on the inference of
+human population structure. PLoS genetics, 1, e70.
+Rosenberg, N. A., Pritchard, J. K., Weber, J. L., Cann, H. M., Kidd, K. K., & Zhivotovsky, L.
+A., &.Feldman. M. W. (2002). Genetic structure of human populations. Science (New
+York, N.Y.), 298, 2381–2385.
+Roth, P. L., Bevier, C. A., Bobko, P., Switzer III, F. S., & Tyler, P. (2001). Ethnic group
+diﬀerences in cognitive ability in employment and educational settings: A meta
+analysis. Personnel Psychology, 54, 297–330.
+Roth, T. C., Gallagher, C. M., LaDage, L. D., & Pravosudov, V. V. (2012). Variation in brain
+regions associated with fear and learning in contrasting climates. Brain, Behavior and
+
+10
+
+

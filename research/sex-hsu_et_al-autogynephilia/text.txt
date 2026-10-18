@@ -1,0 +1,1998 @@
+Arch Sex Behav
+DOI 10.1007/s10508-014-0397-9
+
+ORIGINAL PAPER
+
+The Psychometric Structure of Items Assessing Autogynephilia
+Kevin J. Hsu • A. M. Rosenthal • J. Michael Bailey
+
+Received: 6 June 2014 / Revised: 18 August 2014 / Accepted: 8 September 2014
+Ó Springer Science+Business Media New York 2014
+
+Abstract Autogynephilia, or paraphilic sexual arousal in a
+man to the thought or image of himself as a woman, manifests in
+a variety of different behaviors and fantasies. We examined the
+psychometric structure of22 items assessing five known types of
+autogynephilia by subjecting them to exploratory factor analysis
+in a sample of 149 autogynephilic men. Results of oblique factor
+analyses supported the ability to distinguish five group factors
+with suitable items. Results of hierarchical factor analyses suggest that the five group factors were strongly underlain by a
+general factor of autogynephilia. Because the general factor
+accounted for a much greater amount of the total variance of the
+22 items than did the group factors, the types of autogynephilia
+that a man has seem less important than the degree to which he
+has autogynephilia. However, the five types of autogynephilia
+remain conceptually useful because meaningful distinctions
+were found among them, including differential rates of endorsement and differential ability to predict other relevant variables
+likegenderdysphoria.Factor-derivedscalesandsubscalesdemonstrated good internal consistency reliabilities, and validity, with
+large differences found between autogynephilic men and heterosexual male controls. Future research should attempt to replicate
+our findings, which were mostly exploratory.
+Keywords Autogynephilia  Erotic target location error 
+Paraphilia  Gender dysphoria  Transvestic fetishism
+
+K. J. Hsu (&)  A. M. Rosenthal  J. M. Bailey
+Department of Psychology, Northwestern University, 2029
+Sheridan Road, Evanston, IL 60208, USA
+e-mail: khsu@northwestern.edu
+
+Introduction
+Autogynephilia is a man’s paraphilic tendency to be sexually
+aroused by the thought or image of himself as a woman (Blanchard, 1989a). Autogynephilia can be conceptualized as an erotic
+target location error, which involves mislocating a preferred
+erotic target within one’s own body or internalizing an external erotic target (Blanchard, 1991; Freund & Blanchard, 1993;
+Lawrence, 2009). In the case of autogynephilia, a man who is
+otherwise sexually attracted to women mislocates them within
+himself and is thus sexually attracted to the act or the fantasy of
+resembling or impersonating women (e.g., by cross-dressing). In
+other words, autogynephilia can be understood as a kind of erotic
+target location error that occurs in men who are sexually attracted
+to women or whose preferred erotic targets are women. Consistent with the idea that autogynephilia is a misdirected type of
+heterosexual attraction, Blanchard (1992) demonstrated that
+autogynephilia tends to compete with typical sexual interest in
+women.
+In addition to cross-dressing, which is the most familiar way in
+which autogynephilia manifests, there are other behaviors and
+fantasies related to the idea of being a woman that autogynephilic
+men find sexually arousing. Blanchard (1991) described four
+aspects of being a woman that manifest in the sexual behaviors
+and fantasies of autogynephilic men: exhibiting female physiologic functions, engaging in stereotypically feminine behavior,
+possessing female anatomic structures, and dressing in women’s
+clothing. He labeled these different ways in which autogynephilia
+manifests as types of autogynephilia and called them physiologic
+autogynephilia, behavioral autogynephilia, anatomic autogynephilia, and transvestic autogynephilia, respectively.
+Examples of physiologic autogynephilia include sexual fantasies of lactating, breastfeeding, and menstruating (Blanchard,
+1991). Some autogynephilic men also find the idea of being
+pregnant to be sexually arousing. Behavioral autogynephilia
+
+123
+
+Arch Sex Behav
+
+involvesbehavinginastereotypicallyfemininewayorperforming
+activities that symbolize femininity. For instance, some autogynephilic men report sexual arousal at the idea of speaking and
+walking in a feminine manner or of being with other women in a
+locker room or in a hair salon (Blanchard, 1991; Lawrence, 2013).
+Others report sexual excitement from seemingly trivial or mundane feminine activities, such as knitting in a circle with other
+women,owningagirl’sbike,ortakingbirthcontrolpills.Menwho
+experience the anatomic type of autogynephilia may be sexually
+aroused by the mere idea of having a woman’s body or they may
+focus on specific female anatomic features, such as the breasts or
+the vulva. Sexual arousal at the thought or image of having a
+woman’s hairless legs, buttocks, or face also constitutes anatomic
+autogynephilia. Blanchard (1993a, b) found that the anatomic type
+ofautogynephiliawascloselyassociatedwithgenderdysphoria,or
+feelings of discontent with one’s biological sex, among autogynephilic men. Specifically, Blanchard showed that autogynephilic
+men who reported the most arousal at the thought or image of
+themselves as nude rather than partially or fully clothed women
+were more gender dysphoric (Blanchard, 1993b) and that those
+specifically aroused by the idea of having a vulva were also more
+gender dysphoric (Blanchard, 1993a). Transvestic autogynephilia
+is generally considered synonymous with erotic cross-dressing, or
+transvestic fetishism, and it is one very unambiguous and behavioral way in which an autogynephilic man can make himself more
+like a woman. It is also considered the most frequent manifestation
+of autogynephilia (Lawrence, 2013).
+A fifth putative type of autogynephilia that has important theoretical and clinical relevance is interpersonal autogynephilia, or
+sexual interest in interacting with or being admired by otherpeople
+as a woman (also called autogynephilic interpersonal fantasy)
+(Blanchard, 1989b). Most commonly, such behaviors and fantasies involve sexual intercourse or activity with other people (either
+real or imagined) while cross-dressed or thinking of oneself as a
+woman (Blanchard, 1991). Blanchard subsumed the autogynephilic behaviors and fantasies of this variety under behavioral
+autogynephilia,buthenotedtheirparticularsignificancerelativeto
+other behaviors and fantasies of the behavioral type. For example,
+Blanchard found that self-reported autogynephilic interpersonal
+fantasy was more highly endorsed among autogynephilic men
+identifying as bisexual compared with those identifying as heterosexual (Blanchard, 1989b). Blanchard speculated that bisexual
+behavior and identity among autogynephilic men reflects interpersonal autogynephilia—specifically, their sexual interest in the
+idea of having sex with men as a woman—rather than genuine
+attraction to male bodies in addition to female bodies. Thus, a
+distinction between interpersonal autogynephilia and the more
+broadly defined behavioral autogynephilia seems conceptually
+useful.
+Although there is value in categorizing the various ways in
+which autogynephilia manifests, it is not clear how the different types of autogynephilia are organized. For example, it is
+conceivable that autogynephilic men focus on one type or a few
+
+123
+
+types of autogynephilia at the expense of others. Alternatively,
+there might be only one general dimension of autogynephilia,
+with the most autogynephilic men especially likely to exhibit
+multiple types of autogynephilia. From numerous case reports
+(Blanchard, 1991; Lawrence, 2013), it seems common for different types of autogynephilia to co-occur within an individual. In
+addition, a particular autogynephilic behavior or fantasy may
+include elements from more than one type. For example, simulating a pregnant woman may involve cross-dressing in maternity
+clothes and could be considered both physiologic and transvestic
+autogynephilia. Wearing a female cheerleader’s outfit may be a
+form of transvestic autogynephilia, behavioral autogynephilia, or
+both, depending on the meaning that an autogynephilic man
+ascribes to the act. If he is aroused by wearing feminine clothing,
+then he is manifesting transvestic autogynephilia, but if he is
+aroused by enacting the female-typical role of a cheerleader, then
+he is manifesting behavioral autogynephilia. It is often the case,
+however, that an autogynephilic man is aroused by the variety of
+ways in which a behavior or fantasy is feminine. Because types
+usually refer to discrete categories, referring to the different
+manifestations of autogynephilia as types might be less than ideal,
+as they appear dimensional (i.e., they overlap and can be
+expressed to different degrees).
+The present study attempted to clarify the structure of autogynephilia psychometrically. Specifically, we focused on the
+extent to which the different types of autogynephilia manifest in
+autogynephilic men, their relations among each other, and their
+relations to a more broadly construed construct of autogynephilia. Although previous researchers (e.g., Blanchard, 1991;
+Lawrence, 2013) have speculated about the differential prevalences of the various types of autogynephilia, there is no strong or
+empirically supported evidence to suggest what these might be.
+We assembled 22 items to assess five types of autogynephilia in a
+sample of autogynephilic men and subjected the items to exploratory factor analysis, which attempted to explain the variability
+and correlations among the items by reducing them to reflect
+latent factors. We then examined the evidence for five group
+factorsand ageneralfactorofautogynephiliathatunderliesthem.
+In order to test construct validity, we compared the autogynephilic sample with heterosexual men from a control sample who
+were unlikely to be autogynephilic. Finally, we created factorderived scales and subscales from the 22 items and tested their
+psychometric properties and concurrent validity with variables
+related to autogynephilia (e.g., gender dysphoria).
+Before proceeding, we also clarify what our study was not
+about. Specifically, our study did not address the issue of whether autogynephilia represents a dimensional or taxonic difference from typical male sexuality. In order to explore that issue, it
+would be necessary to obtain a representative (and presumably
+large, given the likely rarity of autogynephilia) sample from the
+general population (Beauchaine, 2007). Rather, we explored
+differences among autogynephilic men, assuming that such
+differences are dimensional, and we focused on describing their
+
+Arch Sex Behav
+
+dimensional structure. Thus, the primary empirical question that
+we addressed was not‘‘How do autogynephilic men differ from
+other men?’’ but ‘‘How do autogynephilic men differ among
+each other?’’
+
+Method
+Participants
+Participants were 149 adult men (M age = 34.40 years, SD =
+11.20) recruited from Internet forums dedicated to sharing and
+discussing erotic fiction and media depicting autogynephilic
+fantasies, including cross-dressing, transforming into a woman,
+and body swapping with a woman. Most of the participants
+identified as heterosexual (80.54 %) although a substantial
+minority identified as bisexual (14.77 %). Four other men identified as homosexual and one as asexual; the remaining two men
+selected‘‘Other’’but did not specify their sexual identity. Because
+participants were recruited from Internet forums catering to men
+with autogynephilia, all participants were included in the analyses regardless of their sexual identity.
+In addition to the 149 participants considered to have autogynephilia, 112 adult heterosexual men (M age = 32.63 years,
+SD = 10.88) who reported having never cross-dressed were
+recruited as a control group from Amazon Mechanical Turk, a
+website used by people who want to earn small sums of money
+quickly by taking online surveys. The reliability and validity of
+responses collected from Amazon Mechanical Turk has been
+supported (Burhmester, Kwang, & Gosling, 2011; Paolacci,
+Chandler, & Ipeirotis, 2010; but see Goodman, Cryder, & Cheema, 2013 for potential concerns). Because they had never crossdressed and were recruited indiscriminately from Amazon
+Mechanical Turk, these participants were not likely to have
+autogynephilia.
+
+Measures
+Participants completed an anonymous questionnaire online.
+Although somewhat more extensive, the relevant parts of the
+questionnaire included two categories of self-report items. One
+category measured autogynephilia and included Blanchard’s
+(1989b) Core Autogynephilia Scale as well as the more detailed
+and specific items that comprised the focus of this research. The
+second category included several measures to explore the concurrent validity of the different autogynephilia scales. These
+measures included numbers of lifetime male and female sexual
+partners, number of paraphilic interests, and two measures of
+gender dysphoria. Additionally, two items assessed the frequency of cross-dressing (1 = never to 7 = daily) during both the
+past year and the year that participants cross-dressed most.
+
+Core Autogynephilia Scale (Blanchard, 1989b)
+The Core Autogynephilia Scale includes eight items from a
+questionnaire originally developed to determine whether heterosexual and bisexual men with gender dysphoria are more likely
+to endorse symptoms of autogynephilia than are homosexual
+men with gender dysphoria. Blanchard (1989b) conducted a
+factor analysis of these and seven additional face valid items and
+produced three factors. The first factor was interpreted as
+reflecting sexual arousal to being a woman in a broad sense and
+the eight items that loaded higher than .50 on this factor became
+the Core Autogynephilia Scale; those are the items included here.
+The second factor was interpreted as reflecting sexual arousal to
+being admired as a woman in an interpersonal context (i.e.,
+autogynephilic interpersonal fantasy), and the third factor was
+interpreted as a measure of sexual attraction versus sexual indifference toward other people. With one exception (‘‘Which of the
+following pictures of yourself has been most strongly associated
+with sexual arousal?’’), items on the Core Autogynephilia Scale
+were answered dichotomously as‘‘yes’’or‘‘no.’’Of the individual
+items in the scale, six asked whether sexual arousal has ever been
+experienced when picturing oneself with a female body or with
+specific parts of the female body, one asked which picture of
+oneself as a woman in different states of undress was most
+arousing (the only item that was not dichotomous, but with
+options to deny sexual arousal to any picture of oneself as a
+woman), and the final item asked whether one has ever been
+sexually aroused at the thought of being a woman. Thus, as
+Blanchard (1991) noted, the scale is essentially a measure of
+anatomic autogynephilia. A point is added to the total score for
+each item that is endorsed. Thus, the range of scores on this
+measure was 0–8. Among the autogynephilic participants in this
+study, the internal consistency of the Core Autogynephilia Scale
+using Cronbach’s alpha was .83.
+Items Assessing Autogynephilia
+We assembled 22 items to assess the five types of autogynephilia
+that havebeenreportedintheliterature(Blanchard,1991): sexual
+arousal to the idea of having a woman’s body parts (anatomic
+autogynephilia; Items 1–7), interacting with other people as a
+woman (interpersonal autogynephilia; Items 8–11), crossdressing (transvestic autogynephilia; Items 12–14), functioning
+like a woman in a biological sense (physiologic autogynephilia;
+Items 15–18), and behaving like a woman (behavioral autogynephilia; Items 19–22). Thus, we sought to measure other types
+of autogynephilia besides anatomic autogynephilia, which is the
+only type captured by the content in Blanchard’s (1989b) original
+scale. However, because anatomic autogynephilia is an important type of autogynephilia, we retained seven of Blanchard’s
+items. Furthermore, we modified the response scale from that
+used by Blanchard. Rather than scoring items dichotomously, we
+used a 5-point rating scale that measured degree of sexual arousal
+
+123
+
+Arch Sex Behav
+
+(1 = not at all arousing to 5 = very arousing) on all 22 items. We
+expected that this response scale would provide more accurate measurement, because the traditional dichotomous scoring
+assigns the same value (1) to any endorsement of autogynephilia,
+whether it occurred only once or occurred frequently. Furthermore, and relatedly, we have worried that the traditional way of
+scoring the items may (again, by giving full credit to a man who
+has even once had the particular autogynephilic fantasy assessed
+by an item) inflate autogynephilia scores among controls, who
+might occasionally endorse an autogynephilia item without
+having autogynephilia. Among the autogynephilic participants
+in this study, the internal consistency of these items was high at an
+alpha of .93. The items are shown in Appendix 1.
+
+scored; three asked whether participants wished they had been
+born a girl instead of a boy during childhood, adolescence, and
+adulthood, and two asked whether participants ever wanted to
+undergo sex reassignment surgery and for what reason. With the
+exception of the last, each item can be endorsed in the unambiguously affirmative, which adds two points, with uncertainty,
+which adds only one point, or in the negative, which does not add
+any points. Unless participants answered that they have never
+wanted to have a female body, selecting any other choice on the
+last item adds a point. Thus, the range of scores on this measure
+was 0–9. Among the autogynephilic participants in this study,
+the internal consistency was adequate at an alpha of .77.
+
+Paraphilic Interests Scale
+
+Results
+
+The Paraphilic Interests Scale is an 11-item scale that we developedtomeasurethenumberofparaphilicinterests.Itemsassessed
+the degree of sexual arousal to behaviors that are characteristic of
+exhibitionism (Items 1–2), fetishism (Item 3), voyeurism (Items
+4–5), frotteurism (Item 6), sexual masochism (Items 7–8), sexual
+sadism (Items 9–10), and transvestic fetishism (Item 11), which
+were paraphilias in the Diagnostic and Statistical Manual of
+Mental Disorders (American Psychiatric Association, 2000). In
+the current study, a point was added to the total score for each
+behavior that participants reported finding at least somewhat
+sexually arousing (3 on a scale of 1 = not at all arousing to
+5 = extremely arousing). The range of scores on this measure was
+0–11. Among the autogynephilic participants in this study, the
+internal consistency of the Paraphilic Interests Scale was .68. The
+complete scale is shown in Appendix 2.
+
+We report three broad categories of results. In the first, we
+explored differences among the 149 autogynephilic participants
+with respect to the five types of autogynephilia. Using exploratory factor analysis of the 22 assembled autogynephilia items,
+we examined evidence supporting the five types and then
+examined the degree to which a general factor of autogynephilia
+underlies them. In the second broad category of results, we
+focused on differences between the autogynephilic participants
+and the heterosexual male controls on various scales and subscales, including the Core Autogynephilia Scale (Blanchard,
+1989b) and those created from the 22 autogynephilia items. In
+the last category of results, we report the concurrent validity of
+subscales representing the five types of autogynephilia in predicting other important and relevant variables among the autogynephilic participants using multiple regressions.
+
+Gender Identity/Gender Dysphoria Questionnaire for
+Adolescents and Adults (GIDYQ-AA; Deogracias et al., 2007)
+
+Preliminary Analyses
+
+The GIDYQ-AA includes 27 items assessing the frequency of
+gender dysphoric behaviors and thoughts in the past year. Scores
+on this measure were calculated by taking the average reported
+frequency (1 = never to 5 = always) on the 27 items; thus, higher
+scores indicated higher levels of gender dysphoria. It should be
+noted, however, that in Deogracias et al. (2007), lower scores on
+the GIDYQ-AA indicated higher levels of gender dysphoria.
+Thus, for ease in interpretation, we reversed the anchors on this 5point scale, but in line with the original measure, Items 1, 13, and
+27 were reverse-scored. Among the autogynephilic participants
+in this study, the GIDYQ-AA demonstrated high internal consistency with an alpha of .96.
+
+Responses to the 22 autogynephilia items assembled in this
+study tended to be either positively or negatively skewed,
+indicating either low or high endorsement, respectively. Items
+1–8, 10, 12–14, and 22, which consist mostly of items assessing anatomic and transvestic autogynephilia, were negatively
+skewed, especially those assessing anatomic autogynephilia;
+the rest of the items were positively skewed. Thus, 13 items were
+more often endorsed as sexually arousing, but 9 items were more
+often endorsed as not sexually arousing. Accordingly, the anatomic and transvestic types of autogynephilia appear to be more
+common than the interpersonal, physiologic, and behavioral
+types, which are either rarer or less associated with sexual
+arousal. Regardless of skewness, all items had sufficient variance for inclusion in the factor analysis.
+
+Pure Gender Dysphoria Scale (Blanchard, 1993b)
+Exploratory Factor Analysis
+The Pure Gender Dysphoria Scale was developed to assess
+gender dysphoria without references to childhood gender role
+behavior or to cross-dressing. It contains five items and was sum
+
+123
+
+An exploratory factor analysis was conducted on the 22
+assembled items of autogynephilia using an oblique (direct
+
+Arch Sex Behav
+
+oblimin) rotation to allow the factors to correlate, as the correlation matrix of the 22 items indicated that many items were
+moderately to highly correlated with each other. Ordinary least
+squares estimation was used to find the minimum residual
+solution. Unlike the more conventionally used maximum likelihood estimation, this method is robust against violations of
+normality in the data and it is more robust in smaller samples
+(Briggs & MacCallum, 2003). The Kaiser–Meyer–Olkin measure was .88, which was above the acceptable threshold of .5 and
+verified the sampling adequacy for the analysis. Bartlett’s test of
+sphericity indicated that correlations between items were sufficiently large for an exploratory factor analysis, v2(231) =
+2745.08, p\.0001.
+A five-factor model of the items was initially considered, one
+factor for each type of autogynephilia for which we included
+items. However, several objective criteria were also used to
+determine the number of factors to extract. Specifically, the scree
+plot showed an inflection before the eigenvalue of the fifth factor,
+which was consistent with a five-factor structure. Velicer’s minimum average partial test also identified a five-factor structure. In
+contrast, however, parallel analysis suggested that a four-factor
+model was most appropriate. Considering all but one of these
+procedures found evidence for five factors, a five-factor solution
+was examined. In oblique factor analyses, the term group factor is
+used to refer to a factor associated with a subgroup of items but not
+all items. A factor associated with all items is a general factor.
+Thus, we extracted five group factors.
+Because the chi square goodness of fit test is sensitive to
+sample size and lack of normality in the data, alternative indices
+of fit were used to determine whether the five-factor model
+demonstrated adequate fit. Results indicated a marginally
+acceptable fit, with the root mean square error of approximation
+(RMSEA) = .10 and the Tucker–Lewis Index (TLI) = 0.87. For
+comparison, the four-factor model showed a decrease in statistical fit, with RMSEA = .12 and TLI = 0.82. Following rotation,
+the five group factors (in combination with an underlying general factor) explained 97 % of the total variance in the 22 items.
+None of the group factor loadings were lower than .40 in this
+model.
+Factor 1 contained Items 1–7 that assess sexual arousal to
+having a woman’s body parts and was thus labeled anatomic
+autogynephilia. The items that clustered on Factor 2 were Items
+12–14 and 19; the first three items were written specifically to
+assess sexual arousal to cross-dressing and Item 19 involves
+sexual arousal to obtaining a woman’s hairstyle, suggesting this
+factor represented transvestic autogynephilia. Factor 3 consisted
+of Items 15, 16, and 18, which assess sexual arousal to oneself
+lactating and/or breastfeeding, menstruating and using tampons,
+and being pregnant, respectively. Given the content of these items
+and that they were written with this type of autogynephilia in
+mind, Factor 3 was considered physiologic autogynephilia. The
+items that clustered on Factor 4 were Items 8–11, which assess
+sexual arousal to interacting with other people as a woman; as a
+
+result, Factor 4 was labeled interpersonal autogynephilia. Finally,
+Factor 5 contained Items 20–22, which assess sexual arousal to
+behaving like a woman, and Item 17, which assesses sexual
+arousal to urinating while seated like a woman. Although Item 17
+was written to capture physiologic autogynephilia, its wording
+may have led to overlap with behavioral autogynephilia, with
+participants conceivably imagining that they are sitting like a
+woman and in the women’s bathroom (two behavioral aspects of
+being a woman that are already tapped by Items 20 and 21) in
+addition to urinating like one. Thus, based on the content of all
+four items that loaded onto it, Factor 5 was labeled behavioral
+autogynephilia. The five group factors, each of which was saturated with a general factor, accounted for 33, 22, 12, 14, and 16 %
+of the total variance, respectively. Table 1 shows the factor
+loadings for each item on the five group factors before accounting
+for a general factor.
+Next, we examined the extent to which a general factor
+accounted for the total variance among the 22 items. This analysis
+was both conceptually and psychometrically motivated. Conceptually, it seemed likely that correlations among the five group
+factors were due to an overall tendency for some men to be more
+autogynephilic than others. Psychometrically, because the five
+factors were allowed to correlate, a higher order or general factor
+necessarily accounted for their correlations. Because each of the
+22 items assesses some aspect of autogynephilic arousal, their
+sum is assumed to reflect a general factor of autogynephilia in the
+broadest sense. Omega hierarchical is an estimate of the proportion of total variance in a scale that is explained by a general factor
+or, in other words, the ratio of the sum of correlations associated
+with a general factor to the sum of all correlations (McDonald,
+1999; Revelle & Zinbarg, 2009; Zinbarg, Yovel, Revelle, &
+McDonald,2006).Thetotal variancecanbe conceptualizedasthe
+square of all possible correlations between scores on items and a
+general factor (i.e., factor loadings for each item on a general
+factor), scores on items and factors common to some but not all of
+the items (i.e., factor loadings for each item on each of the five
+group factors), scores on items and specific factors that are unique
+to each of them, and random error. Thus, omega hierarchical is the
+percentage of variance among the square of all of these possible
+correlations that is attributable only to a general factor.
+Omega hierarchical for all 22 autogynephilia items was
+calculated by subjecting the correlations among the five factors
+previously obtained to a second, exploratory factor analysis that
+extracted asingle, higherorder factorofautogynephilia. General
+factor loadings for items were found by taking the product of
+their factor loadings on each of the five group factors with the
+factor loadings for those five group factors on the general factor.
+The squared sum of the factor loadings for items on the general
+factor divided by the total variance provided omega hierarchical, which was .67; this suggests that the basic construct of
+autogynephilia underlies all of the items. Omega total, which
+estimates the amount of variance attributable to a general factor
+as well as lower order group factors such as the five initially
+
+123
+
+Arch Sex Behav
+Table 1 Factor loadings for the 22 autogynephilia items on the five group factors and the general factor
+Items
+
+Factor 1
+
+Factor 2
+
+Factor 3
+
+Factor 4
+
+2. Having a nude female body
+
+.91
+
+-.13
+
+.07
+
+-.06
+
+.07
+
+.48
+
+3. Having a woman’s breasts
+
+.84
+
+.12
+
+.06
+
+-.08
+
+-.05
+
+.50
+
+1. Being a woman
+
+.82
+
+-.17
+
+-.05
+
+.10
+
+.18
+
+.52
+
+6. Having a vagina/vulva
+
+.77
+
+-.09
+
+.14
+
+-.01
+
+.10
+
+.50
+
+4. Having a woman’s buttocks
+
+.76
+
+.30
+
+.02
+
+.06
+
+-.14
+
+.55
+
+5. Having a woman’s legs
+
+.72
+
+.27
+
+-.04
+
+.13
+
+-.07
+
+.56
+
+7. Having a woman’s face
+
+.65
+
+.16
+
+-.03
+
+.17
+
+.03
+
+.55
+
+13. Wearing makeup, perfume, etc.
+
+.03
+
+.91
+
+.05
+
+.02
+
+.01
+
+.60
+
+14. Wearing a dress and high heels
+
+.05
+
+.88
+
+-.01
+
+.00
+
+.07
+
+.58
+
+.19
+
+.76
+
+-.02
+
+.00
+
+.09
+
+.60
+
+-.13
+.06
+
+.56
+-.09
+
+.17
+.86
+
+.09
+.03
+
+.31
+.01
+
+.60
+.40
+
+12. Wearing women’s underwear
+19. Getting hair done at salon
+18. Being pregnant
+
+Factor 5
+
+General factor
+
+15. Lactating and/or breastfeeding
+
+.03
+
+.08
+
+.85
+
+.05
+
+-.08
+
+.42
+
+16. Menstruating/using tampons
+
+-.02
+
+.09
+
+.64
+
+.03
+
+.26
+
+.53
+
+11. Having a man take me out
+
+-.08
+
+.09
+
+.06
+
+.82
+
+.00
+
+.48
+
+10. Having sex with man as woman
+
+.10
+
+-.23
+
+.12
+
+.76
+
+-.06
+
+.34
+
+8. Being admired as a woman
+
+.21
+
+.12
+
+-.20
+
+.53
+
+.22
+
+.53
+
+9. Being mistaken as a woman
+
+-.11
+
+.37
+
+.06
+
+.40
+
+.13
+
+.49
+
+20. Going to women’s bathroom
+
+.09
+
+.02
+
+.07
+
+-.01
+
+.77
+
+.62
+
+21. Sitting in a feminine way
+
+.03
+
+.36
+
+.04
+
+.11
+
+.61
+
+.73
+
+22. Speaking with a female voice
+
+.17
+
+.16
+
+.01
+
+.26
+
+.49
+
+.67
+
+17. Urinating seated like a woman
+
+.09
+
+.06
+
+.36
+
+-.07
+
+.47
+
+.54
+
+Factor loadings (greater than .40) for items that clustered on a particular group factor are indicated in bold
+
+extracted from the autogynephilia items, was calculated by
+adding the squared sum of the factor loadings for items on the
+general factor to the squared sum of the factor loadings for items
+on each of the five group factors after partialing out the variance
+already explained by the former. Identical to the percentage of
+total variance previously obtained in the first oblique factor
+analysis, omega total was .97. The difference between .97 and
+.67, .30, represents the contribution of the five group factors to
+the total variance over and above the general factor. Although
+less than the variance attributable to the general factor, the
+contribution of the five group factors was not trivial. Table 1
+shows the factor loadings for each item on the general factor.
+Internal Consistency Reliabilities
+It is potentially useful to know characteristics of scales and
+subscales associated with the various factors we have considered. A scale constructed by adding all 22 of the assembled
+autogynephilia items, which we label the General Autogynephilia Scale (GAS; not to be confused with the Core Autogynephilia Scale), yielded an alpha of .93, which was somewhat
+higher compared with Blanchard’s (1989b) scale at an alpha of
+.83. Scores on the GAS were calculated by taking the average
+reported degree of sexual arousal on all 22 items. Five subscales
+representing thefive group factors were alsoconstructed, each of
+
+123
+
+which comprised the items that clustered on its respective factor.
+Similar to those on the total scale, scores on the five subscales
+were calculated by taking the mean of the constituent items.
+Internal consistency reliabilities for these subscales were generally good, with each exceeding .78. Reliabilities are shown in
+Table 2.
+Construct Validity
+The descriptive statistics and effect sizes for the GAS, its five
+subscales,andtheCoreAutogynephiliaScale(Blanchard, 1989b)
+are shown in Table 2. On both the GAS and the Core Autogynephilia Scale, autogynephilic participants scored much higher
+compared with heterosexual male controls. These differences
+support the basic construct validity of the two measures of autogynephilia. Furthermore, the GAS significantly distinguished
+those with autogynephilia from those without it, although Blanchard’s scale produced a slightly higher value of Cohen’s d: 3.75
+versus 3.33.
+We examined whether both scales provided unique information in the prediction of autogynephilia using multiple
+logistic regression. First, we standardized both scales, in order to
+make the coefficients in the logistic regression comparable. We
+then regressed the dichotomous‘‘sample’’variable (i.e., whether
+a participant was a member of the autogynephilic sample or the
+
+Arch Sex Behav
+Table 2 Descriptive data, effect sizes, and reliability for the total scale, five subscales, and the Core Autogynephilia Scale
+Scale/subscale (number of items)
+
+Autogynephilic men
+
+Heterosexual male controls
+
+M
+
+M
+
+SD
+
+Cohen’s d
+
+Cronbach’s alpha
+
+SD
+
+General Autogynephilia Scale (22)
+
+3.32
+
+0.89
+
+1.16
+
+0.38
+
+3.33
+
+.93
+
+1: Anatomic Autogynephilia (7)
+
+4.20
+
+0.97
+
+1.31
+
+0.73
+
+3.43
+
+.94
+
+2: Transvestic Autogynephilia (4)
+
+3.17
+
+1.34
+
+1.08
+
+0.31
+
+2.30
+
+.92
+
+3: Physiologic Autogynephilia (3)
+
+2.47
+
+1.31
+
+1.05
+
+0.26
+
+1.62
+
+.86
+
+4: Interpersonal Autogynephilia (4)
+
+3.12
+
+1.15
+
+1.13
+
+0.38
+
+2.47
+
+.78
+
+5: Behavioral Autogynephilia (4)
+
+2.78
+
+1.22
+
+1.11
+
+0.32
+
+2.00
+
+.86
+
+Core Autogynephilia Scale (8; Blanchard, 1989b)
+
+7.00
+
+1.73
+
+0.56
+
+1.70
+
+3.75
+
+.83
+
+The absolute range for the General Autogynephilia Scale and its five subscales was 1–5. The absolute range for the Core Autogynephilia Scale was 0–8
+All effect sizes were significant at p\.0001
+
+control sample) on both standardized scale scores. Both the GAS
+(adjusted odds ratio [AOR] = 16.89, p\.0001) and the Core
+Autogynephilia Scale (AOR = 4.55, p\.0005) were significantly associated with participants’ being a member of the
+autogynephilic sample, controlling for the other scale. Thus, the
+GAS and the Core Autogynephilia Scale appeared to measure
+autogynephilia in significantly different ways, although there
+remained large overlap. The GAS and the Core Autogynephilia
+Scale produced logit R2 values of .74 and .71, respectively, when
+predicting sample group by themselves, and logit R2 increased
+only to .78 when both measures were included as predictors.
+The mean differences between autogynephilic participants
+and heterosexual male controls on the five subscales were also
+large, but the effect sizes were generally smaller than were those
+for the GAS and the Core Autogynephilia Scale.
+
+Convergent Validity
+Table 3 shows the correlations among the GAS, its five subscales, and the Core Autogynephilia Scale (Blanchard, 1989b)
+among autogynephilic participants. The GAS and the Core
+Autogynephilia Scale were moderately correlated, r(148) =
+.52, p\.0001. However, overall scores on the GAS were normally distributed while those on the Core Autogynephilia Scale
+were highly negatively skewed. This difference is likely due to
+the difference in item response format, with the dichotomously
+answered items on Blanchard’s scale leading to greater skewness. When including the heterosexual male controls, the GAS
+was significantly and positively correlated with the Core
+Autogynephilia Scale at a much greater magnitude, r(260) =
+.86, p\.0001. Thus, the GAS was very closely related to the
+Core Autogynephilia Scale only when it was used to measure
+whether or not one had autogynephilia. As noted earlier, however, when controlling for the effect of the other, these two
+measures were both unique predictors of whether a participant
+was from the autogynephilic or the control sample.
+
+The subscales of the GAS, the total scale, and the Core
+Autogynephilia Scale were moderately to highly correlated
+(r = .31–.79) among autogynephilic participants, with the exception of the small correlation between the Physiologic Autogynephilia subscale and Blanchard’s scale (r = .19). Again, when
+heterosexual male controls were included in these analyses, correlations were much larger, because all the measures were very
+good indicators of whether one had autogynephilia.
+Concurrent Validity of Individual Subscales
+We examined the extent to which the individual subscales predicted several relevant variables among autogynephilic participants. We thus conducted a series of simultaneous multiple
+regression analyses, with the five subscales of the GAS as predictors and the variables of interest as dependent variables. In a
+simultaneous multiple regression, each partial regression coefficient in the solution controls simultaneously for all other effects
+and so both the coefficients and their significance tests reference
+the unique contribution of the relevant predictor. Before regression analyses were conducted, the variance inflation factor (VIF)
+of each subscale was calculated in order to ensure that multicollinearity among them was not a problem. The VIF of the five
+subscales ranged from 1.53 to 2.59, suggesting that each subscale
+contains sufficiently unique information that is over and above
+the information provided by the others.
+Table 4 shows the descriptive statistics and effect sizes for the
+various measures being predicted. With the exception of the
+number of lifetime female sexual partners, scores on all of these
+measures were expected to be and indeed were significantly
+higher among autogynephilic participants than were among
+heterosexual male controls. Zero-order correlations between the
+five subscales and these measures are shown in Table 5. The
+analogous partial regression coefficients are shown in Table 6.
+First, controlling for the effects of the other subscales, only
+scores on the Anatomic Autogynephilia subscale significantly
+predicted scores on the Core Autogynephilia Scale, b = .68,
+
+123
+
+Arch Sex Behav
+Table 3 Correlations among the total scale, five subscales, and the Core Autogynephilia Scale
+Scale/subscale
+
+GAS
+
+Anatomic
+
+Transvestic
+
+Physiol.
+
+Interpers.
+
+Behavioral
+
+CAS
+.52
+
+General Autogynephilia Scale
+
+–
+
+.79
+
+.79
+
+.63
+
+.72
+
+.85
+
+1: Anatomic Autogynephilia
+
+.94
+
+–
+
+.48
+
+.36
+
+.44
+
+.54
+
+.67
+
+2: Transvestic Autogynephilia
+
+.89
+
+.77
+
+–
+
+.32
+
+.48
+
+.67
+
+.31
+
+3: Physiologic Autogynephilia
+
+.76
+
+.63
+
+.59
+
+–
+
+.33
+
+.54
+
+.19
+
+4: Interpersonal Autogynephilia
+
+.89
+
+.79
+
+.76
+
+.61
+
+–
+
+.53
+
+.35
+
+5: Behavioral Autogynephilia
+
+.90
+
+.76
+
+.83
+
+.70
+
+.76
+
+–
+
+.35
+
+Core Autogynephilia Scale (Blanchard, 1989b)
+
+.86
+
+.92
+
+.71
+
+.57
+
+.75
+
+.68
+
+–
+
+Values above the diagonal are correlations only among autogynephilic men (n = 149). Values below the diagonal are correlations among all participants,
+including the heterosexual male controls (n = 261)
+All correlations were significant at p\.0001 except that between Physiologic Autogynephilia and the Core Autogynephilia Scale above the diagonal,
+which was significant at p\.05
+Table 4 Descriptive data, effect sizes, and reliability for other measures of interest
+Measure
+
+Autogynephilic men
+
+Heterosexual male controls
+
+Cohen’s d
+
+Cronbach’s alpha
+
+M
+
+SD
+
+M
+
+Male sexual partners
+
+2.00
+
+10.92
+
+0.13
+
+0.97
+
+0.26*
+
+–
+
+Female sexual partners
+
+5.56
+
+17.98
+
+14.05
+
+24.23
+
+-0.39**
+
+–
+
+Paraphilic Interests Scale
+
+1.22
+
+1.54
+
+0.90
+
+1.28
+
+0.22*
+
+Fetishism
+
+2.06
+
+1.29
+
+1.51
+
+0.84
+
+0.52***
+
+–
+
+Sexual masochism
+
+1.46
+
+0.81
+
+1.25
+
+0.50
+
+0.33*
+
+–
+
+Transvestic fetishism
+
+3.21
+
+1.41
+
+1.13
+
+0.51
+
+2.08***
+
+–
+
+GIDYQ-AA
+
+2.25
+
+0.82
+
+1.14
+
+0.34
+
+1.86***
+
+Pure Gender Dysphoria Scale
+
+5.36
+
+2.53
+
+0.32
+
+0.81
+
+2.85***
+
+Cross-dressing frequency, past year
+Cross-dressing frequency, year cross-dressed most
+
+2.48
+3.63
+
+1.99
+2.26
+
+1.00
+1.00
+
+0.00
+0.00
+
+1.14***
+1.78***
+
+SD
+
+.68
+
+.96
+.77
+–
+–
+
+Starting with the Paraphilic Interests Scale, the absolute range for the measures, from top to bottom, was 0–11, 1–5, 1–5, 1–5, 1–5, 0–9, 1–7, and 1–7
+All tests of effect size were one-tailed in the direction of autogynephilic men, with the exception of that for female sexual partners, which was not
+informed by any a priori hypothesis and thus two-tailed. Also note that heterosexual male controls were recruited on the basis of reporting having never
+cross-dressed, and so their means and standard deviations for cross-dressing frequencies are fixed
+* p\.05, ** p\.005, *** p\.0001
+
+p\.0001, which was consistent with the fact that this subscale
+comprised items adapted from the Core Autogynephilia Scale.
+Next, we predicted lifetime male sexual partners. Blanchard
+(1989b) previously reported bisexual behavior and identity
+among autogynephilic men that reflect their additional sexual
+arousal at the idea of having sex with men as a woman rather than
+genuine attraction to male bodies in addition to female bodies.
+Consistent with Blanchard’s earlier reports, which relied on
+anecdotes as well as his Autogynephilic Interpersonal Fantasy
+scale, only scores on the Interpersonal Autogynephilia subscale
+significantly predicted the number of male sexual partners after
+accounting for the effects of the other subscales, b = .36, p\
+.0005. Blanchard’s reports were also supported by our finding
+that the Interpersonal Autogynephilia subscale was significantly
+associated with sexual identity (specifically, identifying as nonheterosexual) over and above the other subscales, b = .35,
+p\.0005.
+
+123
+
+We then predicted paraphilic interests using the Paraphilic
+Interests Scale. Controlling for the effects of the other subscales,
+only scores on the Physiologic Autogynephilia (b = –.32, p\
+.0005) and Behavioral Autogynephilia (b = .39, p\.005) subscales significantly predicted scores on the Paraphilic Interests
+Scale. Three of the paraphilic interests that are included in the
+Paraphilic Interests Scale have been theoretically linked to
+autogynephilia: fetishism (Freund, Seto, & Kuban, 1996), sexual
+masochism (Blanchard, 1993b; Lawrence, 2006), and transvestic
+fetishism, which is identical to transvestic autogynephilia. Scores
+on the individual items for fetishism and transvestic fetishism as
+well as the average of the two sexual masochism items were
+separatelyregressed onto scoreson thefivesubscales.Transvestic
+Autogynephilia was the sole significant predictor of fetishism
+after accounting for the other subscales, b = .37, p\.005. It was
+similarly the sole significant predictor of transvestic fetishism,
+b = .63, p\.0001, which was unsurprising because they are
+
+Arch Sex Behav
+Table 5 Zero-order correlations between the five GAS subscales and other measures of interest
+Measure
+
+GAS
+
+Anatomic
+
+Transvestic
+
+Physiol.
+
+Interpers.
+
+Behavioral
+
+Male sexual partners
+
+-.02
+
+-.09
+
+-.02
+
+-.13
+
+.21*
+
+-.02
+
+Sexual identity
+
+-.01
+
+-.15
+
+.01
+
+-.04
+
+.20*
+
+-.02
+
+.32***
+
+-.07
+
+.25**
+
+Paraphilic Interests Scale
+
+.24**
+
+.07
+
+.32***
+
+Fetishism
+
+.18*
+
+.04
+
+.31***
+
+.02
+
+.14
+
+.17*
+
+Sexual masochism
+
+.08
+
+-.07
+
+.17*
+
+-.08
+
+.21*
+
+.10
+
+Transvestic fetishism
+
+.41***
+
+.19*
+
+.60***
+
+.10
+
+.27**
+
+.40***
+
+GIDYQ-AA
+
+.37***
+
+.08
+
+.28**
+
+.36***
+
+.51***
+
+.29**
+
+Pure Gender Dysphoria Scale
+
+.32***
+
+.13
+
+.18*
+
+.39***
+
+.41***
+
+.22*
+
+Cross-dressing frequency, past year
+
+.12
+
+-.09
+
+.24**
+
+.04
+
+.20*
+
+.12
+
+Cross-dressing frequency, year cross-dressed most
+
+.20*
+
+-.05
+
+.30**
+
+.15
+
+.26**
+
+.17*
+
+Transvestic
+
+Physiol.
+
+Interpers.
+
+Behavioral
+
+* p\.05, ** p\.005, *** p\.0001
+Table 6 Partial regression coefficients of the five GAS subscales predicting other measures of interest
+Measure
+
+Model
+
+Anatomic
+
+Core Autogynephilia Scale
+
+.68***
+
+-.04
+
+-.08
+
+.09
+
+.01
+
+Male sexual partners
+
+.33**
+
+-.15
+
+.68***
+
+-.07
+
+-.18
+
+.36**
+
+.01
+
+Sexual identity
+
+.34**
+
+-.27*
+
+.03
+
+-.03
+
+.35**
+
+-.06
+
+Paraphilic Interests Scale
+Fetishism
+
+.48***
+.34**
+
+-.17
+-.13
+
+.18
+.37**
+
+-.32**
+-.07
+
+.14
+.04
+
+.39**
+.01
+
+Sexual masochism
+
+.35**
+
+-.25*
+
+.16
+
+-.17
+
+.25*
+
+.08
+
+Transvestic fetishism
+
+.62***
+
+-.13
+
+.63***
+
+-.10
+
+.01
+
+.09
+
+GIDYQ-AA
+
+.60***
+
+-.27**
+
+.13
+
+.29**
+
+.52***
+
+-.09
+
+Pure Gender Dysphoria Scale
+
+.51***
+
+-.11
+
+.02
+
+.37***
+
+.40***
+
+-.14
+
+Cross-dressing frequency, past year
+
+.37**
+
+-.32**
+
+.30*
+
+.01
+
+.21*
+
+-.03
+
+Cross-dressing frequency, year cross-dressed most
+
+.44***
+
+-.33**
+
+.36**
+
+.13
+
+.24*
+
+-.09
+2
+
+All partial regression coefficients are standardized beta weights except for those under‘‘Model,’’which are the square roots of R , or multiple R
+* p\.05, ** p\.005, *** p\.0001
+
+identical concepts. Sexual masochism was predicted significantly
+by Anatomic Autogynephilia (b = –.25, p\.05) and Interpersonal Autogynephilia (b = .25, p\.05) over and above the other
+subscales.
+Blanchard (1993a, b) previously suggested that anatomic
+autogynephilia is predictive of gender dysphoria and this association was demonstrated using self-report measures. Controlling for the effects of the other subscales, we found that our
+Physiologic Autogynephilia and Interpersonal Autogynephilia
+subscales were significantly associated with both measures of
+gender dysphoria, the GIDYQ-AA (b = .29, p\.0005 and b =
+.52, p\.0001) and the Pure Gender Dysphoria Scale (b = .37,
+p\.0001 and b = .40, p\.0001). However, the Anatomic
+Autogynephilia subscale significantly predicted the GIDYQAA in a negative direction over and above the other subscales,
+b = –.27, p\.005, which was contrary to Blanchard’s findings.
+Finally, Transvestic Autogynephilia significantly predicted
+whether participants with autogynephilia cross-dressed more
+frequently, which was an intuitive finding. In addition, Interpersonal Autogynephilia was significantly and positively
+
+related to cross-dressing frequency, while Anatomic Autogynephilia was significantly negatively associated with it.
+
+Discussion
+Blanchard (1991) reported four manifestations (or types, as he
+called them) of autogynephilia: physiologic autogynephilia,
+behavioral autogynephilia, anatomic autogynephilia, and transvestic autogynephilia. Because autogynephilic interpersonal
+fantasy has been predictive of bisexual behavior and identity
+among autogynephilic men (Blanchard, 1989b), we also proposed interpersonal autogynephilia as a fifth type that is conceptually distinct from the other four types. We first examined
+the psychometric structure of 22 items assessing these five types
+of autogynephilia by subjecting them to exploratory factor
+analysis. Results of oblique factor analyses supported the ability
+to distinguish five group factors with suitable items. Results of
+hierarchical factor analyses suggest that the five group factors
+were strongly underlain by a general factor of autogynephilia.
+
+123
+
+Arch Sex Behav
+
+The finding that a general factor of autogynephilia underlies
+the five types among the sample of autogynephilic men was not
+predestined to be true. For example, autogynephilic men may
+engage in or be invested in behaviors or fantasies of one type of
+autogynephilia at the expense of those of other types. In contrast, the general factor accounted for a much greater amount of
+the total variance of the 22 items than did the group factors,
+suggesting that there is an overall tendency for some men to be
+more autogynephilic than others. Indeed, scores on the GAS, a
+measure we constructed by adding all 22 items, were normally
+distributed. From these results, it appears that the types of
+autogynephilia that a man has are less important than the
+degree to which he has autogynephilia.
+However, the five types of autogynephilia remain conceptually useful because meaningful distinctions were found among
+them. First, the exploratory factor analysis found sufficient basis
+for extracting five factors from the 22 items. Second, the five
+subscales that correspond to these factors were only moderately
+correlated, with the highest correlation being 0.67 between the
+Transvestic Autogynephilia and Behavioral Autogynephilia subscales. Third, the items and subscales that assess the five types of
+autogynephilia showed differential rates of endorsement. Finally,
+thefivesubscalesdifferedintheirabilitytopredictcertainrelevant
+variables among autogynephilic participants.
+Anatomic and transvestic autogynephilia were more common than interpersonal, behavioral, or physiologic autogynephilia. Thus, autogynephilic men are more often aroused by the
+idea of having a woman’s body parts or cross-dressing. Additional factors may be required to make them desire romantic and
+sexual interaction with men as a woman. Similarly, the sexual
+desire to behave like a woman may emerge only with more
+extreme autogynephilia. Physiologic autogynephilia may also
+require some preexisting sexual interest in lactation, breastfeeding, or menstruation. Specifically, consistent with autogynephilia as a kind of erotic target location error, an autogynephilic man may need to be sexually interested in women who
+lactate, breastfeed, or menstruate in order to then be sexually
+interested in being a woman performing such acts. In line with
+the idea that they require something additional on the part of an
+autogynephilic man, interpersonal, behavioral, and physiologic
+autogynephilia tended to be endorsed only when anatomic or
+transvestic autogynephilia was endorsed whereas anatomic and
+transvestic autogynephilia tended to be endorsed whether or not
+the other three types of autogynephilia were. Indeed, it may be
+that interpersonal, behavioral, and physiologic autogynephilia
+are experienced only by men with more intense autogynephilia,
+while anatomic and transvestic autogynephilia are common
+among all men with autogynephilia.
+Multiple regression analyses used to test the concurrent
+validity of individual subscales yielded several findings supporting conceptual distinctions among the five types of autogynephilia. On the one hand, several of these findings were
+consistent with the previous literature on autogynephilia. For
+
+123
+
+instance, the Interpersonal Autogynephilia subscale predicted
+greater lifetime male sexual partners and a non-heterosexual
+identity among autogynephilic participants over and above
+subscales for the other four types of autogynephilia. This
+finding was consistent with Blanchard’s (1989b) notion that
+sex with and self-reported attraction to men among autogynephilic men are motivated by an autogynephilic desire to have
+sex with and be attracted to men as a woman rather than a
+genuine attraction to male bodies. In addition, the Transvestic
+Autogynephilia subscale predicted fetishism over and above
+the other subscales, suggesting that the transvestic type of
+autogynephilia has a unique relation to this paraphilic interest.
+This finding was consistent with Freund et al.’s (1996) finding
+that men with transvestic fetishism (or transvestic autogynephilia) were not distinct from men with fetishism proper in their
+self-reported fetishistic interest, childhood and family histories, and genital arousal to fetishistic stimuli (e.g., shoes,
+underwear). Indeed, transvestic autogynephilia may include a
+fetishistic aspect, in that erotic cross-dressing involves contact
+with women’s clothing not unlike the contact that is arousing to
+men with fetishism. Future research might clarify the extent to
+which fetishism is an aspect of transvestic autogynephilia.
+On the other hand, several other findings were unexpected and
+difficult to explain. For example, increased physiologic autogynephilia predicted fewer paraphilic interests among autogynephilic participants over and above the other four types. This
+finding was counterintuitive because paraphilic interests tend to
+co-occur in men (Krueger & Kaplan, 2001) and physiologic
+autogynephilia involves paraphilic interests such as lactation,
+menstruation, and pregnancy that are beyond that of autogynephilia proper. Furthermore, increased scores on the Behavioral
+Autogynephilia subscale predicted a greater number of paraphilic interests among autogynephilic participants, controlling
+for the other subscales. However, upon closer inspection, only
+Item 20 of this subscale was a significant predictor of paraphilic
+interests when controlling for the other three items (17, 21, and
+22). Item 20 assesses sexual arousal to the idea of going to the
+women’s bathroom or locker room in public; this might reflect
+voyeurism, exhibitionism, or frotteurism in addition to behavioral autogynephilia. Five of the 11 items in the Paraphilic
+Interests Scale assess voyeurism, exhibitionism, or frotteurism,
+which might explain this otherwise unexpected finding. In
+addition, gender dysphoria, as measured by the GIDYQ-AA
+(Deogracias et al., 2007), was negatively predicted by the Anatomic Autogynephilia subscale over and above the other subscales. This finding was unexpected because anatomic autogynephilia has previously predicted gender dysphoria (Blanchard,
+1993a, b). However, scores on the GIDYQ-AA in the present
+sample of autogynephilic men were not as high as they typically
+are in clinical samples presenting with gender dysphoria like those
+used in Blanchard’s studies. In general, the tendency for scores on
+the five subscales to be skewed either positively or negatively may
+haveaffectedourresults.Morespecifically,scoresontheanatomic
+
+Arch Sex Behav
+
+type of autogynephilia were highly negatively skewed, which
+suggests that it might be universal or essential among autogynephilic men. Indeed, Blanchard (1989b) called his scale that measures anatomic autogynephilia, the‘‘Core Autogynephilia Scale.’’
+Thus, it may be necessary to assess anatomic autogynephilia relative to other types of autogynephilia in order to generate more
+meaningful conclusions. For instance, Blanchard (1993b) asked
+participants whether they were most aroused by the image of
+themselves as a nude woman, partially clothed woman, or fully
+clothed woman.
+Our intention was to explore the psychometric structure of
+items assessing autogynephilia rather than to develop a new
+measure with them. Nevertheless, it is potentially useful to
+compare the GAS with Blanchard’s (1989b) Core Autogynephilia Scale. The two measures differed in the number of items
+(22 versus 8, respectively) and in their response scales (5-point
+versus dichotomous, respectively). Not surprisingly, given
+these differences, the GAS had greater internal consistency
+reliability and was more normally distributed among the
+sample of autogynephilic men. However, Blanchard’s scale
+produced a larger mean difference between autogynephilic
+participants and heterosexual male controls, although both
+scales were very good at distinguishing those with and without
+autogynephilia. We had been concerned that the dichotomous
+scoring used in the Core Autogynephilia Scale might inflate
+scores of non-autogynephilic controls, but the results suggest
+that it did not inflate them much. Moreover, Blanchard’s scale
+was slightly superior to the GAS in differentiating autogynephilic participants from heterosexual male controls using one
+conventional effect size measure (Cohen’s d). If one is only
+interested in assessing whether or not a patient or a research
+participant has autogynephilia, then Blanchard’s scale might
+still be preferred. However, a logistic multiple regression
+analysis suggested that our measure was in fact more differentiating. Furthermore, both scales together were slightly
+superior to either alone in predicting whether a participant was
+from the autogynephilic or the control sample.
+We do not deny the potential usefulness of assessing the different types of autogynephilia separately. Factor analytically, the
+general factor accounted for 67 % of the total item variance;
+partialing out the general factor saturation, the five group factors
+accounted for 30 %, which is not negligible. If one is interested in
+studying the different types of autogynephilia separately, one
+must first measure them and our items represented an attempt to
+do so. The potential usefulness of this approach was exemplified
+in our analyses that predicted several relevant variables using all
+five subscales that corresponded to the five types of autogynephilia. Because these analyses were mostly exploratory, replicating them is important. It would be especially useful to replicate
+some of our analyses using samples of autogynephilic men with a
+wider range of scores on measures of the five types of autogynephilia and gender dysphoria.
+
+Acknowledgments We thank William Revelle, Richard E. Zinbarg,
+and Matthew J. Jiang for their statistical help.
+
+Appendix 1
+Items Assessing Autogynephilia (General
+Autogynephilia Scale)
+1
+not at all
+arousing
+
+2
+a little
+arousing
+
+3
+moderately
+arousing
+
+4
+quite
+arousing
+
+5
+very
+arousing
+
+How sexually arousing would you find each of the following activities?
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+
+The thought of being a woman.
+Picturing myself having a nude female body or certain
+features of the nude female form.
+Picturing myself with a woman’s breasts.
+Picturing myself with a woman’s buttocks.
+Picturing myself with a woman’s legs.
+Picturing myself with a vagina/vulva.
+Picturing myself with a woman’s face.
+Picturing myself as a woman being admired by another
+person.
+Having a stranger mistake me for a woman.
+Picturing myself as a woman having sex with a man.
+Having a man take me out for a romantic evening.
+Picturing myself wearing women’s underwear, sleepwear, or foundation garments (for example, a corset).
+Picturing myself with polished nails, makeup, and
+lady’s perfume.
+Picturing myself wearing a beautiful dress and highheeled shoes.
+Picturing myself lactating and/or breastfeeding.
+Picturing myself menstruating and using tampons.
+Picturing myself urinating while seated like a woman.
+Picturing myself being pregnant.
+Picturing myself getting my hair done at a lady’s salon.
+Going to the women’s bathroom or locker room in
+public.
+Sitting in a feminine way.
+Speaking with a high-pitched, clear female voice.
+
+Appendix 2
+Paraphilic Interests Scale
+1
+not at all
+arousing
+
+2
+a little
+arousing
+
+3
+somewhat
+arousing
+
+4
+quite
+arousing
+
+5
+extremely
+arousing
+
+How sexually arousing do you find each of the following?
+1.
+2.
+
+Exposing my genitals to an attractive stranger.
+Performing sex acts while strangers watched.
+
+123
+
+Arch Sex Behav
+
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+
+Some nonhuman objects like shoes, rubber, latex, clothing,
+strap-ons, etc.
+Looking through a bedroom window at an unsuspecting
+couple having sex.
+Watching an unsuspecting person getting undressed
+and taking a shower.
+Touching or rubbing against a stranger.
+Being insulted or humiliated by my sexual partner.
+Being physically hurt by my sexual partner.
+Insulting or humiliating my sexual partner.
+Physically hurting my sexual partner.
+Wearing women’s clothing like panties, lingerie, skirts,
+dresses, etc.
+
+References
+American Psychiatric Association. (2000). Diagnostic and statistical
+manual of mental disorders (4th ed., text rev.). Washington, DC:
+Author.
+Beauchaine, T. P. (2007). A brief taxometrics primer. Journal of Clinical
+Child and Adolescent Psychology, 36, 654–676.
+Blanchard, R. (1989a). The classification and labeling of nonhomosexual gender dysphorias. Archives of Sexual Behavior, 18, 315–334.
+Blanchard, R. (1989b). The concept of autogynephilia and the typology
+of male gender dysphoria. Journal of Nervous and Mental Disease,
+177, 616–623.
+Blanchard, R. (1991). Clinical observations and systematic studies of
+autogynephilia. Journal of Sex and Marital Therapy, 17, 235–251.
+Blanchard, R. (1992). Nonmonotonic relation of autogynephilia and heterosexual attraction. Journal of Abnormal Psychology, 101, 271–276.
+Blanchard, R. (1993a). Partial versus complete autogynephilia and gender
+dysphoria. Journal of Sex and Marital Therapy, 19, 301–307.
+Blanchard, R. (1993b). Varieties of autogynephilia and their relationship to
+gender dysphoria. Archives of Sexual Behavior, 22, 241–251.
+
+123
+
+Briggs, N. E., & MacCallum, R. C. (2003). Recovery of weak common
+factors by maximum likelihood and ordinary least squares estimation.
+Multivariate Behavioral Research, 38, 25–56.
+Buhrmester, M., Kwang, T., & Gosling, S. D. (2011). Amazon’s Mechanical
+Turk: A new source of inexpensive, yet high-quality, data? Perspectives
+on Psychological Science, 6, 3–5.
+Deogracias, J. J., Johnson, L. L., Meyer-Bahlburg, H. F. L., Kessler, S. J.,
+Schober, J. M., & Zucker, K. J. (2007). The Gender Identity/Gender
+Dysphoria Questionnaire for Adolescents and Adults. Journal of Sex
+Research, 44, 370–379.
+Freund, K., & Blanchard, R. (1993). Erotic target location errors in male
+gender dysphorics, paedophiles, and fetishists. British Journal of
+Psychiatry, 162, 558–563.
+Freund, K., Seto, M. C., & Kuban, M. (1996). Two types of fetishism.
+Behaviour Research and Therapy, 34, 687–694.
+Goodman, J. K., Cryder, C. E., & Cheema, A. (2013). Data collection in a
+flat world: The strengths and weaknesses of Mechanical Turk samples.
+Journal of Behavioral Decision Making, 26, 213–224.
+Krueger, R. B., & Kaplan, M. S. (2001). The paraphilic and hypersexual
+disorders: An overview. Journal of Psychiatric Practice, 7, 391–403.
+Lawrence, A. A. (2006). Clinical and theoretical parallels between desire
+for limb amputation and gender identity disorder. Archives of Sexual
+Behavior, 35, 263–278.
+Lawrence, A. A. (2009). Erotic target location errors: An underappreciated
+paraphilic dimension. Journal of Sex Research, 46, 194–215.
+Lawrence, A. A. (2013). Men trapped in men’s bodies: Narratives of
+autogynephilic transsexualism. New York: Springer.
+McDonald, R. P. (1999). Test theory: A unified treatment. Mahwah, NJ:
+Lawrence Erlbaum.
+Paolacci, G., Chandler, J., & Ipeirotis, P. G. (2010). Running experiments
+on Amazon Mechanical Turk. Judgment and Decision Making, 5,
+411–419.
+Revelle, W., & Zinbarg, R. E. (2009). Coefficients alpha, beta, omega, and
+the glb: Comments on Sijtsma. Psychometrika, 74, 145–154.
+Zinbarg, R. E., Yovel, I., Revelle, W., & McDonald, R. P. (2006). Estimating
+generalizability to a latent variable common to all of a scale’s indicators:
+A comparison of estimators for xh. Applied Psychological Measurement, 30, 121–144.
+
+

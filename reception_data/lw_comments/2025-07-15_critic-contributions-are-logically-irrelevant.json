@@ -1,0 +1,929 @@
+{
+ "post": {
+  "_id": "bsKHthyhB7DNBxERQ",
+  "title": "Critic Contributions Are Logically Irrelevant",
+  "postedAt": "2025-07-15T01:03:54.616Z",
+  "pageUrl": "https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant",
+  "commentCount": 74
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "XTXc6RxTy22QwDmAu",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T01:50:25.454Z",
+   "baseScore": 17,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "A critique in a high-ambiguity context is almost always (in all but the most technical domains where individual claims can be cheaply verified) a request to engage in a prolonged exchange, whose quality will be highly dependent on the quality and intelligence and reasonableness of the interlocutor.\u00a0\n\nCritique is often disproportionally easy, and additionally beyond that, because it tends to have a low correct-positive rate, difficult to evaluate. Generation is often disproportionally hard and, as long as its in a domain in which overall performance can be measured, relatively easy to verify[^y3ra9ksgfcs].\u00a0\n\nThis means that if you want to create an environment in which people have lots of evidence that the other people they are interfacing are high-quality contributors and worth engaging with, it helps a lot if you have a general expectation that the people who make those bids are generally expected to have done generative work themselves. Or more broadly, seeing that someone has done some good generative work is a lot of evidence they will be worth engaging with. Seeing that someone has done a medium amount of maybe-good-maybe-bad critique is not that much evidence they are worth engaging with.\u00a0\n\nPeople leaving bad comments really is actually a major reason why most of the internet is bad. It appears your theory doesn't really admit for a comment to be bad, which I think makes it inapplicable to most of the internet.\n\nThis is true independently of whether people are biased against people who critique them.\n\n(I don't particularly expect I will want to engage much further on this, though I generally enjoy moderation discussion, as I don't really expect to hit your real cruxes here, and also broadly feel like I've spent my fair share of moderation discussion time with you)\n\n[^y3ra9ksgfcs]: This is not universally true in all domains, and figuring out where it's true is I think also a non-terrible guide to when you can build high-trust groups with critique-dominated work. Computer security is one such example domain. Stock trading is maybe another, though my sense is in order to actually make good trades you need to both understand what everyone else is right about, and then usually need to also understand what they are wrong about, though I feel like naively just knowing that people are wrong about one thing should be enough to make money off of that, but the few times I've tried it has really been quite difficult to do that."
+   }
+  },
+  {
+   "_id": "JALtznrd5uyWFNEov",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T02:23:59.726Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "Ignoring criticism should be a respectable stance, since it counteracts motivation for suppressing criticism. But bad criticism should be discouraged or made less visible, in the same way as any other low-value contributions/comments.\n\nSo it seems fine to not particularly care about things said to you, any more than if it was said to someone else (or about someone else's work), while at the same time putting a lot of priority on how adequately others are shaping the motivations for how those things would be said. A piece of criticism being highly upvoted is some sort of claim, either about the value of the criticism, or about values of the voters. But it shouldn't be an obligation, or else such claims will increasingly (be influenced to) fail to materialize."
+   }
+  },
+  {
+   "_id": "32FKJHixZuo3pnSJw",
+   "parentCommentId": "XTXc6RxTy22QwDmAu",
+   "postedAt": "2025-07-15T02:40:31.959Z",
+   "baseScore": 11,
+   "user": {
+    "username": "david-johnston",
+    "displayName": "David Johnston"
+   },
+   "contents": {
+    "markdown": "> A critique in a high-ambiguity context is almost always (in all but the most technical domains where individual claims can be cheaply verified) a request to engage in a prolonged exchange\n\nI don't think so, I think critics usually see themselves as pointing out errors in the original and would be quite happy with an \"oops, good pickup\". Extended exchanges happen because authors usually don't agree. Often at least one of the parties is confused/motivated/doing a poor job for some reason, which means long exchanges are often frustrating and people are wary about getting into them. But the critique isn't a request for an exchange.\n\nI'm also a bit confused by this discussion. Is your position actually: you can only judge a critic by their papers or LessWrong posts? This seems odd, can't you judge them by their other critiques? A critique seems much easier to evaluate than a paper."
+   }
+  },
+  {
+   "_id": "xG3ddaSLfbeZHrLmc",
+   "parentCommentId": "XTXc6RxTy22QwDmAu",
+   "postedAt": "2025-07-15T02:45:22.229Z",
+   "baseScore": 13,
+   "user": {
+    "username": "sharmake-farah",
+    "displayName": "Noosphere89"
+   },
+   "contents": {
+    "markdown": "> though I generally enjoy moderation discussion\n\nI'm surprised by this, as I was expecting moderation discussions to generally be a pain point/something that is avoided because it reliably brings up lots of drama that blows up.\n\nOn the rest of the comment, I do agree that Zack doesn't really realize that criticism can both be wrong in an evidential/Bayesian sense, and very importantly costly to evaulate as being wrong, because criticism is disproportinately cheap to generation, and I'd go further than habryka and say that the expectation in a domain you are trying to get in and it's even somewhat tractable, verifying something as correct or not is way easier than generating the thing yourself, such that you need a lot of evidence to prevent both interlocutors from wasting their time (yes, this is related to P vs NP) because they are not perfect Bayesians, and good generative comments (in an evidential sense) are far more costly signals/far more evidence than being a good critic.\n\nThat said, I do think there is an issue when people are expected to write up whole scenarios/posts just so they can criticize one important aspect of something, and that's because it disincentivizes way too much criticism, as now you are asking them to predict far more stuff than is necessary to correctly criticize most arguments.\n\nFor example, you don't need to create a different AI 2027 scenario in order to criticize the fact that there's too many degrees of freedom in choosing a fit to a curve, which Titotal did:\n\nhttps://www.lesswrong.com/posts/PAYfmG2aRbdb74mEp/a-deep-critique-of-ai-2027-s-bad-timeline-models#Six_stories_that_fit_the_data\n\nDaniel Kokotajlo did this here, and while I think his comment was understandable, I don't exactly like this trend of asking people to write their own scenarios/posts just to criticize one aspect of the story, as there are cheaper ways to resolve the issue:\n\nhttps://www.lesswrong.com/posts/zuuQwueBpv9ZCpNuX/vitalik-s-response-to-ai-2027#zLtuWhcyZt8QDRm3P\n\nIn relation to moderation discussions, while I do think rate limiting is useful to have for moderators, especially to slow down heated discussions or to let other people do the talking, and thus it shouldn't be removed as a moderator power, I don't like the use of rate limiting as a way to force replies to go to post level, as there are many examples of good comments that don't work as a post, and there are real advantages for the audience around comments, especially around threading/response times that don't really work with posts as replies."
+   }
+  },
+  {
+   "_id": "EGEZFofo3DDaFau9W",
+   "parentCommentId": "xG3ddaSLfbeZHrLmc",
+   "postedAt": "2025-07-15T02:57:09.329Z",
+   "baseScore": 10,
+   "user": {
+    "username": "david-johnston",
+    "displayName": "David Johnston"
+   },
+   "contents": {
+    "markdown": "Doesn't G/D gap suggest we *should* have more criticism than generation?"
+   }
+  },
+  {
+   "_id": "ghtHecRv2ut8BLawL",
+   "parentCommentId": "xG3ddaSLfbeZHrLmc",
+   "postedAt": "2025-07-15T03:15:26.036Z",
+   "baseScore": 13,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "> I'm surprised by this, as I was expecting moderation discussions to generally be a pain point/something that is avoided because it reliably brings up lots of drama that blows up.\n\nIf I didn't learn to enjoy moderation discussions and community governance discussions, I would have long lost motivation to do this job. These things are deep passions of mine. They are not fun to have with everyone, and especially if you are talking about specific norm enforcement can be taxing and adversarial, but at a high level, I really care about this stuff and spend a lot of my time thinking and talking about it."
+   }
+  },
+  {
+   "_id": "3vtjXPPzmooX9CxRM",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T03:18:37.747Z",
+   "baseScore": 8,
+   "user": {
+    "username": "brambleboy",
+    "displayName": "brambleboy"
+   },
+   "contents": {
+    "markdown": "Allow me, someone who only comments, to weigh in.\n\nMy impression is that this is an issue of different frames. Consider a different metaphor: filmmaking. It'd be absurd to claim that only people who've made films of their own can be critics. Films aren't just for other filmmakers, they're for the public, and the public should be able to criticize them. If a filmmaker was really bothered by an outspoken critic of their movies, it would be reasonable to tell that filmmaker to get over it and worry about making better movies instead.\n\nOn the other hand, it's different if the criticism is within a community of people trying to make good films. To be as successful as they can be, a community of filmmakers benefits from helping each other out by sharing knowledge and tools, encouraging each other, making connections, and so on. Critique helps, too... but if there are critics who hang around the community and tear apart everyone's films without making anything or helping in other ways, then that can hamper the goal of making better films, even if they have good criticisms! \"Get over it and make better movies\" would be a lame defense in this case.\n\nThus, it depends on the context whether it's helpful or unhelpful to discourage criticism without contribution."
+   }
+  },
+  {
+   "_id": "kkj2ohiC9Fw2kyJQR",
+   "parentCommentId": "3vtjXPPzmooX9CxRM",
+   "postedAt": "2025-07-15T03:38:05.031Z",
+   "baseScore": 2,
+   "user": {
+    "username": "brambleboy",
+    "displayName": "brambleboy"
+   },
+   "contents": {
+    "markdown": "Elaborating further: I think LW isn't just one of these or the other. I think the community aspect is there and so it's good not to discourage too much and to be helpful in other ways besides criticism/correction, but I also think you can be helpful without making your own posts."
+   }
+  },
+  {
+   "_id": "ShcAtwTnhPgCpbFuY",
+   "parentCommentId": "xG3ddaSLfbeZHrLmc",
+   "postedAt": "2025-07-15T03:45:46.901Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "> Daniel Kokotajlo did this here, and while I think his comment was understandable, I don't exactly like this trend of asking people to write their own scenarios/posts just to criticize one aspect of the story, as there are cheaper ways to resolve the issue:\n\nI disagree; I think there is a dearth of substantive detail from people in discussing the future of AI, that doing it well is pro-social, and I think the person who has done the most work in pushing ahead our discourse on that is the person with the *most* right to challenge others to make a similar (while far more minor) effort."
+   }
+  },
+  {
+   "_id": "9HjhB4oo3Nqbz7NBD",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T07:21:43.439Z",
+   "baseScore": 16,
+   "user": {
+    "username": "sjadler",
+    "displayName": "sjadler"
+   },
+   "contents": {
+    "markdown": "Kind of a tangent, but I sometimes want a bot that would tell commenters when they are getting something factually wrong about the blog post (ie claiming the post is missing a piece of information that is plainly in the post). This is surprisingly common in my experience"
+   }
+  },
+  {
+   "_id": "r4BQgin6AzQNc8dRD",
+   "parentCommentId": "ShcAtwTnhPgCpbFuY",
+   "postedAt": "2025-07-15T16:05:17.279Z",
+   "baseScore": 4,
+   "user": {
+    "username": "sharmake-farah",
+    "displayName": "Noosphere89"
+   },
+   "contents": {
+    "markdown": "I think the crux is whether Daniel Kokotajlo is asking for a far more minor effort, where I actually disagree that he is asking for a far more minor effort, and the other part is I think trivial inconveniences matter here a lot, given the stakes of being right or wrong on AI.\n\nI do agree details are unfortunately sparse, but I don't think we need to ask people to create entire scenarios, because most of the details necessary won't come in the form of a story.\n\nYou can provide detailed, useful criticism without having to predict almost everything about AI and society."
+   }
+  },
+  {
+   "_id": "irggZnAMYcanjyGja",
+   "parentCommentId": "r4BQgin6AzQNc8dRD",
+   "postedAt": "2025-07-15T16:25:28.015Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "I don\u2019t see any evidence that these requests have led to substantially less criticism than otherwise; and I still think on the margin more concrete stories would be substantially beneficial (especially quite different stories to AI 2027), so it\u2019s good that people are being challenged to write them."
+   }
+  },
+  {
+   "_id": "kdpWu7AhKGxibx8C8",
+   "parentCommentId": "irggZnAMYcanjyGja",
+   "postedAt": "2025-07-15T17:11:36.784Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "> I still think on the margin more concrete stories would be substantially beneficial (especially quite different stories to AI 2027), so it\u2019s good that people are being challenged to write them.\n\nNot clear if challenging people (with obligation-valence) leads to more stories or less general engangement. The consequentialist justification isn't obviously valid."
+   }
+  },
+  {
+   "_id": "Qr2xCAHhr5K9CH9ZN",
+   "parentCommentId": "kdpWu7AhKGxibx8C8",
+   "postedAt": "2025-07-15T17:22:42.174Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Sure, but again, I think the person who has done the most pro-social work on this front is the person who is *most* allowed to have obligation-valence in requests.\n\nThis is analogous to a communal space that for years has been in dire need of redecorating (painting etc), and one person finally takes it upon themselves to do a bunch of work on it. Others who use the space then criticize the work done, people who never did the work for years. The person who did the work is in the *best* place to say \"Rather than spending a lot of time criticizing, I'd ask you to do a bit of work to paint the rest of the room the way you would like it painted.\""
+   }
+  },
+  {
+   "_id": "ZWBhy5vHAJaetEK8R",
+   "parentCommentId": "Qr2xCAHhr5K9CH9ZN",
+   "postedAt": "2025-07-15T17:35:36.672Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "You are discussing who gets to create the obligations, the shape of motivations for those who might set them up for others. But my point is about how people would react to (being at risk of) having an obligation directed at them, even if it's done by the most deserving and socially approved person to do so. It's not obvious that they respond by becoming more likely to carry it out, or by becoming more avoidant of the situations where they could be singled out as a target of such obligations, however well-justified and prosocial."
+   }
+  },
+  {
+   "_id": "Q2X6Q2CLcGgBNzWyJ",
+   "parentCommentId": "ZWBhy5vHAJaetEK8R",
+   "postedAt": "2025-07-15T17:43:16.346Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "I mean we can debate whether it's useful to bring up social obligation in a situation where one person is doing something pro-social for everyone else. Insofar as someone has done something pro-social and everyone is just criticizing them and not doing any of the work themselves, then I think they are also behaving in a way as to disincentivize the work being done!\u00a0\n\nThere's a question of where the responsibility lies. Should we behave as if it solely lies in the one person who did the work, or should it lie in everyone who benefits from it? Seems to me like the answer is the latter. If there is responsibility then it is a true thing to talk about, its existence is not optional, and it's accurate to point out that others are not bearing any share of the work that they benefit from. Your point is that it could be unproductive, but I cannot tell whether you are also saying \"and they also didn't have an obligation until you brought it up\", which seems to me like a subtle but important mistake."
+   }
+  },
+  {
+   "_id": "MFbQxQrQxYRjWjMmu",
+   "parentCommentId": "32FKJHixZuo3pnSJw",
+   "postedAt": "2025-07-15T17:56:09.953Z",
+   "baseScore": 7,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "This depends a lot on the style of the critique. One of the most common forms of critique is \"ask a leading question\". Clearly that is an invitation for a prolonged exchange. Think of socratic exchanges.\n\nThere definitely exist critiques that can be self-contained, and stand on their own as a counterveiling perspective. I tried to point to that in some of the examples in my comments. It's particularly common in technical domains.\u00a0\n\nIn most other domains, there is enough adversarialness, combined with enough ambiguity that usually a critique requires multiple back and forths to come into focus (and also, it's usually socially advantageous for critics to intentionally not make their critique maximally explicit or easy to judge in an attempt of making the reader fill in the gaps with whatever they think is weakest about the object of critique)."
+   }
+  },
+  {
+   "_id": "mKmWkfpQoTBTngXPH",
+   "parentCommentId": "XTXc6RxTy22QwDmAu",
+   "postedAt": "2025-07-15T18:00:43.045Z",
+   "baseScore": -2,
+   "user": {
+    "username": "TAG",
+    "displayName": "TAG"
+   },
+   "contents": {
+    "markdown": ">Critique is often disproportionally easy, and additionally beyond that, because it tends to have a low correct-positive rate, difficult to evaluate. Generation is often disproportionally hard and, as long as its in a domain in which overall performance can be measured, relatively easy to verify[\\[1\\]](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#fny3ra9ksgfcs).\r\n\r\nOf course. It's just difficult to make a correct positive claim, because there are too many theories for more than a few of them to be right, and because  there are multiple objections to most of them. But if you recognise that,you can at least adopt the right meta level approach , which is epistemic modesty -- the opposite of the approach [officially recommended here](https://www.lesswrong.com/posts/svoD5KLKHyAKEdwPo/against-modest-epistemology) [*] The fact that philosophy is difficult doesn't have to keep coming as a nasty surprise.\r\n\r\nThe most generic and easy criticism is \"it ain't necessarily so...\"..but it's true! On a practical level, if you acknowledge the standard problems with a claim in advance -- write modestly -- don't claim that it is necessarily so -- there is no need for anyone to annoy you by pointing them out. There are rational and irrational ways of avoiding criticism. Getting better at rationality is the rational way.\r\n\r\nWhether or not it's relevant the person making a criticism has the right credentials depends on the kind of criticism... ranging from \"you're wrong, trust me I'm an expert\" to \"here's an explicit disproof, who cares where it came from\". (Even [@private_messaging](/users/private_messaging?mention=user))\r\n\r\n---\r\n\r\n[*]\r\n>The versions of modest epistemology I hear about usually involve deference to the majority view, to the academic mainstream, or to publicly recognized elite opinion\r\n\r\n\r\nThe version I am talking about is \"it's, hard to be right , even for experts\". It can still make sense to defer to experts, because experts can be the least bad option, in a Churchillian sense. And they can still be bad in an absolute sense, because of the general difficulty of being right.\r\n\r\n"
+   }
+  },
+  {
+   "_id": "bA8u3qwpk55qpkmpW",
+   "parentCommentId": "Q2X6Q2CLcGgBNzWyJ",
+   "postedAt": "2025-07-15T18:11:28.282Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Vladimir_Nesov",
+    "displayName": "Vladimir_Nesov"
+   },
+   "contents": {
+    "markdown": "> Insofar as someone has done something pro-social and everyone is just criticizing them and not doing any of the work themselves, then I think they are also behaving in a way as to disincentivize the work being done!\n\nThe people standing around *can* be valuable without doing any of the kind of work they are criticising. Not always, but it happens. (Of course this shouldn't be a reason to get less vigilant about the other kind of people standing around, who are making things worse.) When it does happen and the bystanders are doing something valuable, putting an obligation on them can make them leave (or proactively never show up in the first place), which is damaging. Or it can motivate them to step up, which could be even more valuable than what they were doing originally.\n\nMy point is that it's not obvious which of these is the case, as a matter of consequences of putting social pressure on such people. And therefore it's wrong to insist that the pressure is good, unless it becomes clearer whether it actually is good. Also, it's in any case misleading to equivocate between the people standing around making things worse, and the people who would only be standing around if there are no obligations, but who occasionally do something valuable in other ways.\n\nOne reason for the equivocation might be applicability of enforcement. If you've already decided that refusers of prosocial obligations must be punished (or exiled from a group), then you might be mentally putting them in the same bucket as the directly disruptive bystanders. But these are different categories, their equivalence begs the question on whether the refusers of prosocial obligations should really be punished."
+   }
+  },
+  {
+   "_id": "boJgc6qQsAQP7bmTX",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T18:25:03.486Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Big Tony",
+    "displayName": "Big Tony"
+   },
+   "contents": {
+    "markdown": "I don't think the coach analogy is apt. While they may have played the sport, their role is getting the best out of a team of people - a manager, rather than a technical contributor.\n\nA better analogy may be an editor. Many editors are failures as authors, but are very good at critiquing starts, seeing where the flow and pacing needs improvement, and improving the overall work.\n\nHowever in a world where many editors come to you and submit feedback with varying and contradicting messages, you need to quickly filter by *something,* so you can focus your limited time and resources on the most valuable submissions.\n\nThis is relative to the time and attention that each author has available. Someone with nothing to do will be happier to accept comments than someone who for whatever reasons just doesn't have time right now to engage.\n\nPrior experience with creating the subject matter may not be the best filter, as you've pointed out in the post.\n\nI'm curious what you think might be a better filter for assessing credibility and quality, quickly.\n\nOr do you disagree with the notion that people need a filter?"
+   }
+  },
+  {
+   "_id": "WyicXJXJgKQCXBCae",
+   "parentCommentId": null,
+   "postedAt": "2025-07-15T18:31:10.158Z",
+   "baseScore": 13,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "> But would a commenter who had never written \"top-level\" posts thereby be a worse commenter? It's hard to see why that would be the case. In the analogy, coaching is an activity that depends on playing, but comment-writing doesn't seem to depend on post-writing to nearly the same extent or even in the same way,\n\nIt depends on the kind of comment, and I think a lot is being read between the lines in the criticisms of criticisms that you're critical of.\n\nIf the post is some some niche subject (e.g. Woodrow Wilson's teeth brushing habits) and the comment challenges a matter of fact on WW's teeth brushing habits, then it doesn't matter so much whether the commenter has written top level posts and it matters a lot if they are a scholar of WW's teeth brushing habits.\n\nIf the comment is criticizing *the post* \\-\\- maybe saying \"too long\" or \"too unclear\" or something similar -- then expertise on the topic of the post isn't as relevant as \"knowing how to judge when a post is too long\". And that's something that is harder to do if you've never had to navigate that trade off in writing your own posts. I might know that *I* didn't have time to read the whole thing, or that *I* didn't undersetand it, but unless I've written posts that have conveyed similar things in fewer words I'm not really in a place to judge. Because my judgements would likely be *wrong*.\u00a0\n\nIt might be fair of me to say \"Shoot, this is confusing to me\" or \"I don't have time to read the whole thing. Is it possible to summarize?\", but this feedback is no longer criticism. And the impression I get from the criticisms of criticisms that you're quoting is that it's these implicit \"I'm in a position to judge the quality of your post\" claims that they're criticizing.\n\nRequoting:\n\n> The situation seems more similar to having a competitive team where anyone gets screamed at for basically any motion, *with a coach who doesn't themselves perform the sport*, but just complaints \\[*sic*\\] in long tirades any time anyone does anything, making references to methods of practice and training long-outdated, with a constant air of superiority.\n\nThe coach here isn't just making objective statements like \"You'll score more points by doing nothing\". He's *complaining* and holding *a constant air of superiority*. The wrong claim being complained about here is the implied superiority, not the silly object level advice itself. The silly object level advice wouldn't be a problem, if not for resting on a false claim of implied superiority, which is being shielded from evidence with aggression.\n\n\"Hey guys, can you try doing nothing? I think moving at all might be counterproductive\" doesn't sound like a coach that would get complained about in the same way. Because this coach will *notice* when his advice turns out to be dumb. If his lack of experience means he has nothing to add, he'll stop meddling.\n\n> There's only so much withering critique a given builder is interested in receiving *(frequently from those who do not themselves even build!)* before eventually they will either stop building entirely, or leave to go somewhere where buildery is appreciated, rewarded, and (importantly) defended.\n\nI don't think Sabien would respond negatively to someone saying \"Shoot, this is confusing to me. Can you help me understand?\", and I don't think he's a fan of \"Your post is confusing. Write it better next time or don't write it at all\". I'd guess that you probably agree that the latter comments are bad, especially when written by someone who has never tried writing a top level post themselves?\n\nWhere it becomes a little more subtle though, is when the comment says something like \"False. Woodrow Wilson *did* brush his teeth in the morning (on leap year days)\". At face value, the claim is about the object level facts about Woodrow Wilson's teeth brushing habits, but the fact that it was judged as \"False.\" and not \"Pretty much yeah, but there's a narrow exception\" conveys other implicit claims about how precise a post must be before it's viewed as \"bad\".\n\nThis does get into your \"it's about status\" hypothesis, but the point is that this is not *orthogonal* to truth. It's truth about different claims, which are usually made implicitly.\n\nWhile generally I'm on board with the idea of \"look at the object level, let status sort itself out\", it's not that the truth of status claims *does't matter.* Communities that get \"Who is worth listening to and emulating\" wrong don't turn out well, so it's important that BS status claims are recognized as BS.\n\nIf comments containing implicit and unfounded claims of \"Your post is bad, and I'm in a position to judge\" are seen as legitimate, there's a problem. If the community recognizes that \"Your post is bad\" requires knowing how hard it is to write good posts, then even bad comments aren't such an issue because the badness won't spread."
+   }
+  },
+  {
+   "_id": "5GfEqrLRHnRo7uCux",
+   "parentCommentId": "Qr2xCAHhr5K9CH9ZN",
+   "postedAt": "2025-07-15T19:49:44.689Z",
+   "baseScore": 3,
+   "user": {
+    "username": "karl-krueger",
+    "displayName": "Karl Krueger"
+   },
+   "contents": {
+    "markdown": "Sometimes the work done makes the communal space worse for some particular user. For example, if the redecorator puts in some pretty potted plants that one other user is allergic to, then calling the redecorator's work \"pro-social\" implies that it's perfectly fine for society to exile the allergy-sufferer. The criticism \"hey, I'm allergic to those plants you put in; your redecoration effort has exiled me from the communal space\" is valid, and the response \"well, if you didn't want to be exiled, you should have done the redecoration yourself\" would be quite bad!"
+   }
+  },
+  {
+   "_id": "kw4EP9XuGbMa7nf5w",
+   "parentCommentId": "5GfEqrLRHnRo7uCux",
+   "postedAt": "2025-07-15T20:03:52.972Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "Sure, if someone's critique is \"these detailed stories *do not help*\" then that's quite different, but I think most people agree that how the immediate future goes is very important, most people are speaking in vagueries and generalities, attempting to write detailed stories showing your best guess for how the future could go is heavily undersupplied, and that this work is helpful for having concrete things to debate (even if all the details will be wrong)."
+   }
+  },
+  {
+   "_id": "BC2mtFDz7ZEGqbjxK",
+   "parentCommentId": null,
+   "postedAt": "2025-07-17T09:56:56.222Z",
+   "baseScore": 40,
+   "user": null,
+   "contents": {
+    "markdown": "Humans are social animals, and this is true even of the many LessWrongers who seem broadly in denial of this fact (itself strange since Yudkowsky has endlessly warned them against LARPing as Vulcans, but whatever). The problem Duncan Sabien was getting at was basically the emotional effects of dealing with smug, snarky critics. Being smug and snarky is a gesture of dominance, and indeed, is motivated by status-seeking (again, despite the opinion of many snarkers who seem to be in denial of this fact). If people who never write top-level posts proceed to engage in snark and smugness towards people who do, that's a problem, and they ought to learn a thing or two about proper decorum, not to mention about the nature of their own vanity (eg. by reading Notes From Underground by Fyodor Dostoevsky)\n\nMoreover, since top-level contributions *ought* to be rewarded with a certain social status, what those snarky critics are doing is an act of subversion. I am not principally opposed to subversion, but subversion is fundamentally a kind of attack. This is why I can understand the \"Killing Socrates\" perspective, but without approving of it: Socrates was subverting something that genuinely merited subversion. But it is perfectly natural that people who are being attacked by subversives will be quite put off by it.\n\nAfaict., the emotional undercurrent to this whole dispute is the salient part, but there is here a kind of intangible taboo against speaking candidly about the emotional undercurrent underlying intellectual arguments."
+   }
+  },
+  {
+   "_id": "9atSdTEccEovkxPwN",
+   "parentCommentId": "BC2mtFDz7ZEGqbjxK",
+   "postedAt": "2025-07-17T12:11:24.105Z",
+   "baseScore": -11,
+   "user": {
+    "username": "TAG",
+    "displayName": "TAG"
+   },
+   "contents": {
+    "markdown": "If no comments without posts is the outcome you want, why not make it a rule?"
+   }
+  },
+  {
+   "_id": "7rS9WFDwkqA3BxJxv",
+   "parentCommentId": "9atSdTEccEovkxPwN",
+   "postedAt": "2025-07-17T16:28:39.560Z",
+   "baseScore": 14,
+   "user": null,
+   "contents": {
+    "markdown": "That's not what I said. The bulk of my comment was about snark, smugness, and vanity as opposed to proper decorum. If a commenter shows proper decorum when critiquing a post, I do not object to it, even if the commenter has not written any top-level posts himself.\n\nAnyway, to answer your question: I do not have control over the rules of LessWrong."
+   }
+  },
+  {
+   "_id": "fZ8iSfCkidktPhcKu",
+   "parentCommentId": null,
+   "postedAt": "2025-07-18T07:31:58.688Z",
+   "baseScore": 8,
+   "user": {
+    "username": "AprilSR",
+    "displayName": "AprilSR"
+   },
+   "contents": {
+    "markdown": "On the contrary, I think the authorship of a text is often relevant in some way! My enjoyment of this blog post was much furthered by my acquaintance with its author.\n\nI suppose maybe the relevance isn't logical, but one cares about much beyond logic."
+   }
+  },
+  {
+   "_id": "2yzYyRztKNepMZBXo",
+   "parentCommentId": "MFbQxQrQxYRjWjMmu",
+   "postedAt": "2025-07-18T12:33:12.642Z",
+   "baseScore": 6,
+   "user": {
+    "username": "sil-ver",
+    "displayName": "Rafael Harth"
+   },
+   "contents": {
+    "markdown": "Even though all of that is true, it just seems like such a strange way to frame the problem. Yes, the commenter's catalogue of top-level posts does provide some information about how productive a back and fourth would be. But if Said had two curated posts but commented in exactly the same style, the number of complaints about him would be no different; the only thing that would change is that people wouldn't use the 'he doesn't write top level posts' as a justification. (Do you actually doubt this?) Conversely if everyone thought his comments were insightful and friendly, no one would care about his top-level posts. The whole point about top level posts is at least 80% a rationalization/red herring."
+   }
+  },
+  {
+   "_id": "LoeWEN478Zijzv7gt",
+   "parentCommentId": null,
+   "postedAt": "2025-07-18T13:22:56.695Z",
+   "baseScore": 13,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I don't think this is an *important* factor that makes a big difference, but the identity of the author *can* make a difference to the value of the comment in the following way.\n\nConsider a correction like the one Zack received on his post about discontinuous linear functions. A reader who sees such a correction *from someone they know is good at mathematics* can (at least in the absence of further argument about the correction) trust that they got it right, and update their opinions accordingly. If they see such a correction *from some rando they know nothing about* then they can't do that, and need to work through the mathematics themself, or wait for someone else to do it, or just put up with not knowing who's right.\n\n(This is a separate point from the one, already acknowledged by Zack in the OP, that our *estimate* of comment value may be higher if we know the commenter is expert; I am saying that the *actual* value of a correct comment is higher if readers know the commenter is expert.)"
+   }
+  },
+  {
+   "_id": "eiJpj47ZcLpaJCvfW",
+   "parentCommentId": null,
+   "postedAt": "2025-07-18T13:31:46.231Z",
+   "baseScore": 23,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "The article has a heading of the form \"X, if you don't care about maximizing correctness\" followed by a (correct) discussion showing that \"X, if you don't care *exclusively* about maximizing correctness\".\n\nThose two things are very different. In particular, around here almost everybody cares about maximizing correctness, but I would guess that very few people care about literally nothing else.\n\nThat discussion also makes the decision to take \"ad revenue\", something readers here may reasonably be expected to have some contempt for, as its working example of something other than correctness. I think this is part of the same rhetorical move: Zack acknowledges, formally, that it can be reasonable to care about things other than correctness (he also *mentions*, but decides not to use, the example of \"total number of interesting ideas\" which I would guess almost everyone here would agree is a thing worth wanting), but then he (1) chooses to instead emphasize something that most of us will feel icky about the idea of optimizing for\\[1\\] and (2) heads the section with a title that accuses people of *not caring about correctness*, which is extremely very utterly different from *caring about other things besides correctness*.\n\n\\[1\\] Also something that, so far as I know, cannot possibly be a concern here on Less Wrong where there is no advertising revenue to try to maximize.\n\n(I remark that this is not the first time I have had a discussion with Zack of much the same shape, where Zack implicitly or explicitly claims that epistemic virtue means caring *only* about one thing even when there seem (at least to me) to be other things a would-be clear thinker might reasonably care about. I think it might be the third or fourth time.)\n\n\\[EDITED to add:\\] I realise that that last paragraph might be misleading; this is an instance of \"me having a discussion with Zack\" only in the sense that this comment here is by me and it's replying to something Zack wrote. I don't mean to imply that what Zack wrote had anything at all to do with me; it didn't."
+   }
+  },
+  {
+   "_id": "DidGk5dNthuH2aoK8",
+   "parentCommentId": null,
+   "postedAt": "2025-07-18T15:06:24.592Z",
+   "baseScore": -5,
+   "user": {
+    "username": "tailcalled",
+    "displayName": "tailcalled"
+   },
+   "contents": {
+    "markdown": "I'm semi-banned (only allowed to post once every 24 hours because I receive too many downvotes) from LessWrong for posting vitalist takes without backing them up. I would support a policy where nobody is allowed to downvote my unsupported vitalist takes without themselves posting vitalist takes."
+   }
+  },
+  {
+   "_id": "Ri9xaRq9Yo3dnYSRw",
+   "parentCommentId": "BC2mtFDz7ZEGqbjxK",
+   "postedAt": "2025-07-18T21:07:21.273Z",
+   "baseScore": 0,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> top-level contributions *ought *to be rewarded with a certain social status\r\n\r\nWhat? Why? This doesn\u2019t make any sense.\r\n\r\nFor one thing, what\u2019s so special about \u201ctop-level contributions\u201d? Surely contributions are valuable if\u2026 they\u2019re valuable? No matter where they\u2019re written (as posts, as comments, as shortform entries, etc.)?\r\n\r\nFor another thing, surely only *good* contributions (top-level or otherwise!) ought to be rewarded with \u201ca certain social status\u201d? Surely you shouldn\u2019t reward people *just* for making top-level posts, regardless of quality, or usefulness, or relevance\u2026?"
+   }
+  },
+  {
+   "_id": "i4jwtEtRTyraQEPEp",
+   "parentCommentId": "WyicXJXJgKQCXBCae",
+   "postedAt": "2025-07-18T21:22:58.488Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> And that\u2019s something that is harder to do if you\u2019ve never had to navigate that trade off in writing your own posts.\r\n\r\nHuh? How does this make sense? If a post is too long, then it\u2019s too long. If writing a post that\u2019s short enough is hard, that\u2026 doesn\u2019t actually have any bearing whatsoever on whether the post is too long or not.\r\n\r\nI mean, would you say that judging whether soup is too salty is harder to do if you\u2019ve never cooked soup before? Obviously it\u2019s not. If I bake a souffl\u00e9 and it collapses, do you have to have baked a souffl\u00e9 yourself to see that my souffl\u00e9 has collapsed? No. If I build a *bridge* and *it* collapses, do you have to have built a bridge yourself to see that my bridge has collapsed? Of course not.\r\n\r\n> If the community recognizes that \u201cYour post is bad\u201d requires knowing how hard it is to write good posts, then even bad comments aren\u2019t such an issue because the badness won\u2019t spread.\r\n\r\nBut \u201cyour post is bad\u201d *doesn\u2019t* require knowing how hard it is to write good posts.\r\n\r\nWhence comes this absolutely bizarre idea that would-be critics of a thing must themselves know how to do or make that thing? Did Roger Ebert ever direct any movies? Has [Ruth Reichl](https://en.wikipedia.org/wiki/Ruth_Reichl) operated any restaurants? Was [John Neal](https://en.wikipedia.org/wiki/John_Neal#Art_criticism_and_patronage) himself a painter?"
+   }
+  },
+  {
+   "_id": "CrFLrTZfGyBPz7irY",
+   "parentCommentId": "2yzYyRztKNepMZBXo",
+   "postedAt": "2025-07-18T21:25:51.364Z",
+   "baseScore": 4,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "Well, I don\u2019t have *two* curated posts, but I do have [one](https://www.lesswrong.com/posts/duxy4Hby5qMsv42i8/the-real-rules-have-no-exceptions)\u2026\r\n\r\nEDIT: No, I actually [do](https://www.lesswrong.com/posts/GxW8ef8tH4yX6KMrf/everything-i-ever-needed-to-know-i-learned-from-world-of-2) have two! I forgot about that one!"
+   }
+  },
+  {
+   "_id": "WDqZnTAKMNGpY8mJz",
+   "parentCommentId": "CrFLrTZfGyBPz7irY",
+   "postedAt": "2025-07-18T21:40:18.214Z",
+   "baseScore": 2,
+   "user": {
+    "username": "sil-ver",
+    "displayName": "Rafael Harth"
+   },
+   "contents": {
+    "markdown": "Didn't even know that! (Which kind of makes my point.)"
+   }
+  },
+  {
+   "_id": "qtzubGCFCyjjhjK5M",
+   "parentCommentId": "MFbQxQrQxYRjWjMmu",
+   "postedAt": "2025-07-18T23:17:49.173Z",
+   "baseScore": 3,
+   "user": {
+    "username": "GAA",
+    "displayName": "Guive"
+   },
+   "contents": {
+    "markdown": "I'm not sure that's even true of leading questions. You can ask a leading question for the benefit of other readers who will see the question, understand the objection the question is implicitly raising, and then reflect on whether it's reasonable."
+   }
+  },
+  {
+   "_id": "rEJChCdBzA37H4qrZ",
+   "parentCommentId": "i4jwtEtRTyraQEPEp",
+   "postedAt": "2025-07-19T00:40:51.226Z",
+   "baseScore": 6,
+   "user": {
+    "username": "jimmy",
+    "displayName": "jimmy"
+   },
+   "contents": {
+    "markdown": "> I mean, would you say that judging whether soup is too salty is harder to do if you\u2019ve never cooked soup before?\u00a0\n\n  \nToo salty for my personal tastes? Or too salty in some sort of objective way, like \"This restaurant would be more successful if they made their soups less salty\"?  \n  \nIt's easy to whine \"Ew! This is definitely too salty!\" and claim it to be obvious, but on what is that based? If it's my personal tastes, then I represent a sample size of one, and it would be completely reasonable to blow off my criticism of your soup. Especially if your own taste of the soup says it's fine.  \n  \nIf I can say \"Look, I've cooked soup for all sorts of demographics, and the amount of salt you put in there is going to be appealing to only a select few\", then that's a very different sort of criticism. It's not the \"cooking\" that matters, its exposure to the tradeoffs.  \n  \nCooking soup and writing posts isn't the only way to get to a non-myopic perspective, and if the cook accidentally spilled all the salt into the soup it's not hard to notice that. At the same time, if it's that simple it's probably obvious to the cook too. If someone is blowing off your criticism as myopic and you can't see how that's justified, they're probably right."
+   }
+  },
+  {
+   "_id": "kv22ATRHFiQDkTxo9",
+   "parentCommentId": null,
+   "postedAt": "2025-07-19T01:08:18.994Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Vaniver",
+    "displayName": "Vaniver"
+   },
+   "contents": {
+    "markdown": "At the beginning of your post, you talk about \"the value\" of comments in a way that seems like it's purely connected to their information content. Why not view them as [speech acts](https://en.wikipedia.org/wiki/Speech_act)?"
+   }
+  },
+  {
+   "_id": "DfFM6FyHmGfgT8ehj",
+   "parentCommentId": "rEJChCdBzA37H4qrZ",
+   "postedAt": "2025-07-19T03:01:00.063Z",
+   "baseScore": 1,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Too salty for my personal tastes? Or too salty in some sort of objective way, like \u201cThis restaurant would be more successful if they made their soups less salty\u201d?\r\n\r\nThere is only \u201ctoo salty for my personal tastes\u201d, evaluated for all relevant values of \u201cmy\u201d and aggregated accordingly. Having cooked soup is not necessary for making such judgments. Indeed, having cooked soup adds *nothing* to your ability to make such judgments.\r\n\r\nIf you\u2019re optimizing \u201chow successful would the restaurant be if the soup were more/less salty\u201d, then you are no longer optimizing \u201chow salty should the soup be, for it to be good soup\u201d. (It\u2019s entirely possible that your restaurant will be more successful if you make the soup a bit too salty, thus encouraging your patrons to spend more money on drinks. Or, perhaps you could make the soup alternately not salty enough and too salty, and start some sort of viral social media argument thing about whether your soup is too salty or not salty enough. Or something else that involves something other than *actually cooking good soup*.)\r\n\r\n> It\u2019s easy to whine \u201cEw! This is definitely too salty!\u201d and claim it to be obvious, but on what is that based? If it\u2019s my personal tastes, then I represent a sample size of one, and it would be completely reasonable to blow off my criticism of your soup. Especially if your own taste of the soup says it\u2019s fine.\r\n\r\nGiven that you can only taste food with your own taste buds, not anyone else\u2019s, you cannot possibly represent anything *but* \u201ca sample size of one\u201d. And if my own taste of the soup says it\u2019s fine, then it is no more and no less reasonable to blow off your criticism of my soup as it is to blow off a hundred different people\u2019s criticism of my soup. And none of this has the slightest thing to do with whether any of those people have ever cooked soup before.\r\n\r\n> If I can say \u201cLook, I\u2019ve cooked soup for all sorts of demographics, and the amount of salt you put in there is going to be appealing to only a select few\u201d, then that\u2019s a very different sort of criticism. It\u2019s not the \u201ccooking\u201d that matters, its exposure to the tradeoffs.\r\n\r\nIf I try your soup, and it\u2019s too salty, and you give me that reply, then the correct response on my part is to totally ignore what you said, and to not update my evaluation of your soup at all. Literally zero update is the correct amount of update. Because your arguments and your perspective cannot possibly affect my judgment of whether the soup is too salty. It\u2019s simply a *non sequitur*.\r\n\r\n> At the same time, if it\u2019s that simple it\u2019s probably obvious to the cook too.\r\n\r\nThis is false. People miss simple and obvious problems all the time.\r\n\r\n> If someone is blowing off your criticism as myopic and you can\u2019t see how that\u2019s justified, they\u2019re probably right.\r\n\r\nAnd so this is also false."
+   }
+  },
+  {
+   "_id": "2EGv6wzLcZsJKT6Yp",
+   "parentCommentId": "kv22ATRHFiQDkTxo9",
+   "postedAt": "2025-07-19T03:04:25.825Z",
+   "baseScore": 1,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "It\u2019s not unreasonable to view comments as speech acts, but (a) many speech acts (especially on a forum like this one) are indeed intended to convey information, and (b) the value of almost all such speech acts comes almost entirely from their information content. Indeed, the value of the sorts of comments that Zack is describing almost always comes entirely from their information content, and not from anything else."
+   }
+  },
+  {
+   "_id": "i77B3R3DbFRDtsXe6",
+   "parentCommentId": "DfFM6FyHmGfgT8ehj",
+   "postedAt": "2025-07-19T03:14:03.451Z",
+   "baseScore": 4,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "As a counterpoint to the above argument, consider a scenario like this one:\r\n\r\n**Alice (trying Bob\u2019s soup):** This soup is too salty.\r\n\r\n**Bob:** What? No way. It\u2019s perfect!\r\n\r\n**Alice:** Ah, I take it you\u2019ve never made soup like this before?\r\n\r\n**Bob:** No, but I don\u2019t see what that has to do with it; my taste buds work fine\u2026\r\n\r\n**Alice:** Indeed, and you are correct that the soup tastes fine *now*, but as it cools, and especially when you refrigerate it, the saltiness will become more pronounced (and this will persist after reheating). So to ensure optimal saltiness for consuming this soup over the course of some days, you should have undersalted it slightly.\r\n\r\n**Bob:** Huh. Wow. I didn\u2019t realize.\r\n\r\n---\r\n\r\nOr, consider a scenario like this one:\r\n\r\n**Alice (trying Bob\u2019s soup):** This soup is too salty.\r\n\r\n**Bob:** What? No way. It\u2019s perfect!\r\n\r\n**Alice:** It\u2019s definitely too salty, I can taste it\u2026\r\n\r\n**Bob:** Ah, I take it you\u2019ve never made soup like this?\r\n\r\n**Alice:** No, but I don\u2019t see what that has to do with it; my taste buds work fine\u2026\r\n\r\n**Bob:** Indeed, and you are correct that the soup is too salty *now*, but as it cools, and especially when you refrigerate it, the saltiness will become less pronounced (and this will persist after reheating). So to ensure optimal saltiness for consuming this soup over the course of some days, I have oversalted it slightly.\r\n\r\n**Alice:** Huh. Wow. I didn\u2019t realize.\r\n\r\n---\r\n\r\n\r\n(Application of the lessons drawn from these two scenarios to the domain of writing posts on a community blog is left as an exercise for the reader.)"
+   }
+  },
+  {
+   "_id": "ZBWQtFzigmBgFNnzL",
+   "parentCommentId": "eiJpj47ZcLpaJCvfW",
+   "postedAt": "2025-07-19T07:17:01.364Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "That's what \"maximizing\" means, though! The _m_-word in the section title was very deliberate."
+   }
+  },
+  {
+   "_id": "PDwK5CCaop5FTg5kR",
+   "parentCommentId": "Ri9xaRq9Yo3dnYSRw",
+   "postedAt": "2025-07-19T14:17:29.292Z",
+   "baseScore": 5,
+   "user": {
+    "username": "MondSemmel",
+    "displayName": "MondSemmel"
+   },
+   "contents": {
+    "markdown": "Commenting is easy, whereas writing \u00a0posts is hard but has much larger potential upside (in terms of reach, timelessness, etc). Therefore, the more challenging task deserves a much higher baseline of credit, from which one then adjusts up or down depending on criteria like \"quality, or usefulness, or relevance\"."
+   }
+  },
+  {
+   "_id": "XzLo3or7dzEfoSbDv",
+   "parentCommentId": "PDwK5CCaop5FTg5kR",
+   "postedAt": "2025-07-19T14:43:56.608Z",
+   "baseScore": -3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Commenting is easy, whereas writing posts is hard\r\n\r\nFirst of all, this is obviously wrong. It makes no difference if you post something as a post or a comment. Posts can be short; comments can be long. Posts can be bad; comments can be good. Posts can be useless; comments can be useful. And so forth. Posts and comments on *Less Wrong* differ in some technical ways (posts have titles and tags; comments do not), but that\u2019s all. The distinction is otherwise arbitrary.\r\n\r\n(Take a look at [gwern\u2019s LW posting history](https://www.greaterwrong.com/users/gwern?sort=top), for example, and then tell me that his comments, like for instance [this comment](https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned?commentId=AAC8jKeDp6xqsZK2K) which has 328 karma and is over 3,000 words long, are somehow inferior to posts. And that comment is immediately followed by another one which is ~1,500 words long and has 65 karma, and then *another* comment which is ~1,900 words long and has 112 karma\u2026 oh, but you see they\u2019re *comments*, not *posts*, so clearly\u2026 they don\u2019t matter? They\u2019re less useful? What?)\r\n\r\nSecond, of course a \u201cmore challenging\u201d task *does not* deserve a higher baseline of credit! There is no value in doing something which is \u201cchallenging\u201d or \u201chard\u201d! [There is no value in \u201ceffort\u201d](https://www.lesswrong.com/posts/uxYemA2ttzjs8z8Eb/drive-by-low-effort-criticism#GSFZoQBdQFJsskhax)! Indeed, the conflation of \u201chigh effort\u201d and \u201chigh value\u201d, or the valuing of *effort* directly, [is a very serious mistake, and a major problem](https://www.lesswrong.com/posts/uxYemA2ttzjs8z8Eb/drive-by-low-effort-criticism?commentId=T9zq58H9wWZ7xJ5Zg)."
+   }
+  },
+  {
+   "_id": "pJy3ctvnrJYNStcgw",
+   "parentCommentId": "ZBWQtFzigmBgFNnzL",
+   "postedAt": "2025-07-19T17:02:48.125Z",
+   "baseScore": 15,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "\"Maximizing X\", in a vacuum, does indeed mean making X as large as possible while ignoring everything else. But we are not always in a vacuum. There is such a thing as \"constrained optimization\"; much of the time when someone refers to \"maximizing X\" it's in a context like \"maximizing X while satisfying constraint C\". There is such a thing as \"[multi-objective optimization](https://en.wikipedia.org/wiki/Multi-objective_optimization)\" where you're trying to maximize X and also trying to maximize Y and you have to trade them off somehow.\n\nSo *even in the technical language of mathematics* \"maximizing X\" need not imply ignoring everything except X.\n\nAnd, of course, someone writing or commenting or moderating on an internet forum is not literally solving mathematical optimization problems, and if you talk about them \"caring about maximizing X\" then it would literally *never occur to me* to interpret that as \"caring about maximizing X *and literally about nothing else*\".\n\n... Having said which, I just polled a couple of other people of my acquaintance, both mathematicians and hence presumably more than averagely aware of the technical meaning of \"maximizing\", and they both said that they would interpret \"X doesn't care about maximizing Y\" as being consistent with X preferring Y to be bigger but also having other concerns.\n\nI have therefore deleted the bit of this comment where I indignantly proclaim that I see no possible reason for writing the heading the way you did other than rhetorical sleight-of-hand :-), but it still seems to me that \"... if you care about other things besides correctness\" would be very much less liable to mislead or misdirect readers than \"... if you don't care about maximizing correctness\". (And I think the wording you ended up using at the end of the *text* of that section indicates that it's more natural to phrase things that way.)"
+   }
+  },
+  {
+   "_id": "hFzju3wPnmxuEGMxu",
+   "parentCommentId": "XzLo3or7dzEfoSbDv",
+   "postedAt": "2025-07-19T20:38:02.597Z",
+   "baseScore": 4,
+   "user": {
+    "username": "MondSemmel",
+    "displayName": "MondSemmel"
+   },
+   "contents": {
+    "markdown": "Gwern is a very poor counterexample, both because he's also/primarily an extraordinarily prolific top-level poster (e.g. all of gwern.net), and because he's such a noncentral example of a commenter. The typical (or average or median or whatever) comment on the Internet, or on LW, is not Gwern-level, so why bring him into this if not to muddy the waters?\n\nAlso, the distinction between comments and posts is not arbitrary. Writing top-level posts is much closer to creating, commenting is much closer to critique. No-one would argue that a movie director produces the same kind of value as a movie critic; the same applies to posts vs. comments. Or as another comparison, writing top-level posts is closer to shipping software features (like your work on gwern.net?), while commenting is closer to submitting bug reports, and usually ones that aren't about critical issues like crashes. Again, both activities have their place, but they're not at all interchangeable.\n\nRegarding the LW discussion on effort, I am fully aware of it. In my comment I clearly claimed \"is hard but has much larger potential upside\", i.e. I'm claiming writing top-level posts produces more value in expectation, and thus just the attempt to do so already deserves some credit. Whereas if a site treats its new creators too harshly, eventually all it's left with are its critics.\n\nFinally, a meta comment: Your comment here is a good example of what I meant by commenting being easier than making top-level posts: if it had been a top-level post by someone else, and you had read it, I expect you would have rightly criticized the OP for bringing up Gwern despite him being such a noncentral example. But your comment lacks the very rigor you expect in others.\n\nIn fact, if comments and posts are no different, then I dare you to put your words into practice. Make this very topic (or another one like your work on gwern.net) a full post and open it up to the kinds of critique only top-level posts are subject to."
+   }
+  },
+  {
+   "_id": "KC8Hr6GMSK7NYR7Cb",
+   "parentCommentId": "XzLo3or7dzEfoSbDv",
+   "postedAt": "2025-07-19T20:50:18.705Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Benito",
+    "displayName": "Ben Pace"
+   },
+   "contents": {
+    "markdown": "> > Commenting is easy, whereas writing posts is hard\n> \n> First of all, this is obviously wrong.\n\nI mean perhaps it is wrong in theory, but in practice the effort that people put into a post vs a comment is typically 10-100x different. We can find [many](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) [many](https://www.lesswrong.com/posts/DfrSZaf3JC8vJdbZL/how-to-make-superbabies) [many](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation) posts on this website that took many 10s of hours of work to write, and many comments that take less than a minute; there's a very strong distinction in the distribution of effort that these two contribution types come from."
+   }
+  },
+  {
+   "_id": "HYQtJPkBtPg9JZv7j",
+   "parentCommentId": "Ri9xaRq9Yo3dnYSRw",
+   "postedAt": "2025-07-19T20:55:20.684Z",
+   "baseScore": 0,
+   "user": null,
+   "contents": {
+    "markdown": "Top-level contributions provide initiative that keeps a community alive and fresh. Sure, you could write a top-level contribution but post it as a comment rather than a post to prove some point. But when I'm talking about \"top-level contributions\", it is pretty clear I am talking about the nature of the contribution itself, its suitability for sparking discussion, etc., and the fact that it is *technically possible* to make such a contribution in a comment section rather than as a post... is really not a very insightful objection.\n\n> surely only *good* contributions\n\nA contribution that brings effort and real learning to the table, and either comes from an author who habitually make insightful posts, or itself is likely to be insightful (from the perspective of the author or the community), or sums up or otherwise explicates positions that are widely held in the community and merit discussion (even if those positions, and the contribution itself, are simply wrong) do merit a certain courtesy, and it is unwise to alienate authors who are in the habit of making such posts.\n\nThis is true even if some troublemaker can convince himself that the post is incorrect and therefore ba, and can convince himself to feel certain enough of it to set aside all epistemic humility, which is a frequent problem not only on LessWrong but in, to put it bluntly, Reddit-adjacent communities more broadly.\n\nQualifying my statement by limiting it to \"good contributions\" gives license to exactly the people I am trying to call out here. But I am obviously not therefore saying that somebody who makes top-level posts to spam or to advertise some garbage product or other should be rewarded with social status.\n\nIt really takes quite an irritating literalism to read my previous comment and be like \"Surely you shouldn\u2019t reward people *just* for making top-level posts, regardless of quality, or usefulness, or relevance\u2026?\". I don't think that kind of interpretation is likely to occur naturally out of a sincere attempt to understand the point I am making. It reads to me more like an attempt to come up with a \"*technically* correct\" interpretation of my words that justifies dismissing them as absurd."
+   }
+  },
+  {
+   "_id": "mk75aqrdzCsyEALpB",
+   "parentCommentId": "XzLo3or7dzEfoSbDv",
+   "postedAt": "2025-07-19T21:08:27.061Z",
+   "baseScore": -5,
+   "user": null,
+   "contents": {
+    "markdown": "> Posts and comments on *Less Wrong* differ in some technical ways (posts have titles and tags; comments do not), but that\u2019s all.\n\nNo, posts and comments on LessWrong do not in fact differ only in technical ways. Posts are longer than comments on average, for one, and there are many, many other non-technical ways in which they differ. Even the style of writing tends to differ, in no small part because comments tend to be written to address a single person (the poster) whereas posts only occasionally are.\n\nIf you're gonna take this angle of trying to be *technically* correct while completely missing the point, you ought to at least get it right, and not rely on arguments that are clearly technically false. And your claim that posts and comments differ in technical ways only is flatly false, yet that false claim is what your whole stance rests on.\n\nThat's not serious engagement. That's Reddit-tier at best. (inb4 an argument about how comments on LessWrong and comments on Reddit differ in some technical ways, but that's all)"
+   }
+  },
+  {
+   "_id": "TkKotix8Eh2CPJGTy",
+   "parentCommentId": "hFzju3wPnmxuEGMxu",
+   "postedAt": "2025-07-19T21:16:23.553Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Gwern is a very poor counterexample, both because he\u2019s also/primarily an extraordinarily prolific top-level poster (e.g. all of [gwern.net](http://gwern.net/))\r\n\r\nIs he, now?\r\n\r\nAs it happens, we recently built [a \u201cblog\u201d feature for gwern.net](https://gwern.net/blog/index), which has allowed Gwern to quickly add a lot of content to the site. I say \u201cadd\u201d, and not \u201cwrite\u201d, because a lot of the \u201cblog posts\u201d on that list are, in fact\u2026 [comments](https://gwern.net/blog/2024/virtual-comments) [that](https://gwern.net/blog/2024/winning-arms-races) [Gwern](https://gwern.net/blog/2024/e-positive) [wrote](https://gwern.net/blog/2024/llm-acceptable-use-policy) [on](https://gwern.net/blog/2025/better-llm-writing) [Less](https://gwern.net/blog/2025/meta-doomsday) [Wrong](https://gwern.net/blog/2025/llms-can-be-faster).\r\n\r\nAgain: good writing is good writing. It could be a comment, or a post. It could start as a comment, and become a post. It could start as a post, and be expanded in comments. It could start on LW, and be re-posted on a personal site, or vice versa. It makes *zero* sense to reward good and useful writing differently depending on whether it *currently* happens to be formatted as a \u201cpost\u201d or as a \u201ccomment\u201d.\r\n\r\n> The typical (or average or median or whatever) comment on the Internet, or on LW, is not Gwern-level\r\n\r\nWhat difference does that make? Why do we care about the typical/average/median comment? It\u2019s the *best* contributions that matter. We\u2019re talking about rewarding things with social status\u2014that\u2019s not going to be the *average* stuff that gets rewarded!\r\n\r\n> Writing top-level posts is much closer to creating, commenting is much closer to critique.\r\n\r\nWhere are you getting this? I mean, really, where is this even coming from? What\u2019s it based on? This claim seems to just be totally arbitrary.\r\n\r\nDid you read the comments I linked? Do they really strike you as \u201ccritique\u201d? What are they \u201ccritique\u201d *of*?\r\n\r\nWhat about [this comment](https://www.lesswrong.com/posts/fnkbdwckdfHS2H22Q/steelmanning-divination-1?commentId=k4HEGGc7JPWEPNuMR)? Is it \u201ccritique\u201d?\r\n\r\n> No-one would argue that a movie director produces the same kind of value as a movie critic; the same applies to posts vs. comments.\r\n\r\nOf course the same doesn\u2019t apply. Movie directors make movies. Movie critics do not make movies. Movies and movie reviews are not remotely the same thing. You don\u2019t go to the theater to watch a movie review with surround sound. Movies and reviews thereof are radically different artifacts, in radically different mediums.\r\n\r\nPosts and comments are both *text*. And the same kind of text, on the same forum, written by the same people, on the same topics.\r\n\r\nLike, you understand that any piece of text that you can post as a post, you can also post as a comment, right? (I mean, of course you do, it\u2019s such an obvious point. But then how can you make these claims?) I\u2019ve linked examples of turning comments into posts, and obviously you can do the reverse as well. The \u201cShortform\u201d feature blurs the line between them as well.\r\n\r\nJust\u2026 this is so very, very obviously a mostly-arbitrary technical distinction that is imposed by this specific design of forum software. It exists for convenience of organizing discussions. It cannot possibly support anything remotely resembling the dichotomy that you\u2019re trying to portray.\r\n\r\n> Or as another comparison, writing top-level posts is closer to shipping software features (like your work on [gwern.net?](http://gwern.net/?)), while commenting is closer to submitting bug reports, and usually ones that aren\u2019t about critical issues like crashes.\r\n\r\nNo, writing *essays* is closer to shipping software features, regardless of whether they are formatted/designated as \u201cposts\u201d or as \u201ccomments\u201d.\r\n\r\nMaybe that\u2019s the disconnect? Maybe when you say \u201cpost\u201d, you mean \u201cessay\u201d (with some thesis, arguments, etc.)? But there are lots of posts that aren\u2019t essays, and lots of essays that are comments and not posts.\r\n\r\n> I\u2019m claiming writing top-level posts produces more value in expectation, and thus just the attempt to do so already deserves some credit.\r\n\r\nBy no means! Producing value deserves credit. *Trying* to produce value does not deserve credit. (I trust that the incentive-based argument for this is obvious?)\r\n\r\n> Your comment here is a good example of what I meant by commenting being easier than making top-level posts: if it had been a top-level post by someone else, and you had read it, I expect you would have rightly criticized the OP for bringing up Gwern despite him being such a noncentral example.\r\n\r\nI absolutely would not have made such a criticism, because it\u2019s deeply mistaken.\r\n\r\n> In fact, if comments and posts are no different, then I dare you to put your words into practice. Make this very topic (or another one like your work on [gwern.net](http://gwern.net/)) a full post and open it up to the kinds of critique only top-level posts are subject to.\r\n\r\nYour wish is (retroactively) my command: [my recent post](https://www.lesswrong.com/posts/FmkmQGDWuatmS4FDe/are-agent-action-dependent-beliefs-underdetermined-by) is the first of what will be a series of top-level posts based on comments that I\u2019ve previously written."
+   }
+  },
+  {
+   "_id": "sBx3iHrwFD3JHYQj8",
+   "parentCommentId": "KC8Hr6GMSK7NYR7Cb",
+   "postedAt": "2025-07-19T21:41:09.770Z",
+   "baseScore": 0,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "As I say in [my other comment](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#TkKotix8Eh2CPJGTy), the average/median/typical comment or post isn\u2019t the important thing here. The important things are:\r\n\r\n1. The *best* posts and comments; and\u2026\r\n2. The specific posts and/or comments under discussion in any given case."
+   }
+  },
+  {
+   "_id": "6aD4m6sgzP3B4khbx",
+   "parentCommentId": "mk75aqrdzCsyEALpB",
+   "postedAt": "2025-07-19T21:45:36.211Z",
+   "baseScore": -6,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Posts are longer than comments on average\r\n\r\nSee [here](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#sBx3iHrwFD3JHYQj8).\r\n\r\n> there are many, many other non-technical ways in which they differ\r\n\r\nName three.\r\n\r\n> Even the style of writing tends to differ, in no small part because comments tend to be written to address a single person (the poster)\r\n\r\nFalse of the example I gave in the comment you\u2019re responding to. (False in many other cases, too.)\r\n\r\n> arguments that are clearly technically false\r\n\r\nUnsupported claim. Produce the rebuttal, please."
+   }
+  },
+  {
+   "_id": "pgYx2EFEu83NFd5hY",
+   "parentCommentId": "6aD4m6sgzP3B4khbx",
+   "postedAt": "2025-07-19T21:51:16.031Z",
+   "baseScore": -5,
+   "user": null,
+   "contents": {
+    "markdown": "> See [here](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#sBx3iHrwFD3JHYQj8).\n\n  \nImportant or not, it *is* a non-technical difference, and you just deflected it. I call that a clear-cut case of blatant bad faith on your part.\n\n> Name three.\n\nComments are usually addressed to the author of that which they are commenting on. This is sometimes true of top-level posts too, but not as often.\n\nAnd the linguistic register of posts is more formal on average than that of comments.\n\nAlong with the difference in average length, that's three, which is generous of me considering you have yet to write a single comment in good faith in this entire discussion."
+   }
+  },
+  {
+   "_id": "ociLpQDHLehXdrzbu",
+   "parentCommentId": "HYQtJPkBtPg9JZv7j",
+   "postedAt": "2025-07-19T21:58:12.561Z",
+   "baseScore": 0,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Sure, you could write a top-level contribution but post it as a comment rather than a post to prove some point. But when I\u2019m talking about \u201ctop-level contributions\u201d, it is pretty clear I am talking about the nature of the contribution itself, its suitability for sparking discussion, etc., and the fact that it is *technically possible* to make such a contribution in a comment section rather than as a post\u2026 is really not a very insightful objection.\r\n\r\nIt\u2019s not just \u201ctechnically possible\u201d, it\u2019s a thing that happens all the time. I gave examples! Why are you ignoring them?\r\n\r\n> A contribution that brings effort and real learning to the table\r\n\r\nWhat in the world does this mean? What is \u201creal learning\u201d in this context, and how does it get \u201cbrought to the table\u201d?\r\n\r\n> sums up or otherwise explicates positions that are widely held in the community and merit discussion (even if those positions, and the contribution itself, are simply wrong) do merit a certain courtesy\r\n\r\nAre you saying that explanations which are \u201csimply wrong\u201d\u2026 are\u2026 good? Why?\r\n\r\n> it is unwise to alienate authors who are in the habit of making such posts\r\n\r\nIt\u2019s unwise to alienate authors who are in the habit of making posts that explain positions or sum up discussions, but whose explanations/summaries are wrong? I beg to differ! Indeed, such posts can be *spectacularly* harmful.\r\n\r\n> This is true even if some troublemaker can convince himself that the post is incorrect and therefore [bad]\r\n\r\nAre you suggesting that incorrect posts are actually good? Or denying the possibility of a post being incorrect? Or something else?\r\n\r\n(Frankly, the idea that someone who says \u201cthis post is incorrect\u201d is thereby a \u201ctroublemarker\u201d is an attitude so egregiously corrosive to truth-seeking that I\u2026 *should* be shocked to see it on *Less Wrong*\u2026 I\u2019m not actually shocked, I regret to say; but that is itself a judgment of the state of LW, more than anything.)\r\n\r\n> But I am obviously not therefore saying that somebody who makes top-level posts to spam or to advertise some garbage product or other should be rewarded with social status.\r\n\r\nObviously. Nobody suggested otherwise.\r\n\r\n> It really takes quite an irritating literalism to read my previous comment and be like \u201cSurely you shouldn\u2019t reward people *just* for making top-level posts, regardless of quality, or usefulness, or relevance\u2026?\u201d. I don\u2019t think that kind of interpretation is likely to occur naturally out of a sincere attempt to understand the point I am making.\r\n\r\nThis is a very weird thing to say, given that in this very comment you\u2019ve reiterated the claim that contributions should be rewarded even if they\u2019re wrong and bad."
+   }
+  },
+  {
+   "_id": "izirZrgZvvHySgw4i",
+   "parentCommentId": "TkKotix8Eh2CPJGTy",
+   "postedAt": "2025-07-19T22:01:06.581Z",
+   "baseScore": -3,
+   "user": null,
+   "contents": {
+    "markdown": "> I mean, of course you do, it\u2019s such an obvious point. But then how can you make these claims?\n\n[https://www.lesswrong.com/s/zpCiuR4T343j9WkcK](https://www.lesswrong.com/s/zpCiuR4T343j9WkcK)\n\nThe argument he's making, and the argument I am making, is not actually very hard to understand, and, to confirm your suspicion: it does *not* in fact come from a lack of awareness that the same text can be posted as either a comment or post.\n\n> Just\u2026 this is so very, very obviously a mostly-arbitrary technical distinction that is imposed by this specific design of forum software.\n\nNo, this technical distinction was deliberately created, and forum software was deliberately selected as opposed to, say, an IRC chat or a discord server. It is not arbitrary at all. You might as well say that the distinction between opening statements and rebuttals in an Oxford debate is arbitrary since both of them are basically open form in practice and you can say the exact same words in either segment (you won't be arrested or anything). The point, however, is that there are clear patterns that differ between opening statements and rebuttals. The LessWrong distinction between posts and commnets is not an arbitrary distinction that stems from technological limitations and can be traced no further back, it stems ultimately from a psychological desire. I see no indication that you have even *attempted* to understand the psychological angle.\n\n> By no means! Producing value deserves credit. *Trying* to produce value does not deserve credit. (I trust that the incentive-based argument for this is obvious?)\n\nTrue, but trying in ways that will likely lead to value down the line, even if the first few posts are a miss, does deserve credit, or at least a level of courtesy which you seem hellbent on opposing. But even then, it *is* in fact possible to write deeply critical comments without taking on a smug tone or coming across as being on a high horse. Have you examined the psychological mechanisms underlying your apparent insistence on hostility to people who make posts which you, in your capacity as epistemic arbiter or some such, deem to be unmeritorious? Again, I see not the slightest indication."
+   }
+  },
+  {
+   "_id": "PtwpJ6C77NvPBAJJX",
+   "parentCommentId": "ociLpQDHLehXdrzbu",
+   "postedAt": "2025-07-19T22:05:19.179Z",
+   "baseScore": 0,
+   "user": null,
+   "contents": {
+    "markdown": "> (Frankly, the idea that someone who says \u201cthis post is incorrect\u201d is thereby a \u201ctroublemarker\u201d is an attitude so egregiously corrosive to truth-seeking that I\u2026 *should* be shocked to see it on *Less Wrong*\u2026 I\u2019m not actually shocked, I regret to say; but that is itself a judgment of the state of LW, more than anything.)\n\nNot even remotely what I said. Your own \"truth-seeking\" cred does not look very pristine if you are going to engage in straw manning as blatant as that.\u00a0\n\nEdit: funny how when called on a blatant straw man, he just ignores the callout and moves on.\n\n> It\u2019s not just \u201ctechnically possible\u201d, it\u2019s a thing that happens all the time. I gave examples! Why are you ignoring them?\n\n  \nNice sleight of hand there, but I wrote that comment before you posted those examples.\n\n> Are you suggesting that incorrect posts are actually good? Or denying the possibility of a post being incorrect? Or something else?\n\nI suggested that there are ways in which a post can be good despite its thesis being incorrect. I named specific ways. Why are *you* ignoring *them*?\n\nI think it is becoming increasingly clear that your only purpose here is one-upmanship, not good faith discussion. Also, I think you are scum.\n\nEdit: just spotted this\n\n> This is a very weird thing to say, given that in this very comment you\u2019ve reiterated the claim that contributions should be rewarded even if they\u2019re wrong and bad.\n\nNever said any such thing. Obviously contributions should not be rewarded if they're bad. But I guess Said isn't above even *lying outright* about the contents of a publicly visible comment. And this:\n\n> Obviously. Nobody suggested otherwise.\n\nTruly incredible."
+   }
+  },
+  {
+   "_id": "C2kgmffwhnpYkmgoK",
+   "parentCommentId": "hFzju3wPnmxuEGMxu",
+   "postedAt": "2025-07-19T22:06:13.061Z",
+   "baseScore": 5,
+   "user": null,
+   "contents": {
+    "markdown": "> I expect you would have rightly criticized the OP for bringing up Gwern despite him being such a noncentral example.\n\nHmmm... I'm not too sure of this. My own intuition is that it's more of an \"isolated demands for rigour\" thing, and that he would applaud such a post due to his own agreement with it, and not look into its quality too closely. I'd love to be wrong, but over years of dealing with people of this sort*, I have found that even my least charitable interpretations of their behaviour tend to be overly optimistic to the point of seeming outright naive in hindsight.\n\n*meaning, to an approximation: stereotypical redditors of the r/atheism kind. This has to be understood rather broadly though since many people of this sort have been turning into neo-tradcaths or orthobros lately, and don't seem to be any better for the change.\n\nEdit: [yep, it's isolated demands for rigour](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=xSx4Xqbqucnrnq8wA)"
+   }
+  },
+  {
+   "_id": "xSx4Xqbqucnrnq8wA",
+   "parentCommentId": "pgYx2EFEu83NFd5hY",
+   "postedAt": "2025-07-19T22:07:15.385Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Important or not, it *is *a non-technical difference\r\n\r\n> that\u2019s three\r\n\r\nIt\u2019s zero.\r\n\r\nThe *average* (or median, etc.) comment or the *average* post is irrelevant for the purpose of the discussion that we\u2019re actually having here, which is about whether it makes sense to reward contributors differently based on whether they have written a post or a comment. In such a case, the only thing that could matter is *that actual post or comment*. And so the only kinds of properties that could be relevant are those which attach to *any* post or *any* comment\u2014*not* aggregate statistical measures of *all posts on LW* and *all comments on LW*!\r\n\r\n(Before you call \u201cbad faith\u201d, consider checking whether you understand what your interlocutor is saying.)"
+   }
+  },
+  {
+   "_id": "jXHhdrYGTSypXFQpg",
+   "parentCommentId": "xSx4Xqbqucnrnq8wA",
+   "postedAt": "2025-07-19T22:11:31.161Z",
+   "baseScore": -5,
+   "user": null,
+   "contents": {
+    "markdown": "It is literally a technical difference, and you were the person who started doing the asinine literalism in the first place. I guess it's cool when you do it, but not when your interlocutors do?\n\nAccusing you of \"bad faith\" did not go nearly far enough, evidently.\n\nEdit: just noticed how you deflected only one of three examples, and then simply ignored the two others to tell me I had given zero. *Constant* sleight of hand. Crazy."
+   }
+  },
+  {
+   "_id": "qm8JyLaBLMdBfG7JB",
+   "parentCommentId": "PtwpJ6C77NvPBAJJX",
+   "postedAt": "2025-07-19T22:13:48.570Z",
+   "baseScore": 0,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> > It\u2019s not just \u201ctechnically possible\u201d, it\u2019s a thing that happens all the time. I gave examples! Why are you ignoring them?\r\n> \r\n> \r\n> Nice sleight of hand there, but I wrote that comment before you posted those examples.\r\n\r\n[The examples](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#XzLo3or7dzEfoSbDv): posted at 10:43 AM EST.\r\n\r\n[Your comment](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#HYQtJPkBtPg9JZv7j): posted at 4:55 PM EST."
+   }
+  },
+  {
+   "_id": "eF24CwXWdMC6BDmma",
+   "parentCommentId": "qm8JyLaBLMdBfG7JB",
+   "postedAt": "2025-07-19T22:19:42.150Z",
+   "baseScore": 3,
+   "user": null,
+   "contents": {
+    "markdown": "Nice sleight of hand again, but the examples you are referring to were clearly the ones in [this comment](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=TkKotix8Eh2CPJGTy), which contained *actual examples* of precisely the thing you were claiming takes place.\n\nBut now you conveniently pretend you were referring to an earlier comment, which did not provide any such examples but was just gesturing broadly to Gwern's comment history to make a point about its quality.\n\nAnd even if you had been referring to that comment (again, implausible), it would still be sleight of hand, because that comment wasn't written in response to me, and you had not given examples to me in any reasonable sense.\n\nYou are clearly profoundly dishonest, and you are clearly only in this for the sake of one-upmanship. Again, reddit-tier engagement (although even redditors are rarely as bad as this)"
+   }
+  },
+  {
+   "_id": "BxKNTmuXfPKx4Jba7",
+   "parentCommentId": "eF24CwXWdMC6BDmma",
+   "postedAt": "2025-07-19T22:27:01.173Z",
+   "baseScore": -1,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> the examples you are referring to were clearly\r\n\r\nI rather think that I know best what I was referring to, thank you.\r\n\r\n> an earlier comment, which did not provide any such examples but was just gesturing broadly to Gwern\u2019s comment history\r\n\r\nFalse. [That comment](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#XzLo3or7dzEfoSbDv) linked to a specific comment thread and identified three specific comments.\r\n\r\n> that comment wasn\u2019t written in response to me\r\n\r\nIndeed, in accordance with a point which I have made many times, *including directly in response to you, in this very discussion*, that comments on a *public* discussion forum are often written as a one-to-many communication, not a one-to-one missive."
+   }
+  },
+  {
+   "_id": "WWugggSkLb4JAjNkC",
+   "parentCommentId": "BxKNTmuXfPKx4Jba7",
+   "postedAt": "2025-07-19T22:36:36.754Z",
+   "baseScore": -2,
+   "user": null,
+   "contents": {
+    "markdown": "> I rather think that I know best what I was referring to, thank you\n\nIndeed, which is why I am confident in claiming that you are lying outright and not merely making a mistake.\n\n> False. [That comment](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#XzLo3or7dzEfoSbDv) linked to a specific comment thread and identified three specific comments.\n\nThree comments which constitute a single work and therefore only a single example of your point, and a dubious one at that, but I am getting tired of calling out what appears to be an endless stream of attempts at one-upmanship. On some level, you know exactly what you are doing, or it would not be possible for your behaviour to be so goal-oriented towards it. You know *that*, too. I suppose your modus operandi is that if you can win this asinine contest of one-upmanship, it justifies you in completely setting aside any critique of what it reveals about your character (that you have the soul of a Redditor)\n\nMany such cases. You fit the stereotype to a T. Do you know that?"
+   }
+  },
+  {
+   "_id": "xZfmrsGYXHhcegXgx",
+   "parentCommentId": "ociLpQDHLehXdrzbu",
+   "postedAt": "2025-07-19T22:57:26.893Z",
+   "baseScore": 4,
+   "user": null,
+   "contents": {
+    "markdown": "> It\u2019s not just \u201ctechnically possible\u201d, it\u2019s a thing that happens all the time. I gave examples! Why are you ignoring them?\n\nJust noticed another bit of sleight of hand here. Even if I had seen those examples at the time of making the post, there was no need to address them since they have zero relevance to the point. Those comments by Gwern *are* top-level contributions. Or, if they aren't, then they are not examples of top-level contributions made as comments. It's one or the other, but Said Achmiz is here trying to have it both ways. Why? To justify being an asshole."
+   }
+  },
+  {
+   "_id": "byrsfEPEnvHFEtPz6",
+   "parentCommentId": "TkKotix8Eh2CPJGTy",
+   "postedAt": "2025-07-19T23:05:07.940Z",
+   "baseScore": 4,
+   "user": null,
+   "contents": {
+    "markdown": "> Maybe that\u2019s the disconnect? Maybe when you say \u201cpost\u201d, you mean \u201cessay\u201d (with some thesis, arguments, etc.)? But there are lots of posts that aren\u2019t essays, and lots of essays that are comments and not posts.\n\n  \nFunny how I've been saying \"top-level contributions\" (a category which includes essays, but also guides, overviews, etc.) rather than \"posts\" this whole time.\u00a0\n\nIn other words, even if we admit MondSemmel's wording to have been an error, I at least did not make the same error. But did that save me from your scummy behaviour? No, you simply pretended as if I had said \"posts\" and proceeded to engage in the same \"what about Gwern's comments\" tactic, despite it being completely irrelevant when my initial argument never *once* made a distinction between posts and comments. But you used sleights of hand so much that I kept being distracted from the fact that your *entire* line of argument was based on putting words in my mouth and interpreting my argument through the lens of a distinction I didn't make, but which you simply foisted on me.\n\nNot only is it utterly disgusting behaviour, it also shows that it would've made no difference if MondSemmel *had* said \"essay\" instead of \"post\", and that that diagnosis of the \"disconnect\" is merely another attempt at one-upmanship."
+   }
+  },
+  {
+   "_id": "kNbYmeYctKTRAhds2",
+   "parentCommentId": "byrsfEPEnvHFEtPz6",
+   "postedAt": "2025-07-19T23:43:24.876Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> Funny how I\u2019ve been saying \u201ctop-level contributions\u201d (a category which includes essays, but also guides, overviews, etc.) rather than \u201cposts\u201d this whole time.\r\n\r\n[Not](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=pgYx2EFEu83NFd5hY) [true](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=mk75aqrdzCsyEALpB).\r\n\r\nHowever, perhaps those were merely slips, or you replied quickly and didn\u2019t write what you meant to write, etc.; fine, these things happen.\r\n\r\nBut then your comments in this thread seem quite perplexing. For instance, you [wrote](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant#BC2mtFDz7ZEGqbjxK):\r\n\r\n> top-level contributions *ought* to be rewarded with a certain social status\r\n\r\nI expressed puzzlement, asking:\r\n\r\n> what\u2019s so special about \u201ctop-level contributions\u201d? Surely contributions are valuable if\u2026 they\u2019re valuable? No matter where they\u2019re written (as posts, as comments, as shortform entries, etc.)?\r\n\r\nYou replied:\r\n\r\n> Sure, you could write a top-level contribution but post it as a comment rather than a post to prove some point. But when I\u2019m talking about \u201ctop-level contributions\u201d, it is pretty clear I am talking about the nature of the contribution itself, its suitability for sparking discussion, etc., and the fact that it is *technically possible* to make such a contribution in a comment section rather than as a post\u2026 is really not a very insightful objection.\r\n\r\nTo which I replied:\r\n\r\n> It\u2019s not just \u201ctechnically possible\u201d, it\u2019s a thing that happens all the time.\r\n\r\nDo you\u2026 agree? Disagree?\r\n\r\nIf you disagree, then we\u2019re back to talking about posts vs. comments.\r\n\r\nIf you agree, then it\u2019s not clear to me what your initial point even was. Remember, all of this is in the context of a reply to a post which contained the following text:\r\n\r\n> But would a commenter who had never written \u201ctop-level\u201d posts thereby be a worse commenter? It\u2019s hard to see why that would be the case. In the analogy, coaching is an activity that depends on playing, but comment-writing doesn\u2019t seem to depend on post-writing to nearly the same extent or even in the same way, in large part because it\u2019s not even clear to what extent comment-writing and post-writing are even different activities, rather than just being the same activity, writing. (It\u2019s not uncommon that text that was originally drafted with the intent of being a \u201ccomment\u201d, ends up being revised into a \u201cpost.\u201d)\r\n\r\nOP is clearly using the term \u201ctop-level\u201d to refer to posts, as distinct from comments. You wrote \u201ctop-level *contribution*\u201d in your initial comment; it\u2019s a strange word choice, if you really were not trying to point to the post vs. comment distinction\u2026 and also, *why* were you not trying to point to the post vs. comment distinction? That\u2019s what the OP was talking about!\r\n\r\nBut it\u2019s actually even weirder than that\u2014in your initial comment, you also wrote:\r\n\r\n> If people who never write top-level posts proceed to engage in snark and smugness towards people who do, that\u2019s a problem\r\n\r\n\u2026 which is indeed talking about \u201cposts\u201d, not just \u201ctop-level contributions\u201d which may or may not be posts.\r\n\r\nObviously, only you know what you meant to say. But I really don\u2019t think that I can be accused of putting words in your mouth. I think that what you have written is genuinely, deeply unclear, and apparently contradictory. Perhaps now would be a good time to clarify just what your position is."
+   }
+  },
+  {
+   "_id": "zdcwyhdRzHTajMFrN",
+   "parentCommentId": "kNbYmeYctKTRAhds2",
+   "postedAt": "2025-07-20T00:15:37.610Z",
+   "baseScore": 0,
+   "user": null,
+   "contents": {
+    "markdown": "> [Not](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=pgYx2EFEu83NFd5hY) [true](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=mk75aqrdzCsyEALpB).\n\nI have been saying top-level contributions from the start. The very first comment I made in this discussion made no mention of either posts or comments. You disingenuously reframed my argument and I made the mistake of borrowing your terms instead of insisting on mine.\u00a0\n\n> However, perhaps those were merely slips, or you replied quickly and didn\u2019t write what you meant to write, etc.; fine, these things happen.\n\nYes, you foisted a distinction on me that I did not make, and I slipped up in accepting the reframing of my argument. I should have been more suspicious of your antics from the outset.\n\n> I expressed puzzlement\n\nNot *quite* what you expressed.\n\n> Do you\u2026 agree? Disagree?\n\nI haven't looked into it, because as I've already made quite clear, it is flat out *not relevant* to the point I am making.\n\n> If you agree, then it\u2019s not clear to me what your initial point even was. Remember, all of this is in the context of a reply to a post which contained the following text:\n\nBut that text was itself written in the context of prior history between Duncan Sabien and another member. You know this, because you *are* that other member. Zack was critiquing Duncan's viewpoint, and I was defending it. Both I and Zack were referencing Duncan's viewpoint when we referred to top-level contributions. I grant that Duncan did also refer explicitly to posts, but that was for convenience and not actually essential to his argument, and his post was quite clearly an essay, not a logical proof, so it really shouldn't read \"autistically\" (for lack of a better word)\n\n> Obviously, only you know what you meant to say. But I really don\u2019t think that I can be accused of putting words in your mouth. I think that what you have written is genuinely, deeply unclear, and apparently contradictory. Perhaps now would be a good time to clarify just what your position is.\n\nMy position is that there is a type of person conventionally known as a *subversive*, who portray themselves as crusaders of the truth or justice or some such, but who are clearly nothing of the sort, and who are deeply corrosive to civility, good faith interactions, high-trust communities, etc.\n\nThey convince themselves that they are insightful critics, but their analyses show persistent biases that manifest as epistemic inconsistencies. They are often driven by a visceral need to always be the smartest person in the room, or at any rate to show off their brains at others' expense, or their virtue at others' expense (bible thumpers are another manifestation of this personality type, as are hippies).\n\nThey do sometimes argue in good faith, but even when they are being intensely eristic, they think they are still in good faith, because they take deontological view of good faith, where it can be reduced to following a bunch of rules, like, \"if I don't straw man the other person, don't poison the well, don't engage in ad hominems, etc., then I am in good faith\". It does not however take a particularly firm grasp of psychology to realize that there is an affective dimension to good faith, and that while it might *theoretically* be possible to be in good faith while also being intensely standoffish, it pretty much never happens.\n\nMoreover, when they are in this eristic mood, they almost always make the interaction as unpleasant for the other person as they possibly can without making it too obvious what they are doing. Everything that can be weaponized will be weaponized, the tone will be as full of hidden venom as possible, and almost every sentence is goal-oriented towards making the other person lose face. And the other person, unless exceptionally skilled in dealing with these people, has little choice but either let himself be humiliated, or respond in kind.\n\nOutside of subversive spheres, this pattern of behaviour tends to be met with punishment of some sort, but this is deemed unacceptable in subversive spheres, whose social norms are goal-oriented towards enabling exactly this pattern of behaviour, making it especially difficult to deal with. Incidentally, this same dynamic is what brought down the monarchies of Europe, since they could not simply crack down on subversion without being deemed tyrannical.\n\nFyodor Dostoevsky has written more about this than probably anybody else ever has. I used to be much more fluent in dealing with this dynamic, but that can only come at the cost of assimilating to it. Instead I've been distancing myself from it, which has made me less and less fluent in dealing with subversives. I will probably deactivate my LessWrong account one of these days.\n\nSo basically my position is that decent contributors shouldn't have to deal with subversives."
+   }
+  },
+  {
+   "_id": "d5waZYxYrv88mqedu",
+   "parentCommentId": "zdcwyhdRzHTajMFrN",
+   "postedAt": "2025-07-20T00:53:19.211Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "> The very first comment I made in this discussion made no mention of either posts or comments.\r\n\r\nSorry, but this is unambiguously false. Indeed, I quoted you, in the comment to which you are responding:\r\n\r\n> But it\u2019s actually even weirder than that\u2014in your initial comment, you also wrote:\r\n> \r\n> > If people who never write top-level posts proceed to engage in snark and smugness towards people who do, that\u2019s a problem\r\n> \r\n> \u2026 which is indeed talking about \u201cposts\u201d, not just \u201ctop-level contributions\u201d which may or may not be posts.\r\n\r\nAnyhow:\r\n\r\n> > If you agree, then it\u2019s not clear to me what your initial point even was. Remember, all of this is in the context of a reply to a post which contained the following text:\r\n> \r\n> But that text was itself written in the context of prior history between Duncan Sabien and another member. You know this, because you *are *that other member. Zack was critiquing Duncan\u2019s viewpoint, and I was defending it. Both I and Zack were referencing Duncan\u2019s viewpoint when we referred to top-level contributions. I grant that Duncan did also refer explicitly to posts\r\n\r\nSo the OP was about posts vs. comments, and it was written in the context of something else which was *also* about posts vs. comments, and your own initial comment mentioned posts\u2026\r\n\r\n\u2026 and yet it\u2019s weird and somehow blameworthy for me to think that we\u2019re talking about posts vs. comments?\r\n\r\n> My position is \u2026\r\n\r\n\u2026 and what does any of that have to do with the OP?"
+   }
+  },
+  {
+   "_id": "quXfk234utuMEvjXs",
+   "parentCommentId": "d5waZYxYrv88mqedu",
+   "postedAt": "2025-07-20T01:13:52.271Z",
+   "baseScore": -3,
+   "user": null,
+   "contents": {
+    "markdown": "> So the OP was about posts vs. comments, and it was written in the context of something else which was *also* about posts vs. comments, and your own initial comment mentioned posts\u2026\n\nNo, that was literally never the salient point. Duncan Sabien's post was literally called \"Killing Socrates\" and was drawing analogies to the sophists vs the Socratics. That should be enough to show you that the post vs. comment distinction is not the salient issue.\n\nYes, Duncan Sabien did map it to posts versus comments, but that is because that distinction \u2014 far from being an arbitrary feature of this kind of forum \u2014 is intended precisely to accommodate two different modes of engagement. The correlation between the mode of engagement and the medium (posts vs comments) may not be perfect, or even all that strong, but if so, by the same principle, Duncan's mapping of the two modes of engagement to posts versus comments also isn't all that strong. The salient point was always about the modes of engagement, hence why it is even possible to draw an analogy to Socrates. It was always about contributors versus disparagers.\n\nAnd it is not like this is some subtle argument that is difficult to follow, so yes, your repeated failure to grasp what is being talked about *is* blameworthy.\n\n> ... and what does any of that have to do with the OP?\n\nYou are a subversive and Duncan Sabien was a decent contributor who should never have had to put up with you. That's what."
+   }
+  },
+  {
+   "_id": "c6T6oCQbJrp8KwTgL",
+   "parentCommentId": "WDqZnTAKMNGpY8mJz",
+   "postedAt": "2025-08-04T17:07:57.640Z",
+   "baseScore": 4,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "See edit of the grandparent. Turns out I do have two curated posts, who knew?!"
+   }
+  },
+  {
+   "_id": "Drf9gjk6GpiiZEK9e",
+   "parentCommentId": null,
+   "postedAt": "2025-09-04T22:03:59.577Z",
+   "baseScore": 21,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "> I sometimes see people express disapproval of critical blog comments by commenters who don\u2019t write many blog posts of their own. Such meta-criticism is not infrequently couched in terms of metaphors to some non-blogging domain.\r\n\r\nThe paragraphs you quote are both metaphors analogizing some non-blogging domain to... something. It's not clear to me that the thing they're analogizing to is \"writing posts on LW, specifically as opposed to comments on LW\". Like, it seems that you think in Habryka's comment\r\n\r\n> The situation seems more similar to having a competitive team where anyone gets screamed at for basically any motion, *with a coach who doesn\u2019t themselves perform the sport*, but just complaints \\[*sic*\\] in long tirades any time anyone does anything, making references to methods of practice and training long-outdated, with a constant air of superiority.\r\n\r\nthe analogy is that the coach writes blog comments and the team members write blog posts. But skimming a few comments up and down in that thread, that's not a hypothesis I'd generate. (I've read the thread previously but don't remember it in detail.) Possibly the post it's on makes it more plausible as a hypothesis, but like, the comment in question is very deep into a thread.\r\n\r\nAnd similarly, in Duncan's comment\r\n\r\n> There\u2019s only so much withering critique a given builder is interested in receiving *(frequently from those who do not themselves even build!)* before eventually they will either stop building entirely, or leave to go somewhere where buildery is appreciated, rewarded, and (importantly) defended.\r\n\r\nIt seems you think the builders are meant to be the blog posters and the people criticizing them are the blog commentators. But again, if I re-skim the post, this isn't clear. I think the strongest short-snippet evidence for it comes from the line\r\n\r\n> **the commenter most frequently complained about by the former authors was a person who did not themselves write posts**\r\n\r\n...but this line was written by Vaniver. Duncan quoted it in bold, but I don't think that means Duncan would necessarily draw the line at \"people who write posts versus people who write comments\". I'd guess he wouldn't, and for that matter that nor would Vaniver.\r\n\r\nIt seems to me that posts-versus-comments is a helpful stand in for the actual distinction that people care about here, which is...\r\n\r\n...well, it's hard to pin down, which I think is part of why people use metaphor. Writing \"words that stand by themselves, that provide value to a broad spectrum of people even if they haven't read certain specific other words\" versus \"words that are mostly only worth reading if you've read some specific other words and didn't happen to spot a specific mistake in them\"? I don't think that's quite right, but pointing in the right general direction. (E.g. \"part five in an ongoing sequence\" might need parts 1-4 as context, but still be in the category that I'm trying to gesture at with the stand-by-themselves description.)\r\n\r\nObviously both kinds of writing can be written as both comments and posts, but there's clear correlation for which is written as which. Describing them as posts versus comments probably isn't ideal, but I think it's mostly okay.\r\n\r\nAnd if we assume people are talking about these other categories, instead of as posts and comments, then:\r\n\r\n> it\u2019s not even clear to what extent comment-writing and post-writing are even different activities, rather than just being the same activity, writing.\r\n\r\nI claim that yes, these two different types of writing are significantly different activities.\r\n\r\n---\r\n\r\n> Because it would be the same sequence of bytes, the effect of rendering those bytes as text on a monitor and showing them to a human would be the same. The human reading the comment has no way of knowing who or what wrote those bytes to the database. In in [the language of causal graphical models](https://plato.stanford.edu/entries/causal-models/#MarkCond), we can say that the text of the comment [\u201cscreens off\u201d](https://www.lesswrong.com/posts/5yFRd3cjLpm3Nd6Di/argument-screens-off-authority) the process that produced it.\r\n\r\nWho wrote this comment\" is *also* written into the database, and rendered on the page! You can e.g. choose whether or not to read the words after looking at my username! The effect of rendering these bytes as text preceded by my username does not need to be the same as the effect of rendering these bytes as text preceded by another username!\r\n\r\n...I'm pretty sure you know this? At any rate, later down you seem to know that it is possible to know who a comment was authored by. But I found it weirdly frustrating to have this obviously-wrong argument for an obviously-wrong conclusion lying around."
+   }
+  },
+  {
+   "_id": "xbbXcSv7muPzTkFBt",
+   "parentCommentId": "Drf9gjk6GpiiZEK9e",
+   "postedAt": "2025-09-07T17:08:59.206Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks for commenting!\n\n> Describing them as posts versus comments probably isn't ideal, but I think it's mostly okay.\n\nYes, in retrospect, I wish I had done a better job of flagging the metonymy. I'm glad the idea got through despite that.\n\n> I claim that yes, these two different types of writing are significantly different activities.\n\nDifferent in what respect? When I write a critical post (arguing that author $X$ is wrong about $Y_1$ because $Z_1$), it feels like relevantly the same activity as when I write a \"non-critical\" post (just arguing that $Y_2$ because $Z_2$ without reference to any reputedly mistaken prior work) in terms of what cognitive skills I'm using: the substance is about working out how $Z_i$ implies $Y_i$. That's the aspect relevant to the playing/coaching metaphor. Whether there happens to be an $X$ in the picture doesn't seem to change the essential character of the work. (Right? Does your subjective assessment differ?)\n\n> The effect of rendering these bytes as text preceded by my username does not need to be the same as the effect of rendering these bytes as text preceded by another username!\n\nIt doesn't _need_ to, but _should_ it? The section titled \"However, Critic Contributions Can Inform Uncertain Estimates of Comment Value\" describes one reason why it should. My bold philosophical claim is that that's the only reason. (I'm counting [gjm's comment about known expertise](https://www.lesswrong.com/posts/bsKHthyhB7DNBxERQ/critic-contributions-are-logically-irrelevant?commentId=LoeWEN478Zijzv7gt) as relevantly \"the same reason.\")\n\nAlternatively, for the purpose of the argument in that section, we can instead imagine that we're talking about a blog where the commenting form has a blank \"Author name\" field, rather than a site with passworded accounts: the name could be forged just as easily as the comment content, and the \"comment\" is the (author-name, content) pair. That would restore the screening-off property."
+   }
+  },
+  {
+   "_id": "z3dkswdKptRJttdpK",
+   "parentCommentId": "xbbXcSv7muPzTkFBt",
+   "postedAt": "2025-09-08T17:38:22.991Z",
+   "baseScore": 6,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "> I\u2019m glad the idea got through despite that.\r\n\r\nOh, I'd say it didn't. At least not to me, and judging from my memory of the comments, not to many others either.\r\n\r\nThat is, when I read the essay I thought: \"Zack thinks that Oli and Duncan think X, and Zack thinks X is wrong. I think instead Oli and Duncan think X', which is obviously true.\"\r\n\r\nJudging from this comment, you actually thought Oli and Duncan think X', and you think X' is wrong. And sure, after reading the essay I thought \"Oli and Duncan think X'\", so arguably the essay transmitted that to me. But it felt more like the essay pointed me in a direction that let me generate the hypothesis myself, rather than actually transmitting the hypothesis to me.\r\n\r\nNot sure if this is particularly a meaningful distinction.\r\n\r\n> Different in what respect?\r\n\r\nThis is kind of hard to answer because the distributions overlap, but they still seem like clearly different distributions to me. For example:\r\n\r\n* If I'm writing a post-like-thing, I need to come up with a topic, and I might change the topic half way through writing it. If I'm writing a comment-like-thing, I'm continuing with the topic that someone else started.\r\n* Post-like-things are more likely to argue that some claim or idea that I've picked myself is true/useful, comment-like-things are more likely to argue that some claim or idea that someone else picked is false/useless-or-harmful.\r\n* I'm more likely to try to come up with an analogy when writing a post-like-thing, and more likely to dive into an analogy when writing a comment-like-thing.\r\n* A post-like-thing usually can't assume any one specific text as background knowledge. A comment-like-thing can typically assume the reader's also read the thing I'm commenting on and knows the argument it's making.\r\n* A post-like-thing is more likely to be written in the form of \"fiction that communicates an idea\" than a comment-like-thing is.\r\n\r\nHypothesis: even when you (i.e. Zack) write top-level posts, they're typically towards the comment-like side of things, and that's part of why it's not clear to you that there's a difference. For example, this top-level post is fairly comment-like.\r\n\r\n> It doesn\u2019t *need* to, but *should* it?\r\n\r\nMeh, not a conversation I feel like having.\r\n\r\nTo reiterate: you made an obviously-wrong argument for an obviously-wrong conclusion. (\"For a given comment, the same bytes are written to the database regardless of the author. So the text screens off the author; that is, given the text, the effect on the reader can't change depending on the author.\") And you know the conclusion is wrong, but you still left the wrong argument in the text, without pointing out where the mistake was or even that there must be a mistake, and that bugged me.\r\n\r\nThis isn't necessarily a flaw in the post, but I felt like pointing at it and grumbling anyway."
+   }
+  },
+  {
+   "_id": "SwWDgmYi6ycyyKpHh",
+   "parentCommentId": "EGEZFofo3DDaFau9W",
+   "postedAt": "2025-09-08T18:21:45.180Z",
+   "baseScore": 0,
+   "user": {
+    "username": "sharmake-farah",
+    "displayName": "Noosphere89"
+   },
+   "contents": {
+    "markdown": "Yes, but not at the ratios we see in practice."
+   }
+  }
+ ]
+}

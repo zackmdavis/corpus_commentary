@@ -1,0 +1,1714 @@
+                         The Complexity of Agreement
+                                           Scott Aaronson∗
+
+
+                                                 Abstract
+            A celebrated 1976 theorem of Aumann asserts that honest, rational Bayesian agents
+        with common priors will never “agree to disagree”: if their opinions about any topic
+        are common knowledge, then those opinions must be equal. Economists have writ-
+        ten numerous papers examining the assumptions behind this theorem. But two key
+        questions went unaddressed: first, can the agents reach agreement after a conversation
+        of reasonable length? Second, can the computations needed for that conversation be
+        performed efficiently? This paper answers both questions in the affirmative, thereby
+        strengthening Aumann’s original conclusion.
+            We first show that, for two agents with a common prior to agree within ε about the
+        expectation of a [0, 1] variable with high probability over their prior, it suffices for them
+        to exchange order 1/ε2 bits. This bound is completely independent of the number of
+        bits n of relevant knowledge that the agents have. We then extend the bound to three
+        or more agents; and we give an example where the economists’ “standard protocol”
+        (which consists of repeatedly announcing one’s current expectation) nearly saturates
+        the bound, while a new “attenuated protocol” does better. Finally, we give a protocol
+        that would cause two Bayesians to agree within ε after exchanging order 1/ε 2 messages,
+        and that can be simulated by agents with limited computational resources. By this we
+        mean that, after examining the agents’ knowledge and a transcript of their conversation,
+        no one would be able to distinguish the agents from perfect Bayesians. The time used
+        by the simulation procedure is exponential in 1/ε 6 but not in n.
+
+
+1       Introduction
+A vast body of work in AI, economics, philosophy, and other fields seeks to model human
+beings as Bayesian agents—agents that start out with some prior probability distribution
+over possible states of the world, then update the distribution as they gather new information
+[17]. Because of its simplicity, the “humans-as-roughly-Bayesians” thesis has remained
+popular, despite the work of Allais [1], Tversky and Kahneman [19], and others; and despite
+well-known problems such as old evidence [8]. But one aspect of human experience seems
+especially hard to reconcile with the thesis.
+    University of California, Berkeley. Email: aaronson@cs.berkeley.edu. Supported by an NSF Graduate
+    ∗
+
+Fellowship.
+
+
+
+
+                                                     1
+    Pick any two people, and there will be some factual question that they disagree about:
+who killed Kennedy, whether extraterrestrial life exists, who will win the next election, etc. 1
+The more intelligent the people, the easier it will be to find such a question. If they discuss
+the question, chances are excellent that they will not reach agreement, but will instead
+become more confirmed in their previous beliefs. This is so even if the people respect each
+other’s intelligence and honesty.
+    The above facts are known to everyone, yet as Aumann [2] observed in 1976, they con-
+stitute a serious challenge to Bayesian accounts of human reasoning. For suppose Alice and
+Bob are Bayesians, who have the same prior probabilities for all states of the world, but who
+have since gained different knowledge and thus have different posterior probabilities. Sup-
+pose further that, conditioned on everything she knows, Alice assigns a posterior probability
+p to (say) extraterrestrial life existing. Bob likewise assigns a posterior probability q. Then
+provided both agents know p and q (and know that they know them, etc.), Aumann showed
+that p and q must be equal. This is true even if neither agent has any idea on what sort of
+evidence the other’s estimate is based. For the sort of evidence can itself be considered a
+random variable, which is ultimately governed by a prior probability distribution that is the
+same for both agents.
+    Admittedly, the agents are unlikely to agree immediately after exchanging p and q. For
+conditioned on Alice’s estimate being p, Bob will revise his estimate q, and similarly Alice
+will revise p conditioned on Bob’s estimate q. The agents will then have to exchange their
+new estimates p0 and q 0 , and so on iteratively. But provided the set of possible states is
+finite, it is easy to show that this iterative process must terminate eventually, with both
+agents having the same estimate [9]. In conclusion, then, we should not expect the agents
+ever to disagree persistently about any factual assertion.
+    On hearing this theorem for the first time, all of us come up with plausible ways in which
+actual human beings might evade its conditions. People have self-serving biases; they often
+discard or distort evidence that goes against what they want to believe [10]. (According
+to an often-cited study [6], 94% of professors consider themselves better at their jobs than
+their average colleagues.2 ) People might interpret the same assertion differently. Or the
+assertion might be inherently ambiguous. People might weigh the same evidence by different
+criteria. They might not understand the evidence. They might defend their opinions as
+high-school debaters do, out of sport rather than a desire for truth. They might not report
+their opinions with candor; or if they do, they might not trust others to do likewise.
+    In our view, the real challenge is not to list such caveats, but to sift through them and
+to discover which ones are fundamental. As an illustration, several of the caveats listed
+above disappear once we assume that all people have a common prior. For among other
+things, such a prior would assign common probabilities to all possible ways of parsing an
+ambiguous sentence, and to all possible ways of weighing evidence. Understandably, then,
+much of the criticism of Aumann’s theorem has focused on the common prior assumption
+(see [3, 5, 11, 13] for a discussion of that assumption).
+    But suppose we accept that two people have different priors. The obvious question is,
+   1
+    If you disagree with this assertion, you are simply providing further evidence for it!
+   2
+    This is logically possible, but one assumes the response would be similar were the professors asked about
+their median colleagues.
+
+
+                                                     2
+what caused their priors to differ? Different career choices? Different friends? Different
+kindergarten teachers? Whatever is named as the first influence, we need merely go back
+in time to before that influence took effect. At the earlier time, the two people had the
+same prior by assumption. So at later times, they would not really have different priors,
+just different posteriors obtained by starting from the same prior and then conditioning on
+different life experiences. If we push this reasoning to its limit, as Cowen and Hanson [5]
+do, we are left wondering whether prior differences could be encoded in DNA at conception.
+Even then, how much confidence should you place in an opinion, if you know that were your
+genes different, you would have the opposite opinion? More generally, on what grounds can
+you favor your own prior over someone else’s? For all you know, your prior was “switched
+by accident” with that person’s at birth!
+    After staring into the metaphysical abyss of prior differences, a natural reaction is to
+step back, and ask if there is some simpler explanation for why Aumann’s theorem fails to
+describe the real world. Recall that in the theorem, Alice’s and Bob’s opinions only became
+equal by the end of a hypothetical conversation. Might that conversation last an absurdly
+long time? After all, if Alice and Bob exchanged everything they knew, then clearly they
+would agree about everything. But presumably they are not Siamese twins, and do not
+have their entire lives to talk to each other. Thus communication complexity might provide
+a fundamental reason for why even honest, rational people could agree to disagree. Indeed,
+this was our conjecture when we began studying the topic.
+    Computational complexity provides a second promising reason. If a “state of the world”
+consists of n bits, then Aumann’s theorem requires Alice and Bob to represent a prior
+probability distribution over 2n possible states. Even worse, it requires them to calculate
+expectations over that distribution, and update it conditioned on new information. If n is
+(say) 10000, then this is obviously too much to ask.
+
+1.1    Summary of Results
+This paper initiates the study of the communication complexity and computational com-
+plexity of agreement protocols. Its surprising conclusion is that complexity is not a major
+barrier to agreement—at least, not nearly as major as it seems from the above arguments.
+In our view, this conclusion strengthens Aumann’s original theorem substantially, by forcing
+our attention back to the origin of prior differences.
+    For economists, the main novelty of the paper will be our relentless use of asymptotic
+analysis. We will never be satisfied to show that a protocol terminates eventually. Instead
+we will always ask: do the resources needed for the protocol scale ‘reasonably’ with the
+parameters of the problem being solved? Here ‘resources’ include the number of messages,
+the number of bits per message, and the number of computational steps; while ‘parameters’
+include the number of agents, the number of bits each agent is given, and the desired accuracy
+and probability of success. This approach will let us model the limitations of real-world
+agents without sacrificing simplicity and elegance.
+    For computer scientists, the main novelty will be that, when we analyze the communi-
+cation complexity of a function f , we care only about how long it takes some set of agents
+to agree among themselves about the expectation of f . Whether the agents’ expectations
+
+
+                                              3
+agree with external reality is irrelevant.
+    After introducing notation in Section 2, in Section 3 we present our first set of results,
+which concern the communication complexity of agreement.
+    Section 3.1 studies the “economists’ standard protocol,” introduced by Geanakoplos and
+Polemarchakis [9] and alluded to earlier. In that protocol, Alice and Bob repeatedly an-
+nounce their current expectations of a [0, 1] random variable, conditioned on all previous
+announcements. The question we ask is how many messages are needed before the agents’
+expectations agree within ε with probability at least 1 − δ over their prior, given parameters
+ε and δ. We show that 1/ (δε2 ) messages suffice. We then show that order 1/ (δε2 ) mes-
+sages still suffice, if instead of sending their whole expectations (which are real numbers), the
+agents send “summary” messages consisting of only 2 bits each. What makes these upper
+bounds surprising is that they are completely independent of n, the number of bits needed
+to represent the agents’ knowledge. By contrast, in ordinary communication complexity
+(see [15]), it is easy to show that given a random function f : {0, 1}n × {0, 1}n → [0, 1], Alice
+and Bob would need to exchange order n bits to approximate f to within (say) 1/10 with
+high probability.
+    Given the results of Section 3.1, several questions demand our attention. Is the upper
+bound of 1/ (δε2 ) bits tight, or can it be improved even further? Also, is the economists’
+standard protocol always optimal, or do other protocols sometimes need even less commu-
+nication? Section 3.2 addresses these questions. Though we are unable to show any lower
+bound better than log 1/ε that applies to all protocols, we do give examples where the
+standard protocol needs almost 1/ε2 bits. We also show that the standard protocol is not
+optimal: there exist cases where the standard protocol uses almost 1/ε2 bits, while a new
+protocol (which we call the attenuated protocol ) uses fewer bits.
+    In earlier work, Parikh and Krasucki [16] extended Aumann’s agreement theorem to three
+or more agents, who send messages along the edges of a directed graph. Thus, it is natural
+to ask whether our efficient agreement theorem extends to this setting as well. Section
+3.3 shows that it does: given N agents with a common prior, who send messages along a
+strongly connected graph of diameter d, order N d2 / (δε2 ) messages suffice for every pair of
+agents to agree within ε about the expectation of a [0, 1] random variable with probability
+at least 1 − δ over their prior.
+    In Section 4 we shift attention to the computational complexity of agreement, the subject
+of our technically most interesting result. What we want to show is that, even if two
+agents are computationally bounded, after a conversation of reasonable length they can still
+probably approximately agree about the expectation of a [0, 1] random variable. A large
+part of the problem is to say what this even means. After all, if the agents both ignored
+their evidence and estimated (say) 1/2, then they would agree before exchanging a single
+message! So agreement is only interesting if the agents have made some sort of “good-faith
+effort” to emulate Bayesian rationality.
+    Although we leave unspecified exactly what effort is necessary, we do propose a criterion
+that we think is certainly sufficient. This is that the agents be able to simulate a Bayesian
+agreement protocol, in such a way that a computationally-unbounded referee, given the
+agents’ knowledge together with a transcript of their conversation, be unable to decide
+(with non-negligible bias) whether the agents are computationally bounded or not. The
+
+
+                                               4
+justification for this criterion is that, just as Turing [18] argued that a perfect simulation
+of thinking is thinking, so it seems to us that a statistically perfect simulation of Bayesian
+rationality is Bayesian rationality.
+    But what do we mean by computationally-bounded agents? We discuss this question
+in detail in Section 4, but the basic point is that we assume two “subroutines”: one that
+computes the [0, 1] variable of interest, given a state of the world ω; and another that samples
+a state ω from any set in either agent’s initial knowledge partition. The complexity of the
+simulation procedure is then expressed in terms of the number of calls to these subroutines.
+    Unfortunately, there is no way to simulate the economists’ standard protocol—even our
+discretized version of it—using a small number of subroutine calls. The reason is that Alice’s
+ideal estimate p might lie on a “knife-edge” between the set of estimates that would cause her
+to send message m1 to Bob, and the set that would cause her to send a different message m2 .
+In that case, it does not suffice for her to approximate p using random sampling; she needs
+to determine it exactly. Our solution, which we develop in Section 4.1, is to have the agents
+“smooth” their messages by adding random noise to them. By hiding small errors in the
+agents’ estimates, such noise makes the knife-edge problem disappear. On the other hand,
+we show that in the computationally-unbounded case, the noise does not prevent the agents
+from agreeing within ε with probability 1 − δ after order 1/ (δε2 ) messages. In Sections 4.2
+and 4.3 we prove the main result: that the smoothed standard protocol can be simulated
+using a number of subroutine calls that depends only on ε and δ, not on n. The dependence,
+alas, is exponential in 1/ (δ 3 ε6 ), so our simulation procedure is still not practical. However,
+we expect that both the procedure and its analysis can be considerably improved.
+    We conclude in Section 5 with some suggestions for future research.
+
+
+2       Preliminaries
+Let Ω be a set of possible states of the world. Throughout this paper, Ω will be finite—both
+for simplicity of presentation, and because we do not believe that any physically realistic
+agent can ever have more than finitely many possible experiences. Let D be a prior prob-
+ability distribution over Ω that is shared by some set of agents. We can assume D assigns
+nonzero probability to every ω ∈ Ω, for if not, we simply remove the probability-0 states
+from Ω. Whenever we talk about a probability or expectation over a subset S of Ω, unless
+otherwise indicated we mean that we start from D and conditionalize on ω ∈ S.
+    Throughout this paper, we will consider protocols in which agents send messages to
+each other in some order. Let Ωi,t (ω) be the set of states that agent i considers possible
+immediately after the tth message has been sent, given that the true state of the world is
+ω.3 Then ω ∈ Ωi,t (ω) ⊆ Ω, and indeed the set {Ωi,t (ω)}ω∈Ω forms a partition of Ω (note
+that we may have Ωi,t (ω) = Ωi,t (ω 0 ) for distinct ω, ω 0). Furthermore, since the agents never
+forget messages, we have Ωi,t (ω) ⊆ Ωi,t−1 (ω). Thus we say that the partition {Ωi,t }ω∈Ω
+refines {Ωi,t−1 }ω∈Ω , or equivalently that {Ωi,t−1 }ω∈Ω coarsens {Ωi,t }ω∈Ω . (As a convention,
+we freely omit arguments of ω when doing so will cause no confusion.) Notice also that if
+    3
+   We assume for now that messages are “noise-free”; that is, they partition the state space sharply. Later
+we will remove this assumption.
+
+
+                                                    5
+the tth message is not sent to agent i, then Ωi,t (ω) = Ωi,t−1 (ω).
+    Now let f : Ω → [0, 1] be a real-valued function that the agents are interested in estimat-
+ing. The assumption f (ω) ∈ [0, 1] is without loss of generality—for since Ω is finite, any
+function from Ω to R has a bounded range, which we can take to be [0, 1] by rescaling. We
+can think of f (ω) as the probability of some future event conditioned on ω, but this is not
+necessary. Let Ei,t (ω) = EXω0 ∈Ωi,t (ω) [f (ω 0 )] be agent i’s expectation of f at step t, given
+that the true state of the world is ω. Also, let Θi,t (ω) = {ω 0 : Ei,t (ω 0 ) = Ei,t (ω)} be the set
+of states for which agent i’s expectation of f equals Ei,t (ω). Then the partition {Θi,t }ω∈Ω
+coarsens {Ωi,t }ω∈Ω , and Ei,t (ω) = EXω0 ∈Θi,t (ω) [f (ω 0 )].
+    The following simple but important fact is due to Hanson [12].
+Proposition 1 ([12]) Suppose the partition {Ωi,t }ω∈Ω refines {Θj,u}ω∈Ω . Then
+                          EX           [Ei,t (ω 0 )] =      EX           [Ei,t (ω 0 )] = Ej,u (ω)
+                       ω 0 ∈Ωj,u (ω)                     ω 0 ∈Θj,u (ω)
+
+for all ω ∈ Ω. As a consequence, an agent’s expectation of its future expectation of f always
+equals its current expectation. As another consequence, if Alice has just communicated her
+expectation of f to Bob, then Alice’s expectation of Bob’s expectation of f equals Alice’s
+expectation.
+    Proof. In each case, we are taking the expectation of f over a subset S ⊆ Ω (either
+Ωj,u (ω) or Θj,u (ω)) for which EXω0 ∈S [f (ω 0 )] = Ej,u (ω). How S is “sliced up” has no effect
+on the result.
+    Proposition 1 already demonstrates a dramatic difference between Bayesian agreement
+protocols and actual human conversations. Suppose Alice and Bob are discussing whether
+useful quantum computers will be built by the year 2050. Bob says that, in his opinion,
+the chance of this happening is only 5%. Alice says she disagrees: she thinks the chance
+is 90%. How much should Alice expect her reply to influence Bob’s estimate? Should she
+expect him to raise it to 10%, or even 15%, out of deference to his friend Alice’s judgment?
+According to Proposition 1, she should expect him to raise it to 90%! That is, depending
+on what else Bob knows, his new estimate might be 85% or 95%, but its expectation from
+Alice’s point of view is 90%.
+
+2.1    Miscellany
+Asymptotic notation is standard: F (n) = O (G (n)) means there exist positive constants
+a, b such that F (n) ≤ a + bG (n) for all n ≥ 0; F (n) = Ω (G (n)) means the same but with
+F (n) ≥ a + bG (n); F (n) = Θ (G (n)) means F (n) = O (G (n)) and F (n) = Ω (G (n)); and
+F (n) = o (G (n)) means F (n) = O (G (n)) and not F (n) = Ω (G (n)).
+    We will have several occasions to use the following well-known bound.
+Theorem 2 (Chernoff, Hoeffding) Let x1 , . . . , xK be K independent samples of a [0, 1]
+random variable with mean µ. Then for all α ∈ (0, 1),
+                                                                                        2
+                          Pr [x1 + · · · + xK ≤ (1 − α) µK] ≤ e−µα K/2 ,
+                                                                                            2
+                          Pr [|x1 + · · · + xK − µK| > αK] ≤ 2e−2α K .
+
+                                                              6
+           {ΩA,0} ∈Ω 1       1     0      0         1     1     0     0
+
+           {ΩB,0} ∈Ω 1       1     0      0         1     1     0     0 {ΩB,1} ∈Ω
+
+
+Figure 1: After Alice tells Bob whether EA,0 is 1 or 0, Bob’s partition {ΩB,0 }ω∈Ω is refined
+to {ΩB,1 }ω∈Ω .
+
+
+
+3    Communication Complexity
+We now introduce and justify the communication complexity model. Assume for the moment
+that there are two agents, Alice (A) and Bob (B); Section 3.3 will generalize the model to
+three or more agents. We can imagine if we like that Alice and Bob are given n-bit strings
+x and y respectively, so that Ω ⊆ {0, 1}n × {0, 1}n . Letting ω = (x, y), we then have
+ΩA,0 (ω) ⊆ x × {0, 1}n and ΩB,0 (ω) ⊆ {0, 1}n × y.
+    In an agreement protocol, Alice and Bob take turns sending messages to each other. Any
+such protocol is characterized by a sequence of functions m1 , m2 , . . . : 2Ω → M, known to
+both agents, which map subsets of Ω to elements of a message space M. Possibilities for M
+include [0, 1] in a continuous protocol, or {0, 1} in a discretized protocol. In all protocols
+considered in this paper, the mt ’s will be extremely simple; for example, we might have
+mt (S) = EXω0 ∈S [f (ω 0 )] be the agent’s current expectation of f .
+    The protocol proceeds as follows: first Alice computes m1 (ΩA,0 (ω)) and sends it to Bob.
+After seeing Alice’s message, and assuming the true state of the world is ω, Bob’s new set
+of possible states becomes
+
+                 ΩB,1 (ω) = ΩB,0 (ω) ∩ {ω 0 : m1 (ΩA,0 (ω 0 )) = m1 (ΩA,0 (ω))}
+
+as in Figure 1. Then Bob computes m2 (ΩB,1 (ω)) and sends it to Alice, whereupon Alice’s
+set of possible states becomes
+
+                ΩA,2 (ω) = ΩA,0 (ω) ∩ {ω 0 : m2 (ΩB,1 (ω 0 )) = m2 (ΩB,1 (ω))} .
+
+Then Alice computes m3 (ΩA,2 (ω)) and sends it to Bob, and so on.
+    At this point we should address an obvious question: how do Alice and Bob know each
+other’s initial partitions, {ΩA,0 }ω∈Ω and {ΩB,0 }ω∈Ω ? This question is not specific to our
+setting; it can be asked about Aumann’s original result and any of its extensions. The
+standard solution (see [4] for example) is that the state of the world ω ∈ Ω includes the
+agents’ mental states as part of it. From this it follows that every agent has a uniquely
+defined partition known to every other agent. For suppose Alice calculates that if the state
+of the world is ω, then Bob’s knowledge is ΩB,0 (ω), meaning that he knows (and knows only)
+that the state belongs to ΩB,0 (ω). Then for all ω 0 ∈ ΩB,0 (ω), she must calculate that if the
+state is ω 0 , then Bob’s knowledge is ΩB,0 (ω) as well. Otherwise one of her calculations was
+mistaken.
+    The reader might object on the following grounds. Suppose Alice and Bob are the
+only two agents, and let Ω(0) be the set of possible states of the “external” world—meaning
+
+                                               7
+everything except Alice and Bob. Next let Ω(1) be the set of possible states of the agents’
+knowledge regarding Ω(0) , let Ω(2) be the set of possible states of their knowledge regarding
+Ω(1) , and so on. Then Ω = Ω(0) × Ω(1) × Ω(2) × · · · , which contradicts the assumption that
+Ω is finite. Our response is that, since the agents’ brains can store only finitely many bits,
+not all elements of Ω(0) × Ω(1) × Ω(2) × · · · are actually possible.
+    However, the above response is open to a different objection, related to the diagonalization
+arguments of Gödel and Turing. Suppose Alice’s and Bob’s brains store n bits each. Then
+in order to reason about the set of possible states of their brains, wouldn’t they need brains
+that store more than n bits? We leave this conundrum unresolved, confining ourselves
+to the following three remarks. First, only a tiny portion of the agents’ brains is likely
+to be relevant to their topic of conversation, which means “plenty of room left over” for
+metareasoning about knowledge. Second, by reducing the number of brain states that the
+agents need to consider, our results in Section 4 will lessen the force of the self-reference
+argument, though not eliminate it. Third, the agents’ “knowledge hierarchy” seems likely
+to collapse at a low level. That is, Alice might have little idea what sort of evidence shaped
+Bob’s opinions about the external world. But Bob probably has some idea what sort of
+evidence shaped Alice’s opinions about Bob’s opinions, and Alice probably has a good idea
+what sort of evidence shaped Bob’s opinions about Alice’s opinions about Bob’s opinions
+(assuming Bob even has nontrivial such opinions). The more indirect the knowledge, the
+fewer the ways of obtaining it.
+    Let us return to explaining the communication complexity model. After the tth message,
+we say Alice and Bob (ε, δ)-agree if their expectations of f agree to within ε with probability
+at least 1 − δ; that is, if
+                               Pr [|EA,t (ω) − EB,t (ω)| > ε] ≤ δ.
+                              ω∈D
+
+The goal will be to minimize the number of messages until the agents (ε, δ)-agree.
+    In our view, (ε, δ)-agreement is a much more fundamental notion than exact agreement.
+For suppose f represents the probability that global warming, if left unchecked, will cause
+sea levels to rise at least 30 centimeters by the year 2100. If after an hour’s conversation,
+any two people could agree within 1/4 about f with probability at least 3/4, then the world
+would be a remarkably different place than it now is. That the agreement was inexact and
+uncertain would be less significant than the fact that it occurred at all.
+    But why do we calculate the success probability over D, and not some other distribution?
+In other words, what if the agents’ priors agree with each other, but not with external reality?
+Unfortunately, in that case it seems difficult to prove anything, since the “true” prior could
+be concentrated on a few states that the agents consider vanishingly unlikely. Furthermore,
+we conjecture that there exist f, D such that for all agreement protocols, the agents must
+exchange Ω (n) bits to agree within ε on every state ω (that is, to (ε, 0)-agree). So given
+a protocol that causes Alice and Bob to (ε, δ)-agree, what we should really say is that both
+agents enter the conversation expecting to agree within ε with probability at least 1 − δ.
+This, of course, is profoundly unlike the situation in real life, where adversaries generally do
+not enter arguments expecting to convince or to be convinced.
+    Let us make two further remarks about the model. First, if the agents want to agree
+exactly (that is, (0, 0)-agree), it is clear that in the worst case they need 2n bits of communi-
+
+
+                                               8
+cation, n from Alice and n from Bob. Note the contrast with ordinary communication com-
+plexity, where n bits always suffice. Indeed, even to produce approximate agreement, two-
+way communication is necessary in general, as shown by the example f (x, y) = (2x + y) /3,
+where x, y ∈ {0, 1} are uniformly distributed.
+    Second, our ending condition is simply that the agents (ε, δ)-agree at some step t. We
+do not require them to fix this t independently of f and D. The reason is that for any t,
+there might exist perverse f, D such that the agents nearly agree for the first t − 1 steps,
+then disagree violently at the tth step. However, it seems unfair to penalize the agents in
+such cases.
+    The following is the best lower bound we are able to show on agreement complexity.
+                                                          −n
+Proposition
+           3 There exist f, D such that for all1−δε ≥ 2    and δ ≥ 0, Alice must send
+      1−δ
+Ω log ε bits to Bob and Bob must send Ω log ε bits to Alice before the agents (ε, δ)-
+agree. In particular, if δ is bounded away from 1 by a constant, then Ω (log 1/ε) bits are
+needed.
+
+    Proof. Let Ω = {1, . . . , 2n }2 , let D be uniform over Ω, and let f (x, y) = (x + y) /2n+1
+for all (x, y) ∈ Ω. Thus if x b is Bob’s expectation of x at step t and yb is Alice’s expectation
+of y, then EA,t = (x + yb) /2n+1 and EB,t = (b x + y) /2n+1 . Suppose one agent, say Alice, has
+sent only t < log2 1−δ
+                     ε
+                           − 2 bits to Bob. For each i ∈ {1, . . . , 2t }, let pi be the probability
+of the i message sequence from Alice. Conditioned on i, there are 2n pi values of x still
+         th
+
+possible from Bob’s point of view. So regardless of EB,t , the probability of |EA,t − EB,t | ≤ ε
+can be at most 4ε/pi . Therefore the agents agree within ε with total probability at most
+                                  2
+                                  X
+                                    t                 
+                                                  4ε
+                                         pi                = 4ε2t < 1 − δ.
+                                   i=1
+                                                  pi
+
+
+
+3.1    Convergence of the Standard Protocol
+The two-player “standard protocol” is simply the following: first Alice sends EA,0 , her current
+expectation of f , to Bob. Then Bob sends his expectation EB,1 to Alice, then Alice sends
+EA,2 to Bob, and so on. Geanakoplos and Polemarchakis [9] observed that for any f, D,
+if the agents use the standard protocol then after a finite number of messages T , they will
+reach consensus—meaning that EA,T = EB,T , both agents know this, both know that they
+know it, etc. In particular, in our terminology Alice and Bob (0, 0)-agree.
+    In this section we ask how many messages are needed before the agents (ε, δ)-agree. The
+surprising and unexpected answer, in Theorem 5, is that 1/ (δε2 ) messages always suffice,
+independently of n and all other parameters of f and D. One might guess that, since the
+expectations EA,0 , EB,1 , . . . are real numbers, the cost of communication must be hidden in
+the length of the messages. However, in Theorem 6 we show even if the agents send only 2-bit
+“summaries” of their expectations, O (1/ (δε2 )) messages still suffice for (ε, δ)-agreement.
+                                                  2                2
+    Given any function F : Ω → [0, 1], let kF k2 = EXω∈D F (ω) . The following proposition
+will be used again and again in this paper.
+
+                                                           9
+Proposition 4 Suppose the partition {Ωi,t }ω∈Ω refines {Θj,u }ω∈Ω . Then
+
+                                     kEi,t k22 − kEj,u k22 = kEi,t − Ej,u k22
+so in particular, kEi,t k22 ≥ kEj,u k22 . A special case is that kEi,t+1 k22 ≥ kEi,t k22 for all i, t.
+   Proof. We have
+                                                                  
+     EX [Ei,t Ej,u ] = EX Ej,u (ω) 0 EX                [Ei,t (ω )] = EX [Ej,u (ω) · Ej,u (ω)] = kEj,u k22
+                                                               0
+                       ω∈D               ω ∈Θj,u (ω)                   ω∈D
+
+by Proposition 1, and therefore
+            kEi,t − Ej,u k22 = kEi,t k22 + kEj,u k22 − 2 EX [Ei,t Ej,u ] = kEi,t k22 − kEj,u k22 .
+
+
+   We can now prove an upper bound on the number of messages needed for agreement.
+Theorem 5 For all f, D, the standard protocol causes Alice and Bob to (ε, δ)-agree after at
+most 1/ (δε2 ) messages.
+    Proof. Intuitively, so long as the agents disagree by more than ε with high probability,
+Alice’s expectation EA,1 , EA,2 , . . . follows an unbiased random walk with step size roughly
+ε. Furthermore, this walk has two absorbing barriers at 0 and 1, for the simple fact that
+EA,t ∈ [0, 1]. And we expect a random walk with step size ε to hit a barrier after about
+1/ε2 steps.
+    To make this intuition precise, we need only track the expectation, not of EA and EB ,
+but of EA2 and EB2 . Suppose Alice sends the tth message. Then Bob’s partition {ΩB,t }ω∈Ω
+refines {ΘA,t−1 }ω∈Ω . It follows by Proposition 4 that
+
+                                 kEB,t k22 − kEA,t−1 k22 = kEB,t − EA,t−1 k22 .
+Assuming Pr [|EB,t − EA,t−1 | > ε] ≥ δ, this implies that kEB,t k22 > kEA,t−1 k22 +δε2 . Similarly,
+after Bob sends Alice the (t + 1)st message, we have kEA,t+1 k22 > kEB,t k22 + δε2 . So until the
+                                                  
+agents (ε, δ)-agree, each message increases max kEA,t k22 , kEB,t k22 by more than δε2 . But
+the maximum can never exceed 1 (since EA,t , EB,t ∈ [0, 1]), which yields an upper bound of
+1/ (δε2 ) on the number of messages.
+    As mentioned previously, the trouble with the standard protocol is that sending one’s
+expectation might require too many bits. A simple way to discretize the protocol is as
+follows. Imagine a “monkey in the middle,” Charlie, who has the same prior distribution
+D as Alice and Bob and who sees all messages between them, but who does not know
+either of their inputs. In other words, letting ΩC,t (ω) be the set of states that Charlie
+considers possible after the first t messages, we have ΩC,0 (ω) = Ω for all ω. Then the
+partition {ΩC,t }ω∈Ω coarsens both {ΩA,t }ω∈Ω and {ΩB,t }ω∈Ω ; therefore both Alice and Bob
+can compute Charlie’s expectation EC,t (ω) = EXω0 ∈ΩC,t (ω) [f (ω 0 )] of f .
+    Now whenever it is her turn to send a message to Bob, Alice sends the message “high”
+if EA,t > EC,t + ε/4, “low” if EA,t < EC,t − ε/4, and “medium” otherwise. This requires
+2 bits. Likewise, Bob sends “high” if EB,t > EC,t + ε/4, “low” if EB,t < EC,t − ε/4, and
+“medium” otherwise.
+
+                                                          10
+Theorem 6 For all f, D, the discretized protocol described above causes Alice and Bob to
+(ε, δ)-agree after O (1/ (δε2 )) messages.
+    Proof. The plan is to show that either kEA,t k22 , kEB,t k22 , or kEC,t k22 increases by at least
+δε2 /512 with every message of Alice’s, until Alice and Bob (ε, δ)-agree. Since kEi,t k22 ≤ 1
+for all i, this will imply an upper bound of 3072/ (δε2 ) on the number of messages (we did
+not optimize the constant!).
+    Assume that Pr [|EA,t − EB,t | > ε] ≥ δ and it is Alice’s turn to send the (t + 1)st message.
+By the triangle inequality, either
+                                         h                  εi δ
+                                     Pr |EA,t − EC,t | >         ≥
+                                                            2      2
+or                                      h                   εi δ
+                                     Pr |EB,t − EC,t | >        ≥ .
+                                                            2      2
+We analyze these two cases separately. In the first case, with probability at least δ/2 Alice’s
+message is either “high” or “low.” If the message is “high,” then EC,t+1 becomes an average
+of numbers each greater than EC,t +ε/4, so EC,t+1 > EC,t +ε/4. If the message is “low,” then
+likewise EC,t+1 < EC,t − ε/4. Since {ΩC,t+1 }ω∈Ω refines {ΩC,t }ω∈Ω , Proposition 4 thereby
+gives
+                                                                           δ  ε 2
+                       kEC,t+1 k22 − kEC,t k22 = kEC,t+1 − EC,t k22 >               .
+                                                                           2 4
+    Now for the second case. If, after Alice sends the (t + 1)st message, we still have
+                                     h                         εi δ
+                                  Pr |EB,t+1 − EC,t+1 | >          ≥ ,
+                                                               4      4
+then the previous argument applied to Bob implies that
+                                                                δ  ε 2
+                                  kEC,t+2 k22 − kEC,t+1 k22 >
+                                                                4 4
+and we are done. So suppose otherwise. Then the difference between Bob’s and Charlie’s
+expectations must have changed significantly:
+                            h                                            εi δ
+                         Pr |EB,t − EC,t | − |EB,t+1 − EC,t+1 | >            > .
+                                                                         4      4
+Hence by another application of the triangle inequality, either
+                                       h                      εi δ
+                                    Pr |EB,t+1 − EB,t | >         >
+                                                              8      8
+or                                     h                     εi δ
+                                    Pr |EC,t+1 − EC,t | >        > .
+                                                             8      8
+In the former case, Proposition 4 yields
+                                                                           δ  ε 2
+                       kEB,t+1 k22 − kEB,t k22 = kEB,t+1 − EB,t k22 >               ,
+                                                                           8 8
+while in the latter case,
+                                                              δ  ε 2
+                                   kEC,t+1 k22 − kEC,t k22 >           .
+                                                              8 8
+
+
+                                                 11
+3.2       Attenuated Protocol
+We have seen that two agents, using the standard protocol, will always (ε, δ)-agree after
+exchanging only O (1/ (δε2 )) messages. This result immediately raises three questions:
+
+ (1) Is there a scenario where the standard protocol needs about 1/ε2 messages to produce
+     (ε, δ)-agreement?
+ (2) Is the standard protocol always optimal, or do other protocols sometimes outperform
+     it?
+ (3) Is there a scenario where any agreement protocol needs a number of communication
+     bits polynomial in 1/ε?
+
+    Although we leave question (3) open, in this section we resolve questions (1) and (2).
+In particular, assume for simplicity that δ = 1/2. Then for all ε > 0, Theorem 7 gives a
+scenario where the standard protocol uses almost 1/ε2 messages, even if the messages are
+continuous rather discrete. By contrast, a new “attenuated protocol” uses only 2 messages,
+both consisting of a constant number of bits (independent of ε). Theorem 8 then gives a
+fixed scenario where for all ε > 0, the standard protocol uses almost 1/ε2 messages, while
+the attenuated protocol uses only 2 messages, both consisting of O (1/ε) bits.
+    The attenuated protocol is interesting in its own right. The idea is to imagine that in the
+standard protocol, the communication channel between Alice and Bob becomes gradually
+more noisy as time goes on, so that each message conveys slightly less information than
+the one before. It turns out that in some cases, such noise would actually help! For
+intuitively, each time the message intensity decreases by , the “price” the agents pay in
+terms of disagreement is proportional to 2 . So it is better for them to attenuate their
+conversation gradually, than to send a sequence of “maximum-intensity” messages followed
+by no message (which we can think of as intensity 0).4 Even if the noise that produces this
+strange effect is missing from the channel, the agents can easily simulate it. Furthermore,
+the messages will turn out to be nonadaptive, so they can all be concatenated into one
+message from Alice and one from Bob.
+    But how do we ensure that the standard protocol needs almost 1/ε2 messages? Intu-
+itively, by forcing the random walk behavior of Section 3.1 actually to occur. That is, at
+the beginning there will be a disagreement that can only be resolved by Alice sending a bit
+to Bob. But then that bit will cause a new disagreement even as it resolves the old one,
+and so on.
+
+Theorem 7 For all ε > 0, there exist f, D such that for all δ > 0:
+                                                                                                 
+                                                                                        1
+  (i) Using the standard protocol, Alice and Bob need to exchange Ω                        2
+                                                                                  ε2 log (1−δ)ε
+                                                                                                      messages
+        before they (ε, δ)-agree.
+ (ii) Using a different protocol, they need only exchange 2 messages, both consisting of
+      O (log 1/δ) bits.
+  4
+      The same phenomenon occurs in the “Zeno effect” of quantum mechanics.
+
+                                                  12
+                                                                                         
+                                                                                 1/ε2
+    In particular, if δ = 1/2 then the standard protocol needs Ω                log 1/ε
+                                                                                              bits whereas the
+attenuated protocol needs O (1) bits.
+
+   Proof. Let
+                                                       1
+                                          n=               6
+                                                64ε2 ln (1−δ)ε 2
+
+
+(throughout we omit floor and ceiling signs for convenience). The state space Ω consists
+of all pairs (x, y), where x = x1 . . . xn and y = y1 . . . yn belong to {−1, 1}n . The prior
+distribution D is uniform over Ω. Let
+                                                Xn
+                                          1
+                                F (x, y) = + 2ε     (yi−1 xi + xi yi )
+                                          2     i=1
+
+where y0 = 1. Then the function that interests the agents is
+                                 
+                                  F (x, y) if F (x, y) ∈ [0, 1]
+                      f (x, y) =       0      if F (x, y) < 0    .
+                                 
+                                       1      if F (x, y) > 1
+
+For simplicity, we first consider F (which need not be bounded in [0, 1]), and later analyze the
+“edge effects” that arise in switching to f . We claim that, if the agents use the continuous
+standard protocol to evaluate F , then |EA,t − EB,t | = 2ε at all steps t < 2n, where EA,t
+and EB,t are Alice’s and Bob’s expectations of F respectively after t messages have been
+exchanged. For initially EA,0 = 1/2 + 2εx1 and EB,0 = 1/2. Most of the terms in the sum
+defining F (x, y) simply average to 0 for both agents, since Alice does not know the yi ’s and
+Bob does not know the xi ’s. In the first step, however, the expectation that Alice sends to
+Bob reveals x1 to him. This causes EB,1 to become 1/2 + 2εx1 + 2εx1 y1 , which differs from
+EA,0 = 1/2 + 2εx1 by 2ε. Then in the second step, the expectation that Bob sends to Alice
+reveals y1 to her, thereby “unlocking” the terms x1 y1 and y1 x2 in her expectation, and so
+on. It follows that until all 2n bits x1 . . . xn and y1 . . . yn have been exchanged, the agents
+disagree by 2ε with certainty (see Figure 2).
+    In switching from F to f , the key observation is that Alice’s expectation EA,t (f ) of f is
+a function of her expectation
+                    1                                                                         
+           EA,t =     + 2ε x1 + x1 y1 + y1 x2 + · · · + x(t−1)/2 y(t−1)/2 + y(t−1)/2 x(t+1)/2
+                    2
+of F . For from Alice’s point of view, the later terms x(t+1)/2 y(t+1)/2 , y(t+1)/2 x(t+3)/2 , and so on
+are steps in an unbiased random walk with starting point EA,t , step size 2ε, and “snapping
+barriers” at 0 and 1. (A snapping barrier is neither absorbing nor reflecting: it allows a
+particle through, but if the particle is found on the wrong side of the barrier after the walk
+                                                                   ∗
+ends, then the particle is moved back to the barrier.) Let EA,t        be the ending point of this
+                            ∗                                                            ∗ 
+walk; then EA,t (f ) = EX EA,t is a function of EA,t . Likewise, EB,t (f ) = EX EB,t              is the
+expected ending point of an unbiased walk with starting point EB,t = EA,t +2εx(t+1)/2 y(t+1)/2 ,
+step size 2ε, and snapping barriers at 0 and 1.
+
+                                                    13
+                             1
+                           0.9
+                           0.8
+                           0.7
+                           0.6
+                           0.5
+                           0.4
+                           0.3
+                           0.2
+                           0.1
+                             0
+                                 0   2   4    6    8   10   12       14   16
+
+
+
+Figure 2: Alice’s expectation EA,t (solid line), and Bob’s expectation EB,t (dashed line), as
+a function of t
+
+
+    The lower bound for the standard protocol now follows from two claims: first, that EA,t ∈
+[1/4, 3/4] and EB,t ∈ [1/4, 3/4] for all t ∈ {0, . . . , 2n} with probability at least δ. Second,
+that whenever EA,t and EB,t belong to [1/4, 3/4], we have |EA,t (f ) − EB,t (f )| > ε. For the
+first claim, choose z1 , . . . , z2n uniformly and independently from {0, 1}; then Theorem 2 says
+that
+                                                                          2
+                              Pr [|z1 + · · · + z2n − n| > α (2n)] ≤ 2e−4α n .
+             1/4
+Setting α = 2ε(2n) , this implies that for any fixed t,
+
+                                                                          1−δ
+                         Pr [|EA,t − 1/4| > 1/4] ≤ 2e−1/(64ε n) ≤
+                                                                 2
+
+                                                                           2n
+and similarly for EB,t . The claim now follows from the union bound. For the second claim,
+a bound similar to the above implies that
+                             ∗                                 ε
+                                  − EA,t > 1/4 ≤ 2e−1/(64ε n) ≤
+                                                            2
+                         Pr EA,t
+                                                                 3
+                     ∗
+and similarly for EB,t   . This in turn implies that |EA,t (f ) − EA,t | ≤ ε/3 and |EB,t (f ) − EB,t | ≤
+ε/3, from whence it follows that |EA,t (f ) − EB,t (f )| > ε by the triangle inequality.
+   We now give the O (log 1/δ) upper bound. It suffices to give a protocol for F , since it is
+not hard to see that switching from F to f can only decrease |EA,t − EB,t |. Let k = 8 ln 2/δ.
+For each i ∈ {1, . . . , k}, Alice sends Bob a bit that is uniformly random with probability i/k
+and xi otherwise. Likewise, Bob sends Alice a bit that is uniformly random with probability
+i/k and yi otherwise. Then Alice’s final expectation is
+                                        Xk                      
+                                  1          i−1          i
+                            EA,2 = + 2ε          yi−1 xi + xi yi
+                                  2     i=1
+                                              k           k
+
+while Bob’s is
+                                         Xk                   
+                                   1          i          i
+                             EB,2 = + 2ε        yi−1 xi + xi yi .
+                                   2     i=1
+                                              k          k
+
+                                                  14
+So
+                                                             k
+                                                    2ε X
+                                      EB,2 − EA,2 =       yi−1 xi ,
+                                                    k i=1
+and hence
+                     Pr [|EA,2 − EB,2 | > ε] = Pr [|z1 + · · · + zk − k/2| > k/4]
+where zi = (yi−1 xi + 1) /2. Since the zi ’s are uniform, independent samples from {0, 1}, the
+                                      2
+above probability is at most 2e−2(1/4) k = δ by Theorem 2.
+   The main defect of Theorem 7 is that the function f had to be tailored to a particular
+ε. The next theorem fixes this defect, although the advantage of the attenuated protocol
+over the standard one is not quite as dramatic as in Theorem 7. For simplicity, in stating
+the theorem we fix δ = 1/2.
+
+Theorem 8 For all γ ∈ (0, 1), there exist f ,D such that for all ε ≥ 1/n 1/(2−γ) :
+
+  (i) Using the standard protocol, Alice and Bob need to exchange Ω (1/ε 2−γ ) messages before
+      they (ε, 1/2)-agree.
+ (ii) Using the attenuated protocol, they need only exchange 2 messages, both consisting of
+      O (1/ε) bits.
+
+   Sketch. Again we let D be uniform over x = x1 . . . xn and y = y1 . . . yn in {−1, 1}n . We
+then let                                √ X  n
+                                    1     γ     yi−1 xi + xi yi
+                         F (x, y) = +
+                                    2    10 i=1      i1/(2−γ)
+and                                     
+                                         F (x, y) if F (x, y) ∈ [0, 1]
+                             f (x, y) =      0     if F (x, y) < 0      .
+                                        
+                                             1     if F (x, y) > 1
+The rest of the proof is almost identical to that of Theorem 7, so we omit it here.
+
+3.3     N Agents
+We have seen that two Bayesian agents can reach rapid agreement, provided they commu-
+nicate directly with each other. An obvious followup question is, what if there are three
+or more agents, each of which talks only to its ‘neighbors’ ? Will the agents still reach
+agreement, and if so, after how long?
+     Formally, let G be a directed graph with vertices 1, . . . , N , each representing an agent.
+Suppose messages can only be sent from agent i to agent j if (i, j) is an edge in G. We need
+to assume G is strongly connected, since otherwise reaching agreement could be impossible
+for trivial reasons. In this setting, a standard protocol consists of a sequence of edges
+(i1 , j1 ) , . . . , (it , jt ) , . . . of G. At the tth step, agent it sends its current expectation Eit ,t−1
+of f to agent jt , whereupon jt updates its expectation accordingly. Call the protocol fair
+if every edge occurs infinitely often in the sequence. Parikh and Krasucki [16] proved the
+following important theorem.
+
+                                                     15
+                                              2            3
+
+
+
+                                              1            4
+
+
+Figure 3: For a sample graph G, spanning tree T1 is shown in solid lines, and T2 in dashed
+lines.
+
+
+Theorem 9 ([16]) For all f, D, any fair protocol will cause all the agents’ expectations to
+agree after a finite number of messages.
+
+    Indeed, the agents will reach consensus after finitely many messages, meaning it will be
+common knowledge among them that E1,t = · · · = EN,t . Here, though, we care only about
+the weaker condition of agreement.
+    Our goal is to cause every pair of agents to (ε, δ)-agree,5 after a number of steps poly-
+nomial in N , 1/δ, and 1/ε. We can achieve this via the following “spanning-tree protocol.”
+Let T1 and T2 be two spanning trees of G of minimum diameter, both rooted at agent 1.
+As illustrated in Figure 3, T1 points outward from 1 to the other N − 1 agents; T2 points
+inward back to 1. Let O1 be an ordering of the edges of T1 , in which every edge originating
+at i is preceded by an edge terminating at i, unless i = 1. Likewise let O2 be an ordering
+of the edges of T2 , in which every edge originating at i is preceded by an edge terminating
+at i, unless i is a leaf of T2 . Then the protocol is simply for agents to send their current
+expectations along edges of G in the order O1 , O2 , O1 , O2 , . . ..
+
+Theorem 10For all f, D, the spanning-tree protocol causes every pair of agents to (ε, δ)-
+                   2
+agree after O Nδεd2 messages, where d is the diameter of G.
+
+    Proof. We will track ηt = mini kEi,t k22 . Observe that, if the tth message is from agent i
+to agent j, then the partition {Ωj,t+1 }ω∈Ω refines both {Θi,t }ω∈Ω and {Ωj,t }ω∈Ω , and therefore
+                                                  
+                                 kEj,t+1 k22 ≥ max kEi,t k22 , kEj,t k22
+
+by Proposition 4. Also observe that, in any window of 4N messages, the spanning-tree
+protocol “sends information” from every agent to every other. Together these observations
+imply that ηt+4N ≥ maxi kEi,t k22 . So as long as there exists an i such that kEi,t k22  ηt , the
+protocol makes significant progress.
+   It may happen, though, that kEi,t k22 is nearly constant as we range over i. Assume
+
+                                       Pr [|Ei,t − Ej,t | > ε] ≥ δ
+   5
+   If we want
+            every pair of agents to agree within ε with global probability 1 − δ, then we want every pair
+to ε, δ/N 2 -agree.
+
+                                                   16
+for two agents i, j. Consider a path from i to j in G, obtained by first following i to 1 in
+T2 and then following 1 to j in T1 . This path has at most 2d edges. So by the triangle
+inequality, there exist consecutive agents A, B along the path such that
+                                                                 √
+                                             1                     δε2
+                          kEA,t − EB,t k2 ≥    kEi,t − Ej,t k2 >       .
+                                            2d                    2d
+Imagine that the tth message is from A to B. Then since {ΩB,t+1 }ω∈Ω refines both {ΘA,t }ω∈Ω
+and {ΩB,t }ω∈Ω , Proposition 4 yields
+
+                          kEB,t+1 − EA,t k22 = kEB,t+1 k22 − kEA,t k22 ,
+                          kEB,t+1 − EB,t k22 = kEB,t+1 k22 − kEB,t k22 .
+Also, by the triangle inequality either
+                                                    1
+                             kEB,t+1 − EA,t k22 ≥     kEA,t − EB,t k22
+                                                    4
+or
+                                               1
+                            kEB,t+1 − EB,t k22 ≥  kEA,t − EB,t k22 .
+                                               4
+Therefore                                                     
+                        2              2         2     1 δε2               δε2
+               kEB,t+1 k2 > min kEA,t k2 , kEB,t k2 +              ≥ η t +      .
+                                                        4 4d2              16d2
+   It remains only to show why the above result is not spoiled if A or B receive other
+messages before A sends its message to B. Let u be the first time step after t in which A
+sends a message to B, and suppose the steps between t and u somehow reduce the distance
+between EA and EB :
+                                                       δε2
+                                  kEA,u − EB,u k22 ≤       .
+                                                      16d2
+Then by the triangle inequality (again!):
+                                                                             r        r
+                                                                                δε2      δε2
+  kEA,u − EA,t k2 + kEB,u − EB,t k2 ≥ kEB,t − EA,t k2 − kEB,u − EA,u k2 >           −
+                                                                                4d2     16d2
+so either
+                                                          δε2
+                                    kEA,u − EA,t k22 >
+                                                         64d2
+or
+                                                   δε2
+                                   kEB,u − EB,t k22 >  .
+                                                  64d2
+Suppose the former without loss of generality. Then since {ΩA,u }ω∈Ω refines {ΩA,t }ω∈Ω ,
+
+                                                                          δε2
+                      kEA,u k22 = kEA,t k22 + kEA,u − EA,t k22 > ηt +         .
+                                                                         64d2
+    We have shown that maxi kEi,t+2N k22 = ηt +Ω (δε2 /d2 ), from which it follows that ηt+6N =
+ηt + Ω (δε2 /d2 ). Hence the constraint ηt ≤ 1 yields an upper bound of O (N d2 / (δε2 )) on
+the number of messages.
+
+                                               17
+   Let us make three remarks about Theorem 10. First, naturally one can combine Theo-
+rems 10 and 6, to obtain an N -agent protocol in which the messages are discrete. We omit
+the details here. Second, all we really need about the order of messages is that information
+gets propagated from any agent in G to any other in a reasonable number of steps. Our
+spanning-tree construction was designed to guarantee this, but sending messages in a ran-
+dom order (for example) would also work. Third, it seems fair to assume that many agents
+send messages in parallel; if so, our complexity bound can almost certainly be improved.
+
+
+4      Computational Complexity
+The previous sections have weakened the idea that communication cost is a fundamental
+barrier to agreement. However, we have glossed over the issue of computational cost entirely.
+A protocol that requires only O (1/ (δε2 )) messages has little real-world relevance if it would
+take Alice and Bob billions of years to calculate the messages! Moreover, all protocols
+discussed above seem to have that problem, since the number of possible states |Ω| could be
+exponential in the length n of the agents’ inputs.
+    Recognizing this issue, Hanson [14] introduced the notion of a “Bayesian wannabe”: a
+computationally-bounded agent that can still make sense of what its expectations would
+be if it had enough computational power to be a Bayesian. He then showed that under
+certain assumptions, if two Bayesian wannabes agree to disagree about the expectation of a
+function f (ω), then they must also disagree about some variable that is independent of the
+state of the world ω ∈ Ω. However, Hanson’s result does not suggest a protocol by which
+two Bayesian wannabes who agree about all state-independent variables could come to agree
+about f as well.
+    Admittedly, if the two wannabes have very limited abilities, it might be trivial to get
+them to agree. For example, if Alice and Bob both ignore all their evidence and estimate
+f (ω) = 1/3, then they agree before exchanging even a single message. But this example
+seems contrived: after all, if one the agents (with equal justification) estimated f (ω) = 2/3,
+then no sequence of messages would ever cause them to agree within ε < 1/3. So informally,
+what we really want to know is whether two wannabes will always agree, having put in a
+“good-faith effort” to emulate Bayesian rationality.
+    We are thus led to the following question. Is there an agreement protocol that
+
+    (i) would cause two computationally-unbounded Bayesians to (ε, δ)-agree after a small
+        number of messages, and
+
+ (ii) can be simulated using a small amount of computation?
+
+    We will say shortly what we mean by a “small amount of computation.” By “simulate,”
+we mean that a computationally-unbounded referee, given the state ω ∈ Ω together with
+a transcript M = (m1 , . . . , mR ) of all messages exchanged during the protocol, should be
+unable to decide (with non-negligible bias) whether Alice and Bob were Bayesians following
+the protocol exactly, or Bayesian wannabes merely simulating it. More formally, let B (ω) be
+the probability distribution over message transcripts, assuming Alice and Bob are Bayesians
+
+
+                                              18
+and the state of the world is ω. Likewise, let W (ω) be the distribution assuming Alice and
+Bob are wannabes. Then we require that for all Boolean functions Φ (ω, M ),
+
+                     Pr        [Φ (ω, M ) = 1] −        Pr       [Φ (ω, M ) = 1] ≤ ζ       (*)
+                 ω∈D,M ∈B(ω)                       ω∈D,M ∈W(ω)
+
+
+where ζ is a parameter that can be made as small as we like (say 0.00001).
+    A consequence of the requirement (*) is that even if Alice is computationally unbounded,
+she cannot decide with bias greater than ζ whether Bob is also unbounded, judging only
+from the messages he sends to her. For if Alice could decide, then so could our hypothetical
+referee, who learns at least as much about Bob as Alice does. Though a little harder to
+see, another consequence is that if Alice is unbounded, but knows Bob to be bounded and
+takes his algorithm into account when computing her expectations, her messages will still be
+statistically indistinguishable from what they would have been had she believed that Bob
+was unbounded. Indeed, no beliefs, beliefs about beliefs, etc., about whether either agent is
+bounded or not can significantly affect the sequence of messages, since the truth or falsehood
+of those beliefs is almost irrelevant to predicting the agents’ future messages. Also, if Alice
+is unbounded for some steps of the protocol but bounded for others, then Bob will never
+notice these changes, and would hardly behave any differently were he told of them.
+    Because of these considerations, we claim that, while simulating a Bayesian agreement
+protocol might not be the only way for two Bayesian wannabes to reach an “honest” agree-
+ment, it is certainly a sufficient way. Therefore, if we can show how to meet even the
+stringent requirement (*), this will provide strong evidence that computation time is not a
+fundamental barrier to agreement.
+    But what do we mean by computation time? We assume the state space Ω is a subset
+of {0, 1}n × {0, 1}n , so that Alice’s initial knowledge is an n-bit string x, and Bob’s is an
+n-bit string y. Given the prior distribution D over (x, y) pairs, let DA,x be Alice’s posterior
+distribution over y conditioned on x, and let DB,y be Bob’s posterior distribution over x
+conditioned on y. The following two computational assumptions are the only ones that we
+make:
+
+ (1) Alice and Bob can both evaluate f (ω) for any ω ∈ Ω.
+
+ (2) Alice and Bob can both sample from DA,x for any x ∈ {0, 1}n , and from DB,y for any
+     y ∈ {0, 1}n .
+
+    Our simulation procedure will not have access to descriptions of f or D; it can learn
+about them only by calling subroutines for (1) and (2) respectively. The complexity of
+the procedure will then be expressed in terms of the number of subroutine calls, other
+computations adding a negligible amount of time. Thus, we might stipulate that both
+subroutines should run in time polynomial in n. On the other hand, n could be extremely
+large—otherwise the agents would simply exchange their entire inputs and be done! So we
+probably want to be even stricter, and stipulate that the subroutines should use time (say)
+logarithmic in n, albeit with many parallel processors. The latter seems like a better model
+for the human brain; after all, to reach an opinion based on our current knowledge, we do
+
+
+                                                   19
+not contemplate every fact we know in sequential order, but instead zero in quickly on the
+relevant facts. In any case, the simulation procedure will treat the subroutines purely as
+“black boxes,” so decisions about their implementation will not affect our results.
+    The justification for assumptions (1) and (2) is that without them, it is hard to see how
+the agents could estimate their expectations even before they started talking to each other.
+In other words, we have to assume the agents enter the conversation with minimal tools for
+reasoning about their universe of discourse. We do not assume that those tools extend to
+reasoning about each other’s expectations, expectations of expectations, etc., conditioned on
+a sequence of messages exchanged. That the tools do extend in this way is what we intend
+to prove.
+    The one assumption that seems debatable to us is that Alice can sample from Bob’s
+distribution DB,y , and Bob can sample from Alice’s distribution DA,y . How can an agent
+possibly be expected to possess “someone else’s” sampling subroutine? On further reflection,
+though, this question is simply a variant of an earlier question: why can we assume that
+Alice knows Bob’s set of possible states ΩB (ω), and that Bob knows ΩA (ω)? For if Alice
+knows ΩB (ω) as well as Bob does, then there is no particular reason why she should not be
+able to sample from it as well as he can. Again, the reason the agents know each other’s
+partitions is that the state of the world ω ∈ Ω includes both agents’ mental states as part of
+it. None of this seems too out of line with everyday experience—for whenever we use what
+we know to try and figure out what someone else might be thinking, a Bayesian might say
+we are sampling an ω from our set of possible states, then sampling from what the other
+person’s set of possible states would be if the state of the world were ω.
+    Finally, let us note that assumptions (1) and (2) can both be relaxed. In particular, it is
+enough to approximate f (ω) to within an additive factor η with probability at least 1 − η,
+in time that increases polynomially in 1/η. It is also enough to sample from a distribution
+whose variation distance from DA,x or DB,y is at most η, in time polynomial in 1/η. Indeed,
+since the probabilities and f -values are real numbers, we will generally need to approximate
+in order to represent them with finite precision. For ease of presentation, though, we assume
+exact algorithms in what follows.
+
+4.1    Smoothed Standard Protocol
+Naı̈vely, requirement (*) seems impossible to satisfy. All of the agreement protocols discussed
+earlier in this paper—for example, that of Theorem 6—are easy to distinguish from any
+efficient simulation of them. For consider Alice’s first message to Bob. If Alice’s expectation
+EA,0 is below some threshold c, she sends one message, whereas if EA,0 ≥ c, she sends a
+different message. Even if we fix f , and limit probabilities and f -values to (say) n bits
+of precision, we can arrange things so that EA,0 (ω) is exponentially close to c, sometimes
+greater and sometimes less, with high probability over ω. Then to decide which message to
+send, Alice needs to evaluate f exponentially many times.
+     We resolve this issue by having the agents add random noise to their messages (“smooth-
+ing” them), even if they are unbounded Bayesians. This noise does not prevent the agents
+from reaching (ε, δ)-agreement. On the other hand, it makes their messages easier to sim-
+ulate. For unlike real numbers a 6= b, which are perfectly distinguishable no matter how
+
+
+                                              20
+               Pr[message]   0                  -ε        Ei,t   +ε           1
+
+ Figure 4: Agent i “smoothes” its expectation Ei,t with triangular noise before sending it.
+
+
+
+close they are, two probability distributions with close means may be hard to distinguish,
+like wavepackets in quantum mechanics.
+     In the smoothed standard protocol, Alice generates her messages to Bob as follows. Let
+b ≥ log2 (200/ε) be a positive integer to be specified later. Then let  be an integer
+multiple of 2−b between ε/50 and ε/40, and let L = 2b . First Alice rounds her current
+expectation EA,t of f to the nearest multiple of 2−b . Denote the result by round (EA,t ).
+She then draws an integer r ∈ {−L, . . . , L}, according to a triangular distribution in which
+r = j with probability (L − |j|) /L2 (see Figure 4). The message she sends Bob is mt+1 =
+round (EA,t ) + 2−b r. Observe that since mt+1 ∈ [−, 1 + ], there are at most 2b (1 + 2) + 1
+possible values of mt+1 —meaning Alice’s message takes only b + 1 bits to specify. After
+receiving the message, Bob updates his expectation of f using Bayes’ rule, then draws
+an integer r ∈ {−L, . . . , L} according to the same triangular distribution and sends Alice
+mt+2 = round (EB,t+1 ) + 2−b r. The two agents continue to send messages in this way.
+     The reader might be wondering why we chose triangular noise, and whether other types
+of noise would work equally well. The answer is that we want the message distribution
+to have three basic properties. First, it should be concentrated about a mean of Ei,t with
+variance at most ˜2 . Second, shifting the mean by η ≤  should shift the distribution by at
+most ˜η/ in variation distance. And third, the derivative of the probably density function
+should never exceed ˜η/2 in absolute value. Thus, Gaussian noise would also work, though
+it is somewhat harder to analyze than triangular noise. However, noise that is uniform over
+[−, ] would not work (so far as we could tell), since it violates the third property.
+     Before we analyze the protocol, we need to develop some notation. Let Mt = (m1 , . . . , mt )
+consist of the first t messages that Alice and Bob exchange. Since messages are now proba-
+bilistic, the agents’ expectations of f at step t depend not only on the initial state of the world
+ω, but also on Mt . When we want to emphasize this, we denote the agents’ expectations
+by EA,t (ω, Mt ) and EB,t (ω, Mt ) respectively. Another important consequence of messages
+being probabilistic is that after an agent has received a message, its posterior distribution
+over ω is no longer obtainable by restricting the prior distribution D to a subset of possible
+states. Thus, we let Ωi (ω) = Ωi,0 (ω), since we will never refer to Ωi,t (ω) for t > 0.
+     Say the agents (ε, δ)-agree after the tth message if
+
+                              Pr [|EA,t (ω, Mt ) − EB,t (ω, Mt )| > ε] ≤ δ.
+                             ω∈Ω,Mt
+
+
+
+
+                                                     21
+Also, let                                                          
+                                 kEi,t k22 = EX       Ei,t (ω, Mt )2 .
+                                            ω∈Ω,Mt
+
+
+Theorem 11 For all f, D, the smoothed standard protocol causes Alice and Bob to (ε, δ)-
+agree after at most 2/ (δε2 ) messages.
+
+    Proof. Similarly to Theorem 6, we let EC,t be the expectation of a third party Charlie
+who sees all messages between Alice and Bob, but who knows neither their inputs nor the
+random bits that they use to produce their messages. We then track kEC,t k22 .
+    Assume that Pr [|EA,t − EB,t | > ε] ≥ δ and that Alice sends the tth message mt . Notice
+that mt cannot deviate from Alice’s expectation EA,t = EA,t−1 by more than 2, since
+|round (EA,t ) − EA,t | ≤  and |mt − round (EA,t )| ≤ . So keeping Mt fixed,
+
+                                |EA,t (ω, Mt ) − EA,t (ω 0 , Mt )| ≤ 4
+
+for all ω, ω 0. Now Charlie’s expectation EC,t (ω, Mt ) is just an average of EA,t (ω 0 , Mt )’s, so
+it follows that
+                               |EC,t (ω, Mt ) − EA,t (ω, Mt )| ≤ 4
+as well. Similarly, after Bob sends the (t + 1)st message,
+
+                           |EC,t+1 (ω, Mt+1 ) − EB,t+1 (ω, Mt+1 )| ≤ 4.
+
+Therefore
+                   Pr [|EC,t+1 − EC,t | > ε − 8] ≥ Pr [|EA,t − EB,t | > ε] ≥ δ,
+using the triangle inequality and the fact that EB,t+1 = EB,t . The final observation is that
+Charlie’s partition of Ω × Mt+1 at step t + 1 refines his partition at step t, so by Proposition
+4,
+                     kEC,t+1 k22 − kEC,t k22 = kEC,t+1 − EC,t k22 > δ (ε − 8)2 .
+                                                                       
+Since kEC,t k22 ≤ 1, this yields an upper bound of 1/ δ (ε − 8)2 < 2/ (δε2 ) on the number
+of messages.
+
+4.2     Simulating the Smoothed Protocol
+Having proved that the smoothed standard protocol works, in this section we explain how
+Alice and Bob can simulate the protocol. In the ideal case—where the agents have unlimited
+computational power—they use the following recursive formulas. Let
+                           
+                             1 − |mt − round (Ei,t−1 )| / if |mt − round (Ei,t−1 )| ≤ 
+        ∆ (mt , Ei,t−1 ) =
+                                         0                 otherwise
+
+be proportional to the probability that agent i sends message mt , given that its expectation
+is Ei,t−1 . Also, let qt (ω, Mt ) be proportional to the joint probability of messages m1 , . . . , mt
+
+
+
+
+                                                  22
+assuming the true state of the world is ω. Then assuming t is even and suppressing depen-
+dencies on Mt , for all X, Y we have
+
+                            qt (Y ) = qt−2 (Y ) ∆ (mt , EB,t−1 (Y )) ,
+                         qt−1 (X) = qt−3 (X) ∆ (mt−1 , EA,t−2 (X)) ,
+                                      EXY ∈ΩA (X) [qt (Y ) f (Y )]
+                         EA,t (X) =                                ,
+                                         EXY ∈ΩA (X) [qt (Y )]
+                                      EXX∈ΩB (Y ) [qt−1 (X) f (X)]
+                        EB,t−1 (Y ) =
+                                         EXX∈ΩB (Y ) [qt−1 (X)]
+
+with the base cases q0 (Y ) = q−1 (X) = 1 for all X, Y . The correctness of these formulas
+follows from simple Bayesian manipulations. Having computed Ei,t (ω) by the formulas
+above (note that this does not require knowledge of ω), all agent i needs to do is draw
+r ∈ {−L, . . . , L} from the triangular distribution, then send the message
+
+                               mt+1 = round (Ei,t (ω)) + 2−b r.
+
+    In the real case, the agents are computationally bounded, and can no longer afford the
+luxury of taking expectations over the exponentially large sets Ωi . A natural idea is to
+compensate by somehow sampling those sets. But since we never assumed the ability
+to sample Ωi conditioned on messages m1 , . . . , mt , it is not obvious how that make that
+idea work. Our solution will consist of two phases: the construction of “sampling-trees,”
+which involves no communication, followed by a message-by-message simulation of the ideal
+protocol. Let us describe these phases in turn.
+    (I) Sampling-Tree Construction. Alice creates a tree TA with height R and branching
+factor K. Here R < 2/ (δε2 ) is the number of messages, and K is a parameter to be specified
+later. Let rootA be the root node of TA , and let S (v) be the set of children of node v.
+Then Alice labels each of the K nodes w ∈ S (rootA ) by a sample Yw ∈ ΩA (ω), drawn
+independently from her posterior distribution DA,x . Next, for each w ∈ S (rootA ), she labels
+each of the K nodes v ∈ S (w) by a sample Xv ∈ ΩB (Yw ), drawn independently from Bob’s
+distribution DB,y where Yw = (x, y). She continues recursively in this manner, labeling each
+v an even distance from the root with a sample Xv ∈ ΩB (Yw ) where w is the parent of v,
+and each w an odd distance from the root with a sample Yw ∈ ΩA (Xv ) where v is the parent
+of w. Thus her total number of samples is
+
+                                                   K R+1 − 1
+                           K + K2 + · · · + KR =             − 1.
+                                                    K −1
+Similarly, Bob creates a tree TB with height R and branching factor K. Let rootB be the
+root of TB ; then Bob labels each v ∈ S (rootB ) by a sample Xv ∈ ΩB (ω), each child w ∈ S (v)
+of each v ∈ S (rootB ) by a sample Yw ∈ ΩA (Xv ), and so on, alternating between ΩB and ΩA
+at successive levels. As a side remark, if the agents share a random string, then there is no
+reason for them not to use the same set of samples. However, we cannot assume that such
+a string is available.
+
+
+                                             23
+   (II) Simulation. We now explain how the agents can use the samples from (I) to
+simulate the smoothed standard protocol. First Alice estimates her expectation EA,0 by the
+quantity
+                                                       1   X
+                hEA,0 (rootA )iA = EX [f (Yw )] =                 f (Yw ) .
+                                  w∈S(rootA )         K
+                                                                w∈S(rootA )
+
+She then chooses a random r ∈ {−L, . . . , L} and sends Bob
+                                                        
+                         m1 = round hEA,0 (rootA )iA + 2−b r.
+On receiving the message, for each v ∈ S (rootB ) Bob computes
+                                             1 X
+                              hEA,0 (v)iB =          f (Yw ) ,
+                                            K
+                                                   w∈S(v)
+
+his estimate of EA,0 (Xv ) assuming ω = Xv . He then defines
+                                                              
+                               hq0 (v)iB = ∆ m1 , hEA,0 (v)iB
+and estimates his own expectation EB,1 (ω) by
+                                        P
+                                             v∈S(rootB ) hq0 (v)iB f (Xv )
+                       hEB,1 (rootB )iB =     P                               .
+                                                   v∈S(rootB ) hq0 (v)iB
+
+Finally, he chooses a random r ∈ {−L, . . . , L} and sends Alice
+                                                         
+                           m2 = round hEB,1 (rootB )iB + 2−b r.
+In general, if t is even then the recursive formulas for agent i are
+
+                                                                       
+                          hqt (w)ii = hqt−2 (w)ii ∆ mt , hEB,t−1 (w)ii ,
+                                                                        
+                        hqt−1 (v)ii = hqt−3 (v)ii ∆ mt−1 , hEA,t−2 (v)ii ,
+                                      P
+                                         w∈S(v) hqt (w)ii f (Yw )
+                        hEA,t (v)ii =     P                       ,
+                                             w∈S(v) hqt (w)ii
+                                      P
+                                         v∈S(w) hqt−1 (v)ii f (Xv )
+                      hEB,t−1 (w)ii =     P
+                                             v∈S(w) hqt−1 (v)ii
+
+with the base cases hq0 (w)ii = hq−1 (v)ii = 1 for all w, v. Agent i computes a message mt
+in the obvious way, from its expectation at the root of Ti :
+                                                          
+                            mt = round hEi,t−1 (rooti )ii + 2−b r.
+    That completes the description of the simulation procedure. Its complexity is easily
+determined: let T1 be the number of computational steps needed to sample from DA,x or DB,y,
+and let T2 be number of steps needed to evaluate f . Then both agents use O K R (T1 + T2 )
+steps, where we have summed over all R communication rounds. Thus, the complexity is
+exponential in R ≈ 2/ (δε2 ); on the other hand, it has no dependence on n.
+
+                                              24
+4.3    Analysis
+Our goal is to show that the message sequence in the simulated protocol is statistically
+indistinguishable from the sequence in the ideal protocol, for some reasonable sample size
+                                                                             2
+K. Here ‘reasonable’, unfortunately, is still quite huge: of order (11/)R /ζ 2 , where ζ is
+the maximum bias with which a referee can distinguish the conversations. So assuming
+ ≥ ε/50 and R ≤ 2/ (δε2 ), the total number of computational steps is of order
+                      2
+                        !R                                           
+              (11/)R                         8 ln (550/ε) 4 ln (1/ζ)
+                           (T1 + T2 ) = exp               +             (T1 + T2 ) .
+                 R2                               δ 3 ε6       δε2
+The reader might complain that this bound is not at all reasonable: for example, if ε =
+δ = 1/2, then it translates into more than 236864 subroutine calls! Let us make two points
+in response. First, we do show that the number of subroutine calls needed is independent
+of n, and that it grows “only” exponentially in a polynomial in 1/δ and 1/ε. Theoretical
+computer scientists often see cases in which the first polynomial-time algorithm for a problem
+has a completely impractical complexity, say n40 . However, once the problem is known to be
+in polynomial time, it is usually possible to reduce the exponent to obtain a truly practical
+algorithm. In our case, we conjecture that the factor of 1/ (δ 3 ε6 ) in the exponent could be
+reduced to 1/ (δ 2 ε4 ) or even 1/ (δε2 ); certainly the constants in the exponent can be reduced.
+The second point is that the complexity is so large only because we never assumed the agents
+can sample from their sets of possible states conditioned on messages exchanged. So the
+best they can do is to sample a huge number of states from their original sets ΩA and ΩB ,
+then retain the few that are compatible with the messages. However, it seems likely that
+agents would have at least some ability to sample conditioned on messages. After all, we
+assumed that they enter the conversation with the ability to sample, and presumably they
+have had other conversations in the past! In practice, then, the complexity will probably
+be better than the worst-case estimate above.
+    How do we prove the simulation theorem? In one sense, the proof is ‘merely’ an exercise
+in error analysis and large deviation bounds. However, the details are extremely subtle and
+difficult to get right. The problem is that if a message has probability q from its recipient’s
+point of view, then order 1/q samples are needed to find even a single input that could
+have caused the sender to produce that message. Fortunately, low-probability messages are
+unlikely to be sent, for almost tautological reasons that we spell out in Lemma 14. However,
+because the sample trees Ti are so large, with overwhelming probability they contain some
+nodes v with miniscule values of hqt (v)ii . We need to argue that the errors introduced by
+these “bad nodes” are washed out by the good nodes before they can propagate to the root.
+    The proof will repeatedly use the Chernoff-Hoeffding bound (Theorem 2). As shown by
+the following corollary, Theorem 2 sometimes lets us estimate the mean of a random variable,
+even if we cannot sample that variable directly.
+Corollary 12 Let p1 , . . . , pn and x1 , . . . , xn belong to [0, 1], and let P = p1 + · · · + pn and
+x = p1 x1 + · · · + pn xn . If we choose K indices i (1) , . . . , i (K) uniformly at random from
+{1, . . . , n}, then
+                                                                 
+                         pi(1) xi(1) + · · · + pi(K) xi(K)   x              2    2
+                    Pr                                     −   > α ≤ 4e−α (P/n) K/2 .
+                               pi(1) + · · · + pi(K)         P
+
+                                                 25
+     Proof. Let
+                                        n                       
+                                   Pe =   pi(1) + · · · + pi(K) ,
+                                        K
+                                                                           
+                                   Xe = n pi(1) xi(1) + · · · + pi(K) xi(K) .
+                                        K
+           e ≤ Pe,
+Then since X
+                                                   
+                e                 e P − Pe − Pe X − X
+                                  X                 e                    Pe − P       e −X
+                                                                                      X
+               X    X
+                  −   =                                            ≤              +          .
+               Pe   P                            PeP                         P         P
+
+So                "             #                               
+                      Xe   X                  αP                αP
+             Pr          −             e
+                             > α ≤ Pr P − P >            e
+                                                   + Pr X − X >      .
+                      Pe   P                   2                 2
+By Theorem 2,                                  
+                                   K e      αP         2     2
+                                Pr   P −P >    K ≤ 2e−α (P/n) K/2
+                                   n        2n
+and similarly for X e −X .
+   We will also need a bound for a sum of exponentially distributed variables, which can be
+found in [7] for example.
+Theorem 13 Let x1 , . . . , xK ∈ [0, ∞) be independent and exponentially distributed with
+mean 1 (that is, Pr [xi ≥ x] = e−x ). Then
+                                                           α −K
+                                                            e
+                       Pr [x1 + · · · + xK ≥ (1 + α) K] ≤         .
+                                                           1+α
+    For convenience, we will state our results in terms of Alice’s tree TA , with the under-
+standing that they apply equally well to TB . Throughout, we   Passume that t is even and
+          th
+that the t message mt is sent from Bob to Alice. Let Qt = Y ∈ΩA (ω) qt (Y ) measure the
+“likelihood” of Alice’s situation at step t. Then Qt /Qt−2 measures the likelihood of the tth
+message, conditioned on Alice’s situation just before she receives it. The following lemma
+says essentially that “unlikely messages are unlikely.”
+Lemma 14 For all inputs x of Alice, message sequences Mt−1 , and constants γ > 0,
+                                              
+                                     Qt     γ
+                                Pr       ≤       < γ.
+                                mt Qt−2      2
+     Proof. For all m ∈ [−, 1 + ],
+                                                                                                 !
+                            X                                            ∆ m, m + 2−b j
+      Pr [mt = m] =                    Pr round (EB,t−1 (Y )) = m + 2−b j ·
+                                       Y                                         L
+                       j∈{−L,...,L}
+                            P
+                        1       Y ∈ΩA (ω) qt−2 (Y ) ∆ (m, EB,t−1 (Y ))       1 Qt
+                      =                P                                 =
+                        L                  Y ∈ΩA (ω) qt−2 (Y )               L Qt−2
+
+                                                         26
+from Alice’s point of view. So it suffices to observe that
+                                            
+                                          γ      γ L (1 + 2) + 
+                      Pr Pr [mt = m] ≤         ≤                    < γ.
+                      m mt                2L      2L       
+Here the first inequality follows from elementary probability theory, together with the fact
+that there are at most (1 + 2) /2−b + 1 possible messages m, and hence the mean of
+Prmt [mt = m] over m chosen uniformly at random is at least
+                                      1                 
+                                                =                .
+                              (1 + 2) /2−b + 1   L (1 + 2) + 
+
+The second inequality follows since  < 1/4.
+   A consequence of Lemma 14 is that unlikely sequences of messages are unlikely. For the
+remainder of this section, let g = 4e ln K.
+
+Lemma 15 For all γ > 0 and all x,
+                                                                 
+                                                 t/2          1
+                               Pr [Qt ≤ γ] < g         max γ,         .
+                               y,Mt                           K
+
+   Proof. For all u ∈ {2, 4, . . . , t}, let xu = ln (Qu−2 /2Qu ). Then
+                         2Qt 2Qt−2      2Q2   t/2                    t/2
+                                                        −x2 −x4 −···−xt 
+                   Qt =             ···              =e
+                        Qt−2 Qt−4     Q0 2                           2
+since Q0 = 1. Furthermore, Lemma 14 implies that for each u,
+                                                      
+                                          Qu     e−x 
+                       Pr [xu ≥ x] = Pr       ≤          < e−x ,
+                                     mu Qu−2       2
+even conditioned on x2 , . . . , xu−2 . Therefore x2 + · · · + xt is stochastically dominated by a
+sum of t/2 independent exponential variables each with mean 1. So by Theorem 13,
+                                                              α −t/2
+                                                           t         e
+                       Pr x2 + · · · + xt ≥ (1 + α)           <                .
+                                                           2       1+α
+                                                                                    
+Setting γ = e−(1+α)t/2 (/2)t/2 and solving to obtain α = (2/t) ln (/2)t/2 /γ − 1, it follows
+that
+                                                    −t/2
+                           (2/t) ln((/2)t/2 /γ )−1                   t/2               
+                         e                                     4e    1                   1
+      Pr [Qt ≤ γ] <                                    <      ln             t/2
+                                                                            γ ≤ g max γ,     .
+     y,Mt
+                       (2/t) ln (/2)t/2 /γ                         γ                   K
+
+
+    In the next four results, we fix a particular node v ∈ TA , then study how the error at
+v depends on the errors at its children w ∈ S (v). For simplicity, we assume v is an even
+distance from the root, but our results will apply equally to nodes an odd distance from the
+
+                                               27
+root. We need to upper-bound the expected difference between Alice’s actual expectation
+hEA,t (v)iA , and her ideal expectation EA,t (Xv ). To this end, it will be helpful to define the
+following “hybrid” between hEA,t (v)iA and EA,t (Xv ):
+                                          P
+                                 ∗           w∈S(v) qt (Yw ) f (Yw )
+                               EA,t (v) =     P                      .
+                                                w∈S(v) qt (Yw )
+
+                ∗
+To compute EA,t   , we use the ideal weights qt (Yw ), but we average over Alice’s K sam-
+ples {Yw }w∈S(v) only, not over all of ΩA (Xv ). By the triangle inequality, to upper-bound
+                                                                                  ∗
+the quantity hEA,t (v)iA − EA,t (Xv ) it suffices to upper-bound hEA,t (v)iA − EA,t (v) and
+   ∗
+ EA,t (v) − EA,t (Xv ) . We start with the latter.
+
+Lemma 16
+                                           ∗
+                                                                           7g t/2+1
+                            EX             EA,t (v) − EA,t (Xv )           ≤ √       .
+                          y,Mt ,S(v)                                            K
+   Proof. Assuming Qt = Q,
+                        ∗                            2 2
+                    Pr EA,t (v) − EA,t (Xv ) ≥ ω ≤ 4e−ω Q K/2
+                                         ∗
+by Corollary 12. Furthermore, since EA,t    (v) and EA,t (Xv ) are in [0, 1], we have the trivial
+                       ∗
+but important bound EA,t (v) − EA,t (Xv ) ≤ 1. Therefore
+                             Z 1
+      ∗                              ∗                             
+ EX EA,t (v) − EA,t (Xv ) =         Pr EA,t   (v) − EA,t (Xv ) ≥ y dy
+                               0
+                               Z 1        h 2 2 i
+                           ≤4        EX e−y Qt K/2 dy
+                                  0 Qt
+                               Z 1Z 1 h                       i
+                                                  2 2
+                           =4             Pr e−y Qt K/2 ≥ x dxdy
+                                  0   0
+                               Z 1Z 1                 r          
+                                                      1 2       1
+                           =4             Pr Qt ≤            ln      dxdy
+                                  0   0              x K y
+                               Z 1Z 1                    r                       
+                                                           1 2         1 1      t/2
+                           ≤4             min 1, max               ln ,       g       dxdy
+                                  0   0                    x K y K
+                                            Z 1Z 1                   r                 
+                                 t/2    1                     −t/2 1      2    1
+                           ≤ 4g            +           min g       ,        ln      dxdy
+                                       K       0   0                 x K y
+                                            Z 1 r                         Z 1               
+                                 t/2    1              2    1                            1
+                           = 4g            +             ln     xmin (y) +                 dx dy
+                                       K       y=0     K y                    x=xmin (y) x
+
+Here the fifth line uses Lemma 15, and
+                                                                r
+                                                          t/2       2   1
+                                           xmin (y) = g               ln .
+                                                                    K y
+                                                                                     √
+By straightforward integral approximations, the last expression is at most 7g t/2+1 / K for
+sufficiently large K.
+
+                                                      28
+   For each child w ∈ S (v), let
+                                              X
+                          ηt (w) =                        hEB,u (w)iA − EB,u (Yw )
+                                        u∈{1,3,...,t−1}
+
+measure the total error in Alice’s estimates of EB,u (Yw ), summed over all time steps u ≤ t.
+The following proposition shows that to upper-bound the error in hqt (w)iA , it suffices to
+upper-bound ηt (w). For this proposition to hold, we need the function ∆ to have bounded
+derivative. That is why we chose triangular instead of uniform noise when defining the
+protocol.
+
+Proposition 17
+                                                                          ηt (w)
+                                     |hqt (w)iA − qt (Yw )| ≤                    .
+                                                                             
+   Proof. From the definition of ∆,
+                                                     1
+        ∆ mu+1 , hEB,u (w)iA − ∆ (mu+1 , EB,u (Yw )) ≤ hEB,u (w)iA − EB,u (Yw ) .
+                                                      
+                                 
+Furthermore, ∆ mu+1 , hEB,u (w)iA and ∆ (mu+1 , EB,u (Yw )) are both bounded in [0, 1]. It
+follows that
+                                        Y                         Y
+         |hqt (w)iA − qt (Yw )| =            ∆ mu+1 , hEB,u (w)iA −  ∆ (mu+1 , EB,u (Yw ))
+                                         u                                           u
+                                     X1                                                  ηt (w)
+                                 ≤               hEB,u (w)iA − EB,u (Yw ) =
+                                        u
+                                                                                           
+
+where u ranges over {1, 3, . . . , t − 1}.
+   Now let
+                                                    X
+                                            H=              qt (Yw ) ,
+                                                   w∈S(v)
+                                                    X
+                                             F =            qt (Yw ) f (Yw ) ,
+                                                   w∈S(v)
+                                                    X
+                                     hHiA =                 hqt (w)iA ,
+                                                   w∈S(v)
+                                                    X
+                                     hF iA =                hqt (w)iA f (Yw ) ,
+                                                   w∈S(v)
+
+         ∗
+so that EA,t (v) = F/H and hEA,t (v)iA = hF iA / hHiA . Using Lemma 15, we can upper-
+bound the probability that H is too much smaller than its mean value.
+
+Corollary 18 For all γ > 0,
+                                                                                        
+                                                                 t/2          4 ln K
+                              Pr        [H ≤ γK] < 3g                  max γ,                .
+                           y,Mt ,S(v)                                            K
+
+                                                            29
+   Proof. By the principle of deferred decisions, we can think of each qt (Yw ) as an indepen-
+dent sample of a [0, 1] random variable with mean Qt . Then H is a sum of K such samples.
+Setting Γ = max {2γ, 8 (ln K) /K}, by Lemma 15 we have
+                                                              
+                                             t/2        4 ln K
+                             Pr [Qt ≤ Γ] < 2g max γ,             .
+                            y,Mt                           K
+Furthermore, assuming Qt > Γ, Theorem 2 yields
+                                                    
+                                               γ 2 K             1
+                 Pr [H ≤ γK] ≤ exp −Qt 1 −              ≤ e−ΓK/8 ≤ .
+                S(v)                           Γ    2             K
+The corollary now follows by the union bound.
+     The last piece of the puzzle is to upper-bound the difference between hEA,t (v)iA and
+   ∗
+EA,t (v), using techniques similar to those of Lemma 16. Let η = EXw∈S(v) [ηt (w)] and
+ηb = EXy,Mt ,TA [η].
+
+Lemma 19 Assuming η ≥ 1/K for all y, Mt , TA ,
+                                          ∗
+                                                  
+                    EX    hEA,t (v)iA − EA,t   (v) ≤ 18g t/2+1 ηb.
+                        y,Mt ,TA
+
+   Proof. Using the fact that hF iA ≤ hHiA ,
+
+                            ∗           hF iA   F   |hHiA − H| |hF iA − F |
+             hEA,t (v)iA − EA,t (v) =         −   ≤           +
+                                        hHiA H          H           H
+by the same trick as in Corollary 12. Furthermore, it follows from Proposition 17 together
+with the triangle inequality that |hHiA − H| ≤ ηK/ and |hF iA − F | ≤ ηK/. So we can
+                              ∗
+upper-bound hEA,t (v)iA − EA,t   (v) by 2ηK/ (H), as well as (of course) by 1. Fix η; then
+                               Z 1                  
+                           2ηK                  2ηK
+             EX min 1,              =      Pr         ≥ x dx
+              H             H         0 H       H
+                                      Z 1                                     
+                                                             2η 4 ln K       t/2
+                                    ≤      min 1, 3 max        ,           g       dx
+                                       0                     x K
+                                                       Z 1                    
+                                         t/2   4 ln K                1 2η
+                                    ≤ 3g              +     min          ,        dx
+                                                  K       0        3g t/2 x
+                                                                Z 1           
+                                         t/2   4 ln K    xmin           2η
+                                    = 3g              + t/2 +              dx
+                                                  K     3g        xmin x
+
+where the second line uses Corollary 18 and xmin = (6η/) g t/2 . This in turn is at most
+                                                       
+                                   t/2   4 ln K 2η 1
+                                3g             +   ln     .
+                                            K        η
+Assuming η ≥ 1/K always, the expectation of the above quantity over η is at most 18g t/2+1 ηb.
+
+   We are finally ready to put everything together, and show that the referee can distinguish
+the real and ideal conversations with bias at most ζ.
+
+                                             30
+                                                             2
+                                                                   
+Theorem 20 By setting b = dlog2 R/ (ζ)e + 2 and K = O (11/)R /ζ 2 , it is possible to
+achieve
+                     Pr            [Φ (ω, MR ) = 1] −                Pr          [Φ (ω, MR ) = 1] ≤ ζ
+                ω∈D,M ∈W(ω)                                     ω∈D,M ∈B(ω)
+
+for all Boolean functions Φ.
+
+   Proof. Combining Lemmas 16 and 19,
+                                                                                                 
+                                                                             t/2+1        7
+                   EX            hEA,t (v)iA − EA,t (Xv )                ≤g                √ + 18b
+                                                                                                 η .
+                  y,Mt ,TA                                                                  K
+
+Let Lj be the set of nodes at the j th level of Alice’s tree TA . Then if j is even, let
+                                                                        
+                             X                                         
+              λj = EX                  EX      hEA,t (v)iA − EA,t (Xv )  ,
+                     v∈Lj                          y,Mt ,TA
+                                 t∈{j,j+2,...,R}
+                                                                                                       
+                                            X                                                       
+             λj+1 = EX                                        EX            hEB,t (w)iA − EB,t (Yw )  .
+                     w∈Lj+1                                   y,Mt ,TA
+                                     t∈{j+1,j+3,...,R−1}
+
+
+By linearity of expectation,
+                                                                  
+                                            R      R/2+1    7
+                                 λj ≤         +1 g         √ + 18λj+1 .
+                                            2               K
+Solving this recurrence relation, we find that at the root node,
+                                                           2      7
+                                        λ0 ≤ (9R + 18)R g R /2+R √ ,
+                                                                  K
+
+and similarly for the root of Bob’s tree TB . So in particular, EXω,MR ,Ti [∂t ] ≤ λ0 + 2−b+1 for
+all i, t, where                                   
+                       ∂t = round hEi,t (rooti )ii − round (Ei,t (ω)) .
+Now observe that, if we let Wt+1 be the distribution over message mt+1 in the wannabe case,
+and let Bt+1 be the distribution in the unbounded Bayesian case, then
+                                                     ∂t /2−b
+                                     1 X 2 (L − r + 1)   ∂t /2−b   ∂t
+                   kWt+1 − Bt+1 k1 =            2
+                                                       ≤         =
+                                     2 r=1    L             L      
+
+where k k1 denotes variation distance. So the referee can distinguish the whole conversations
+with bias at most
+                         1                           1           
+                           EX [∂0 + · · · + ∂R−1 ] ≤   λ0 + 2−b+1 R
+                                                    
+
+
+
+
+                                                               31
+since variation distance satisfies the triangle inequality. Therefore, we can achieve the goal
+of simulation by taking λ0 ≤ ζ/R − 2−b+1 ≤ ζ/2R, or equivalently
+                                       R2 +2R                                     R2 +2R !!2R
+         196R2                     4e                  196R2                    4e
+      K = 2 2 (9R + 18)2R                         ln     2  2
+                                                              (9R + 18)2R
+          ζ                                           ζ                       
+                R2 !
+              1 11
+        =O              .
+             ζ2 
+
+
+
+
+5     Open Problems
+      “We publish this observation with some diffidence, since once one has the ap-
+      propriate framework, it is mathematically trivial. Intuitively, though, it is not
+      quite obvious. . . ” —Aumann [2], on his original agreement result
+
+    This paper has studied agreement protocols from the quantitative perspective of theoreti-
+cal computer science. If nothing else, we hope to have shown that adopting that perspective
+leads to rich mathematical questions. Here are a few of the more interesting open problems
+raised by our results:
+
+    • How tight is our O (1/ (δε2 )) upper bound? Can we improve Theorem 6 to show
+      that the discretized standard protocol uses only O (1/ε2 ) messages, independently of
+      δ? More importantly, is there a scenario where Alice and Bob must exchange Ω (1/ε)
+      or Ω (1/ε2 ) bits to (ε, 1/2)-agree, regardless of what protocol they use? Recall that
+      the best lower bound we currently know is Ω (log 1/ε), from Proposition 3.
+
+    • Can Alice and Bob (ε, δ)-agree after a small number of steps, even if the “true” dis-
+      tribution over ω differs from their shared prior distribution D? Or is there a scenario
+      where regardless of what protocol they use, there exists a state ω for which they must
+      exchange Ω (n) bits to agree within ε on ω? (It is easy to construct a scenario where
+      the discretized standard protocol needs Ω (n) bits for some ω.)
+
+    • Can the simulation procedure of Section 4.2 be made practical? That is, can we
+      reduce the number of subroutine calls to (say) c1/(δε ) , or even to a polynomial in 1/δ
+                                                           2
+
+
+      and 1/ε? Alternatively, can we prove a lower bound showing that such reductions are
+      impossible?
+
+    • Can we obtain a better simulation procedure if D is represented in a compact form,
+      for example a graphical model?
+
+
+
+
+                                                  32
+6    Acknowledgments
+I thank Robin Hanson for correspondence during the early stages of this work, and for his
+wonderfully disorienting papers which introduced me to the topic. I also thank Robert
+Aumann, Ran Raz, Alexander Razborov, Umesh Vazirani, and Ronald de Wolf for helpful
+conversations and correspondence.
+
+
+References
+ [1] M. Allais and O. Hagen (eds). Expected Utility Hypotheses and the Allais Paradox,
+     Dordrecht, 1979.
+
+ [2] R. J. Aumann. Agreeing to disagree, Annals of Statistics 4(6):1236–1239, 1976.
+
+ [3] R. J. Aumann. Reply to Gul, Econometrica 66(4):929–938, 1998.
+
+ [4] R. J. Aumann. Interactive epistemology I: knowledge, International J. Game Theory
+     28:263–300, 1999.
+
+ [5] T. Cowen and R. Hanson. Are disagreements honest?, submitted, 2003.
+
+ [6] P. Cross. Not can but will college teaching be improved?, New Directions for Higher
+     Education, 17:1–15, 1977. Cited by Gilovich [10].
+
+ [7] D. P. Dubhashi and A. Panconesi. Concentration of measure for computer scientists,
+     draft at http://www.cs.unibo.it/˜pancones/master.ps.
+
+ [8] J. Earman. Old evidence, new theories: two unresolved problems in Bayesian confir-
+     mation theory, Pacific Philosophical Quarterly 70:323–340, 1989.
+
+ [9] J. D. Geanakoplos and H. M. Polemarchakis. We can’t disagree forever, J. Economic
+     Theory 28:192–200, 1982.
+
+[10] T. Gilovich. How We Know What Isn’t So, Free Press, 1993.
+
+[11] F. Gul. A comment on Aumann’s Bayesian view, Econometrica 66(4):923–927, 1998.
+
+[12] R. Hanson. Disagreement is unpredictable, Economics Letters 77(3):365–369, November
+     2002.
+
+[13] R. Hanson. Uncommon priors require origin disputes, submitted, 2004.
+
+[14] R. Hanson. For savvy Bayesian wannabes, are disagreements not about information?,
+     Theory and Decision 54(2):105–123, 2003.
+
+[15] E. Kushilevitz and N. Nisan. Communication Complexity, Cambridge, 1996.
+
+[16] R. Parikh and P. Krasucki. Communication, consensus, and knowledge, J. Economic
+     Theory 52:178–189, 1990.
+
+                                           33
+[17] S. Russell and P. Norvig. Artificial Intelligence: A Modern Approach (2nd edition),
+     Prentice Hall, 2002.
+
+[18] A. M. Turing. Computing machinery and intelligence, Mind 59:433–460, 1950.
+
+[19] A. Tversky and D. Kahneman. Judgment under uncertainty: heuristics and biases,
+     Science 185:1124–1131, 1974. See also D. Kahneman, P. Slovic, and A. Tversky (eds.),
+     Judgment under Uncertainty, Cambridge, 1982.
+
+
+
+
+                                           34
+

@@ -1,0 +1,25 @@
+{
+ "post": {
+  "_id": "etAZs3QG8LZwm4bTB",
+  "title": "Status 451 on Diagnosis: Russell Aphasia",
+  "postedAt": "2019-08-06T04:43:30.359Z",
+  "pageUrl": "https://www.lesswrong.com/posts/etAZs3QG8LZwm4bTB/status-451-on-diagnosis-russell-aphasia",
+  "commentCount": 1
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "68xPLaWPFkjLNJTJ2",
+   "parentCommentId": null,
+   "postedAt": "2019-08-06T07:54:26.341Z",
+   "baseScore": 6,
+   "user": {
+    "username": "shminux",
+    "displayName": "Shmi"
+   },
+   "contents": {
+    "markdown": "> A culture that cannot tell the difference between \"reporting\" and \"doxing\" and merely considers it \"doxing\" when *they* do it, is a culture that cannot accurately talk about behavior anymore.\n\nI'm yet to see a culture that **can** do it. Any examples?"
+   }
+  }
+ ]
+}

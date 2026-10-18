@@ -1,0 +1,38 @@
+{
+ "post": {
+  "_id": "Ciw8DLJiYnBWa4B7f",
+  "title": "Relationship Outcomes Are Not Particularly Sensitive to Small Variations in Verbal Ability",
+  "postedAt": "2020-02-09T00:34:39.680Z",
+  "pageUrl": "https://www.lesswrong.com/posts/Ciw8DLJiYnBWa4B7f/relationship-outcomes-are-not-particularly-sensitive-to",
+  "commentCount": 2
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "wsRqMpGZTvfHBKTQs",
+   "parentCommentId": null,
+   "postedAt": "2020-02-09T01:40:45.002Z",
+   "baseScore": 25,
+   "user": {
+    "username": "shminux",
+    "displayName": "Shmi"
+   },
+   "contents": {
+    "markdown": "> After a friendship-ending fight\n\nIf you find yourself in a fight with a friend, you must have missed about a dozen of alarm bells and opportunities to make better choices by that point... So a postmortem would not be about the last minute verbiage, but about what got you to that point in the first place. In order to avoid repeating the same suboptimal decisions."
+   }
+  },
+  {
+   "_id": "YNa2vmszMbxyQb6Pu",
+   "parentCommentId": null,
+   "postedAt": "2020-02-09T06:28:52.223Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": ":("
+   }
+  }
+ ]
+}

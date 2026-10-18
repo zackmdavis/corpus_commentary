@@ -1,0 +1,1238 @@
+See discussions, stats, and author profiles for this publication at:
+https://www.researchgate.net/publication/7471046
+
+Transsexual subtypes: Clinical and
+theoretical significance
+Article in Psychiatry Research · January 2006
+DOI: 10.1016/j.psychres.2005.01.008 · Source: PubMed
+
+CITATIONS
+
+READS
+
+121
+
+504
+
+4 authors, including:
+Stephanie H M van Goozen
+
+Peggy T Cohen-Kettenis
+
+Cardiff University
+
+VU University Medical Center
+
+161 PUBLICATIONS 6,682 CITATIONS
+
+284 PUBLICATIONS 10,375 CITATIONS
+
+SEE PROFILE
+
+SEE PROFILE
+
+Some of the authors of this publication are also working on these related projects:
+
+Examining the validity of the assessment of Gender Identity Disorder View project
+
+European Network for the Investigation of Gender Incongruence (ENIGI) View project
+
+All content following this page was uploaded by Peggy T Cohen-Kettenis on 03 October 2017.
+The user has requested enhancement of the downloaded file.
+
+Psychiatry Research 137 (2005) 151 – 160
+www.elsevier.com/locate/psychres
+
+Transsexual subtypes: Clinical and theoretical significance
+Yolanda L.S. Smith a, Stephanie H.M. van Goozen a,b, A.J. Kuiper c,d,
+Peggy T. Cohen-Kettenis a,c,*
+a
+
+Department of Child and Adolescent Psychiatry, University Medical Center, Utrecht, The Netherlands
+b
+School of Psychology, Cardiff University, Cardiff, UK
+c
+Department of Medical Psychology, VU University Medical Center, Amsterdam, The Netherlands
+d
+Helen Dowling Institute, Utrecht, The Netherlands
+Received 9 October 2003; revised 6 June 2004; accepted 20 January 2005
+
+Abstract
+The present study was designed to investigate whether transsexuals can be validly subdivided into subtypes on the basis of
+sexual orientation, and whether differences between subtypes of transsexuals are similar for male-to-female (MF) and femaleto-male transsexuals (FMs). Within a large transsexual sample (n = 187), homosexual and nonhomosexual subjects were
+compared on a number of characteristics before the start of treatment. Differences within MF and FM groups were also
+investigated. Homosexual transsexuals were found to be younger when applying for sex reassignment, reported a stronger
+cross-gender identity in childhood, had a more convincing cross-gender appearance, and functioned psychologically better than
+nonhomosexual transsexuals. Moreover, a lower percentage of the homosexual transsexuals reported being (or having been)
+married and sexually aroused while cross-dressing. The pattern of findings was different for MFs and FMs. No differences
+between homosexuals and nonhomosexuals were found in height, weight, or body mass index. A distinction between subtypes
+of transsexuals on the basis of sexual orientation seems theoretically and clinically meaningful. The results support the notion
+that in the two groups different factors influence the decision to apply for sex reassignment. The more vulnerable
+nonhomosexual transsexuals may particularly benefit from additional professional guidance before and/or during treatment.
+D 2005 Elsevier Ireland Ltd. All rights reserved.
+Keywords: Transsexualism; Gender identity disorder; Gender dysphoria; Sexual orientation; Sex reassignment
+
+1. Introduction
+* Corresponding author. Department of Medical Psychology, VU
+University Medical Center, P.O. Box 7057, 1007 MB Amsterdam,
+The Netherlands. Tel.: +31 20 4442550; fax: +31 20 4443077.
+E-mail address: PT.Cohen-Kettenis@vumc.nl
+(P.T.Cohen-Kettenis).
+
+Since the first classification of (male) habitual or
+persistent bcross-dressersQ (Hirschfeld, 1918) in
+homosexuals, heterosexuals, and bisexuals, many
+other divisions have been proposed (Blanchard,
+
+0165-1781/$ - see front matter D 2005 Elsevier Ireland Ltd. All rights reserved.
+doi:10.1016/j.psychres.2005.01.008
+
+152
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+1989a). In the present study, the terms bhomosexualQ
+and bheterosexualQ refer to erotic attraction to
+members of the same or the opposite biological sex,
+respectively. Although the names and the number of
+subtypes in various studies (for an overview, see
+Blanchard, 1989a; Burns et al., 1990; Johnson and
+Hunt, 1990; Landén et al., 1998) differed, a homosexual subtype was more consistently labeled than any
+other category of transsexual. On the basis of three
+studies, consisting of male transsexuals only, Blanchard proposed that there are only two fundamentally
+different types of transsexualism: homosexual and
+nonhomosexual (Blanchard, 1985, 1988, 1989b). In
+contrast with the homosexual transsexuals, several
+nonhomosexual subgroups were more likely to be
+sexually aroused by the thought or image of themselves as women, which may be characterized as
+bautogynephilic gender dysphoriaQ (Blanchard,
+1989b). Other differences were that only a minority
+of the homosexual male-to-female transsexuals (MFs)
+reported a history of erotic arousal while being crossdressed, that homosexuals were younger at initial
+presentation and that they reported more childhood
+femininity. Homosexual males were also less likely to
+regret sex reassignment (SR) than nonhomosexual
+males (Blanchard et al., 1989; but see Lawrence,
+2003). A few physical differences between the
+subtypes have also been found. Compared with
+nonhomosexual MFs, homosexual MFs have been
+found to be shorter, lighter, and lighter in proportion
+to their height. Homosexual transsexuals were also
+observed to be shorter than men in the general
+population, whereas nonhomosexual transsexuals
+were similar in height (Blanchard et al., 1995). These
+physical differences could be a reflection of an earlier
+onset of puberty in homosexual transsexuals than in
+nonhomosexual transsexuals.
+Until recently, most studies have been conducted
+with MFs. To our knowledge, only one study
+compared small numbers of female-to-male homosexual transsexuals [i.e., 21 homosexual female-to-male
+transsexuals (FMs) and 17 nonhomosexual FMs;
+Chivers and Bailey, 2000]. The homosexual FMs were
+found to be more masculine-oriented than the nonhomosexual FMs. Specifically, homosexual FMs had
+been more cross-gendered in childhood and preferred
+more feminine partners. With regard to sexuality, they
+experienced greater sexual rather than emotional
+
+jealousy, were more sexually assertive, had more
+sexual partners, and had more interest in visual sexual
+stimuli than the nonhomosexual FMs. With respect to
+treatment, they had a stronger desire for phalloplasty.
+The findings so far suggest that there are indeed
+two subtypes of male transsexuals, who come to their
+wish for SR in different ways. An indication that
+(male) homosexual and nonhomosexual transsexualism may have different etiologies comes from
+research on birth order and sibling sex ratio (for a
+review, see Blanchard, 2001). It has been shown that,
+in males, sexual orientation and the number of older
+brothers are correlated, whereas the number of older
+sisters was unrelated to sexual orientation. Also,
+homosexual MFs have an excess of older brothers,
+whereas nonhomosexual MFs do not manifest any
+excess of older brothers. Blanchard (1997, 2001) has
+attributed the effect to the progressive immunization
+of mothers to Y-linked minor histocompatibility
+antigens. He supposed that the mothers’ antibodies
+cross the placental barrier, enter the fetal brain, and
+impede the sexual differentiation of the brain in the
+male-typical direction. As each succeeding male fetus
+increases the strength of the maternal immunization,
+the probability of homosexuality increases in later
+born sons.
+Findings on birth order effects and sibling sex
+ratios in adult women are more mixed and, until now,
+no evidence in support of etiological differences
+between homosexual and nonhomosexual FMs has
+been found. On the basis of the findings described
+above, it is likely that subtypes of transsexuals
+develop along different lines. These subtypes of
+transsexualism might descend from different etiologies and could also be different for males and females.
+Therefore, the main purpose of the present study,
+using a large sample of transsexual subjects, was (a) to
+identify differences between the homosexual and
+nonhomosexual transsexuals to examine the existence
+of different developmental routes, and (b) to investigate whether these differences between homosexual
+and nonhomosexual transsexuals are similar for MFs
+and FMs.
+In line with results from previous studies, we
+expected that nonhomosexual transsexuals would
+have had a less cross-gendered childhood, report
+more sexual arousal while being cross-dressed between 12 and 18 years, and apply for SR later than the
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+homosexual group. As a consequence of their less
+extreme cross-gendered behavior at earlier ages,
+which may be a reflection of a less extreme crossgender identity, we also expected more of them to be
+or to have been married. For homosexual transsexual
+males, we expected a lower height, weight, and body
+mass index.
+Secondly, we expected that less extreme crossgendered behavior, appearance, and preference at
+younger ages would result in a less typical transsexual
+picture in the nonhomosexual subtype: less gender
+dysphoria, and less aversion of one’s sex characteristics. Furthermore, and in line with the hypothesis of
+a stronger bopposite sex blue-printQ in homosexual
+transsexuals, we expected this subgroup to be
+equipped with a physical appearance that already
+better matched the desired gender. Next, the combination of an earlier and more fixed cross-gender
+identity and a more favorable physical appearance in
+the homosexual subtype was expected to result in an
+earlier application for SR and in better psychological
+and emotional functioning.
+Finally, we expected that more-or-less similar
+subtype differences would be observed in male and
+female transsexuals. To our knowledge, this study is
+the first to investigate gender dysphoria, body
+dissatisfaction, psychological functioning and physical appearance in subgroups of MFs and FMs.
+
+2. Methods
+2.1. Subjects
+A group of 196 consecutive patients, who had
+applied and were considered eligible for SR at
+University Medical Center Utrecht (UMCU) or at
+the Gender Clinic at the VU University Medical
+Center in Amsterdam (VUMC), completed SR, and
+agreed to participate in the study. This study focused
+on pretreatment differences between homosexual and
+nonhomosexual transsexuals, who all had completed
+SR. From 187 patients we gathered complete sets of
+pretest data. On the basis of self-reported sexual
+preference, 113 of the 187 patients were classified
+with a homosexual preference (61 MFs and 52 FMs)
+and the other 74 with a nonhomosexual preference (52
+MFs and 22 FMs).
+
+153
+
+2.2. Procedure
+After agreement to participate, an interview and
+testing session were arranged shortly after application.
+Each session took 2 to 3 h. Appointments for an
+interview and testing were usually made at the
+VUMC. If a UMCU patient considered it to be more
+convenient, an appointment was made at UMCU.
+Researchers who were not clinically involved interviewed the subjects. The Ethics Committees of
+UMCU and VUMC approved the study.
+2.3. Instruments
+2.3.1. Biographical Questionnaire for Transsexuals
+(Biografische Vragenlijst voor Transseksuelen or
+BVT)
+Sexual preference was obtained from a semistructured interview, the BVT (Doorn et al., 1994).
+Self-report of the subject on the item bWhat is your
+current sexual preference?Q was applied to classify the
+applicant into the homosexual or nonhomosexual
+group. Blanchard (1985, 1988) found support for his
+suggestion that there are only two fundamentally
+different types of transsexualism, homosexual and
+nonhomosexual, in which the bisexual and the asexual
+transsexual are classified with the heterosexual, i.e.,
+nonhomosexual, type because they are akin to one
+another and different from the homosexual type. We
+therefore also included subjects who exclusively
+reported a homosexual preference in the homosexual
+transsexual group, and subjects who reported an
+asexual, heterosexual, and/or bisexual preference in
+the nonhomosexual transsexual group.
+The item bHave you ever been sexually aroused
+while cross-dressing between 12 and 18 yearsQ was
+used to indicate sexual arousal while being crossdressed in adolescence. Response categories were as
+follows: 0, not applicable; 1, always; 2, often; 3,
+sometimes; and 4, never.
+2.3.2. Gender Identity Disorder in Childhood Scale
+(GIDICS)
+The GIDICS was constructed from the BVT to
+measure the self-reported presence of GID symptoms
+in childhood. The scale consisted of 11 items.
+Cronbach’s alpha coefficient was calculated based on
+the data of 312 participants: 0.81 (for details, see Smith
+
+154
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+et al., 2005). The items concerned strong wishes to be
+of the opposite sex in early childhood, cross-gender
+appearance in childhood, cross-dressing, play and peer
+preference, and cross-gender behavior in general, as a
+child. Because there were differences in the numbers
+of response categories and some response categories
+referred to quantitative aspects of certain behaviors
+(frequencies), whereas others referred to qualitative
+aspects (e.g., presence of certain cross-gendered
+behaviors), we dichotomized the answers to these
+questions. Thus, the total score could range from 0 to
+11, with higher scores indicating the presence of more
+GID symptoms in childhood. The BVT was further
+used to gather other background data at assessment,
+such as age at application and marital status.
+2.3.3. Height, weight, and body mass index
+Height, weight, and body mass index (BMI) at
+assessment were extracted from medical files. Height
+was measured in centimeters, and weight in kilograms. Standard BMI is calculated by dividing weight
+by height-squared.
+2.3.4. Gender dysphoria
+Gender dysphoria was measured with the Utrecht
+Gender Dysphoria Scale (UGS), consisting of 12
+items on which the subject rated his/her agreement on
+a 5-point scale. The higher the score, the more gender
+dysphoria was indicated (for psychometric data, see
+Cohen-Kettenis and van Goozen, 1997).
+2.3.5. Body dissatisfaction
+A Body Image Scale (BIS) (Lindgren and Pauly,
+1975), which had been adapted for a Dutch sample,
+was used (Kuiper, 1991). The scale consists of 30
+items divided into three subscales: sexual characteristics, secondary sexual characteristics, and neutral
+characteristics, with higher scores representing more
+dissatisfaction.
+2.3.6. Physical appearance
+On the 14-item Appraisal of Appearance Inventory
+(AAI), three independent observers (the diagnostician,
+a nurse on the gender team, and the researcher) rated
+their subjective appraisal of the appearance of the
+subject on a 5-point scale of gender (in)compatibility.
+The 14 physical characteristics that were appraised
+were: hair, facial hair, larynx, voice, figure, height,
+
+skin, hands/feet, muscularity, chin, nose, jaw, speech,
+and gestures/movement. Only the diagnostician might
+have been aware of the sexual orientation when rating
+the subject. Higher scores represent an appearance that
+is more incompatible with the new gender. Intraclass
+correlation coefficients between the three observers for
+each of the 14 items ranged from 0.68 to 0.79.
+2.3.7. Psychological functioning
+The Dutch Short Minnesota Multiphasic Personality Inventory (NVM) (Luteyn et al., 1980) is an 83item shortened Dutch version of the Minnesota
+Multiphasic Personality Inventory (MMPI), measuring the following five concepts: Negativism, Somatization, Shyness, Psychopathology, and Extroversion.
+Higher scores indicate more psychological dysfunction on the first four scales but less on Extroversion.
+The Dutch version of the Symptom Checklist
+(SCL-90) (Arrindell and Ettema, 1986) is a 90-item
+inventory inquiring about the presence of various
+complaints in the week prior to the interview.
+Subscales are Agoraphobia, Anxiety, Depression,
+Somatization, Obsession/Compulsion, Suspicion,
+Hostility, Sleeping problems, and Psychoneuroticism;
+a total score of the subscales is taken as an indicator of
+overall psychopathology. Both the NVM and the
+SCL-90 have good psychometric properties.
+2.3.8. Intelligence
+Because intelligence could be related to the level of
+psychological functioning of the participants, the
+Dutch versions of the Wechsler scales, which are the
+Wechsler Intelligence Scale for Children-Revised
+(WISC-R; Vandersteene et al., 1986) and the Wechsler
+Adult Intelligence Scale (WAIS; Stinissen et al.,
+1970), were administered to measure IQ.
+2.3.9. Psychological Problems in Parents
+We constructed a list of Psychological Problems in
+Parents (PPP) because the presence of psychopathology in parents could affect the level of psychological
+functioning of our subjects. All participants were
+asked to indicate if their parents had ever suffered
+from one or more of the following eight psychological
+symptoms or problems: depression, alcohol abuse,
+severe anxiety, obsessions, aggressive behavior, hallucinations, drugs abuse, and strong feelings of
+insecurity. The items contained the following four
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+155
+
+Because these data were collected in another study,
+with a partially overlapping sample of subjects, we
+only had data of 162 subjects: 96 homosexual (54 MF
+and 42 FM), and 66 nonhomosexual (45 MF and 21
+FM) transsexuals. Multivariate analyses of covariance
+(MANCOVAs) were used for the NVM scores, with
+IQ scores as covariates, because IQ and NVM scores
+were correlated. For practical reasons, we were not
+able to measure IQ in the very beginning of the study,
+so we only had 144 IQ scores, reducing the NVM
+pretest data to 141. Nominal or ordinal data were
+analyzed per item by means of chi-square test,
+reported in the text as v 2 scores, or Mann–Whitney
+U test, reported as standardized Z scores, respectively.
+To examine whether the presence of psychopathology in parents affected the level of psychological
+functioning of our subjects, we calculated Pearson’s
+correlations between each of the three sum scores of
+psychological problems in parents and each of the 14
+
+response categories: (1) no, neither parent; (2) yes,
+father; (3) yes, mother; (4) yes, both. Three separate
+sum scores were calculated: for presence of psychological problems in father, in mother, and in both.
+Total scores ranged from 0 to 8 for each of these three
+answering categories, with higher scores indicating
+more problems.
+2.4. Statistical analysis
+To determine differences between the homosexual
+and nonhomosexual transsexuals, the pretest data of
+the two groups were compared with univariate or
+multivariate analysis of variance (ANOVA) for ratio
+or interval data. To replicate the findings concerning
+height, weight, and BMI, we used analysis of covariance (ANCOVA), with age and age-squared as
+covariates for weight and BMI, and Independent
+Samples t-test for height (Blanchard et al., 1995).
+
+Table 1
+Scores of homosexual and nonhomosexual MFs and FMs on: gender identity disorder (GID) in childhood, age, gender dysphoria (UGS), body
+dissatisfaction (BIS), physical appraisal (AAI), psychological functioning (NMV and SCL-90)
+Test
+
+GID in childhood
+Age at application
+Gender dysphoria
+Body dissatisfaction
+Primary
+Secondary
+Neutral
+Physical appearance
+Negativism
+Somatization
+Shyness
+Psychopathology
+Extroversion
+Psychoneuroticism
+Anxiety
+Agoraphobia
+Depression
+Somatization
+Obsession/compulsion
+Sensitivity
+Hostility
+Sleeping problems
+
+H/MFa
+
+H/MF
+
+NH/MF
+
+NH/MF
+
+H/FM
+
+H/FM
+
+NH/FM
+
+NH/FM
+
+F Group
+
+F Sex
+
+F G  Sb
+
+Mean
+
+S.D.
+
+Mean
+
+S.D.
+
+Mean
+
+S.D.
+
+Mean
+
+S.D.
+
+5.6
+28.3
+53.8
+
+2.4
+10.8
+5.8
+
+3.1
+36.8
+51.6
+
+2.3
+11.5
+9.1
+
+7.2
+24.4
+56.8
+
+2.5
+8.4
+4.0
+
+5.4
+23.8
+57.8
+
+2.4
+6.2
+2.9
+
+31.3****
+6.3**
+0.4
+
+26.8****
+28.5****
+21.0****
+
+1.0
+8.2***
+2.3
+
+17.7
+31.7
+43.8
+42.1
+21.1
+8.2
+15.9
+3.3
+15.1
+145.5
+15.7
+9.7
+29.7
+16.8
+15.7
+30.0
+8.2
+5.2
+
+3.6
+7.9
+10.2
+10.2
+7.5
+6.7
+8.7
+3.1
+6.2
+47.6
+6.5
+3.9
+11.9
+6.2
+6.2
+9.9
+3.0
+2.7
+
+18.3
+35.7
+49.1
+50.2
+21.5
+9.0
+15.7
+3.0
+12.0
+142.1
+15.2
+9.4
+28.8
+17.6
+15.6
+28.9
+7.4
+5.6
+
+2.1
+6.7
+9.9
+7.1
+8.6
+6.4
+8.6
+3.1
+5.9
+39.6
+5.5
+4.2
+10.7
+6.4
+5.8
+9.6
+2.2
+3.2
+
+18.4
+33.5
+43.6
+39.5
+23.0
+6.9
+9.7
+3.0
+17.0
+133.9
+14.1
+8.6
+27.0
+16.8
+15.0
+25.9
+8.1
+4.8
+
+2.3
+6.6
+8.3
+6.1
+7.1
+7.5
+7.7
+2.6
+6.0
+36.5
+5.3
+3.4
+10.6
+6.1
+5.3
+7.3
+2.8
+2.4
+
+17.3
+34.7
+44.9
+41.9
+26.5
+12.1
+16.7
+3.4
+14.4
+166.2
+17.7
+10.5
+35.4
+21.3
+17.9
+31.8
+10.2
+6.6
+
+2.7
+6.1
+6.5
+5.0
+7.3
+9.6
+9.1
+3.3
+7.3
+48.7
+5.4
+3.0
+14.4
+8.3
+6.9
+10.9
+4.5
+3.7
+
+0.3
+5.0
+4.6
+17.9****
+0.4
+9.8**
+3.8*
+1.0
+3.6*
+4.5**
+2.9
+1.5
+4.1
+6.4
+2.0
+2.5
+2.1
+5.4
+
+0.2
+0.1
+2.1
+19.2****
+4.9**
+1.0
+3.1*
+0.3
+5.0**
+0.9
+0.3
+0.1
+1.1
+3.2*
+0.7
+0.2
+8.4***
+0.4
+
+3.8
+1.6
+1.7
+5.3**
+1.8
+2.3
+5.9**
+0.2
+0.1
+6.9***
+5.1
+3.4
+6.4
+3.2
+2.4
+5.6
+9.3
+2.2
+
+Number of subjects: Age: 187, GID in childhood: 180, UGS: 184, AAI: 185, BIS: 178, NVM: 140, SCL-90: 183.
+*P b 0.10, **P b 0.05, ***P b 0.01, ****P b 0.001.
+a
+H=homosexual, NH=nonhomosexual, MF=male-to-females, FM=female-to-males.
+b
+G  S=Group by Sex.
+
+156
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+scales measuring psychological functioning with the
+NVM and SCL-90.
+To investigate whether the results were similar or
+different for MFs and FMs, univariate and multivariate AN(C)OVAs were executed with bGroupQ (homosexuals vs. nonhomosexuals) and bSexQ (MF vs. FM)
+as independent between-subjects factors. Results and
+P values of MANOVAs are only reported in the text,
+whereas results and P values of ANOVAs are also
+presented in Table 1.
+
+3. Results
+3.1. GID symptoms in childhood
+The homosexual group reported more ( P b 0.001)
+GID symptoms in childhood than the nonhomosexual
+group. As a group, the FMs also reported more GID
+symptoms in childhood than the MFs ( P b 0.001)
+(Table 1).
+3.2. Sexual arousal, age at application, and marital
+status
+
+significantly less often sexually aroused while crossdressing than the MFs (Z = 5.0, P b 0.0001).
+The homosexual group applied for SR at a younger
+age than the nonhomosexual group ( P = 0.013). A
+main sex effect was found, with FMs applying for SR
+earlier than MFs ( P b 0.001). This difference can be
+primarily attributed to the nonhomosexual MFs, who
+were much older than the other subgroups, contributing to an interaction effect ( P = 0.005).
+A significantly lower percentage of the homosexual group (20.4%, n = 23) than the nonhomosexual
+group (34.2%, n = 25) was or had been married
+(v 2 = 4.5, P = 0.034). Fewer FMs (14.9%, n = 11) than
+MFs (33.0%, n = 37) were or had been married
+(v 2 = 7.7, P = 0.006). When comparisons were made
+within each sex, a significant difference was found in
+the MF group (n = 112), with fewer homosexual
+(21.3%, n = 13) than nonhomosexual (47.1%, n = 24)
+MFs being (or having been) married (v 2 = 8.3,
+P = 0.004), but no differences were found between
+the homosexual (19.2%, n = 10) and nonhomosexual
+(4.5%, n = 1) FMs (n = 74) with a history of marriage
+(v 2 = 2.6, P = 0.10).
+3.3. Height, weight, and BMI
+
+Between 12 and 18 years, the homosexual transsexuals had experienced sexual arousal while crossdressing significantly less often (Z = 3.4, P = 0.0007)
+than the nonhomosexual transsexuals (Table 2). When
+comparisons were made within the sexes, the homosexual MFs were significantly less often sexually
+aroused while cross-dressing between 12 and 18 years
+than the nonhomosexual MFs (Z = 3.0, P = 0.0026),
+whereas no such differences were found between
+homosexual and nonhomosexual FMs (Z = 0.04,
+P = 0.69). As expected, as a group, the FMs were
+
+No differences were found between homosexual
+and nonhomosexual transsexuals in height (homosexual mean = 173, S.D. = 8.4; nonhomosexual mean =
+175, S.D. = 7.7), weight (homosexual mean = 68.8,
+S.D. = 12.8; nonhomosexual mean = 69.7, S.D. = 10.5),
+or BMI (homosexual mean = 23.0, S.D. = 4.5; nonhomosexual mean = 22.9, S.D. = 3.3), or between these
+two subtypes within MFs or FMs. As expected,
+differences between the sexes were significant, with
+the FMs being shorter (mean = 167, S.D. = 6.8) than the
+
+Table 2
+Sexual arousal while cross-dressing
+NAb
+Always
+Often
+Sometimes
+Never
+Missing
+Total
+a
+b
+
+H MFsa (%)
+
+n
+
+NH MFs (%)
+
+n
+
+3.3
+3.3
+8.2
+18.0
+65.6
+1.6
+100
+
+2
+2
+5
+11
+40
+1
+61
+
+3.8
+5.8
+11.5
+36.5
+30.8
+11.5
+100
+
+2
+3
+6
+19
+16
+6
+52
+
+H FMs (%)
+
+n
+
+NH FMs (%)
+
+n
+
+7.7
+
+4
+
+9.1
+
+2
+
+1.9
+5.8
+78.8
+5.8
+100
+
+1
+3
+41
+3
+52
+
+4.5
+72.7
+13.6
+100
+
+1
+16
+3
+22
+
+H=homosexual, NH=nonhomosexual, MFs=male-to-females, FMs=female-to-males.
+NA=not applicable.
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+MFs (mean = 178, S.D. = 6.0) ( P b 0.001), and with a
+higher BMI (mean = 23.9, S.D. = 4.8) than the MFs
+(mean = 22.4, S.D. = 3.4) ( P = 0.002).
+3.4. Gender dysphoria
+No difference was found between the homosexual
+and the nonhomosexual group in the intensity of
+gender dysphoria. The FMs, however, reported a
+stronger sense of gender dysphoria than the MFs
+( P b 0.001).
+
+157
+
+and Extroversion ( P = 0.059) scales, again, indicating
+more favorable scores in the homosexual group.
+Differences between the sexes were also found.
+The FMs scored higher on the MANOVA for the
+NVM (79 MFs, 61 FMs) [ F (5, 131) = 2.63, P = 0.027]
+as well as on the MANOVA SCL-90 (110 MFs, 73
+FMs) [ F (8, 172) = 2.18, P = 0.032]. Finally, an
+interaction effect ( P b 0.009) was found on the
+ANOVA for the SCL-90 Psychoneuroticism scale,
+due to a lower score of the homosexual FMs and a
+higher score of the nonhomosexual FMs compared
+with their MF counterparts.
+
+3.5. Body dissatisfaction
+3.8. Intelligence
+Multivariate analyses showed no difference between the homosexual (n = 107) and the nonhomosexual (n = 71) group on the BIS [ F (3, 172) = 2.08,
+P = 0.10], signifying an equal sense of body dissatisfaction within the groups. No differences were found
+between the sexes (108 MFs, 70 FMs) either [ F
+(3,172) = 2.34, P = 0.08].
+3.6. Physical appearance
+The homosexuals scored lower on the AAI than the
+nonhomosexuals ( P b 0.001), indicating that according to observers, before treatment their appearance
+was more compatible with the new, desired gender. As
+a group, the FMs’ appearance was considered to
+match the new gender better than that of the MFs as
+well ( P b 0.001). Similar to the results of age at
+pretest, the high (unfavorable) scores of the nonhomosexual MFs contributed to an interaction effect
+( P b 0.022).
+3.7. Psychological functioning
+The homosexual group scored lower than the
+nonhomosexual group on the MANOVA NVM (79
+homosexuals, 61 nonhomosexuals) [ F (5, 131) = 2.72,
+P = 0.022] and on the ANOVA SCL-90 scale Psychoneuroticism (109 homosexuals, 74 nonhomosexuals),
+which is the total score of all SCL-90 subscales
+( P = 0.035). Both results reflect fewer psychological
+problems in the homosexual group. Univariate analyses of the NVM revealed a more favorable score of
+the homosexual group on the Somatization scale. P
+values b 0.10 were found on the Shyness ( P = 0.052)
+
+The homosexual group’s mean IQ score (111.2;
+SD = 16.9; n = 82) was lower ( P b 0.001) than that of
+the nonhomosexual group (mean = 122.3, S.D. = 17.3,
+n = 61). There were no differences in IQ scores
+between the sexes (81 MFs, 62 FMs). Mean scores
+for the different transsexual subgroups were 107.3
+(S.D. = 14.3) for the MF homosexuals (n = 39), 121.7
+(S.D. = 17.2) for the MF nonhomosexuals (n = 42),
+114.8 (S.D. = 18.4) for the FM homosexuals (n = 43),
+and 123.7 (S.D. = 17.8) for the FM nonhomosexuals
+(n = 19).
+3.9. Psychological problems in parents
+The percentage (7.1%, n = 8) of the homosexual
+group (n = 113) who reported that both parents had
+suffered from one or two symptoms was lower
+(v 2 = 3.9, P = 0.048) than that (16.2%, n = 12) of the
+nonhomosexual group (n = 74) who reported that both
+parents had suffered from one to three symptoms of the
+PPP list. It is not likely that the difference is related to
+differences in growing up with one or two parents, as
+the groups were similar in this respect. The highest
+significant correlation found was between psychological problems in both parents and the Negativism scale
+of the NVM: 0.20 ( P = 0.006, n = 182).
+No differences were found between the homosexual group and the nonhomosexual group in the degree
+to which they reported only their father or only their
+mother had suffered from psychological symptoms.
+Finally, no differences were found between the sexes
+(113 MFs, 74 FMs) on any of the three measured
+variables.
+
+158
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+4. Discussion
+One of the two purposes of the present study was to
+replicate and extend the evidence of the existence of
+different developmental routes in homosexual and
+nonhomosexual transsexuals. In this study the two
+subtypes were indeed found to differ on many
+characteristics. Replicating some of the previously
+observed differences, we found that compared with
+nonhomosexual transsexuals, homosexual transsexuals reported more cross-gendered behavior, appearance and preference in childhood, and they reported
+less sexual arousal while cross-dressing in adolescence, applied for SR at a younger age, and fewer were
+(or had been) married. Unlike Blanchard et al. (1995),
+we found no differences in height, weight or BMI.
+Contrary to our expectations, we found the
+homosexual group not to be different from the
+nonhomosexual group in the extent of gender
+dysphoria and body dissatisfaction at application.
+Despite a less extreme cross-gendered childhood, the
+nonhomosexuals seemed to suffer no less from their
+situation than the homosexuals, while having an
+equally strong aversion to their sex characteristics
+when they applied for SR. As expected, the homosexual transsexuals’ appearance already better
+matched the new, desired gender, and they functioned
+better psychologically than the nonhomosexual group.
+Thus, our data largely support the idea that
+homosexual and nonhomosexual transsexuals are
+different subtypes with distinct characteristics. These
+characteristics suggest that routes leading to a
+request for SR are not identical because they reflect
+different etiologies.
+The second purpose of the study was to examine
+whether a pattern of differences between homosexual
+and nonhomosexual transsexuals would be comparable for MFs and FMs. Our findings indicate that this
+was only partly the case, suggesting that nonhomosexual transsexualism develops differently for men
+and women.
+A notable difference between the MFs and FMs was
+the finding that the homosexual MFs applied for SR
+earlier than the nonhomosexual MFs, whereas no
+difference was found in age at application between
+the two FM groups. The considerable age difference
+between the MF groups may indicate that the decision
+to apply for SR is influenced by different factors.
+
+Although the gender dysphoria of the nonhomosexual
+MFs may already have been present in childhood, it is
+possible that their dysphoria increases over time and
+does not reach a critical level until later in life. From our
+data it is not clear when this critical gender-dysphoric
+level is reached, as external factors may also influence
+the decision to start or delay treatment (see below). Of
+course, other factors may explain the nonhomosexuals’
+later application age. First, Blanchard (1994) found that
+the more times a nonhomosexual MF has been married
+and has fathered children, the older he is likely to be
+when attending a gender clinic. Our data confirm that
+more nonhomosexual male transsexuals reported a
+history of marriage. Second, it is possible that at least in
+adolescence, the nonhomosexuals have some ambivalence about their genitalia. The pleasurable sensations
+they experience when sexually aroused while crossdressing (perhaps in response to dautogynephilicT
+fantasies) could be so rewarding that, for some time,
+these override the dissatisfaction about their genitals.
+For them, the loss of this source of pleasure may
+complicate and delay their request for SR compared
+with the homosexual MFs, who rarely experience any
+pleasure from their male bodies. Third, the more
+masculine appearance (according to observers) of the
+nonhomosexual MFs may increase their hesitance to
+start living permanently as a woman. Naturally,
+combinations of the above factors may also explain
+the later application for SR. The various reasons for the
+late application of nonhomosexual MFs may reflect an
+underlying etiological factor that influences their
+appearance, their more gender-typical childhood, and
+their sexual arousal patterns.
+Unlike their male counterparts, nonhomosexual
+FMs appear to suffer so strongly from their gender
+dysphoria that they apply for SR in young adulthood,
+despite their less extreme childhood cross-genderedness compared with homosexual FMs. As sexual
+arousal while wearing men’s clothes is almost absent
+in adolescence, other factors must contribute to the
+development of their SR wish. Our data show higher
+levels of gender dysphoria in both FM groups than in
+the two MF groups, but they do not provide indications
+of what those other factors might be. It is of interest,
+though, that a few FMs reported to have been sexually
+aroused in adolescence when dressing in male cloths,
+as this has never been reported before. Furthermore, the
+more favorably appraised appearance in both FM
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+groups probably facilitates living in the opposite sex
+role, increasing the chances of and possibly explaining
+a similar age at application for SR.
+A clear difference between the FM groups was
+found with respect to their psychological functioning.
+Nonhomosexual FMs appeared to have significantly
+more psychological problems than homosexual FMs,
+whereas in this respect the MF groups were alike. Our
+data therefore suggest that the route to SR is likely to
+be more troublesome for nonhomosexual than for
+homosexual FMs.
+Parental psychopathology may be one complicating environmental factor, as we found some differences between homosexual and nonhomosexual
+groups in numbers of both parents having psychological problems. However, the percentages that were
+reported do not explain the high level of psychological distress in the nonhomosexual FM group nor were
+parental and transsexual psychopathology correlated.
+It should, however, be mentioned that the data on
+parental psychopathology may not be very reliable, as
+they were based on retrospective reports of the
+transsexuals. An alternative explanation is that nonhomosexual FMs are psychologically more vulnerable
+than homosexual FMs. Evidently, this possibility
+needs to be further investigated.
+Although observers judged the ability to pass in the
+new role to be different for the homosexual and
+nonhomosexual group, we did not find differences
+between the groups in objective physical characteristics, such as height, weight and BMI. It is quite
+possible that femininity and masculinity in appearance
+are independent of these characteristics. However, we
+expected that at least (extreme) tallness or shortness
+would contribute to a masculine or feminine impression, and we found clear sex differences in height and
+BMI. It is also possible that our homosexual and
+nonhomosexual samples were too small to detect such
+differences.
+From our findings a picture appears of homosexual
+transsexuals exhibiting a considerable cross-genderedness from early childhood onwards. Their crossgendered behavior, appearance and preference persist
+into adolescence, without much sexual arousal associated with cross-dressing. They are very genderdysphoric adolescents and adults with a strong
+aversion of their sex organs, seeking SR in young
+adulthood or even earlier to fulfill their feelings of
+
+159
+
+belonging to the opposite sex. Marriage is relatively
+rare. Characteristics of this group are very similar to
+the so-called dcore transsexualsT (Burns et al., 1990),
+who also have fewer post-SR regrets than non-core
+transsexuals (Landén et al., 1998).
+The picture of nonhomosexual MFs is a different
+one. They have been relatively masculine boys, and
+may not have been very gender dysphoric in
+childhood. In adolescence, sexual arousal during
+cross-dressing, perhaps related to the image of
+themselves as women (Blanchard, 1989b), is relatively common. They often become confused youngsters
+because their sexual attraction to (images of) women
+and their pleasurable genital sensations as a consequence of their arousal seem to contradict their wish
+to be a woman. In the hope that their internal conflicts
+will resolve when living a traditional man’s life, some
+marry. However, when the gender dysphoria does not
+disappear or even increases and when their attempts to
+live in the male role remain unsuccessful, they
+ultimately decide to apply for SR.
+Nonhomosexual FMs may have been girls with
+neutral interests or with some tomboy characteristics.
+For unknown reasons they may have developed
+serious psychological problems despite their higher
+than average intellectual abilities. They experience
+strong gender dysphoria in adolescence leading them
+to seek SR in young adulthood. Following the
+findings of Chivers and Bailey (2000), one would
+expect them to be less stereotypically masculine in
+their sexuality. Perhaps in nonhomosexual FMs
+rejection of the female role is stronger than attraction
+to the male role. As we have only examined some
+factors that could differentiate between the FM
+groups, other still unknown factors may play a more
+important role in the diversity of FM transsexuals.
+An important limitation of our study involves the
+measurement of sexual orientation by self-identification only, casting doubt on the nature and stability of
+the concept we aimed to measure. Assuming that most
+of the subjects, who were adults, arrived at a truthful
+report of their sexual orientation while being interviewed, we come to the following conclusions:
+Homosexual and nonhomosexual transsexuals appear
+to differ from each other in many ways, and the
+pattern of differences is not comparable in the MF and
+FM groups. The different manifestations of homosexual and nonhomosexual subtypes of transsexualism
+
+160
+
+Y.L.S. Smith et al. / Psychiatry Research 137 (2005) 151–160
+
+could reflect different etiologies. The results of this
+study clearly call for further studies, which should
+also address the possible neurodevelopmental basis
+for the diagnostic subcategories of transsexualism.
+The nonhomosexual FMs, who appear to be
+psychologically more vulnerable than the homosexual
+FMs, as well as the nonhomosexual MFs, who
+generally have a less favorable appearance, have lived
+in the male role for a longer time and could therefore
+have encountered more social problems, need special
+attention during treatment. Whether the differences in
+psychological vulnerability between the FM subtypes
+will remain, intensify, or diminish after SR needs to be
+investigated in prospective follow-up studies. We are
+currently analyzing the results of such a study. The
+outcomes of this investigation will be vital in
+specifying the potential clinical implications for
+homosexual and nonhomosexual transsexuals during
+and after SR.
+Acknowledgments
+The authors thank Mrs. W. Harmsen and Mr. Jos
+Megens for their invaluable help in the data-collection
+process and appreciate the contribution of Anton
+M.Verschoor, Ph.D., to the set-up of this researchproject. This work was financially supported by the
+Stichting Fondsenwervingsacties, the Ziekenfondsraad, and the Stichting Nederlands Gender Centrum.
+References
+Arrindell, W.A., Ettema, J.H.M., 1986. SCL-90: Handleiding bij
+een Multidimensionele Psychopathologie-Indicator (SCL-90,
+Manual of a Multidimensional Psychopathology-Indicator).
+Swets en Zeitlinger, Lisse, The Netherlands.
+Blanchard, R., 1985. Typology of male-to-female transsexualism.
+Archives of Sexual Behavior 14, 247 – 261.
+Blanchard, R., 1988. Nonhomosexual gender dysphoria. Journal of
+Sex Research 24, 188 – 193.
+Blanchard, R., 1989a. The classification and labeling of nonhomosexual gender dysphorics. Archives of Sexual Behavior 18,
+315 – 334.
+Blanchard, R., 1989b. The concept of autogynephilia and the
+typology of male gender dysphoria. Journal of Nervous and
+Mental Disease 177, 616 – 623.
+Blanchard, R., 1994. A structural equation model for age at clinical
+presentation in nonhomosexual male gender dysphorics.
+Archives of Sexual Behavior 23, 311 – 320.
+
+View publication stats
+
+Blanchard, R., 1997. Birth order and sibling sex ratio in homosexual
+versus heterosexual males and females. Annual Review of Sex
+Research 8, 27 – 67.
+Blanchard, R., 2001. Fraternal birth order and the maternal immune
+hypothesis of male homosexuality. Hormones and Behavior 40,
+105 – 114.
+Blanchard, R., Steiner, B.W., Clemmensen, L.H., Dickey, R., 1989.
+Prediction of regrets in postoperative transsexuals. Canadian
+Journal of Psychiatry 34, 43 – 45.
+Blanchard, R., Dickey, R., Jones, C.L., 1995. Comparison of height
+and weight in homosexual versus nonhomosexual male gender
+dysphorics. Archives of Sexual Behavior 24, 543 – 554.
+Burns, A., Farell, M., Brown, J.C., 1990. Clinical features of
+patients attending a gender-identity clinic. British Journal of
+Psychiatry 157, 265 – 268.
+Chivers, M.L., Bailey, J.M., 2000. Sexual orientation of femaleto-male transsexuals: a comparison of homosexual and nonhomosexual types. Archives of Sexual Behavior 29, 259 – 278.
+Cohen-Kettenis, P.T., van Goozen, S.H.M., 1997. Sex reassignment
+of adolescent transsexuals: a follow-up study. Journal of the
+American Academy of Child and Adolescent Psychiatry 36,
+263 – 271.
+Doorn, C.D., Poortinga, J., Verschoor, A.M., 1994. Cross-gender
+identity in transvestites and male transsexuals. Archives of
+Sexual Behavior 23, 185 – 201.
+Hirschfeld, M., 1918. Sexualpathologie vol. 2. Marcus and Weber,
+Bonn, Germany.
+Kuiper, A.J., 1991. Transseksualiteit: Evaluatie van de Geslachtsaanpassende Behandeling [Transsexualism: An Evaluation of
+Sex Reassignment]. Elinkwijk, Utrecht, The Netherlands.
+Johnson, S.L., Hunt, D.D., 1990. The relationship of male
+transsexual typology to psychosocial adjustment. Archives of
+Sexual Behavior 19, 349 – 360.
+Landén, M., Wålinder, J., Hambert, G., Lundström, B., 1998.
+Factors predictive of regret in sex reassignment. Acta Psychiatrica Scandinavica 97, 284 – 289.
+Lawrence, A.A., 2003. Factors associated with satisfaction or regret
+following male-to-female sex reassignment surgery. Archives of
+Sexual Behavior 32, 299 – 315.
+Lindgren, T., Pauly, I., 1975. A body image scale for evaluating
+transsexuals. Archives of Sexual Behavior 4, 639 – 656.
+Luteyn, F., Kok, A.R., van der Ploeg, F.A.E., 1980. NVM,
+Nederlandse Verkorte MMPI, Handleiding [Dutch Short Version
+of the Minnesota Multiphasic Personality Inventory Manual].
+Swets en Zeitlinger, Lisse, The Netherlands.
+Smith, Y.L.S., van Goozen, S.H.M., Kuiper, A.J., Cohen-Kettenis, P.T.,
+2005. Sex reassignment: outcomes and predictors of treatment for
+adolescent and adult transsexuals. Psychological Medicine 35,
+89 – 99.
+Stinissen, J., Willems, P.J., Coetsier, P., Hulsman, W.L.L., 1970. Handleiding WAIS, Nederlandstalige Bewerking [Dutch Manual of the
+Wechsler Adult Intelligence Scale]. Swets en Zeitlinger, Amsterdam.
+Vandersteene, G., van Haassen, P.P., de Bruyn, E.E.J., Coetsier, P.,
+Pijl, Y.L., Poortinga, Y.H., Lutje Spelberg, H.C., SpoeldersClaes, R., Stinissen, J., 1986. WISC-R, Wechsler Intelligence
+Scale for Children-Revised, Nederlandstalige Uitgave. Swets en
+Zeitlinger, Lisse, The Netherlands.
+
+

@@ -1,0 +1,129 @@
+{
+ "post": {
+  "_id": "hHEvfp7kwvaHwgcdH",
+  "title": "College Was Not That Terrible Now That I'm Not That Crazy",
+  "postedAt": "2026-01-01T23:14:58.931Z",
+  "pageUrl": "https://www.lesswrong.com/posts/hHEvfp7kwvaHwgcdH/college-was-not-that-terrible-now-that-i-m-not-that-crazy",
+  "commentCount": 9
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "dokbDxeC3Lt8E9ngN",
+   "parentCommentId": null,
+   "postedAt": "2026-01-02T02:16:22.213Z",
+   "baseScore": 14,
+   "user": {
+    "username": "GAA",
+    "displayName": "Guive"
+   },
+   "contents": {
+    "markdown": "This was a fun read."
+   }
+  },
+  {
+   "_id": "w9og6KbdkkCKgAy5h",
+   "parentCommentId": null,
+   "postedAt": "2026-01-02T07:59:56.806Z",
+   "baseScore": 13,
+   "user": {
+    "username": "cata",
+    "displayName": "cata"
+   },
+   "contents": {
+    "markdown": "Great writeup. Makes me wonder if I should do similar."
+   }
+  },
+  {
+   "_id": "MknGqjDL9dPoQQxZR",
+   "parentCommentId": null,
+   "postedAt": "2026-01-02T20:08:35.158Z",
+   "baseScore": 5,
+   "user": {
+    "username": "dylan-mahoney",
+    "displayName": "Pretentious Penguin"
+   },
+   "contents": {
+    "markdown": "> the minimum distance between a compact and a connected set is achieved by some pair of points in the sets\n\nI don't think this is true. For a counterexample in the plane, let A be the set consisting of the point (2,0) and let B be the open unit disk centered at the origin. A is compact, B is connected, and the infimum of {distance from x to y where x is in A and y is in B} is 1. But the distance from A to any point in B is strictly greater than 1."
+   }
+  },
+  {
+   "_id": "F4KksDdcniQ7qZn2m",
+   "parentCommentId": null,
+   "postedAt": "2026-01-02T21:19:20.175Z",
+   "baseScore": 4,
+   "user": {
+    "username": "brycestansfield",
+    "displayName": "BryceStansfield"
+   },
+   "contents": {
+    "markdown": "Is this type of course structure typical in US universities? It seems very strange to me that real analysis wouldn't be a first semester class, or that such a large proportion of classes in a maths degree would be on anything but maths."
+   }
+  },
+  {
+   "_id": "eyL6XfiGMtMSSC3Zo",
+   "parentCommentId": "MknGqjDL9dPoQQxZR",
+   "postedAt": "2026-01-02T22:41:54.001Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks, it looks like I accidentally typed \"connected\" instead of \"closed\"; fixed."
+   }
+  },
+  {
+   "_id": "qdNCAkPpmJC6N3ngo",
+   "parentCommentId": "F4KksDdcniQ7qZn2m",
+   "postedAt": "2026-01-03T00:49:21.514Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Douglas_Knight",
+    "displayName": "Douglas_Knight"
+   },
+   "contents": {
+    "markdown": "> \u201cI wish we had the education system they have in Doorways in the Sand,\u201d I said... \u201cDid you know, there\u2019s a new Heinlein? The Number of the Beast. And he\u2019s borrowed the idea of that education system, where you study all those different things and sign up and graduate when you have enough credits in everything, and you can keep taking courses forever if you want, but he doesn\u2019t acknowledge Zelazny anywhere.\u201d\n\n> Wim laughed. \u201cThat\u2019s what they really do in America,\u201d he said.\n\n\u2014 Jo Walton, [Among Others](https://www.google.com/books/edition/Among_Others/wz69HqibYJEC?hl=en&gbpv=1&bsq=really%20america)"
+   }
+  },
+  {
+   "_id": "swHDhwEPpQua9QGid",
+   "parentCommentId": "F4KksDdcniQ7qZn2m",
+   "postedAt": "2026-01-05T06:19:39.870Z",
+   "baseScore": 2,
+   "user": {
+    "username": "lalaithion",
+    "displayName": "lalaithion"
+   },
+   "contents": {
+    "markdown": "Universities and colleges in the United States have a philosophy of education different from what I gather is common in Europe. Almost all schools require not just mastery in a chosen subject, but also breadth requirements; some number of credits in each of math, science, writing, and the humanities, or some other distributional system."
+   }
+  },
+  {
+   "_id": "eYS2YBDyfri8ydXtM",
+   "parentCommentId": null,
+   "postedAt": "2026-01-09T21:17:38.439Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Douglas_Knight",
+    "displayName": "Douglas_Knight"
+   },
+   "contents": {
+    "markdown": "Could you say more about taste? How fast can you evaluate the taste of a book? If it's fast, could you check whether there was a trajectory over the 12 editions?\n\n> showcasing the fearsome technicality of the topic in excruciatingly detailed estimates (proofs involving chains of inequalities, typically ending on \"< \u03b5\").\n\nThat sounds bad. The ultimate proof is a chain of inequalities, but just presenting it is bad compared to deriving it. "
+   }
+  },
+  {
+   "_id": "4sm6LqGjf6brDk4uB",
+   "parentCommentId": null,
+   "postedAt": "2026-01-14T03:51:35.165Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Douglas_Knight",
+    "displayName": "Douglas_Knight"
+   },
+   "contents": {
+    "markdown": "I wanted to take measure theory in college, but my advisor talked me out of it, saying that it is an old, ossified field where writers play games of streamlining their proofs. They seek too much generality and defer applications to later courses. That complaint could apply more generally, that introductory graduate classes are bad because they have captive audiences, but it seems to me much worse in analysis than other fields of mathematics. What is the point of measure theory? Archimedes gave a rigorous delta-epsilon proof that if there is a coherent notion of measure, then the area of a circle is \u03c0r\u00b2. But how do you know that you don't encounter inconsistencies?\n\nApplications are related to constructibility. If you know what your goal is, you can see if you can skip the axiom of choice. Indeed, as I phrased it above, the goal is to show that measure is defined on some sigma algebra, not just the maximal one. And it is also related to constructibility. Why do we want measureable functions? What is a function? If a function is something you can apply at a point, then from a constructive viewpoint it must be continuous. But you can constructively describe things like infinite Fourier series. You can't evaluate them at points, but only do other things, like compute an average over a small interval. You want a theorem that the Hilbert space of square integrable functions on the circle is isometric to the Hilbert space of square summable sequences L\u00b2(S\u00b9)=&ell;\u00b2. Usually you define L\u00b2 as measurable functions up to the equivalence relation of equality away from a measure zero set. But you could instead define it as the metric completion of infinitely differentiable functions under the appropriate norm. This is a much better definition for many reasons, including constructibility, but it requires you to open up your definition of function.\n\nHere are two alternate books. Measure and Probability by Adams and Guillemin is a book about measure theory that tries to justify it by the context of things like 0-1 laws of probability. I'm not sure it succeeds in the justification, but it gives something more serious to think about if you want to drop the axiom of choice or the law of the excluded middle. Also, see [this MO question](https://mathoverflow.net/questions/462986/is-defining-measures-as-functionals-ever-insufficiently-general-in-practice).\n\nThe second book is more advanced, outside of the scope of this post. After measure theory, one has functional analysis, the study of infinite dimensional topological vector spaces of functions. I once heard it described as \"degenerate topology.\" For this, I recommend Essential Results of Functional Analysis by [Robert Zimmer](https://en.wikipedia.org/wiki/Robert_Zimmer). It gives a bunch of applications to differential equations with a geometric flavor. It minimizes the amount of theory to get to the applications, in particular, by only using Hilbert spaces, not general Banach spaces."
+   }
+  }
+ ]
+}

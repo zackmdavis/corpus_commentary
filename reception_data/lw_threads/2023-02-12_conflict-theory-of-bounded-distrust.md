@@ -1,0 +1,254 @@
+Title: Conflict Theory of Bounded Distrust
+LessWrong-URL: https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust
+Posted: 2023-02-12
+Fetched: 2026-10-13 (LessWrong GraphQL API; rendered by tools/render_lw_threads.py)
+Comments: 33 (commentCount field: 33)
+
+#### [-] Shmi · 3 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=knRhETAte68sNQnWc
+The police officer example is about safe escalation of shared knowledge, not mistake theory or conflict theory: [https://scottaaronson.blog/?p=2410](https://scottaaronson.blog/?p=2410)
+
+#### [>] tailcalled · 3 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=2mfWJRW5BZvaaKMoD
+Safe from what?
+
+#### [>>] Shmi · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=aaqCmsvs7dBgGCxzB
+Safe from negative consequences of revealing your intentions unilaterally.
+
+#### [>>>] tailcalled · 4 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=tR5imokPXdfmBuGux
+Where do those negative consequences come from?
+
+#### [>>>>] Shmi · 3 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=33wQ2qLE4JeCkBGLM
+In the example provided, you get arrested by a non-corrupt cop for attempted bribery. In a dating scenario, you get rejected. This seems obvious, maybe you mean something else?
+
+#### [>>>>>] tailcalled · 0 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=AKj4Rp8qdnE9xLxAj
+How is getting arrested by a non-corrupt cop for attempted bribery not about conflict?
+
+#### [>>>>>>] Shmi · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=CWSt4qKnp4hoZyebi
+Hmm, my understanding of conflict theory is that the proponents consider life a zero-sum game where you divide a fixed-size utility pie, in the first approximation. An alternative (whether to call it mistake theory or not, I am not sure), is that cooperation increases the size of the pie. Assuming this understanding is correct, do you think the non-corrupt cop's logic is accurately modeled as "it's either me or them?"
+
+#### [>>>>>>>] tailcalled · 3 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=WJYFGCqFctCgTMshJ
+My understand of conflict theory is that proponents consider the situation in question to be a conflict where there are different people who have opposing interests, whereas for mistake theory, proponents consider the situation in question to be a cooperation where everyone agrees that there is a problem in a shared goal and there's just uncertainty about the appropriate solution.
+
+In the usual case, "the situation in question" would be political debate, but in the corrupt-cop case would be an interaction where society has tried to ensure that there are non-corrupt cops who arrest people who do bad stuff and people who try to offer bribes to corrupt cops after having done bad stuff.
+
+To be clear, the following would be my understanding of a mistake theoretic analysis of the cop issue:
+
+> It is unclear how quickly people should drive cars on the road. There are guidelines called "speed limits" which put an upper bound on it, but there are of course two sides to any issue. For instance, there are honest people who feel like since they kind of gotta pee, it's worth driving extra fast so they don't pee their pants. There are also other honest people who drive fast so that they can feel the excitement of the speed.
+> 
+> These people disagree with the speed limits, and they feel like that is mainly because the people who made the speed limits didn't realize their needs, or because they happen to have some incorrect cognitive heuristics or similar.
+> 
+> In order to make the speed limits work, we have cops who try to identify who is speeding, so they can inform them about the need to avoid speeding. To better communicate the importance, they may fine the drivers so they can see how big of a deal it is. If the drivers are not smart enough to understand the cops' concern about speed, they may have to take away their driver's license.
+> 
+> Of course, the presence of the cops is not great for speeders who feel that the speed limits are set wrong. Fortunately from their perspective, there are some sympathetic cops who are willing to suspend the rules for a bit of extra pay.
+> 
+> If there are a lot of speeders, maybe that indicates that the speed limits are set wrong, and that we need to have more open debate so we can figure out what the appropriate speed limits would be.
+
+Someone who is being mistake theorist about this might be unwilling to acknowledge that the indirect language serves the purpose to avoid arrest, or they might begrudgingly admit it but frame it as a way to minimize conflict or be polite or avoid biases (similar to how mistake theorists about politics will be unwilling to acknowledge wolf whistles, will prefer to avoid claims that someone is lying, etc.).
+
+Meanwhile a conflict theorist would analyze it as a conflict between the driver who wants to drive fast vs other people who want safe roads, and analyze the cops as having the job of enforcing the safe roads side over the drive fast side of the conflict, and analyze corrupt cops as people who betray their side.
+
+#### [>>>>>>>>] gjm · 5 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=txs2M5AtA5oWyuLCg
+This is ingenious but feels like rather a stretch, compared with the simpler analysis that says that the cop-bribing situation just isn't really the sort of thing the mistake/conflict dichotomy is meant for. The job of a police officer is to enforce the law, pretty much everyone agrees with this (including e.g. people who think the laws are bad and shouldn't be enforced, and people who think cops are often bad and not doing their jobs right), and if you want to break the law then you and the police *are* in conflict, end of story. Favouring "mistake theory" in political arguments doesn't require anyone to dream up ingenious ways to reframe your relationship with the law and its enforcers that allow them to see *that* in conflict-free terms.
+
+#### [>>>>>>>>>] tailcalled · 3 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=DgKpKexzw7LGbjKzv
+> Favouring "mistake theory" in political arguments doesn't require anyone to dream up ingenious ways to reframe your relationship with the law and its enforcers that allow them to see that in conflict-free terms.
+
+I don't primarily think of conflict theory and mistake theory as properties of people. Rather, I primarily think of conflict and mistake as properties of situations, and then one might have different theories about what best describes those situations.
+
+So for example, it is possible for someone to have a conflict theory about the relationship between criminals and society (as you correctly point out most people have, though I would say it seems to me conservatives have this theory more than progressives do, hence "tough on crime") while having a mistake theory about how politics works.
+
+#### [>>>>>>>>>>] gjm · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=3HLBWiLSHuKcMbBAC
+I think it's worth distinguishing the general phenomenon where people can have opposed interests to varying degrees (which happens *everywhere*) from the more specific question of what attitude a person should have or does have towards the people they're arguing with.
+
+Your interests and those of a police officer who's just pulled you over for speeding (or, staying closer to Zack's example, the interests of more-bribeable and less-bribeable police officers in such a situation) may be more or less in conflict with one another, but I don't see how it helps anything to try to fit that into the same framework as we use for assessing different attitudes to political debate.
+
+#### [>>>>>>>>>>>] tailcalled · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=iYmSGwMaiYNC8buQq
+There's definitely lots of distinctions that can be made. The aspect of conflict that I find most important to know about is the "epistemic" part of it. Basically, does Aumann's agreement theorem apply?
+
+In ordinary non-conflict conversations such as asking someone you are visiting where you can get a cup of water, you can simply copy other's beliefs and do reasonably well, whereas in conflict conversations such as politics, copying your opponent's beliefs about factual matters is a serious security vulnerability.
+
+(It doesn't seem uncommon for mistake theorists to come up with explanations of why Aumann's agreement theorem wouldn't apply to politics despite both sides being honest, but nobody has come up with compelling explanations, whereas the conflict theory analysis of it seems compelling and commonly for people to self-endorse.)
+
+#### [>>>>>>>>] Shmi · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=nXydF3odXtBky6ngb
+> My understand of conflict theory is that proponents consider the situation in question to be a conflict where there are different people who have opposing interests, whereas for mistake theory, proponents consider the situation in question to be a cooperation where everyone agrees that there is a problem in a shared goal and there's just uncertainty about the appropriate solution.
+
+Right, I think it is another way to distinguish between believing in zero-sum and believing in positive sum games, no?
+
+I suspect that this framework is not well suited for analyzing the traffic stop issue. At least I do not think the reasoning you describe is sufficiently common... A non-corrupt cop just follows the rules without thinking about the size of the pie, while a corrupt cop sees their position as an opportunity to grab some extra piece from someone else's pie... which can be interpreted from either perspective, without providing any useful insight. Basically, this is not a nail, so using a hammer is not a great approach.
+
+#### [>>>>>>>>>] tailcalled · 5 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=hMGhGEQDM9yorNHGd
+> Right, I think it is another way to distinguish between believing in zero-sum and believing in positive sum games, no?
+
+No. While zero-sum games is one way that people can be in conflict, they are not the only way:
+
+1.  Zero-sum games are just one example of a broader class of (game-theoretically equivalent) Pareto-frontier games, where one person's benefit is another person's loss, but where in the general case one person may benefit more than the other loses. (For instance, some might analyze the traffic case as a Pareto-frontier game, where the loss due to crashes is worse than whatever gain the driver might get from driving fast.)
+2.  Even if there globally is opportunity for Pareto improvements, locally one may be in a setting where there is no system to cooperate to achieve these improvements, and there is insufficient trust to negotiate to achieve them. In such a case there may be conflict and local opposing interests, even if there would be gain for deescalating the conflict and finding ways to help everyone.
+
+In order for it to make sense to analyze others as being basically honest and merely making a mistake when they disagree, it would have to be that people aren't intentionally trying to work against each other's interests.
+
+#### [-] Dagon · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=2r3pcycxxL2uuAfeZ
+I think I've said it every time the conflict vs mistake theory topic comes up: it's a vastly oversimple model, pretty close to useless in any real-world situation.  I fully agree with your view of mixed purposes and mixed receiver capabilities for public messaging. 
+
+Even bounded distrust isn't sufficient - first, the boundary between straightforward truth-seeking and deception is fractal - there's a LOT of grey and no way to have a classifier that can tell you what's happening.  Second, social technology (understanding of impact of communication choices) has grown in the last few decades, so that the deception is evolved to be far more effective, even while being far less clearly biased in any direction.  It's MASSIVELY improved at "engagement", and only a bit improved at directional political movement.
+
+#### [-] gjm · 51 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=3uP6PxhbHtmL53vkx
+I have several "local" nitpicks and a "global" objection to the overall narrative that I think is being proposed here. Local issues first.
+
+> Alexander concludes with a characteristically mistake-theoretic plea for mutual understanding
+
+He does. But one thing you don't mention which I think makes your presentation of SA's argument misleading is this: between the things you've previously described (about Fox News, liberal academics, and the Bush/Quayle "revenue enhancements", all things going on in the contemporary-ish USA) and the bit you go on to quote (referring to "a hostile environment that lies to them all the time) SA's piece has moved on somewhat, and (1) the "hostile environment" bit is *not* talking about the contemporary US but about (a somewhat hypothetical version of) the Stalin-era USSR and (2) the business about interactions between "savvy" and "clueless" people is addressing a fundamentally different question from most of the article.
+
+So (1) to whatever extent you're taking SA's article to say that the contemporary USA (or other similar places) is "a hostile environment that lies to us all the time", I think that is an error (maybe SA would in fact agree with you about that, maybe not, but at any rate it isn't what he says).
+
+And (2) he isn't saying we should necessarily regard the presenters on Fox News, or those liberal academics, or the writers in the Washington Post, or the government of the Stalinist USSR, as being honestly mistaken. That isn't what the conflict/mistake dichotomy is about. When he talks about our attitudes to those people, he does so in terms of "they aren't honest, but are they likely to be lying to me about this, in this particular way, in this particular context?". The mistake-theory-ish bit you quote comes in only at the end and is about an entirely different question: how should we interact with people whose assessment of the honesty of what those would-be authorities are saying is different from ours?
+
+> We need a conflict theory to understand this type of situation \[sc. cop-bribery\].
+
+"Conflict theory" and "mistake theory" don't mean thinking that *everyone all the time* is or isn't working towards the same goal. Obviously different people have different goals, sometimes opposing ones. The terms only make sense in the context of some sort of discussion (e.g., a political one) where the differences between you and your interlocutor may or may not be conflict-y or mistake-y. The bribing-a-cop scenario is not of this type, and "we need a conflict theory to understand this type of situation" seems to me like a category mistake.
+
+(Remark: I think conflict/mistake oversimplifies in important ways. 1. We can have the same ultimate goals but still relate in conflict-y ways, if our differing opinions give us opposing instrumental goals and prospects for reaching agreement on those opinions are poor. 2. There are ways to have different goals that *aren't* of the form "I want my group to be on top, you want your group to be on top" and while these may still lead to conflict I think it's a fundamentally less-hostile sort of conflict.)
+
+> When a government denies tax increases but announces "revenue enhancements" \[...\] regime supporters and dissidents are *trying to do different things*. Dissidents want to create common knowledge of the regime's shortcomings \[...\]
+
+There are definitely situations where "dissidents are trying to create common knowledge of the regime's shortcomings" so that when the right time comes everyone can have enough confidence to revolt. But SA's example of "revenue enhancements" is unambiguously not one of those situations. One didn't need any particular degree of common knowledge to *not vote for George Bush*. No one was proposing an armed revolt or anything similarly risky. Saying "aha, Bush *did* levy new taxes despite saying he wouldn't" did not put one in danger of being "crushed as an individual".
+
+(This is a place where I think you are taking advantage of your earlier conflation of contemporary-US and Stalinist-USSR situations in SA's article.)
+
+Further, while the "revenue enhancements" thing is obviously slimy, it's not remotely in the same category as e.g. the things in the "Kolmogorov complicity" article you link to. Saying that thunder is heard before the corresponding lightning is seen (SA's example in that article) is flatly incompatible with reality; you can't *actually* believe it along with the truth about how physics and thunderstorms work, but you can call a tax a "revenue enhancement" without any actual false beliefs about reality. (You probably can't think that's *optimal terminology for good thinking* without false beliefs, but most people most of the time are not choosing their terminology solely to optimize good thinking, and it's not at all clear that they should.)
+
+As for the overall narrative:
+
+The impression I get from your article is something along the following lines: "SA is a mistake-theorist; he wants us to think of other people as basically on the same side as us, and reason politely with them. His article about bounded distrust applies this thinking to governments, major media sources, etc. But this is all wrong and possibly outright sinister: governments, major media sources, etc., are actively trying to mislead us for their own ends, and the people who want to think in mistake-theory terms in such a situation are the lackeys of Power, the government mouthpieces and suchlike, as opposed to the brave dissidents who see the conflict for what it is." With a somewhat-plausibly-deniable side order of "Boooo to SA, who has shown himself to be on the side of Power, which is much like the government of the Stalinist USSR".
+
+And I think *most* of this narrative is wrong. SA is indeed a mistake-theorist, but he conspicuously *doesn't* take that to mean that the mouthpieces of state/cultural/... power should be assumed to be arguing in good faith. His article about bounded distrust, in particular, *doesn't* suggest doing that. I see no reason to think that his general preference for mistake theory indicates that he is on the side of Power (whatever specific sort of Power that might be). I do not think any sort of Power he is plausibly on the side of has much in common with the Stalinist USSR.
+
+#### [>] Zack_M_Davis [AUTHOR] · 25 karma · 2023-02-13 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=EGwQqnmrvvHX9QWk8
+> SA's piece has moved on somewhat, and (1) the "hostile environment" bit is not talking about the contemporary US but about (a somewhat hypothetical version of) the Stalin-era USSR
+
+It doesn't seem to me like the setting of the illustrative examples should matter, though? The problem of bounded distrust should be _qualitatively_ the same whether your your local authorities lie a lot or only a little. Any claims I advance about human rationality in Berkeley 2023 should _also_ hold in Stalingrad 1933, or African Savanna −20,003, or Dyson Sphere Whole-Brain Emulation Nature Preserve 2133.
+
+> about an entirely different question: how should we interact with people whose assessment of the honesty of what those would-be authorities are saying is different from ours?
+
+I think they're related! The general situation is: agent A broadcasts claim K, either because K is true and A wants Society to benefit from knowing this, or because A benefits from Society believing K. Agents B and C have bounded distrust towards A, and are deciding whether they should believe K. B says that K doesn't seem like the sort of thing A would lie about. From C's perspective, this could be because it really is true that K isn't the sort of thing that A would lie about—or it could be that _A and B are in cahoots_.
+
+Section IV. of "Bounded Distrust" opens with the case where A = "credentialed experts", K = "ivermectin doesn't work for COVID", B = "Scott Alexander", and C = "Alexandros Marinos". But the problem should be the same if A = "Chief Ugg", K = "there's a lion across the river", or A = "the Dyson Sphere Whole-Brain Emulation Nature Preserve Tourism Board", K = "Norton AntiVirus works for cyber-shingles", _&c._
+
+The general problem is that agents with different interests sometimes have an incentive to distort shared maps, so it's very naïve to say "it's important for these two types of people to understand each other" as if differences in who one trusts were solely due to differences in map-correction skill (mistake theory), rather than differences in who one trusts to not distort shared maps to one's own detriment (conflict theory).
+
+(Thanks for commenting! You're really challenging me to think about this more deeply. This post came about as a 20x wordcount expansion [of a Tweet](https://twitter.com/zackmdavis/status/1486921690646937603), but now that your criticism has forced me to generalize it, I'm a little worried that my presentation of the core rationality insight got "contaminated" by inessential details of my political differences with Scott; it seems like there should be a clearer explanation for my intuition that mistake theory corresponds with the "loyalist" rather than the "dissident" side of a conflict—something about how power can make contingent arrangements seem more "natural" than they really are?—and I'm not immediately sure how to make that crisp, which means my intuition might be wrong.)
+
+#### [>>] Unnamed · 2 karma · 2025-01-29 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=YgicdtDHR5LdmgGYn
+> savvy don't (just) have more skills to extract signal from a "naturally" occurring source of lies. They're collaborating with it!
+
+This (from your tweet) is false, and your post here even has a straightforward argument against it (with the honest cop and the corrupt cop both savvy enough to discern a lightly veiled bribery attempt). Savviness about extracting information from a source does not imply complicity with the source.
+
+#### [-] gjm · 23 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=9daNZqs5iyDDu3aut
+In another comment I've raised various objections to what seems to me to be Zack's overall line of argument here, but I want separately to address the claim at the very end:
+
+> Thus, supporters of the regime naturally think dissidents are *making a mistake*; dissidents naturally think regime supporters are *the enemy in their conflict*.
+
+That sounds clever and insightful, but is it actually *right*? I don't think so. I mean, the second half is probably right -- dissidents do generally (and for good reason) view supporters of the regime they're objecting to as their enemies. But isn't it also true that supporters of any regime generally view dissidents as their enemies? (For the more oppressive sort of regime Zack's conjuring up here: how do you think Nazi supporters felt about e.g. the French resistance? How do you think Vladimir Putin's faithful think about opponents of the war in Ukraine? For the at-least-superficially less oppressive sort most of us are living in, where you need to go further to count as a "dissident"\[1\], how do you think fans of liberal democratic capitalist states generally think of neoreactionaries or revolutionary communists? Or, turning from actual government power to the sort of cultural thing Zack might have in mind, what's the usual attitude of progressive media/academic types to people proposing "human biodiversity" or to "gender critical feminists"?
+
+\[1\] It's pretty much the case that one only speaks of "dissidents" when referring to oppressive systems. But I'm trying to consider honestly what sort of person might be thought of as a "dissident" in the context of somewhere like the contemporary US or UK, and I'm pretty sure they need to go well beyond "I disagree with the policies of the current government" to be called that; I think the criterion is something like "disagreeing energetically enough, or fundamentally enough, to be at risk of actual reprisal from those in power".
+
+It seems to me that in all these cases the allies of the (literal or metaphorical) regime have just as strong a tendency to frame things as a conflict as its opponents.
+
+#### [>] Viliam · 16 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=nHJFcMM8TFQjKwizh
+> But I'm trying to consider honestly what sort of person might be thought of as a "dissident" in the context of somewhere like the contemporary US or UK
+
+A person who says something politically incorrect and gets fired? Or gets in prison if someone decides it was hate speech (more likely to happen in UK).
+
+#### [>>] gjm · 9 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=nphBrKYKnBxsqjn6T
+I think the first of those would be a reasonable analogue for "dissident" when considering Orthodox Progressive Culture as the Power of interest, and possibly the second when considering the government as the Power of interest. In both cases my sense is that the representatives of said Power would see the people in question as enemies (conflict theory) more than as people who are simply making an unfortunate mistake (mistake theory). So these also seem like conspicuous non-examples of Zack's claim.
+
+#### [>>>] Viliam · 2 karma · 2023-02-13 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=gNaaLqGnisEDohtm3
+I guess it would be better to simply say "governments typically do this" and "dissidents typically do this" rather than encoding it in the language of mistake/conflict that requires additional effort to decode.
+
+I can't even say whether I think you are right or wrong here, because I am more confused than helped by the abstraction.
+
+#### [>] Aiyen · 4 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=zNGuxZh6W7BwHgNmZ
+There's potentially an aspect of this dynamic that you're missing.  To think an opponent is *making a mistake* is not the same thing as them not being your opponent (as you yourself point out quite rightly, people with the same terminal goals can still come into conflict around differences in beliefs about the best instrumental ways to attain them), and to think someone is *the enemy in a conflict* is not the same thing as thinking that they aren't making mistakes.  
+
+To the extent that Mistake/Conflict Theory is pointing at a real and useful dichotomy, it's a difference in how deep the disagreement is believed to lie, rather than a binary between a world of purely good-faith allies who happen to be slightly confused and a world of pure evil monsters who do harm solely for harm's sake.  And that means that in an interaction between dissidents and quislings, you probably will get the dynamic that Zack is pointing out.
+
+Dissidents are likely to view the quislings as being primarily motivated by trying to get personal benefits/avoid personal costs by siding with the regime, making the situation a matter of deliberate defection, aka Conflict Theory.  Quislings are likely to view dissidents (or at least to claim to) as misguided (the Regime is great!  How could anyone oppose it unless they were terminally confused?), aka Mistake Theory.  However, this Mistake Theory perspective is perfectly compatible with hating dissidents and levying all manner of violence against them.  You might be interested in watching some interviews with pro-war Russians about the "Special Military Operation":  a great many of them evince precisely this perspective, accusing Ukrainians of making insane mistakes and having no real interests opposed to Russia (i.e. they *don't view the war through Conflict Theory*!), but if anything that makes them *more* willing to cheer on the killing of Ukrainians, not less.  It's not a universal perspective among Putin's faithful, but it seems to be quite common.  
+
+The dynamic seems to be not so much that one side views the other with more charity ("oh, they're just honestly mistaken; they're still good people") so much as that one side views the other with more condescension ("oh our enemies are stupid and ignorant as well as bad people").
+
+#### [>>] gjm · 2 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=cNcnuwoyfepzy2vjp
+I agree (as I'd already said) that there isn't a nice dichotomy where some people see their opponents as beings of pure evil who do what they do solely because they are bad, and others see them as simply mistaken and therefore not in any way opposed.
+
+I am not convinced that this in any way means that in a dissidents/quislings situation you will get the dichotomy Zack claims, and once again I point to the various examples I've given; I think that in all of them (and also the two more suggested by Viliam) the quislings will typically have just as conflict-y an attitude as the dissenters.
+
+(I think the key distinction between a mistake theorist and a conflict theorist is: the mistake theorist thinks that *it will be helpful for their purposes* to address the other side with evidence and arguments, and try to arrive at mutual understanding; the conflict theorist thinks that won't do any good, or cares more about playing to the gallery, or whatever.)
+
+For the avoidance of doubt, I don't disagree that in some cases the quislings\[1\] will think that the dissenters\[1\] are (evil and hateful because they are) honestly mistaken. But I also think that in some cases the dissenters will think that the quislings are (evil and hateful because they are) honestly mistaken. The terminology may be unhelpful here; cases in which *the word "quisling" seems appropriate* will tend to be those where we think of the people in question as doing things they know are bad out of self-interest. But e.g. I bet plenty of those neoreactionaries and revolutionary communists think the advocates of liberal democracy are mostly honestly mistaken.
+
+\[1\] It's probably obvious but I'll say this explicitly: I do not intend either "quislings" or "dissenters" to carry any particular presumption of rightness/wrongness/goodness/badness. "Quisling" means "person functioning as some sort of spokesperson for whatever ideas are held by the people and institutions with power" and "dissenter" means "person vigorously disagreeing with said ideas". You can have admirable or despicable people in either category.
+
+As for those Russians: if someone believes (1) that their opponents are simply making insane mistakes and that their real interests are aligned, and (2) that the right way to deal with this situation is to *kill them*, then I say that person is a conflict theorist not a mistake theorist. (To whatever extent we have to put them into one pigeonhole or the other, at least.)
+
+#### [-] Viliam · 27 karma · 2023-02-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=P2RqfR58jxPiyDmun
+Why is there even the social norm that some form of misleading is okay as long as the sufficiently smart people can figure it out?
+
+Once you start paying attention to this, you can see it in many places. For example, advertising. There is a rule that you cannot say "X is better than Y" (where Y is your competitor), but it is okay to say "X is best". But how could that make sense? If X is the best, then logically it must be better than Y.
+
+I guess the official version is that "everyone knows" that calling something best in advertising is an exaggeration.
+
+I say, fuck that. "Everyone knows it is an exaggeration" means that it is a *lie*. Lying about the product you are selling is *fraud*. Fraud should get you in prison. But... only a stupid people would believe that literally, right? Yes, but stupid people exist, you told them something, some of them believed it, and they bought your product. How specifically is this *not* a fraud?
+
+(No, I am not blaming you for the "stupid people exist" part. I am blaming you specifically for the "you told a lie" part. If you tell the truth, and the stupid people misunderstand you, you can defend yourself by showing that they misunderstood. But if you tell a lie, the stupid people understand you correctly... technically... they just do not understand that you are socially allowed to lie to sufficiently stupid people. Why is that so?)
+
+From the conflict theory perspective, it is all obvious. We are scamming the stupid because we can, LOL! What are they going to do about it? Anyone who fully understands the problem and is capable of doing something about it, is by definition already on the winning side!
+
+(But of source, "stupidity" is relative, and no matter what your IQ is, in certain contexts the stupid one is you.)
+
+#### [>] antanaclasis · 2 karma · 2023-02-13 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=NTmWCakud2hpYMX2o
+Re: “best vs better”: claiming that something is the best can be a weaker claim than claiming that it it better than something else. Specifically, if two things are of equal quality (and not surpassed) then both are the best, but neither is better than the other.
+
+Apocryphally, I’ve heard that certain types of goods are regarded by regulatory agencies as being of uniform quality, such that there’s not considered to be an objective basis for claiming that your brand is better than another. However, you can freely claim that yours is the best, as there is similarly no objective basis on which to prove that your product is inferior to another (as would be needed to show that it is not the best).
+
+#### [>] MondSemmel · -1 karma · 2023-04-17 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=JtD7NbZ4Hn3pAmZXZ
+> I say, fuck that. "Everyone knows it is an exaggeration" means that it is a *lie*. Lying about the product you are selling is *fraud*. Fraud should get you in prison. But... only a stupid people would believe that literally, right? Yes, but stupid people exist, you told them something, some of them believed it, and they bought your product. How specifically is this *not* a fraud?
+
+I understand this attitude, but I think once you try to operationalize this into policy, it runs afoul of the same problem of trying to censor misinformation. E.g. see section IV of [this ACX essay](https://astralcodexten.substack.com/p/the-media-very-rarely-lies):
+
+> Okay, that’s my nitpicky point. Who cares? Obviously all of this kind of stuff is more than deceptive enough to in fact leave a bunch of people misinformed. So why do I care if it misinforms them by lying, or by misinterpreting things and taking them out of context?
+> 
+> I care because there’s a lazy argument for censorship which goes: don’t worry, we’re not going to censor honest disagreement. We just want to do you a favor by getting rid of *misinformation,* liars saying completely false things. Once everybody has been given the true facts - which we can do in a totally objective, unbiased way - then we can freely debate how to interpret those facts.
+> 
+> But people - including the very worst perpetrators of misinformation - very rarely say false facts. Instead, they say true things without enough context. But nobody will ever agree what context is necessary and which context is redundant.
+
+Ads may be less honest than news, but it's still hard to operationalize no-lies rules in such a way that they aren't used asymmetrically against those who aren't in power.
+
+#### [>>] Viliam · 3 karma · 2023-04-17 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=ZtQvAwZdmEjxqt5Yz
+I cannot fully evaluate how I feel about this now, but something sounds suspicious. For example, using the same logic, slander/libel should be legal, because people in power will always be able to say or at least insinuate negative things about their opponents, so if we make it illegal, the situation becomes asymmetrical. Perhaps theft should be legal too, given that the government and police can take things/money from you if they really want to.
+
+I understand the ACX essay as an argument in the opposite direction. It is too easy to mislead people while only saying things that are technically true. But advertising fails to comply even with *this* standard.
+
+#### [>>>] MondSemmel · 2 karma · 2023-04-17 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=fs4EfbKunjoo5nnqL
+From what I understand, libel laws have very high standards of evidence precisely because of the worries I mention. Also see [this NYT article](https://www.nytimes.com/2021/10/22/opinion/supreme-court-libel-news-media.html) (note that the article is behind a soft paywall), which both mentions the even stronger requirements for a public official to sue for libel; and also mentions the differences between the US (harder to sue for libel) and the UK (easier to sue), and the effects of this.
+
+Again, I have no problem with accusing ads of dishonesty or calling them lies; I'm just skeptical that there's a way to codify this into law that doesn't just make things much worse.
+
+#### [-] Unnamed · 9 karma · 2023-02-13 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=wzBaKCEXCFkSJTbo7
+A bunch of things in this post seem wrong, or like non sequitors, or like they're smushing different concepts together in weird ways.
+
+It keeps flipping back and forth between criticizing people for thinking that no one was fooled, and criticizing people for thinking that some people were fooled. It highlights that savviness is distinct from corruptness or support for the regime, but [apparently](https://twitter.com/zackmdavis/status/1486921690646937603) its main point was that the savvy are collaborating with the regime.
+
+As I understand it, the main point of Scott's *Bounded Distrust* post is that if you care about object-level things like whether taxes are increasing, whether wearing a mask reduces your risk of getting covid, whether the harvest will be good, or whether Russia will invade Ukraine, then you can extract some information from what's said by authorities/institutions like Fox News, the New York Times, the CDC, Joe Biden, Vladimir Putin, etc., even though they often present distorted pictures of the world, as long as you're savvy enough about understanding how they communicate and interpreting what they say.
+
+This post categorizes everyone into dissidents and supporters of "the regime" and somehow stuffs savviness in there and says things that don't map onto the concept of savviness or the examples of savviness that come to mind.
+
+#### [>] Unnamed · 2 karma · 2025-01-29 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=i37zwLj5AEbomNii3
+As I understand it, Scott's post was making basically the same conceptual distinction as [this Andrew Gelman post](https://statmodeling.stat.columbia.edu/2024/03/01/minor-league-stats-predict-major-league-performance-sarah-palin-and-some-differences-between-baseball-and-politics/), where Gelman writes: 
+
+> One of the big findings of baseball statistics guru Bill James is that minor-league statistics, when correctly adjusted, predict major-league performance. James is working through a three-step process: (1) naive trust in minor league stats, (2) a recognition that raw minor league stats are misleading, (3) a statistical adjustment process, by which you realize that there really is a lot of information there, if you know how to use it.
+
+Scott labels the first two of Gelman's categories "clueless" and the third "savvy".
+
+#### [-] Ben Pace · 2 karma · 2024-12-12 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=QyBNGBorQxRNmjc4i
+I think the analogy in this post makes a great point v clearly, and improves upon the discussion of how those who control the flow of information mislead people. +4
+
+#### [-] ratstar · 3 karma · 2025-01-31 · https://www.lesswrong.com/posts/DpTexwqYtarRLRBYi/conflict-theory-of-bounded-distrust?commentId=qkaK8ZndKMSwDBb8z
+Conflict theory can be useful but it’s important to recognize its limits. Years of colonialism, war, industrialization, and dystopian literature have all led to an overemphasis on race, class, gender, and oppression in mainstream political discourse, which the far-right has now appropriated for their white identity politics. Instead of abandoning it, which is what Trump is trying to do with his executive order on education, I believe it should be integrated into a larger theoretical framework of how large, complex societies work. The Soviet Union wasn’t truly socialist, but maybe the reason for that is because complex systems are fragile and they require an authoritarian government if they’re damaged too much by a revolution. An overemphasis on conflict and bad faith can lead to witch hunts, sectarianism, and factionalism.
+

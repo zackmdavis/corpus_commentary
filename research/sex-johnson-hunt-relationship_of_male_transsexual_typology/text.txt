@@ -1,0 +1,792 @@
+Archives o f Sexual Behavior, VoL 19, No. 4, 1990
+
+The Relationship of Male Transsexual Typology
+to Psychosocial Adjustment
+Sandra L. J o h n s o n , Ph.D. 1 and D . D a n i e l H u n t , M.D.2. 3
+
+In a search to uncover variables predictive o f psychosocial adjustment o f
+male transsexuals, this study examined features which have been empirically
+linked to characteristics o f male transsexual typology. Data from 25 male
+transsexual volunteers were examined by means o f multiple regression analysis to determine whether symptoms o f introversion, depression, or tension,
+as well as adjustment to work and gender reorientation couM be linked to
+the typological variables o f androphilia, gynephilia, cross-gender fetishism,
+feminine gender identity in childhood, and age o f onset o f transsexualism.
+Valid and reliable scales measuring the typological variables o f erotic partner
+preference (androphilia and gynephilia), cross-gender fantasy in association
+with sexual arousal (cross-gender fetishism), and degree o f feminine gender
+identity in childhood were used. Results indicate a significant relationship
+between social gender reorientation and the feature o f androphilia and between work adjustment and gynephilia. This differential adaptation is explained in terms o f the different course that transsexualism takes within each
+typological subgroup. These findings offer evidence as to why some transsexuals may more readily adopt a female gender identity than others. There was
+no relationship f o u n d between the typological features and those variables
+measuring psychological disturbance.
+KEY WORDS: transsexualism; cross-gender fetishism; cross-gender identity; erotic partner preference; gender reorientation.
+
+This article is based on a doctoral dissertation conducted by the first author in partial fulfillment
+of the requirements for a Doctor of Philosophy at the University of Washington.
+1Ingersoll Gender Center, Seattle, Washington.
+2Department of Psychiatry and Behavioral Sciences, University of Washington GI-15, Seattle,
+Washington 98195.
+3To whom correspondence should be addressed.
+349
+0004-0002/90/0800-0349506.00/0 © 1990PlenumPublishingCorporation
+
+350
+
+Johnson and Hunt
+
+INTRODUCTION
+One of the earliest debates in the literature on transsexualism concerns
+whether transsexuals are basically mentally sound or whether they suffer from
+psychopathological conflict. Research into this controversy began to accumulate in the early 1970s. The early results (Stinson, 1972; Finney et al., 1975)
+suggested that, as a group, transsexuals showed clear signs of significant ego
+defect, or at least some degree of psychopathology. Other investigators
+(Rosen, 1974; Roback et al., 1976; Tsushima and Wedding, 1979) indicated,
+however, that though some transsexuals may show a vulnerability to mental
+health adjustment, no real signs of psychopathology have been evidenced,
+especially when transsexuals are compared as a group to other psychiatric
+populations.
+These results led some investigators to suspect that the research question was more complex and that the entire transsexual population could not
+be usefully defined in such dichotomous terms as psychologically sick or healthy. Langevin et al. (1977) then suggested that some factor within the syndrome may discriminate between transsexuals who are psychologicallyhealthy
+or unhealthy, and they began to look at the amount of time each of their
+subjects had spent in the feminine role. They found that this factor seemed
+to discriminate clearly between adjusted and unadjusted groups. It was Greenberg and Laurence (1981), however, who actually clarified the relationship
+of living-in-the-role of a woman and level of disturbance° They tested their
+hypothesis on four patient groups and concluded that this sample characteristic accounted for the discrepancies in the levels of psychopathology demonstrated by the various groups in the studies previously cited.
+As is typical in many types of research, the issue of debate evolved into
+a more complex question than it began with and the search for an answer
+to the question of whether transsexuals are inherently psychologically disturbed
+or well has shifted to an investigation of the variables that may predict or
+assist their mental adjustment.
+One study which attempted to systematically identify variables which
+may moderate psychological adjustment in male transsexuals was conducted
+by Blanchard et al. (1983). They formalized the idea of living as a woman
+as a set of steps they call "gender reorientation" (p. 504). Basically, this variable has two components: a social component reflecting whether the transsexual is living as a woman at home, socially, and in the identification cards
+carried; and a physical component reflecting whether they have begun hormone treatment or have had genital surgery. These factors were compared
+by means of multiple regression analyses to two measures of psychological
+adjustment, the MMPI Tension and Depression Cluster Scales (Stein, 1968)
+and two measures for social adjustment, involvement and cohabitation. "Involvement" was defined as having been involved with a steady partner in the
+
+Male Transsexual Typology and Psychosocial Adjustment
+
+351
+
+past year, and "cohabitation" meant currently living with a lover or spouse.
+Results indicated a significant negative correlation with the measures of social
+feminization and the tension and depression scales and a significant positive
+correlation between genital surgery and cohabitation with a partner. Thus
+it was shown that social and physical gender reorientation appear to be highly
+correlated to several indices of mental health adjustment. However, making
+significant progress in undertaking the gender reorientation process only offers us another criterion to measure the psychological adjustment of transsexuals and offers no information about those who are poorly adjusted or those
+who may be having trouble undertaking the feminine reorientation process.
+For the proposed study, it seemed reasonable to assume that a more explanatory source for variables moderating mental health might come from the factors that describe consistent differences in the male transsexual populations;
+that is, the male transsexual typology.
+The investigation of typological subgroups in the area of transsexualism dates from the early 1900s (Hirschfeld, 1910, 1922). Since then many
+others have added to this literature (American Psychiatric Association, 1980;
+Benjamin, 1966; Bentler, 1976; Buhrich and McConaghy, 1978, 1979; Meyer,
+1974; Person and Ovesey, 1974a, 1974b; Stoller, 1968). Fortunately, there
+is widespread agreement on the categories of behavior that differentiate types.
+In general, the clinical features that reoccur consistently are those relating
+to erotic partner preference, presence or absence of cross-gender fetishism,
+and to a lesser degree, recalled feminine gender identity in childhood.
+Further empirical support for this hierarchy of descriptors has been revealed by Freund et al. (1982). The principle component analysis of these
+and several other variables indicated that the dimension of heterosexuality
+versus homosexuality, cross-gender fetishism, and feminine gender identity
+in childhood accounted for 47% of the variance in subjects' scores on scales
+measuring these factors. These data not only support the clinically observed
+descriptions of transsexual types, but increase the evidence that there may
+be two separate etiological tracks that develop into transsexualism: one track
+proceeding from effeminate homosexuality and another from heterosexual
+cross-gender fetishism (Freund et al., 1982; Buhrich and McConaghy, 1977,
+1978, 1979).
+In addition to the four established typological variables, age of onset
+was also selected as a variable that may be important in relation to both typology and etiological theory. Though often recorded for the purposes of clinical
+diagnosis, age of onset does not appear to have been systematically studied.
+For the purposes of this study, this variable was defined as the age at which
+evidence of cross-gender behavior or fantasy begins to appear. Evidence that
+this variable may he related to typology is implied from research on cross-gender-identified children (Green, 1987). These data suggest that overt feminine
+behavior in boyhood is more strongly associated with homosexuality and con-
+
+352
+
+Johnson and Hunt
+
+sequently homosexual transsexuals. If this is true, then the age at which the
+earliest memory of these behaviors is recalled should be younger for the homosexual transsexual than for the heterosexual fetishistic group, and this factor
+should be related negatively to homosexual transsexualism. That late onset
+may be related to psychopathology is suggested from an epidemiological study
+by O'Gorman (1982). He found that transsexuals who showed a later onset
+experienced enuresis in childhood and had a history of psychiatric illness.
+This study, then, proposed to examine the variables that have been established as most descriptive of the transsexual syndrome in relation to indices
+of psychoscial adjustment and disturbance. A significant relationship between
+any of these variables and mental health may suggest, at least, whether there
+are any psychosexual or developmental factors that can predict more consistently the psychological adjustment or disturbance of male transsexuals.
+
+METHOD
+Subjects
+
+The subjects were 25 volunteer males recruited from the Seattle community. The principal source for the participants was the Ingersoll Gender
+Center, a nonprofit agency organized for the purpose of providing a support
+group and counseling referral services to individuals with gender conflicts.
+The main recruiting strategy was an advertisement given out through support
+groups, therapists, and an electrologist serving the transsexual community.
+Participants were screened on the basis of their feminine gender stability.
+This was assessed through the reponse to the question,"Have you ever felt
+like a woman?" Those responding "at all times for at least one year" were
+included in the sample. This question has been used by others (Freund et
+al., 1982; Blanchard, 1985) and found to be reliable when compared to other
+clinical screening methods. In addition, the majority of the respondents had
+been in the transsexual community for at least 4 to 5 months and were known
+to group leaders and others to be serious about pursuing gender change. All
+participants indicated they either planned to have genital surgery, or were
+postsurgical. No one was judged to be psychotic. All volunteers were paid
+$20 for completed questionnaires.
+Materials
+
+The instruments are grouped into two categories, predictor variables
+designed to measure the various typological features of male transsexualism
+and criterion variables chosen to measure specific dimensions of psychological, social, and psychogenderal functioning. The predictor variables erotic
+
+Male Transsexual Typology and Psychosocial Adjustment
+
+353
+
+partner preference were measured by the Modified Androphilia Scale (Andro)
+and the Modified Gynephilia Scale (Gyne) (Freund et al., 1982; Blanchard,
+1985). Androphilia (or androphile) is a term that refers specifically to a
+homosexual male who prefers a physically mature partner as opposed to a
+younger, immature sex partner, and a gynephile is the opposite or a heterosexual male who prefers a physically mature sex partner. Cross-gender fetishism was measured by the Cross-Gender Fetishism Scale (Blanchard, 1985).
+Cross-gender identity in childhood was measured by a version of the Feminine
+Gender Identity Scale (A) Revised (FGIS) (Freund et al., 1974, 1977). Blanchard (1985) recommended several changes in this scale to increase its validity
+as a measure of femininity in childhood. Incorporating these changes resulted
+in a 16-item scale with all items referenced to childhood (ages 6-12) and a
+few to adolescence. Age of onset (Onset) was measured by two questions:
+"About what age were you when you first recall wishing you were a girl or
+woman?," and "About what age were you when you first dressed yourself
+in girls' or women's clothing?" The age of onset was determined by the earliest
+of the two reported ages, if there was a 4 or more year range between the
+two, or if the ages were within a 4-year period, they were averaged.
+The criterion variables measuring psychological disturbance were three
+M M P I Cluster Scales, which are part of a group of seven scales developed
+by Stein (1968) to overcome the problem of overlapping items in the MMPI.
+The three scales chosen are TSC I, social introversion (Introv); TSC IV, depression and apathy (Depr); and TSC VII, tension, worry, and fear (Tens).
+As described in the literature review, a form of social adjustment demonstrated specifically by transsexuals is gender reorientation. In this study, the
+instruments used to measure this criterion variable are the same as the social
+feminization and physical feminization measures used by Blanchard et al.
+(1983) with the following changes: The third item of the social feminization
+variable (GR Soc) substitutes "in your name on your driver's license" for "in
+your name on your documents"; and physical feminization (GR Phy) combines "hormones" and "vaginoplasty" into one variable.
+To broaden the scope of the behavioral criterion, a variable measuring
+work adjustment (Work Adj) was also used. This single item variable asks,
+"Which of the following describes your current source of income or support
+for your living expenses?" The response, "full-time work" was scored 2 points;
+"part-time work," "savings," "retirement pension," and "student loans, grants,
+or scholarships" were scored 1 point. All other sources, "welfare," "parent,"
+"spouse" were scored 0.
+Procedure
+
+Participants were asked to complete a 154-item questionnaire containing
+the questions designed to measure the predictor and criterion variables. They
+
+354
+
+Johnson and Hunt
+
+came to the Ingersoll Gender Center to complete the questionnaire. In two
+cases, the questionnaire was sent to the participants and returned within 5 days.
+
+RESULTS
+
+Means and standard deviations for all study variables on 25 cases are
+shown in Table I. The data were analyzed by the SPSS New Regression subprogram (Hull and Nie, 1981) using the standard regression method (Nie et
+al., 1975). Each of the six criterion variables were regressed separately against
+the five predictor variables. Standardized multiple regression coeffients (beta),
+explained variance (R2), and significance of R 2 are summarized in Table II
+for all six analyses. The relationship between a predictor and criterion variable was considered significant if the probability of its occurrence in the data
+by chance was < 0.05. A Pearson product-moment correlation matrix (Table
+III) was also computed for all variables in the study and inspected to assure
+that the hypothesized relationships among the predictor variables held for
+this sample size and to verify that the criterion variables performed in the
+expected manner.
+There was a statistically significant positive association between social
+gender reorientation (GR Soc) and androphilia (Andro) (17 > 0.0004) and
+a trend fp < 0.06) for physical gender reorientation (GR Phy) to be related
+to Andro. There was also a tendency for gynephilia (Gyne) to be related to
+work adjustment (Work Adj) (p < .07). However, an inspection of the zeroorder correlation matrix showed intercorrelational conditions (Pedhazur,
+
+Table I. Means and Standard Deviations for all Study Variables on 25
+Cases
+Variable
+
+.~
+
+SD
+
+Age
+Educ
+Work Adj
+GR Soc
+GR Phy
+Introv
+Depr
+Tens
+Andro
+Gyne
+CFS
+FGIS
+Onset
+
+33.4
+6.4
+1.7
+1.7
+0.8
+12.8
+8.8
+11.2
+0.6
+2.0
+0.008
+16.5
+8.1
+
+9.5
+2.7
+0.7
+1.3
+0.7
+6.5
+6.3
+7.0
+8.8
+5.5
+7.4
+4.3
+3.2
+
+Male Transsexual Typology and Psychosocial Adjustment
+
+355
+
+Table II. S t a n d a r d Regression A n a l y s i s o f Six C r i t e r i o n Variables o n Five Predict o r Variables: S u m m a r y o f Beta, R 2, a n d Significance o f R 2
+Andro
+
+Gyne
+
+CFS
+
+FGIS
+
+Onset
+
+Sig. R 2
+
+- .29304
+.07818
+.1631
+
+.40458
+.13114
+.0757
+
+- .29476
+.0638
+.1907
+
+- .1330
+.01256
+.5677
+
+.04554
+.00163
+.836
+
+GR Soc
+Beta
+R2
+Sig. R 2
+
+.72033
+.47242
+.0004
+
+.16025
+.02057
+.3827
+
+.28001
+.06107
+.1382
+
+.27851
+.05483
+.1609
+
+.31386
+.07743
+.0992
+
+GR Phy
+Beta
+R2
+Sig. R z
+
+.41072
+.15358
+.0653
+
+- .05728
+.00263
+.8008
+
+.23314
+.04278
+.3149
+
+- .17032
+.02050
+.4835
+
+- .05378
+,00227
+,8144
+
+Introv
+Beta
+Rz
+Sig. R 2
+
+- .30573
+.08510
+.1802
+
+- .29235
+.06847
+.2272
+
+.09811
+.00757
+.6827
+
+.03465
+.00085
+.8910
+
+- . 12458
+.01220
+.6045
+
+Depr
+Beta
+R2
+Sig. R 2
+
+- .24246
+.05352
+.2807
+
+- .25855
+.05356
+.2806
+
+- .16316
+.02095
+.4957
+
+.01774
+.00022
+.9437
+
+- .20569
+.03325
+.3924
+
+Tens
+Beta
+R2
+Sig. R 2
+
+- .00173
+.00000
+.9940
+
+- .07519
+.00453
+.7594
+
+- .12200
+.01171
+,6230
+
+.14715
+.01530
+.5746
+
+- .17032
+.02280
+.4942
+
+Work Adj
+Beta
+R2
+
+1982) were present for cross-gender fetishism (CFS) to act as a suppression
+variable on gynephilia, suggesting that overlapping variance between these
+two predictor variables should be partialed out of the relationship between
+gynephilia and work adjustment. Accordingly, a hierarchical multiple regression between work adjustment and gynephilia with cross-gender fetishism as
+a control variable was performed (Table IV). The resuks indicate that a more
+realistic assessment of gynephilia's relationship to work adjustment is higher
+and significant (p < 0.03). None of the typological variables showed any
+significant relationship to the variables measuring psychological disturbance.
+Some of the theorized relationships among the predictor variables were
+also not verified. The association between high scores on androphilia and
+high scores on feminine gender identity in childhood (FGIS) found in Freund
+et al.'s (1982) study was not replicated (r = - . 0 3 ) . In addition, the theorized
+relationship between Andro and earlier age for reported onset was also not
+found (r = - . 18). Age of onset (Onset) did, however, show a significant
+negative relationship to FGIS (r = - .34) indicating as theorized that individuals with a greater feminine gender identity in childhood would show lower
+
+r~
+
+I
+
+.
+
+.
+
+r.~
+
+0
+
+,<
+
+I
+
+I
+
+I
+
+i
+
+I
+
+I
+
+[-,
+
+,<
+I
+
+0
+
+0
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+©
+6
+
+~ ~"~
+','~'~1~
+I
+
+~
+
+~'~'lC~'~ ~ ' 4 " ~
+~
+~
+I
+
+~
+
+I
+
+~'~
+
+~,l'xl
+~'~'~l"
+I
+
+~
+
+0 ~
+~ 1 ~-
+
+II'~¢)'~
+C~",,C~
+
+I
+
+I
+
+~
+
+~'~
+
+~,~'xl
+I~'~ ~"~
+
+e~'~'~'~l
+~
+
+~ 1 ~'~'*,D
+
+~
+
+1 ~''"
+
+I
+
+~
+
+"'~
+
+I'~'~
+
+I'~-~"
+
+I'~'~
+
+I'~"~
+
+I'~"~
+
+I'~-~
+
+"~'~
+
+I "~'~
+
+I ~
+
+~"~'~
+
+b'-~
+
+e.~b~
+
+"~" ~'~
+
+~".
+
+~"1
+
+~v'~
+
+~r~'~
+
+('~.1 ~
+
+I~"~ I"~
+
+~
+
+~
+
+"~"~
+
+~
+
+,<
+
+<
+
+~
+
+,~
+
+8
+
+8
+
+o
+
+~
+
+~
+
+~
+
+,~
+
+o ~
+
+o
+
+Male Transsexual Typology and Psychosociai Adjustment
+
+357
+
+Table IV. HierarchicalRegression of Work Adj on Gyne With
+CFS As a Control Variable
+Variable
+Step entered
+R2
+R~ change
+Sig.
+Beta
+1
+CFS
+.0039
+- .0039
+.7641
+- .0631
+2
+Gyne
+.1867
+.1827
+.0368
+.4577
+recalled ages for the onset of transsexualism. An unexpected significant negative correlation was found between Gyne and FGIS (r = - .32). Thus, though
+androphiles do not show a strong tendency to recall more feminine behavior
+and preferences in childhood, the gynephiles do recall significantly fewer of
+these behaviors and preferences.
+DISCUSSION
+The major finding of the present investigation was that the typological
+variables androphilia and gynephilia, or erotic partner preference, do appear
+to have a significant relationship to the social adjustment variables social
+feminization and work adjustment. Thus, those who scored higher on the
+Androphilia Scale manifest better adjustment in relation to gender conflict
+by their comparative readiness to take on a feminine presentation or role.
+With a larger sample, it is also likely that the tendency for androphiles to
+be more physically feminized would become a significant association. On
+the other hand, high scores on the Gynephilia Scale showed positive adjustment by their ability to generate their own income through some stable income
+resource(s).
+These systematic adjustment differences between the heterosexual and
+homosexual types appear to have been noted over the years in various clinical
+data (Person and Ovesey, 1974a, 1974b; Meyer, 1974; Roback et al., 1984).
+The data suggest that homosexual transsexuals tend to have, or take on, more
+femininity earlier in life and that the heterosexual types tend to be older and
+have developed a more masculine career and life-style before they undertake
+gender change. In their national survey, Roback et al. (1984) found these
+same differences existed particularly between younger and older groups of
+transsexuals. To explain these differences, they theorized that gender conflict
+for the older, more heterosexual group, is less intensely experienced early
+in life and becomes more intense only after traditional solutions have failed.
+To amplify this hypothesis further, it is suggested that for the heterosexual transsexuals, the erotic component of cross-gender fetishism may provide an early outlet for the "intensity" of the cross-gender conflict. This
+"outlet" of cross-dressing and experiencing erotic release may delay the need
+for an early gender resolution by providing intermittent relief from gender
+distress until this erotic component fades later in adult life. Without such
+
+358
+
+Johnson and Hunt
+
+an outlet, the homosexual transsexual experiences an increasing need for conflict resolution and is motivated to take on feminization at an earlier age.
+These behavioral differences in erotic genderal functioning between the two
+transsexual types may also reflect differences in the causal mechanism underlying the syndrome.
+One study, of course, cannot verify that the behavioral typology within
+the two subgroups is unrelated to psychopathological vulnerability. However,
+all the multiple regression analyses showed a low association between the
+typological features and psychological disturbance variables, even though
+clearly high and low profiles (high and low psychopathology) made up most
+of the sample. In addition to the low association, 8 of the possible 12 regression coefficients (betas) between the typological variables and the psychological variables were also negative. The exceptions were the association of
+feminine gender identity in childhood (FGIS) with all the psychological variables and the relation of cross-gender fetishism with introversion. These associations were low and positive. Given the evidence on differential adjustment
+between the heterosexual and homosexual subgroup presented above, one
+might suspect that these differences might leave one group more vulnerable
+than the other. However, results in this study suggest little association between typology and psychopathology or that differences in adjustment style
+necessarily create psychological vulnerability.
+Age of onset, proposed as a fifth variable for the typological study,
+did not perform exactly as theorized. Contrary to expectation, the homosexual
+subgroup (androphiles) did not report significantly lower ages for transsexual
+onset. Instead, lower reported age of onset appears to vary as a function
+of the number of recalled feminine behaviors in childhood. Since the heterosexual subgroup (gynephiles) were most likely to recall fewer of these childhood behaviors, it might be expected that they would also report older ages
+for onset. This logic, however, was not supported by this study. Though it
+was found that gynephiles are most likely to score lower on the FGIS variable,
+they do not systematically report older ages of onset, nor do the androphiles
+always report younger ones. This finding is also supported by Roback et al.'s
+(1984) survey which found no differences between their groups in reported
+age of onset. These data suggest, then, that it is likely that the syndrome
+manifests itself in both groups around the same time, though subsequently
+a different course is taken due to differences in erotic-genderal functioning.
+
+L i m i t a t i o n s and R e c o m m e n d a t i o n s
+
+Clearly, the most limiting factor in this study is the sample size. Though
+most of the intercorrelations discussed are significant, they are of a lower
+magnitude than would optimally be preferred and thus are unstable. Results,
+
+Male Transsexual Typology and Psychosocial Adjustment
+
+359
+
+then, must be accepted cautiously and validated by further studies with a
+larger sample. Since this is also one of the few systematic investigations undertaken with a population sample it is also possible that some variables may
+not perform in the same way that they might in a more restricted one.
+Finally, since the typological variables under study account, at most,
+for less than 50% of the variance in any one of the dependent variables, it
+is suggested that further studies include variables outside the typological
+domain as predictors. Variables that measures the quality of family life and
+interactions among family members and partners should be of particular importance to include, as the object relations or experiential domain is proposed
+as one area that may causally contribute to transsexualism.
+
+REFERENCES
+American Psychiatric Association. (1980). Diagnost& and Statistical Manual of Mental Disorders,
+3rd ed., APA, Washington, DC.
+Benjamin, H. (1966). The Transsexual Phenomenon, Julian Press, New York.
+Bentler, P. M. (1976). A typology of transsexualism: Gender identity theory and data. Arch.
+Sex. Behav. 5: 567-584.
+Blanchard, R., Clemmesen, L. H., and Steiner, B. W. (1983). Gender reorientation and psychosocial adjustment in male-to-female transsexuals. Arch. Sex. Behav. 12" 503-509.
+Blanchard, R. (1985). Typological study of gender disorders in males. In Steiner, B. W. (ed.),
+Gender Dyshporia: Development, Research, Management, Plenum Press, New York.
+Buhrich, N., and McConaghy, N. (1977). The discrete syndromes of transvestism and transsexualism. Arch. Sex. Behav. 483-495.
+Buhrich, N., and McConaghy, N. (1978). Two clinically discrete syndromes of transsexualism.
+Br. J. Psychiat. 133: 73-76.
+Buhrich, N., and McConaghy, N. (1979). Three clinically discrete categories of fetishistic transvestism. Arch. Sex. Behav. 8: 151-157.
+Finney, J. C., Bransdsma, J. M., Tondow, M., and Lemalstre, G. (1975). A study of transsexuals seeking gender reassignment. Am. J. Psychiat. 132: 962-964.
+Freund, K. (1985). Cross-gender identity in a broader context. In Steiner, B. W. (ed.), Gender
+Dysphoria: Development, Research, Management, Plenum Press, New York.
+Freund, K., Langevin, R., Satterberg, J., and Steiner, B. (1977). Extension of the gender identity
+scale for males. Arch. Sex. Behav. 6: 507-519.
+Freund, K., Nagler, E., Langevin, R., Zajac, A., and Steiner, B. W. (1974). Measuring feminine
+gender identity in homosexual males.
+Freund, K., Steiner, B. W., and Chan, S. (1982). Two types of cross gender identity. Arch.
+Sex. Behav. 11: 49-63.
+Green, R. (1987). The "Sissy Boy Syndrome" and the Development of Homosexuality, Yale
+University Press, New Haven, CT.
+Greenberg, R. P., and Lawrence, L. (1981). A comparison of the MMPI results for psychiatric
+patients and male applicants for transsexual surgery. J. Nerv. Ment. Dis. 169: 320-323.
+Hirschfeld, M. (1910). Die Transvestiten, Alfred Pulvermacher, Berlin, Germany.
+Hirschfeld, M. (1922). Der Transvetitismus. In Sexualpathologie, Marcus & Weber, Bonn,
+Germany.
+Hull, C. H., Nie, N. H. (1981). SPSS Update 7-9, McGraw-Hill, New York.
+Langevin, R., Paltich, D., and Steiner, B. (1977). The clinical profile of male transsexuals living
+as females vs. those living as males. Arch. Sex. Behav. 3" 527-558.
+Meyer, J. (1974). Clinical variants among applicants for sex reassignments. Arch. Sex. Behav.
+3: 527-558.
+
+360
+
+Johnson and Hunt
+
+Nie, N. H., Hull, C. H., Jenkins, J. G., Steinbrenner, K., and Brent, D. H. (eds.). (1975).
+Statistical Package f o r the Social Sciences, 2nd ed., McGraw-Hill, New York.
+O'Gorman, E. C. (1982). A retrospective study of epidemiological and clinical aspects of twentyeight transsexual patients. Arch. Sex. Behav. 11: 231-236.
+Pedhazur, E. J. (1982). Multiple Regression in Behavioral Research, Holt, Rinehart & Winston,
+New York.
+Person, E., and Ovesey, L. (1974). The transsexual syndrome in males: I. Primary transsexualism.
+Am. J. Psychother. 28: 4-29.
+Person, E., and Ovessey, L. (1974b). The transsexualism syndrome in males: II. Secondary transsexualism. Am. J. Psychother. 28: 174-193.
+Roback, H. B., McKee, E., Webb, W., Abramowitz, C. V., and Abramowitz, S. L. (1976).
+Comparative psychiatric status of male applicants for sexual reassignment surgery, jejunoileal bypass surgery, and psychiatric outpatient treatment. J. Sex Res. 12: 315-320.
+Roback, H. B., Schwartz Fellman, E., and Abramowitz, S. I. (1984). The mid-life male sexchange applicant: A multiclinic survey. Arch. Sex. Behav. 13: 141-153.
+Rosen, A. C. (1974). Brief report of MMPI characteristics of sexual deviation. PsychoL Rep.
+35: 73-75.
+Stein, K. B. (1968). The TSC scales: The outcome of a cluster analysis of the 550 MMPI items.
+In M cReynolds, P. (ed.), Advances in Psychological Assessment, Vol. 1, Science and Behavior Books, Palo Alto, CA.
+Stinson, B. (1972). A study of twelve applicants for transsexual surgery. Ohio State Med. J.
+68: 245-249.
+Stoller, R. (1968). Sex and Gender, Science House, New York, p. 6.
+Tsushima, W. T., and Wedding, D. (1979). MMPI results of male candidates for transsexual
+surgery. J. Pers. Assess. 43: 385-387.
+
+

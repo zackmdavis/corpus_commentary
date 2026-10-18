@@ -1,0 +1,145 @@
+Response to “Mosaic Brains? A Methodological Critique of Joel et al. (2015)”, by Marco
+Del Guidice, Richard A. Lippa, David A. Puts, Drew H. Bailey, J. Michael Bailey, and
+David P. Schmitt, an Online document – December 23, 2015
+
+
+
+
+Daphna Joel
+
+School of Psychological Sciences and Sagol School of Neuoroscience, Tel-Aviv
+University
+
+
+
+
+I am very glad that our PNAS paper (Joel et al., 2015) has raised discussions around the
+important question of the relations between sex and the brain in general and about our
+new methodological approach in particular. I think Marco Del Giudice and his colleagues
+have carried out several very interesting and relevant analyses and simulations, which, as
+explained below, strongly support our approach and conclusions regarding the brain. I
+hope we can soon pull outside of the dimorphism-difference formulation and start
+characterizing the population of human brains and studying the complex interplay
+between sex and other factors that underlie brain structure, function and dysfunction (Joel
+& Fausto-Sterling, in press).
+
+The question we were trying to answer in the PNAS paper is how far the categories
+“male” and “female” extend beyond the genitalia, and in particular, into the human brain.
+As stated in the Abstract: “Documented sex/gender differences in the brain are often
+taken as support of a sexually dimorphic view of human brains (“female brain” or “male
+brain”). However, such a distinction would be possible only if sex/gender differences in
+brain features were highly dimorphic (i.e., little overlap between the forms of these
+features in males and females) and internally consistent (i.e., a brain has only “male” or
+only “female” features).”
+
+Data from animals showing that the effects of sex can be different and even opposite
+under different conditions suggest that internal consistency should be poor. As I wrote in
+my response to Del Guidice on Sexnet (December 5, 2015), our method of analysis was
+“specifically designed to test the hypothesis that because the effects of sex can be
+different and even opposite under different conditions, more brains will have features at
+the two extremes of the distribution (substantial variability) compared to brains which are
+always at the same side of the distribution (internally consistent)”.
+
+We found that “even when analyses are restricted to a small number of brain regions (or
+connections) showing the largest sex/gender differences, internal consistency is rare and
+is much less common than substantial variability (i.e., being at the one end of the
+“maleness-femaleness” continuum on some elements and at the other end on other
+elements). This finding was independent of sample, age, type of imaging, method of
+analysis of the imaging data, and the specific definition of the end of the continuum”
+(Joel et al., 2015, p. 15472; see also Table S2).
+
+So THE question using our method is: which is more prevalent, substantial variability or
+internal consistency? Indeed, following my response to Del Guidice on Sexnet, Del
+Guidice and colleagues added the percent of profiles with substantial variability to all of
+their analyses. Unfortunately, at some places in their online publication, Del Guidice et al
+reported only the percent of profiles with internal consistency.
+
+
+
+
+Del Guidice and colleagues’ validation of our methodological approach
+
+Considering internal consistency and substantial variability, Del Guidice and colleagues
+provide a very elegant validation of our method, by demonstrating that it can detect a
+situation in which there are indeed two distinct populations, in this case, different primate
+species. Thus, with a cutoff of 33%, they found internal consistency in 1.1%-5.1% of
+profiles and substantial variability in 0% of profiles. So according to our criterion, this
+should be considered a situation of two distinct populations.
+
+(Obviously with an overlap between species in single facial characteristics of less than
+10%, I would have recommended using a higher cutoff, say 90%, which would have
+yielded a higher percent of internally consistent profiles, but as I stressed above and in
+the PNAS paper, what is important is not the absolute proportion of internally consistent
+profiles but the relations between internal consistency and substantial variability).
+
+So Del Guidice and colleagues reinforce our claim that human brains, in which
+substantial variability is much more common than internal consistency (regardless of the
+specific cutoff, Table S2), do not come in two distinct types, as human genitalia (and
+faces of different primate species) do.
+
+Now that we know that indeed by comparing the occurrence of internal consistency and
+substantial variability one can detect a situation of two distinct populations, we can look
+at the results of the simulations. Del Guidice and colleagues demonstrate that our method
+returns more substantially variable profiles than internally consistent profiles, unless
+correlations and/or sex/gender differences become extremely large. These simulations
+thus suggest that it is very unlikely that the categories “male” and “female” extend
+beyond the genitalia, as it is only under very high correlations or very large sex/gender
+differences that distinct “male” and “female” types would be found. We hope future
+studies of additional systems in which sex/gender differences were found (e.g., the
+immune system) would use our method to determine whether the relations between sex
+and these systems is better characterized as two distinct populations or as mosaic.
+
+
+
+
+The question of prediction
+
+Regarding the ability to predict one’s sex category on the basis of the form of one’s brain,
+as I have previously written (starting with Joel, 2011), this can clearly be done, and I am
+sure with much better accuracy than Del Guidice and colleagues achieved. However, we
+are interested in the reverse problem – whether one can predict the form of one’s brain
+(or gender) mosaic on the basis of one’s sex category. Our analysis of the data suggests
+that this is not possible.
+On difference and dimorphism
+
+For a discussion of the distinction between sex dimorphism and sex difference see
+McCarthy and Konkle (2005). In our data there was no measure showing dimorphism,
+although there were many showing sex/gender differences. In fact, our whole analysis is
+built on the existence of such differences. So we do not “call into question the very idea
+of gender differences in brain structure”, we only point to the fact that in our data there
+was no characteristic which was dimorphic.
+
+
+
+
+An open call to Richard Lippa and the other “owners” of the data from the BBC sex
+ID study to make their data available to researchers
+
+Although it would have been nice if our new approach to the study of sex had been
+embraced by everyone, we (the authors of the PNAS paper) believe we should do as
+much as possible to enable critical discussions around it. Therefore, we have decided to
+make our processed data available to all, in addition to the raw data, which have been
+made available according to PNAS guidelines. I hereby call on Richard Lippa, who is one
+of the authors of Del Guidice et al online publication, and the other “owners” of the BBC
+sex ID data to make their data available to all researchers, with no a priori conditions.
+Currently the agreement between the “owners” is that they “would not release the data to
+outside researchers unless one of us was an active collaborator with that researcher, and
+we could (and have, in fact, over the years) evaluate requests to analyze the data, or
+portions of the data. Then, we could accept or not accept such requests, based on our
+evaluations of the merits of the hypotheses, proposed analyses, qualifications of the
+researchers” (cited from an email sent to me on December 10, 2015, by Lippa, in
+response to my request for his permission to use the data).
+References:
+
+Joel, D. (2011) Male or female? Brains are intersex. Frontiers in Integrative
+Neuroscience, 5, 57
+
+Joel, D., Berman, Z., Tavor, I., Wexler, N., Gaber, O., Stein, Y., et al. (2015). Sex beyond
+the genitalia: The human brain mosaic. PNAS, 112, 15468-15473
+
+Joel, D., Fausto-Sterling, A. (in press) Beyond sex differences: New approaches for
+thinking about variation in brain structure and function. Phil. Trans. R. Soc. B.
+
+McCarthy, M.M. & Konkle, A.T.M. (2005) When is a sex difference not a sex
+difference? Front Neuroendocrinol 26, 85-102.
+

@@ -1,0 +1,142 @@
+{
+ "post": {
+  "_id": "edEXi4SpkXfvaX42j",
+  "title": "Schelling Categories, and Simple Membership Tests",
+  "postedAt": "2019-08-26T02:43:53.347Z",
+  "pageUrl": "https://www.lesswrong.com/posts/edEXi4SpkXfvaX42j/schelling-categories-and-simple-membership-tests",
+  "commentCount": 10
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "x4PishqkjFjHLfk6R",
+   "parentCommentId": null,
+   "postedAt": "2019-08-26T02:45:59.937Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Okay, Said, I used [LaTeX for the numerical subscripts](https://www.lesswrong.com/posts/cu7YY7WdgJBs3DpmJ/the-univariate-fallacy-1#es7CDJKiY3SPpXQS4) this time. I hope you're happy! (No, really\u2014I actually mean it.)"
+   }
+  },
+  {
+   "_id": "kYM7SFnHLZcTwt7qS",
+   "parentCommentId": "x4PishqkjFjHLfk6R",
+   "postedAt": "2019-08-26T05:18:07.221Z",
+   "baseScore": 2,
+   "user": {
+    "username": "SaidAchmiz",
+    "displayName": "Said Achmiz"
+   },
+   "contents": {
+    "markdown": "Much better, yes. :)"
+   }
+  },
+  {
+   "_id": "tXcMF8axEaGiaAcdN",
+   "parentCommentId": null,
+   "postedAt": "2019-08-26T18:33:34.383Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "I really appreciate the clarity of including both the math and the good examples. It may be useful to acknowledge that many of the observation/communication limits are in fact contingent on something unstated. What is it that keeps you from observing another variable or drawing better-fit categories?\n\n> but that's no reason to not *aspire* to the true precision of the [Bayes-structure](https://www.lesswrong.com/posts/QrhAeKBkm2WsdRYao/searching-for-bayes-structure) to whatever extent possible\n\nWhich brings us to the actual hard question: to what extent \\_is it\\_ possible? A lot of the time, the right answer is to notice that the compromise that's commonly made is undershooting the precision that you could handle, and determine which of your audience or conversational partners are ahead of or behind you in your modeling of the actual world. In your first example, you can ABSOLUTELY talk about financial emancipation, contract enforcement, or other adult rights that can be applied to some minors. Some things are taboo or sacred and you probably can't openly talk about them without severely violating norms, but you can still model the details inside your head to avoid truth-deflecting norms/laws.\n\nPicking the right level of detail for the person or group (or internally, topic) you're dealing with is, IMO, far more important that picking the actual sharp lines to draw on a fuzzy canvas."
+   }
+  },
+  {
+   "_id": "a4dceHPMj9q2HDp5j",
+   "parentCommentId": null,
+   "postedAt": "2019-08-26T19:01:33.776Z",
+   "baseScore": 11,
+   "user": {
+    "username": "zulupineapple",
+    "displayName": "zulupineapple"
+   },
+   "contents": {
+    "markdown": "I feel like there are several concerns mixed together, that should be separated:\n\n1\\. Lack of communication, which is the central condition of the usual Shelling points.\n\n2\\. Coordination (with some communication), where we agree to observe x41 because we don't trust the rest of the group to follow a more complex procedure.\n\n3\\. Limited number of observations (or costly observations). In that case you may choose to only observe x41, even if you are working alone, just to lower your costs.\n\nI don't think 2 and 3 have much to do with Shelling. These considerations reward simplicity. The simplest classifier and the Shelling point of a classification problem don't have to be the same thing (though they might).\n\nAlso, I feel that the second half of your post (examples) is too long and has too much stuff in it that's not clearly related to the first half (theory)."
+   }
+  },
+  {
+   "_id": "PsGS94PkFyi9DobTP",
+   "parentCommentId": null,
+   "postedAt": "2019-08-26T19:53:19.371Z",
+   "baseScore": 2,
+   "user": {
+    "username": "TurnTrout",
+    "displayName": "TurnTrout"
+   },
+   "contents": {
+    "markdown": "why wouldnt you just use x_41 all of the time if you only get one category - why is this different from what you'd pick at a gods-eye view?"
+   }
+  },
+  {
+   "_id": "uKvghBhL7gFF5YDfh",
+   "parentCommentId": null,
+   "postedAt": "2019-08-26T22:07:49.714Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "I appreciated the tie ins here with various other contexts (interrelating the philosophy of language with with schelling points as well as regressional and adversarial goodhart I expect to provide some useful hooks between all three concepts)"
+   }
+  },
+  {
+   "_id": "62cCWhBXfaE5RAMDc",
+   "parentCommentId": "x4PishqkjFjHLfk6R",
+   "postedAt": "2019-08-26T22:47:09.110Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Pattern",
+    "displayName": "Pattern"
+   },
+   "contents": {
+    "markdown": "Any tips for the rest of us?"
+   }
+  },
+  {
+   "_id": "HKKNQHFAyFGWNvKD4",
+   "parentCommentId": "a4dceHPMj9q2HDp5j",
+   "postedAt": "2019-08-26T22:50:08.350Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Pattern",
+    "displayName": "Pattern"
+   },
+   "contents": {
+    "markdown": "I think a \"Theory\" heading, and a \"Example\" heading would make for a nice compromise."
+   }
+  },
+  {
+   "_id": "j3QZqrygYrJdKfyxX",
+   "parentCommentId": "PsGS94PkFyi9DobTP",
+   "postedAt": "2019-08-28T12:19:57.482Z",
+   "baseScore": 3,
+   "user": {
+    "username": "philh",
+    "displayName": "philh"
+   },
+   "contents": {
+    "markdown": "The claim isn't that you'd never do that. The claim is that even when you wouldn't do it - even when you wouldn't even bother to look at x_41 from a God's eye perspective because it provides literally zero predictive power conditioned on x_1 through x_40 - even then, you might find that (as a human limited by human reasoning and human coordination) you get the best results when you use x_41 alone for your decision boundary."
+   }
+  },
+  {
+   "_id": "kic53Sbe7d23FhMsW",
+   "parentCommentId": null,
+   "postedAt": "2020-07-06T15:18:52.985Z",
+   "baseScore": 2,
+   "user": {
+    "username": "rudi-c",
+    "displayName": "Rudi C"
+   },
+   "contents": {
+    "markdown": "The writing style would benefit from not assuming that readers will open and read the links. A short summary (one sentence in a parenthetical) would be helpful for important links. Perhaps you\u2019re assuming Lesswrong\u2019s hover preview in choosing this style, but that hover view doesn\u2019t work in some contexts (including mobile and ereaders)."
+   }
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "post": {
+  "_id": "bqZwWQCai6iAjy4Xq",
+  "title": "\"Is There Anything That's Worth More\"",
+  "postedAt": "2023-08-02T03:28:16.116Z",
+  "pageUrl": "https://www.lesswrong.com/posts/bqZwWQCai6iAjy4Xq/is-there-anything-that-s-worth-more",
+  "commentCount": 6
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "qJ62Wo7JjMqcBTcHF",
+   "parentCommentId": null,
+   "postedAt": "2023-08-02T15:43:10.145Z",
+   "baseScore": 3,
+   "user": {
+    "username": "M. Y. Zuo",
+    "displayName": "M. Y. Zuo"
+   },
+   "contents": {
+    "markdown": "Thanks for sharing. Strongly upvoted for the well reasoned yet concise example. It's pretty hard to do."
+   }
+  },
+  {
+   "_id": "37SNta9Me9EbqBo7T",
+   "parentCommentId": null,
+   "postedAt": "2023-08-03T07:48:06.904Z",
+   "baseScore": 1,
+   "user": {
+    "username": "qv^!q",
+    "displayName": "David Joshua Sartor"
+   },
+   "contents": {
+    "markdown": "I don't understand."
+   }
+  },
+  {
+   "_id": "szFL3KKkkvzbSJFHe",
+   "parentCommentId": null,
+   "postedAt": "2023-08-03T10:54:45.046Z",
+   "baseScore": 1,
+   "user": {
+    "username": "JohnSteidley",
+    "displayName": "John Steidley"
+   },
+   "contents": {
+    "markdown": "Zack, the second line of your quoted lyrics should be \"I guess *we already...\""
+   }
+  },
+  {
+   "_id": "YRtJfcafNvfFNYMjs",
+   "parentCommentId": "szFL3KKkkvzbSJFHe",
+   "postedAt": "2023-08-03T14:58:36.582Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "(Thanks; fixed.)"
+   }
+  },
+  {
+   "_id": "ZvawpgvCe8PXLEfh4",
+   "parentCommentId": "37SNta9Me9EbqBo7T",
+   "postedAt": "2023-08-05T10:08:45.997Z",
+   "baseScore": 10,
+   "user": {
+    "username": "FeepingCreature",
+    "displayName": "FeepingCreature"
+   },
+   "contents": {
+    "markdown": "The more uncertain your timelines are, the more it's a bad idea to overstress. You should take it somewhat easy; it's usually more effective to be capable of moderate contribution over the long term than great contribution over the short term."
+   }
+  },
+  {
+   "_id": "vk62Df24v529H4FBA",
+   "parentCommentId": "ZvawpgvCe8PXLEfh4",
+   "postedAt": "2023-08-07T14:53:07.315Z",
+   "baseScore": 2,
+   "user": {
+    "username": "qv^!q",
+    "displayName": "David Joshua Sartor"
+   },
+   "contents": {
+    "markdown": "Thank you."
+   }
+  }
+ ]
+}

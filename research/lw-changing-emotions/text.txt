@@ -1,0 +1,808 @@
+ArchiveSequencesAboutSearchLog InQuestionsEventsShortformAlignment ForumAF CommentsHomeFeaturedAllTagsRecent Comments
+Changing Emotions
+
+Eliezer Yudkowsky5 Jan 2009 0:05 UTC
+55 points
+57 comments7 min readLW linkArchive
+Sex & Gender
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Lest anyone reading this journal of a primitive man should think we spend our time mired in abstractions, let me also say that I am discovering the richness available to those who are willing to alter their major characteristics. The variety of emotions available to a reconfigured human mind, thinking thoughts impossible to its ancestors…
+The emotion of -*-, describable only as something between sexual love and the joy of intellection—making love to a thought? Or &&, the true reverse of pain, not “pleasure” but a “warning” of healing, growth and change. Or (^+^), the most complex emotion yet discovered, felt by those who consciously endure the change between mind configurations, and experience the broad spectrum of possibilities inherent in thinking and being.
+—Greg Bear, Eon
+
+So… I’m basically on board with that sort of thing as a fine and desirable future. But I think that the difficulty and danger of fiddling with emotions is oft-underestimated. Not necessarily underestimated by Greg Bear, per se; the above journal entry is from a character who was receiving superintelligent help.
+
+But I still remember one time on the Extropians mailing list when someone talked about creating a female yet “otherwise identical” copy of himself. Something about that just fell on my camel’s back as the last straw. I’m sorry, but there are some things that are much more complicated to actually do than to rattle off as short English phrases, and “changing sex” has to rank very high on that list. Even if you’re omnipotent so far as raw ability goes, it’s not like people have a binary attribute reading “M” or “F” that can be flipped as a primitive action.
+
+Changing sex makes a good, vivid example of the sort of difficulties you might run into when messing with emotional architecture, so I’ll use it as my archetype:
+
+Let’s suppose that we’re talking about an M2F transformation. (F2M should be a straightforward transform of this discussion; I do want to be specific rather than talking in vague generalities, but I don’t want to parallelize every sentence.) (Oddly enough, every time I can recall hearing someone say “I want to know what it’s like to be the opposite sex”, the speaker has been male. I don’t know if that’s a genuine gender difference in wishes, or just a selection effect in which spoken wishes reach my ears.)
+
+Want to spend a week wearing a female body? Even at this very shallow level, we’re dealing with drastic remappings of at least some segments of the sensorimotor cortex and cerebellum—the somatic map, the motor map, the motor reflexes, and the motor skills. As a male, you know how to operate a male body, but not a female one. If you’re a master martial artist as a male, you won’t be a master martial artist as a female (or vice versa, of course) unless you either spend another year practicing, or some AI subtly tweaks your skills to be what they would have been in a female body—think of how odd that experience would be.
+
+Already we’re talking about some pretty significant neurological changes. Strong enough to disrupt personal identity, if taken in one shot? That’s a difficult question to answer, especially since I don’t know what experiment to perform to test any hypotheses. On one hand, billions of neurons in my visual cortex undergo massive changes of activation every time my eyes squeeze shut when I sneeze—the raw number of flipped bits is not the key thing in personal identity. But we are already talking about serious changes of information, on the order of going to sleep, dreaming, forgetting your dreams, and waking up the next morning as though it were the next moment. Not informationally trivial transforms like uploading.
+
+What about sex? (Somehow it’s always about sex, at least when it’s men asking the question.) Remapping the connections from the remapped somatic areas to the pleasure center will… give you a vagina-shaped penis, more or less. That doesn’t make you a woman. You’d still be attracted to girls, and no, that would not make you a lesbian; it would make you a normal, masculine man wearing a female body like a suit of clothing.
+
+What would it take for a man to actually become the female version of themselves?
+
+Well… what does that sentence even mean? I am reminded of someone who replied to the statement “Obama would not have become President if he hadn’t been black” by saying “If Obama hadn’t been black, he wouldn’t have been Obama” i.e. “There is no non-black Obama who could fail to become President”. (You know you’re in trouble when non-actual possible worlds start having political implications.)
+
+The person you would have been if you’d been born with an X chromosome in place of your Y chromosome (or vice versa) isn’t you. If you had a twin female sister, the two of you would not be the same person. There are genes on your Y chromosome that tweaked your brain to some extent, helping to construct your personal identity—alleles with no analogue on the X chromosome. There is no version of you, even genetically, who is the opposite sex.
+
+And if we halt your body, swap out your Y chromosome for your father’s X chromosome, and restart your body… well. That doesn’t sound too safe, does it? Your neurons are already wired in a male pattern, just as your body already developed in a male pattern. I don’t know what happens to your testicles, and I don’t know what happens to your brain, either. Maybe your circuits would slowly start to rewire themselves under the influence of the new genetic instructions. At best you’d end up as a half-baked cross between male brain and female brain. At worst you’d go into a permanent epileptic fit and die—we’re dealing with circumstances way outside the evolutionary context under which the brain was optimized for robustness. Either way, your brain would not look like your twin sister’s brain that had developed as female from the beginning.
+
+So to actually become female...
+
+We’re talking about a massive transformation here, billions of neurons and trillions of synapses rearranged. Not just form, but content—just like a male judo expert would need skills repatterned to become a female judo expert, so too, you know how to operate a male brain but not a female brain. You are the equivalent of a judo expert at one, but not the other. You have cognitive reflexes, and consciously learned cognitive skills as well.
+
+If I fell asleep and woke up as a true woman—not in body, but in brain—I don’t think I’d call her “me”. The change is too sharp, if it happens all at once.
+
+Transform the brain gradually? Hm… now we have to design the intermediate stages, and make sure the intermediate stages make self-consistent sense. Evolution built and optimized a self-consistent male brain and a self-consistent female brain; it didn’t design the parts to be stable during an intermediate transition between the two. Maybe you’ve got to redesign other parts of the brain just to keep working through the transition.
+
+What happens when, as a woman, you think back to your memory of looking at Angelina Jolie photos as a man? How do you empathize with your past self of the opposite sex? Do you flee in horror from the person you were? Are all your life’s memories distant and alien things? How can you remember, when your memory is a recorded activation pattern for neural circuits that no longer exist in their old forms? Do we rewrite all your memories, too?
+
+Well… maybe we could retain your old male brainware through the transformation, and set up a dual system of male and female circuits… such that you are currently female, but retain the ability to recall and empathize with your past memories as if they were running on the same male brainware that originally laid them down...
+
+Sounds complicated, doesn’t it? It seems that to transform a male brain into someone who can be a real female, we can’t just rewrite you as a female brain. That just kills you and replaces you with someone re-imagined as a different person. Instead we have to rewrite you as a more complex brain with a novel, non-ancestral architecture that can cross-operate in realtime between male and female modes, so that a female can process male memories with a remembered context that includes the male brainware that laid them down.
+
+To make you female, and yet still you, we have to step outside the human design space in order to preserve continuity with your male self.
+
+And when your little adventure is over and you go back to being a man—if you still want to, because even if your past self wanted to go back afterward, why should that desire be binding on your present self?—then we’ve got to keep the dual architecture so you don’t throw up every time you remember what you did on your vacation.
+
+Assuming you did have sex as a woman, rather than fending off all comers because because they didn’t look like they were interested in a long-term relationship.
+
+But then, you probably would experiment. You’ll never have been a little girl, and you won’t remember going through high school where any girl who slept with a boy was called a slut by the other girls. You’ll remember a very atypical past for a woman—but there’s no way to fix that while keeping you the same person.
+
+And all that was just what it takes to ranma around within human-space, from the male pole to the female pole and back again.
+
+What if you wanted to move outside the human space entirely?
+
+In one sense, a sex change is admittedly close to a worst-case scenario: a fixed target not optimized for an easy transition from your present location; involving, not just new brain areas, but massive coordinated changes to brain areas already in place.
+
+It might be a lot easier to just add one more emotion to those already there. Maybe.
+
+In another sense, though, a sex change is close to a best-case scenario: the prototype of your destination is already extensively tested as a coherent mind, and known to function well within a human society that already has a place for it (including companions to talk to).
+
+It might be a lot harder to enter uncharted territory. Maybe.
+
+I’m not saying—of course—that it could never, ever be done. But it’s another instance of the great chicken-and-egg dilemma that is the whole story of present-day humanity, the great challenge that intelligent life faces in its flowering: growing up is a grownup-level problem. You could try to build a cleanly-designed artificial grownup (self-improving Friendly AI) to foresee the pathway ahead and chart out a nonfatal course. Or you could plunge ahead yourself, and hope that you grew faster than your problems did.
+
+It’s the same core challenge either way: growing up is an adult problem. There are difficult ways out of this trap, but no easy ones; extra-ordinary solutions, but no ordinary ones. People ask me why I take all these difficulties upon myself. It’s because all the easier ways, once you examine them in enough fine detail, turn out to be illusions, or contain just as much difficulty themselves—the same sort of hidden difficulty as “I’d like to try being the opposite sex for a week”.
+
+It seems to me that there is just an irreducible residue of very hard problems associated with an adult version of humankind ever coming into being.
+
+And emotions would be among the most dangerous targets of meddling. Make the wrong shift, and you won’t want to change back.
+
+We can’t keep these exact human emotions forever. Anyone want to still want to eat chocolate-chip cookies when the last sun grows cold? I didn’t think so.
+
+But if we replace our emotions with random die-rolls, then we’ll end up wanting to do what is prime, instead of what’s right.
+
+Some emotional changes can be desirable, but random replacement seems likely to be undesirable on average. So there must be criteria that distinguish good emotional changes from bad emotional changes. What are they?
+
+What links here?
+The Fun The­ory Sequence by Eliezer Yudkowsky (25 Jan 2009 11:18 UTC; 122 points)
+
+31 Laws of Fun by Eliezer Yudkowsky (26 Jan 2009 10:13 UTC; 119 points)
+
+If Clar­ity Seems Like Death to Them by Zack_M_Davis (30 Dec 2023 17:40 UTC; 51 points)
+
+Con­ver­sa­tions With Cade Metz on the Rationalists by Zack_M_Davis (1 Jul 2026 22:19 UTC; 50 points)
+
+The Thing That I Protect by Eliezer Yudkowsky (7 Feb 2009 19:18 UTC; 47 points)
+
+Blan­chard’s Danger­ous Idea and the Plight of the Lu­cid Crossdreamer by Zack_M_Davis (8 Jul 2023 18:03 UTC; 36 points)
+
+Agree­ing With Stalin in Ways That Ex­hibit Gen­er­ally Ra­tion­al­ist Principles by Zack_M_Davis (2 Mar 2024 22:05 UTC; 35 points)
+
+A Hill of Val­idity in Defense of Meaning by Zack_M_Davis (15 Jul 2023 17:57 UTC; 28 points)
+
+Emo­tional Involvement by Eliezer Yudkowsky (6 Jan 2009 22:23 UTC; 28 points)
+
+Z_M_Davis's comment on A Parable On Ob­so­lete Ideologies by Scott Alexander (18 May 2009 2:07 UTC; 20 points)
+
+Zack_M_Davis's comment on Con­tain­ment Thread on the Mo­ti­va­tion and Poli­ti­cal Con­text for My Philos­o­phy of Lan­guage Agenda by Zack_M_Davis (27 Feb 2022 3:29 UTC; 10 points)
+
+Zack_M_Davis's comment on Con­tain­ment Thread on the Mo­ti­va­tion and Poli­ti­cal Con­text for My Philos­o­phy of Lan­guage Agenda by Zack_M_Davis (16 May 2021 2:12 UTC; 10 points)
+
+Utopic Nightmares by Jozdien (14 May 2021 21:24 UTC; 10 points)
+
+MBlume's comment on My Way by Eliezer Yudkowsky (17 Apr 2009 4:48 UTC; 7 points)
+
+[SEQ RERUN] Chang­ing Emotions by MinibearRex (22 Jan 2013 5:55 UTC; 5 points)
+
+CronoDAS's comment on Pro­ce­du­ral Knowl­edge Gaps by Alicorn (14 Jul 2013 22:52 UTC; 4 points)
+
+Vladimir_Nesov's comment on In­tel­li­gence en­hance­ment as ex­is­ten­tial risk mitigation by Roko (16 Jun 2009 12:58 UTC; 4 points)
+
+Eliezer Yudkowsky's comment on Undis­crim­i­nat­ing Skepticism by Eliezer Yudkowsky (15 Mar 2010 21:26 UTC; 1 point)
+
+MugaSofer's comment on Harry Pot­ter and the Meth­ods of Ra­tion­al­ity dis­cus­sion thread, part 18, chap­ter 87 by Alsadius (24 Dec 2012 4:48 UTC; 0 points)
+
+infotropism's comment on Our so­ciety lacks good self-preser­va­tion mechanisms by Roko (14 Jul 2009 21:39 UTC; 0 points)
+
+Eliezer Yudkowsky5 Jan 2009 0:05 UTC
+55 points
+57 comments7 min readLW linkArchive
+Sex & Gender
+
+Post permalinkLink without commentsLink without top nav barsLink without comments or top nav bars
+
+Part of the sequence:Fun TheoryPrevious: Grow­ing Up is HardNext: Emo­tional Involvement
+
+simon2 5 Jan 2009 1:52 UTC
+1 point
+
+1
+
+Strong enough to disrupt personal identity, if taken in one shot? That’s a difficult question to answer, especially since I don’t know what experiment to perform to test any hypotheses. On one hand, billions of neurons in my visual cortex undergo massive changes of activation every time my eyes squeeze shut when I sneeze—the raw number of flipped bits is not the key thing in personal identity. But we are already talking about serious changes of information, on the order of going to sleep, dreaming, forgetting your dreams, and waking up the next morning as though it were the next moment.
+
+It sounds as if you believe in a soul (or equivalent) that is “different” for some set of possible changes and “the same” for other possible changes. I would suggest that that whether an entity at time n+1 is the same person as you at time n is not an objective fact of the universe. Humans have evolved so that we consider the mind that wakes up in the body of the mind that went to sleep to be the same person, but this intuitive sense is not an intuitive understanding of an objective reality; one could modify oneself to consider sleep to disrupt identity, and this would not be a “wrong” belief but just a different one.
+
+I think most people are most comfortable retaining their evolution-given intuitions where they are strong, but where they are weak I think it is a mistake to try to overgeneralize them; instead one should try to shape them consciously. If you want to try being female for a while, why spoil your fun with hang ups about identity? Just decide that it’s still you.
+
+Anonymous49 5 Jan 2009 2:07 UTC
+8 points
+
+0
+
+Congratulations on the coining of “to ranma around”.
+
+TreeFrog 5 Jan 2009 2:43 UTC
+−2 points
+
+0
+
+Any Kwisatz Haderach can totally do this with the Spice of Life and certain Fremen rituals...
+
+pdf23ds 5 Jan 2009 2:50 UTC
+15 points
+
+1
+
+Intuitions about personal identity are probably incoherent under an increased understanding of the mind, just like free will is.
+
+frelkins 5 Jan 2009 2:53 UTC
+10 points
+
+0
+
+@Anon
+
+“ranma”
+
+It’s no curse to be a girl, honestly.
+
+@Simon
+
+“If you want to try being female for a while”
+
+I mean, if anyone wants to check it out, just try Second Life. Most guys who try it tho’ in my experience scarcely last a day—if you think it’s hard to talk to girls as a guy, try to see if you can manage to talk to girls as a girl—they flunk the shoe chatter and reveal themselves quickly.
+
+I know only two who are convincing for more than a couple of hours in regular conversation—and one of them is a filmmaker who writes screenplays for a living, which is how he learned to really “hear” and create feminine dialog.
+
+Kip3 5 Jan 2009 3:42 UTC
+0 points
+
+0
+
+Great post.
+
+You seem to think of personal identity (PI) as a brittle thing, easily broken.
+
+I want to note that the issue you raise, about whether PI is thick or thin (e.g. thick to the point of brittleness), seems to divide compatibilists and incompatibilists: compatibilists think PI is thick, incompatibilists thin. Consistent with my interpretation, you both (i) defend a thick notion of PI and (ii) strongly sympathize with compatibilism. Note that Daniel Dennett, another compatibilist (whom you seem fond of), raises many of the same objections about people-switching and memory-wiping at the end of Freedom Evolves (in particular, in criticizing Mele’s view).
+
+Here’s how the issue of PI divides compatibilists and incompatibilists. Suppose PI is thin. In fact, suppose that PI is just associated with numerical identity (in the philosophical sense). Numerical identity, as I will call it, just picks out one particular thing in world, and tracks it, even if the thing slowly evolves into a competely different TYPE of thing.
+
+The classic example is Theseus’s ship. Is it still the same ship? Incompatibilists will say yes. This will still tend to be true, even if the ship slowly morphs into a completely different kind of ship.
+
+Compatibilists say no. They focus on, not on picking out and tracking an evolving object, but on expressing characteristics and features of a person. What matters to them is that angry people can express anger, throw punches, and start fights, without being held back by chains; and sad people can cry and lie in bed all day, without being held back by chains. Compatibilists, in short, are concerned with a freedom that nobody doubts most people have most of the time.
+
+Incompatibilists, rather than being concerned by this shallow freedom, are concerned with how people came to be the types of people they are. In particular, they are concerned with the idea that, if people did not control how they came to be who they are, and if what they do flows naturally and inevitably from who they are, how fair it is to hold them responsible and accountable.
+
+Michael_G.R. 5 Jan 2009 4:24 UTC
+4 points
+
+0
+
+“so you don’t throw up every time you remember what you did on your vacation.”
+
+Oh man. If this AI thing doesn’t work out, maybe you can try comedy?
+
+I read on some skeptics blog that Jim Carey left $50 million to Jenny McCarthy. That sure could fund the SIAI for a while...
+
+adept42 5 Jan 2009 4:49 UTC
+15 points
+
+0
+
+You seem premising this post on the idea that gendered behavior is hard-wired into the brain at birth, and I think it would be a good to take a second look at that assumption; after all the name of this site is “Overcoming Bias” isn’t it? Your premise is such a common belief in our society that it’s easy to overlook, and very few cisgender people (those with the same gender identity as the one assigned them at birth) ever think to question it. However, it’s important to acknowledge that there are two different sets of sex/​gender traits we observe in different ways: the biologically observable sex of someone’s body, and the social set of behaviors associated with each gender; most transgender people like me use “sex” to refer to biological traits and “gender” to refer to social behaviors. There is some evidence that biology can impact some social behaviors we associate with the two genders, but there’s nothing close to a complete picture how you go from microcosmic biology to macrocosmic actions. Therefore, since we can only observe gendered behaviors through social interaction the presumption should be each behavior has a social origin; biology carries the burden of proof to prove otherwise on a case-by-case basis.
+
+I’m MTF (post-op, for what it’s worth) and my experience has been that gender identity works like any other social identity; it’s nothing more or less than a way you want to see yourself and be seen by others. I couldn’t explain to you why being a woman works for me and being a man doesn’t, but we don’t expect anyone else shifting their identity to justify themselves that way. An analogy I like to use is someone changing their religion; we take them at their word when they say a different way of seeing themselves and their place in the world just seems more true to them. However, our society is much less tolerant of people like me who don’t want to live with the gender identity assigned us at birth because it conflates sex and gender; in a better world, transgender people wouldn’t have to change our physical sex for our gender to be accepted.
+
+Well intentioned and intelligent people can disagree in the “nature vs nurture” debate on gender; it’s been a contentious issue in feminist and LGBT theory for at least half a century. However, I would hope you realize the danger of assuming all gendered traits are “hard wired” into the brain; amongst other problems, that can support the idea that the much greater incidence of men committing acts of violence is “natural male aggression” that we can’t ever eliminate.
+
+Finally, I’d like to ask a question posed to me by one of my law school professors: “Have you ever dreamed you were a different species, a different race, or a different gender?” In our class, as in every other one where he’s taken this survey, far more people said they’d dreamed of being an animal than dreamed of a different race or gender. Why should this happen since being an animal is so much farther removed from our life experience? The answer he proposed is that we work hard to construct a mental barrier defining our gender and racial identities; we never have to try to be human, and so it’s easier to let ourselves play with dropping that identity. I don’t mean to suggest that we can really sympathize with animals, but I do think we understand what it means to be a different gender or race more than we’d like to admit.
+
+Doug_S. 5 Jan 2009 4:52 UTC
+21 points
+
+0
+
+“give you a vagina-shaped penis, more or less”
+
+Nitpick: You’d end up with a clitoris-shaped penis, and a vagina-shaped scrotum. I know this because I’ve read about sexual anatomy and embryonic development on the Internet. The bit of flesh that turns into the penis in a male fetus develops into the clitoris in a female, and the closest male equivalent to the vagina is the scrotum.
+
+Incidentally, simply “wearing a female body like a suit of clothing” and letting the brain react to the different hormones, body shape, etc., with its natural plasticity might be close enough to what people mean, anyway.
+
+(Oh, and Ranma still considers himself male even during those times when he happens to be stuck in a female body for a while.)
+
+What links here?
+CronoDAS's comment on Chang­ing Emotions by Eliezer Yudkowsky (27 Oct 2013 14:18 UTC; 3 points)
+
+frelkins 5 Jan 2009 5:10 UTC
+7 points
+
+0
+
+@adept42
+
+Thank you for such an honest telling of your perspective. It’s very moving. I embrace you.
+
+“that gendered behavior is hard-wired into the brain at birth”
+
+Eli I think here is very careful to say “genes on your Y chromosome that tweaked your brain to some extent”—note the some, he avoids speculating as to how much—and uses the term “emotional architecture” as well as correctly in his comments distinguishing between the terms sex and gender. As a cisgendered F, I hope you will accept my word that Eli is scrupulous in his language here and well-intentioned.
+
+I find neither Robin nor Eli are narrow-minded in these things. I hope you will join the OB community on a regular basis.
+
+frelkins 5 Jan 2009 5:16 UTC
+3 points
+
+0
+
+@Doug S
+
+“stuck”
+
+Stuck!?!? Tiresias is said to have enjoyed his time as a woman: “Of ten parts a man enjoys one only.” Ahem.
+
+DonGeddis 5 Jan 2009 5:33 UTC
+4 points
+
+0
+
+I agree with Doug S. What most people think about, when they want to “try being female for awhile”, is to keep their same mind (or perhaps they believe in a soul) while just trying out different clothing. Basically, be in The Matrix, but just get instantiated as the Woman in the Red Dress for a week. Or maybe more like the movie Strange Days, with a technology that’s like TV (but better!), kind of like virtual reality. Like watching a movie, but using all your senses, and really getting immersed into it.
+
+I don’t think most men imagine actually thinking like a woman’s brain thinks. As you say, that wouldn’t really be them any longer.
+
+Z._M._Davis 5 Jan 2009 5:45 UTC
+15 points
+
+0
+
+Eliezer: “[E]very time I can recall hearing someone say ‘I want to know what it’s like to be the opposite sex’, the speaker has been male. I don’t know if that’s a genuine gender difference in wishes [...]”
+
+sighs There’s a name for it.
+
+Eliezer: “Strong enough to disrupt personal identity, if taken in one shot?”
+
+Is it cheating if you deliberately define your personal identity such that the answer is No?
+
+Frelkins: “I mean, if anyone wants to check it out, just try Second Life.”
+
+Not exactly what we’re looking for, unfortunately …
+
+Frelkins: “[T]hey flunk the shoe chatter and reveal themselves quickly.”
+
+Surely you’re not literally claiming that there are no women who aren’t good at shoe chatter. Maybe in Second Life there are enough men using female avatars such that P(male-in-RL | female-avatar-bad-at-shoe-chatter) really is greater than P(female-in-RL | female-avatar-bad-at-shoe-chatter). But I should hope that being a woman or man is not conflated with behaving in gender-typical ways, for to do so is to deliberately ignore the nontrivial amount of variation in actually existing women and men.
+
+Frelkins, in the other thread, you said you were saddened by Tino Sehgal’s Edge answer about the end of masculinity as we know it, and you asked, “Why do even men hate men nowadays?” Well, please take my word for it that Sahgal and friends don’t literally hate men. Rather, we just find it kind of obnoxious that far too often, being male is systematically conflated with talking about porn or football or whatever it is that “guys’ guys” talk about (I wouldn’t know—or I wish that I didn’t). I hope I am not misunderstood—of course there is nothing wrong with being typically feminine or masculine. It’s just that there should be other options.
+
+adept42: “Therefore, since we can only observe gendered behaviors through social interaction the presumption should be each behavior has a social origin; biology carries the burden of proof to prove otherwise on a case-by-case basis.”
+
+I really don’t think that follows. These empirical questions aren’t like a court trial, where “nature” is the prosecution and “nurture” is innocent until proven guilty (cf. Eliezer’s “The Scales of Justice, the Notebook of Rationality”). Rather, for each question, we must search for evidence and seek out the most accurate belief possible, being prepared to update as new evidence comes in. Sometimes this is very painful, when there’s something you desperately want to be true, and you’re afraid of the evidence. But we must be brave together, else we be utterly deceived. And what would we do then?
+
+What links here?
+Blan­chard’s Danger­ous Idea and the Plight of the Lu­cid Crossdreamer by Zack_M_Davis (8 Jul 2023 18:03 UTC; 36 points)
+
+juliawise 3 Oct 2011 23:17 UTC
+5 points
+
+0
+Parent
+
+My guess is that non-shoe-chattering women have more practice than men at identifying other non-shoe-chatterers. But also that even most women who aren’t interested in shoes learn to do a little.
+
+When I moved to Denmark, I wasn’t good at finding Danes I wanted to be friends with. Then I realized I didn’t want to be friends with most Americans, but I was better at finding kindred spirits in America because I had more practice at reading Americans.
+
+Nisan 4 Oct 2011 0:34 UTC
+1 point
+
+0
+Parent
+
+Did you learn anything about reading Danes? I’m going to spend a few months there soon.
+
+juliawise 5 Oct 2011 11:35 UTC
+5 points
+
+0
+Parent
+
+Not much. In Copenhagen, 95% of young women wear a lot of eye makeup. I have a theory that there’s something significant about the 5% who don’t, but I never really found out. Christiania is a place to look for counter-cultural types, though some of that centers on drug use.
+
+Eliezer Yudkowsky 5 Jan 2009 6:07 UTC
+19 points
+
+0
+
+Adept42, there really are such things as sex differences, not just gender differences; the verdict of the experimental evidence on this is definite. See e.g. The Blank Slate by Pinker. (Though of course I’m quite willing to believe that there are alternate Everett branches where men wear skirts and women wear pants, etc.)
+
+There are different reasons why people go transgender. But a transgender of the sort who’s always known, growing up, that they were one of the girls rather than one of the boys (or vice versa), knows on a very visceral that sex is hardwired into the brain at a level that transcends your suit of flesh or anything socially expected of you. In fact, a transgender did look at an earlier version of this essay and say, more or less, “Yeah, that’s right.”
+
+I understand that there are a lot of things attributed to sex that ought to be attributed to gender. But if brains were not sexually typed, brains born into the wrong bodies wouldn’t be in such awful straits—they could just construct a gender that matched their body. Yes, there are androgynous men and women, bisexuals, people who go transgender for other reasons… But to deny that many brains are strongly sexually typed is to deny the very real problems of a male brain born into a female body or vice versa.
+
+espoire 7 Feb 2024 6:39 UTC
+5 points
+
+0
+Parent
+
+I’m transgender myself, currently a few years into transition, and I actually experienced some of the issues you predicted above.
+
+I did need to relearn basic locomotion as my body shape changed over months. I started hormone replacement in early winter, and when I resumed distance running in the late spring, I was surprised to discover that I needed to relearn how to run. My gait was different enough that running took actual focus just to avoid falling down.
+
+I also experienced a pretty bizarre period of about a year where my body had changed substantially, but my sensory map of my body hadn’t. That issue eventually corrected itself, and as it did, I became unable to remember what it felt like to have my original configuration. A bunch of old memories lost that detail, though the remainder of those memories remain intact.
+
+...and that’s just from bodily changes.
+
+I strongly agree with your thesis. Altering the mind is hard. Faced with a mismatch between my body and my mind, changing the mind to match my body or vice versa would have been equally good solutions. Changing the body is so much easier, which is why I chose that path.
+
+Doug_S. 5 Jan 2009 6:09 UTC
+11 points
+
+0
+
+frelkins: Well, Ranma isn’t Tiresias. The Ranma 1⁄2 manga was written by a woman, if that changes anything.
+
+Here’s a little bit of silliness. Inquest Gamer magazine once ran a poll asking people to choose between various (silly) options of which horrible fate they would prefer to endure. One was a choice between “Randomly change the Magic rules each time you create a killer deck” and “Randomly change your gender each time you go to sleep.” “Gender” won by a large margin.
+
+Lethalmud 28 Jun 2013 8:46 UTC
+0 points
+
+0
+Parent
+
+That is an awfull fate. RIP mana burn deck..
+
+[deleted] 5 Jan 2009 10:14 UTC
+8 points
+
+0
+
+I’m a female who would love to experience what it’s like to be a male. When I say that, I find the concept fascinating that I would be able to experience the full onslaught of adult-male thinking and being (preferably a geeky rationalist, “traditional masculinity” as mentioned earlier doesn’t interest me as much) and somehow retain that knowledge. Then again, I don’t actually feel the need to literally have the physical body of a man, as long as I just thought I did.
+It does appear rather complicated.
+
+Vladimir_Slepnev 5 Jan 2009 13:07 UTC
+−4 points
+
+0
+
+Eliezer is attacking human augmentation for the same reason he attacked subsumption arch: to rationalize his working on from-scratch AI. I don’t yet see quantifiable arguments why from-scratch AI is easier.
+
+TGGP4 5 Jan 2009 17:51 UTC
+2 points
+
+0
+
+However, I would hope you realize the danger of assuming all gendered traits are “hard wired” into the brain; amongst other problems, that can support the idea that the much greater incidence of men committing acts of violence is “natural male aggression” that we can’t ever eliminate.
+Leaving aside the question of whether or not that belief is accurate, if it hypothetically was would you still discourage someone from voicing it for reasons other than truth?
+
+Allan_Crossman 5 Jan 2009 18:00 UTC
+3 points
+
+0
+
+that can support the idea that the much greater incidence of men committing acts of violence is “natural male aggression” that we can’t ever eliminate.
+
+The whole point of civilisation is to defeat nature and all its evils.
+
+binary 13 Mar 2010 15:37 UTC
+1 point
+
+0
+Parent
+
+I don’t think trying to `defeat nature’ is a very constructive way of thinking, rather we should be working with nature to improve all life.
+
+Tim_Tyler 5 Jan 2009 18:52 UTC
+2 points
+
+0
+
+Intelligent machines will not really be built “from scratch” because augmentation of human intelligence by machines makes use of all the same technology as is present is straight machine intelligence projects, plus a human brain. Those projects have the advantage of being competitive with humans out of the box—and they interact synergetically with traditional machine intelligence projects. For details see my intelligence augmentation video/​essay.
+
+The thing that doesn’t make much sense is building directly on the human brain’s wetware with more of the same. Such projects are typically banned at the moment—and face all kinds of technical problems anyway.
+
+Cyan2 5 Jan 2009 19:15 UTC
+0 points
+
+0
+
+I don’t yet see quantifiable arguments why from-scratch AI is easier [than human augmentation].
+
+From-scratch AI could also be justified as yielding greater benefits even if it as difficult (or more difficult) than human augmentation.
+
+Eunuch 5 Jan 2009 21:00 UTC
+1 point
+
+0
+
+I had an elective castration, and lived as a eunuch for awhile with no hormone replacement. I later had some testosterone replacement. Through all this, I didn’t feel like I became a different person. If anything, I became focused on transhumanism more. Any questions?
+
+Lord 5 Jan 2009 22:29 UTC
+−5 points
+
+0
+
+Is AI possible without emotion? Seems doubtful. Without interaction? Not even in the exchange of ideas and thoughts? Without gender? Hmmm.
+
+Vladimir_Nesov 5 Jan 2009 23:00 UTC
+1 point
+
+0
+
+Lord: see Points of Departure.
+
+Abigail 6 Jan 2009 14:03 UTC
+9 points
+
+0
+
+Z M Davis, “Autogynephilia” is a theory, based on the observation that some M-F transsexual people are sexually aroused by female behaviour, which imagines that the arousal causes the desire to appear female. However, in reality the desire may be caused by other circumstances, such as innate brain differences, and supporters of autogynephilia theory have not established the causal link.
+
+It is a failure of the imagination, an attempt to enforce the map on the reality. There are men, and there are women, in the map. Here is a woman with testicles. The map says that cannot be so, the person is a man. However, reality ought to trump the map.
+
+The point of the post still stands. A man does not use a woman’s body, and would have to learn how to do so. A man does not use a woman’s brain, and would have to learn how to do so. Whether after the change was made it was “the same person” depends on what you mean by “the same person”. Upgrading an adult brain is a very difficult problem.
+
+What links here?
+Zack_M_Davis's comment on Am I Really an X? by Gram_Stone (7 Mar 2017 3:27 UTC; 22 points)
+
+Z._M._Davis 6 Jan 2009 17:10 UTC
+2 points
+
+0
+
+Abigail, I don’t think we actually disagree. I certainly wouldn’t defend the strong Bailey/​Blanchard thesis that transwomen can be neatly sorted into autogynephiles and gay men. However, I am confident that autogynephilia is a real phenomenon in at least some people, and that’s all I was trying to refer to in my earlier comment—sorry I wasn’t clearer.
+
+Zack_M_Davis 13 Sep 2016 13:59 UTC
+1 point
+
+0
+Parent
+
+I certainly wouldn’t defend the [...] thesis
+
+“Wouldn’t defend” is an interestingly ambiguous phrase!—it could mean “I don’t think the thesis is true,” or it could mean “I think the thesis is true, but I’m not going to argue for it here.” The thing to remember is that the ambiguity is meant for the listener, not the speaker; it’s important not to let your sensible caution about what beliefs you’re willing to argue for under your True Name distort your model of the true state of reality. And precisely because other people are also cautious about what they’re willing to argue for, there could be all sorts of important truths—actionable information that you can use to make important life decisions better—that take special rationality skills to discover, that you won’t automatically learn about just by reading what almost everyone says, because almost everyone is too cowardly to just say the Really Obvious Thing.
+
+This, unfortunately, is why you probably won’t understand what I’m talking about for another seven years and eight months.
+
+ChristianKl 13 Sep 2016 14:27 UTC
+0 points
+
+0
+Parent
+
+“Wouldn’t defend” is an interestingly ambiguous phrase!—it could mean “I don’t think the thesis is true,” or it could mean “I think the thesis is true, but I’m not going to argue for it here.”
+
+That sounds like “thesis is true” or “thesis is not true” are reasonable positions. Bayesian beliefs have probabilities attached to them.
+
+There are also other reasons why one might not argue for giving a belief a high credence. I might hold my belief based on a variety of personal experiences that I can’t condense into a post. I might also hold it based on confidential information that I’m not willing to share.
+
+Zack_M_Davis 3 Oct 2016 22:24 UTC
+6 points
+
+0
+Parent
+
+That sounds like “thesis is true” or “thesis is not true” are reasonable positions. Bayesian beliefs have probabilities attached to them.
+
+Sometimes, even people who understand Bayesian reasoning use idiomatic phrases like “believe is true” as a convenient shorthand for “assign a high probability to”! I can see how that might be confusing!
+
+ChristianKl 4 Oct 2016 17:48 UTC
+−1 points
+
+0
+Parent
+
+Most of the beliefs of the “I wouldn’t defend it publically” are neither >0.999 credence or <0.001 and it’s worthwhile to mentally categories them differently.
+
+Zack_M_Davis 4 Oct 2016 18:55 UTC
+6 points
+
+0
+Parent
+
+Again, people sometimes use idiomatic English to describe subjective states of high confidence that do not literally correspond to probabilities greater than 0.999! (Why that specific threshold, anyway?)
+
+You know, I take it back; I actually can’t see how this might be confusing.
+
+Hope_WA 7 Jan 2009 1:17 UTC
+6 points
+
+0
+
+I have strong reservations about the completely unsupported theory of autogynephilia. As Abigail wrote, it is a theory posited by someone with a limited imagination, who can only see a world in which gender and sexuality are linked, instead of independent of each other. Like the captain said in Cool Hand Luke, “What we have here is a failure to communicate.”
+
+There is strong evidence that the brain is sexed from birth. One example is the research being done by Zhou, Hofman, Gooren and Swaab and another is the body mapping research being done by V. S. Ramachandran at U.C. San Diego. There is not enough evidence to propose a strictly binary model, where a person’s brain is either male or female with no variations in between, but there also isn’t any evidence supporting the idea that each person’s brain falls somewhere on a spectrum between male and female. Any evidence that the brain is inherently sexed, hardwired from birth with both a sexual identity and male or female body map contradicts the theory of autogynephilia.
+The problem that we run into is that our language has not evolved enough to adequately discuss gender and transsexuality. It has also not evolved enough to adequately describe the experience of being the sex opposite to the one a person is born into. Let’s say that someone is considered a “normal” male or a “normal” female. For simplicities sake, I will use someone born female as my example.
+That person would be:
+Biologically female—This is a more complex question than simply saying that the person has XX chromosomes. The most common accepted biological definition is that this person does not have an active SRY gene, which would mean that her Mullerian ducts would develop into female reproductive anatomy instead of her wolffian ducts developing into the corresponding male anatomy and her gonads would develop into ovaries instead of testes.
+
+Gendered female – Having a brain which is hard-wired female by the proper hormonal influences in the womb
+
+Anatomically female
+
+Socialized female – Raised in a manner consistent with her anatomy in the culture she lives in
+
+On top of the previous variable, layer sexual orientation. The majority of “normal” women are sexually attracted primarily to males. I am not making a value judgment here, just expressing what the majority is. Most rational people would concede that sexual orientation is an innate trait as well. If we take this person, biologically, anatomically, gendered, and socialized female with a sexual attraction to males, what would it mean for her to live as a “male but ‘otherwise identical’ copy of herself”. It would require someone biologically, anatomically, gendered, and socialized male. It seems that to make that many fundamental changes to an individual would cause that person to have a completely foreign identity to the original person. If I replace every part on a 1976 Chevrolet Chevette, part by part, structure by structure, with the parts from a 2009 Chevrolet Corvette, modifying and re-modifying the parts as needed, until there are none of the original parts of the Chevette left, and all the Corvette’s parts are in place, is it still the same car? It seems hard to believe it is.
+
+Is sexual orientation part of this discussion, or is it a trait unrelated to maleness and femaleness? I would argue that the two are separate, and only useful to define homosexual and heterosexual, rather than implying anything about a person’s gender. The situation becomes even more complex when considering someone who is transsexual. What defines homosexuality in their case? Is it their anatomy, their biology, or the gender of their brain? When are two people considered to be the same sex? These are questions ignored by Blanchard, Bailey, and Lawrence, as well as anyone else who believes that autogynephilia has any merits as a valid theory of transsexualism.
+
+What links here?
+Zack_M_Davis's comment on Am I Really an X? by Gram_Stone (7 Mar 2017 3:27 UTC; 22 points)
+
+Sebastian_Conolly 8 Jan 2009 19:32 UTC
+7 points
+
+0
+
+This is an interesting post, but you’re a failing to distinguish between becoming a member of the opposite sex, and becoming a typical member of that sex, or the person that you’d have been if you were born with the same brain but different chromosomes.
+
+The former has a much broader range of outcomes, and there’s no unique set of characteristics or experiences that define ‘man’ or ‘woman’ - just a bunch of correllations.
+
+Tiresias 9 Jan 2009 8:15 UTC
+6 points
+
+0
+
+Hi folks,
+
+I’m an occasional contributor dropping in under another name to talk a bit about autogynephilia and what it might have to do with Eliezer’s original post.
+
+Z.M Davis said:
+
+Abigail, I don’t think we actually disagree. I certainly wouldn’t defend the strong Bailey/​Blanchard thesis that transwomen can be neatly sorted into autogynephiles and gay men. However, I am confident that autogynephilia is a real phenomenon in at least some people, and that’s all I was trying to refer to in my earlier comment—sorry I wasn’t clearer.
+
+Well said, Z.M. In my case, I am autogynephilic, so I know that it’s real. But I am not transsexual, and I don’t think the truth of the existence autogynephilia depends on the truth of certain theories of transsexualism involving autogynephilia. I have male nerd psychology, and I more often feel like an android than I feel either masculine or feminine (many people reading this blog will relate to this). I only feel feminine sexually, and this only occurs sometimes by myself in a certain mood or with certain people.
+
+I am, however, bisexual. I like the idea of having sex with a man with a woman’s body, taking the feminine role (would I actually want to have sex with a man [i]as a woman[/​i]? Maybe, but that gets into the questions Eliezer raises, because that person wouldn’t really be me anymore). I wonder how common it is for autogynephiles to be bisexual? I think it’s possible to argue that autogynephiles are bisexual by definition.
+
+In my view, it makes sense that there is a link between the autogynephilia and bisexuality. Bisexuals are more likely than typical straight men and typical gay men to be interested in sexual relations with individuals presenting both male and female stimuli, or in men dressed up as women (which would include oneself dressed up as a woman). I’m still figuring out whether my bisexuality and autogynephilia are different sides of the same phenomenon, or whether they are separable.
+
+Hope_WA said:
+
+Any evidence that the brain is inherently sexed, hardwired from birth with both a sexual identity and male or female body map contradicts the theory of autogynephilia.
+
+I also believe the brain is inherently sexed, and that sexual identity and orientation are biologically hardwired or heavily predisposed, but I don’t think this contradicts the notion of autogynephilia. If you are talking about people with typical development, then it’s hard to see how autogynephilia would exist, but autogynephilia could well be a developmental atypicality like homosexuality.
+
+Typical straight males are visually attracted by presentation of female stimuli, as long as these stimuli (a) aren’t being presented by other people who they know are male, and (b) aren’t being presented by their own body. But if you take a male with an atypical development, especially if he is bisexual, then either (a) or (b) or both might no longer be true due to some combination of biological and perhaps other factors.
+
+We also know that bisexual men exist who like taking a feminine role sexually, so it’s not much of a stretch to imagine that some of these men might also like to have a highly feminine or even female appearance or even female body as part of their sexuality.
+
+As for Eliezer’s original question, I’ll have to get to that more in a future post, but it’s something I’ve thought a lot about for obvious reasons.
+
+CassandraR 21 Jan 2009 3:14 UTC
+12 points
+
+0
+
+When I started taking hormones in order to fix the sorry state my body was in I really didn’t think they would change me much in the realm of personal identity. And there really hasn’t been any earthshaking alterations, not sure if that is because my brain architecture was already mostly female or because hormones don’t cause many changes, but the amount of small subtle changes and a few moderate ones that added up to make me a almost a completely different person. I may have some other flaws that make it difficult for me to form a personal identity but I think it is next to impossible to maintain a coherent personal identity while going through this type of change.
+
+The first thing I think a newly minted girl would notice is that everything smells different. And these smells effect the way you think in interesting ways, such as altering what type of foods you enjoy by changing how they taste. Let’s not even get into smelling other people. That alone has caused my sexual orientation to flip-flop back and forth so much that I am just confused.
+
+To pack all this into a single jolt would likely destroy any hope of sanity in the near future. So I can see Eliezer’s problem here pretty clearly, still struggling to keep my own self from going loopy. Yep.
+
+Alexxarian 8 Mar 2010 9:52 UTC
+−2 points
+
+0
+
+I might as well paste this here :D
+
+http://​​www.scribd.com/​​doc/​​26828344/​​A-casual-analysis-of-Personal-Identity
+
+Roko 1 Jul 2010 10:53 UTC
+0 points
+
+0
+
+You’d still be attracted to girls, and no, that would not make you a lesbian; it would make you a normal, masculine man wearing a female body like a suit of clothing.
+
+In what sense is this a fail?
+
+NancyLebovitz 1 Jul 2010 13:09 UTC
+4 points
+
+0
+
+The Armored Rose is about SCA fighting for women, and describes typical physical and psychological differences between men and women.
+
+They aren’t trivial—for example, men and women typically (though not universally) have joints at slightly different angles—this affects the efficient use of strength—and women typically amp up their adrenalin more slowly, so psychological methods which depend on fast access to adrenalin are unlikely to work for them.
+
+To judge by the enthusiastic amazon reviews, there’s quite a bit on the psychological side that I didn’t notice on the first reading, though I have no idea whether being uncomfortable with explicit zero-sum competition is innate or trained in.
+
+TheOtherDave 30 Nov 2010 18:34 UTC
+6 points
+
+0
+
+My $0.02 (or 1 utilon, if you prefer): “You can’t get out of the game.”
+
+I agree completely that my identity would not carry forward in an unproblematic fashion across various hypothetical massive changes to my cognitive infrastructure (e.g. genuine sex changes, emotional alterations, intelligence augmentation, etc.).
+
+I also believe my identity does not carry forward in an unproblematic fashion across various actual massive changes to my cognitive infrastructure (e.g adolescence, maturation, senescence, brain damage due to stroke, etc.).
+
+I also believe that, to a lesser degree, my identity does not carry forward in an unproblematic fashion across various minor changes (e.g., falling in love). To a still-lesser degree, my identity doesn’t carry forward across entirely trivial changes (reading a book, writing this comment, waking up tomorrow).
+
+So it’s not that I think my identity is somehow so robust that I can make changes to my cognitive infrastructure with impunity. Quite the contrary: my current identity, the one I have while writing this comment, is extremely fragile. Indeed, I have no confidence that it will continue to exist once I post this comment.
+
+Of course, the nice thing about minor and trivial changes is that some things are preserved, which provides a sense of continuity, which is pleasant. Being content with an identity whose exact parameters are in continual flux seems to be a fairly robust attribute, for example; I have spent most of my adult life in configurations that share it. (It took me quite a few years to work my way into one, though.)
+
+But, OK… what about massive changes, you ask? What if the SuperHappyFunPeople want to make it such that I don’t mind killing babies? As you say: what criteria do I apply?
+
+That’s an excellent question, and I don’t have a good answer, but I’m basically not a conservative: I don’t think “so let’s not mess with emotions until we know how to answer that question” is a good answer.
+
+My primary objection to it is that if we want the purported benefit of “playing it safe” in that way, it’s not enough to keep our emotions untouched. Our emotions are an integral part of the system that we are manipulating; we don’t protect anything worth protecting by leaving our emotions untouched while augmenting our intellect and altering our environments.
+
+We’ve demonstrated this already: making large-scale changes to our environments while keeping our emotions unchanged has not been working particularly well for humanity thus far, and I have no reason to expect it to suddenly start working better as we make larger and larger environmental changes.
+
+We can’t opt out.
+
+So what do we do? Well, one compromise approach is experimentation with a safety switch.
+
+That is, make the emotional change temporary in a way I cannot later alter… I spend an hour, or a day, or a year, or a hundred years with a particular massive cognitive alteration, and then I switch back to the configuration I started with, with my memories as close to intact as is possible. I can then ask myself “Would I, as I am now, rather remain as I am now, or go back to being like that full-time?”
+
+(Nor need the changes be random, any more than I read random collections of letters today. There are billions of other people in the world, I could spend centuries just exploring changes that other people have recommended and seeing whether they work for me.)
+
+That is, of course, no guarantee… it’s entirely possible that inconsistencies in my current configuration are such that, even given a choice, I choose a state that I consider wrong.
+
+My own inclination at that point is to shrug my shoulders and say “OK, clearly the majority of my own society of mind wanted that state; the fact that a minority didn’t want it and expresses its preferences as moral beliefs doesn’t necessarily trump anything.”
+
+That said, I do prefer consensus when the time to work on it is available, so I’d probably hold off on making a change I was conflicted about and instead prioritize either coming up with an alternate change all of me was in favor of, or becoming more consistent via more acceptable gradual steps. (In much the same way, I might oppose making a social change of which I approved but on which my community had not achieved consensus.)
+
+Maybe I’d reset a few thousand times and experience different cognitive architectures for entire subjective pre-Singularity lifetimes, just to have a wide enough platform on which to base the next increment. (One could interpret the tradition of samsara as a form of this, for example.)
+
+But my main point here is that none of this is unique to emotional changes. Lots of things can change my identity, and potentially cause me to do things that I had previously desired to not-do. (For example, right now I’m reading LW at work even though I had previously desired not to do that.) And running away from that by saying “Well, then let’s not change anything that can affect our identities” has some pretty awful costs, too.
+
+Yes, we want to play it safe; there’s a lot of ways we can permanently screw up.
+
+But let’s not pretend we can opt out of the game.
+
+TheOtherDave 4 Dec 2010 3:53 UTC
+1 point
+
+0
+Parent
+
+Huh. And having now read this (with which I agree), I really don’t understand what you think is special about modifying emotions. I mean, sure, change your emotions and you might not want to change back, but the same is true of having a psychotic break.
+
+ata 18 Jun 2011 19:12 UTC
+3 points
+
+0
+
+A synopsis of an upcoming Futurama episode reminded me of this post. The episode “Neutopia”, which is airing this Thursday, is summarized as “An alien who does not understand the concept of gender conducts experiments on the crew, changing all their genders.” Well, how the hell is an alien supposed to change a human’s gender (or even think to do so) if it doesn’t understand the concept of gender?
+
+(That also reminded me of the post (forgot which one) that mentioned sci-fi aliens/​robots that indicate their emotionlessness by being visibly confused by human emotions, when they don’t appear to be nearly as confused by things like sneezing.)
+
+[deleted] 18 Apr 2012 22:57 UTC
+0 points
+
+0
+
+Lest anyone reading this journal of a primitive man should think we spend our time mired in abstractions, let me also say that I am discovering the richness available to those who are willing to alter their major characteristics. The variety of emotions available to a reconfigured human mind, thinking thoughts impossible to its ancestors…
+The emotion of -*-, describable only as something between sexual love and the joy of intellection—making love to a thought? Or &&, the true reverse of pain, not “pleasure” but a “warning” of healing, growth and change. Or (^+^), the most complex emotion yet discovered, felt by those who consciously endure the change between mind configurations, and experience the broad spectrum of possibilities inherent in thinking and being.
+
+I am fairly certain that these emotions already exist and that I experience them daily, they just aren’t named yet.
+
+pnrjulius 6 Jun 2012 23:16 UTC
+7 points
+
+0
+
+I actually agree with your main point: Messing with human emotions is a very difficult and complicated task.
+
+But I have to say… I think you’re overestimating the differences between men and women.
+
+I say this as a bisexual man who has a fair amount of experience in relationships with both men and women: They’re not that different. (I guess you can make the argument that I’ve been with gay men and straight women, who are perhaps more similar than straight men and straight women… but then, I’m also sort of a straight man—fifty-fifty?---and not that different from the gay men I’ve dated.)
+
+So for instance, people have this notion that males are polygamous and females are monogamous… and yet I have definitely been in the situation where my girlfriend wanted to date other men and I had no interest in trying to handle two girlfriends at the same time.
+
+And yes, gender is not just anatomical; there are cognitive and emotional differences. Otherwise, where would trans people come from? But it’s also not this vast, uncrossable divide you’re making it out to be.
+
+In fact, most of the vast—but still not uncrossable—divides I’ve found among people are things that have nothing to do with gender; autistic/​neurotypical is a tricky one, as is rationalist/​religionist. Nerd/​jock and Democrat/​Republican are also fun ones to think about.
+
+Yet, I know exactly what a religious me would look like; I used to be that, about 10 years ago. What a neurotypical me would look like is a bit harder to imagine, but I have neurotypical friends who aren’t that different from me, and I can more or less imagine what I would be like if I were them (worse at calculus, better at romance). So yeah, I think I can fairly well imagine what a female me would be like; indeed, she’d probably still be bisexual, and it might even work out better for her since that’s more normative for women.
+
+In fact, it’s harder for me to imagine myself as a jock, or as a hardcore social conservative, than it is to imagine myself as a woman. Yet even then there is a relatively simple series of transitions one could go through to get me there (not that I’d want to), and a lot of intermediate states (political moderates, people who play sports and video games alike).
+
+We are more alike, my friends, than we are unalike.
+
+TheOtherDave 7 Jun 2012 0:16 UTC
+0 points
+
+0
+Parent
+
+Sure. I mean, compared to, say, stars or the color blue, we’re interchangeable. But that doesn’t preclude me caring about variation along a particular axis, nor does it mean I’m wrong to do so.
+
+pnrjulius 7 Jun 2012 2:39 UTC
+−1 points
+
+0
+Parent
+
+I didn’t mean to imply that. My point was rather that there isn’t this huge divide between men and women that involves radical differences. The differences can still matter for various purposes, but my point is that they aren’t huge irreconcilable divides. It’s really not that hard to change a man into a woman or vice-versa, if you really wanted to do so.
+
+TheOtherDave 7 Jun 2012 2:50 UTC
+2 points
+
+0
+Parent
+
+How hard it is to modify a man such that he is equivalent to a woman along all the dimensions I care about depends quite a lot on which of the dimensions along which men typically differ from women I care about.
+
+If I don’t care about any of them, then there’s no modification involved; a man is already equivalent to a woman along all those dimensions of variance.
+
+If I care about the ability to sire or bear children, there might be modifications involved that modern science is not yet capable of.
+
+Values matter.
+
+A1987dM 27 Oct 2013 11:55 UTC
+0 points
+
+0
+
+a vagina-shaped penis
+
+ITYM clitoris-shaped.
+
+CronoDAS 27 Oct 2013 14:18 UTC
+3 points
+
+0
+Parent
+
+I made this nitpick several years ago.
+
+Dues 15 Aug 2014 1:30 UTC
+2 points
+
+0
+
+Elizer, it seems crazy to me to think that we would need a second brain in order to not throw up. Couldn’t we just take advantage of the cognitive dissonance architecture built into our brains? I have personal anecdotal evidence where intellectually I remember having disgust reactions that I no longer experience. (You can thank the Internet for most of that). I agree that the arrangement of brains are different between men and women but saying that you need a new seperate brain in order to avoid disgust reactions seems like protesting too much.
+
+Said Achmiz 3 Mar 2024 0:22 UTC
+7 points
+
+0
+
+Re-reading this post today, in 2024, I just want to note:
+
+Anyone want to still want to eat chocolate-chip cookies when the last sun grows cold? I didn’t think so.
+
+I absolutely want to still want to eat chocolate chip cookies when the last sun grows cold.
+
+Clara (she/they) 5 Oct 2024 22:36 UTC
+3 points
+
+2
+
+I think the fantasy about temporarily being the opposite sex is a lot like a man who wants to fly living in a world before airplanes and wishing aloud that his flying potion would work. What people want is possible in a lawful universe, but what they say they want is filtered through their intuition and experiences and as a result it doesn’t make complete sense.
+
+What people want from this fantasy is high-quality information on what a best-case scenario of medical transition would be like, and minimal side effects from acquiring that evidence. That seems like a reasonable thing to want. For any medication or surgery, of course you’d like to know before agreeing to it how it’d affect your life. And if you’re trying to predict disasters in order to prevent them, letting a disaster happen and taking notes isn’t a great information gathering method.
+
+Back to top

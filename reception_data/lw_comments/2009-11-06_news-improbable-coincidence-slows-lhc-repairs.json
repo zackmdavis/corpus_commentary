@@ -1,0 +1,376 @@
+{
+ "post": {
+  "_id": "y24ue9LLJdTmpPZnz",
+  "title": "News: Improbable Coincidence Slows LHC Repairs",
+  "postedAt": "2009-11-06T07:24:31.000Z",
+  "pageUrl": "https://www.lesswrong.com/posts/y24ue9LLJdTmpPZnz/news-improbable-coincidence-slows-lhc-repairs",
+  "commentCount": 28
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "faoz4EKJiugjGqg78",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T07:45:39.184Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Furcas",
+    "displayName": "Furcas"
+   },
+   "contents": {
+    "markdown": "I don't know much about the LHC, but isn't it ridiculous that such a high tech system be disabled just by dropping bread on it?"
+   }
+  },
+  {
+   "_id": "tj2hhF3RNhkmW5NQb",
+   "parentCommentId": "faoz4EKJiugjGqg78",
+   "postedAt": "2009-11-06T08:25:55.254Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Not at all. There's no rule that says that expensive or sophisticated technology must also be sturdy. These are [separate questions](http://wiki.lesswrong.com/wiki/Scales_of_justice_fallacy)."
+   }
+  },
+  {
+   "_id": "58qPGibjWyJpjCYZ5",
+   "parentCommentId": "tj2hhF3RNhkmW5NQb",
+   "postedAt": "2009-11-06T08:58:42.806Z",
+   "baseScore": 13,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "The two questions are obviously logically distinct but if you spent 4 billion euros on a machine you'd think you'd put a tarp over it or something."
+   }
+  },
+  {
+   "_id": "yifeZAXgKGqHJzfQ8",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T09:41:20.764Z",
+   "baseScore": 3,
+   "user": {
+    "username": "cousin_it",
+    "displayName": "cousin_it"
+   },
+   "contents": {
+    "markdown": "Piece of bread, huh? The anthropic explanation loses out to the obvious one that they're stealing public money and covering it up."
+   }
+  },
+  {
+   "_id": "L5nHHHPH6zWbqpwKp",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T11:37:36.695Z",
+   "baseScore": 0,
+   "user": {
+    "username": "CannibalSmith",
+    "displayName": "CannibalSmith"
+   },
+   "contents": {
+    "markdown": "Lol, what are they gonna do when it starts... *raining!*"
+   }
+  },
+  {
+   "_id": "SsrhPLTKqzwCPczxZ",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T14:55:05.495Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "We discussed this at the last NYC OB/LW meetup. I'm becoming more in love with the \"anthropic speculations.\" Of course, its impossible to prove empirically until the universe is already destroyed."
+   }
+  },
+  {
+   "_id": "rzynF8mdWsAW59GBY",
+   "parentCommentId": "tj2hhF3RNhkmW5NQb",
+   "postedAt": "2009-11-06T15:44:04.215Z",
+   "baseScore": 3,
+   "user": {
+    "username": "SilasBarta",
+    "displayName": "SilasBarta"
+   },
+   "contents": {
+    "markdown": "What Jack said. Furcas wasn't saying, \"The system is high-tech -- how is it possible for falling bread to disable it?\" which would be an instance of that fallacy. Rather, Furcas's point was, \"Hey, they have such an elaborate system -- how could they have missed this failure mode?\"\n\nAt least, that's how I think most would read it."
+   }
+  },
+  {
+   "_id": "mAkKeaK8pQxFgcd5r",
+   "parentCommentId": "rzynF8mdWsAW59GBY",
+   "postedAt": "2009-11-06T15:47:00.493Z",
+   "baseScore": 2,
+   "user": {
+    "username": "RobinZ",
+    "displayName": "RobinZ"
+   },
+   "contents": {
+    "markdown": "How did they miss the poor quality of the O-rings in the Challenger disaster? [Hindsight bias](http://lesswrong.com/lw/il/hindsight_bias/) must be taken into account, here. (And note that they were astonished that the piece of bread made it in, according to the quoted part of the article.)\n\n(Edit: I do not mean to imply that SilasBarta specifically was falling victim to said bias, here.)"
+   }
+  },
+  {
+   "_id": "v9ABGcpnPS4TEcvus",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T16:07:45.608Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Eliezer_Yudkowsky",
+    "displayName": "Eliezer Yudkowsky"
+   },
+   "contents": {
+    "markdown": "There's no way a collider that large could be brought down by one bird! The damage was obviously done by a 747! WAKE UP SHEEPHYSICISTS!"
+   }
+  },
+  {
+   "_id": "sc6LSyY3i5mggmNDL",
+   "parentCommentId": "mAkKeaK8pQxFgcd5r",
+   "postedAt": "2009-11-06T16:25:29.641Z",
+   "baseScore": 1,
+   "user": {
+    "username": "SilasBarta",
+    "displayName": "SilasBarta"
+   },
+   "contents": {
+    "markdown": "Yes, hindsight bias should be taken into account. But the cases differ in that you have to have detailed technical knowledge to understand why O-rings can fail and why that failure would matter.\n\nIn constrast, most people, even without any technical knowledge, already know to check how they need to protect expensive stuff from nature."
+   }
+  },
+  {
+   "_id": "XyyQte6G797Ccp3DN",
+   "parentCommentId": "sc6LSyY3i5mggmNDL",
+   "postedAt": "2009-11-06T16:27:14.543Z",
+   "baseScore": 1,
+   "user": {
+    "username": "RobinZ",
+    "displayName": "RobinZ"
+   },
+   "contents": {
+    "markdown": "So, how many baguette pieces have you had to fish out of your recycling bin lately? Note that the article states the piece was found *inside* the building."
+   }
+  },
+  {
+   "_id": "Q27e8asD8vaJkvPBF",
+   "parentCommentId": "v9ABGcpnPS4TEcvus",
+   "postedAt": "2009-11-06T17:17:51.601Z",
+   "baseScore": 5,
+   "user": {
+    "username": "pwno",
+    "displayName": "pwno"
+   },
+   "contents": {
+    "markdown": "No - it was Superman."
+   }
+  },
+  {
+   "_id": "KBrLcwxF4azX6jxAT",
+   "parentCommentId": null,
+   "postedAt": "2009-11-06T18:29:20.639Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Nick_Tarleton",
+    "displayName": "Nick_Tarleton"
+   },
+   "contents": {
+    "markdown": "We can't count this as anthropically explained, until such time as the LHC would have been turned on were it not for the... baguette... at which point, suddenly, we will be able to.\n\nOr so the naive theory says, but can that possibly be right?"
+   }
+  },
+  {
+   "_id": "9uNhAHQdekeA3eppr",
+   "parentCommentId": "KBrLcwxF4azX6jxAT",
+   "postedAt": "2009-11-06T20:36:03.334Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "We could be a historical simulation of an anthropically selected future..."
+   }
+  },
+  {
+   "_id": "uXruqMonngsiK7eGo",
+   "parentCommentId": "SsrhPLTKqzwCPczxZ",
+   "postedAt": "2009-11-09T17:00:59.310Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Arenamontanus",
+    "displayName": "Arenamontanus"
+   },
+   "contents": {
+    "markdown": "Actually, if you do the experiment a number of times and always get suspicious hindrances, then you have good empirical evidence that something anthropic is going on... and that you likely have self-destroyed yourself in a lot of universes."
+   }
+  },
+  {
+   "_id": "9RpwoyvtMmE9jneLk",
+   "parentCommentId": "uXruqMonngsiK7eGo",
+   "postedAt": "2009-11-09T18:15:44.013Z",
+   "baseScore": -4,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "False actually. If you do the experiment a number of times and always get \"suspicious\" hindrances, then all you have is a lot of confirmational biases if you assume that the reason is anthropic.\n\nConfirmation can't provide definitive empirical proof, only \"dis-comfirmation\" can. This is especially true when your underlying assumption is unobservable, like multiverse theory."
+   }
+  },
+  {
+   "_id": "Rz4H2vtWYnkjT2PY8",
+   "parentCommentId": "9RpwoyvtMmE9jneLk",
+   "postedAt": "2009-11-09T18:37:08.550Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "Be honest. Are you zombie Karl Popper?\n\nSeriously, falsificationism isn't going to be popular on a website where people are obsessed with Bayes. Also, it is wrong. To begin with you can't actually disconfirm anything (in the way you mean). Also, nothing has been confirmed (in the way you mean). Yes, falsifiability is neither necessary nor sufficient for something to be provable."
+   }
+  },
+  {
+   "_id": "qCKths8y79s88Fdzf",
+   "parentCommentId": "Rz4H2vtWYnkjT2PY8",
+   "postedAt": "2009-11-09T19:16:09.747Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "I get what you mean, but I would hardly classify failing to destroy ourselves as \"good empirical evidence.\" For each time you replicate the experiment (and we survive) it does seem more likely that something is preventing us from turning on the LHC. But how many replications is significant (who the hell knows).\n\nAnd how do you reach the conclusion that we are destroying ourselves in other universes (no evidence of this)?\n\nAfter all these experiments, all you know is that the LHC isn't turning on. You don't *really* have evidence of anything going in potential parallel universes.\n\nThe whole argument smacks of circular logic. You're starting with the assumption that multiple universes exist (which may be a good assumption, I'm not trying to say otherwise) and use the experiments to prove something funky is happening elsewhere in the multiverse.\n\nSuch a story might be internally consistent, but I fail to see the empiricism."
+   }
+  },
+  {
+   "_id": "gAfCp33mnpq6rBzhy",
+   "parentCommentId": "qCKths8y79s88Fdzf",
+   "postedAt": "2009-11-09T19:59:50.632Z",
+   "baseScore": 0,
+   "user": {
+    "username": "AllanCrossman",
+    "displayName": "AllanCrossman"
+   },
+   "contents": {
+    "markdown": "> After all these experiments, all you know is that the LHC isn't turning on. You don't really have evidence of anything going in potential parallel universes.\n\nSure you do - the probability of you making the observation that the LHC persistently fails to turn on is something like 1 if MWI is true and if a functional LHC would destroy the world; it's surely much lower otherwise."
+   }
+  },
+  {
+   "_id": "vFaz9jXxqgXHXoWxW",
+   "parentCommentId": "gAfCp33mnpq6rBzhy",
+   "postedAt": "2009-11-09T20:18:51.560Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "The probability of you making the observation that the LHC persistently fails to turn on is something like 1 if there exists a malevolent God who doesn't want humans to learn more about physics.\n\nI don't see how God (and other bad explanations) can be ruled out given the experimental conditions being described. You've observed that the LHC can't be turned on but the only reason, as far as I can tell, why the MWI is being chosen as the source of the dilemma is because we're already starting with the assumption that the MWI is correct and relevant here.\n\nIf this is not actually a 'begging the question' fallacy, please demonstrate, or I'll assume either myself or everyone else is missing something important."
+   }
+  },
+  {
+   "_id": "LacdTwnSc5ctqLPo4",
+   "parentCommentId": "vFaz9jXxqgXHXoWxW",
+   "postedAt": "2009-11-09T21:11:56.003Z",
+   "baseScore": 0,
+   "user": {
+    "username": "AllanCrossman",
+    "displayName": "AllanCrossman"
+   },
+   "contents": {
+    "markdown": "> the only reason, as far as I can tell, why the MWI is being chosen as the source of the dilemma is because we're already starting with the assumption that the MWI is correct and relevant here.\n\nI think we're starting with the assumption that it's vastly more likely than the other possible explanations."
+   }
+  },
+  {
+   "_id": "Mn8xoQqwMJHjZjpBg",
+   "parentCommentId": "vFaz9jXxqgXHXoWxW",
+   "postedAt": "2009-11-09T21:20:42.257Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "Ok, either MWI is true or it is not true, correct? And either the LHC destroys planets or it doesn't. So we have 4 possibilities.\n\nMWT-LHCD; MWF-LHCD; MWT-LHCND; and MWF-LHCND\n\nIf MWT-LHCD: you will observe lots of LHC test failures. The more test failures the higher this probability.\n\nIf MWF-LHCD: You will die.\n\nIf MWT-LHCND:The LHC will work and not suffer an unreasonable amount of delay.\n\nIf MWF-LHCND: The LHC will work and not suffer an unreasonable amount of delay.\n\nIt is a little more complicated than that since there are other hypotheses that might better explain test failures, but in general, the more test failures you see the higher you should estimate the probability of option one. Nowhere in this proof did I assume the truth of MWI."
+   }
+  },
+  {
+   "_id": "brnvyuZmt77rpbg9T",
+   "parentCommentId": "Mn8xoQqwMJHjZjpBg",
+   "postedAt": "2009-11-09T21:43:22.879Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "> there are other hypotheses that might better explain test failures\n\nThis quote is key. Other hypotheses could produce the same outcome as MWT-LHCD. Therefore MWF-LHCD actually has two possible outcomes. MW is false and we die. or MW is false and something else keeps us from dying.\n\nThe only reason we'd ignore the second possibility is if we assume MW is true and other hypotheses are irrelevant.\n\nIt may not be a bad assumption, but this is hardly empirical proof."
+   }
+  },
+  {
+   "_id": "FjhCM34ScnpqYo3oy",
+   "parentCommentId": "brnvyuZmt77rpbg9T",
+   "postedAt": "2009-11-10T07:04:22.379Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "Right, so with two or three delays the best explanation is poor management and happenstance. But the chances of 30+ delays being produced by anything but MWT-LHCD is a lot lower. With every delay then, the probability of MWT-LHCD increases.\n\nIt is like I have given you a natural law, say that objects fall toward the Earth. At first, you're skeptical so you drop an object and sure enough it falls toward the Earth. But then you think, hey wait a minute, maybe it is just this object that falls toward the Earth, so you drop another. And another. How many objects do you have to see fall before you believe in gravity?"
+   }
+  },
+  {
+   "_id": "SXd6PFPLsXPHg4EPN",
+   "parentCommentId": "FjhCM34ScnpqYo3oy",
+   "postedAt": "2009-11-10T16:23:25.010Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "We seem to be talking past each other.\n\nMy problem is not with Bayesian approach to confirmation. Afterall, evolutionary theory is largely based on this (sorry Popper, its not just metaphysics).\n\nMy problem is with the idea that confirmation points exclusively to MWI.\n\nTake your gravity example. Multiple observations show us that gravity exists. Careful study can even lead us to a Newtonian analysis of it. We understand very well how mass is related to gravity, etc. But this doesn't tell us anything about how gravity is created.\n\nThere's a lot of conjecture about gravitons and Einstein's ideas about mass bending space-time are quite elegant. But nobody has observed any of these phenomena and the \"source\" of gravity confounds us still.\n\nLikewise, when you perform your LHC experiments, you've made a proximate observation, but you have not observed the actual cause.\n\nI repeat, If Many Worlds is False, LHC may still be failing through an unknown alternative mechanism. MW has more external support than, say the existence of a diety, *but these experiments alone* are not sufficient to cite MW as the probable cause.\n\nFor one thing, Many Worlds has a lot less empirical support (and no direct observation) compared to something like gravity. And the LHC experiment and your MW anthropic explanation has no specific link about MW being the underlying cause.\n\nI ask again, other than circular reasoning, what is your basis for ignoring the possibility that MW is false and something else is preventing us from destroying the universe?"
+   }
+  },
+  {
+   "_id": "7doNwPBBAZSceGvn7",
+   "parentCommentId": "SXd6PFPLsXPHg4EPN",
+   "postedAt": "2009-11-10T22:36:14.117Z",
+   "baseScore": 0,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "It is certainly true that many, many failures/delays in the LHC could be caused by something other than an anthropic effect. The probability of all of those events would be increased with the observation of successive failures. What exactly would the other options be? I can think of two: fraud and anti-science conspiracy. Both of these could be independently investigated and we could find good reasons to think that neither had happened. What alternative explanations would we be left with?\n\nI don't know how relevant this part is but:\n\n> Likewise, when you perform your LHC experiments, you've made a proximate observation, but you have not observed the actual cause.\n\nExplain this distinction."
+   }
+  },
+  {
+   "_id": "jbugdrWZooT3FxPZg",
+   "parentCommentId": "7doNwPBBAZSceGvn7",
+   "postedAt": "2009-11-11T00:34:16.201Z",
+   "baseScore": -2,
+   "user": {
+    "username": "Zachary_Kurtz",
+    "displayName": "Zachary_Kurtz"
+   },
+   "contents": {
+    "markdown": "What I mean is that, from your set of experiments, you couldn't make the distinction between the MWI and, for sake of argument, God (If you don't like God then insert another unobservable possibility).\n\nWhile I understand that the two aren't directly interchangeable (MWI has more empirical support than any deity) the point remains that you are not observing any of the potential many worlds in this scenario any more than you are observing God.\n\nThis makes the gravity analogy a poor one because, when it comes to gravity, we can *directly observe* that mass is related somehow to gravity and therefore is the probable source (via confirmation or whatever).\n\nBut where 's the \"mass\" in our anthropic explanation of the LHC thought experiments? It's some \\[currently\\] unobservable cosmological phenomenon.\n\n> The probability of all of those events would be increased with the observation of successive failures.\n\nLets go with the assumption that we've observed an appropriate number of successive LHC failures and have ruled out tampering.\n\nGoing on our observations we are left with very little information. I'm going to pull another Popperian move and ask, is there any way we can rule out all other explanations of the phenomenon and be left with exclusively the MWI? In other words, is the MWI interpretation falsifiable using our LHC experiments?\n\nObviously we reject the supernatural because its simply not falsifiable, but is there enough evidence that a) MWI is undeniably correct in all other contexts (QM, etc) and b) there are no other falsifiable explanations for the LHC phenomenon (understanding that there is always a limit to current human knowledge).\n\nPerhaps MWI has more empirical support than I am aware of, but as far as I know we haven't made any empirical, testable and falsifiable observations of the many worlds, other than as a mathematical idea. Now I innocently ask, is that enough to rule out other potential (even supernatural) phenomenon in favor of MW?"
+   }
+  },
+  {
+   "_id": "ygWj5WzQS6eWHBcR3",
+   "parentCommentId": "jbugdrWZooT3FxPZg",
+   "postedAt": "2009-11-11T07:44:08.369Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Jack",
+    "displayName": "Jack"
+   },
+   "contents": {
+    "markdown": "> I'm going to pull another Popperian move and ask, is there any way we can rule out all other explanations of the phenomenon and be left with exclusively the MWI?\n\nThere has never been and never will be a way to rule out all other explanations of *any* phenomenon and be left with only one hypothesis. What we can do is run experiments that show us that all the best competitors of our hypothesis are less probable than our hypothesis such that we can assign a very high probability to our hypothesis. I think we do that when once we rule out fraud and tampering. I can't think of another explanation that is nearly as probable as MW+Anthropics(*). The supernatural explanations are *vastly* more improbable.\n\n> In other words, is the MWI interpretation falsifiable using our LHC experiments?\n\nMaybe there was a typo but this isn't a paraphrase of the previous question. Quantum immortality/MW is not falsifiable in the sense that to get really good evidence against it you'd have to die. But the major alternative can be falsified-- you can continue living forever, so it isn't like something supernatural at all.\n\nI still don't know what you mean by direct observation of the cause versus proximate observation.\n\nPerhaps some helpful context: I think some kind of MW interpretation is probably true, QI less likely to be true, and the LHC destroying us if it runs very, very improbable.\n\n(*) I should have noted earlier that I'm not positive quantum immortality follows from MW."
+   }
+  }
+ ]
+}

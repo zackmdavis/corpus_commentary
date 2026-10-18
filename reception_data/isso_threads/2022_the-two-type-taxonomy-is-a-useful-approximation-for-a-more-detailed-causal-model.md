@@ -1,0 +1,601 @@
+Post: http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/
+Fetched: 2026-10-15 (public Isso API)
+Comments: 30 top-level
+
+#### [-] tailcalled · 1 likes · 2022-07-09 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-388
+Oops, I see that you published your blog post before I finished my email. 😅 Anyway, I will write some response/comments/questions here.
+
+> The same general principles of reasoning apply to psychological theories, even though psychology is a much more difficult subject matter and our available theories are correspondingly much poorer and vaguer.
+
+I think the biggest thing leading to trouble for Blanchardianism is that autogynephilia and other central variables like gender issues are not automatically observed outside of certain extreme and rare conditions, and are difficult to measure in a way that convinces everyone.
+
+Contrast this with Newtonian physics, which derives its predictive power pretty much only when the dominant forces acting on objects can be enumerated and accurately measured. For instance, as I understand, one of the initial major applications of physics was aiming weapons of war. Here, you can measure the impulse that your weapons impact on the projectiles, as well as the gravitational acceleration, and use this to predict the trajectory of the projectiles. However, as soon as there is a major factor that you cannot observe, you lose the predictive power; e.g. if a cannonball hits a complex building, you might not be able to predict the normal forces, and therefore not be able to predict what's going to happen afterwards.
+
+But, you might argue, you can still make useful predictions even when you are lacking this information! Because you know that if you are getting shot at by cannonballs, you are in danger and the structures around you might get destroyed. You could even make cannonball typologies out of this, e.g. critical hits vs misses, and these would probably often be practically useful.
+
+And in principle there's nothing wrong with such a cannonball typology. But it's not a physical theory, it's a war theory; you are not classifying cannonballs based on physical variables like velocity, you are classifying them by their strategic effects. But there may be physical phenomena that have no strategic effects, and strategic phenomena that have no good[^1] physical explanation. Therefore, it is important to realize that one is using a war theory rather than a physical theory, as otherwise one might make several errors:
+
+Strangling physical theories because they talk about phenomena that are not immediately useful for strategic purposes, e.g. electromagnetism is highly used in war now, but I don't think it originally was when physicists started studying it? If one had dismissed it as "not real" because it was not useful to predict the winners of a war, that would have been a pretty big and inexcusable error.
+Falsely attributing outcomes solely to physical factors, and so learning wrong things about both physical factors and strategic factors. E.g. if one doesn't realize that the theory of critical hits and misses is a war theory, one might decide that since destructive cannonballs are always going fast, if one is losing in a war it must be because one is not using enough gunpowder to get the cannonballs up to a good velocity, even though it might have more to do with the fact that one is not aiming at the enemy's most valuable strategic resources, which again would be a pretty big and inexcusable error.
+Falsely attributing predictive power to physics, e.g. you might notice that the "critical hits" type cannonballs tend to correlate with all sorts of things, like hitting load-bearing columns of buildings, causing lots of costs of money, killing many people, etc.. This is mainly explained by strategic factors, but if you don't distinguish between strategic and physical theories, you might attribute these correct predictions to physics, and claim that it proves how great of an understanding of physics you have. Again, big and inexcusable error.
+
+Of course these would be pretty absurd conclusions, but my claim is that they are central to the flaws of Blanchardianism.
+
+Analogous to theories of physics vs theories of war, you can have theories of the etiology of transsexuality and theories of the societal impact of transsexuality. They are of course connected, just like how theories of physics and theories of war are, but they are not the same theories, and trying to keep them ontologically unified is going to end up with at least one of them being totally mutilated.
+
+So, applying the analogy. If you are interested in theories of the etiology of transsexuality, you will probably be most interested in questions like:
+
+What is the relative extent to which differences in who transitions are due to differences in life preferences, differences in environmental conduciveness to transition, differences in decision-making quality, and differences in information quality?
+What sorts of preferences matter for transition, and how much do they matter?
+What are the differences between trans women and cis men?
+
+Meanwhile, if you are interested in the theories of the impact of transsexuality, you will probably be most interested in questions like:
+
+How masculine/feminine are trans women? Do they pass?
+Are trans activists honest?
+What will happen to women's sports? To cis lesbians?
+
+Blanchardians basically universally claim that their theories are theories of the etiology of transsexuality. But they also basically universally focus on the latter kinds of questions. This is probably partly by necessity - again you can't measure autogynephilia and gender issues outside of unusual conditions. And it is probably partly because Blanchardians lied and most of them never cared about etiology but instead about societal impact. I claim that this mutilates etiological modelling; what are the practical examples of this?
+
+If you want to accurately model the causes of transsexuality, probably you need to capture e.g. gender norm problems among some AGPTSs, autogynephilia among some HSTSs, gender issues caused by factors unrelated to any of the current etiological theories, etc.. However, Blanchardians really want to beat it into the head of AGPTSs in denial that they are very different from cis women, and acknowledging overlap provides AGPTSs with another line for denial, so I suspect this is a big factor in why Blanchardians just deny overlap in etiology and non-taxonic factors even as it reduces their R^2 for who will transition.
+People might for instance notice some trans activists that are narcissistic and aggressive. Based on that experience, they then infer that the activists are autogynephiles and autogynephiles are narcissistic and aggressive. I think those inferences - especially the second one - are bad, and that better theories might be selection effects (you aren't going to be aggressed at by non-aggressive people, so of course the activists who aggress at you are going to be aggressive towards you), or other impact-oriented rather than etiology-oriented factors.
+Blanchardianism is very practical for reasoning about trans women in certain domains, and people might attribute this to advanced knowledge of autogynephilia, but really it probably mostly boils down to things that are already known outside of Blanchardianism, such as homosexual males being much more feminine than heterosexual males. Autogynephilia arguably helps explain why there are so many gynephilic transsexuals, but I don't actually believe that people have good priors about it. The argument I most often see for why it's surprising is "most cis women are androphilic so therefore you'd expect most trans women to be androphilic too", which is a very bad argument: Trans women are not a random subset of females, they are a subset of males who decided to transition MtF. As such there's little reason for the mean levels of any unchosen trait among trans women to be female-typical (but sometimes some reason for the mean levels of such traits to be male-typical). And indeed, if you pick any other random highly dimorphic trait, like sociosexuality, HSTSs are probably male-typical in terms of that too.
+
+All of the above in my comment is very much a meta-level matter; it doesn't engage with the core of your post, but instead talks about roughly what epistemic domain we're in. You seem to think that Blanchardianism is in a similar epistemic domain as physical science, where a physicist carefully studies the phenomena they claim their theory is about, except that Blanchardianism is much harder and fuzzier due to the subject matter. I think we are more in an epistemic domain of a crazy but successful warlord who is executing his physicists for spending too much time discussing electromagnetism, while fighting against another crazy but even more successful warlord who executed his physicists for leaking useful theories to the first warlord. Or something like that, if that sort of metaphor makes some sort of sense.
+
+Away form the meta matter (which you don't have to respond to, I got a bit ranty/tangential in parts of it), on to the object matter:
+
+I have a number of disagreement with your model, but I think the big one is the question of effect sizes and residual factors. A model doesn't state much unless one puts some numbers on it; if autogynephilia has an effect of 0.05 on gender transition, then that is closer to a model that has no autogynephilia/trans connection than it is to a model that has 0.95 autogynephilia/trans connection. So it's hard to really agree or disagree without more specifics like that.
+
+A closely connected point is that your model seems... somewhat ambiguous. Namely, are there any factors other than femininity, autogynephilia and cultural factors that influence transition? Technically your model is a Bayes net, so it is allowed for there to be factors you marginalize over (as long as they are unconnected from other stuff), but e.g. you had an explicit "erotic target location error" node, even though for practical purposes this node is unobservable and indistinguishable from autogynephilia, so it does seem like you are attempting to be reasonably comprehensive in the factors you include. And if you're asserting that femininity, autogynephilia and cultural factors capture the bulk of variation in gender issues, then that seems like a huge disagreement to me.
+
+[^1]: What constitutes a "good" physical explanation? Technically everything should be reducible to physics, right? I don't have the full story yet, but I think it's a question of, there are some variables that are "natural" to talk about in physics, like velocities. A "good" physical explanation is one that can be expressed relatively directly in terms of these variables, while a "bad" physical explanation is highly nonlinear in those variables (because it first has to do a transformation to a nonphysical domain, like power relations, and then reason out the dynamics in that domain, before returning to physics; such a transformation is inherently highly nonlinear). But I suspect the details here don't really matter for the purpose of this comment.
+
+#### [-] KartoffelElf · 1 likes · 2022-07-09 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-389
+> furries and amputee-wannabes who want to emulate the objects of their attraction, "look like" "the same thing" as autogynephiles, but pointed  at a less conventional erotic target than women.
+
+Doesn't this seem to imply that there 'ought to' be a similar ratio of autoapotemnophiles to ordinary apotemnophiles as there are of autogyenphiles to ordinary gynephiles? But given apotemnophilia is already rare you'd expect autoapotemnophilia to be just about too rare to study in that case. Or is there some good reason to expect a different ratio? (Well either that or there are a LOT more closet AGPs than we think.)
+
+> (If you want to argue that it goes the other way—that some underlying "gender identity" causes both autogynephilia and, separately, the desire to transition, then why does it usually not work that way for androphiles?)
+
+The above mentioned suppression/coping mechanism theory seems possible. I've noticed it seems kind of similar to why (some) women develop a rape kink- they want sex but society tells them they should be ashamed of that, so they imagine a scenario where it's forced on them so they don't have to 'own' that desire. Similarly about people born male and wanting to be female or present femininely. (I'm not sure exactly how similar that is to what Veale et al. say, I don't have time to read them right now.)
+
+#### [>] tailcalled · 1 likes · 2022-07-09 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-390
+> Doesn't this seem to imply that there 'ought to' be a similar ratio of autoapotemnophiles to ordinary apotemnophiles as there are of autogyenphiles to ordinary gynephiles? But given apotemnophilia is already rare you'd expect autoapotemnophilia to be just about too rare to study in that case. Or is there some good reason to expect a different ratio? (Well either that or there are a LOT more closet AGPs than we think.)
+
+(Terminological nitpick: apotemnophiles and acrotomophiles, not autoapotemnophiles and apotemnophiles.)
+
+It does kind of seem like there are some complicating questions here. A related issue, which I think is better documented and so more likely to be a problem, is that many heterosexual apotemnophilic men also find it arousing to be male amputees. It seems like if it genuinely was an erotic target location error, it should be restricted to finding it arousing to be female amputees, just like how their acrotomophilia is heterosexual.
+
+One could patch these to an extent. The rates question would immediately be solved if there are correlations between sexual deviations, which is a common hypothesis with a lot of anecdotal and survey evidence speaking for it.
+
+> The above mentioned suppression/coping mechanism theory seems possible. I've noticed it seems kind of similar to why (some) women develop a rape kink- they want sex but society tells them they should be ashamed of that, so they imagine a scenario where it's forced on them so they don't have to 'own' that desire. Similarly about people born male and wanting to be female or present femininely. (I'm not sure exactly how similar that is to what Veale et al. say, I don't have time to read them right now.)
+
+I call this the "masochistic-CEO theory"; that masochistic sexual interests are generated by a repressed desire (the classical example being a CEO who is stressed and wants to give up control, but yeah the rape kink theory is also a good example of a similar theory in the same space), which then turn sexual. I'm highly skeptical of it; I don't think I've seen any good evidence for it in any case. Perhaps the rape kink variant is the most plausible variant because it could be argued to follow from what I call "causal closedness condition theory"; which is that if X is of erotic interest and Y is an immediate precursor to X, then Y also becomes erotically charged. I think this has a lot more evidence and theory in favor of it than most other theories within sexuality, but I haven't systematically investigated it yet. But the rape kink variant doesn't really generalize to masochistic-CEO theory or the equivalent for autogynephilia, as giving up control or being female would not be of erotic interest to begin with without sexual submissiveness/autogynephilia.
+
+Beyond that, I also don't think that autogynephilia and masochism are linked. This is perhaps one of the places that I am too galaxybrained-contrarian for anyone to be willing to take me seriously, but I stand by my take [that autogynephilia and masochism are basically independent (conditional on general sexual deviations)](https://surveyanon.wordpress.com/2021/03/31/autogynephilia-and-masochism-a-tale-of-two-assessment-biases/), with forced feminization stuff representing a coincidence rather than correlation. (Perhaps a coincidence which happens to be particularly obvious for cultural reasons or whatever.) This also means that theories focusing on explaining autogynephilia away via the masochistic-CEO theory can't work.
+
+#### [>] tailcalled · 1 likes · 2022-07-09 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-391
+Also I think the biggest challenge to ETLE theory is that Blanchardian scientists have not bothered investigating whether autogynephilia is correlated with gynephilia. That seems like the first thing people should investigate??
+
+(I have investigated it and found some correlation supporting weak forms of ETLE, but when I presented it to Michael Bailey in a meeting, he dismissed it saying that it can't prove anything. So as far as I know, there's a lack of evidence in the very center of this research.)
+
+#### [>] Dr.Eraser · 0 likes · 2022-10-04 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-444
+I would not be surprised if the ETLE correlation between the body dysmorphia / body dysphoria crowds (gender, species, age) occurs at a 4/1 M/F ratio. The people I’ve met in those crowds tend toward the autistic spectrum, and skew heavily male.
+
+#### [-] tailcalled · 1 likes · 2022-07-09 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-392
+> The autogynephilia–transition concordance has been documented by many authors, and I claim the direction of causality is obvious. (If you want to argue that it goes the other way—that some underlying "gender identity" causes both autogynephilia and, separately, the desire to transition, then why does it usually not work that way for androphiles?)
+
+Question: Once you open challenges about it, Blanchardians (concrete examples: Kevin Hsu, Michael Bailey, Rod Fleming, Shannyn Martin, possibly also Ray Blanchard but he was quite vague about it) usually end up arguing that it sometimes works this way for androphiles and females, but that it just doesn't count for autogynephilic males. I'd be curious if you stand by the standard Blanchardian position, or some nonstandard one. Also if you stand with the classical Blanchardian position on this, I would be curious to hear your reasoning, because I have yet to hear a thorough defense of this.
+
+#### [>] Zack M. Davis · 1 likes · 2022-07-15 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-395
+Probably pretty standard? I expect autogynephilia-like phenomena in women and androphilic males (but especially women) to be qualitatively different from autogynephilia as defined by Blanchard. (Although that doesn't mean they have nothing in common: there are going to be lots of things in common for all cases of autosexual behavior in humans, similarly to how this post concedes that AGPTS are selected for femininity, and in that sense aren't "completely" (whatever that means) different from HSTS.)
+
+[I wrote about why in my autobiographical megapost](http://unremediatedgender.space/2021/May/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems/#am-i-supposed-to-claim), but to recap/elaborate: both from personal experience, and from reading other accounts (e.g., in Men Trapped in Men's Bodies), I think something like the ETLE story basically has to be right: AGP males' attraction to be idea of being women is an outgrowth/misdirection of their "normal" allo-attraction to women. (This has [always been obvious to me](/2017/Feb/a-beacon-through-the-darkness-or-getting-it-right-the-first-time/).)
+
+For androphilic people, the gynephilia by assumption isn't there, and for females—I mean, females are already female. Why would males getting off on the idea of being women (which they aren't) have anything to do with how females feel about their own bodies (except insofar as all autosexual phenomena in humans are related)? Just—[other than the politics](/2019/Aug/the-social-construction-of-reality-and-the-sheer-goddamned-pointlessness-of-reason/)—why would you invent that as a hypothesis, at all? We've talked about this before, and I'll admit to having a lot of uncertainty about what's actually going on with some AGP-like self-reports in women. (I don't think I understand female sexuality well at all.) But—knowing something yourself of the scintillating but ultimately untrue thought, can you see where my No Way No Chance prior re AGP in women is coming from?
+
+#### [>] tailcalled · 0 likes · 2022-07-15 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-396
+> Probably pretty standard? I expect autogynephilia-like phenomena in women and androphilic males (but especially women) to be qualitatively different from autogynephilia as defined by Blanchard. (Although that doesn't mean they have nothing in common: there are going to be lots of things in common for all cases of autosexual behavior in humans, similarly to how this post concedes that AGPTS are selected for femininity, and in that sense aren't "completely" (whatever that means) different from HSTS.)
+
+I think there is a misunderstanding here, since with females I was thinking of autoandrophiles, not autogynephiles. 😅 This is my fault for being so vague, so let me fix it by giving a number of concrete examples:
+
+[WeaponizedCringe here is a homosexual autogynephilic transsexual](https://www.reddit.com/r/AGPTS/comments/kecgd0/gaygp_and_other_variants/), or at least so I claim. Meanwhile, Shannyn Martin claims that she just wanted to get fucked and is an HSTS without AGP.
+Michael Bailey thinks autoandrophilia in women is social contagion.
+I once sent a link to Kevin Hsu with a thread with some lesbians who seemed AAP, e.g. a butch lesbian who liked wearing a strapon and having her partner blow her while she told her how it'd feel like if she was male. Hsu suggested that it might be because she had a masculinized sexuality.
+
+What I don't understand is, how can A*P so obviously be an effect in those cases, while also so obviously being a cause in the usual cases? Why not just say that in all the cases, A*P is a cause? Or that we can never really know? Or literally anything other than AGP Doublestandardism?
+
+> I wrote about why in my autobiographical megapost, but to recap/elaborate: both from personal experience, and from reading other accounts (e.g., in Men Trapped in Men's Bodies), I think something like the ETLE story basically has to be right: AGP males' attraction to be idea of being women is an outgrowth/misdirection of their "normal" allo-attraction to women. (This has always been obvious to me.)
+
+It seems like ETLE is quite central to your conception of it. Even insofar as I'm sympathetic to some parts of ETLE, I don't find it at all well-proven enough to reject all these other concepts simply because they don't align with ETLE. And it doesn't seem to me that your linked autobiographical megapost does a good job of supporting ETLE either. I'm having trouble even understanding the argument it presents. As far as I can tell, you're saying:
+
+Your fantasy focuses on the image of you having a female body from the outside, rather than merely being from the first-person perspective of a woman engaging in an otherwise attractive activity like sex with an attractive partner.
+
+It seems like the brain might use a shared representation for yourself and others; certainly mirror neurons seem like an example of that, but other mechanisms might still be in play.
+
+You don't mind your own male body, you'd love to experience a wide variety of female bodies, but you'd hate to have another male body. (... Side question: does this also cover more androgynous male bodies? Like you'd hate to look like Zach Scuderi?)
+
+There are other examples of people who are attracted to being what they would also be allosexually attracted to, like furries.
+
+
+It seems to me that 1 and 3 are basically about arguing that it cannot be due to reverse causality; is that correctly understood? It could perhaps be said that 1 gives a semi-plausible argument against it, though I don't think 3 is of much evidentiary value for it. (I should perhaps give an in-depth explanation of why 3 doesn't work if I've understood it correctly.) And even if they did show that, "it's not due to reverse causality" != "it's due to ETLE"; maybe it's due to a completely unknown unimagined factor.
+
+2 only seems like an example of an argument that a priori could be ETLE; that it's not literally information-theoretically impossible for it to be ETLE. Which is of course an important criterion for it being ETLE, but "not literally inconceivable" does not seem to bear much evidence for "actually true".
+
+So that only leaves 4. I used to be a big fan of furries &c as an argument for ETLE, but I'm no longer a big fan of it. I wish I could explain why. I guess let me try a metaphor:
+
+> Sometimes a male will come to the conclusion, "I am a woman". How can that be? A hint: Many people form thoughts in their head about categorization. E.g. "she is a woman" (often it might not literally be consciously stated out like that, but the ability to use terms like "she" implies some sort of categorization in general). Such thoughts are of course propositions, and the people they are about are subject. But what would happen if a Propositional Subject Location Error / Identity Inversion took place, which flipped the subject from being located out in the world, to being located on yourself. Presumably it would lead to the conclusion "I am a woman".
+
+
+> Now, is this the most likely explanation for why a male might come to believe, "I am a woman"? It's hard to know for sure, since almost all people see women, and therefore have women as propositional subjects, so a correlation would be rather trivial. But we can find out by analogy; if propositional subject location errors are a thing, then they should also be a thing for smaller groups. And indeed, they are! For instance if you consider people who very often have propositional subjects of engineers, then these people also often come to the conclusion "I am an engineer". That is for instance a thing at my software engineering job, where many of my coworkers refer to both themselves and each other as engineers. This correlation is a clear example of propositional subject identity inversions, and it happens with other groups too, such as anarchists, musicians, empaths, and so on.
+
+This is not a perfect metaphor, but let me emphasize some aspects of it:
+
+The mechanisms that apply to other "PSLE/II"s do not generalize to the case of women.
+Correlations between variables that have content overlap in their definitions can arise for all sorts of random reasons.
+
+I would be very careful analogical reasoning. I think there are some conditions where it works, but I'm not convinced it works in the case of ETLE/IIs; I have some ideas for how to make it work there, but I have yet to definitively succeed.
+
+#### [>] tailcalled · 0 likes · 2022-07-15 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-397
+> For androphilic people, the gynephilia by assumption isn't there, and for females—I mean, females are already female. Why would males getting off on the idea of being women (which they aren't) have anything to do with how females feel about their own bodies (except insofar as all autosexual phenomena in humans are related)? Just—other than the politics—why would you invent that as a hypothesis, at all? We've talked about this before, and I'll admit to having a lot of uncertainty about what's actually going on with some AGP-like self-reports in women. (I don't think I understand female sexuality well at all.) But—knowing something yourself of the scintillating but ultimately untrue thought, can you see where my No Way No Chance prior re AGP in women is coming from?
+
+Oops I forgot to reply to this part.
+
+So as mentioned the original part wasn't about AGP in cis women, it was about AAP in cis women. So I'll ignore the question of why I'd invent as a hypothesis that cis women can be AAP and instead give the answer of why I'd invent as a hypothesis that gay men can be AGP.
+
+For the vast vast vast majority of things, gay men are like straight men. For instance, some straight men are birdwatchers, and while I've never actually seen or heard of a gay male birdwatcher, I'd assume they exist, at roughly the same relative rate as traight male birdwatchers. So applying that principle to gay men too, of course gay men can be AGP.
+
+But, you might say, birdwatching is unrelated to sexuality, whereas AGP is a sexual thing, and being gay is a huge difference in sexuality. So even if gay men are like straight men in terms of birdwatching, why would I even invent the hypothesis that they'd be like straight men in terms of AGP? Well, I think much the same principle applies to sexuality. Straight men can be into BDSM, can be romantics, can have a leather fetish. And so can gay men. Straight men can be pedophiles. And so can gay men. So, if straight men can be AGPs, presumably it's a reasonable default hypothesis that so can gay men.
+
+#### [>] tailcalled · 0 likes · 2022-07-15 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-398
+> and from reading other accounts (e.g., in Men Trapped in Men's Bodies)
+
+Oh, I should mention, I think Men Trapped in Men's Bodies has the potential to be a biased source of evidence. Because as I recall, the stories were all submitted to Anne Lawrence through a website which described the typology, right?
+
+Even assuming claims of the typology are approximately true, trans women will vary in how well those claims describe them, unless the typological claims are 100% deterministically true. This probably means that trans women vary in how relatable they find the typology, and therefore also likely also in their interested in participating in communities dedicated to the typology. But this means that if you solicit reports from such communities, you will disproportionately much get trans women whose stories are biased (relative to the general population mean) into "fitting" the typology.
+
+#### [>] Zack M. Davis · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-399
+> WeaponizedCringe here is a homosexual autogynephilic transsexual, or at least so I claim.
+
+The "gay, but have another paraphilia that presents similarly to AGP but is actually distinct" theory mentioned in the post sounds plausible to me.
+
+> Michael Bailey thinks autoandrophilia in women is social contagion.
+
+Seems unlikely. I mean, there's definitely going to be a socially-contagious component (hard to be a yaoi fangirl if you've never been exposed to it), but it has to appeal to something already within people, in order to be contagious.
+
+> lesbians who seemed AAP, e.g. a butch lesbian who liked wearing a strapon and having her partner blow her while she told her how it'd feel like if she was male.
+
+It's notable to me that this is in an interpersonal context. If it were transformation erotica or yaoi fangirlism, this would seem much more like a model-violation to me. Do you share that intuition? (That straight yaoi-fangirl AAP is the analogue of AGP, but lesbian "AAP" reports like this look like they should actually be in the HSTS taxon, even if some aspects of the presentation look superficially similar, the way that drag queens look superficially similar to AGP crossdressers?)
+
+Should I be ashamed that I'm saying this out of sheer Steve Sailer–tier pattern-matching, and not any kind of formal psychometics? My only defense is that I actually think pattern-matching gets you pretty far in the real world!
+
+> though I don't think 3 is of much evidentiary value for it. (I should perhaps give an in-depth explanation of why 3 doesn't work if I've understood it correctly.)
+
+I'm interested.
+
+> does this also cover more androgynous male bodies? Like you'd hate to look like Zach Scuderi?
+
+... less so? I'm not very autoGAMP, but autoGAMP doesn't feel alien/incomprehensible.
+
+> 2 only seems like an example of an argument that a priori could be ETLE
+
+Yes, 2 is speculation about what kind of mechanism might produce these symptoms.
+
+> I guess let me try a metaphor [...] people who very often have propositional subjects of engineers, then these people also often come to the conclusion "I am an engineer" [...] it happens with other groups too, such as anarchists, musicians, empaths
+
+... what? I either didn't understand this, or find it spectacularly unpersuasive to the point where I'm having trouble taking you seriously. We have a very obvious common-sense understanding of why people think of themselves as anarchists, engineers, &c. (We need a name for the cluster of people who do build stuff or want to destroy the state, &c., and people can correctly recognize cluster-membership in both themselves and others.) But autogynephiles and furries aren't, in fact, women or nonhuman animals, but do seem similar to each other.
+
+> if you solicit reports from such communities, you will disproportionately much get trans women whose stories are biased (relative to the general population mean) into "fitting" the typology.
+
+I mean, yes, but as you know, we also see reports of the same phenomena over and over and over again in communities where the typology is reviled. I point to Men Trapped in Men's Bodies because it's a nice compendium, but it's not cherry-picking rare outliers; I think it's picking cherries from a cherry tree.
+
+#### [>] tailcalled · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-400
+I feel like we might have a deeper conceptual disagreement, so I'm going to try to summarize my understanding of the conceptual foundations and how I think you disagree with me on those, and then you can say what your thoughts are about those concepts.
+
+The original question was whether autogynephilia-like phenomena in e.g. homosexual males are causally upstream or downstream from the gender issues they correlate with. In response, you've said things like "I expect autogynephilia-like phenomena in women and androphilic males (but especially women) to be qualitatively different from autogynephilia as defined by Blanchard" or "gay, but have another paraphilia that presents similarly to AGP but is actually distinct" or "but lesbian "AAP" reports like this look like they should actually be in the HSTS taxon, even if some aspects of the presentation look superficially similar, the way that drag queens look superficially similar to AGP crossdressers", which all seem to get at the same kinds of thing: that while there may be similarities in how these conditions affect one's sexuality across certain abstract dimensions, you think they likely have different root causes, and so would feel uncomfortable generalizing the causal effects that we believe one of them have (e.g. ETLE AGP -> gender issues) to causal effects that we'd believe others of them have.
+
+I would be inclined to disagree, and instead say that generalizing makes sense. My starting point would be, why would we even think that ordinary AGP among gynephilic males is causally homogenous? If we could somehow track the causality backwards all the way, then I guess probably we would reach some genetic variants (and maybe also other stuff, like environmental exposures, but genetic variants seem like the safe bet) that can contribute to the likelihood of ending up AGP. But I wouldn't expect all AGPs to have the exact same genetic variants causing it; that's not how it works for most other conditions like schizophrenia or skin color, so why should it work that way for AGP? I would only really expect it to "approximately" work this way for very basic chemical questions (since DNA codes for proteins), and even then the example of skin color (or testosterone or ...) shows that even basic chemical questions are not that straightforward.
+
+So if the root causes of AGP and AGPTS are heterogenous, why do the concepts make sense? I'd argue that "AGP" as a concept makes sense because sexuality acts as a mediator. More specifically, a mediating variable is a variable that is affected in similar ways by other variables, and allows those variables to take on common consequences via the consequences of the mediating variable. So, maybe ETLE x gynephilia affects sexuality in some way to make it erotic to become a woman. Maybe masochism does so too. (I've written a critique of that, but people who don't accept that critique may propose that this explains WeaponizedCringe.) But regardless of which root causes exactly cause one's sexuality to take on an AGP element, which then causes whichever gender issues that AGP leads to.
+
+I'm not sure what the Blanchardian answer to this is. I suspect it to be "uhhh, hmmm, I've never thought this far, I just think HSTSs and AGPs look very different so they must have different root causes". But I think at least to some extent, Blanchardians do assert something like this, even if they haven't thought deeply about the implications; e.g. there's a common debate about whether AGP truly causes the gender issues of AGPTSs, and Blanchardians definitely take the position of "yes" on that, often as one of the very first things they say about their views.
+
+I think there's a potential argument for AGP -> gender issues that can be made from the mediation angle, and if you're interested, I should perhaps make that argument. But if Blanchardians haven't thought through the mediation angle, then presumably this is not the argument they would use, and indeed in your post you give a different argument:
+
+> If you want to argue that it goes the other way—that some underlying "gender identity" causes both autogynephilia and, separately, the desire to transition, then why does it usually not work that way for androphiles?
+
+The trouble with this argument is that it doesn't really make sense if you expect sexuality to be a moderator for autogynephilia, which is exactly what Blanchardians argue with ETLE, and [which Serano concedes](https://surveyanon.wordpress.com/2021/04/18/quick-heads-up-julia-serano-believes-in-etle-too/). If autogynephilia requires gynephilia and gender issues, it would be expected that you only see the gender issues -> AGP connection for gynephiles and not androphiles. And heck, as mentioned, Blanchardians often argue that it sometimes does work this way for androphiles too! Why is it allowed to work that way for androphiles, and not work even stronger for gynephiles?
+
+... and I guess this is why Blanchardians consider it so important that cis women shouldn't be AGP, because if AGP is common in cis lesbians, then that lends credibility to the view. I don't think it's a provable line for Blanchardians to show that AGP isn't a side-effect by going out to argue about lesbian AGP, and I think the root failure comes from focusing on this line of argument, of "then why does it usually not work that way for androphiles?" in the first place, rather than going down the route of the mediation argument, which I think is much much more theoretically solid.
+
+(Should this debate become "I think you are partly right but for the wrong reasons, and once you fix your reasons, you will see that my priors about all the details are better than your priors about all the details"? This also seems to map neatly onto the [Blanchardian fallacy](https://surveyanon.wordpress.com/2021/06/08/the-blanchardian-fallacy/) venting I did/frustration I have - if one doesn't accept the mediation argument, then of course the taxons will seem more theoretically fundamental than the network dynamics.)
+
+It might also be helpful to give an example of a mediating variable in everyday experience: height. If you need someone to reach some place high, you need a tall person, because height causes you to be able to reach higher places. But "height" is actually due to the sum of various bone lengths in your body, which in turn is due to a complex developmental process where your bones grew due to a variety of factors. When you get down to the genetic level, nobody has similar heights for the same reasons except for identical twins.
+
+The factors that make a man 1.7 m tall are going to tend to be the opposite of the factors that make a woman 1.7 m tall. Yet still, a 1.7 m man and a 1.7 m woman can reach similar things. Though being 1.7 m tall for men is going to have a number of different correlates with other things like health than being 1.7 m tall is going to have for a woman, because they have different causes. But if you are just interested in height for the purpose of height itself/for the purpose of the effects of height, then 1.7 m is 1.7 m, whether male or female.
+
+Onto the object level matters:
+
+> The "gay, but have another paraphilia that presents similarly to AGP but is actually distinct" theory mentioned in the post sounds plausible to me.
+
+I don't have any good empirical data on this. According to self-report survey data, castration kinks seem to be the very rarest form of sexuality, rarer than e.g. pedophilia, so it is very hard to study. But this also means that it has the opportunity to be a very conditional interaction that depends on many rare-ish factors. However, while it's ultra-rare in the general population, it does seem to correlates with forced feminization interests; I did a survey on /r/MEFetishism where about half had some degree of castration interest (contrast this with /r/SampleSize where it was only a few percent).
+
+Blanchardians usually seem to argue that there's a tight inherent link between AGP and masochism. I don't think this makes sense under ETLE theory (why would ETLE be connected to masochism?), and I think [if appropriately measured, it also doesn't work out empirically](https://surveyanon.wordpress.com/2021/03/31/autogynephilia-and-masochism-a-tale-of-two-assessment-biases/); instead, stuff like forced feminization seems to represent a coincidence of masochism and AGP. However, there's a variant of the theory that's still compatible with my data and with ETLE theory, and that is that while ETLE is a primary cause of certain forms of AGP like anatomic AGP, masochism is a contributor to other forms of AGP, like transvestic AGP. Under this theory, what gets broadly labelled "AGP" actually consists of multiple distinct root conditions, not just ETLE. I think the idea that there are multiple distinct root causes for AGP is extremely plausible, see the beginning of this comment. And it perhaps also seems like the model that some Blanchardians have? Idk, because Blanchardians are not very clear about their models. But if one accepts the AGP label as capturing multiple distinct root causes for paraphilias, then it seems like one should apply that to WeaponizedCringe too?
+
+> It's notable to me that this is in an interpersonal context. If it were transformation erotica or yaoi fangirlism, this would seem much more like a model-violation to me. Do you share that intuition? (That straight yaoi-fangirl AAP is the analogue of AGP, but lesbian "AAP" reports like this look like they should actually be in the HSTS taxon, even if some aspects of the presentation look superficially similar, the way that drag queens look superficially similar to AGP crossdressers?)
+
+(Question: not sure how yaoi isn't "interpersonal context" - yaoi stories tend to be about romances between guys, that's involving two people, is that not interpersonal? Do you mean because the romance is fictional, rather than happening with a real person?)
+
+I'm not sure how an interpersonal context makes a difference. I know of a case where a straight guy would wear his butch girlfriend's panties while getting pegged by her. Is that not AGP because it occurred in an interpersonal context?
+
+As another thing, I'm not sure how transformation erotica matches what you'd a priori expect from an inverted male sexuality. Like you described your own transformation fantasies like this:
+
+> A clue: when I'm masturbating, and imagining all the forms I would take if the magical transformation technology were real (the frame story can vary, but the basic idea is always the same), I don't think I'm very good at first-person visualization? The content of the fantasy is about me being a woman (I mean, having a woman's body), but the associated mental imagery mostly isn't the first-person perspective I would actually experience if the fantasy were real; I think I'm mostly imagining a specific woman (which one, varies a lot) as from the outside, admiring her face, and her voice, and her breasts, but somehow wanting the soul behind those eyes to be me. Wanting my body to be shaped like that, to be in control of that avatar of beauty—not even to do anything overtly "sexy" in particular, but just to exist like that.
+
+If I consider the inverted form of this sort of fantasy, then that would be another man transforming into a woman and then admiring her beauty. This does not seem like something the typical man finds hot. (It does seem like something many autogynephiles find hot, which perhaps speak to "genderbending/androgyny" being a more relevant factor than "ETLE"). You could perhaps argue that the transformation part is simply a preparation due to already being male, similar to how porn shoots might include a pizza delivery or whatever. But even then, the "not even to do anything overtly 'sexy' in particular" part doesn't seem right; usually the pizza delivery in a porn shoot is followed up with doing something overtly sexy.
+
+I would think a more straightforward inversion of male sexuality would simply be to just be a woman, and then doing overtly sexy stuff like groping oneself. This also seems to be mentioned in [your TVTropes link](https://tvtropes.org/pmwiki/pmwiki.php/Main/ManIFeelLikeAWoman): "Grabbing the breasts for final confirmation—likely for somewhat longer than strictly required to verify they are real, which leads to squeezing...and perhaps more squeezing...and maybe even more squeezing, interrupted by the occasional look of "Ooo!"". And this sexual interest does occur. Often, in fact! It's [one of the most common sexual fantasies of men who say that they would find it hot to be women](https://surveyanon.wordpress.com/2020/07/07/a-dataset-of-common-agp-aap-fantasies/). Here's some quotes from men with such interests:
+
+> 
+Playing with my boobs, multiple orgasms, seeing what it's like to be a girl and receive all the attention
+
+
+
+> 
+Caressing myself, masturbation, sex with my current girlfriend.
+
+
+
+> 
+I imagine fingering myself
+
+
+
+> 
+I usually fantasize about being a woman while still having a dick. Sometimes I just imagine being the opposite sex in a solo fantasy where I'm jerking off while enjoying my body, other times I imagine that my (female) partner had a dick and would penetrate me with it.
+
+
+
+> 
+Haven't really thought about it much. I was more thinking of the hypothetical "if i was a girl for a day I'd  just play with my boobs in front of a mirror" thing lol
+
+
+I have got tons of quotes like that. But they don't seem to be what Blanchardians emphasize autogynephilia as being like. I think the best explanation for that is that the autogynephiles that Blanchardians get hold of don't simply have inverted male sexuality, but instead have something rarer. I suspect there may be a reason for that, but we'll have to see about whether empiricism makes the reason work out. Regardless, if we consider things from a content point of view, then I don't think ETLE is as straightforward as you seem to think.
+
+> Should I be ashamed that I'm saying this out of sheer Steve Sailer–tier pattern-matching, and not any kind of formal psychometics? My only defense is that I actually think pattern-matching gets you pretty far in the real world!
+
+I mean so much of my opinion here is not based on formal psychometrics, but instead based on causal and mechanistic theory (e.g. the mediation argument), content analysis, etc.. 😅 Psychometrics does have formal ways of testing whether different measures capture "the same thing" across different groups, called measurement invariance testing, but I think MI testing is error-prone under many conditions, including this one.
+
+I think the problem with atheoretical pattern-matching is that it's inherently incapable of doing a good job at edge-cases. Pattern-matching works great because the world is approximately continuous; data points that are close together in one set of variables also tend to be close together in another set of variables. But it only holds approximately, and so there will be exceptions and edge-cases. In order to know how to handle an edge case, you gotta start with the purpose you have for handling it in some way or another, and then track that purpose backwards up the causality to see how the properties of the edge case relate to the purpose under consideration. Even if normal members of a cluster are usually mapped consistently regardless of purpose, an edge-case may be mapped inconsistently, such that for some purposes they get mapped one way, and for other purposes they get mapped another way.
+
+This is also related to why I argue Blanchardianism to be wrong. It works well for a certain set of purposes, but the purposes it works well for are different from the purposes that Blanchardians claim Blanchardianism is about.
+
+> I'm interested.
+
+🤔 A proper explanation is pretty long so I will have to put it somewhere else, probably in a response post on my blog. But essentially the point is that your argument is symmetric to [Julia Serano arguing that](https://journals.sagepub.com/doi/abs/10.1177/0038026120934690):
+
+> Second, the notion that FEFs have the potential to cause transsexuality is specious and not supported by the evidence (Serano, 2010, 2020). After all, almost a third of Lehmiller’s subjects experienced crosssex/gender sexual fantasies (Lehmiller, 2018, p. 66), yet the vast majority of these people will never develop gender dysphoria or desire to transition.
+
+Specifically, the flaw in Serano's argument is that maybe gender issues are also partly caused by non-AGP transsexuality-promoting factors (Gaussian gender issues) (plus especially strong AGP, of course, but her argument holds among highly-AGP men too, many of them do not transition). And similarly, the flaw in your argument is that maybe you've got non-gender-related AGP-increasing factors (plus trans women definitionally have especially strong gender issues).
+
+> ... less so? I'm not very autoGAMP, but autoGAMP doesn't feel alien/incomprehensible.
+
+But you'd still dislike it? Rather than e.g. smashing the hypothetical Scuderification button as quickly as you can?
+
+> ... what? I either didn't understand this, or find it spectacularly unpersuasive to the point where I'm having trouble taking you seriously. We have a very obvious common-sense understanding of why people think of themselves as anarchists, engineers, &c. (We need a name for the cluster of people who do build stuff or want to destroy the state, &c., and people can correctly recognize cluster-membership in both themselves and others.) But autogynephiles and furries aren't, in fact, women or nonhuman animals, but do seem similar to each other.
+
+It might be a bit confusing because this analogy is adjacent to an analogy that I would not endorse. I am not saying that PSLE is analogous to AGP and transsexuality is analogous to "I am a woman", using it as a competing explanation to AGP for the causes of transsexuality. I am saying that PSLE is analogous to ETLE, "She is a woman" is analogous to gynephilia, and "I am a woman" is adjacent to AGP. And yes, I agree we have a good understanding of what causes people to form beliefs, and so that PSLE theory is unnecessary; this is precisely why I chose the analogy, so we could see a different context where we would get similar correlations to what ETLE predicts, but for different reasons.
+
+Getting more specific: Bayesian decision theory gives us a very solid model of how beliefs work; of what causes people to have certain beliefs, and what effects those beliefs have on their later behavior. Yes, there are certain complications (like irrationalities) to it under certain conditions, but imagine having to establish the causality separately for each possible belief; you'd never get anywhere.
+
+A piece of trouble with Blanchardianism is that there's not a good alternative to Bayesian decision theory for modelling sexual orientation. I think I have some ideas for it, both for the causes and the consequences of sexual orientation, but these ideas do not seem universally accepted, and there's much that they cannot explain. Blanchardians seem to maybe have their own principles for it, but if so I find their principles to be incomprehensible. Anti-Blanchardians also have their own principles, e.g. masochistic-CEO theory, and while I find it puzzling how anyone could come to believe masochistic-CEO theory, at least I have some sort of idea of what it is saying.
+
+> I mean, yes, but as you know, we also see reports of the same phenomena over and over and over again in communities where the typology is reviled. I point to Men Trapped in Men's Bodies because it's a nice compendium, but it's not cherry-picking rare outliers; I think it's picking cherries from a cherry tree.
+
+I think it's OK to use it as long as one always makes sure to model the selection biases.
+
+#### [>] tailcalled · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-401
+Another thing I should add:
+
+There are different ways to interpret the "If you want to argue that it goes the other way—that some underlying "gender identity" causes both autogynephilia and, separately, the desire to transition, then why does it usually not work that way for androphiles?" argument. One is of course just to follow it straight, as I did above. But there's another subtler one: as an instrumental-variables argument.
+
+Specifically, homosexuality and its associated GNC seem like potential causes of gender issues. So, if we accept something like femininity -> gender issues, then a further effect of gender issues -> AGP would imply a correlation between AGP and femininity. So if this model was to hold, we would expect AGPs to be more feminine, and by extension also more homosexual. Except, this might be confounded by ETLE in the same way that your original argument was.
+
+But I actually played around with this, because I thought it could still be viable with the correct adjustments. And that was how I realized that despite being unusually big by the typical standards of social science, an effect size of 0.5 is actually surprisingly small in practice. For instance, suppose our proxy of M/F is related to "true M/F" at a strength of 0.5, and the M/F -> gender issues effect is 0.5, and the gender issues -> AGP effect is 0.5. In that case, the expected proxy M/F <-> AGP correlation would be 0.5^3 = 0.13, which is not very much; in order to reliably detect such an effect, you would need a sample size of 9/0.13^2=532.
+
+And the followup is, I don't think Blanchardians would believe this. Suppose I somehow collected 532 men, measured their AGP and their M/F and their gender issues, and found a correlation of 0.13. Would Blanchardians not just say that this is due to the AGPs lying, or that the effect is too trivial to care about, or something like that? When I tried these sorts of things in practice and sent it to Michael Bailey, he wouldn't even speak to me or comment on it; he just sent me a paper he'd written about how instrumental variable studies in psychology are relatively doomed.
+
+And he's probably right about that. But I frequently get the impression that Blanchardians take the masculinity of AGPs to be evidence for AGP -> gender issues over gender issues -> AGP, and given the above considerations, I don't think they're right to do that.
+
+#### [>] tailcalled · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-402
+Aagh, the power symbols were consumed by the blog's comment rendering. It was supposed to say 0.5 cubed = 0.13, and 9/(0.13 squared) = 532
+
+#### [>] tailcalled · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-403
+There's also an interesting related concept which I've been tempted to test for a while but which I haven't gotten around to.
+
+Basically: Suppose we have a model where we let autogynephilia cause gender issues, but we also let gender issues cause autogynephilia. If we collect data on a bunch of men's autogynephilia and gender issues, then we will not be able to fit the model to the data, because we cannot tell whether the correlation is due to AGP -> gender issues or if it is gender issues -> AGP.
+
+But if we have two groups with different exogenous distributions of autogynephilia and gender issues - such as gay men and straight men - then if we assume that the effect sizes are the same across groups, the model magically becomes identified, such that you can tell what the effect sizes are. I tried writing about the concepts [here](https://surveyanon.wordpress.com/2020/12/22/reflections-on-a-failed-attempt-at-testing-the-causal-relationship-between-autogynephilia-and-gender-issues/), but I don't think I ever succeeded in communicating them in a comprehensible way.
+
+Now as mentioned this assumes that the effect sizes are the same across groups, which doesn't seem like something anyone on any side of the debate believes, and so therefore I haven't really bothered doing the study. But from the post it sounds like you endorse the methodology? I consider it of mild interest to do, so if you find it worthwhile, then maybe I should do it.
+
+#### [>] tailcalled · 0 likes · 2022-07-16 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-404
+🤔 My prediction, just based on the data I've seen and some rough mental calculations which might be totally off because this sort of thing is hard to compute, is that this study would yield the following results:
+
+For gynephiles, about 2/3rds of the correlation is due to AGP -> gender issues, and 1/3rd is due to gender issues -> AGP.
+For androphiles, about 1/3rd of the correlation is due to AGP -> gender issues, and 2/3rds is due to gender issues -> AGP.
+For both gynephiles and androphiles, gender issues is mostly caused by factors unrelated to AGP.
+For both gynephiles and androphiles, AGP is mostly caused by factors unrelated to gender issues.
+
+Which I think would leave everyone on all sides of the debate unhappy with the result? 😅 Though from a philosophical perspective, I find it thought-provoking that such an outcome would even be mathematically possible. I mean I think it makes total sense when you think about it, but I had only thought about closely adjacent topics and not this specific possibility prior to the debate. So at least that's nice, learning something new from the debate.
+
+If this calculation is correct then it's also interesting because it's the same results I got from my instrumental variables studies. ... Maybe that means that this is actually the right way to view it? 🤔
+
+#### [>] tailcalled · 0 likes · 2022-07-17 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-405
+So I mentioned before that ETLE makes the argument about how it translates to homosexuals problematic. But actually...
+
+There is one possibility: We don't have to assume that the causal effect sizes are exactly the same across the groups. We just have to provide some sort of mapping for the causal effect sizes. The trivial mapping assumes that the effect sizes are the same, but we could instead use a mapping that takes ETLE-like phenomena into account. For instance if we believe ETLE means that gynephiles have a 3x easier time becoming AGP than androphiles do, then we could say that the gender issues -> AGP effect is 3x stronger for gynephiles than androphiles.
+
+I did some simulations and it looks like one can literally just use the group difference in variance of AGP to estimate this. Like one can say "if a group has N times less exogenous variation in AGP, then that group will also have N times weaker endogenous effects on AGP", and it will be well-identified and allow simultaneous estimation of AGP -> gender issues and gender issues -> AGP effects. So maybe this line of argument isn't doomed, as long as one doesn't go down the line of arguing about lesbian AGP and such.
+
+#### [>] Zack M. Davis · 0 likes · 2022-07-20 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-406
+> whether autogynephilia-like phenomena in e.g. homosexual males are causally upstream or downstream from the gender issues they correlate with.
+
+This is a good distillation of it.
+
+> why would we even think that ordinary AGP among gynephilic males is causally homogenous? [...] ETLE x gynephilia affects sexuality in some way to make it erotic to become a woman. Maybe masochism does so too
+
+That's an interesting hypothesis.
+
+> I'm not sure what the Blanchardian answer to this is. I suspect it to be "uhhh, hmmm, I've never thought this far, I just think HSTSs and AGPs look very different so they must have different root causes".
+
+Yes 😰
+
+> But if Blanchardians haven't thought through the mediation angle, then presumably this is not the argument they would use
+
+I'm happy to concede that "Blanchardians" are Dumb and Bad if it helps us focus on what arguments are true, ignoring the irrelevancy of which faction would use them.
+
+> The factors that make a man 1.7 m tall are going to tend to be the opposite of the factors that make a woman 1.7 m tall
+
+(I don't think "the opposite of" makes sense in this context, but I get the gist.)
+
+> I'm not sure how an interpersonal context makes a difference.
+
+You know, like in [Lawrence's critique of Moser](/papers/lawrence-something_resembling_autogynephilia_in_women.pdf). My atheoretical pattern-matcher believes there's a taxonic difference between "I feel like a sexy and desirable member of the gender that I am" feelings which manifest in interpersonal contexts or anticipation thereof, and ETLE-like AGP/AAP which can be expressed interpersonally but is more fundamentally fantastical (and thus more characteristically expressed in fiction) because it's about the idea of being a gender that you're actually not. (Where your butch lesbian AAP as "actually" a man for the purposes of this argument; sorry if this is confusing.) I-feel-sexy "autosexuality" is causally downstream of "brain sex" and complements one's ordinary allosexuality ("AGP" straight cis women are allo-androphilic; your "AAP" butch lesbian is allo-gynephilic); ETLE-like AGP/AAP autosexuality is an inversion of ordinary allosexuality.
+
+> But they don't seem to be what Blanchardians emphasize autogynephilia as being like.
+
+... yes, they do? I guess I can sort of see the distinction you're making, but my atheoretical pattern-matcher thinks it's a high- vs. low-romance dimension within AGPs, and not taxonic.
+
+> But you'd still dislike it? Rather than e.g. smashing the hypothetical Scuderification button as quickly as you can?
+
+The reason point 3. seems so compelling to me as evidence for ETLE, is because I think it illustrates fantasies being "detached" from the realities of one's embodiment? I think my introspective preference ordering is "female body >>> my male body but feminized > my male body >>>> other male body but feminized > male body", but I also suspect that this ordering is suffering from a cognitive illusion. I think my brain is playing a trick on me that might be more obvious if we actually had bodyswap technology to try out; it doesn't seem consistent that my imagination treats a female bodyswap so wildly differently from an other-male bodyswap, given that I'm not horrified by actually being male.
+
+#### [>] tailcalled · 0 likes · 2022-07-20 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-407
+I'll have to write a proper response soon when I have time but just a quick clarifying question for now:
+
+> ... yes, they do? I guess I can sort of see the distinction you're making, but my atheoretical pattern-matcher thinks it's a high- vs. low-romance dimension within AGPs, and not taxonic.
+
+What do you mean here?
+
+Like what side is low-romanticism, what side is high-romanticism? By romanticism, do you mean the dimension of sexuality that likes intimacy, foreplay, etc., or something else?
+
+And: My recollection of Men Trapped In Men's Bodies is that it had basically no examples of this presentation of AGP, though I might be wrong. Am I misremembering?
+
+#### [>] Zack M. Davis · 0 likes · 2022-07-21 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-408
+I've [edited the word "necessarily"](/source?p=Ultimately_Untrue_Thought.git;a=blobdiff;f=content/2021/sexual-dimorphism-in-the-sequences-in-relation-to-my-gender-problems.md;h=6bcbbc3cebfae0440f80abe272b346de8bd3445b;hp=7557b2c275029f3c0e0044cab5e2c33132d7ef0f;hb=802380a43416b1d90e5ff377231b3f92b86a448c;hpb=2879cc3b34895f216c292755ae333414c3bfc34b) into "not even necessarily to do anything overtly 'sexy' in particular". I tend not to talk about my AGP quite in terms of "If I was a girl for a day I'd play with my boobs in front of a mirror" because that phrasing seems crass, and—disrespectful. But if I was a girl for a day, I would, in fact, play with my boobs in front of a mirror, and I can see how someone who was otherwise like me but without the beautiful pure sacred romantic self-identity thing would be more inclined to use that manner of expression.
+
+#### [>] tailcalled · 0 likes · 2022-07-24 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-409
+> This is a good distillation of it.
+
+I should note that I am now pretty sympathetic to (but not fully convinced of) the theory of "autogynephilia-like phenomena in homosexual males are mostly not due to gender issues, feminized sexuality or anything like that, but they are weak enough to not do much, and the correlation that does exist is due to gender issues -> AGP causality, rather than vice versa". I hadn't realized that this was a coherent view. Though it should be noted that I don't fully buy into it, for reasons I will explain here.
+
+> I'm happy to concede that "Blanchardians" are Dumb and Bad if it helps us focus on what arguments are true, ignoring the irrelevancy of which faction would use them.
+
+I think it can be useful to examine the various arguments and observations that Blanchardians make, even if they are Dumb and Bad. Blanchardianism often points at real phenomena or useful heuristics. It often has somewhat wrong theory about how those work, but in order to remove the Blanchardian brainworms, it can be helpful to investigate why it seemed to work, what kinds of inferences were used to go from the phenomena/heuristics to the theory, how those kinds of inferences likely fail under the conditions that we are working with, and which alternate theories generate the same phenomena and validate the same heuristics. Basically, cleaning out the bad and replacing it with the good.
+
+In particular, there's the important observation that causal inference is "solved" if e.g. you assume linearity + differing distributions, or linearity + non-Gaussianity, and that if
+
+you apply this method of causal inference to trans-related observations, there's much of AGP theory that you would likely reinvent. This seems like a plausible explanation for why people's intuitions would end up going in a Blanchardian way, right?
+
+But the trouble comes that this highly relies on linearity, yet the ways you get non-Gaussianity or distributions that differ across groups is usually through nonlinearities. We see
+
+lots of examples of that here:
+
+Homosexual males have a different distribution of autogynephilia than heterosexual males, but both Blanchardians and anti-Blanchardians agree that this is due to a nonlinear interaction with sexual orientation.
+Transsexuality has a highly skewed distribution, and skewness is non-Gaussian, but as you describe in your post, it's probably mainly due to something along the lines of a liability-threshold effect, which is highly nonlinear (and can tend to turn Gaussian distributions into long-tailed or bimodal distributions).
+Autogynephilia itself seems to be skewed. But if we assume it functions roughly like any other skewed condition like schizophrenia or getting patents for inventions, then probably it has a highly polygenic background, and this highly polygenic background interacts nonlinearly to produce much of the skew. Alternatively, one might imagine that the measures of autogynephilia are flawed because they cannot properly distinguish "negative autogynephilia"; this is formally called "floor effects", and it leads to the same problems that nonlinearity does.
+
+(I should probably give an illustration of how one can use skewness to argue for the causality of autogynephilia -> gender issues, because it was one of the arguments that convinced me initially, and it has some nice scatterplots... But as mentioned I no longer think it's a good argument.)
+
+So, combining linearity with other assumptions is actually a genuine method of causal inference in cases where the assumptions hold, so it might make sense that Blanchardians would be inclined to make that assumption and come to Blanchardian conclusions from it. But since we can see that there's lots and lots of nonlinearity in the domain under investigation, it seems questionable to make causal inference on the assumption of linearity. (I believe that it's also possible to do the opposite assumption, that the root causes are Gaussian but the relations may be nonlinear, and that this inverts many of the causal inferences that would be made. Obviously that's also a bad assumption since probably we've got nonlinear+nonGaussian, but it's worth keeping in mind.) (Another problem with a linearity assumption is that it requires actually having a way to quantify the variables, which can be done in multiple ways, though in practice the way one perceives the variables tends to favor a specific encoding. I'm unsure whether there's any principles that will tend to encourage the favored encoding to be the "right" one; John Wentworth might know. So far I've thought a lot about what implications it has but I haven't come up with any solutions.)
+
+I was just about to talk with a problem with the linear+nonGaussian method of causal inference, and how in addition to validating AGP -> gender issues it also validates something like MIGI (specifically Scott Alexander's version where there's a "broad" HSTS-like MIGI, which then causes a "narrow" AGP-like MIGI), to argue that this was very illustrative of the problems with the linearity assumption. But I probably haven't described the method in enough detail for it to make sense. 😅 So I guess it'll have to wait until later.
+
+But okay, so linearity + whatever seems like a bad approach because nobody believes in linearity. But my defense of criticizing Blanchardianism implied that I should come with a different, better approach for showing that AGP -> gender issues, so I should move on to doing that. Let's see:
+
+> Yes 😰
+
+So the thing about the mediation argument is that it gives an alternative approach to arguing about the causality, and one that I think is much better grounded. Figuring out causality from raw distributional data like time, conditional independencies, linearity, non-Gaussianity, differing distributions, etc., is famously Very Very Difficult; and I think the reason it's so difficult is because it does not make use of prior knowledge. It erases everything we know about the contents of the variables, what they refer to. Obviously a big part of how you know that autogynephilia causes gender issues is because it's a sexual interest in being a woman, rather than you just knowing that it's called gensym#8521.
+
+So to recap: My take is that we observe autogynephilia in people's sexuality; e.g. in their sexual fantasies when masturbating, in some of their sexual acts with others, etc.. So sexuality is the core mediating variable for autogynephilia, and autogynephilia is (IMO) defined by certain properties of one's sexuality. (There do appear to be some subtle questions about which properties exactly; for the moment let's just leave it at "you know it when you see it", and we'll come back to it later once the argument has been communicated.)
+
+Now I ask, what is the nature of Sexuality as a mediator? Anti-Blanchardians would have you believe all sorts of things, e.g. masochistic-CEO theory, that sexuality is an indicator of suppressed desires, or exotic becomes erotic theory, that sexuality is an indicator of what you find to be taboo. I think those theories are completely unjustified, and sexuality is obviously primarily a fixed motivator. Most people are heterosexual for obvious evolutionary reasons, and this heterosexuality makes them seek out the opposite sex as mates. Sometimes Something Weird And Unknown happens, and this makes the sexuality focus on something else, but the same basic principle that sexuality is a motivator still applies regardless of what it focuses on, and therefore when we see autogynephilia, we should expect it to be a motivator to become a woman.
+
+In fact, let's reflect for a moment. Suppose theories similar to masochistic-CEO theory and exotic becomes erotic theory were true. This would mean that you can get all sorts of weird sexual dynamics from all sorts of random psychological dynamics. If random psychological dynamics can have huge effects on one's sexuality, I would not be surprised if much of the AGP-gender issues covariance turns out to be gender issues -> AGP (or something more complicated, e.g. gender issues <- ??? -> AGP). Much of my belief about AGP -> gender issues instead comes from the idea that sexuality is relatively far up the causal streams, and is relatively directly motivating in ways analogous across targets. I... suspect Blanchardians are mostly as critical as I am about the notion of these random psychological dynamics having huge effects? E.g. I once pointed out to Bailey that his critics tend to believe in masochistic-CEO theory, and IIRC he dismissed masochistic-CEO theory as so fringe as to not even consider. But this makes me think it's quite cruxy: anti-Blanchardians believe there's lots of space for weird sexuality effects, while Blanchardians are more skeptical. (I don't know which side of this debate you take. More generally Blanchardians don't seem to argue super much about it.)
+
+What are the benefits of this approach?
+
+Rather than having to have one's analogies restricted to a rare and speculative "ETLE" concept, one can use analogies to much more familiar forms of sexuality like heterosexuality and homosexuality for talking about the motivational effects. This both expands the potential evidence-base, and makes the evidence more accessible.
+It gets at the crux of the issue: Why the heck would you believe in masochistic-CEO theory or exotic becomes erotic?? I have yet to find anyone who could give me a convincing answer to this, and when I searched the historical papers introducing exotic becomes erotic, they seemed pretty bad. So I think this is a really strong place for the AGP -> gender issues causality to argue.
+It seems far more robust. Like, consider AGP in cis women; the non-mediator-based approaches end up arguing a lot about whether this exists and what that means, e.g. if trans women's sexuality is just a feminized sexuality. But gay men's androphilia probably originates from some sort of feminization, and this doesn't make us conclude that their mating with other men isn't sexually motivated, because we understand that sexuality is a mediating variable with the property of being motivating, regardless of feminization. So the same would hold with AGP in cis women; e.g. maybe there's some sort of evolutionary "feminine display sexuality" that's triggering in autogynephilic males, but presumably this sexuality is still motivating, because that's the nature of sexuality.
+
+Of course, none of the above is proof of anything. I suspect that this line of reasoning will eventually lead to proof, if done right.
+
+One critique I've seen of this approach is that I've basically replaced "Magical Innate Gender Identity" with "Magical Innate Sexual Orientation". Which is probably a fair critique; surely there must be something which affects sexuality (after all, why else would it differ from person to person, time to time, and culture to culture?) - the question is just, what. Obviously ETLE is one proposal, though it's pretty opaque so not really useful. I think the best-supported idea is the "causal closedness condition" I talked about elsewhere in these comments; I think it has support from very many angles, and very many implications, which I probably should talk about if you're interested. But I haven't explored it as much as I should have.
+
+> You know, like in Lawrence's critique of Moser. My atheoretical pattern-matcher believes there's a taxonic difference between "I feel like a sexy and desirable member of the gender that I am" feelings which manifest in interpersonal contexts or anticipation thereof, and ETLE-like AGP/AAP which can be expressed interpersonally but is more fundamentally fantastical (and thus more characteristically expressed in fiction) because it's about the idea of being a gender that you're actually not. (Where your butch lesbian AAP as "actually" a man for the purposes of this argument; sorry if this is confusing.) I-feel-sexy "autosexuality" is causally downstream of "brain sex" and complements one's ordinary allosexuality ("AGP" straight cis women are allo-androphilic; your "AAP" butch lesbian is allo-gynephilic); ETLE-like AGP/AAP autosexuality is an inversion of ordinary allosexuality.
+
+Now, the big implication is that if we replace atheoretical pattern-matching with Magical Innate Sexual Orientation as a model for AAP-like phenomena in lesbians, then the same mediating rule that we expect to hold for any other sexual interest would also hold for AAP; AAP-like sexuality is presumably not downstream of gender issues because it would require Random Psychological Dynamics like masochistic-CEO theory, but the AAP-like sexuality is presumably upstream of the correlated gender issues because it's the nature of sexuality to be motivating. And for this it doesn't matter if it's ETLE-AAP or something else.
+
+I sometimes get the impression that one of the points of ETLE theory is to be able to say something like the above? And basically what I'm pointing out is that you don't need ETLE theory for that; yes ETLE would be a mediator too, and so ETLE would be an option for something that could have consistent and predictable causal effects, but sexuality seems like a more well-proven and well-understood mediator, so focusing on ETLE for this is a bad idea.
+
+
+
+One thing to note is, while you don't have introspective access to your "atheoretical" pattern-matcher, I think there are actually many opportunities to extract some sort of sense out of it. It probably shares some similarities to existing machine learning techniques like PCA, latent class analysis, etc.. The typical way these work is by constructing a variable that correlates as much as possible with as many as possible of the indicator variables that are fed into the technique. Usually, I think this constructed variable will tend to be highly correlated with whatever "common cause" there is which influences many of the variables.
+
+So if you feed in various things like manner of dress, vocational interests, sexuality, etc., which are highly shifted for gay people (or highly sexually dimorphic), then the resulting constructed variable will to some degree resemble "homosexuality" (or "biological sex"). And indeed it is true that lesbian AAPs are, well, lesbian. So I agree that it "pattern-matches" to gynephilia in this sense.
+
+But I think it's wrong to think of the constructed variable as being The True Taxon. The constructed variable is obviously important for many of the variables you put into the algorithm, but presumably there are many other variables that are also important. Probably the variables you put into the algorithm are variables that are important to you, and so the constructed variable will be highly useful to you. But that doesn't mean it's the central fact for any question in the general vicinity of this.
+
+
+
+Now, independent of the mediator argument, which you may or may not accept, I should probably also engage with this argument directly.
+
+You say that true AAP is fundamentally fantastical. But it seems to me that the "wear a strapon and have your girlfriend blow it while she describes the sensations that males would experience during that" is also fundamentally fantastical? The reason the girlfriend has to describe the sensations is because the AAPbian is not male, and therefore does not have those sensations. I would also wager that the fantastical element is not just in the sensation, but also that the strapon symbolizes a penis that the AAPbian fantasizes about having, though I can't remember if she explicitly state that in the thread.
+
+You seem to preempt me on this:
+
+> (Where your butch lesbian AAP as "actually" a man for the purposes of this argument; sorry if this is confusing.) I-feel-sexy "autosexuality" is causally downstream of "brain sex" and complements one's ordinary allosexuality ("AGP" straight cis women are allo-androphilic; your "AAP" butch lesbian is allo-gynephilic); ETLE-like AGP/AAP autosexuality is an inversion of ordinary allosexuality.
+
+I'm not sure how you figure this to be the case? Like I guess a good place to start is to draw the causal graph, you'd add nodes for "masculine pseudoautoandrophilia" and "feminine pseudoautogynephilia", which among other things involve finding it hot to have a penis resp. a vagina? And you'd propose that this does not influence whether one wants to be male or female? And that this is heavily influenced by sex, but indirectly so that there's within-sex variance too? And this within-sex variance is correlated with affective gender identity? Something like [this](https://imgur.com/a/DTBpEJt)? In a way it resembles [what I presume Ozy's model to be](https://surveyanon.wordpress.com/2021/01/01/causality-is-essential-reply-to-mtsw-on-autogynephilia/), of having two different autogynephilias.
+
+I want to say that I'm confused about why you would propose this theory, but I feel like I have a good guess: pattern-matching. E.g. I bet I could recreate the central part of this theory by doing a survey asking men and women whether they would find it hot to fuck using their penis during sex, how masculine/feminine they are, whether they are attracted to men or women, and whether they prefer being male or female. If I then applied e.g. PCA to the resulting data, I would find a strong "mysterious gender essence" component that correlates with all of these things in the way that your theory describes, and lesbian women would probably be strongly shifted on that. Depending on how exactly the survey and data analysis is designed, e.g. by having many more masculinity/femininty and sexual orientation items than affective gender identity and AAP-adj items, one could also set it up so that AAPs score basically female-typical (and in a mirrored situation, AGPs score male-typical) on it.
+
+So this seems to align well with your "atheoretical pattern-matching" story? But it seems to me that the idea is mostly driven by the difference between the sexes. If you studied within the sexes, then I don't think you would get the same results. Obviously if the factor exists, it would be much weaker within the sexes (due to most of the variance having been eliminated), but also I am 99% sure the factor would badly fail [the measurement bias checks that people use for e.g. IQ](http://unremediatedgender.space/2020/Apr/book-review-human-diversity/#the-length-of-a-hyperellipsoid). I think this is closely related to our discussion about masculinity/femininity vs the sex-distinguishing axis? Where I am skeptical of there being any one unified essence of masculinity/femininity, and you've tended to just throw discriminant analysis at the question. ("Brain sex" presumably refers to the sex-discriminating axis for brains? Idk)
+
+I feel like I haven't really properly addressed this issue, my arguments feel a bit rambly. 😅 But I think possibly I've made progress on explaining? But maybe I should end this part of the comment now so you can reply to it and we can go in the direction that seems most productive at that time.
+
+The causal closedness condition seems potentially important here too.
+
+> (I don't think "the opposite of" makes sense in this context, but I get the gist.)
+
+I think there are certain senses in which it can be formalized. Whether these senses are strong enough to deserve the name is of course a question of taste, but here's one sense:
+
+If you have a genetic model for how a trait comes to be, you can take the genetic contributors for the trait and correlate it with the genetic contributors for another trait. This is called a "genetic correlation", and it's almost always done with linear combinations of genetic contributors (which for nonGaussian traits may be related to the trait through some nonlinear function, e.g. a logistic function).
+
+If you get a group of American men who are approximately 1.7 m, and a group of general population American men, you can apply these sorts of genetic tools to come up with a polygenic index that distinguishes the groups. Since 1.7 m is below the average male height, this will basically just consist of the inverse of the height polygenic index, i.e. it will have a negative correlation of -1 with height in men.
+
+Similarly, you can apply this to American women, but 1.7 m is above the average American female height, so their polygenic index would have a genetic correlation of about 1 with height in women.
+
+One of the great things about genetic correlations is that you can correlate across different groups. E.g. you can genetically correlate depression in Europeans with Anxiety in Asians; this basically investigates whether the genes that distinguish depressed from non-depressed Europeans are the same that distinguish anxious from non-anxious Asians. It is possible to do this because you can take the scoring methods you fit for Asians and compute the scores among Europeans. This has various interesting utilities for investigating biases and combining datasets and such, but that's not what we're here for. Instead, we're here for comparing across the sexes. Usually, traits will have a genetic correlation of approximately 1 between men and women (this is the same principle as why men have nipples), so it's a good bet that height in men will have a genetic correlation of about 1 with height in women. But it might be somewhat lower than 1 because height is a sexually dimorphic trait (testosterone has a genetic correlation of 0, and IIRC various genital conditions have a genetic correlation of 0.5).
+
+So, being a 1.7 m man is genetically correlated at -1 with height in men, which is probably genetically correlated at around 1 with height in women, which in turn is probably genetically correlated at about 1 with being a 1.7 woman; this means that being a 1.7 m man is probably genetically correlated at -1 with being a 1.7 m woman. Genetic correlations quantify the degree of overlap between genetic causes, so this seems like a sense in which being a 1.7 m man is caused by the opposite of being a 1.7 m woman. But again YMMV about whether to accept that terminology, it's just that this is the sort of thing I was thinking of.
+
+> ... yes, they do? I guess I can sort of see the distinction you're making, but my atheoretical pattern-matcher thinks it's a high- vs. low-romance dimension within AGPs, and not taxonic.
+
+
+> I've edited the word "necessarily" into "not even necessarily to do anything overtly 'sexy' in particular". I tend not to talk about my AGP quite in terms of "If I was a girl for a day I'd play with my boobs in front of a mirror" because that phrasing seems crass, and—disrespectful. But if I was a girl for a day, I would, in fact, play with my boobs in front of a mirror, and I can see how someone who was otherwise like me but without the beautiful pure sacred romantic self-identity thing would be more inclined to use that manner of expression.
+
+So like I would do that too; the forms of autogynephilia Blanchardians usually emphasize are correlated with the "autosexual" form of autogynephilia described here.
+
+But it's not the main emphasis of my sexuality? There was a period where I decided that I should embrace my autogynephilia and tried to have more fantasies focusing on autosexual behavior and such, but it sort of dissipated again later. And I think this is generally true for autogynephilic trans women, at least within the Blanchardian sphere. I don't think MTIMB mentions this form of autogynephilia much if at all, and I don't think various other Blanchardian sources emphasize the autosexual presentation much, and I don't think this is just down to romanticism, as they often take e.g. menstruation AGP as a central example. This is despite the fact that it seems like one of the most straightforward inversions of male gynephilia and one of the most common presentations of autogynephilia in males in general.
+
+I still have not fully found the explanation for this discrepancy is there. I have some leads that form hypotheses, but the hypotheses still need more testing. (Which might not ever happen as I've mostly left the field and Blanchardians obviously won't be interested in investigating something that could lead to uncovering errors in the foundations.) But I just thought it would be worth pointing out, as an [boring and annoying technical matter entirely within the general Blanchardian paradigm](https://astralcodexten.substack.com/p/criticism-of-criticism-of-criticism).
+
+> The reason point 3. seems so compelling to me as evidence for ETLE, is because I think it illustrates fantasies being "detached" from the realities of one's embodiment? I think my introspective preference ordering is "female body >>> my male body but feminized > my male body >>>> other male body but feminized > male body", but I also suspect that this ordering is suffering from a cognitive illusion. I think my brain is playing a trick on me that might be more obvious if we actually had bodyswap technology to try out; it doesn't seem consistent that my imagination treats a female bodyswap so wildly differently from an other-male bodyswap, given that I'm not horrified by actually being male.
+
+I'm not entirely sure I understand how it is supposed to be evidence, but I'm not sure it matters:
+
+So the reason I'm poking at it is because I think it's unlikely to be strong evidence. There's a lot of within-individual within-factor variation, and rank orderings seem notoriously unstable to me. I'm not sure what the typical rank-ordering would be, but I think there would be a lot of variance around it, and so I am not sure that the rank ordering of any one individual would be of strong evidentiary value, unless one proposes that the causal direction varies wildly from individual to individual. In particular I suspect that most unpasssable trans women would definitely go for having their body shape replaced with an entirely different one that is highly passable.
+
+> That's an interesting hypothesis.
+
+It's an interesting hypothesis that others have come up with and which I am one of the main critics of. 😅 But my criticism is actually probably quite important because the style of criticism also informs my view on other things like gAyGP.
+
+So basically, here's an argument for the AGP two-type masochism vs ETLE theory: Some autogynephiles have sexual fantasies that focus on forced feminization, symbolic emasculation, and stuff like that. Other autogynephiles have sexual fantasies that focus on being an attractive woman. These can be very different in lots of ways, e.g. I know a sthenolagnic AGP who is aroused by fantasies of being a muscular queen and similar, which seems like almost the opposite of the masochistic emasculation type stuff. These seem like very different things with different fundamental principles for what is considered arousing, so probably they are Taxonically Different, by informal pattern-matching.
+
+Now my critique of this is, what if it instead originates as an interaction effect? I.e. what if there is a general autogynephilia factor, and the sexual fantasies turn into masochistic emasculation when the AGP factor is combined with masochism, and turn into other things when the AGP factor is combined with other things. For instance, if you imagine that a fantasy consists of a bag of themes, and that a sexual orientation consists of an arousability for each theme, and that people pick the most arousing fantasies (seems like a natural model to me? idk what you think), then you could see this sort of effect going on.
+
+This is not a problem that is easily solved atheoretically. One can propose some different theories for what latent factors there may be and how these relate to observed variables. I tried to test some theories and found that the interaction effect was better supported than the "MEF" theory (that autogynephilia is a form of masochism), but one can probably come up with some variant theories that haven't been tested yet.
+
+#### [>] tailcalled · 0 likes · 2022-07-25 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-410
+Also, with the way you and most other people seem to use the word "taxonic", I wonder if I should write an explainer on it. It seems to me that people equate the taxonicity debate ends up degenerating into a "fake vs real" heuristic, which gets used to be informative on questions that are conceptually mostly independent of taxonicity like "psychosocial vs biological" and the "formative variable vs latent variable" debates. Meanwhile the actual tools and concepts developed for taxonicity is more about testing "continuous vs discrete". But all 8 combinations are conceivable in different contexts, so it doesn't make sense to treat it as a simple "continuous psychosocial formative vs biological latent discrete" question. And ultimately all of these are separate from whether something is real.
+
+I think I understand the historical coincidences that lead to all of these notions got mixed together. But it's still worth making the distinction personally.
+
+#### [>] tailcalled · 0 likes · 2022-07-26 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-411
+In particular, I agree that there probably is a taxonic difference between gAyGPs and gynephilic AGPs. Because homosexuality in males appears to be discrete rather than continuous. But that's a different question from whether their sexuality can be observed through the same means across the groups (measurement invariance), which in turn is also a somewhat different but difficult to separate question from whether their sexuality works the same way across the groups (structural invariance).
+
+Taxonicity just means there's a discrete difference. Invariance violations require that certain causal paths are nonlinearly different, which has no particular relation to taxonicity, as continuous variables can have nonlinear effects just as well as discrete variables can.
+
+But I should probably go into much more depth if you are interested because the psychometric literature is pretty bad at explaining these things IME, as they don't properly call out which things are Fundamental and which things are just heuristics. Much of their fancy math is just glorified heuristics.
+
+#### [>] tailcalled · 1 likes · 2022-07-27 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-412
+> Now my critique of this is, what if it instead originates as an interaction effect?
+
+I guess an additional thing that should be noted is, many theories predict an interaction effect, though sometimes in different ways. My model was a very naive "bag of themes" model. Maybe that's wrong and instead something more like ETLE is right. However, ETLE also predicts interaction effects, in that AGPs would focus on being the kind of woman they personally find attractive, which interacts with what kind of woman they find attractive.
+
+I think the basic ETLE model gets some predictions wrong here that the "bag of themes" model gets right. E.g. forced feminization seems to correlate with more general non-AGP humiliation masochism, whereas ETLE interaction model would predict it to more correlate with non-AGP humiliation sadism.
+
+Further factor analysis might reveal some even better model than the bag of themes model, but for now the bag of themes model is my default model.
+
+#### [-] Avalanche · 0 likes · 2022-07-12 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-393
+Thank you for this. I've had a strong hunch "BSTS" is a thing too - just because a feminine male-attracted male has at least a crumb of attraction to women doesn't mean transition is due to autogynephilia. An example is Veondre Mitchell (@veondre on TikTok), who took puberty blockers and HRT in youth and has claimed to have a "bi awakening" with gal pals, like a typical Kinsey 1 woman who proudly labels it - typical "trans kid" story. Paris Lees, groomed in youth as a "rentboy," also claims to be bisexual and doesn't seem to be AGP at all.
+
+#### [>] tailcalled · 0 likes · 2022-07-12 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-394
+I don't see how you're able to diagnose Veondre Mitchell and Paris Lees as non-AGP. Have they talked about their sexuality anywhere or otherwise shown evidence on their level of AGP?
+
+#### [-] sparklesdire · 0 likes · 2022-08-04 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-421
+Forgive me if this is something you've discussed before - I'm only a sporadic if longtime reader of your blog, and I know  you've considered these kinds of questions, so feel free to just link me to previous posts. But I am curious about how this model accounts for initially AGP trans women's experiences of their bodies and genders after transition, which do not seem very AGP-related and seem to converge with the experiences of never-AGP trans women.
+
+AGP has this weird characteristic of appearing to disappear or be diminished once people transition, either being totally replaced by a less dissociative  sexuality or becoming just one relatively weak kink among many. I've previously read arguments that this is because AGP is now being satisfied /all the time/, but it's hard to square that with my own experience (as an initially/former AGP trans woman) of not at all  feeling like I am constantly being sexually satisfied, and having day by day patterns of arousal and non-arousal that seem little different from my cis female friends.
+
+Likewise,  it is a very common experience for AGPs who transition to experience a holistic sense of union with their own body and a greater comfort with themselves and their own identity that goes way beyond sexuality or arousal. This seems weird if our feelings of transness are largely caused by AGP!  Or, if  these feelings actually stem from the other causal factors you outline - inherent femininity, cultural  factors - does it make sense that they are experienced as more powerful and encompassing than AGP feelings, even when AGP is the primary cause?
+
+To make my priors clear, I do think these dynamics are more intuitively and economically explained by AGP being an epiphenomenon of some deeper factor. But this remains a deeply mysterious topic to me, so I appreciate you laying out your model.
+
+#### [>] tailcalled · 0 likes · 2022-08-04 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-422
+I think the longitudinal trajectories of AGP is one of the things I'm most confused about, and which is hardest to say anything informed about. So I would like to add an extra question, both for you sparklesdire and for Mark and for anyone else reading this:
+
+What do we feel is the most solid information we have about the typical trajectories of AGP with transition? All of the options I can think of seem to fall into one of the three following categories:
+
+Retrospective reports from trans women deep into transition
+Comparisons of trans women who are deep in transition with trans women who are early in transition
+Individual anecdotes of people one knows who have transitioned
+
+I think I have a good sense of what the answer is for 2, while I'm maximally confused about the results of 1, and don't think I've got meaningful sample size/representativeness to make anything of 3. But all three seem fairly brittle, so I'd be curious if we have any more robust information, and also about what other people's impressions of the typical trajectories according to 1 2 and 3 are.
+
+Basically, how do we know what we believe about this?
+
+#### [>] sparklesdire · 0 likes · 2023-07-20 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-534
+Seeing Zack's recent posts floating around on Twitter has reminded me that I never responded to you here, so – on the off chance that you have email alerts for new comments or suchlike – I am doing so now!
+
+You ask a good question, and I don't know the answer. I agree that those are the three most forthcoming categories of evidence, and that they are fairly brittle. Personally, I have quite a /lot/ of 3, but that doesn't magically transform anecdata into something more robust.
+
+Some other ideas:
+
+Maybe studies of trans women's sexuality, sexual fantasies, and feelings about sexual embodiment might provide useful info, assuming any such studies exist? Ideally they would also count the absence of AGP fantasies, or count some attribute that could serve as a proxy if Blanchardism is true (eg age at transition).
+
+Maybe studies and surveys about trans women's life experiences and views of the world in general could be compared to studies and surveys about cis women, again ideally with some kind of partial proxy of AGP fantasies?
+
+Maybe if someone literally just did a bunch of surveys of AGP and ex-AGP transfems? I see no way to make this representative, but since we're so in the dark about the 'typical' trajectory of people in this tiny category, I feel like simply getting more numbers would still be helpful.
+
+
+At least with regards to myself, these questions are much simpler: I can only believe what my experiences permit me to believe. I suppose it's /possible/ that all these holistic, non-sexual aspects of my life are actually somehow consequences of an old fetish that I don't really experience anymore, rather than said fetish simply having been the first way in which those things were expressed. But it sure doesn't seem like the most likely possibility. Similarly, it's technically still true that I can only get off when I think of myself as a woman, because being treated as or thinking of myself as a man is a huge sexual no-no to me. But since I now think of myself as a woman at all times, and live as one too, that does not seem very remarkable. :P
+
+(If you would find it interesting or useful, I am happy to describe my own experiences to you in more detail. Or not, as you prefer!)
+
+#### [-] FlySoulmates (@FlySoulMates) · 0 likes · 2024-03-29 · http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-572
+I recommend this spell caster, if you want to win back your Ex-lover, if you want to fix relationship/marriage problem .. Do you want your ex back? I got my lover back with his help.. Email:Robinsonbuckler11@gmail.com..
+
+1)Win lost lover back
+
+2)Stop Divorce.
+
+3)Save marriage/Relationship
+
+4)Win ex boyfriend/girlfriend back
+
+5)Fix relationship/marriage issues
+
+6)Win Soulmate back.
+
+7)Make Ex run after you
+
+8)Return /reunite with Ex
+
+9)Reclaim my lover
+
+10)Make Ex husband/wife yours forever

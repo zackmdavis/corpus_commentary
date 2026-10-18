@@ -1,0 +1,2 @@
+chapter-B.html = Opus (pilot/opus/chapter.html)
+chapter-A.html = Fable (pilot/fable/index.html)

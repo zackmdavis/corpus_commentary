@@ -1,0 +1,896 @@
+{
+ "post": {
+  "_id": "GEJzPwY8JedcNX2qz",
+  "title": "Blegg Mode",
+  "postedAt": "2019-03-11T15:04:20.136Z",
+  "pageUrl": "https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode",
+  "commentCount": 68
+ },
+ "fetched": "2026-10-13",
+ "comments": [
+  {
+   "_id": "QjkZFkab4DQ6eKnyg",
+   "parentCommentId": null,
+   "postedAt": "2019-03-12T01:53:19.243Z",
+   "baseScore": 2,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "The description here seems a little ... disingenuous.\n\n\\[EDITED to add:\\] I see that this has been downvoted at least once. I don't object at all to being downvoted but find it hard to tell from just a downvote what it is that has displeased someone; if anyone would like to indicate why they dislike this comment, I'm all ears. (Objection to \"disingenuous\" as too harsh? Preferring the \"deniable allegory\", as Zack puts it, to remain deniable for longer? Disliking what they guess to be my position on the specific issue it's an allegory for? ...)"
+   }
+  },
+  {
+   "_id": "G737R8Z7maFptuAr6",
+   "parentCommentId": "QjkZFkab4DQ6eKnyg",
+   "postedAt": "2019-03-12T03:55:35.391Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Can you say more? What should the description say instead? (I'm _guessing_ you're referring to the fact that the post has some subtext that probably isn't a good topic fit for _Less Wrong_? But I would argue that the _text_ (using the blegg/rube parable setting to make another point about the cognitive function of categorization) totally is relevant and potentially interesting!)"
+   }
+  },
+  {
+   "_id": "mcWMTWTQQAfH8aTBx",
+   "parentCommentId": "G737R8Z7maFptuAr6",
+   "postedAt": "2019-03-12T12:52:48.988Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "\"Fanfiction for the blegg/rube parable\" and \"to make another point about the cognitive function of categorization\" are both completely ignoring the very large elephant in the rather small room.\n\nThe *actual* topic of the piece is clearly the currently hot topic of How To Think About Trans People. (Words like \"trans\" and \"gender\" are never mentioned, but it becomes obvious maybe four or five paragraphs in.) Which is a sufficiently mindkilling topic for sufficiently many people that maybe it's worth mentioning.\n\n(Or maybe not; you might argue that actually readers are more likely to be able to read the thing without getting mindkilled if their attention isn't drawn to the mindkilling implications. But I don't think many of those likely to be mindkilled will miss those implications; better to be up front about them.)"
+   }
+  },
+  {
+   "_id": "FFotpC2bX9wWwbYCz",
+   "parentCommentId": "mcWMTWTQQAfH8aTBx",
+   "postedAt": "2019-03-12T14:46:52.302Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "Thanks. In retrospect, possibly a better approach for this venue would have been to carefully rewrite the piece for _Less Wrong_ in a way that strips more subtext/conceals more of the elephant (_e.g._, cut the \"disrespecting that effort\" paragraph). "
+   }
+  },
+  {
+   "_id": "rRW59uDjfQYmSJ7bP",
+   "parentCommentId": "mcWMTWTQQAfH8aTBx",
+   "postedAt": "2019-03-12T15:50:59.043Z",
+   "baseScore": 9,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> better to be up front about them\n\n... you're right. (I like the _aesthetics_ of the \"deniable allegory\" writing style, but delusionally expecting to get away with it is trying to have one's cake and eat it, too.) I added a \"Content notice\" to the description here."
+   }
+  },
+  {
+   "_id": "cp2KbiyJq42npohKF",
+   "parentCommentId": "QjkZFkab4DQ6eKnyg",
+   "postedAt": "2019-03-12T20:05:30.297Z",
+   "baseScore": 28,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "I downvoted bc the description is disingenuous only if it\u2019s common knowledge that the Rationalist project is so doomed that an attempt to correct a politically motivated epistemic error via an otherwise entirely depoliticized fictional example in a specifically Rationalist space is construed as a political act.\r\n\r\nFine to argue that this is the case (thus contributing to *actual* common knowledge), but insinuating it seems like a sketchy way of making it so."
+   }
+  },
+  {
+   "_id": "7E2cTPF8oTP9TmZ7T",
+   "parentCommentId": "cp2KbiyJq42npohKF",
+   "postedAt": "2019-03-13T00:02:02.841Z",
+   "baseScore": 16,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Thanks for the explanation!\n\nIt's rather condensed, so it's very possible that my inability to see how it's a fair criticism of what I wrote is the result of my misunderstanding it. May I attempt to paraphrase your criticism at greater length and explain why I'm baffled? I regret that my attempt at doing this has turned out awfully long; at least it should be explicit enough that it can't reasonably be accused of \"insinuating\" anything...\n\nSo, I think your argument goes as follows. (Your argument, as I (possibly mis-) understand it, is in roman type with numbers at the start of each point. Italics indicate what I can't make sense of.)\n\n1\\. The purpose of the linked article is not best understood as political, but as improving epistemic hygiene: its purpose is to correct something that's definitely an error, an error that merely happens to arise as a result of political biases.\n\n*It isn't clear to me what this error is meant to be. If it's something like \"thinking that there must be a definite objectively-correct division of all things into bleggs and rubes\" then I agree that it's an error but it's an error already thoroughly covered by **EY's and SA's posts linked to in the article itself**, and in any case it doesn't seem to me that the article is mostly concerned with making that point; rather, it presupposes it. The other candidates I can think of seem to me not to be clearly errors at all.*\n\n*In any case, it seems to me that the main point of the linked article is **not** to correct some epistemic error, but to propose a particular position on the political issue it's alluding to, and that most of the details of its allegory are chosen specifically to support that aim.*\n\n2\\. The author has taken some trouble to address this error in terms that are \"entirely depoliticized\" as far as it's possible for it to be given that the error in question is politically motivated.\n\n*I think what I think of this depends on what the error in question is meant to be. E.g., if it's the thing I mentioned above then it seems clear that the article could easily have been much less political while still making the general point as clearly. In any case, calling this article \"depoliticized\" seems to me like calling Orwell's \"Animal Farm\" depoliticized because it never so much as **mentions** the USSR. Constructing a hypothetical situation designed to match your view of a politically contentious question and drawing readers' attention to that matchup is not \"depoliticized\" in any useful sense.*\n\n3\\. My description of Zack's description as \"disingenuous\" amounts to an accusation that Zack's posting the article here is a \"political act\" (which I take to mean: an attempt to manipulate readers' political opinions, or perhaps to turn LW into a venue for political flamewars, or something of the kind).\n\n*I do in fact think that Zack's purpose in posting the article here is probably at least in part to promote the political position for which the article is arguing, and that if that isn't so -- if Zack's intention was simply to draw our attention to a well-executed bit of epistemology -- then it is likely that Zack finds it well-executed partly because of finding it politically congenial. In that sense, I do think it's probably a \"political act\". My reasons for thinking this are (1) that my own assessment of the merits of the article purely as a piece of philosophy is not positive, and (2) that the political allegory seems to me so obviously the main purpose of the article that I have trouble seeing why anyone would recommend it for an entirely separate purpose. More on this below. I could of course be wrong about Zack's opinions and/or about the merits of the article as an epistemological exercise.*\n\n*It seems relevant here that Zack pretty much agreed with my description: see his comments using terms like \"deniable allegory\", \"get away with it\", etc.*\n\n4\\. That could only be a reasonable concern if the people here were so bad at thinking clearly on difficult topics as to make the project of improving our thinking a doomed one.\n\n*I have no idea why anything like this should be so.*\n\n5\\. And it could only justify calling Zack's description \"disingenuous\" if that weren't only true but common knowledge -- because otherwise a better explanation would be that Zack just doesn't share my opinion about how incapable readers here are of clear thought on difficult topics.\n\n*That might be more or less right (though it wouldn't require quite so much as actual common knowledge) if point 4 were right, but as mentioned above I am entirely baffled by point 4.*\n\nHaving laid bare my confusion, a few words about what I take the actual purpose of the article to be and why, and about its merits or demerits as a piece of philosophy. (By way of explaining some of my comments above.)\n\nI think the (obvious, or so it seems to me) purpose of the article is to argue for the following position: \"Trans people \\[*adapted bleggs*\\] should be regarded as belonging not to their 'adopted' gender \\[*you don't really put them in the same mental category as bleggs*\\], but to a category separate from either of the usual genders \\[*they seem to occupy a third category in your ontology of sortable objects*\\]; if you have to put people into two categories, trans people should almost always be grouped with their 'originally assigned' gender \\[*so that you can put the majority of palladium-containing ones in the palladium bin (formerly known as the rube bin) ... 90% of the adapted bleggs\u2014like 98% of rubes, and like only 2% of non-adapted bleggs\u2014contain fragments of palladium*\\].\" And also, perhaps, to suggest that no one *really truly* thinks of trans people as quite belonging to their 'adopted' gender \\[*And at a glance, they look like bleggs\u2014I mean, like the more-typical bleggs ... you don't really put them in the same mental category as bleggs*\\].\n\n(Note: the article deals metaphorically only with one sort of transness -- rube-to-blegg. Presumably the author would actually want at least *four* categories: blegg, rube, rube-to-blegg, blegg-to-rube. Perhaps others too. I'm going to ignore that issue because this is plenty long enough already.)\n\nI don't think this can reasonably be regarded as *correcting an epistemic error*. There's certainly an epistemic error in the vicinity, as I mentioned above: the idea that we have to divide these hypothetical objects into exactly two categories, with there being a clear fact of the matter as to which category each object falls into -- and the corresponding position on gender is equally erroneous. But *that* is dealt with in passing in the first few paragraphs, and most of the article is arguing not merely for *not making that error* but for *a specific other position*, the one I described in the paragraph preceding this one. And *that* position is not so clearly correct that advocating it is simply a matter of correcting an error.\n\n(Is it not? No, it is not. Here are three other positions that contradict it without, I think, being flat-out wrong. 1. \"We shouldn't put trans people in a third distinct category; rather, we should regard the usual two categories as fuzzy-edged, try to see them less categorically, and avoid manufacturing new categories unless there's a really serious need to; if someone doesn't fit perfectly in either of the two usual categories, we should resist the temptation to look for a new category to put them in.\" 2. \"Having noticed that our categories are fuzzy and somewhat arbitrary, we would do best to stick with the usual two and put trans people in the category of their 'adopted' gender. We will sometimes need to treat them specially, just as we would in any case for e.g. highly gender-atypical non-trans people, but that doesn't call for a different category.\" 3. \"Having noticed \\[etc.\\], we would do best to stick with the usual two and put trans people in the category of their 'originally assigned' gender. We will sometimes need \\[etc.\\].\")\n\nI've indicated that if I consider the article as an epistemological exercise rather than a piece of political propaganda, I find it unimpressive. I should say a bit about why.\n\nI think there are two bits of actual epistemology here. The first is the observation that we don't have to put all of our bleggs/rubes/whatever into two boxes and assume that the categorization is Objectively Correct. Nothing wrong with that, but it's also not in any sense a contribution of this article, which already links to earlier pieces by Eliezer and Scott that deal with that point well.\n\nThe second is the specific heuristic the author proposes: make a new category for things that have \"cheap-to-detect features that correlate with more-expensive-to-detect features that are decision-relevant with respect to the agent's goals\". So, is this a good heuristic?\n\nThe first thing I notice about it is that it isn't a great heuristic even when applied to the specific example that motivates the whole piece. As it says near the start: 'you have no way of knowing how many successfully \"passing\" adapted bleggs you've missed'. Trans-ness is not always \"cheap to detect\". I guess it's cheaper to detect than, say, sex chromosomes. OK -- and how often are another person's sex chromosomes \"decision-relevant with respect to the agent's goals\"? Pretty much only if the agent is (1) a doctor treating them or (2) a prospective sexual partner who is highly interested in, to put it bluntly, their breeding potential. Those are both fairly uncommon -- for most of us, very few of the people we interact with are either likely patients or likely breeding partners.\n\nWhat about other cases where new categories have turned out to be wanted? Trying to think of some examples, it seems to me that what matters is simply the presence of features that are \"decision-relevant with respect to the agent's goals\". Sometimes they correlate with other cheaper-to-identify features, sometimes not. There are *isotopes*: we had the chemical elements, and then it turned out that actually we sometimes need to distinguish between U-235 and U-238. In this case it happens that you can distinguish them by mass, which I guess is easier than direct examination of the nuclei, but it seems to me that we'd care about the difference even if we couldn't do that, and relatively cheap distinguishability is not an important part of why we have separate categories for them. Indeed, when isotopes were first discovered it was by observing nuclear-decay chains. There are *enantiomers*: to take a concrete example, in the wake of the thalidomide disaster it suddenly became clear that it was worth distinguishing R-thalidomide from S-thalidomide. Except that, so far as I can tell, it isn't actually feasible to separate them, and when thalidomide is used medically it's still the racemic form and they just tell people who might get pregnant not to take it. So there doesn't seem to be a cheap-to-identify feature here in any useful sense. There are *different types of supernova* for which I don't see any cheap-feature/relevant-feature dichotomy. There are *intersex people* whose situation has, at least logically speaking, a thing or two in common with trans people; in many cases the way you identify them is by checking their sex chromosomes, which is exactly the \"expensive\" feature the author identifies in the case of trans people.\n\nI'm really not seeing that this heuristic is a particularly good one. It has the look, to me, of a principle that's constructed in order to reach a particular conclusion. Even though, as I said above, I am not convinced that it applies all that well even to the specific example I think it was constructed for. I also don't think it applies particularly well in the hypothetical situation the author made up. Remember those 2% of otherwise ordinary bleggs that contain palladium? Personally, I'd want a category for those, if I found myself also needing one for \"adapted bleggs\" because of the palladium they contain. It might be impracticably expensive, for now, to scan all bleggs in case they belong to the 2%, but I'd be looking out for ways to identify palladium-containing bleggs, and *all palladium-containing bleggs* might well turn out in the end to be a \"better\" category than \"adapted bleggs\", especially as only 90% of the latter contain palladium.\n\nSo, as I say, not impressive epistemology, and it looks to me as if the principle was constructed for the sake of this particular application. Which is one more reason why I think that that application is the sole real *point* of the article."
+   }
+  },
+  {
+   "_id": "FA6D5erhhfKYvkfxz",
+   "parentCommentId": "mcWMTWTQQAfH8aTBx",
+   "postedAt": "2019-03-13T00:11:00.552Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "WTF.  I didn't downvote (until now), but didn't see any point to so many words basically saying \"labels are lossy compression, get over it\".\n\nNow that I actually notice the website name and understand that it's an allegory for a debate that doesn't belong here (unless gender categorization somehow is important to LW posts), I believe it also doesn't belong here.  I believe that it doesn't belong here regardless of which side I support (and I don't have any clue what the debate is, so I don't know what the lines are or which side, if any, I support).  "
+   }
+  },
+  {
+   "_id": "6t5kWvncKjvJnFPrN",
+   "parentCommentId": "FA6D5erhhfKYvkfxz",
+   "postedAt": "2019-03-13T00:57:51.533Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Quick note that the mod team had been observing this post and the surrounding discussion and not 100% sure how to think about it. The post itself is sufficiently abstracted that unless you're already aware of the political discussion, it seemed fairly innocuous. Once you're aware of the political discussion it's fairly blatant. It's unclear to me how bad this is.\n\nI do not have much confidence in any of the policies we could pick and stick to here. I've been mostly satisfied with the resulting conversation on LW staying pretty abstract and meta level."
+   }
+  },
+  {
+   "_id": "cZ7wKCkzw9gEYQMkS",
+   "parentCommentId": "6t5kWvncKjvJnFPrN",
+   "postedAt": "2019-03-13T01:16:06.929Z",
+   "baseScore": 10,
+   "user": {
+    "username": "Raemon",
+    "displayName": "Raemon"
+   },
+   "contents": {
+    "markdown": "Perhaps also worth noting: I was looking through two other recent posts, [Tale of Alice Almost](https://www.lesswrong.com/posts/QLmSFeFexgTLsNeeA/the-tale-of-alice-almost-strategies-for-dealing-with-pretty) and [In My Culture](https://www.lesswrong.com/posts/4EGYhyyJXSnE7xJ9H/in-my-culture), through a similar lens. They each give me the impression that they are relating in some way to a political dispute which has been abstracted away, with a vague feeling that the resulting post may somehow still be a part of the political struggle.\n\nI'd like to a have a moderation policy (primarily about whether such posts get frontpaged) that works regardless of whether I actually know anything about any behind-the-scenes drama. I've mulled over a few different such policies, each of which would result in different outcomes as to which of the three posts would get frontpaged. But in each case the three posts are hovering near the edge of however I'd classify them.\n\n(The mod team was fairly divided on how important a lens this was and/or exactly how to think about, so just take this as my own personal thoughts for now)"
+   }
+  },
+  {
+   "_id": "Bo8ZfLqi8k3n8wkHs",
+   "parentCommentId": "FA6D5erhhfKYvkfxz",
+   "postedAt": "2019-03-13T01:17:11.256Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> unless [...] categorization somehow is important to LW posts\n\nCategorization is _hugely_ relevant to _Less Wrong_! We had [a whole Sequence](https://www.lesswrong.com/posts/FaJaCgqBKphrDzDSj/37-ways-that-words-can-be-wrong) about this!\n\nOf course, it would be _preferable_ to talk about the epistemology of categories with [non-distracting](https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer) examples if at all possible. One traditional strategy for avoiding such distractions is to abstract the meta-level point one is trying to make into a _fictional parable_ about non-distracting things. See, for example, Scott Alexander's [\"A Parable on Obsolete Ideologies\"](https://www.lesswrong.com/posts/Ltey8BS83qSkd9M3u/a-parable-on-obsolete-ideologies), which isn't actually about Nazism\u2014or rather, I would say, is about something _more general_ than Nazism.\n\nUnfortunately, this is extremely challenging to do well\u2014most writers who attempt this strategy  fail to be subtle enough, and the parable falls flat. For this they deserve to be downvoted."
+   }
+  },
+  {
+   "_id": "N2W88Tons5ScqQbmQ",
+   "parentCommentId": "7E2cTPF8oTP9TmZ7T",
+   "postedAt": "2019-03-13T03:05:45.142Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> It seems relevant here that Zack pretty much agreed with my description: see his comments using terms like \"deniable allegory\", \"get away with it\", etc.\n\nSo, from my perspective, I'm facing a pretty difficult writing problem here! (See [my reply to Dagon](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#Bo8ZfLqi8k3n8wkHs).) I _agree_ that we don't want _Less Wrong_ to be a politicized space. On the other hand, I _also_ think that a lot of self-identified rationalists _are_ making a politically-motivated epistemology error in asserting category boundaries to be somewhat arbitrary, and it's kind of _difficult_ to address what I claim is the error without even so much as _alluding_ to the object-level situation that I think is motivating the error! For the long, object-level discussion, see my reply to Scott Alexander, [\"The Categories Were Made for Man To Make Predictions\"](http://unremediatedgender.space/2018/Feb/the-categories-were-made-for-man-to-make-predictions/). (Sorry if the byline mismatch causes confusion; I'm using a pen name for that blog.) I didn't want to share \"... To Make Predictions\" on _Less Wrong_ (er, at least not as a top-level post), because that clearly _would_ be too political. But I thought the \"Blegg Mode\" parable was sufficiently sanitized such that it would be OK to share as a link post here?\n\nI confess that I didn't put a lot of thought into the description text which you thought was disingenuous. I don't think I was being _consciously_ disingenuous ([bad intent is a disposition, not a feeling!](http://benjaminrosshoffman.com/bad-faith-behavior-not-feeling/)), but after you pointed it out, I do see your point that, since there _is_ some unavoidable political context here, it's probably better to explicitly label that, because readers who had a prior expectation that no such context would exist would feel misled upon discovering it. So I added the \"Content notice\" to the description. Hopefully that addresses the concern?\n\n> our categories are [...] somewhat arbitrary\n\nNo! Categories are _not_ \"somewhat arbitrary\"! There is _structure_ in the world, and intelligent agents need categories that [carve the structure at the joints](https://www.lesswrong.com/posts/d5NyJ2Lf6N22AD9PB/where-to-draw-the-boundary) so that they can make efficient probabilistic inferences about the variables they're trying to optimize! [\"Even if you cannot do the math, knowing that the math exists tells you that the dance step is precise and has no room in it for your whims.\"](http://yudkowsky.net/rational/virtues/) We had [a whole Sequence](https://www.lesswrong.com/posts/FaJaCgqBKphrDzDSj/37-ways-that-words-can-be-wrong) about this! Doesn't anyone else _remember_?!\n\n> Trans-ness is not always \"cheap to detect\". I guess it's cheaper to detect than, say, sex chromosomes. OK -- and how often are another person's sex chromosomes \"decision-relevant with respect to the agent's goals\"?\n\nYou seem to be making some assumptions about which parts of the parable are getting mapped to which parts of the real-world issue that obviously inspired the parable. I don't think this is the correct venue for me to discuss the real-world issue. On _this_ website, under this byline, I'd rather only talk about bleggs and rubes\u2014even if you were correct to point out that it would be disingenuous for someone to expect readers to pretend not to notice the real-world _reason_ that we're talking about bleggs and rubes. With this in mind, I'll respond below to a modified version of part of your comment (with edits bracketed).\n\n> I guess it's cheaper to detect than, say, [palladium or vanadium content]. OK -- and how often [is a sortable object's metal content] \"decision-relevant with respect to the agent's goals\"? Pretty much only if [you work in the sorting factory.] [That's] fairly uncommon -- for most of us, very few of the [sortable objects] we interact with [need to be sorted into bins according to metal content].\n\nSure! But reality is [very high-dimensional](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace)\u2014bleggs and rubes have _other_ properties besides color, shape, and metal content\u2014for example, the properties of being flexible-_vs_.-hard or luminescent-_vs_.-non-luminescent, as well as many others that didn't make it into the parable. If you care about making accurate predictions about the many properties of sortable objects that you can't immediately observe, then how you draw your category boundaries _matters_, because your brain is going to be [using the category membership you assigned in order to derive your prior expectations about the variables that you haven't yet observed](https://www.lesswrong.com/posts/gDWvLicHhcMfGmwaK/conditional-independence-and-naive-bayes).\n\n> sex chromosomes, which is exactly the \"expensive\" feature the author identifies in the case of trans people.\n\nThe author did _no such thing_! It's epistemology fiction about bleggs and rubes! It's true that I came up with the parable _while_ I was trying to _think carefully_ about transgender stuff that was of [direct and intense personal relevance to me](http://unremediatedgender.space/2017/Sep/hormones-day-156-developments-doubts-and-pulling-the-plug-or-putting-the-cis-in-decision/). It's true that it would be disingenuous for someone to expect readers to not-notice that I was trying to think about trans issues. (I mean, it's [in the URL](http://unremediatedgender.space/).) But I didn't say anything about chromosomes! [\"If confusion threatens when you interpret a metaphor as a metaphor, try taking everything _completely literally_.\"](http://yudkowsky.net/rational/the-simple-truth/)\n\n> Trying to think of some examples, it seems to me that what matters is simply the presence of features that are \"decision-relevant with respect to the agent's goals\". [...]\n\nThanks for this substantive, _on-topic_ criticism! I would want to think some more before deciding how to reply to this.\n\n**ADDENDUM**: I thought some more and wrote a [sister comment](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#69nHr3G3eaWjg2tpN)."
+   }
+  },
+  {
+   "_id": "8T6B7dMYk2RygPebT",
+   "parentCommentId": "6t5kWvncKjvJnFPrN",
+   "postedAt": "2019-03-13T03:45:36.584Z",
+   "baseScore": 5,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "My current model is that I am in favor of people trying to come up with general analogies, even if they are in the middle of thinking about mindkilling topics. I feel like people have all kinds of weird motivations for writing posts, and trying to judge and classify based on them is going to be hard and set up weird metacognitive incentives, whereas just deciding whether something is useful for trying to solve problems in general has overall pretty decent incentives and allows us to channel a lot of people's motivations about political topics into stuff that is useful in a broader context. (And I think some of Sarah Constantin's stuff is a good example of ideas that I found useful completely separate from the political context and where I am quite glad she tried to abstract them away from the local political context that probably made her motivated to think about those things)"
+   }
+  },
+  {
+   "_id": "dYvMBYQRBimPgR3CT",
+   "parentCommentId": "Bo8ZfLqi8k3n8wkHs",
+   "postedAt": "2019-03-13T03:46:55.993Z",
+   "baseScore": 3,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "I think I roughly agree with this, though the LW team definitely hasn't discussed this at length yet, and so this is just my personal opinion until I've properly checked in with the rest of the team."
+   }
+  },
+  {
+   "_id": "c7HkLWFmMNZBSb52f",
+   "parentCommentId": "mcWMTWTQQAfH8aTBx",
+   "postedAt": "2019-03-13T03:49:36.597Z",
+   "baseScore": 10,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "When I first read the post, I did not notice any reference to any mindkilling topics and was actually quite confused and surprised when I saw the comments about all of this being about something super political, and still found the post moderately useful. So I do think that I am a counterexample to your \"I don't think many of those likely to be mindkilled will miss those implications; \" argument."
+   }
+  },
+  {
+   "_id": "69nHr3G3eaWjg2tpN",
+   "parentCommentId": "7E2cTPF8oTP9TmZ7T",
+   "postedAt": "2019-03-13T06:20:40.132Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> Trying to think of some examples, it seems to me that what matters is simply the presence of features that are \"decision-relevant with respect to the agent's goals\". [...]\n\nSo, I think my motivation (which didn't make it into the parable) for the \"cheap to detect features that correlate with decision-relevant expensive to detect features\" heuristic is that I'm thinking in terms of [na\u00efve Bayes models](https://www.lesswrong.com/posts/gDWvLicHhcMfGmwaK/conditional-independence-and-naive-bayes). You imagine a \"star-shaped\" [causal graph](https://www.lesswrong.com/posts/hzuSDMx7pd2uxFc5w/causal-diagrams-and-causal-models) with a central node (whose various values represent the possible categories you might want to assign an entity to), with arrows pointing to various other nodes (which represent various features of the entity). (That is, we're assuming that the features of the entity are conditionally independent given category membership: P(**X**|C) = \u03a0_i P(X_i|C).) Then when we observe some subset of features, we can use that to update our probabilities of category-membership, and use _that_ to update our probabilities of the features we haven't observed yet. The \"category\" node doesn't actually \"exist\" out there in the world\u2014its something we construct to help factorize our probability distribution over the features (which do \"exist\").\n\nSo, as AI designers, we're faced with the question of how we want the \"category\" node to work. I'm pretty sure there's going to be a _mathematically correct_ answer to this that I just don't _know_ (yet) because I don't study enough and haven't gotten to Chapter 17 of [_Daphne Koller and the Methods of Rationality_](https://mitpress.mit.edu/books/probabilistic-graphical-models). Since I'm _not there yet_, if I just take at intuitive amateur _guess_ at how I might expect this to work, it seems pretty intuitively plausible that we're going to want the category node to be especially sensitive to cheap-to-observe features that correlate with goal-relevant features? Like, yes, we ultimately just want to know as much as possible about the decision-relevant variables, but if some observations are more expensive to make than others, that seems like the sort of thing the network should be able to take into account, right??\n\n> Remember those 2% of otherwise ordinary bleggs that contain palladium? Personally, I'd want a category for those\n\nI agree that \"things that look like 'bleggs' that contain palladium\" is a concept that you want to be able to think about. (I just described it in words, therefore it's representable!) But _while working on the sorting line_, your visual system's pattern-matching faculties aren't going to spontaneously invent \"palladium-containing bleggs\" as a thing to look out for if you don't _know_ any way to detect them, whereas if adapted bleggs tend to look different in ways you can _see_, then that category is something your brain might just \"learn from experience.\" In terms of the na\u00efve Bayes model, I'm sort of _assuming_ that the 2% of palladium containing non-adapted bleggs are \"flukes\": that variable takes that value with that probability _independently_ of the other blegg features. I agree that if that assumption were _wrong_, then that would be really valuable information, and if you _suspect_ that assumption is wrong, then you should definitely be on the lookout for ways to spot palladium-containing bleggs.\n\nBut like, see this thing I'm at least _trying_ to do here, where I think there's _learnable statistical structure_ in the world that I want to describe using language? That's pretty important! I can totally see how, from your perspective, on certain object-level applications, you might suspect that the one who says, \"Hey! Categories aren't even 'somewhat' arbitrary! There's learnable statistical structure in the world; that's what categories are _for_!\" is secretly being driven by nefarious political motivations. But I hope you can also see how, from _my_ perspective, I might suspect that the one who says, \"Categories are somewhat arbitrary; the one who says otherwise is secretly being driven by nefarious political motivations\" is secretly being driven by [political motivations](http://unremediatedgender.space/2018/Jan/dont-negotiate-with-terrorist-memeplexes/) that have pretty nefarious [_consequences_](http://unremediatedgender.space/2017/Jun/memoirs-of-my-recent-madness-part-i-the-unanswerable-words/) for people like me trying to _use language to reason about [the most important thing in my life](http://unremediatedgender.space/2017/Feb/a-beacon-through-the-darkness-or-getting-it-right-the-first-time/)_, even if the psychological foundation of the political motivation is entirely kindhearted."
+   }
+  },
+  {
+   "_id": "ZJovvzxE8CbFfWNwq",
+   "parentCommentId": "69nHr3G3eaWjg2tpN",
+   "postedAt": "2019-03-13T07:55:46.634Z",
+   "baseScore": 11,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "> Since I\u2019m not there yet, if I just take at intuitive amateur guess at how I might expect this to work, it seems pretty intuitively plausible that we\u2019re going to want the category node to be especially sensitive to cheap-to-observe features that correlate with goal-relevant features? Like, yes, we ultimately just want to know as much as possible about the decision-relevant variables, but if some observations are more expensive to make than others, that seems like the sort of thing the network should be able to take into account, right??\r\n\r\nI think the mathematically correct thing here is to use something like the [expectation maximization algorithm](https://en.wikipedia.org/wiki/Expectation%E2%80%93maximization_algorithm).  Let's say you have a dataset that is a list of elements, each of which has some subset of its attributes known to you, and the others unknown.  EM does the following:\r\n\r\n1. Start with some parameters (parameters tell you things like what the cluster means/covariance matrices are; it's different depending on the probabilistic model)\r\n2. Use your parameters, plus the observed variables, to infer the unobserved variables (and cluster assignments) and put Bayesian distributions over them\r\n3. Do something mathematically equivalent to generating a bunch of \"virtual\" datasets by sampling the unobserved variables from these distributions, then setting the parameters to assign high probability to the union of these virtual datasets (EM isn't usually described this way but it's easier to think about IMO)\r\n4. Repeat starting from step 2\r\n\r\nThis doesn't assign any special importance to observed features.  Since step 3 is just a function of the virtual datasets (not taking into account additional info about which variables are easy to observe), they're going to take all the features, observable or not, into account.  However, the hard-to-observe features are going to have more uncertainty to them, which affects the virtual datasets.  With enough data, this shouldn't matter that much, but the argument for this is a little complicated.\r\n\r\nAnother way to solve this problem (which is easier to reason about) is by fully observing a sufficiently high number of samples.  Then there isn't a need for EM, you can just do clustering (or whatever other parameter fitting) on the dataset (actually, clustering can be framed in terms of EM, but doesn't have to be).  Of course, this assigns no special importance to easy-to-observe features.  (After learning the parameters, we can use them to infer the unobserved variables probabilistically)\r\n\r\nPhilosophically, \"functions of easily-observed features\" seem more like percepts than concepts ([this post](https://srconstantin.wordpress.com/2017/02/21/strong-ai-isnt-here-yet/) describes the distinction).  These are still useful, and neural nets are automatically going to learn high-level percepts (i.e. functions of observed features), since that's what the intermediate layers are optimized for.  However, a Bayesian inference method isn't going to assign special importance to observed features, as it treats the observations as causally downstream of the ontological reality rather than causally upstream of it."
+   }
+  },
+  {
+   "_id": "FguRgAYPTM6Qod3gC",
+   "parentCommentId": "c7HkLWFmMNZBSb52f",
+   "postedAt": "2019-03-13T13:18:54.846Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I'm not sure you are, since it seems you weren't at all mindkilled by it. I could be wrong, though; if, once you saw the implications, it took nontrivial effort to see past them, then I agree you're a counterexample."
+   }
+  },
+  {
+   "_id": "HjKiM4Z2Wdap8XXv9",
+   "parentCommentId": "N2W88Tons5ScqQbmQ",
+   "postedAt": "2019-03-13T13:53:22.281Z",
+   "baseScore": 5,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Yes, I agree that the content-note deals with my \"disingenuousness\" objection.\n\nI agree (of course!) that there is structure in the world and that categories are not completely arbitrary. It seems to me that this is perfectly compatible with saying that they are \\_somewhat\\_ arbitrary, which conveniently is what I did actually say. Some categorizations are better than others, but there are often multiple roughly-equally-good categorizations and picking one of those rather than another is not an epistemological error. There is something in reality that is perfectly precise and leaves no room for human whims, but that thing is not usually (perhaps not *ever*) a specific categorization.\n\nSo, anyway, in the particular case of transness, I agree that it's possible that some of the four categorizations we've considered here (yours, which makes trans people a separate category but nudge-nudge-wink-wink indicates that for most purposes trans people are much more \"like\" others of their 'originally assigned' gender than others of their 'adopted' gender; and the three others I mentioned: getting by with just two categories and not putting trans people in either of them; getting by with just two categories and putting trans people in their 'originally assigned' category; getting by with just two categories and putting trans people in their 'adopted' category) are so much better than others that we should reject them. But it seems to me that that the relative merits of these depend on *the agent's goals*, and the best categorization to adopt may be quite different depending on whether you're (e.g.) a medical researcher, a person suffering gender dysphoria, a random member of the general public, etc -- and also on your own values and priorities.\n\nI did indeed make some assumptions about what was meant to map to what. It's possible that I didn't get them quite right. I decline to agree with your proposal that if something metaphorical that you wrote doesn't seem to match up well I should simply pretend that you intended it as a metaphor, though of course it's entirely possible that some *different* match-up makes it work much better."
+   }
+  },
+  {
+   "_id": "bu6Ccv9gGFtePQDso",
+   "parentCommentId": "69nHr3G3eaWjg2tpN",
+   "postedAt": "2019-03-13T14:21:06.487Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I share jessicata's feeling that the best set of *concepts* to work with may not be very sensitive to what's *easy to detect*. This might depend a little on how we define \"concepts\", and you're right that *your visual system* or some other fairly \"early\" bit of processing may well come up with ways of lumping things together, and that *that* will be dependent on what's easy to detect, whether or not we want to call those things concepts or categories or percepts or whatever else.\n\nBut in the cases I can think of where it's become apparent that some set of categories needs refinement, there doesn't seem to be a general pattern of basing that refinement on the existence of convenient detectable features. (Except in the too-general sense that *everything* ultimately comes down to empirical observation.)\n\nI don't think your political motivations are *nefarious*, and I don't think there's anything wrong with a line of thinking that goes \"hmm, it seems like the way a lot of people think about X makes them misunderstand an important thing in my life really badly; let's see what other ways one could think about X, because they might be better\" -- other than that \"hard cases make bad law\", and that it's easy to fall into an equal-and-opposite error where you think about X in a way that would make you misunderstand a related important thing in *other* people's lives. The political hot potato we're discussing here demonstrably *is* one where some people have feelings that (so far as I can tell) are as strong as yours and of opposite sign, after all. (Which may suggest, by the way, that if you want *an extra category* then you may actually need *two or more extra categories*: \"adapted bleggs\" may have fundamental internal differences from one another. \\[EDITED to add:\\] ... And indeed your other writings on this topic *do* propose two or more extra categories.)\n\nI am concerned that we are teetering on the brink of -- if we have not already fallen into -- exactly the sort of object-level political/ideological/personal argument that I was worried about when you first posted this. Words like \"nefarious\" and \"terrorist\" seem like a warning sign. So I'll limit my response to that part of what you say to this: It is not at all my intention to endorse any way of talking to you, or anyone else, that makes you, or anyone else, feel the way you describe feeling in that \"don't negotiate with terrorist memeplexes\" article."
+   }
+  },
+  {
+   "_id": "RnHyuiXiNwgiWsLpY",
+   "parentCommentId": "7E2cTPF8oTP9TmZ7T",
+   "postedAt": "2019-03-13T15:01:38.362Z",
+   "baseScore": 14,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "Thanks for trying. I have limited time and got a sense for where we seem to have split from each other about halfway through your comment so I'll mainly respond to that. You brought up a bunch of stuff very specific to gender issues that I don't think is relevant in the second half.\r\n\r\nThere's an underlying situation in which Zack made some arguments elsewhere about gender stuff, and prominent people in the Rationalist community responded with an argument along the lines of \"since categories are in the map, not in the territory, there's no point in saying one categorization is more natural than another, we might as well just pick ones that don't hurt people's feelings.\"\r\n\r\nThese people are claiming a position on epistemology that Zack thinks is substantially mistaken. Zack is faced with a choice. Either they're giving a politically motivated anti-epistemology *in order to shut down the conversation* and not because they believe it - or they're *making a mistake*.\r\n\r\nIf we take the argument literally, it's worth correcting regardless of one's specific opinions on gender identity.\r\n\r\nIf we all know that such arguments aren't meant to be taken literally, but are instead meant to push one side of a particular political debate in that context, then arguing against it is actually just the political act of pushing back.\r\n\r\nBut part of how bad faith arguments work is that they fool some people into thinking they're good-faith arguments. Even if YOU know that people don't mean what they say in this case, they wouldn't say it unless SOMEONE was likely to be honestly mistaken.\r\n\r\n\"You're doing too much politics here\" is not a helpful critique. It doesn't give Zack enough information to get clued in if he's not already, and leaves the key controversial premise unstated. If your actual position is, \"come on, Zack, everyone on this site knows that people aren't making this mistake honestly, posts like [this one by Scott](https://slatestarcodex.com/2014/11/21/the-categories-were-made-for-man-not-man-for-the-categories/) are mindkilled politics and engaging with them lowers the quality of discourse here,\" then you need to actually say that.\r\n\r\nPersonally, I DON'T see people behaving as though it were common knowledge that people claiming to be making this mistake are actually just lying. And if we write off people like Scott we might as well just close down the whole project of having a big Rationalist community on the internet.\r\n\r\nIt's offensive to me that there's even a question about this."
+   }
+  },
+  {
+   "_id": "EhnbizvMNPJJin6NA",
+   "parentCommentId": "7E2cTPF8oTP9TmZ7T",
+   "postedAt": "2019-03-13T15:16:46.709Z",
+   "baseScore": 12,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "Gonna try a point-by-point version in case that's clearer.\r\n\r\n> It isn\u2019t clear to me what this error is meant to be. If it\u2019s something like \u201cthinking that there must be a definite objectively-correct division of all things into bleggs and rubes\u201d then I agree that it\u2019s an error but it\u2019s an error already thoroughly covered by EY\u2019s and SA\u2019s posts linked to in the article itself, and in any case it doesn\u2019t seem to me that the article is mostly concerned with making that point; rather, it presupposes it.\r\n\r\nI know from conversations elsewhere that Zack is responding to the opposite error - the claim that *because* the usual rule for separating Bleggs from Rubes is pragmatically motivated, it has no implications for edge cases. If you're making wrong guesses about what political position Zack is taking, you should really reconsider your claim that it's obvious what his political position is. This needs to be generalized, because it's obnoxious to have to bring in completely extraneous info about motives in order to figure out whether a post like this is political. Bothering to explain this at all feels a bit like giving in to extortion, and the fact that I expect this explanation to be necessary is a further update against continued substantive engagement on Lesswrong.\r\n\r\n>In any case, it seems to me that the main point of the linked article is not to correct some epistemic error, but to propose a particular position on the political issue it\u2019s alluding to, and that most of the details of its allegory are chosen specifically to support that aim. [...] Constructing a hypothetical situation designed to match your view of a politically contentious question and drawing readers\u2019 attention to that matchup is not \u201cdepoliticized\u201d in any useful sense.\r\n\r\nThis seems like a proposal to cede an untenable amount of conversation territory. If a controversial political position becomes associated with a particular epistemic error, then discussing that specific error becomes off-limits here, or at least needs to be deprecated as political. I don't know what that results in, but it's not a Rationalist community.\r\n\r\n>I do in fact think that Zack\u2019s purpose in posting the article here is probably at least in part to promote the political position for which the article is arguing, and that if that isn\u2019t so\u2014if Zack\u2019s intention was simply to draw our attention to a well-executed bit of epistemology\u2014then it is likely that Zack finds it well-executed partly because of finding it politically congenial. In that sense, I do think it\u2019s probably a \u201cpolitical act\u201d.\r\n\r\nA clear implication of [Something to Protect](https://www.lesswrong.com/posts/SGR4GxFK7KmW7ckCB/something-to-protect) is that people can't be Rationalists unless getting the right answer has some practical importance to them.\r\n\r\nThe rest of your comment seems to be making a substantially wrong guess about Zack's position on gender in a way that - to me, since I know something about Zack's position - is pretty strong evidence that Zack succeeded in stripping out the accidental specifics and focusing on the core epistemic question. The standard you're actually holding Zack to is one where if you - perhaps knowing already that he has some thoughts on gender - can *project* a vaguely related politically motivated argument onto his post, then it's disingenuous to say it's nonpolitical."
+   }
+  },
+  {
+   "_id": "HzLesMHDugLXzDQ49",
+   "parentCommentId": "RnHyuiXiNwgiWsLpY",
+   "postedAt": "2019-03-13T16:02:20.196Z",
+   "baseScore": 4,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Aha, this clarifies some things helpfully. It is now much clearer to me than it was before what epistemological error you take Zack to be trying to correct here.\n\nI still think it's clear that Zack's *main* purpose in writing the article was to promote a particular object-level position on the political question. But I agree that \"even though categories are map rather than territory, some maps match reality much better than others, and to deny that is an error\" (call this proposition P, for future use) is a reasonable point to make about epistemology in the abstract, and that given the context of Zack's article it's reasonable to take that to be a key thing it's trying to say about epistemology.\n\nBut it seems to me -- though perhaps I'm just being dim -- that the *only possibly way* to appreciate that P was Zack's epistemological point is to be aware not only of the political (not-very-sub) subtext of the article (which, you'll recall, is the thing I originally said it was wrong not to mention) but *also* of the context where people were addressing that specific political issue in what Zack considers a too-subjective way. (For the avoidance of doubt, I'm *not* saying that that requires some sort of special esoteric knowledge unavailable to the rest of us. Merely *having just reread Scott's TCWMFM* would have sufficed. But it happened that I was familiar enough with it not to feel that I needed to revisit it, and not familiar enough with it to recognize every specific reference to it in Zack's article. I doubt I'm alone in that.)\n\nAgain, perhaps I'm just being dim. But I know that some people didn't even see the political subtext, and I know that I didn't see P as being Zack's main epistemological point before I read what you just wrote. (I'm still not sure it is, for what it's worth.) So it doesn't seem open to much doubt that *just putting the article here without further explanation* wasn't sufficient.\n\nThere's a specific way in which I could be being dim that might make that wrong: perhaps I was just distracted by the politics, and perhaps if I'd been able to approach the article as if it were purely talking in the abstract about epistemology I'd have taken it to be saying P. But, again, if so then I offer myself as evidence that it needed some clarification for the benefit of those liable to be distracted.\n\nAs to the rest:\n\nIt looks to me as if you are ascribing meanings and purposes to me that are not mine at all. E.g., \"If we all know that such arguments aren't meant to be taken literally, but are instead meant to push one side of a particular political debate in that context\" -- I didn't think I was saying, and I don't think I believe, and I don't think anything I said either implies or presupposes, anything like that. The impression I have is that this is one of those situations where I say X, you believe Y, from X&Y you infer Z, and you get cross because I'm saying Z and Z is an awful thing to say -- when what's actually happening is that we disagree about Y. Unfortunately, I can't tell what Y is in this situation :-).\n\nSo I don't know how to react to your suggestion that I should have *said explicitly rather than just assuming* that posts like Scott's TCWMFM \"are mindkilled politics and engaging with them lowers the quality of discourse here\"; presumably either (1) you think I actually think that or (2) you think that what I've said implies that so it's a useful reductio, but I still don't understand how you get there from what I actually wrote.\n\nTo be explicit about this:\n\n*   I do not think that Scott's TCWMFM is \"mindkilled politics\".\n*   I do not think that engaging with articles like Scott's TCWMFM lowers the quality of discourse.\n*   I do not think that it's impossible to hold Scott's position honestly.\n*   I do not think that it's impossible to hold Zack's position honestly.\n*   I don't think that Zack's article is \"mindkilled politics\", but I do think it's much less good than Scott's.\n*   I don't think Scott is making the epistemological mistake you say Zack is saying he's making, that of not understanding that one way of drawing category boundaries can be better than another. I think he's aware of that, but thinks (as, for what it's worth, I do, but I think Zack doesn't) that there are a number of *comparably well matched with reality* ways to draw them in this case.\n*   I think that responding to Scott's article as if he were simply saying \"meh, whatever, draw category boundaries literally any way you like, the only thing that matters is which way is nicest\" is not reasonable, and I think that casting it as making the mistake you say Zack is saying Scott was making requires some such uncharitable interpretation. (This may be one reason why I didn't take P to be the main epistemological claim of Zack's article.)\n\nIf you're still offended by what I wrote, then at least one of us is misunderstanding the other and I hope that turns out to be fixable."
+   }
+  },
+  {
+   "_id": "fRkYFtKKMKwwkwXXe",
+   "parentCommentId": "EhnbizvMNPJJin6NA",
+   "postedAt": "2019-03-13T16:27:04.672Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "(I'm responding to this after already reading and replying to your earlier comment. Apologies in advance if it turns out that I'd have done better with the other one if I'd read this first...)\n\nI'll begin at the end. \"... perhaps knowing already that he has some thoughts on gender\". What *actually* happened is that I started reading the article without noticing the website's name, got a few paragraphs in and thought \"ah, OK, so this is a fairly heavy-handed allegory for some trans-related thing\", finished reading it and was fairly unimpressed, *then* noticed the URL. As for the author, I didn't actually realise that Zack was the author of the linked article until the discussion here was well underway.\n\nI think we may disagree about what constitutes strong evidence of having successfully stripped out the accidental specifics. Suppose you decide to address some controversial question obliquely. Then there are three different ways in which a reader can come to a wrong opinion about your position on the controversial question. (1) You can detach what you're writing from your actual position on the object-level issue successfully enough that a reasonable person would be unable to figure out what your position is. (2) You can write something *aimed* at conveying your actual position, but do it less than perfectly. (3) You can write something aimed at conveying your actual position, and do it well, but the reader can make mistakes, or lack relevant background knowledge, and come to a wrong conclusion. It seems like you're assuming #1. I think #2 and #3 are at least as plausible.\n\n(As to whether I *have* got Zack's position substantially wrong, it's certainly possible that I might have, by any or all of the three mechanisms in the last paragraph. I haven't gone into much detail on what I think Zack's position is so of course there are *also* possibilities 4 and 5: that I've understood it right but expressed that understanding badly, or that I've understood and expressed it OK but you've misunderstood what I wrote. If you think it would be helpful, then I can try to state more clearly what I think Zack's position is and he can let us know how right or wrong I got it. My guess is that it wouldn't be super-helpful, for what it's worth.)\n\nOK, now back to the start. My reply to your other comment addresses the first point (about what alleged error Zack is responding to) and I don't think what you've said here changes what I want to say about that.\n\nOn the second point (ceding too much territory) I think you're assuming I'm saying something I'm not, namely that nothing with political implications can ever be discussed here. I don't think I said that; I don't believe it; I don't think anything I said either implies or presupposes it. What I do think is (1) that Zack's article appears to me to be *mostly about the politics* despite what Zack calls its \"deniable allegory\", (2) that linking mostly-political things from here ought to be done in a way that acknowledges their political-ness and clarifies how they're intended to be relevant to LW, and (3) that (in my judgement, with which of course others may disagree) this particular article, if we abstract out the political application, isn't very valuable *as a discussion of epistemology in the abstract*.\n\nI'm not sure I've understood what point you're making when you reference *Something to Protect*; I think that again you may be taking me to be saying something more negative than I thought I was saying. At any rate, I certainly neither think nor intended to suggest that we should only talk about things of no practical importance."
+   }
+  },
+  {
+   "_id": "8DCyf86hm9mt67EG7",
+   "parentCommentId": "Bo8ZfLqi8k3n8wkHs",
+   "postedAt": "2019-03-13T16:33:16.754Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I think it is worth pointing out explicitly (though I expect most readers noticed) that Dagon wrote \"unless gender categorization is important\" and Zack turned it into \"unless ... categorization is important\" and then said \"Categorization is hugely relevant\". And that it's perfectly possible that (1) a *general* topic can be highly relevant in a particular venue without it being true that (2) a *specific case* of that general topic is relevant there. And that most likely Dagon was not at all claiming that categorization is not an LW-relevant topic, but that *gender categorization in particular* is a too-distracting topic.\n\n(I am not sure I agree with what I take Dagon's position to be. Gender is a very interesting topic, and would be even if it weren't one that many people feel very strongly about, and it relates to many very LW-ish topics -- including, as Zack says, that of categorization more generally. Still, it might be that it's just too distracting.)"
+   }
+  },
+  {
+   "_id": "qRt8CGQQevJShc4eW",
+   "parentCommentId": "rRW59uDjfQYmSJ7bP",
+   "postedAt": "2019-03-13T16:42:06.120Z",
+   "baseScore": 9,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I know it's rather a side issue, but personally I *hate* the \"deniable allegory\" style, though LW is probably a better fit for it than most places ...\n\n1\\. The temptation to say literally-X-but-implying-Y and then respond to someone arguing against Y with \"oh, but I wasn't saying *that* at all, I was only saying X; how very unreasonable of you to read all that stuff into what I wrote!\" is too often too difficult to resist.\n\n2\\. Even if the deniable-allegorist refrains from any such shenanigans, the *fear* of them (as a result of being hit by such things in the past by deniable allegorists with fewer scruples) makes it an unpleasant business for anyone who finds themselves disagreeing with any of the implications.\n\n3\\. And of course the reason why that tactic works is that often one *does* misunderstand the import of the allegory; a mode of discussion that invites misunderstandings is (to me) disagreeable.\n\n4\\. The allegorical style can say, or at least gesture towards, a lot of stuff in a small space. This means that anyone trying to respond to it in literal style is liable to look like an awful pedant. On the other hand, if you try to meet an allegory with another allegory, (a) that's hard to do well and (b) after one or two rounds the chances are that everyone is talking past everyone else. Which might be fun but probably isn't productive."
+   }
+  },
+  {
+   "_id": "WRWu6dFkBEtnFbrxw",
+   "parentCommentId": "HzLesMHDugLXzDQ49",
+   "postedAt": "2019-03-13T16:48:37.407Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "> I still think it's clear that Zack's *main* purpose in writing the article was to promote a particular object-level position on the political question.\n\nWhy would you think that? Why would this post be a remotely effective way to do that? Why is that even a *plausible* thing Zack's trying to do here? Can you point to an example of someone who was actually persuaded?\n\nI feel like I've done way too much work explaining my position here and you haven't really explained the reasoning behind yours."
+   }
+  },
+  {
+   "_id": "dDk5JtccARXi9dAm9",
+   "parentCommentId": "HzLesMHDugLXzDQ49",
+   "postedAt": "2019-03-13T16:52:06.333Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Benquo",
+    "displayName": "Benquo"
+   },
+   "contents": {
+    "markdown": "> But it seems to me -- though perhaps I'm just being dim -- that the *only possibly way* to appreciate that P was Zack's epistemological point is to be aware not only of the political (not-very-sub) subtext of the article (which, you'll recall, is the thing I originally said it was wrong not to mention) but *also* of the context where people were addressing that specific political issue in what Zack considers a too-subjective way.\n\nThat's not actually an important part of the content of Zack's article. It is only relevant in the context of your claim that Zack was responding to a very different specific thing not directly referenced in his article. I am not saying that the fact that you were wrong means that the true cause should have been obvious. I am saying that the fact that you were wrong should make you doubt that you were *obviously right*.\n\nIf people's models have a specific glitch, laying out what the undamaged version ought to look like is legitimate, and shouldn't have to exist solely in reference to the specific instance of the glitch. Truth doesn't have to make reference to error to be true - it just has to match reality."
+   }
+  },
+  {
+   "_id": "LTM3pCQpQeknmy3x2",
+   "parentCommentId": null,
+   "postedAt": "2019-03-13T19:02:44.101Z",
+   "baseScore": 3,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "I don't understand what point are you trying to make.\n\nPresumably, each object has observable properties $X$ and unobservable properties $Y$. The utility of putting an object into bin A is $U_A(X,Y)$ and the utility of putting it into bin B is $U_B(X,Y)$. Therefore, your worker should put an object into bin A if an only if\n\n$$E[U_A(X,Y)|X] > E[U_B(X,Y)|X]$$\n\nThat's it. Any \"categories\" you introduce here are at best helpful heuristics, with no deep philosophical significance."
+   }
+  },
+  {
+   "_id": "GXmpKL3Zo6QgusBA3",
+   "parentCommentId": "HzLesMHDugLXzDQ49",
+   "postedAt": "2019-03-13T21:37:11.884Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "> But I agree that \"even though categories are map rather than territory, some maps match reality much better than others, and to deny that is an error\"\n\nWait.  Suitability for purpose has to come in here.  There is no single ordering of how closely a map reflects reality.  Maps compress different parts of reality in different ways, to enable different predictions/communications about various parts of reality.   It's been literally decades since I've enjoyed flamewars about which projection of Earth is \"best\" for literal maps, but the result is the same: it depends on what the map will be used for, and you're probably best off using different maps for different purposes, even if those maps are of the same place.\n\nI don't know the actual debate going on, and pretty much think that in unspecific conversation where details don't matter, one should prefer kindness and surface presentation.  Where the details matter, be precise and factual about the details - don't rely on categorizations that have notable exceptions for the dimensions you're talking about. "
+   }
+  },
+  {
+   "_id": "oFzvT92m5zGmEXsZc",
+   "parentCommentId": "8DCyf86hm9mt67EG7",
+   "postedAt": "2019-03-13T21:53:03.839Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "The right word to elide from my objection would be \"categorization\" - I should have said \"unless gender is important\", as that's the political topic I don't think we can/should discuss here.  Categorization in mathematical abstraction is  on-topic, as would be a formal definition/mapping of a relevant category to mathematically-expressible notation.  \n\nLoose, informal mappings of non-relevant topics is not useful here.\n\nAnd honestly, I'm not sure how bright my line is - I can imagine topics related to gender or other human relationship topics that tend to bypass rationality being meta-discussed here, especially if it's about raising the sanity waterline on such topics, and how to understand what goes wrong when they're discussed at the object level.  I doubt we'd get good results if we had direct object-level debates or points made here on those topics."
+   }
+  },
+  {
+   "_id": "vgqtwgAR4qnitQcqk",
+   "parentCommentId": "GXmpKL3Zo6QgusBA3",
+   "postedAt": "2019-03-13T22:21:23.973Z",
+   "baseScore": 3,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "> in unspecific conversation where details don\u2019t matter, one should prefer kindness and surface presentation.\r\n\r\nWhy?  Doesn't this lead to summaries being inaccurate and people having bad world models (ones that would assign lower probability to the actual details, compared to ones based on accurate summaries)?"
+   }
+  },
+  {
+   "_id": "WMDADMhoaZppbtsem",
+   "parentCommentId": "Bo8ZfLqi8k3n8wkHs",
+   "postedAt": "2019-03-13T22:23:32.149Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "So I think my filter for \"appropriate to LessWrong\" is that it should be an abstraction and generalization, NOT a parable or obfuscation to a specific topic.  If there is a clean mapping to a current hotbutton, the author should do additional diligence to find counterexamples (the cases where more categories are costly, or where some dimensions are important for some uses and not for others, so you should use tagging rather than categorization) in order to actually define a concept rather than just restating a preference."
+   }
+  },
+  {
+   "_id": "poZHuyeGksHtedmP2",
+   "parentCommentId": "GXmpKL3Zo6QgusBA3",
+   "postedAt": "2019-03-13T22:36:37.478Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "For the avoidance of doubt, I strongly agree that what counts as \"matching reality much better\" depends on what you are going to be using your map for; that's a key reason why I am not very convinced by Zack's original argument if it's understood as a rebuttal to (say) Scott's TCWMFM either in general or specifically as it pertains to the political question at issue."
+   }
+  },
+  {
+   "_id": "QDHbsFSvniaNXZZBR",
+   "parentCommentId": "dDk5JtccARXi9dAm9",
+   "postedAt": "2019-03-13T22:44:21.954Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Wait, if you reckon the proposition I called P is \"not actually an important part of the content of Zack's article\" then what *did* you have in mind as the \"politically motivated epistemic error\" that Zack's article was about?\n\n(Or, if P *was* that error, how am I supposed to understand your [original protest](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#cp2KbiyJq42npohKF) which so far as I can tell only makes any sense if you consider that correcting the epistemic error was the whole point, or at least the main point, of Zack's article?)\n\nFirmly agree with your last paragraph, though."
+   }
+  },
+  {
+   "_id": "bxF27YW84vqrT6rsw",
+   "parentCommentId": "WRWu6dFkBEtnFbrxw",
+   "postedAt": "2019-03-13T22:59:50.163Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "For what it's worth, I feel the same way as you but with the obvious change of sign: it feels to me like you keep accusing me of saying somewhat-outrageous things that I'm not intending to say and don't believe, and when I ask why you'd think I mean that you just ignore it, and it feels to me like I've put much more trouble into understanding your position and clarifying mine than you have into understanding mine and clarifying yours.\n\nPresumably the truth lies somewhere in between.\n\nI don't think it is reasonable to respond to \"I think Zack was trying to do X\" with \"That's ridiculous, because evidently it didn't work\", for two reasons. Firstly, the great majority of attempts to promote a particular position on a controversial topic don't change anyone's mind, even in a venue like LW where we try to change our minds more readily when circumstances call for it. Secondly, if you propose that instead he was trying to put forward a particular generally-applicable epistemological position (though I still don't know *what* position you have in mind, despite asking several times, since the only particular one you've mentioned you then said wasn't an important part of the content of Zack's article) then I in turn can ask whether you can point to an example of someone who was persuaded of *that* by the article.\n\nIt's somewhat reasonable to respond to \"I think Zack was trying to do X\" with \"But what he wrote is obviously not an effective way of doing X\", but I don't see why it's any more obviously ineffective as a tool of political persuasion, or as an expression of a political position, than it is as a work of epistemological clarification, and in particular it doesn't even look to me *more than averagely* ineffective in such a role.\n\nFor the avoidance of doubt, I don't in the least deny that I might be wrong about what Zack was trying to do. (Sometimes a person thinks something's clear that turns out to be false. I am not immune to this.) Zack, if you happen to be reading and haven't been so annoyed by my comments that you don't want to interact with me ever again, anything you might want to say on this score would be welcome. If I have badly misunderstood what you wrote, please accept my apologies."
+   }
+  },
+  {
+   "_id": "wqf928SfNxBHjGSCd",
+   "parentCommentId": "vgqtwgAR4qnitQcqk",
+   "postedAt": "2019-03-14T00:03:09.221Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "> Doesn't this lead to summaries being inaccurate and people having bad world models (ones that would assign lower probability to the actual details, compared to ones based on accurate summaries)?\n\nNo, it doesn't lead there.  It starts there.  The vast majority of common beliefs will remain inaccurate on many dimensions, and all you can do is to figure out which (if any) details you can benefit the world by slightly improving, in your limited time.  Details about hidden attributes that will affect almost nothing are details that don't need correcting - talk about more interesting/useful things.\n"
+   }
+  },
+  {
+   "_id": "kPJRESKqpQs3woaA5",
+   "parentCommentId": "FFotpC2bX9wWwbYCz",
+   "postedAt": "2019-03-14T00:11:10.978Z",
+   "baseScore": 7,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "I think, to make it work for my conception of LW, you'd also want to acknowledge other approaches (staying with 2 categories and weighting the attributes, staying with 2 categories and just acknowledging they're imperfect, giving up on categories and specifying attributes individually, possibly with predictions of hidden attributes, adding more categories and choosing based on the dimension with biggest deviation from average, etc.), and identify when they're more appropriate than your preferred approach."
+   }
+  },
+  {
+   "_id": "Xdr6JRYiL6WakJ98P",
+   "parentCommentId": "wqf928SfNxBHjGSCd",
+   "postedAt": "2019-03-14T00:49:40.901Z",
+   "baseScore": 3,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "No one has time to look into the details of everything.  If someone isn't going to look into the details of something, they benefit from the summaries being _accurate_, in the sense that they reflect how an honest party _would_ summarize the details if they knew them.  (Also, how would you know which things you should look into further if the low-resolution summaries are lies?)\r\n\r\nThis seems pretty basic and it seems like you were disagreeing with this by saying the description should be based on kindness and surface presentation.  Obviously some hidden attributes matter more than others (and matter more or less context-dependently), my assertion here is that summaries should be based primarily on how they reflect the way the thing is (in all its details) rather than on kindness and surface presentation."
+   }
+  },
+  {
+   "_id": "qLnQfnuAFM9tzhxkm",
+   "parentCommentId": "LTM3pCQpQeknmy3x2",
+   "postedAt": "2019-03-14T01:50:43.077Z",
+   "baseScore": 5,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> Any \"categories\" you introduce here are at best helpful heuristics, with no deep philosophical significance.\n\nI mean, yes, but I was imagining that there would be some deep philosophy _about_ how computationally bounded agents should construct optimally helpful heuristics."
+   }
+  },
+  {
+   "_id": "EWoBEkaPzsWaEwDHE",
+   "parentCommentId": "HjKiM4Z2Wdap8XXv9",
+   "postedAt": "2019-03-14T05:32:24.759Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> But it seems to me that that the relative merits of these depend on _the agent's goals_, and the best categorization to adopt may be quite different depending on whether you're [...] and also on your own values and priorities.\n\nYes, I agree! (And furthermore, the _same_ person might use different categorizations at different _times_ depending on what particular aspects of reality are most relevant to the task at hand.)\n\nBut _given_ an agent's goals in a particular situation, I think it would be a _shocking coincidence_ for it to be the case that \"there are [...] multiple roughly-equally-good categorizations.\" _Why_ would that happen often?\n\n_If_ I want to use sortable objects as modern art sculptures to decorate my living room, _then_ the relevant features are shape and color, and I want to think about rubes and bleggs (and count adapted bleggs as bleggs). _If_ I also care about how the room looks in the dark and adapted bleggs don't glow in the dark like ordinary bleggs do, _then_ I want to think about adapted bleggs as being different from ordinary bleggs.\n\n_If_ I'm running a factory that harvests sortable objects for their metal content and my sorting scanner is expensive to run, _then_ I want to think about rubes and ordinary bleggs (because I can infer metal content with acceptably high probability by observing the shape and color of these objects), but I want to look out for adapted bleggs (because their metal content is, with high probability, not what I would expect based on the color/shape/metal-content generalizations I learned from my observations of rubes and ordinary bleggs). _If_ the factory invests in a new state-of-the-art sorting scanner that can be cheaply run on every object, _then_ I don't have any reason to care about shape or color anymore\u2014I just care about palladium-cored objects and vanadium-cored objects.\n\n> and picking one of those rather than another is not an epistemological error.\n\n_If_ you're _really_ somehow in a situation where there are multiple roughly-equally-good categorizations with respect to your goals and the information you have, _then_ I agree that picking one of those rather than another isn't an epistemological error. [Google Maps](https://www.google.com/maps/) and [MapQuest](https://www.mapquest.com/) are not exactly the _same_ map, but if you just want to drive somewhere, they both reflect the territory pretty well: it probably doesn't matter which one you use. Faced with an arbitrary choice, you should make an arbitrary choice: flip a coin, or call [`random.random()`](https://docs.python.org/3.7/library/random.html#random.random).\n\nAnd yet _somehow_, I _never_ run into people who say, \"Categories are somewhat arbitrary, therefore you might as well roll a d3 to decide whether to say 'trans women are women' or 'so-called \"trans women\" are men' or 'transwomen are transwomen', because each of these maps is doing a roughly-equally-good job of reflecting the relevant aspects of the territory.\" But I run into _lots_ of people who say, \"Categories are somewhat arbitrary, therefore I'm not wrong to insist that trans women are women,\" and who _somehow_ never seem to find it useful to bring up the idea that categories are somewhat arbitrary in seemingly _any other context_.\n\nYou see the problem? If the one has some sort of _specific argument_ for _why_ I should use a particular categorization system in a particular situation, then that's great, and I want to hear it! But it has to be an _argument_ and not a selectively-invoked [appeal-to-arbitrariness conversation-halter](https://www.lesswrong.com/posts/wqmmv6NraYv4Xoeyj/conversation-halters)."
+   }
+  },
+  {
+   "_id": "9XGGSK7WDkLZJMgRx",
+   "parentCommentId": "Xdr6JRYiL6WakJ98P",
+   "postedAt": "2019-03-14T05:43:09.519Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Dagon",
+    "displayName": "Dagon"
+   },
+   "contents": {
+    "markdown": "In many contexts, the primary benefit of the summary is brevity and simplicity, more even than information.  If you have more time/bandwidth/attention, then certainly including more information is better, and even then you should prioritize information by importance.\n\nIn any case, I appreciate the reminder that this is the wrong forum for politically-charged discussions.  I'm bowing out - I'll read any further comments, but won't respond.\n\n"
+   }
+  },
+  {
+   "_id": "daHhckSDyTdpSw6Sq",
+   "parentCommentId": "bu6Ccv9gGFtePQDso",
+   "postedAt": "2019-03-14T06:00:46.856Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> I share jessicata's feeling that the best set of _concepts_ to work with may not be very sensitive to what's _easy to detect_. [...] there doesn't seem to be a general pattern of basing that refinement on the existence of convenient detectable features\n\nYeah, I might have been on the wrong track there. (Jessica's comment is _great_! I need to study more!)\n\n> I am concerned that we are teetering on the brink of -- if we have not already fallen into -- exactly the sort of object-level political/ideological/personal argument that I was worried about \n\nI think we're a safe distance from the brink.\n\n> Words like \"nefarious\" and \"terrorist\" seem like a warning sign\n\n\"Nefarious\" admittedly probably was a high-emotional-temperature warning sign (oops), but in this case, \"I don't negotiate with terrorists\" is mostly functioning as the standard stock phrase to evoke the timeless-decision-theoretic \"don't be extortable\" game-theory intuition, which I don't think should count as a warning sign, because it would be harder to communicate if people had to avoid genuinely useful metaphors because they happened to use high-emotional-valence words."
+   }
+  },
+  {
+   "_id": "Je6hJR2HbDkQGahr2",
+   "parentCommentId": "9XGGSK7WDkLZJMgRx",
+   "postedAt": "2019-03-14T08:16:43.210Z",
+   "baseScore": 3,
+   "user": {
+    "username": "jessica.liu.taylor",
+    "displayName": "jessicata"
+   },
+   "contents": {
+    "markdown": "To be clear, brevity and simplicity are not the same as kindness and surface presentation, and confusing these two seems like a mistake 8 year olds can almost always avoid making.  (No pressure to respond; in any case I meant to talk about the abstract issue of accurate summaries which seems not to be politically charged except in the sense that epistemology itself is a political issue, which it is)"
+   }
+  },
+  {
+   "_id": "wDnx3kqP8bGMLv67C",
+   "parentCommentId": "EWoBEkaPzsWaEwDHE",
+   "postedAt": "2019-03-14T14:50:54.873Z",
+   "baseScore": 5,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Multiple roughly-equally-good categorizations might not often happen to an idealized superintelligent AI that's much better than we are at extracting all possible information from its environment. But we humans are slow and stupid and make mistakes, and accordingly our probability distributions are really wide, which means our error bars are large and we often find ourselves with multiple hypotheses we can't decide between with confidence.\n\n(Consider, for a rather different example, political questions of the form \"how much of X should the government do?\" where X is providing a social \"safety net\", regulating businesses, or whatever. Obviously these are somewhat value-laden questions, but even if I hold that constant by e.g. just trying to decide what *I* think is optimal policy I find myself quite uncertain.)\n\nPerhaps more to the point, most of us are in different situations at different times. If what matters to you about rubleggs is sometimes palladium content, sometimes vanadium content, and sometimes furriness, then I think you have to choose between (1) maintaining a bunch of different categorizations and switching between them, (2) maintaining a single categorization that's much finer grained than is usually needed in any single situation and aggregating categories in different ways at different times, and (3) finding an approach that doesn't rely so much on putting things into categories. The cognitive-efficiency benefits of categorization are much diminished in this situation.\n\nYour penultimate paragraph argues (I think) that talk of categories' somewhat-arbitrariness (like, say, Scott's in TCWMFM) is not sincere and is adopted merely as an excuse for taking a particular view of trans people (perhaps because that's socially convenient, or feels nice, or something). Well, I guess that's just the mirror image of what I said about your comments on categories, so turnabout is fair play, but I don't think I can agree with it.\n\n*   The \"[Disguised Queries](https://www.lesswrong.com/posts/4FcxgdvdQP45D6Skg/disguised-queries)\" post that first introduced bleggs and rubes makes essentially the point that categories are somewhat arbitrary, that there's no One True Right Answer to \"is it a blegg or a rube?\", and that which answer is best depends on what particular things you care about on a particular occasion.\n*   Scott's \"[Diseased thinking](https://www.lesswrong.com/posts/895quRDaK6gR2rM82/diseased-thinking-dissolving-questions-about-disease)\" (last time I heard, the most highly upvoted article in the history of Less Wrong) makes essentially the same point in connection to the category of \"disease\". (The leading example being obesity rather than, say, gender dysphoria.)\n*   Scott's \"[The tails coming apart as a metaphor for life](https://www.lesswrong.com/posts/asmZvCPHcB4SkSCMW/the-tails-coming-apart-as-metaphor-for-life)\" does much the same for categories like \"good thing\" and \"bad thing\".\n*   Here's [a little thing from the Instute for Fiscal Studies](https://www.ifs.org.uk/publications/13308) about poverty metrics, which begins by observing that there are many possible ways to define poverty and nothing resembling consensus about which is best. (The categories here are \"poor\" and \"not poor\".)\n*   More generally, \"well, it all depends what you mean by X\" has been a standard move among philosophers for many decades, and it's basically the same thing: words correspond to categories, categories are somewhat arbitrary, and questions about whether a P is or isn't a Q are often best understood as questions about how to draw the boundaries of Q, which in turn may be best understood as questions about values or priorities or what have you rather than about the actual content of the actual world.\n\nSo it seems to me *very* not-true that the idea that categories are somewhat arbitrary is a thing invoked only in order to avoid having to take a definite position (or, in order to avoid choosing one's definite position on the basis of hard facts rather than touchy-feely sensitivity) on how to think and talk about trans people."
+   }
+  },
+  {
+   "_id": "YsQghHvkoMuArtJbZ",
+   "parentCommentId": "wDnx3kqP8bGMLv67C",
+   "postedAt": "2019-03-14T15:19:06.632Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Meta: That comment had a bunch of bullet points in it when I wrote it. Now (at least for me, at least at the moment) they seem to have disappeared. Weird. \\[EDIT to clarify:\\] I mean that the *bullet symbols* themselves, and the indentation that usually goes with them, have gone. The actual words are still there."
+   }
+  },
+  {
+   "_id": "os4MHRR7bvgAfTECY",
+   "parentCommentId": "qLnQfnuAFM9tzhxkm",
+   "postedAt": "2019-03-14T20:52:53.921Z",
+   "baseScore": 7,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "Alright, but then you need some (at least informal) model of why computationally bounded agents need categories. Instead, your argument seems to rely purely on the intuition of your fictional character (\"you notice that... they seem to occupy a third category in your ontology of sortable objects\"). \n\nAlso, you seem to assume that categories are non-overlapping. You write \"you don't really put them in the same mental category as bleggs\". What does it even mean, to put two objects in the same or not the same category? Consider a horse and a cow. Are they in the same mental category? Both are in the categories \"living organisms\", \"animals\", \"mammals\", \"domesticated mammals\". But, they are different species. So, sometimes you put them in the same category, sometimes you put them in different categories. Are \"raven\" and \"F16 aircraft\" in the same category? They are if your categories are \"flying objects\" vs. \"non-flying objects\", but they aren't if your categories are \"animate\" vs. \"non-animate\".\n\nMoreover, you seem to assume that categories are crisp rather than fuzzy, which is almost never the case for categories that people actually use. How many coins does it take to make a \"pile\" of coins? Is there an exact number? Is there an exact age when a person gets to be called \"old\"? If you take a table made out of a block of wood, and start to gradually deform its shape until it becomes perfectly spherical, is there an exact point when it is no longer called a \"table\"? So, \"rubes\" and \"bleggs\" can be fuzzy categories, and the anomalous objects are in the gray area that defies categorization. There's nothing wrong with that.\n\nIf we take this rube/blegg factory thought experiment seriously, then what we need to imagine is the algorithm (instructions) that the worker in the factory executes. Then you can say that the relevant \"categories\" (in the context of the factory, and in that context only) are the vertices in the flow graph of the algorithm. For example, the algorithm might be, a table that specifies how to score each object (blue +5 points, egg-shaped +10 points, furry +1 point...) and a threshold which says what the score should to be to put it in a given bin. Then there are essentially only two categories. Another algorithm might be \"if object passes test X, put in the rube bin, if object passes test Y, put it in the blegg bin, if object passes neither test, put in in the Palladium scanner and sort according to that\". Then, you have approximately seven categories: \"regular rube\" (passed test X), \"regular blegg\" (passed test Y), \"irregular object\" (failed both tests), \"irregular rube\" (failed both tests and found to contain enough Palladium), \"irregular blegg\" (failed both tests and found to contain not enough Palladium), \"rube\" (anything put in the rube bin) and \"blegg\" (anything put in the blegg bin). But in any case, the categorization would depend on the particular trade-offs that the designers of the production line made (depending on things like, how expensive is it to run the palladium scanner), rather than immutable Platonic truths about the nature of the objects themselves.\n\nThen again, I'm not entirely sure whether we are really disagreeing or just formulating the same thing in different ways?"
+   }
+  },
+  {
+   "_id": "RsMJzfSwjojhC6hkM",
+   "parentCommentId": "YsQghHvkoMuArtJbZ",
+   "postedAt": "2019-03-15T00:26:06.800Z",
+   "baseScore": 7,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "Our bad. We broke bullet-lists with a recent update that also added autolinking. I am working on a fix that should ideally go up tonight."
+   }
+  },
+  {
+   "_id": "gMH68ASPpbquJvf6Q",
+   "parentCommentId": "RsMJzfSwjojhC6hkM",
+   "postedAt": "2019-03-15T03:16:07.467Z",
+   "baseScore": 3,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "Should be fixed now. Sorry for the inconvenience."
+   }
+  },
+  {
+   "_id": "aAgSDZ4ddHpzj9fNN",
+   "parentCommentId": "os4MHRR7bvgAfTECY",
+   "postedAt": "2019-03-15T07:42:47.336Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> your argument seems to rely purely on the intuition of your fictional character\n\nYes, the dependence on intuition is definitely a weakness of this particular post. (I wish I knew [as much math as Jessica Taylor](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/#ZJovvzxE8CbFfWNwq)! If I [want to become stronger](https://www.lesswrong.com/posts/DoLQN5ryZ9XkZjq5h/tsuyoku-naritai-i-want-to-become-stronger), I'll have to figure out how fit more studying into my schedule!)\n\n> you seem to assume that categories are non-overlapping.  \n> you seem to assume that categories are crisp rather than fuzzy  \n\nI don't believe either of those things. If you have any specific wording suggestions on how I can write more clearly so as to better communicate to my readers that I don't believe either of those things, I'm listening.\n\n> If you take a table made out of a block of wood, and start to gradually deform its shape until it becomes perfectly spherical, is there an exact point when it is no longer called a \"table\"?\n\nNo, there is no such exact point; like [many longtime _Less Wrong_ readers](https://www.lesswrong.com/posts/nso8WXdjHLLHkJKhr/the-conscious-sorites-paradox), I, too, am familiar with the [Sorities paradox](https://plato.stanford.edu/entries/sorites-paradox/).\n\n> But in any case, the categorization would depend on the particular trade-offs that the designers of the production line made (depending on things like, how expensive is it to run the palladium scanner)\n\nRight. Another example of one of the things the particular algorithm-design trade-offs will depend on is the distribution of objects.\n\nWe could imagine a slightly altered parable in which the frequency distribution of objects is much more evenly spread out in color\u2013shape\u2013metal-content space: while cubeness has a reasonably strong _correlation_ with redness and palladium yield, and eggness with blueness and vanadium yield, you still have a substantial fraction of non-modal objects: bluish-purple rounded cubes, reddish-purple squarish eggs, _&c._\n\nIn _that_ scenario, a natural-language summary of the optimal decision algorithm wouldn't talk about discrete categories: you'd probably want some kind of scoring algorithm with thresholds for various tests and decisions as you describe, and no matter where you set the threshold for each decision, you'd still see a lot of objects just on either side of the boundary, with no good \"joint\" to anchor the placement of a category boundary.\n\nIn contrast, my reading of Yudkowsky's original parable posits a much _sparser_, more tightly-clustered distribution of objects in configuration space. The objects _do_ vary somewhat (some bleggs are purple, some rubes contain vanadium), but there's a very clear [cluster-structure](https://www.lesswrong.com/posts/WBw8dDkAWohFjWQSk/the-cluster-structure-of-thingspace): virtually all objects are close to the center of\u2014and could be said to \"belong to\"\u2014_either_ the \"rube\" cluster or the \"blegg\" cluster, with a lot of empty space in between.\n\nIn _this_ scenario, I think it does make sense for a natural-language summary of the optimal decision algorithm to talk about two distinct \"categories\" where the [density in the configuration space](https://www.lesswrong.com/posts/yLcuygFfMfrfK8KjF/mutual-information-and-density-in-thingspace) is concentrated. Platonic essences are just the limiting case as the overlap between clusters goes to zero.\n\nIn my fanfiction, I imagine that some unknown entity has taken objects that were originally in the \"rube\" cluster, and modified them so that they appear, at first glance but not on closer inspection, to be members of the \"blegg\" cluster. At first, the protagonist wishes to respect the apparent intent of the unknown entity by considering the modified objects to be bleggs. But in the process of her sorting work, the protagonist finds herself wanting to mentally distinguish adapted bleggs from regular bleggs, because she can't make the same job-relevant probabilistic inferences with the new \"bleggs (either regular or adapted)\" concept as she could with the old \"bleggs (only standard bleggs)\" concept.\n\nTo see why, forget about the category labels for a moment and just consider the clusters in the six-dimensional color\u2013shape\u2013texture\u2013firmness\u2013luminesence\u2013metal-content configuration space.\n\n_Before_ the unknown entity's intervention, we had _two_ distinct clusters: one centered at {blue, egg, furry, flexible, luminescent, vanadium}, and another centered at {red, cube, smooth, hard, non-luminescent, palladium}.\n\n_After_ the unknown entity's intervention, we have _three_ distinct clusters: the two previously-existing clusters, and a _new_ cluster centered at {blue, egg, furry, hard, non-luminescent, palladium}. This is a different situation! Workers on the sorting line might want different language in order to describe this new reality!\n\nNow, if we were to [_project_](https://en.wikipedia.org/wiki/Projection_(linear_algebra)) into the three-dimensional color\u2013shape\u2013texture subspace, then we would have two clusters again: with just these attributes, we can't distinguish between bleggs and adapted bleggs. But since workers on the sorting line can observe hardness, and care about metal content, they probably want to use the three-cluster representation, even if they suspect the unknown entity might thereby feel disrespected."
+   }
+  },
+  {
+   "_id": "htG59CyXk7TrKYGq3",
+   "parentCommentId": "gMH68ASPpbquJvf6Q",
+   "postedAt": "2019-03-15T16:54:38.022Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "My comment above is unchanged, which I guess means it was a parsing rather than a rendering problem if the bug is now fixed.\n\n*   Do bullet lists work now?\n*   If they do, this and the previous line should be bulleted.\n\n... Nope, still broken, sorry. But it looks as if the vertical spacing is different from what it would be if these were all ordinary paragraphs, so *something* is being done. In the HTML they are showing up as <li> elements, without any surrounding <ul> or anything of the sort; I don't know whether that's what's intended."
+   }
+  },
+  {
+   "_id": "yd6x9z2mbjYg2btF6",
+   "parentCommentId": "htG59CyXk7TrKYGq3",
+   "postedAt": "2019-03-15T18:10:47.831Z",
+   "baseScore": 3,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "Wait, that list is definitely bulleted, and I also fixed your comment above. Are we seeing different things? \n\n![](https://i.imgur.com/s3DLFP1.png) "
+   }
+  },
+  {
+   "_id": "dyLnwhgmLn4fiDGmk",
+   "parentCommentId": "yd6x9z2mbjYg2btF6",
+   "postedAt": "2019-03-15T18:15:22.247Z",
+   "baseScore": 3,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "My guess is it's some browser inconsistency because of orphaned <li> elements. Will try to fix that as well. "
+   }
+  },
+  {
+   "_id": "TJSvkmuzPRmDjZw2Q",
+   "parentCommentId": "aAgSDZ4ddHpzj9fNN",
+   "postedAt": "2019-03-15T21:16:07.055Z",
+   "baseScore": 2,
+   "user": {
+    "username": "vanessa-kosoy",
+    "displayName": "Vanessa Kosoy"
+   },
+   "contents": {
+    "markdown": "Hmm. Why would the entity feel disrespected by how many clusters the workers use? I actually *am* aware that this is an allegory for something else. Moreover, I *think* that I disagree you with about the something else (although I am not sure since I am not entirely sure what's your position about the something else is). Which is to say, I think that this allegory misses crucial aspects of the original situation and loses the crux of the debate."
+   }
+  },
+  {
+   "_id": "aTmWinJ8kMmgzBzYD",
+   "parentCommentId": "TJSvkmuzPRmDjZw2Q",
+   "postedAt": "2019-03-15T23:06:08.839Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> I think that this allegory misses crucial aspects of the original situation\n\nThat makes sense! [As gjm noted](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#qRt8CGQQevJShc4eW), sometimes unscrupulous authors sneakily construct an allegory with the intent of leading the reader to a particular conclusion within the context of the allegory with the hope that the reader will map that conclusion back onto the real-world situation in a particular way, _without_ doing the work of actually _showing_ that the allegory and the real-world situation are actually analogous in the relevant aspects. \n\nI don't want to be guilty of that! This is a story about bleggs and rubes that I happened to come up with in the context of trying to think about something else (and I don't want to be deceptive about that historical fact), but I _definitely_ agree that people shouldn't map the story onto some other situation unless they actually have a good argument for why that mapping makes sense. If we wanted to discuss the something else rather than the bleggs and rubes, we should do that on _someone else's_ website. Not here."
+   }
+  },
+  {
+   "_id": "5Kvo8ad3xRFZkejXK",
+   "parentCommentId": "yd6x9z2mbjYg2btF6",
+   "postedAt": "2019-03-15T23:09:20.281Z",
+   "baseScore": 3,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "I don't see bullets on Firefox 65.0.1, but I do on Chromium 72.0.3626.121 (both Xubuntu 16.04.5)."
+   }
+  },
+  {
+   "_id": "jkHp36rAGGigfZfq9",
+   "parentCommentId": "wDnx3kqP8bGMLv67C",
+   "postedAt": "2019-03-16T01:01:03.586Z",
+   "baseScore": 6,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> The [\"Disguised Queries\"](https://www.lesswrong.com/rationality/disguised-queries) post that first introduced bleggs and rubes makes essentially the point that categories are somewhat arbitrary, that there's no One True Right Answer to \"is it a blegg or a rube?\", and that which answer is best depends on what particular things you care about on a particular occasion.\n\nThat's not how I would summarize that post _at all_! I mean, I agree that the post did literally say that (\"The question 'Is this object a blegg?' may stand in for different queries on different occasions\"). But it _also_ went on to say more things that I think substantially change the moral\u2014\n\n> If [the question] weren't standing in for _some_ query, you'd have no reason to care.\n\n> [...] People who argue that atheism is a religion \"because it states beliefs about God\" are really trying to argue (I think) that the reasoning methods used in atheism are on a par with the reasoning methods used in religion, or that atheism is no safer than religion in terms of the probability of causally engendering violence, etc... [...]\n\n> [...] The a priori irrational part is where, in the course of the argument, someone pulls out a dictionary and looks up the definition of \"atheism\" or \"religion\". [...]  How could a dictionary _possibly_ decide whether an empirical cluster of atheists is really substantially different from an empirical cluster of theologians? **How can reality vary with the meaning of a word? The points in thingspace don't move around when we redraw a boundary.** [bolding mine\u2014ZMD]\n\n> But people often don't _realize_ that their argument about where to draw a definitional boundary, is really a dispute over whether to infer a characteristic shared by most things inside an empirical cluster...\n\nI claim that what Yudkowsky said about the irrationality about appealing to the dictionary, goes the same for appeal to personal values or priorities. It's not _false_ exactly, but it doesn't _accomplish_ anything.\n\nSuppose Bob says, \"[Abortion is murder](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world), because it's the killing of a human being!\"\n\nAlice says, \"No, abortion isn't murder, because murder is the killing of a sentient being, and fetuses aren't sentient.\"\n\nAs Alice and Bob's hired rationalist mediator, you _could_ say, \"You two just have different preferences about somewhat-arbitary category boundaries, that's all! Abortion _is_ murder-with-respect-to-Bob's-definition, but it _isn't_ murder-with-respect-to-Alice's-definition. Done! [End of conversation!](https://www.lesswrong.com/posts/wqmmv6NraYv4Xoeyj/conversation-halters)\"\n\nAnd maybe _sometimes_ there really is [nothing more to it than that](https://www.lesswrong.com/posts/7X2j8HAkWdmMoS8PE/disputing-definitions). But oftentimes, I think we can do _more work_ to [break the symmetry](https://slatestarcodex.com/2017/03/24/guided-by-the-beauty-of-our-weapons/): to work out what different predictions Alice and Bob are making _about reality_, or what different preferences they have _about reality_, and refocus the discussion on _that_. As I wrote in [\"The Categories Were Made for Man to Make Predictions\"](http://unremediatedgender.space/2018/Feb/the-categories-were-made-for-man-to-make-predictions/):\n\n> If different political factions are engaged in conflict over how to define the extension of some common word\u2014common words being a scarce and valuable resource both culturally and [information-theoretically](http://lesswrong.com/lw/o1/entropy_and_short_codes/)\u2014rationalists may not be able to say that one side is simply right and the other is simply wrong, but we can at least strive for objectivity in _describing the conflict_. Before shrugging and saying, \"Well, this is a difference in values; nothing more to be said about it,\" we can talk about the detailed consequences of what is gained or lost by paying attention to some differences and ignoring others.\n\nWe had [an entire Sequence](https://www.lesswrong.com/posts/FaJaCgqBKphrDzDSj/37-ways-that-words-can-be-wrong) _specifically about this_! [You were _there_!](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger#ryi99fBKT4ZGWGmzw) _I_ was there! Why doesn't anyone _remember_?!"
+   }
+  },
+  {
+   "_id": "qeyvdZYg7PNfpC6r3",
+   "parentCommentId": "aTmWinJ8kMmgzBzYD",
+   "postedAt": "2019-03-16T09:02:57.400Z",
+   "baseScore": 1,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "FWIW, I predicted it would be an allegory of transsexuality even before I read it or any of the comments."
+   }
+  },
+  {
+   "_id": "CCivHM47dTAbQfQ95",
+   "parentCommentId": "HjKiM4Z2Wdap8XXv9",
+   "postedAt": "2019-03-16T09:31:21.038Z",
+   "baseScore": 4,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "Categories are never arbitrary. They are created to serve purposes. They can serve those purposes better or worse. There can be multiple purposes, leading to multiple categories overlapping and intersecting. Purposes can be lost (imagine a link to the Sequences posting on lost purposes). \u201cArbitrary\u201d is a \u201cbuffer\u201d or \u201clullaby\u201d word (imagine another link, I might put them in when I\u2019m not writing on a phone on a train) that obscures all that."
+   }
+  },
+  {
+   "_id": "yNg5GBRDKEpnNjR4T",
+   "parentCommentId": "qeyvdZYg7PNfpC6r3",
+   "postedAt": "2019-03-16T13:31:33.014Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "I mean, yes, there's the [allusion](https://medium.com/@zip/egg-mode-82febcf9673e) in the title! (The post wasn't originally written _for_ being shared on _Less Wrong_, it just seemed _sufficiently_ sanitized to be shareable-here-without-running-too-afoul-of-anti-politics-norms after the fact.)"
+   }
+  },
+  {
+   "_id": "FHzASZZFEjP63qKRJ",
+   "parentCommentId": "yNg5GBRDKEpnNjR4T",
+   "postedAt": "2019-03-16T13:49:25.939Z",
+   "baseScore": 2,
+   "user": {
+    "username": "Richard_Kennaway",
+    "displayName": "Richard_Kennaway"
+   },
+   "contents": {
+    "markdown": "I read the title as just an allusion to Eliezer\u2019s OP on bleggs and rubes. (Otoh, without having read the article just linked, I\u2019m familiar with \u201cegg\u201d as transsexual jargon for someone exploring TS feelings, who (the ideology has it) will inevitably in the end \u201chatch\u201d into a full-on TS.)"
+   }
+  },
+  {
+   "_id": "feK7Md6pFv3mSnyi7",
+   "parentCommentId": "CCivHM47dTAbQfQ95",
+   "postedAt": "2019-03-16T14:56:58.138Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "It seems to me that you're saying a bunch of things I already said, and saying them as if they are corrections to errors I've made. For instance:\n\nRK: \"Categories are never arbitrary.\" gjm: \"categories are not completely arbitrary.\"\n\nRK: \"They are created to serve purposes.\" gjm: \"the relative merits of these depend on the agent's goals\"\n\nRK: \"They can serve those purposes better or worse.\" gjm: \"Some categorizations are better than others \\[...\\] the relative merits of these depend on the agent's goals.\"\n\nSo, anyway, I agree with what you say, but I'm not sure why you think (if you do -- it seems like you do) I was using \"arbitrary\" as what you call a \"lullaby word\". I'm sorry if for you it obscured any of those points about categories, though clearly it hasn't stopped you noticing them; you may or may not choose to believe me when I said it didn't stop me noticing them either.\n\nFor what it's worth, I think what I mean when I say \"categories are somewhat arbitrary\" is almost exactly the same as what you mean when you say \"they are created to serve purposes\"."
+   }
+  },
+  {
+   "_id": "iWCmkDM2EYqS2JbEp",
+   "parentCommentId": "5Kvo8ad3xRFZkejXK",
+   "postedAt": "2019-03-16T14:59:50.486Z",
+   "baseScore": 3,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Right. I'm using Firefox and see no bullets. We're in \"Chrome is the new IE6\" territory, I fear; no one bothers testing things on Firefox any more. Alas!"
+   }
+  },
+  {
+   "_id": "PJh25oqzEkPjT5Kxc",
+   "parentCommentId": "jkHp36rAGGigfZfq9",
+   "postedAt": "2019-03-16T17:23:05.767Z",
+   "baseScore": 2,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "I wasn't *claiming* to summarize \"Disguised Queries\". I was pointing out *one thing* that it says, which happens to be the thing that you say no one says other than to push a particular position on trans issues, and which \"Disguised Queries\" says with (so far as I can tell) no attempt to say anything about transness at all.\n\nAlice and Bob's conversation doesn't have to end once they (hopefully) recognize that their disagreement is about category boundaries as much as it is about matters of fact. They may well want to figure out why they draw their boundaries in different places. It might be because they have different purposes; or because they have different opinions on some *other* matter of fact; or because one or both are really making appeals to emotion for an already-decided conclusion rather than actually trying to think clearly about what sort of a thing a foetus is; etc.\n\nEnding a conversation, or a train of thought, prematurely, is a bad thing. It seems altogether unfair to complain at me merely for using words that could be abused for that purpose. (If you see me *actually trying to end a conversation* with them, of course, then by all means complain away.)\n\nOver and over again in this discussion, it seems as if I'm being taken to say things I'm fairly sure I haven't said and certainly don't believe. If it's because I'm communicating badly, then I'm very sorry. But it might be worth considering other explanations."
+   }
+  },
+  {
+   "_id": "Bu7bGjzsfX3PnyM5t",
+   "parentCommentId": "iWCmkDM2EYqS2JbEp",
+   "postedAt": "2019-03-16T19:37:27.248Z",
+   "baseScore": 2,
+   "user": {
+    "username": "habryka4",
+    "displayName": "habryka"
+   },
+   "contents": {
+    "markdown": "I have a PR that fixes it properly. Should be up by Monday.\n\nI usually check browser compatibility, I just didn't consider it in this case since I didn't actually expect that something as old as bullet lists would still have browser rendering differences."
+   }
+  },
+  {
+   "_id": "kHKmpyrTqx3tyNhGw",
+   "parentCommentId": "PJh25oqzEkPjT5Kxc",
+   "postedAt": "2019-03-16T21:01:41.466Z",
+   "baseScore": 8,
+   "user": {
+    "username": "Zack_M_Davis",
+    "displayName": "Zack_M_Davis"
+   },
+   "contents": {
+    "markdown": "> I wasn't _claiming_ to summarize \"Disguised Queries\".\n\nI may have misinterpreted what you meant by the phrase \"makes essentially the point that.\"\n\n> the thing that you say no one says other than to push a particular position on trans issues\n\nI see. I think I made a mistake in [the great-great-grandparent comment](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#EWoBEkaPzsWaEwDHE). That comments' penultimate paragraph ended: \"[...] and who _somehow_ never seem to find it useful to bring up the idea that categories are somewhat arbitrary in seemingly _any other context_.\" I should not have written that, because as you pointed out in [the great-grandparent](https://www.lesswrong.com/posts/GEJzPwY8JedcNX2qz/blegg-mode#wDnx3kqP8bGMLv67C), it's not true. This turned out to be a pretty costly mistake on my part, because we've now just spent the better part of four comments litigating the consequences of this error in a way that we could have avoided if only I had taken more care to phrase the point I was trying to make less hyperbolically.\n\nThe point I was _trying_ to make in the offending paragraph is that if someone _honestly_ believes that the choice between multiple category systems is arbitrary or somewhat-arbitrary, then they should accept the choice being _made_ arbitrarily or somewhat-arbitrarily. I agree that \"It depends on what you mean by X\" is often a useful motion, but I think it's possible to distinguish when it's being used to facilitate communication from when it's being used to impose frame control. Specifically: it's incoherent to say, \"It's arbitrary, so you should do it my way,\" because if it were _really_ arbitrary, the one would not be _motivated_ to say \"you should do it my way.\" In discussions about my idiosyncratic special interest, I very _frequently_ encounter _incredibly mendacious_ frame-control attempts from people who call themselves \"rationalists\" and who _don't_ seem to do this on most other topics. (This is, of course, with respect to how I draw the \"incredibly mendacious\" category boundary.)\n\n_Speaking_ of ending conversations, I'm feeling pretty emotionally exhausted, and we seem to be spending a lot of wordcount on mutual misunderstandings, so unless you have more things you want to explain to me, maybe this should be the end of the thread? **Thanks** for the invigorating discussion! This was _way_ more productive than most of the conversations I've had lately! (Which maybe tells you something about the quality of those other discussions.)\n"
+   }
+  },
+  {
+   "_id": "PwaW9PNTTDCSwJuor",
+   "parentCommentId": "Bu7bGjzsfX3PnyM5t",
+   "postedAt": "2019-03-18T00:41:17.112Z",
+   "baseScore": 2,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Thanks!"
+   }
+  },
+  {
+   "_id": "42dCXx7dSLErjL4SA",
+   "parentCommentId": "kHKmpyrTqx3tyNhGw",
+   "postedAt": "2019-03-18T00:48:27.189Z",
+   "baseScore": 6,
+   "user": {
+    "username": "gjm",
+    "displayName": "gjm"
+   },
+   "contents": {
+    "markdown": "Happy to leave it here; I have a few final comments that are mostly just making explicit things that I think we largely agree on. (But if any of them annoy you, feel free to have the last word.)\n\n1\\. Yeah, sorry, \"essentially\" may have been a bad choice of word. I meant \"makes (inter alia) a point which is essentially that ...\" rather than \"makes, as its most essential part, the point that ...\".\n\n2\\. My apologies for taking you more literally than intended. I agree that \"it's arbitrary so you should do it my way\" is nuts. On the other hand, \"there's an element of choice here, and I'm choosing X because of Y\" seems (at least potentially) OK to me. I don't know what specific incredibly mendacious things you have in mind, but e.g. nothing in Scott's TCWMFM strikes me as mendacious and I remain unconvinced by your criticisms of it. (Not, I am fairly sure, because I simply don't understand them.)\n\nFinally, my apologies for any part of the emotional exhaustion that's the result of things I said that could have been better if I'd been cleverer or more sensitive or something of the kind."
+   }
+  }
+ ]
+}
