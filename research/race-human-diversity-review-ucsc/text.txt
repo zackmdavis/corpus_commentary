@@ -1,0 +1,890 @@
+              Crossing the Rubicon from the Social to the Biological Sciences
+
+Reviewed work: Human Diversity: The Biology of Gender, Race, and Class by Charles Murray
+
+
+
+                              Reviewed by Russell T. Warne
+
+                                  Utah Valley University
+
+                                    RWarne@uvu.edu
+       Charles Murray is one of those people who already knows the first line of his obituary.
+
+When The Bell Curve—coauthored with Richard Herrnstein—was published in fall 1994, it
+
+caused a sensation in the scientific and political communities and catapulted Murray into infamy
+
+that will last the rest of his life and beyond. (Herrnstein passed away shortly before the book was
+
+published.) The intense reaction to The Bell Curve has lasted so long that in 2017 when Murray
+
+visited Middlebury College to speak about a different book, student protests erupted into a riot
+
+which caused property damage and hospitalized his host.
+
+       Herrnstein and Murray’s (1994) central thesis was that socioeconomic differences in the
+
+United States were partially the consequences of differences in intelligence. Most of the book
+
+focused on individual differences, but three chapters focused on average differences among
+
+racial and ethnic groups, and two chapters explored the policy implications of these differences.
+
+These five chapters, though constituting a minority of the book, were the topic of much of the
+
+reaction to The Bell Curve. Despite the backlash, two statements on the scientific knowledge
+
+regarding intelligence research were published by experts (Gottfredson, 1997; Neisser et al.,
+
+1996), largely vindicating the scientific findings in The Bell Curve. Both statements still serve as
+
+standards of factual accuracy about intelligence over two decades later (Warne et al., 2018).
+
+       However, Murray’s oeuvre since 1994 has built little on the findings in The Bell Curve. A
+
+few peer-reviewed articles (Murray, 2002, 2006, 2007) and a slim monograph (Murray, 1998)
+
+are re-analyses of data or explorations of the magnitude of mean group differences in
+
+intelligence. Murray’s recent books have been concerned with a variety of topics, many of which
+
+have little or no bearing on intelligence research. Human Accomplishment (Murray, 2003) is a
+
+historiometric examination of the greatest human artistic and scientific accomplishments from
+800 BC to 1950 AD. By the People (Murray, 2015) is a libertarian guide to using civil
+
+disobedience to thwart the overreach of the regulatory state. Only Coming Apart (Murray,
+
+2013)—a description of the widening cultural, socioeconomic, and political gaps between
+
+wealthy and poor White Americans—touches on similar themes. But even here, intelligence
+
+research is supporting player, mostly in the context of college admissions tests functioning as a
+
+sieve that allows bright people to pass into the upper echelons of the socioeconomic hierarchy,
+
+while leaving their low scoring peers behind.
+
+       After over a quarter of a century, Murray has returned to the themes of The Bell Curve,
+
+with his new book, Human Diversity: The Biology of Gender, Race, and Class (Murray, 2020).
+
+The title is an informative one. Murray’s horizons have expanded beyond socioeconomic
+
+inequality and race differences to include gender differences. Paradoxically, Murray’s broader
+
+treatment is paired with a focus on causes that are more basic than intelligence: genes, hormones,
+
+and brain structure. Intelligence research makes appearances in the book—the chapters on
+
+socioeconomic inequality develop many ideas from The Bell Curve—but individual differences
+
+in intelligence are no longer a fundamental cause of inequalities. Instead, it is genes and biology;
+
+IQ is now one of many mediating variables between biology and social outcomes.
+
+                                    Two Inequality Cultures
+
+       In the introduction to Human Diversity, Murray introduces the orthodoxy of the
+
+“sameness principle,” which states that, “In a properly run society, people of all human
+
+groupings will have similar life outcomes” (Murray, 2020, p. 2). If the sameness principle is
+
+correct, then average group differences in life outcomes are prima facie evidence of an unjust
+
+society. This is the dominant culture of sociology and anthropology, two fields in which scholars
+
+generally minimize or reject biological or evolutionary explanations of inequality (Horowitz et
+al., 2014, 2019). It is also a worldview that is generally amiable to the leftist politics that
+
+dominates among scholars in those fields and psychology (Inbar & Lammers, 2012). Murray
+
+(2020, p. 3) summarizes the orthodox perspective on the tripartite issues of gender, race, and
+
+class into three simple claims:
+
+    1. Gender is a social construct.
+
+    2. Race is a social construct.
+
+    3. Class is a function of privilege.
+
+These claims are fundamental to the culture that relies on the sameness principle because if the
+
+inequalities are merely social constructs or the function of privilege, then creating an egalitarian
+
+world with equal outcomes is simply a matter of changing society, altering the environment, and
+
+eliminating the structural problems in social and economic systems. Utopia is always just around
+
+the corner.
+
+        In contrast to the sameness principle, another culture—underrepresented in the social
+
+sciences—holds that inequalities are at least partly rooted in individual differences. These
+
+differences can aggregate to result in average group differences in important variables that are
+
+correlated with or have a partial causal impact on life outcomes, such as socioeconomic status.
+
+Unsurprisingly, Murray belongs to this latter culture; The Bell Curve was also a presentation of
+
+such science, though rooted in intelligence research instead of biology.
+
+        Human Diversity is a presentation of the biological science that undermines the sameness
+
+principle as it applies to gender, race, and class. As such, the book serves as an introduction to
+
+the relevant biology for social science scholars, students, and interested non-experts. It is a
+
+convenient ford in the river that divides biology and the social sciences. But beware: Once this
+Rubicon is crossed—and biology begins informing the research and theory of the social
+
+sciences—there is no going back.
+
+                                     A Multidisciplinary Book
+
+       Unlike The Bell Curve, Human Accomplishment, and other large-scale works that Murray
+
+has written in the past, Human Diversity contains very little original data analysis. Instead, it is a
+
+book of synthesis. The research that Murray cites appeared originally in journals and books in
+
+neuroscience, behavioral genetics, differential psychology, population genetics, and other areas.
+
+Few psychologists will be competent in all areas of research that Murray draws upon—and even
+
+interdisciplinary experts may learn something new. (The discussion on epigenetics was most
+
+enlightening to me.)
+
+       But among the experts, Murray’s discussion is a rehash. Descriptions of classic, well-
+
+known studies are plentiful, and for most of Human Diversity Murray prefers to paraphrase the
+
+viewpoints of expert scientists who produced the studies. Murray proposes no grand unified
+
+theory of inequality, nor does he stray from the most empirically solid findings. To readers
+
+familiar with Murray’s work, this is unsurprising. He and Herrnstein took the same tack in The
+
+Bell Curve. Where both books seem controversial is not their science, but Murray’s willingness
+
+to write frankly about scientific findings that violate what Haidt (2020) calls the “sacred values”
+
+of people who hold the sameness principle as a foundational belief.
+
+       But a work of synthesis can make a useful contribution. (Ask anyone who has published a
+
+literature review or textbook.) The strength of Human Diversity is Murray’s accessible writing
+
+style. Technical ideas and concepts are explained in the simplest language possible without
+
+sacrificing important details. An excellent example of this is the treatment of how a series of
+
+small univariate group differences can combine to form large multivariate differences (Del
+Giudice et al., 2012; Edwards, 2003; Smouse et al., 1982). The small univariate differences on
+
+many variables is the foundation for many arguments that sex and racial group differences are
+
+trivial, such as Hyde’s (2005) gender similarities hypothesis or in Lewontin’s (1972) claim that
+
+between-group genetic variation among races was minuscule. Murray is skillful in explaining
+
+how correlated traits combine to create important multivariate differences among groups and
+
+includes a superb explanation of the multivariate effect size Mahalanobis D.
+
+                    Ten Propositions Undermining the Sameness Principle
+
+       Murray could present a variety of research showing how the sameness principle is not
+
+tenable. However, across the three areas of gender, race, and class, he has focused on ten
+
+propositions that are particularly strong.
+
+Gender
+
+       Murray’s four statements about gender are:
+
+       1. Sex differences in personality are consistent worldwide and tend to widen in more
+
+           gender-egalitarian cultures.
+
+       2. On average, females worldwide have advantages in verbal ability and social cognition
+
+           while males have advantages in visuospatial abilities and the extremes of
+
+           mathematical ability.
+
+       3. On average, women worldwide are more attracted to vocations centered on people
+
+           and men to vocations centered on things.
+
+       4. Many sex differences in the brain are coordinate with sex differences in personality
+
+           abilities, and social behavior.
+
+Of the three topics in Human Diversity’s title, the research on sex differences is the largest body
+
+of work. Murray does not explore it all (which, by itself, would require a lengthy book; see
+Halpern, 2001, for example). Instead, he focuses on the message that the fundamental belief in
+
+the sameness principle, as applied to sex differences, is empirically incorrect. Men and women
+
+are different (on average, though with a great deal of univariate overlap on most individual
+
+traits), which results in differences in average outcomes that are not easily eradicated. Because
+
+orthodox explanations of gender differences are flawed, orthodox prescriptions are too. Murray
+
+is not the first to make this argument; Stern (2016), for example, published a compelling
+
+insider’s perspective about this point regarding gender sociology.
+
+       A serious reading of the chapters on gender in Human Diversity is a better education
+
+about sex differences and their consequences than a library of books written by gender studies
+
+professors. Murray is particularly enlightening in the section on sex differences in occupational
+
+choice. Contrary to the predictions based on the sameness principle, sex differences in
+
+personality traits and cognitive abilities are larger in egalitarian countries than in nations where
+
+women’s rights are less realized (Costa et al., 2001), and this is a partial cause of sex differences
+
+in occupational choice. Murray explains the latter finding by arguing that freedom from social
+
+constraints allows people to develop their cognitive abilities and personality traits in a way that
+
+they prefer. This aligns with other research showing that, when opportunities are not greatly
+
+constrained, most people will seek jobs that allow them to tap into their psychological strengths
+
+(Webb et al., 2002). While this means that some women enter engineering and some men
+
+become kindergarten teachers, a larger percentage of women will prefer to enter occupations that
+
+require verbal skills and interpersonal competence, while a larger percentage of men will prefer
+
+jobs that require working with objects and the use of spatial or mechanical abilities. The result—
+
+in countries where equal opportunity is a societal goal—is a gender imbalance in many
+
+occupations. Efforts to force a 50/50 gender split in many occupations will, at best, result in
+many unhappy auto mechanics and hair stylists. At worst, it requires a high degree of coercion
+
+and oppression. In Saudi Arabia’s sex-segregated education system, 50% of elementary school
+
+teachers are male, but that does not make the country a feminist paradise.
+
+       Lest my readers grow nervous with Murray’s adherence to biology, he also recognizes
+
+the social science research that shows the ability for culture to create sex differences. This is
+
+especially apparent when he discusses the societal changes in the 20th century that were the
+
+likely cause of the profound decrease in the male-to-female ratio among the highest echelon of
+
+mathematics achievement (Wai et al., 2012) and in the number of women entering occupations
+
+that were traditionally dominated by men, such as law and medicine. Additionally, his
+
+interpretation of international variation in the magnitude of sex differences in academic
+
+achievement is entirely cultural. Throughout Human Diversity, Murray is able to recognize the
+
+limits of the explanatory power of biology and can give space for culture and social variables to
+
+have a causal effect.
+
+Race
+
+       Regarding race, Murray states:
+
+       5. Human populations are genetically distinctive in ways that correspond to self-
+
+           identified race and ethnicity.
+
+       6. Evolutionary selection pressure since humans left Africa has been extensive and
+
+           mostly local.
+
+       7. Continental population differences in variants associated with personality, abilities,
+
+           and social behavior are common.
+
+While controversial among non-experts, these three precepts are unsurprising to differential
+
+psychologists, population geneticists, and behavioral geneticists.
+        Statement 5 has been validated so many times in the 21st century that exploring the issue
+
+in detail would belabor the point. Simply put, using alleles as the traits to classify humans has led
+
+to results that classify people into their self-identified racial or ethnic group with over 99%
+
+concordance (Tang et al., 2005) and can identify genetically distinct subgroups within an ethnic
+
+group (Chiang et al., 2018; Leslie et al., 2015). These facts are the foundation for commercially
+
+available ancestry DNA tests. If the sameness principle were correct and race were merely a
+
+social construct with no connection to biology, then surely companies that provide these ancestry
+
+testing services would have been sued for fraud and false advertising by now.
+
+        Regarding Statement 6, Murray is—again—merely following in the footsteps of experts
+
+and previous authors (e.g., Cochran & Harpending, 2009; Wade, 2014; Winegard et al., 2017).
+
+Evolution did not magically stop when humans started walking upright. Nor did evolution
+
+operate only “below the neck” and leave the brain untouched after branches of humanity began
+
+to leave Africa (Beals et al., 1984; Chiao & Blizinsky, 2010; Woodley of Menie et al., 2017).
+
+Instead, natural selection is occurring within contemporary human populations (e.g., Beauchamp,
+
+2016; Jin et al., 2012; Kong et al., 2017; Lynch, 2016). Evolutionary theory predicts that
+
+subpopulations of a species who live in very different environments should exhibit
+
+differentiation in physical and psychological traits that are important for survival. The absence of
+
+such differences would severely undermine evolutionary theory to the point of practically
+
+falsifying it. Statement 7 is merely the consequence of the previous two statements. Murray
+
+explores biological phenotypes that are likely the consequence of continent-level genetic
+
+differences among populations and is satisfied to imply that the genetic differences can also have
+
+an impact on psychological and social phenotypes.
+
+Class
+       Murray’s three axioms on class can be summarized as, “Class is a function of the genetic
+
+lottery plus character, determination, hard work, and idiosyncratic circumstances” (Murray,
+
+2020, p. 204). Specifically, his claims are:
+
+       8. The shared environment usually plays a minor role in explaining personality, abilities,
+
+           and social behavior.
+
+       9. Class structure is importantly based on differences in abilities that have a substantial
+
+           genetic component.
+
+       10. Outside interventions are inherently constrained in the effects they can have on
+
+           personality, abilities, and social behavior.
+
+       This is not to say that racism and sexism have vanished from American society. Murray
+
+(2020, pp. 204-207) acknowledges the headwinds that members of some demographic groups
+
+still face, but his data-based argument is that bigotry is usually not a dominant cause of class
+
+differences. Murray states that biological differences—many of them rooted in genetics—are a
+
+more important cause for socioeconomic inequality. Conversely, the orthodox assumption that
+
+socioeconomic status is a causal variable—and not an outcome—is so widespread in at least one
+
+branch of the social sciences that it has been christened the “sociologist’s fallacy” (e.g., Jensen,
+
+1998, p. 491).
+
+       The mainstay of this section of Human Diversity is the heritability statistic, which is
+
+defined as the proportion of phenotype variance that is explained by genetic variance. As a
+
+proportion, heritability always ranges between 0 and 1, with zero indicating that a trait’s variance
+
+is fully explained by environmental variance and 1 indicating that phenotype variance is
+
+completely genetic in origin. Among experts, “All psychological traits show significant and
+
+substantial genetic influence” (Plomin et al., 2016, p. 4). That includes the traits that contribute
+to socioeconomic success: intelligence, educational achievement, prosocial personality traits,
+
+good mental health, and more. Indeed, for decades, studies have shown that the heritability of
+
+income and socioeconomic are in the .40s or .50s (e.g., Rowe, 1997), making both (partly) the
+
+product of genetic influences. Like the sections on gender and race, the section on class in
+
+Human Diversity is old news for experts.
+
+        One way that the biological data and conventional wisdom depart is in the influence of
+
+shared environment—i.e., the portions of the environment that siblings experience in common.
+
+Parenting experts and many developmental psychologists operate under the assumption that
+
+correlations between parental behaviors and child outcomes are causal in nature. However, when
+
+children are raised by one or both biological parents, then this correlation is confounded by the
+
+shared genes between parent and child (Plomin, 2018). Controlling for the common genetic
+
+influence on parental and child behavior (e.g., by studying only adoptees who are raised by
+
+nonbiological relatives) greatly reduces the correlation between parental and child behavior. The
+
+influence of environment that siblings share tends to be small and for some variables—such as
+
+IQ—the shared environment influence evaporates completely in some samples. This is not to say
+
+that environment is irrelevant; rather, the most important environmental impacts on many life
+
+outcomes are the events, experiences, and influences that are not shared among siblings (Plomin,
+
+2018). This makes these causal variables much harder to identify, and efforts so far have had
+
+little success (e.g., Asbury et al., 2016).
+
+        Even if an environmental variable or intervention can have a causal impact on a variable
+
+important for socioeconomic success, genetic influences are still relevant. Given the range of
+
+environments under study, a trait’s heritability is also measure of how resistant to change a trait
+
+could be under typical environmental conditions. This leads to an implication that is problematic
+for the sameness principle: when heritability is high, changes in the environment are likely to
+
+have weak effects on traits. (Rare exceptions can occur, such as an environmental change that is
+
+outside of the range of studied environments.) As a result, traits with heritability greater than
+
+.50—such as internal motivation, higher cognitive functions, and recurrent depression
+
+(Polderman et al., 2015)—are probably not easily malleable. When nonshared environment
+
+statistically explains the bulk of the remaining nongenetic variance, social scientists should be
+
+doubly skeptical about the prospect of changing the trait under typical environmental conditions.
+
+       In a way, this should not be surprising to psychologists. Almost any clinician
+
+acknowledges that permanent changes to behavior are hard to achieve. Moreover, the replication
+
+crisis has not been kind to subtle interventions to change human behavior noticeably, including
+
+social priming (e.g., Rohrer et al., 2019), mindset theory (e.g., Li & Bates, 2019), and stereotype
+
+threat (e.g., Flore et al., 2018). In psychology, there seems to be a perpetual cycle of hope, hype,
+
+and heartbreak in the research on interventions for changing human behavior, including
+
+preschool (e.g., Lipsey et al., 2018), working memory training programs (Redick, 2019; Sala &
+
+Gobet, 2019), and more. Yet, the appeal of the orthodoxy is strong, and many psychologists are
+
+eager to push the next intervention, which inevitably produces weak or zero effects in rigorous
+
+studies. Lather, rinse, and repeat.
+
+                                 Murray’s Global Interpretation
+
+       Human Diversity concludes with two chapters where Murray interprets the totality of the
+
+scientific evidence, emphasizing the foreseeable consequences for the social sciences and for
+
+society at large. Unlike the concluding chapters of Murray’s Coming Apart and Human
+
+Accomplishment, the end of Human Diversity is remarkably upbeat.
+       Murray sees the encroachment of the genomics into the social sciences as the beginning
+
+of an exciting new revolution—a statement that I have made elsewhere (Warne et al., 2018, p.
+
+44). Where he and I diverge is the timetable. Murray (2020, pp. 273, 286, 287) believes that by
+
+2030, research that incorporates biological data and theory will be mainstream in the social
+
+sciences. To me, that is too optimistic of a timeline for two reasons. First, massive shifts in the
+
+social sciences take time. The cognitive revolution took about 30 years to sweep through
+
+psychology. Removing psychoanalysis from the mainstream of clinical and counseling
+
+psychology took even longer. It has been nearly a decade since the beginning of psychology’s
+
+replication crisis, and—despite improvement—most studies are still not pre-registered,
+
+replications remain somewhat rare, and many data sets are not widely available accessible. How
+
+the social sciences will embrace genetically informed methodologies so quickly is unclear.
+
+       Second, Murray’s prediction downplays the strength of the orthodoxy—which has
+
+resisted research on the reality, biology, and consequences of gender, race, and class differences
+
+for decades. Entire disciplines within the social sciences have been co-opted by fervent adherents
+
+to the sameness principle, and they will not give up their power without a fight. In one survey,
+
+many social and personality psychologists expressed a willingness to discriminate against
+
+advocates of politically conservative ideas (Inbar & Lammers, 2012). In the same survey, the
+
+self-reported leftist respondents were most willing to discriminate against opinions they
+
+disagreed with. (Apparently, tolerance is a one-way street for them.) Moreover, the willingness
+
+to discriminate increases as the stakes are raised; only 14.0% of psychologists said they would
+
+discriminate in a symposium invitation; 37.5% would do so for a hiring decision. History has
+
+shown that when a methodology or finding would seem to legitimize beliefs that threaten leftist
+sacred values, often the knives come out (see Carl & Woodley of Menie, 2019, for a catalog of
+
+examples).
+
+        I cannot explain why the co-author of The Bell Curve (of all people!) would be such a
+
+Pollyanna about the willingness for the orthodoxy to embrace the science that it has worked so
+
+hard to ignore, defund, discredit, and suppress. Murray’s (2020, pp. 300) optimism is grounded
+
+in the ability of polygenic scores (which are based on subtle genetic variations among people) to
+
+make predictions of social outcomes. This is a central weakness of the sameness principle; if
+
+people are fundamentally similar and environmental differences have a powerful causal impact
+
+on social outcomes, then DNA should have a zero or trivial correlation with social outcomes.
+
+Murray believes that the predictive power of genetic data will cause most social scientists to
+
+admit the powerful influences of biology on behavior. We will see in ten years whether his
+
+timetable for this change is realistic.
+
+        Where I agree with Murray’s analysis is the huge potential for biologically informed
+
+research. Medical researchers are at the forefront of incorporating genomic data into their
+
+research, but they will not be alone. For receptive scientists, the inclusion of biology (especially
+
+genetics) is an exciting development that could overturn or strongly alter the methodology,
+
+theories, and interventions in every branch of the social sciences. Among the questions I can see
+
+being answered with the aid of genetic data are:
+
+    •   Why are some pairs of psychological disorders more frequently comorbid with one
+
+        another than other pairs?
+
+    •   Why do some people respond better to interventions than others—and can genetic data
+
+        help professionals predict which intervention will be most effective for a particular
+
+        individual?
+   •   Can genomic data identify vulnerable people before behavioral problems or unfavorable
+
+       social outcomes develop—and are interventions before those problems emerge effective?
+
+Nearly every human trait is susceptible to some degree of heritability (Plomin et al., 2016), so
+
+the potential list of genetically informed research questions in the social sciences is lengthy.
+
+       That is why Murray’s book is relevant in 2020. Most social scientists have little training
+
+in biology. Human Diversity is a cogent introduction to the research base, implications, and
+
+controversies about these issues. It will not make readers into experts on the topics the book
+
+covers. But readers will finish the book with a strong grasp of the fundamental concepts and be
+
+able to recognize problems in theories of human behavior that ignore biology. Incorporating
+
+biological data (such as polygenic scores) into a social science research program will take
+
+training and experience, but becoming acquainted with the ideas in Human Diversity is a start.
+
+       Unfortunately, the people who most need to read Human Diversity are the ones least
+
+likely to do so. Murray’s name is anathema in some circles, and his message is ideologically
+
+dangerous to people who believe fervently in the sameness principle. The guardians of
+
+orthodoxy, though, have reason to be afraid. A proverbial Rubicon divides biology and the social
+
+sciences, and Murray is an excellent guide for helping his readers find their way across. And
+
+when that happens, the sameness principle—like the ancient Roman Republic—is poorly
+
+equipped to handle the changes and reality that are unleashed upon it.
+                                            References
+
+Asbury, K., Moran, N., & Plomin, R. (2016). Nonshared environmental influences on academic
+
+       achievement at age 16: A qualitative hypothesis-generating monozygotic-twin differences
+
+       study. AERA Open, 2(4), 1-12. https://doi.org/10.1177/2332858416673596
+
+Beals, K. L., Smith, C. L., & Dodd, S. M. (1984). Brain size, cranial morphology, climate, and
+
+       time machines. Current Anthropology, 25(3), 301-318. https://doi.org/10.1086/203138
+
+Beauchamp, J. P. (2016). Genetic evidence for natural selection in humans in the contemporary
+
+       United States. Proceedings of the National Academy of Sciences, 113(28), 7774-7779.
+
+       https://doi.org/10.1073/pnas.1600398113
+
+Carl, N., & Woodley of Menie, M. A. (2019). A scientometric analysis of controversies in the
+
+       field of intelligence research. Intelligence, 77, Article 101397.
+
+       https://doi.org/10.1016/j.intell.2019.101397
+
+Chiang, C. W. K., Mangul, S., Robles, C., & Sankararaman, S. (2018). A comprehensive map of
+
+       genetic variation in the world’s largest ethnic group—Han Chinese. Molecular Biology
+
+       and Evolution, 35(11), 2736-2750. https://doi.org/10.1093/molbev/msy170
+
+Chiao, J. Y., & Blizinsky, K. D. (2010). Culture–gene coevolution of individualism–collectivism
+
+       and the serotonin transporter gene. Proceedings of the Royal Society B: Biological
+
+       Sciences, 277(1681), 529-537. https://doi.org/10.1098/rspb.2009.1650
+
+Cochran, G., & Harpending, H. (2009). The 10,000 year explosion: How civilization accelerated
+
+       human evolution. Basic Books.
+
+Costa Jr, P. T., Terracciano, A., & McCrae, R. R. (2001). Gender differences in personality traits
+
+       across cultures: Robust and surprising findings. Journal of Personality and Social
+
+       Psychology, 81(2), 322-331. https://doi.org/10.1037/0022-3514.81.2.322
+Del Giudice, M., Booth, T., & Irwing, P. (2012). The distance between Mars and Venus:
+
+       Measuring global sex differences in personality. PLoS ONE, 7(1), Article e29265.
+
+       https://doi.org/10.1371/journal.pone.0029265
+
+Edwards, A. W. F. (2003). Human genetic diversity: Lewontin's fallacy. BioEssays, 25(8), 798-
+
+       801. https://doi.org/10.1002/bies.10315
+
+Flore, P. C., Mulder, J., & Wicherts, J. M. (2018). The influence of gender stereotype threat on
+
+       mathematics test scores of Dutch high school students: a registered report.
+
+       Comprehensive Results in Social Psychology, 3(2), 140-174.
+
+       https://doi.org/10.1080/23743603.2018.1559647
+
+Gottfredson, L. S. (1997). Mainstream science on intelligence: An editorial with 52 signatories,
+
+       history, and bibliography. Intelligence, 24(1), 13-23. https://doi.org/10.1016/S0160-
+
+       2896(97)90011-8
+
+Halpern, D. (2011). Sex differences in cognitive abilities (4th ed.). Routledge.
+
+Herrnstein, R. J., & Murray, C. (1994). The bell curve: Intelligence and class structure in
+
+       American life. Free Press.
+
+Horowitz, M., Yaworsky, W., & Kickham, K. (2014). Whither the blank slate? A report on the
+
+       reception of evolutionary biological ideas among sociological theorists. Sociological
+
+       Spectrum, 34(6), 489-509. https://doi.org/10.1080/02732173.2014.947451
+
+Horowitz, M., Yaworsky, W., & Kickham, K. (2019). Anthropology’s science wars: Insights
+
+       from a new survey. Current Anthropology, 60(5), 674-698.
+
+       https://doi.org/10.1086/705409
+
+Hyde, J. S. (2005). The gender similarities hypothesis. The American Psychologist, 60(6), 581-
+
+       592. https://doi.org/10.1037/0003-066X.60.6.581
+Inbars, Y., & Lammers, J. (2012). Political diversity in social and personality psychology.
+
+       Perspectives on Psychological Science, 7(5), 496-503.
+
+       https://doi.org/10.1177/1745691612448792
+
+Jensen, A. R. (1998). The g factor: The science of mental ability. Praeger.
+
+Jin, W., Xu, S., Wang, H., Yu, Y., Shen, Y., Wu, B., & Jin, L. (2012). Genome-wide detection of
+
+       natural selection in African Americans pre- and post-admixture. Genome Research,
+
+       22(3), 519-527. https://doi.org/10.1101/gr.124784.111
+
+Kong, A., Frigge, M. L., Thorleifsson, G., Stefansson, H., Young, A. I., Zink, F., Jonsdottir, G.
+
+       A., Okbay, A., Sulem, P., Masson, G., Gudbjartsson, D. F., Helgason, A., Bjornsdottir,
+
+       G., Thorsteinsdottir, U., & Stefansson, K. (2017). Selection against variants in the
+
+       genome associated with educational attainment. Proceedings of the National Academy of
+
+       Sciences, 114(5), E727-E732. https://doi.org/10.1073/pnas.1612113114
+
+Leslie, S., Winney, B., Hellenthal, G., Davison, D., Boumertit, A., Day, T., Hutnik, K., Royrvik,
+
+       E. C., Cunliffe, B., Wellcome Trust Case Control Consortium 2, International Multiple
+
+       Sclerosis Genetics Consortium, Lawson, D. J., Falush, D., Freeman, C., Pirinen, M.,
+
+       Myers, S., Robinson, M., Donnelly, P., & Bodmer, W. (2015). The fine-scale genetic
+
+       structure of the British population. Nature, 519(7543), 309-314.
+
+       https://doi.org/10.1038/nature14230
+
+Lewontin, R. C. (1972). The apportionment of human diversity. In T. Dobzhansky, M. K. Hecht,
+
+       & W. C. Steere (Eds.), Evolutionary biology (Vol. 6, pp. 381-398). Springer.
+
+       https://doi.org/10.1007/978-1-4684-9063-3_14
+
+Li, Y., & Bates, T. C. (2019). You can’t change your basic ability, but you work at things, and
+
+       that’s how we get hard things done: Testing the role of growth mindset on response to
+       setbacks, educational attainment, and cognitive ability. Journal of Experimental
+
+       Psychology: General, 148(9), 1640-1655. https://doi.org/10.1037/xge0000669
+
+Lipsey, M. W., Farran, D. C., & Durkin, K. (2018). Effects of the Tennessee Prekindergarten
+
+       Program on children’s achievement and behavior through third grade. Early Childhood
+
+       Research Quarterly, 45, 155-176. https://doi.org/10.1016/j.ecresq.2018.03.005
+
+Lynch, M. (2016). Mutation and human exceptionalism: Our future genetic load. Genetics,
+
+       202(3), 869-875. https://doi.org/10.1534/genetics.115.180471
+
+Murray, C. (1998). Income inequality and IQ. Washington, DC: American Enterprise Institute.
+
+Murray, C. (2002). IQ and income inequality in a sample of sibling pairs from advantaged family
+
+       backgrounds. American Economic Review, 92(2), 339-343.
+
+       https://doi.org/10.1257/000282802320191570
+
+Murray, C. (2003). Human accomplishment: The pursuit of excellence in the arts and sciences,
+
+       800 B.C. to 1950. HarperCollins.
+
+Murray, C. (2006). Changes over time in the black-white difference on mental tests: Evidence
+
+       from the children of the 1979 cohort of the National Longitudinal Survey of Youth.
+
+       Intelligence, 34(6), 527-240. https://doi.org/10.1016/j.intell.2006.07.004
+
+Murray, C. (2007). The magnitude and components of change in the black–white IQ difference
+
+       from 1920 to 1991: A birth cohort analysis of the Woodcock–Johnson standardizations.
+
+       Intelligence, 35, 305-318. https://doi.org/10.1016/j.intell.2007.02.001
+
+Murray, C. (2013). Coming apart: The state of white America, 1960-2010. Crown Forum.
+
+Murray, C. (2015). By the people: Rebuilding liberty without permission. Crown Forum.
+
+Murray, C. (2020). Human diversity: The biology of gender, race, and class. Twelve.
+Neisser, U., Boodoo, G., Bouchard, T. J., Boykin, A. W., Brody, N., Ceci, S. J., . . . Urbina, S.
+
+       (1996). Intelligence: Knowns and unknowns. American Psychologist, 51(2), 77-101.
+
+       https://doi.org/10.1037/0003-066X.51.2.77
+
+Plomin, R. (2018). Blueprint: How DNA makes us who we are. MIT Press.
+
+Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 replicated
+
+       findings from behavioral genetics. Perspectives on Psychological Science, 11(1), 3-23.
+
+       https://doi.org/10.1177/1745691615617439
+
+Redick, T. S. (2019). The hype cycle of working memory training. Current Directions in
+
+       Psychological Science, 28(5), 423-429. https://doi.org/10.1177/0963721419848668
+
+Rohrer, D., Pashler, H., & Harris, C. R. (2019). Discrepant data and improbable results: An
+
+       examination of Vohs, Mead, and Goode (2006). Basic and Applied Social Psychology,
+
+       41(4), 263-271. https://doi.org/10.1080/01973533.2019.1624965
+
+Rowe, D. C. (1997). A place at the policy table? Behavior genetics and estimates of family
+
+       environmental effects on IQ. Intelligence, 24(1), 133-158. https://doi.org/10.1016/s0160-
+
+       2896(97)90015-5
+
+Sala, G., & Gobet, F. (2019). Cognitive training does not enhance general cognition. Trends in
+
+       Cognitive Sciences, 23(1), 9-20. https://doi.org/10.1016/j.tics.2018.10.004
+
+Smouse, P. E., Spielman, R. S., & Park, M. H. (1982). Multiple-locus allocation of individuals to
+
+       groups as a function of the genetic variation within and differences among human
+
+       populations. The American Naturalist, 119(4), 445-463. https://doi.org/10.1086/283925
+
+Stern, C. (2016). Undoing insularity: A small study of gender sociology’s big problem. Econ
+
+       Journal Watch, 13(3), 452-466. https://econjwatch.org/articles/undoing-insularity-a-
+
+       small-study-of-gender-sociology-s-big-problem
+Tang, H., Quertermous, T., Rodriguez, B., Kardia, S. L. R., Zhu, X., Brown, A., Pankow, J. S.,
+
+       Province, M. A., Hunt, S. C., Boerwinkle, E., Schork, N. J., & Risch, N. J. (2005).
+
+       Genetic structure, self-identified race/ethnicity, and confounding in case-control
+
+       association studies. The American Journal of Human Genetics, 76(2), 268-275.
+
+       https://doi.org/10.1086/427888
+
+Wai, J., Putallaz, M., & Makel, M. C. (2012). Studying intellectual outliers: Are there sex
+
+       differences, and are the smart getting smarter? Current Directions in Psychological
+
+       Science, 21(6), 382-390. https://doi.org/10.1177/0963721412455052
+
+Warne, R. T., Astle, M. C., & Hill, J. C. (2018). What do undergraduates learn about human
+
+       intelligence? An analysis of introductory psychology textbooks. Archives of Scientific
+
+       Psychology, 6(1), 32-50. https://doi.org/10.1037/arc0000038
+
+Webb, R. M., Lubinski, D., & Benbow, C. P. (2002). Mathematically facile adolescents with
+
+       math-science aspirations: New perspectives on their educational and vocational
+
+       development. Journal of Educational Psychology, 94(4), 785-794.
+
+       https://doi.org/10.1037/0022-0663.94.4.785
+
+Winegard, B., Winegard, B., & Boutwell, B. (2017). Human biological and psychological
+
+       diversity. Evolutionary Psychological Science, 3(2), 159-180.
+
+       https://doi.org/10.1007/s40806-016-0081-5
+
+Woodley of Menie, M. A., Younuskunju, S., Balan, B., & Piffer, D. (2017). Holocene selection
+
+       for variants associated with general cognitive ability: Comparing ancient and modern
+
+       genomes. Twin Research and Human Genetics, 20(4), 271-280.
+
+       https://doi.org/10.1017/thg.2017.37
+

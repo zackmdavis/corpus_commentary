@@ -1,0 +1,686 @@
+Received: 18 July 2020      Revised: 27 November 2020   Accepted: 20 December 2020
+DOI: 10.1002/ajpa.24216
+
+
+RESEARCH ARTICLE
+
+
+
+
+No support for the hereditarian hypothesis of the Black–White
+achievement gap using polygenic scores and tests for
+divergent selection
+
+Kevin A. Bird1,2
+
+1
+ Department of Horticulture, Michigan State
+University, East Lansing, Michigan, USA          Abstract
+2
+ Ecology, Evolutionary Biology and Behavior      Objectives: Debate about the cause of IQ score gaps between Black and White
+Program, Michigan State University, East
+                                                 populations has persisted within genetics, anthropology, and psychology. Recently,
+Lansing, Michigan, USA
+                                                 authors claimed polygenic scores provide evidence that a significant portion of differ-
+Correspondence
+                                                 ences in cognitive performance between Black and White populations are caused by
+Kevin A. Bird, Department of Horticulture,
+Michigan State University, East Lansing,         genetic differences due to natural selection, the “hereditarian hypothesis.” This study
+Michigan 48823, USA.
+                                                 aims to show conceptual and methodological flaws of past studies supporting the
+Email: birdkevi@msu.edu
+                                                 hereditarian hypothesis.
+                                                 Materials and methods: Polygenic scores for educational attainment were con-
+                                                 structed for African and European samples of the 1000 Genomes Project. Evidence
+                                                 for selection was evaluated using an excess variance test. Education associated vari-
+                                                 ants were further evaluated for signals of selection by testing for excess genetic dif-
+                                                 ferentiation (Fst). Expected mean difference in IQ for populations was calculated
+                                                 under a neutral evolutionary scenario and contrasted to hereditarian claims.
+                                                 Results: Tests for selection using polygenic scores failed to find evidence of natural
+                                                 selection when the less biased within-family GWAS effect sizes were used. Tests for
+                                                 selection using Fst values did not find evidence of natural selection. Expected mean
+                                                 difference in IQ was substantially smaller than postulated by hereditarians, even
+                                                 under unrealistic assumptions that overestimate genetic contribution.
+                                                 Conclusion: Given these results, hereditarian claims are not supported in the least.
+                                                 Cognitive performance does not appear to have been under diversifying selection in
+                                                 Europeans and Africans. In the absence of diversifying selection, the best case esti-
+                                                 mate for genetic contributions to group differences in cognitive performance is sub-
+                                                 stantially smaller than hereditarians claim and is consistent with genetic differences
+                                                 contributing little to the Black–White gap.
+
+                                                 KEYWORDS
+                                                 genomics, hereditarian hypothesis, polygenic selection, race
+
+
+
+
+1    |    I N T RO DU CT I O N                                                 Claims of the putative intellectual inferiority of “the Black race” date
+                                                                               back to the roots of colonial expansion and slavery (Saini, 2019) and
+The debate over the role of genetics in the claimed IQ gap between             have been persistent despite the general weakness of evidence in
+Black and White populations has been extraordinarily long-lasting.             support of the claim. Over the last half-century, several key authors
+
+Am J Phys Anthropol. 2021;1–12.                         wileyonlinelibrary.com/journal/ajpa                       © 2021 Wiley Periodicals LLC       1
+2                                                                                                                                                 BIRD
+
+
+
+have forwarded a diverse set of evidence from genetics, anthropol-           methodology. Both analyses are affected by systematic biases in
+ogy, and psychology to support two primary claims of what has been           between-family polygenic scores applied to people from groups that
+called the “hereditarian hypothesis”: (a) genetic differences between        were not included in the original GWAS. Results from Duncan and
+races substantially contribute to differences in cognitive ability, as       Shen (2019) show that across a range of traits, the estimated value
+measured by IQ tests, which are impervious to alterations in the envi-       for non-European populations using polygenic scores is biased and
+ronment (Jensen, 1969a; Jensen, 1985; Rushton & Jensen, 2005); and           explains much less variance than in European populations. African
+(b) that the relevant genetic differences between races were produced        ancestry is the most affected, with an average effect size only 50%
+by divergent natural selection that favored higher cognitive ability         of the size of the same genetic variants identified in Europeans, and
+outside of Africa (Jensen, 1974; Lynn, 2006; Lynn & Vanhanen, 2006;          there is even larger misestimation for phenotypic traits related to
+Rushton, 1996, 2000).                                                        cognition (Duncan & Shen, 2019). In fact, in Lee et al. the polygenic
+    However, these claims have often relied on indirect evidence of          score accounts for 1.6% of variation in Black individuals in
+genes and their activity, relying greatly on ecological regressions,         AddHealth compared with 9.2% in White individuals. Additional
+adoption studies, and admixture correlations. These sources of evi-          problems with these analyses exist. For example in Piffer (2019), the
+dence have been criticized on empirical grounds by previous authors          correlation of observed national IQ scores and polygenic scores of
+(Centerwall, 1978; Thomas, 2016; Waldman et al., 1994; Wicherts              the 1000 Genomes populations are taken as evidence that differ-
+et al., 2010). Additionally, the lack of direct evidence has been noted      ences between populations have been caused by natural selection,
+as a looming issue (Loehlin, 2000), marking a contrast between traits        even though this is not an accepted test for polygenic selection. In
+like intelligence and traits likes sickle cell anemia, prostate cancer and   Lasker et al. (2019), many of the variables that the authors attempt
+end-stage kidney disease, where direct genetic investigation was able        to control for in are poorly measured and weaken their conclusions,
+to shed light on population differences (Freedman et al., 2018; Freed-       such as skin color predicted from genotype (Carratto et al., 2019)
+man & Haiman, 2006; Piel & Patil, 2010).                                     and insufficient socioeconomic measures that include only parental
+    Recently, behavioral geneticists have claimed major progress in          education, even though income (and in particular permanent income)
+uncovering the genetic basis of cognitive performance. These                 plays a substantial role in attenuating racial achievement gaps
+advances extend on previous research involving twin studies, which           (Rothstein & Wozny, 2013).
+allowed    only   indirect   estimation    of    genetic   contributions         The biases of these methods makes it problematic to consider
+(Polderman & Benyamin, 2015), by leveraging genome sequencing                previous findings from Piffer (2019) and Lasker et al. (2019), which
+and large samples of unrelated individuals to perform genome-wide            apply PGS to the Black–White IQ gap as evidence in support of the
+association studies (GWAS) that identify specific genetic variants           genetic hypothesis. The present analysis aims to more rigorously test
+associated with cognitive performance. The most recent GWAS on               the two main claims of the hereditarian hypothesis against the null
+educational attainment (EA) and cognitive performance (CP), Lee              hypotheses that (a) allele frequency differences between Black and
+et al. (2018), identified over 1000 single-nucleotide polymorphisms          White populations are consistent with neutral evolutionary processes,
+(SNPs) that are significantly associated with higher EA in a sample of       and (b) the genetic basis of differences in EA and CP render similar
+over 1 million people of European ancestry. The combined effects of          cognitive abilities between Black and White populations. First,
+all associated SNPs in Lee et al. (2018), called a polygenic score (PGS),    I address shortcomings of previous applications of polygenic score
+can explain only between 10% and 13% of variance in EA and 7%–               analysis, using recent methods that leverage genomic data and popu-
+10% of variance in CP. Lee et al. (2018) also estimate effect sizes for      lation genetic theory and avoid or remedy many of the known biases
+associate SNPs at the within-family level by analyzing genetic variance      of polygenic scores. Contrary to past attempts by Piffer (2019) and
+between a large sample of siblings, and compare these effect sizes to        Lasker et al. (2019), by accounting for biases in polygenic scores and
+those from the main between-family (population level) analysis to fur-       using formal tests for divergent selection I hereby demonstrate that
+ther evaluate the role of causal and confounding effects in GWAS             allele frequency differences are in fact consistent with a neutral evolu-
+results. Beyond expanding the understanding of the genetics of these         tionary trajectory. Second, I demonstrate that even when adopting
+traits, Lee et al. (2018) also provided valuable community resources in      several unrealistic assumptions held by proponents of the hereditarian
+the form of publicly available GWAS summary statistics that provide a        hypothesis and their own National IQ data (which is heavily biased
+full list of EA and CP associated SNPs and the estimated effect size on      against African samples), the expected genetic contribution to differ-
+these traits.                                                                ences in IQ scores under neutral evolution is insufficient to support
+    Some authors have recently attempted to use this GWAS to                 the hereditarian position.
+provide support for the hereditarian hypothesis using educational                For clarification, the terms “White” and “Black” will be used
+attainment PGS as direct genetic evidence (Lasker et al., 2019;              throughout this paper, not as an endorsement of their status as bio-
+Piffer, 2019). These studies profess to support the first hereditarian       logical categories but to reflect the conceptual framework used by
+claim of substantial genetic contribution to race differences (Lasker        hereditarian authors on this topic. Modern population genetics makes
+et al., 2019) and the second hereditarian claim that divergent natural       it clear that, even though the people in the samples I used would likely
+selection between races contributes to racial phenotypic differences         be racialized (in terms of their social identity), these racial categories
+(Piffer, 2019); however, there are key deficiencies in their                 do not accurately reflect genetic ancestry.
+BIRD                                                                                                                                                3
+
+
+
+2      |       METHODS
+
+2.1        |    Data set, quality filtering, and SNP clumping
+
+Phase 3 of the 1000 Genomes project (1000 Genomes Project
+Consortium, 2015), based on reference-build hg37, was downloaded
+for autosomal chromosomes. I filtered samples to only include the
+European superpopulation (EUR) which consists of 503 individuals
+from CEU (99), TSI (107), FIN (99), GBR (91), and IBS (107)
+populations and the African superpopulations which consists of
+504 individuals from YRI (108), LWK (99), GWD (113), MSL (85), and
+ESN (99) populations. I filtered variants to remove those with minor-
+allele-frequency less than 0.01 and those loci that deviate from
+Hardy–Weinberg Equilibrium at p < 1 × 10−6 independently for each
+subpopulation, as in Guo et al. (2018), to remove low quality SNPs
+and genotyping errors. After filtering separately, these populations
+were merged in with Plink V. 1.9 (Purcell & Neale, 2007) (http://pngu.
+mgh.harvard.edu/purcell/plink/), and variants with a genotyping rate
+less than 10% were removed to filter out variants present in only one
+population. These filtering parameters may introduce biases to the           F I G U R E 1 Comparison of between-family and within-family
+polygenic score estimates, however, removing genotyping errors and           effect sizes for variants which have both. Figure generated in R 3.6
+missing variants are a vital component of quality filtering (Graffelman      0.3 with ggplot2 (Wickham, 2016)
+et al., 2017). Additionally, because the same procedures were per-
+formed on SNPs selected from the GWAS, which are used for the null
+distribution, there should be no relative bias that would result in a
+false-positive.                                                              2.2    |   Polygenic selection analysis
+      The full reported summary statistics, including physical location,
+effect size, and standard error, and sample size, from Lee et al. (2018)     Polygenic selection analysis used the set of 1,271 genome-wide sig-
+were downloaded from https://www.thessgac.org/data for both edu-             nificant lead SNPs associated with both educational attainment and
+cational attainment and cognitive performance. The educational               cognitive performance in a sample of 1,131,881 individuals reported
+attainment data consisted of 10,101,242 SNPs associated with edu-            in the supplemental of Lee et al. (2018), which explained a total 3.6%
+cational attainment from independent discovery panels, totaling              of variance in educational attainment in European individuals. Of the
+766,345 individuals and the cognitive performance data consisted of          1,271 SNPs, there were 685 present in the 1000 genomes data sets
+10,098,325 SNPs from independent discovery panels, total 257,828             after filtering that also had both within- and between-family effect
+individuals. These discovery panels consisted of 71 total cohorts, only      sizes. These 685 SNPs were used to calculate population specific
+using people of European ancestry. In total these variants account for       polygenic scores (PGS) as:
+10%–15% of variation in educational attainment and cognitive per-
+                                                                                                              Xn
+formance in the discovery panels, while they only explained 1.6% of                                   PGS =           FAi  eff i
+                                                                                                                i=1
+variance when African-American samples were analyzed. Addition-
+ally, 82,609 SNPs from within-family analyses were used for the
+study. These SNPs were ascertained using four cohorts with sibling           where FAi is the population frequency of the effect allele for SNP i
+data, total 22,135 sibling pairs from the Swedish Twin Registry's            and effi is the SNP specific effect size estimate. The squared differ-
+Twingene study, the Swedish Twin Registry's Screening Across the             ence of the African PGS and European PGS was used to measure the
+Lifespan Twin Youth study, the UK Biobank and the Wisconsin Lon-             difference between estimated genetic values between populations
+gitudinal Study. Compared with the between-family effect sizes,              based on both between—and within-family effect sizes. To see
+within-family effect sizes showed sign concordance (both effect trait        whether the between family PGS difference was larger than expected,
+in same direction) 56.2% of the time for the most laxed p-value filter-      an empirical null distribution was calculated by randomly flipping the
+ing, and 65.2% at the strictest p-value filtering. Additionally, a within-   sign of effect size estimates for 10,000 permutations. The resulting
+family regression analysis suggests that within-family parameters are        permuted squared population PGS differences were compared with
+40% smaller than the between-family GWAS effect sizes. SNPs                 the observed difference, allowing the calculation of an empirical
+with both within- and between family effect sizes are compared in            p-value based on the proportion of random samples greater than or
+Figure 1.                                                                    equal to the observed squared PGS difference.
+4                                                                                                                                                    BIRD
+
+
+
+      For within-family effect sizes, I constructed an empirical null dis-   variation could contribute to phenotypic variance in the most favor-
+tribution of SNPs that were matched to derived allele frequency and          able scenario possible for the hereditarian hypothesis and compare
+LD score quintiles. This was done to control for potential biases from       that to actual observed phenotypic variation. This analysis would
+systematic differences in derived allele frequency of GWAS risk alleles      simultaneously demonstrate the need for natural selection for the
+between African and non-African populations, which had been identi-          hereditarian hypothesis to be tenable, and test the ability of the
+fied in previous work (Kim et al., 2018; Lee et al., 2018). First, I made    hereditarian hypothesis to explain phenotypic difference in the most
+20 derived allele frequency and LD Score bins for the 685 lead GWAS          favorable of cases.
+SNPs from Lee et al. (2018) with within-family effect sizes and                   To estimate what phenotypic Fst would look like if all among-
+derived/ancestral allele status information to the empirical null distri-    group differences were genetic, divergence was exclusively attribut-
+bution generated from matched SNPs. Next, I matched the SNPs of              able to random genetic drift, and no GxE or GxG existed, I use the
+each GWAS 10,000 times, and each matched SNP was given the same              approach developed by Relethford and Blangero (1990) and
+within-family effect size as its matching GWAS SNP. Finally, I gener-        Relethford et al. (1997). I also use the country-level IQ data used by
+ated polygenic scores by multiplying the GWAS SNP within-family              Piffer (2015) that match the 1000 genome populations that constitute
+effect size by the matched SNP effect allele frequency in African and        the AFR and EUR superpopulations. While these National IQ data set
+European samples and calculated the squared polygenic score differ-          have come under harsh criticism recently (Ebbesen, 2020), they are
+ence for the 10,000 matched SNP sets to generate an empirical null           used here because of their common use among hereditarians, for
+distribution. Similar to the Qx analysis of Berg and Coop (2014), sig-       example, Piffer (2015). By using their chosen data the strongest possi-
+nificant divergence from the empirical null distribution is taken as evi-    ble version of the hereditarian hypothesis is tested.
+dence of divergent polygenic selection.                                           We can define the divergence of the means of populations (μi)
+                                                                             from the grand phenotypic mean of all populations (μt) as:
+
+
+         |                                                                                               cij = ðμi −μt Þ μj −μt
+                                                                                                                               
+2.3          Fst differentiation analysis                                                                                                              ð1Þ
+
+
+I performed LD based clumping in Plink on the 10,101,242 SNPs asso-               If environmental deviation is 0 and all differences between group
+ciated with educational attainment and 10,098,325 SNPs associated            means is due to genetic effects, the average of all elements cii
+with cognitive performance with a p-value cutoff of 5 × 10−6 and r2          (σ 2B = ki= 1 wi cii , where wi is the weight of population i) is our estimate
+                                                                                    P
+
+cutoff of 0.01, using a distance threshold of 1 Mb as done in Guo            of among population phenotypic variance.
+et al. (2018). This resulted in 1259 independent SNPs for educational             An estimate of Fst can be derived by taking the proportion of total
+attainment and 602 independent SNPs for cognitive performance.               variance attributable to variance in genetic effects. To do this we need
+      Fst and LD Scores were calculated for the entire filtered SNP set      to have an estimate of the average within population additive genetic
+in vcftools and LDSC, respectively (Bulik-Sullivan et al., 2015;             variance (σ2A), which can be calculated by multiplying phenotypic vari-
+Danecek & Auton, 2011). As done in Guo et al. (2018), SNPs were              ance (σ2P) by narrow sense heritability (h2). For narrow sense heritabil-
+divided into 20 minor allele frequency (MAF) bins and 20 LDScore             ity estimates, I use 0.35, based on several family based analyses
+bins and 10,000 SNPs were matched for each GWAS SNP of the                   (Chipuer et al., 1990; Cloninger et al., 1979; Devlin et al., 1997;
+clumped data sets with the same MAF and LD Score bin, resulting in           Loehlin, 1978; Rao et al., 1982), and 0.5, based Polderman and
+10,000 control SNP sets with comparable minor-allele frequency and           Benyamin (2015)) and Hill and Arslan (2018). It should be noted these
+LD Score. Average Fst of the 10,000 control SNP sets were used to            estimates are higher than most genomic-based estimates of heritabil-
+create an empirical null distribution, allowing a comparison of the          ity and are likely upwardly biased (Holland et al., 2020; Morris
+mean Fst of the GWAS SNPs with the empirical null distribution with          et al., 2020; Young et al., 2018) so I also use 0.15 based on Young
+a two-sided one-sample z-test.                                               et al. (2018) and Holland et al. (2020). Using these heritability esti-
+                                                                             mates and the standard deviation of IQ scores, we can then estimate
+                                                                             Fst as:
+2.4 | Predicted phenotypic differences based on
+                                                                                                                   Pk
+trait associated SNP Fst                                                                                              i = 1 wii cii
+                                                                                                        FST =                                          ð2Þ
+                                                                                                                2σ 2A +
+                                                                                                                       Pk
+                                                                                                                            i = 1 wii cii
+
+Suppose we granted the implicit assumptions of the hereditarian posi-
+tions (constant additive effects within and across all possible environ-          This value represents the expected proportion of genetic variance
+ments, etc.) In this case only natural selection or genetic drift can        that accounts for the observed phenotypic variance across these
+contribute to genetic variance that creates phenotypic variation in a        populations.
+population. We can further model and estimate how much phenotypic                 We can also estimates the amount of between group genetic vari-
+variance could exist by genetic drift alone and how much phenotypic          ance of cognitive performance related SNPs with the Fst estimates
+variance could exist given observed genetic differentiation in trait         calculated from Lee et al. (2018) using a rearranged version of
+associated SNPs. This would allow us to see how much genetic                 Equation (2):
+BIRD                                                                                                                                                   5
+
+
+
+                                       2FST σ 2P h2                           3     |       RE SU LT S
+                              σ 2B =                                   ð3Þ
+                                        1− FST
+                                                                              3.1       |    Polygenic selection
+    When we divide the genetic variance of cognitive performance
+related SNPs by the observed variance in IQ between populations, we           I sought to test for divergent polygenic selection using an method
+get the maximum proportion of between group IQ variance that can              similar to that employed by Berg and Coop (2014), which should have
+be explained by genetic variance between populations. Furthermore,            high power to detect polygenic selection with a low false-positive
+we can estimate the expected value of the absolute differences that is        rate, provided GWAS effect sizes are free from systematic biases
+attributable to genetic differences between groups, under the                 (Berg & Harpak, 2019). The squared difference of polygenic scores
+assumption of normality, with Equation (4):                                   computed from the 685 reported genome-wide significant GWAS
+                                                                              with between-family effect sizes from Lee et al. (2018) was 0.068
+                                             rﬃﬃﬃ
+                                              2                               (raw difference of −0.261), with the African PGS equal to −0.99, and
+                           E½jx −yj = 2σ B *                          ð4Þ
+                                              π                               the European PGS equal to 0.161. I observed only one random poly-
+                                                                              genic score that exceeded this observed squared difference
+    It is important to emphasize that this is a rough calculation that        (Figure 2a). When within-family effect sizes were used, the squared
+fails to include basic statistical elements like bias corrections or uncer-   difference in PGS was attenuated nearly 95% to 0.0027 (raw differ-
+tainty measures. It also relies on unrealistic assumptions that variance      ence of −0.052). When compared with the empirical null distribution,
+among populations is only attributable to additive genetic effects, that      43.2% of randomly generated polygenic scores had greater than or
+the polygenic effect of these genotypes are not affected by GxG               equal squared polygenic score differences, yielding a nonsignificant
+(epistasis) or GxE (gene–environment interaction), and effect sizes will      empirical p-value of 0.432 (Figure 2b).
+be similar in different populations. These assumptions are unlikely to
+hold in reality, but violations of these assumptions will tend to over-
+estimate genetic contributions and underestimate environmental con-           3.2       |    Fst differentiation
+tributions. Given the violations of these assumptions, these estimates
+are best viewed as a rough upper bound rather than a precise value of         It is possible that some biases still remain in polygenic scores that arti-
+the genetic contribution to IQ differences under neutrality.                  ficially inflate the gap between Africans and Europeans. I next use a
+
+
+
+
+F I G U R E 2 Squared polygenic score differences between African and European populations for Lead SNPs based on (a) between family effect
+sizes, (b) within-family effect sizes with controls for derived allele frequency and LD score reported by Lee et al. (2018). The black line represents
+the observed squared PGS difference and the histograms represent an empirical null distribution from random shuffling of signs of effect sizes for
+10,000 permutations. p value is proportion of empirical null distribution greater than or equal to observed squared PGS difference, ΔPGS
+represents raw PGS difference, negative values indicate PGSAFR < PGSEUR. Figure generated in R 3.6.3 with ggplot2 (Wickham, 2016)
+6                                                                                                                                                 BIRD
+
+
+
+method based solely on genetic differentiation at trait associated          environmental contribution to among group variance in IQ. We also
+SNPs, which is free of potential systematic effect size biases, to deter-   provide an estimate for how much intergroup variance could be pro-
+mine how genetically-differentiated variants associated with cognitive      duced by genetic drift alone. Assumptions involved in this analysis
+performance and educational attainment are compared with matched            typically overestimate genetic contribution, making these estimates
+sets of non-associated variants. This method not only shows the mag-        an upper bound. These estimates are possible because we would
+nitude of genetic differences in populations, but also serves as an         expect the Fst value estimated from GWAS identified SNPs to be
+additional test for divergent natural selection (Guo et al., 2018). Based   equal to the phenotypic variance if all among-group variation is due to
+on simulations, Guo et al. (2018) reported maximum power to detect          additive genetic effects. Using the country-level IQ results used by
+selection with a clumping p-value threshold of 5 × 10−6, I highlight        Piffer (2015), the African group mean IQ is 68.4 and the European
+results using that threshold.                                               group mean IQ is 99.2, a pairwise difference of 30.8. This gives us an
+    The mean Fst of the 1259 independent educational attainment             among-group variance of 327.16 IQ points2. From Equation (2) we get
+associated SNPs was 0.111, slightly below the mean of the empirical         an estimated phenotypic Fst of 0.60, using h2 = 0.35; and 0.51, using
+null distribution, which was 0.118. Results from the two-sided one          h2 = 0.5. Both of these estimates are much larger than the 0.111 esti-
+sample z-test yielded a p-value of 0.043, rejecting the null hypothesis     mated from the Lee et al. (2018) cognitive performance GWAS SNPs.
+that the educational attainment GWAS SNPs mean Fst is not different             The cognitive performance GWAS SNP Fst and Equation (3) yields
+from the mean of the null distribution, suggesting that the EA Fst was      an estimated among group variance due to genetic effects of 8.5 IQ
+significantly smaller than Fst of the control SNPs (Figure 3a). For cog-    points2 using h2 = 0.15, 19.9 IQ points2 using h2 = 0.35; and 28.4 IQ
+nitive performance, the mean Fst for the 602 SNPs was 0.112, slightly       points2 using h2 = 0.5. Dividing the phenotypic among-group variance
+lower than the null distribution mean of 0.119. The results of the one      and the among-group variance due to genetic effects shows that
+sample z-test yielded a p-value of 0.164, failing to reject the null        assuming h2 = 0.15, a maximum of 3.6% of variance in IQ between
+hypothesis that the cognitive performance GWAS SNPs mean Fst is             Africans and Europeans is attributable to additive genetic variance, a
+not different from the mean of the null distribution (Figure 3b).           maximum of 8.4% of the variance in IQ is attributable to additive
+                                                                            genetic variance at h2 = 0.35, and a maximum of 12% of the variance in
+                                                                            IQ at h2 = 0.5. This indicates that well over 85% of IQ variance is envi-
+3.3 | Predicted phenotypic differences based on                             ronmental. Additional Fst values from Lee et al. (2018) lead SNPs, edu-
+trait associated SNP Fst                                                    cational attainment SNPs from Lee et al. (2018), and lead SNPs for
+                                                                            intelligence from Hill and Marioni (2019) are used to calculate this esti-
+The previous analysis provides an opportunity to compare variance of        mate in Table 1. Finally, using Equation (4), the expected genetic differ-
+trait-associated SNPs to phenotypic data on IQ scores at the national       ences from these estimates is, at most, 4.7–8.5 IQ points and could
+level. By doing so, we estimate the maximum genetic and minimum             result in higher scores in either Europe or Africa with equal likelihood.
+
+
+
+
+F I G U R E 3 Mean Fst values of the associated SNPs in 1000G populations against null distribution for (a) educational attainment and
+(b) cognitive ability. The black line represents the mean Fst of the trait-associated SNPs clumped at p < 5 × 10−6. The histogram represents the
+distribution of mean Fst of control SNPs. Empirical p-values reported in the figure. Figure generated in R 3.6.3 with ggplot2 (Wickham, 2016)
+BIRD                                                                                                                                                      7
+
+
+
+T A B L E 1 Estimated proportion of global IQ variance attributable to additive genetic variation using different calculated Fst estimations and
+heritability estimates from the literature
+
+                                                                        Variance attributable to additive genetic variation
+
+                                                                        h2=0.15                           h2=0.35                          h2=0.5
+    1301 clumped EA SNPs p<5 × 10    −6
+                                          (Fst = 0.111)                 3.60%                             8.30%                            12.00%
+    627 clumped cognitive performance SNPs                              3.60%                             8.40%                            12.00%
+      p<5 × 10−6 (Fst=0.112)
+    1021 lead SNPs from Lee et al., 2018 (Fst=0.121)                    3.90%                             9.10%                            13.10%
+    546 lead SNPs from Hill & Marioni, 2019                             4.10%                             9.60%                            14.00%
+      (Fst= 0.126)
+
+
+
+
+4      |   DISCUSSION                                                           exist between White and Black populations. However, theoretical and
+                                                                                empirical support for Rushton's claims have been called into question
+Before further discussion of the results, several important limitations         (Gorey & Cryns, 1995; Cernovsky & Litman, 1993; Cernovsky, 1990;
+should be made clear. First, the low genetic and phenotypic variance            Graves, 2002; Zeitsch and Zietsch & Sidari, 2019). Critics were also
+explained by lead SNPs and the lower sample size of within-family               quick to point out that Lynn's analyses had a deeply flawed sampling
+analyses reduces the power for both tests of polygenic selection                from Africa, resulting at least in a bias against African countries and it
+(CP and EA). While the results presented here are more consistent               showed signs of measurement bias from the IQ tests themselves
+with neutral evolution rather than divergent natural selection, it is not       (Wicherts et al., 2010). The evolutionary reasoning has also been cri-
+possible to rule out that data sets with more power could present dif-          tiqued by research that casts doubt on the validity of the “Cold Win-
+ferent results. Additionally, although within-family effect sizes are rec-      ters theory” (MacEachern, 2006; Pesta & Poznanski, 2014; Wicherts
+ommended over between-family effect sizes, if the within-family                 et al., 2010). Continuing this legacy of evolutionary explanations for
+effect sizes are re-estimated for SNPs ascertained by a between-                racial theories, recent genomic analyses (Piffer, 2015, 2019) claim to
+family GWAS, there is still likely to be some level of confounding from         provide strong genetic evidence in support of natural selection using
+population structure (Cox et al., 2019; Zaidi & Mathieson, 2020). Sec-          polygenic scores derived from GWAS in European populations.
+ond, I am not able to account for the complete gap in scores and                    Here, I provide independent lines of evidence that genetic differ-
+attainment between groups without full coverage of genetic variation            ences at variants associated with EA and CP are consistent with neu-
+that contributes to group differences. Analyses presented here only             tral evolution instead of divergent positive selection. First, the fact
+partially account for the gap in scores, or make assumptions that the           that education-and-cognitive-performance-associated alleles do not
+unobserved genetic variants will have similar distribution to the               show more genetic differentiation than control SNPs that are not
+observed genetic variants. Third, the effect sizes used here were esti-         associated with these traits is demonstrated. Second, I test for poly-
+mated for European samples from this meta-analysis and then applied             genic selection using polygenic scores computed from within-family
+to the independent and more diverse 1000 Genomes Projects sam-                  effect sizes that minimize the confounding biases mentioned above
+ples, which have no corresponding phenotype data. Finally, without              (Berg & Harpak, 2019; Sohail & Maier, 2019) and did not find a signal
+environmental measurements and corresponding phenotype data for                 of divergent positive selection. Although there is more noise in
+the 1000 Genomes Project samples, it is not possible to test for gene-          within-family effect size estimates, Cox et al. (2019) were able to
+by-environment interactions or gene-by-gene interactions. Despite               detect signals of polygenic selection for height in a sample of ancient
+these limitations, this study uses the best current data and methods            genomes using within-family effect sizes and between-family effect
+to test the hereditarian hypothesis using frameworks that have been             sizes, which suggests that despite the greater noise in within-family
+successful for analyzing traits such as human height (Chen &                    estimates, they are still capable of detecting polygenic selection. Addi-
+Chiang, 2020; Cox et al., 2019).                                                tionally, the results presented here build upon the failure of Guo
+                                                                                et al. (2018) to find significant genetic differentiation of a different set
+                                                                                of education-associated SNPs compared with control SNPs, and the
+4.1 | No evidence of divergent natural selection                                failure of Racimo et al. (2018) to find evidence of divergent selection
+between Africans and Europeans                                                  for educational-attainment-associated SNPs between African and
+                                                                                European populations.
+Claims of natural selection have been a centerpiece of hereditarian                 The negative results presented here may differ from Piffer (2015,
+explanations of the Black–White IQ gap, likely because selection pro-           2019) because the latter potentially suffer from issues caused by
+vides an intuitive answer to why alleles might systematically differ            applying between-family polygenic scores across ancestry groups, in
+between races. Rushton (2000) and Lynn (2006) put natural selection             particular applying European polygenic scores to African populations
+at the core of their conjecture about why genetic differences might             (Rosenberg et al.,2019; Novembre & Barton, 2018; Lawson
+8                                                                                                                                                    BIRD
+
+
+
+et al., 2019; Haworth et al., 2019; Freese et al., 2019). One reason for          different levels of economic development. Additionally, it is important
+this is that the scores might be biased by a variety of factors, including        to remember that proponents of the genetic hypothesis, typically fol-
+the nonrandom ways that society is geographically structured (Freese              lowing Jensen's arguments, claim that the genetic differences are
+et al., 2019; Haworth et al., 2019; Lawson et al., 2019; Novembre &               largely fixed, and that environmental interventions are unlikely to
+Barton, 2018; Rosenberg et al., 2019). For instance, Black people in              close the gap. Indirect genetic effects, however, are often more ame-
+the US, for reasons unrelated to genetics, live in areas with poorer air          nable to environmental interventions (Gage et al., 2016). This is bol-
+quality and more exposure to environmental toxins (Manduca &                      stered by the observation that much of the effect-size disparity
+Sampson, 2019). These between-family polygenic scores are also                    between within- and between-family polygenic scores of cognitive
+known to be biased by the nonrandom ways that people choose their                 traits is related to socioeconomic status, which can be changed readily
+spouse/partner (assortative mating; Morris et al., 2020); the ways that           through social policies (Cheesman et al., 2020; Morris et al., 2020).
+genes interact with different environments (gene–environment inter-               Should proponents of the genetic hypothesis argue that indirect
+action; Cheesman et al., 2020; Selzam & Ritchie, 2019; Mostafavi                  genetic effects nonetheless support their claims, note that such a pre-
+et al., 2020); or differences in genetic features that genome-wide                mise would be inconsistent with maintaining any claims of the fixed-
+association studies rely on, which create the illusion of systematic dif-         ness of the phenotypic gap, which is a centerpiece of arguments made
+ferences between African and non-African populations (linkage dis-                by Jensen (1969b); Jensen, 1985), Rushton (1990), and Lynn and
+equilibrium,    genetic   drift,   epistasis,     and     ascertainment   bias;   Vanhanen (2006). Given the lack of evidence for selection demon-
+Coop, 2019; Martin & Gignoux, 2017; Kim et al., 2018). These kinds                strated here, it is imperative to revise previous speculation about the
+of biases have previously led to improper inference of natural selec-             contribution of natural selection to the global variation in cognitive
+tion in even closely related European populations (Berg &                         traits (Winegard et al., 2017; Winegard et al., 2020).
+Harpak, 2019; Sohail, 2019).
+    Another source of concern is inflation of polygenic scores'
+explained      variance   from     indirect     genetic    effects   (Ashbrook    4.2 | The magnitude of the genetic contribution to
+et al., 2015), also called genetic nurture (Kong & Thorleifsson, 2018).           Black–White differences is predicted to be small
+This aspect of polygenic scores appears to be related to features of
+the home and prenatal environment of parents who carry a genetic                  One of the central claims of the hereditarian hypothesis, epitomized
+signal that is not passed down directly to the offspring (Armstrong-              by Jensen's work (Jensen, 1969b), is that genetic differences cause a
+Carter et al., 2020; Lee et al., 2018; Rosenberg et al., 2019; Selzam &           substantial portion of the gap in IQ between Black and White
+Ritchie, 2019). While these genetic nurture effects correlate with edu-           populations and the gap cannot be closed by environmental interven-
+cational attainment, they are not directly passed onto offspring and so           tion. The biometric techniques employed by Jensen (1969a) to sup-
+do not represent direct genetic effects and will not necessarily pro-             port the hereditarian hypothesis have been critiqued on several
+duce the same effects across diverse populations.                                 fronts, most notably that heritability estimates provide little insight
+    The substantial attenuation of the signal of polygenic selection              into the causes of between group differences, that heritability esti-
+when using within-family effect sizes compared with between-family                mates do not inform on the efficacy of environmental interventions,
+effect sizes suggests that results computed by Piffer (2015, 2019) are            and that heritability is likely inflated due to violations of model
+not due to signals of polygenic selection, but to biases in applying              assumptions when applied to humans (Kempthorne, 1978). Despite
+polygenic scores that have been computed with between-family                      these strong criticisms, direct genetic evidence for or against Jensen's
+effect sizes across ancestry groups and a failure to employ a formal              arguments have failed to materialize, bar a recent genomic analysis
+test for polygenic selection. Other concerns with these studies are the           claiming to provide direct evidence in support of the genetic hypothe-
+inclusion of data from Richard Lynn (Lynn & Vanhanen, 2006), which                sis (Jensen, 1969a; Lasker et al., 2019).
+introduces another source of systematic bias in the analysis (Wicherts                Contra the genetic hypothesis, the results provided here, using
+et al., 2010; Wicherts et al., 2010a). Furthermore, the substantial               evolutionary genetic techniques, are consistent with genetic differ-
+attenuation of polygenic scores when using within-family effect sizes             ences in variants associated with cognitive performance contributing
+and accounting for ancestral/derived allele frequency biases in                   an insignificant portion of the African-European IQ gap. When the
+European GWAS SNPs shown here                      and elsewhere       (Morris    between group variance attributable to trait-associated SNPs is com-
+et al., 2020; Selzam & Ritchie, 2019), suggests that the key results of           pared with the observed phenotypic between-group variance, over
+the education PGS analysis performed in Lasker et al. (2019) may be               85% of the between-group variance in IQ is not attributable to addi-
+attributable to systematic bias in between-family effect sizes in addi-           tive genetic effects, where at most 4.7–8.5 IQ points could be attrib-
+tion to issues with control variables.                                            uted to such genetic effects. Importantly, this model assumes that the
+    Critics may argue that the observed attenuation is achieved by                genetic contribution is completely additive, and no gene–environment
+eliminating genuine genetic effects, regardless of whether they are               interactions exist even though both gene–gene (GxG) and gene–
+indirect or direct. One reason we may not want to consider indirect               environment (GxE) interactions can influence traits. This means that
+genetic effects is that it is not clear that they act in the same way             the manner in which a genotype relates to a phenotype, and the mag-
+between populations, especially between countries with very                       nitude of the genetic contribution, could differ between populations
+BIRD                                                                                                                                                     9
+
+
+
+with different allele frequencies or environments. If the contributions           these should not be taken as definitive proof that genetic contribu-
+of SNPs can differ between populations due to GxG and GxE, then                   tions are that large. Extensive follow-up of how model violations
+the effects of a variant on a trait can vary in direction and magnitude           impact estimation would be required to make a determination of any
+within and between populations. This variability could obscure the                potential genetic contribution. Furthermore such evidence would
+evolutionary trajectories of populations and lead to erroneous conclu-            require extensive functional validation (Flint & Ideker, 2019;
+sions about patterns of selection and genetic contribution to pheno-              Gallagher & Chen-Plotkin, 2018) to demonstrate that causal variants
+typic differences if GxG and/or GxE are not accounted for                         exist in both populations and have similar effects in each, though evi-
+(Coop, 2019; Rosenberg et al., 2019); as in the case of the Alzheimer             dence of such kind would be consistent with the genetic hypothesis
+linked APOE variants (Rajabli & Feliciano, 2018; Tang et al., 1998).              and stronger than current evidence. However, without the ability to
+    Hence, the mean-expected-difference provided here is likely an                rule out effects of appropriate environmental interventions, this
+overestimate and should be thought of as the maximum mean differ-                 would still be insufficient to show a fixed genetic difference between
+ence attributable to genetic variation due to genetic drift. It is also           populations.
+important to note that the direction of the mean difference could                     Furthermore, although future studies may claim to show natural
+favor Africans or Europeans with equal likelihood. These genetic esti-            selection has acted on these populations, caution is needed in inter-
+mates fall far short of the observed 30.8 IQ gap between African and              preting the impact that selected variants may have on phenotypic dif-
+European populations. Whatever value the genetic contribution takes,              ferences. Others have noted the difficulty of moving from past
+it is important to remember that the effects of gene-by-gene and                  selection on variants associated with a trait to substantial genetic con-
+gene-by-environment interactions will likely reduce this value in real-           tribution to group differences without additional analyses (Harpak &
+ity because the interactive nature of these traits can overwhelm the              Przeworski, 2020; Rosenberg et al., 2019). The difficulty in dis-
+contribution of genetic drift. Furthermore, there is no reason to                 tinguishing between divergent positive selection and the stabilizing
+believe the genetic contribution to trait differences is immutable to             selection of adjusting to a new environment while leaving the trait
+environmental interventions given the known presence of gene–                     optimally unchanged presents another reason for caution in interpre-
+environment interplay in educational attainment.                                  tation (Harpak & Przeworski, 2020). The consequence of this context
+    Even in the scenarios most favorable to the genetic hypothesis,               dependency and the ambiguous implications of putative positive
+these results are far less than the claimed contribution of hereditar-            results is that providing strong support for the genetic hypothesis is
+ians like Jensen, Rushton, and Lynn. Considering that the assumptions             exceedingly difficult, and perhaps impossible without the direct exper-
+of this model violate core principles of modern population genetics               imentation ordinarily permissible in studies in models systems or in
+(such as no gene–environment interplay, gene–gene interactions, and               agricultural settings. The ability to do massive reciprocal transplant
+similar allelic effect across populations), there is little reason to expect      experiments in plants with replicated genotypes and tight control over
+the genetic contribution to be this large in reality. In fact, it is still pos-   the environment is extremely powerful in plant settings (Lowry
+sible that the genetic contribution to the IQ gap is zero. Above all,             et al., 2019; Price et al., 2018). In humans, however, a conclusive
+these results are consistent with genetic differences having an insig-            experiment would need to control for prenatal and early developmen-
+nificant effect on the IQ and attainment gap.                                     tal heterogeneity (the subtle and pervasive psychosocial and social
+                                                                                  effects that contribute to group differences), in order to compare per-
+                                                                                  formance in the same or across a range of environments to overcome
+4.3 | Where next for the debate on group                                          limitations of observational studies. Such an experiment is of course
+differences                                                                       not moral or ethical. This major hindrance means that while the ana-
+                                                                                  lyses performed in this study may not find evidence supporting the
+It might be tempting for supporters of the genetic hypothesis and                 hereditarian hypothesis, positive results from similar studies are not
+some neutral readers to think that a positive result from these ana-              nearly so dispositive.
+lyses would be strong support for the genetic hypothesis. I would cau-
+tion against such a conclusion. As discussed above, these analyses use
+unsound assumptions about the additivity of genetic effects and the               5    |   CONC LU SION
+similarity of their behavior between populations. These assumptions
+are known to be false—for example, in a complex trait like life span,             This analysis employs the current most reliable methods given con-
+extensive context-dependent allelic effects across several environ-               cerns over cross-population polygenic score analysis. It demonstrates
+ments and between sexes has been demonstrated in Drosophila mela-                 that patterns of genetic differences between African and European
+nogaster (Huang et al., 2020). Similarly, there is evidence of context            populations in the 1000 Genomes Project data set is consistent with
+dependence of polygenic scores in humans of the same ancestry                     neutral evolution and insignificant genetic contribution to the Black–
+group, especially for traits like educational attainment (Mostafavi               White IQ gap. In other words, the patterns observed in this study can
+et al., 2020). These model violations are most likely to lead to over-            be explained without appealing to the core tenets of the hereditarian
+estimation of the additive genetic contribution to phenotypic vari-               hypothesis. Claims made by proponents of the hereditarian hypothe-
+ance. Consequently, should subsequent analyses find larger values,                sis and recent analyses using polygenic scores (Lasker et al., 2019;
+10                                                                                                                                                            BIRD
+
+
+
+Piffer, 2019) are stronger than what current evidence shows. Given                       Brazilian population sample. Forensic Science International: Genetics
+the results presented here, a minimal, insufficiently dispositive                        Supplement Series, 7, 794–796.
+                                                                                     Centerwall, B. S. (1978). The use of racial admixture as evidence in intelli-
+requirement for verifying the hereditarian hypothesis is not met.
+                                                                                         gence research: A critique. Human Genetics, 45, 237–238.
+The claims for large, immutable group differences in intelligence                    Cernovsky, Z. Z. (1990). Race and brain weight: A note on J. P. Rushton's
+and educational attainment are not supported in the least by these                       conclusions. Psychological Reports, 66, 337–338.
+analyses.                                                                            Cernovsky, Z. Z., & Litman, L. C. (1993). Re-analyses of J.P. Rushton's
+                                                                                         crime data. Canadian Journal of Criminology, 35, 31–36.
+                                                                                     Cheesman, R., Hunjan, A., Coleman, J. R. I., Ahmadzadeh, Y., Plomin, R.,
+ACKNOWLEDGMENTS                                                                          McAdams, T. A., Eley, T. C., & Breen, G. (2020). Comparison of
+I would like to thank Michael Edge and Jeremy Berg for helpful meth-                     adopted and nonadopted individuals reveals gene–environment inter-
+odological suggestions and comments on the manuscript, Charles                           play for education in the UKbiobank. Psychological Science, 31(5),
+                                                                                         582–591.
+Roseman for helpful comments and substantial guidance with pheno-
+                                                                                     Chen, M., & Chiang, C. W. (2020). Allele frequency differentiation at
+typic Fst derivations, and Aysu Okbay for sharing within-family effect                   height-associated SNPs among continental human populations. Pre-
+sizes from Lee et al. (2018). I also thank Cathryn Townsend, Dan                         print bioRxiv doi:https://doi.org/10.1101/2020.09.28.317552
+Weissman, James Lingford, Jedidiah Carlson, Jonathan Kaplan, Matias                  Chipuer, H. M., Rovine, M. J., & Plomin, R. (1990). LISREL modeling:
+                                                                                         Genetic and environmental influences on IQ revisited. Intelligence, 14,
+Kaplan, Ronald, and twitter users @Rasmansa, @Sillyolyou, @pp0196
+                                                                                         11–29.
+for helpful discussion and comments on the manuscript. I am
+                                                                                     Cloninger, C. R., Rice, J., & Reich, T. (1979). Multifactorial inheritance with
+supported by NSF-GRFP DGE-142487.1.                                                      cultural transmission and assortative mating. II. A general model of
+                                                                                         combined polygenic and cultural inheritance. American Journal of
+AUTHOR CONTRIBUTIONS                                                                     Human Genetics, 31, 176–198.
+                                                                                     Coop, G. (2019) Reading tea leaves? Polygenic scores and differences in
+Kevin Bird: Conceptualization; data curation; formal analysis; investi-
+                                                                                         traits among groups. Preprint aXxiv arXiv:1909.00892
+gation; methodology; visualization; writing-original draft; writing-                 Cox, S. L., Ruff, C. B., Maier, R. M., & Mathieson, I. (2019). Genetic contri-
+review and editing.                                                                      butions to variation in human stature in prehistoric Europe. Proceed-
+                                                                                         ings of the National Academy of Sciences of the United States of America,
+                                                                                         116(43), 21484–21492.
+CONF LICT OF IN TE RE ST
+                                                                                     Danecek, P., & Auton, A. (2011). The variant call format and VCFtools. Bio-
+The author declares this research was conducted in the absence of                        informatics, 27, 2156–2158.
+any commercial or financial relationships that could be construed as a               Devlin, B., Daniels, M., & Roeder, K. (1997). The heritability of IQ. Nature,
+potential conflict of interest.                                                          388, 468–471.
+                                                                                     Duncan, L., & Shen, H. (2019). Analysis of polygenic risk score usage and
+                                                                                         performance in diverse human populations. Nature Communications,
+DATA AVAI LAB ILITY S TATEMENT                                                           10, 3328.
+Data and code to reproduce core analyses are available at https://doi.               Ebbesen, C. L. (2020). Flawed estimates of cognitive ability in Clark et al.
+org/10.5281/zenodo.4284020.                                                              Psychological Science, 2020. Preprint at PsyArxiv https://doi.org/10.
+                                                                                         31234/osf.io/tzr8c
+ORCID                                                                                Flint, J., & Ideker, T. (2019). The great hairball gambit. PLoS Genetics, 15,
+                                                                                         e1008519.
+Kevin A. Bird     https://orcid.org/0000-0002-3174-3646
+                                                                                     Freedman, B. I., Limou, S., Ma, L., & Kopp, J. B. (2018). APOL1-associated
+                                                                                         nephropathy: A key contributor to racial disparities in CKD. American
+RE FE R ENC E S                                                                          Journal of Kidney Diseases, 72, S8–S16.
+1000 Genomes Project Consortium. (2015). A global reference for human                Freedman, M. L., & Haiman, C. A. (2006). Admixture mapping identifies
+    genetic variation. Nature, 526(7571), 68–74.                                         8q24 as a prostate cancer risk locus in African-American men. Proceed-
+Armstrong-Carter, E., Trejo, S., Hill, L. J., Crossley, K. L., Mason, D., &              ings of the National Academy of Sciences of the United States of America,
+    Domingue, B. W. (2020). The earliest origins of genetic nurture: The                 103, 14068–14073.
+    prenatal environment mediates the association between maternal                   Freese, J., Domingue, B., Trejo, S., Sicinski, K. & Herd, P. (2019) Problems
+    genetics and child development. Psychological Science, 31(7), 781–791.               with a causal interpretation of polygenic score differences between
+Ashbrook, D. G., Gini, B., & Hager, R. (2015). Genetic variation in offspring            Jewish and non-Jewish respondents in the Wisconsin longitudinal
+    indirectly influences the quality of maternal behaviour in mice. eLife, 4,           study. Preprint SocArxiv doi:https://doi.org/10.31235/osf.io/eh9tq.
+    e11814.                                                                          Gage, S. H., Smith, G. D., Ware, J. J., Flint, J., & Munafò, M. R. (2016). G =
+Berg, J. J., & Coop, G. A. (2014). Population genetic signal of polygenic                E: What GWAS can tell us about the environment. PLoS Genetics, 12,
+    adaptation. PLoS Genetics, 10, e1004412.                                             e1005765.
+Berg, J. J., & Harpak, A. (2019). Reduced signal for polygenic adaptation of         Gallagher, M. D., & Chen-Plotkin, A. S. (2018). The post-GWAS era: From
+    height in UKbiobank. eLife, 8, e39725.                                               association to function. American Journal of Human Genetics, 102,
+Bulik-Sullivan, B. K., Loh, P. R., Finucane, H. K., Ripke, S., Yang, J.,                 717–730.
+    Patterson, N., Daly, M. J., Price, A. L., & Neale, B. M. (2015). LD score        Gorey, K. M., & Cryns, A. G. (1995). Lack of racial differences in behavior:
+    regression distinguishes confounding from Polygenicity in genome-                    A quantitative replication of Rushton's (1988) review and an
+    wide association studies. Nature Genetics, 47, 291–295.                              independent meta-analysis. Personality and Individual Differences, 19,
+Carratto, T. M. T., Carratto, T. M. T., Marcorin, L., Debortoli, G., Silva, G. V.,       345–353.
+    Fracasso, N. C. A., Oliveira, M. L. G., Pereira, A. L. E., Silva, A. B. C.,      Graffelman, J., Jain, D., & Weir, B. A. (2017). Genome-wide study of
+    Donadi, E. A., Simões, A. L., Castelli, E. C., Norton, H. L., Parra, E. J., &        hardy–Weinberg equilibrium with next generation sequence data.
+    Mendes-Junior, C. T. (2019). Evaluation of the HIrisPlex-S system in a               Human Genetics, 136, 727–741.
+BIRD                                                                                                                                                              11
+
+
+
+Graves, J. L. (2002). What a tangled web he weaves. Anthropological The-                  interactions underlie adaptive divergence in switchgrass across a large
+     ory, 2, 131–154.                                                                     latitudinal gradient. Proceedings of the National Academy of Sciences of
+Guo, J., Guo, J., Wu, Y., Zhu, Z., Zheng, Z., Trzaskowski, M., Zeng, J.,                  the United States of America, 116(26), 12933–12941.
+     Robinson, M. R., Visscher, P. M., & Yang, J. (2018). Global genetic dif-        Lynch, M. (1990). The rate of morphological evolution in mammals from
+     ferentiation of complex traits shaped by natural selection in humans.                the standpoint of the neutral expectation. The American Naturalist,
+     Nature Communications, 9, 1–9.                                                       136, 727–741.
+Harpak, A., & Przeworski, M. (2020). The evolution of group differences in           Lynn, R. (2006) Race Differences in Intelligence: An Evolutionary Analysis.
+     changing environments. Preprint arXiv arXiv:2010.03048.                              Augusta, GA: Washington Summit Publishers.
+Haworth, S., Mitchell, R., Corbin, L., Wade, K. H., Dudding, T., Budu-               Lynn, R. & Vanhanen, T. (2006) IQ and Global Inequality. Augusta, GA:
+     Aggrey, A., Carslake, D., Hemani, G., Paternoster, L., Smith, G. D.,                 Washington Summit Publishers.
+     Davies, N., Lawson, D. J., & Timpson, N. J. (2019). Apparent latent             MacEachern, S. (2006). Africanist archaeology and ancient IQ: Racial sci-
+     structure within the UKbiobank sample has implications for epidemio-                 ence and cultural evolution in the twenty-first century. World Archae-
+     logical analysis. Nature Communications, 10, 1–9.                                    ology, 38(1), 72–92.
+Hill, W. D., & Arslan, R. C. (2018). Genomic analysis of family data reveals         Manduca, R., & Sampson, R. J. (2019). Punishing and toxic neighborhood
+     additional genetic effects on intelligence and personality. Molecular                environments independently predict the intergenerational social
+     Psychiatry, 23, 2347–2362.                                                           mobility of black and white children. Proceedings of the National Acad-
+Hill, W. D., & Marioni, R. E. (2019). A combined analysis of genetically cor-             emy of Sciences of the United States of America, 116, 7772–7777.
+     related traits identifies 187 loci and a role for neurogenesis and mye-         Martin, A. R., & Gignoux, C. R. (2017). Human demographic history impacts
+     lination in intelligence. Molecular Psychiatry, 24, 169–181.                         genetic risk prediction across diverse populations. American Journal of
+Holland, D., Frei, O., Desikan, R., Fan, C. C., Shadrin, A. A., Smeland, O. B.,           Human Genetics, 100, 635–649.
+     Sundar, V. S., Thompson, P., Andreassen, O. A., & Dale, A. M. (2020).           Morris, T. T., Davies, N. M., Hemani, G., & Smith, G. D. (2020). Population
+     Beyond SNP heritability: Polygenicity and discoverability of pheno-                  phenomena inflate genetic associations of complex social traits. Sci-
+     types estimated with a univariate Gaussian mixture model. PLoS Genet-                ence Advances, 6, eaay0328.
+     ics, 16(5), e1008612.                                                           Mostafavi, H., Harpak, A., Conley, D., Pritchard, J. K., & Przeworski, M.
+Huang, W., Campbell, T., Carbone, M. A., Jones, W. E., Unselt, D.,                        (2020). Variable prediction accuracy of polygenic scores within an
+     Anholt, R. R. H., & Mackay, T. F. C. (2020). Context-dependent genetic               ancestry group. eLife, 9, e48376.
+     architecture of drosophila life span. PLoS Biology, 18(3), e3000645.            Novembre, J., & Barton, N. H. (2018). Tread lightly interpreting polygenic
+Jensen, A. R. (1969a). How much can we boost IQ and scholastic achieve-                   tests of selection. Genetics, 208, 1351–1355.
+     ment. Harvard Educational Review, 39, 1–123.                                    Pesta, B. J., & Poznanski, P. J. (2014). Only in America: Cold winters the-
+Jensen, A. R. (1969b). Reducing the heredity-environment uncertainty: A                   ory, race, IQ and well-being. Intelligence, 46, 271–274.
+     reply. Harvard Educational Review, 39, 449–483.                                 Piel, F. B., & Patil, A. P. (2010). Global distribution of the sickle cell gene
+Jensen, A. R. (1974) Race and Mental Ability. in Symposium of the institute.              and geographical confirmation of the malaria hypothesis. Nature Com-
+     of Biology on ‘Racial Variation in Man’ (Royal Geographical Society).                munications, 1, 104.
+Jensen, A. R. (1985). Compensatory education and the theory of intelli-              Piffer, D. (2015). A review of intelligence GWAS hits: Their relationship to
+     gence. The Phi Delta Kappa, 66, 554–558.                                             country IQ and the issue of spatial autocorrelation. Intelligence, 53,
+Kempthorne, O. (1978). A biometrics invited paper: Logical, epistemologi-                 43–50.
+     cal and statistical aspects of nature-nurture data interpretation. Bio-         Piffer, D. (2019). Evidence for recent polygenic selection on educational
+     metrics, 34, 1–23.                                                                   attainment and intelligence inferred from GWAS hits: A replication of
+Kim, M. S., Patel, K. P., Teng, A. K., Berens, A. J., & Lachance, J. (2018).              previous findings using recent data. Psychiatry, 1, 55–75.
+     Genetic disease risks can be misestimated across global populations.            Polderman, T. J. C., & Benyamin, B. (2015). Meta-analysis of the heritabil-
+     Genome Biology, 19, 179.                                                             ity of human traits based on fifty years of twin studies. Nature Genet-
+Kong, A., & Thorleifsson, G. (2018). The nature of nurture: Effects of                    ics, 47, 702–709.
+     parental genotypes. Science, 359, 424–428.                                      Price, N., Moyers, B. T., Lopez, L., Lasky, J. R., Monroe, J. G., Mullen, J. L.,
+Lasker, J., Pesta, B. J., Fuerst, J. G. R., & Kirkegaard, E. O. W. (2019). Global         Oakley, C. G., Lin, J., Ågren, J., Schrider, D. R., Kern, A. D., &
+     ancestry and cognitive ability. Psychiatry, 1, 431–459.                              McKay, J. K. (2018). Combining population genomics and fitness QTLs
+Lawson, D. J., Davies, N. M., Haworth, S., Ashraf, B., Howe, L.,                          to identify the genetics of local adaptation in Arabidopsis thaliana. Pro-
+     Crawford, A., Hemani, G., Smith, G. D., & Timpson, N. J. (2019). Is pop-             ceedings of the National Academy of Sciences of the United States of
+     ulation structure in the genetic biobank era irrelevant, a challenge, or             America, 115(19), 5028–5033.
+     an opportunity? Human Genetics, 139(1), 23–41.                                  Purcell, S., & Neale, B. (2007). PLINK: A toolset for whole-genome associa-
+Lee, J. J., Wedow, R., Okbay, A., Kong, E., Maghzian, O., Zacher, M.,                     tion and population-based linkage analysis. American Journal of Human
+     Nguyen-Viet, T. A., Bowers, P., Sidorenko, J., Karlsson Linnér, R.,                  Genetics, 81, 559–575.
+     Fontana, M. A., Kundu, T., Lee, C., Li, H., Li, R., Royer, R.,                  Racimo, F., Berg, J. J., & Pickrell, J. K. (2018). Detecting polygenic adapta-
+     Timshel, P. N., Walters, R. K., Willoughby, E. A., … Cesarini, D. (2018).            tion in admixture graphs. Genetics, 208, 1565–1584.
+     Gene discovery and polygenic prediction from a genome-wide associa-             Rajabli, F., & Feliciano, B. E. (2018). Ancestral origin of ApoE ε4 Alzheimer
+     tion study of educational attainment in 1.1 million individuals. Nature              disease risk in Puerto Rican and African American populations. PLoS
+     Genetics, 50, 1112–1121.                                                             Genetics, 14, e1007791.
+Loehlin, J. C. (1978). Heredity-environment analyses of Jencks's IQ corre-           Rao, D. C., Morton, N. E., Lalouel, J. M., & Lew, R. (1982). Path analysis
+     lations. Behavior Genetics, 8, 415–436.                                              under generalized assortative mating. II. American I.Q. Genetical
+Loehlin, J. C. (2000). Group differences in intelligence. In Handbook of                  Research, 39, 187–198.
+     Intelligence (pp. 176–194). New York: Cambridge University Press.               Relethford, J. H., & Blangero, J. (1990). Detection of differential gene flow
+     https://doi.org/10.1017/cbo9780511807947.010                                         from patterns of quantitative variation. Human Biology, 62, 5–25.
+Lowry, D. B., Lovell, J. T., Zhang, L., Bonnette, J., Fay, P. A., Mitchell, R. B.,   Relethford, J. H., Crawford, M. H., & Blangero, J. (1997). Genetic drift and
+     Lloyd-Reilley, J., Boe, A. R., Wu, Y., Rouquette, F. M., Jr., Wynia, R. L.,          gene flow in post-famine Ireland. Human Biology, 69, 443–465.
+     Weng, X., Behrman, K. D., Healey, A., Barry, K., Lipzen, A., Bauer, D.,         Rosenberg, N. A., Edge, M. D., Pritchard, J. K., & Feldman, M. W. (2019).
+     Sharma, A., Jenkins, J., … Juenger, T. E. (2019). QTL× environment                   Interpreting polygenic scores, polygenic adaptation, and human
+12                                                                                                                                                           BIRD
+
+
+
+    phenotypic differences. Evolution, Medicine, and Public Health, 2019,          Wicherts, J. M., Borsboom, D., & Dolan, C. V. (2010a). Why national IQs
+    26–34.                                                                             do not support evolutionary theories of intelligence. Personality and
+Rothstein, J., & Wozny, N. (2013). Permanent income and the black-white                Individual Differences, 48, 91–96.
+    test score gap. Journal of Human Resources, 48(3), 510–544.                    Wickham, H. (2016). ggplot2: Elegant graphics for data analysis. Springer-
+Rushton, J. P. (1990). Race differences and r/K theory. Ethology and Socio-            Verlag. https://ggplot2.tidyverse.org
+    biology, 11, 131–140.                                                          Winegard, B., Winegard, B., & Anomaly, J. (2020). Dodging Darwin: Race,
+Rushton, J. P. (1996) Race, evolution, and behavior: A life history perspective.       evolution, and the hereditarian hypothesis. Personality and Individual
+    (Transaction Publishing).                                                          Differences, 160, 109915.
+Rushton, J. P. (2000) Race, Evolution, and Behavior: A Life History Perspec-       Winegard, B., Winegard, B., & Boutwell, B. (2017). Human biological
+    tive. (Transaction Publishing).                                                    and psychological diversity. Evolutionary Psychological Science, 3,
+Rushton, J. P., & Jensen, A. R. (2005). Thirty years of research on race differ-       159–180.
+    ences in cognitive ability. Psychology, Public Policy, and Law, 11, 235–294.   Young, A. I., Frigge, M. L., Gudbjartsson, D. F., Thorleifsson, G.,
+Saini, A. Superior: the return of race science. (2019). Boston, MA: Beacon             Bjornsdottir, G., Sulem, P., Masson, G., Thorsteinsdottir, U.,
+    Press.                                                                             Stefansson, K., & Kong, A. (2018). Relatedness disequilibrium regres-
+Selzam, S., & Ritchie, S. J. (2019). Comparing within- and between-family poly-        sion estimates heritability without environmental bias. Nature Genetics,
+    genic score prediction. American Journal of Human Genetics, 105, 351–363.          50, 1304–1310.
+Sohail, M., & Maier, R. M. (2019). Polygenic adaptation on height is over-         Zaidi, A. A., & Mathieson, I. (2020). Demographic history mediates the
+    estimated due to uncorrected stratification in genome-wide associa-                effect of stratification on polygenic scores. eLife, 9, e61548.
+    tion studies. eLife, 8, e39702.                                                Zietsch, B. P., & Sidari, M. J. A. (2019). A critique of life history approaches
+Tang, M. X., Stern, Y., Marder, K., Bell, K., Gurland, B., Lantigua, R.,               to human trait covariation. Evolution and Human Behavior, 41,
+    Andrews, H., Feng, L., Tycko, B., & Mayeux, R. (1998). The APOE-                   527–535. https://doi.org/10.1016/j.evolhumbehav.2019.05.007
+    epsilon4 allele and the risk of Alzheimer disease among African
+    Americans, whites, and Hispanics. Journal of the American Medical
+    Association, 279, 751–755.
+Thomas, D. (2016). Racial IQ differences among transracial adoptees: Fact
+    or Artifact? Journal of Intelligence, 5, 1.                                        How to cite this article: Bird KA. No support for the
+Waldman, I. D., Weinberg, R. A., & Scarr, S. (1994). Racial-group differ-              hereditarian hypothesis of the Black–White achievement gap
+    ences in IQ in the Minnesota transracial adoption study: A reply to                using polygenic scores and tests for divergent selection. Am
+    Levin and Lynn. Intelligence, 19, 29–44.
+                                                                                       J Phys Anthropol. 2021;1–12. https://doi.org/10.1002/ajpa.
+Wicherts, J. M., Borsboom, D., & Dolan, C. V. (2010). Evolution, brain size,
+    and the national IQ of peoples around 3000 years B.C. Personality and              24216
+    Individual Differences, 48, 104–106.
+

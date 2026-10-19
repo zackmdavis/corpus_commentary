@@ -1,0 +1,554 @@
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+
+
+
+    There’s still no good reason to believe black-white IQ
+    differences are due to genes
+    Our response to criticisms.
+    By Eric Turkheimer, Kathryn Paige Harden, and Richard E. Nisbett                Updated Jun 17, 2017, 10:45am EDT
+
+
+
+
+  US Army recruits taking an intelligence test at Fort Lee, in Virginia, 1917. | Time Life Pictures / Getty
+
+
+
+
+        Outside contributors' opinions and analysis of the most important issues in politics, science, and culture.
+
+
+    It is difficult to decide where to begin among the commentary that followed our recent
+    discussion of Sam Harris’s interview of Charles Murray on Harris’s Waking Up podcast. In
+    the piece, we argued that Murray was wrong in 1994 in his reading of the evidence for a
+    genetic basis for the black-white IQ difference — and that he is wrong today. We argued
+    that it was misleading, even irresponsible, for Harris to treat Murray as if he were someone
+    who merely passes along scientific facts — facts so sound that they can only be doubted
+    by liberals in the grip of “a politically correct moral panic,” in Harris’s words.
+
+    All three of us are academic psychologists who have studied human intelligence, and it is
+    our contention that Murray’s views do not represent the consensus in our field.
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      1/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    We start by noting that we accepted as facts many claims that are controversial in the
+    academy, if not in psychology — that IQ exists; that it predicts many life outcomes; that
+    there is a gap between black IQ scores and white IQ scores; that IQ is at least partly
+    heritable (as is almost every human trait). We rejected the conclusion that Murray and
+    Harris say is virtually inescapable: that it follows that the black-white difference in IQ must
+    be partly genetic.
+
+    Given the response to our first article, we thought it would be useful to clarify the precise
+    boundaries of the dispute, as well as respond to some technical points critics raised.
+
+    The central issue at stake is whether the black-white IQ gap is partially genetically
+    determined. We believe there is currently no strong evidence to support this conclusion,
+    whereas Murray presents it as a near certainty, and Harris endorses Murray’s position.
+
+    To be fair to our critics, it can be a little hard at first to pin down Harris and Murray’s
+    position on this point. They both offer broad caveats, like this one, from Harris:
+
+        The fact that a trait is genetically transmitted in individuals does not mean that all the differences
+        between groups or really even any of the differences between groups in that trait are also genetic in
+        origin. [43:25 in the podcast]
+
+
+    But the example he then gives is malnourishment producing differences in height. When
+    speaking about IQ, Murray’s position eventually becomes clear: Genes play a role in the
+    average difference between the IQs of blacks and whites, and public policy is not going to
+    be able to do much to change levels of cognitive skills.
+
+    Referring to the claims he made in The Bell Curve, Murray paraphrases the argument that
+    he and co-author Richard J. Herrnstein made, which Murray says created much of the
+    subsequent controversy:
+
+        Our crime in the book was to have a single solitary paragraph that said … if we’ve convinced you that
+        either the environmental or the genetic explanation has won out, to the exclusion of the other, we
+        haven’t done a good enough job of presenting the evidence for one side or the other. It seems to us
+        highly likely that both genes and the environment have something to do with racial differences. And we
+        went no further than that. [59:07]
+
+
+    Harris endorses Murray’s contention about partial heritability of the group differences. He
+    says, for example:
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      2/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+
+        This is just straight biology. And because different racial groups differ genetically, to any degree, and
+        because most of what we care about in ourselves — intelligence included — … also has some genetic
+        underpinnings — for many of these traits we’re talking about something like 50 percent — it would be
+        very, very surprising if everything we cared about was tuned to the exact same population average in
+        every racial group. There’s just virtually no way that’s going to be true. So based purely on biological
+        consideration, we should expect that for any variable, there will be differences in the average, its
+        average level, across racial groups that differ genetically to some degree. [55:12]
+
+
+    Even when accepting an environmental contribution to black-white differences, Harris still
+    implicitly endorses the idea that group differences are due to genes:
+
+        But again, what we should come back to here is that genes are almost certainly only just part of the
+        story and there should be very likely an environmental contribution here. [58:19]
+
+
+    With statements like these, Harris executes the same move Herrnstein and Murray made in
+    The Bell Curve: They acknowledge all the reasons why the heritability of intelligence
+    doesn’t necessarily mean that group differences are due to genes. They then proceed to
+    draw their conclusions as if those reasons don’t really matter.
+
+    The other side of Murray’s repeated assertions that the black-white IQ gap is partially
+    genetic is his claim that there is ultimately very little that can be done about average levels
+    of IQ; even if the environment contributes to IQ, any inequalities are basically intractable.
+    Murray again:
+
+        There is this notion that if traits are genetically determined, that's bad, and if traits are environmentally
+        determined, that's good, because we can do something about them if they are environmental. And if
+        there is one lesson that we have learned from the last 70 years of social policy, it is that changing
+        environments in ways that produce measurable results is really, really hard and we actually don't know
+        how to do it, no matter how much money we spend. [38:34]
+
+
+    At another point, Murray and Harris are discussing how genetic tendencies can lead
+    children to reshape their environments, and Murray cautions:
+
+        Does that mean that if only you can jack up artificially the environment you're going to make much
+        difference in the child's IQ? And the answer to that is: Not long term. [37:48]
+
+
+    Does adoption count as “jack[ing] up artificially the environment”? In our original post, we
+    pointed out that adoption from a poor home to a well-off home is associated with a 12- to
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      3/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    18-point gain in IQ. Other studies have come up with slightly lower figures, but the general
+    direction of the finding is beyond dispute.
+
+    Similarly, we argued in our initial piece that Murray was not forced to grapple sufficiently
+    with the implications of the Flynn Effect — that is, the remarkable increase in average IQ
+    over generational time: 18 points in the US between 1948 and 2002. These very large
+    increases demonstrate massive, population-level, environmentally caused changes in IQ.
+    Like adoption, the Flynn Effect remains a powerful rebuttal of the idea that IQ cannot be
+    budged by environmental factors.
+
+    Harris brought up the Flynn Effect, and even briefly described it as a challenge, until Murray
+    produced a vague citation to a paper by Wicherts et al. (2004) and Harris gave up. Murray
+    noted that the paper in question is quite complex, and he is right. Wicherts’s analysis
+    shows that across different IQ subtests, the pattern of larger and smaller changes
+    produced by the Flynn Effect is different from the pattern of differences between blacks
+    and whites.
+
+    Wicherts’s finding has some interesting technical implications, but the important question
+    remains whether it discredits the Flynn Effect as a challenge to the notion of inborn group
+    differences in cognitive ability. We don’t think it does. The Flynn Effect demonstrates
+    massive, population-level environmental changes in average IQ scores; the exact nature of
+    the structure of these changes is an interesting question, but it is a side issue in this
+    context.
+
+    So here, then, is where we differ with Murray, and, as we understand it, with Harris: 1) we
+    think there is currently no good reason to believe that the black-white difference in average
+    IQ is due to genetic differences between racial groups; and 2) rather than thinking there is
+    no way to influence intelligence by improving the environment, we think there is, in fact,
+    good reason to believe that improving children’s environments will improve their cognitive
+    skills.
+
+    With the terms of the debate established, we now move on to some more technical
+    questions raised about the topic. Nisbett is primarily responsible for the first section,
+    Harden for the second, and Turkheimer for the third, although we are all in agreement on
+    the main points.
+
+    Richard Nisbett: who is cherry-picking?
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      4/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    Charles Murray did not write a response to our piece, but he did endorse, on Twitter, the
+    work of several critics. He suggests he might have written something along the lines of
+    this blog post, which attacked the article on several points. I respond to several of those
+    points here:
+
+    Do most experts think genes make a substantial contribution to the black-white
+    difference in intelligence? There have been several surveys of expert opinion over the
+    years. Perhaps the first was described in a 1988 book by Snyderman and Rothman. The
+    most recent was described in a 2013 blog post about a conference presentation. The
+    survey described in that post has resulted in two published articles, neither of which
+    presents data on opinions regarding the black-white difference. The studies do, however,
+    report that only about 5 percent of people who were invited to participate responded to
+    any one set of items. Given this very low response rate, along with the potential for bias in
+    which scientists were invited in the first place, we doubt that these results are an accurate
+    representation of the field.
+
+    Still, in both the Snyderman and Rothman book and in the more recent survey, more than
+    half of respondents selected one of two response categories that included zero (one
+    option was “0 percent of [black-white] differences due to genes” and the other was “0-40
+    percent of differences due to genes”). Much more important, however, is that respondents
+    were not allowed to endorse what in my view is the only reasonable response: It is not
+    possible to give a meaningful estimate of the percentage.
+
+    Has the black-white gap in test scores narrowed in the past 25 years? Below are the
+    results of a very large number of psychometric tests of academic achievement assembled
+    by sociologist Sean Reardon. Along the X-axis is the birth year of the cohort. On the Y-axis
+    are the black-white gap and the gap between children of families at the 90th percentile in
+    income and families at the 10th percentile of income, in standard deviation terms (one
+    standard deviation of IQ is equal to 15 points).
+
+    The first graph gives the results for reading, the second for math. For reading, the black-
+    white gap for the 1943 cohort was approximately double the gap associated with family
+    income. The black-white gap then shrank from substantially more than a standard
+    deviation for the 1943 cohort to roughly a standard deviation for the 1963 cohort to slightly
+    more than half a standard deviation for the 2003 cohort. For math, the black-white gap
+    went from around slightly more than a standard deviation to slightly more than half a
+    standard deviation.
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      5/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    IQ is highly correlated with these measures of academic achievement, so it is almost surely
+    the case that the black-white IQ gap has been very substantially reduced. (The race gap in
+    IQ itself has not to our knowledge been investigated since 2006, when Dickens and Flynn
+    found that it was around 9.5 points, close to what is suggested by Reardon’s achievement
+    data. In the podcast, Murray asserts that the gap is on the order of 15 points.)
+
+
+
+
+    Russell Sage Foundation
+
+
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      6/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+
+
+
+    Russell Sage Foundation
+
+
+
+
+    It should be noted that the data for 17-year-olds is comparable to the data overall. (The
+    blog post Murray endorses suggests that the test scores of 17-year-olds reflect genetic
+    influence more than the test scores of 10-year-olds.) The reading gap for 17-year-olds was
+    reduced by 9 points between 1975 and 2012; the math gap was reduced by 4.5 points.
+
+    It is true that the average SAT score of blacks has not changed over the past 20 years.
+    However, black adolescents are much more likely to take the SAT today than in the 1990s:
+    The number of black people in the US increased by 4 percent from 1996 to 2015, while the
+    number of black SAT takers doubled, far more than the 17 percent increase in the number
+    of white SAT takers. If the average black IQ is increasing, but the black adolescents from
+    the lower portion of the IQ distribution are increasingly likely to take the test, this will result
+    in a static mean score.
+
+    Are there significant limitations to studies on the effect of adoption on IQ? In our
+    original post, we pointed out that adoption from a poor home to a well-off home is
+    associated with a 12- to 18-point gain in IQ. This point was challenged from several angles.
+
+    First, even when adoption produces substantial gains in the average IQs of adopted
+    children, the magnitudes of the individual gains are better predicted by the IQs of the
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      7/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    children’s biological parents than by the relative quality of the adoptive environment. This is
+    true but irrelevant: It is merely evidence that IQ is partly heritable, which no one disputes.
+    That effect (one more time) has no implications for understanding group differences. (The
+    authoritative reference on this phenomenon, by the way, is Turkheimer, 1991.)
+
+    What we care about is how high their IQs are, not whether the correlation between their
+    IQs and their biological parents is higher or lower than the correlation with the IQs of the
+    adoptive parents. The IQs of those adopted children are substantially higher than they
+    would have been if they had been raised by their biological parents.
+
+    Second, a previous study co-authored by Turkheimer found an adoption effect of only
+    about 4.4 points. However, the magnitude of the increase afforded by adoption depends
+    on the difference between the biological and adoptive homes. This particular adoption
+    study was conducted in Sweden, using children adopted from homes of slightly less than
+    average economic status into homes that were slightly higher than average. Krona for
+    krona, the IQ gains were just about the same. Again, adoption into improved environments,
+    even in a country with a strong social safety net and relatively slight economic differences
+    between the social classes, increases IQ.
+
+    Can educational programs increase IQ? In our original post, we stated that the best early
+    childhood education programs greatly increase educational attainment and labor force
+    participation. A critic alleged that “this was a strange straw man,” because would Murray
+    disagree that the best educational programs could raise “social capital”? But throughout
+    the podcast, Murray and Harris are quite skeptical about the possibility that any policy or
+    intervention could be successful. Their remarks begin as a discussion about IQ specifically,
+    but drift into what sounds like pessimism about social policy generally. Murray again:
+
+        And if there is one lesson we’ve learned from the last 70 years of social policy, it is that changing
+        environments in ways that produce measurable results is really, really hard. And we actually don't know
+        how to do it, no much how much money we spend. [Harris readily agrees:] Right. [38:49]
+
+
+    I do not deny the problem of IQ gain fade-out, or the difficulty of designing successful
+    social policies. Indeed, we commented in our original post that IQ gains from programs
+    “tend to regress once the program ends and environmental disadvantages reassert
+    themselves” [emphasis added]. But fade-out on IQ gains does not justify making sweeping
+    statements that we are largely helpless to remedy social inequalities — a claim that Murray
+    has made, in different forms, throughout his career.
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      8/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    Work by the Nobel Prize–winning economist James Heckman has demonstrated that the
+    best early childhood interventions have a benefit-cost ratio of somewhere between 3:1 and
+    9:1 by virtue of their effect on such things as lifelong earnings, health costs, crime, and
+    dependence on welfare.
+
+    Is the heritability of intelligence “more or less the same” across social classes? In our
+    original post, we wrote, “The heritability of intelligence, although never zero, is markedly
+    lower among American children raised in poverty,” and linked to a 2003 study by
+    Turkheimer and colleagues. That finding suggests that low-income children have fewer
+    opportunities for their genetic potential to flourish.
+
+    Critics have noted that in a more recent meta-analysis by Tucker-Drob and Bates, the
+    effect size estimated by Turkheimer et al. (2003) was the largest of the studies that tested
+    the interaction. We are quite familiar with that paper, as Tucker-Drob is Harden’s spouse.
+    However, the same meta-analysis unequivocally demonstrated that the heritability of
+    intelligence is lower among poor children raised in the United States (estimated to be ~26
+    percent) than among children from wealthy families (estimated to be ~61 percent).
+
+
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      9/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+
+
+
+    From Tucker-Drob and Bates, 2016, Psychological Science
+
+
+
+
+    Furthermore, the meta-analysis tested whether Turkheimer et al. (2003) was a statistical
+    outlier, and it was not; it tested whether the average reduction in heritability was still
+    significant when Turkheimer et al. (2003) is left out, and it was; it made the same test
+    leaving out every study Turkheimer had anything to do with, and the effect was still
+    significant.
+
+    So despite the misleading impression given by the critics, the meta-analysis was a
+    confirmation of the reduction in heritability among poor Americans. This is important,
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      10/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    because it undermines the hereditarian argument that twin studies show family
+    environment doesn’t matter for IQ: For poor children in the US, in particular, the family
+    environment seems to matter quite a bit.
+
+    Paige Harden: race and ancestry are not synonymous
+    Our piece did not contain much information about the relationship between genetic
+    ancestry and race, but the brief paragraph that was included motivated objections, most
+    prominently from the author Razib Khan on his blog, Gene Expression.
+
+    To back up, in the podcast, Murray states that he has changed none of his views on race
+    and IQ since writing The Bell Curve. In fact, he says (emphasis added):
+
+        Now that the genome has been sequenced and so much has been learned since it has been
+        sequenced, the whole discussion of ethnicity-slash-race is being conducted at a much higher level of
+        sophistication. … Now, the ability of the geneticists to simply look at variation over a million SNPs [single
+        nucleotide polymorphisms] across populations and do really fascinating cluster analysis. … The word
+        “populations” is what the geneticists like to use now instead of race, and I don’t blame them, and
+        I’m happy talking about populations, too. That’s just being done at a huge level that we never
+        considered. In The Bell Curve, we simply said, if they call themselves black or Latino or white, we’re
+        going to believe them, and they are going to be our samples. [56:28]
+
+
+    This description inappropriately implies that “populations” defined from genetic analyses
+    and “race” as defined by the US Census categories used in The Bell Curve are essentially
+    the same thing. Elsewhere, Murray speaks of genetic ancestry differences between races
+    as “signal”; the “blurriness” of race is “noise” that “contaminates” the search for genetically
+    based group differences. [57:55]
+
+    In response, we wrote: “Murray talks about advances in population genetics as if they have
+    validated modern racial groups. In reality, the racial groups used in the US — white, black,
+    Hispanic, Asian — are such a poor proxy for underlying genetic ancestry that no self-
+    respecting statistical geneticist would undertake a study based only on self-identified
+    racial category as a proxy for genetic ancestry measured from DNA.”
+
+    In his critique, Khan responded that “the Census categories are pretty bad and not optimal
+    (e.g., the ‘Asian American’ category pools South with East & Southeast Asians, and that has
+    caused issues in biomedical research in the past). But the claim is false.”
+
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      11/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    This criticism is confusing, because our claim is essentially the one Khan makes: “Census
+    categories [involving race] are pretty bad and not optimal.” At the same time, our
+    observation — that statistical geneticists could not publish a study that only controlled for
+    self-identified race rather than genetic ancestry as measured from DNA — is certainly true.
+    Controlling for multiple dimensions of ancestry derived from genome-wide genotyping is
+    standard practice in genetic research.
+
+    I suspect that Khan’s reflexive criticism comes from a place of exasperation with the idea,
+    still in circulation among some social scientists, that race is “just” a social construct or that
+    the racial categories used in the US today are entirely meaningless. I am sympathetic to
+    this objection to pure social constructivism, and we said in our post that lay notions of race
+    are not wrong or useless. Self-reported racial categories, coarse as they are, also generally
+    reflect underlying differences in genetic ancestry. For instance, in a 2015 paper by Neil
+    Risch et al., which Khan cites extensively, more than 99 percent of people who reported
+    being African American had some proportion of African ancestry.
+
+
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      12/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    But even this close correspondence between African ancestry, as measured from DNA,
+    and self-reported race does not undermine our claim — race is not the same as ancestry.
+    For one, there can be a range of ancestral backgrounds within any one self-identified racial
+    group. If someone has any African ancestry, you can probably tell with a reasonable degree
+    of confidence that he or she will identify as black, but the reverse is harder: If you know
+    someone is black, you do not know what percentage African versus European versus
+    American ancestry he or she has.
+
+    Ancestry also allows for more continuous and granular distinctions than our relatively
+    crude categories of race. The ancestry components that geneticists are most commonly
+    including in their analyses are making fine-grained distinctions between people who would
+    all be lumped together as “white” in the US today.
+
+    Finally, we ignore some ancestral differences and focus on others when we categorize
+    people into races. As a historical example, consider Carl Brigham’s 1923 book, A Study of
+    American Intelligence. In a section titled “The Race Hypothesis,” Brigham attempts to
+    classify people from different European countries in terms of their “Nordic,” “Alpine,” and
+    “Mediterranean” blood: The Italians are estimated to be 70 percent Mediterranean; the
+    English as 80 percent Nordic.
+
+    The effort to divide Europe’s inhabitants by “blood” is crude, but in one respect, Brigham
+    wasn’t wrong — with modern technology, you could certainly differentiate a person with
+    English ancestry from a person with Italian ancestry. But sometime in the past century,
+    we stopped conceptualizing the differences between the English and the Italians in terms
+    of race. We elevate to the status of “race” the distinctions that are our current political and
+    cultural preoccupations, while eliding others.
+
+    Ironically, the genetic differences between racial groups are a big part of why it’s
+    methodologically difficult to resolve the persistent questions about the origins of group
+    differences to anyone’s satisfaction. Populations and sub-populations don’t just differ in
+    the frequency of certain genetic variants; they also differ in which variants are present at
+    all, and in the pattern of correlations between genetic variants. Currently, everything we
+    know about the specific genetic variants associated with intelligence has been discovered
+    in people of European ancestry, but because of these genetic differences between
+    populations, applying genetic discoveries gleaned from one population to understand
+    another turns out to be very difficult.
+
+    Eric Turkheimer: reasonable and unreasonable conclusions about group differences
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      13/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    A widely expressed criticism of our piece is that we misrepresented Murray’s (and Harris’s)
+    conclusions about the degree to which IQ differences among racial groups are partly based
+    in genetic differences. As we’ve made clear, there is no question on this point: Both Murray
+    and Harris conclude that racial differences in IQ are at least partly genetic in origin, and
+    base this conclusion on the heritability of IQ scores within populations. As Harris put it,
+    “This is just straight biology.”
+
+    As we noted in our original post, Murray uses a rhetorical move to make a genetic account
+    of the IQ gap seem more reasonable: All Harris and Murray are saying is that the difference
+    is probably partly genetic and partly environmental, whereas their opponents insist that it
+    is not genetic at all. Murray says:
+
+        There is an asymmetry between saying probably genes have some involvement and the assertion that
+        it’s entirely environmental. And that's the assertion that is being made [by critics]. If you are going to be
+        upset at The Bell Curve, you are obligated to defend the proposition that the black-white difference in
+        IQ scores is 100 percent environmental, and that's a very tough measure. [59:41]
+
+
+    Unfortunately, Murray’s proposal that the IQ gap is the result of a little genetics and a little
+    environment does not offer a way out of the scientific and ethical dilemma faced by the
+    (alleged) science of race and behavior. Scientifically, there is no method that can
+    apportion group differences in this way, no empirical analysis that might assign IQ
+    differences between racial groups to one or another source, much less come up with a
+    meaningful balance between the two.
+
+    There is not a single example of a group difference in any complex human behavioral trait
+    that has been shown to be environmental or genetic, in any proportion, on the basis of
+    scientific evidence. Ethically, in the absence of a valid scientific methodology, speculations
+    about innate differences between the complex behavior of groups remain just that,
+    inseparable from the legacy of unsupported views about race and behavior that are as old
+    as human history. The scientific futility and dubious ethical status of the enterprise are two
+    sides of the same coin.
+
+    To convince the reader that there is no scientifically valid or ethically defensible foundation
+    for the project of assigning group differences in complex behavior to genetic and
+    environmental causes, I have to move the discussion in an even more uncomfortable
+    direction. Consider the assertion that Jews are more materialistic than non-Jews. (I am
+    Jewish, I have used a version of this example before, and I am not accusing anyone
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      14/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    involved in this discussion of anti-Semitism. My point is to interrogate the scientific
+    difference between assertions about blacks and assertions about Jews.)
+
+    One could try to avoid the question by hoping that materialism isn’t a measurable trait like
+    IQ, except that it is; or that materialism might not be heritable in individuals, except that it
+    is nearly certain it would be if someone bothered to check; or perhaps that Jews aren’t
+    really a race, although they certainly differ ancestrally from non-Jews; or that one wouldn’t
+    actually find an average difference in materialism, but it seems perfectly plausible that one
+    might. (In case anyone is interested, a biological theory of Jewish behavior, by the white
+    nationalist psychologist Kevin MacDonald, actually exists.)
+
+    If you were persuaded by Murray and Harris’s conclusion that the black-white IQ gap is
+    partially genetic, but uncomfortable with the idea that the same kind of thinking might
+    apply to the personality traits of Jews, I have one question: Why? Couldn’t there just as
+    easily be a science of whether Jews are genetically “tuned to” (Harris’s phrase) different
+    levels of materialism than gentiles?
+
+    On the other hand, if you no longer believe this old anti-Semitic trope, is it because some
+    scientific study has been conducted showing that it is false? And if the problem is simply
+    that we haven’t run the studies, why shouldn’t we? Materialism is an important trait in
+    individuals, and plausibly could be an important difference between groups. (Certainly the
+    history of the Jewish people attests to the fact that it has been considered important in
+    groups!) But the horrific recent history of false hypotheses about innate Jewish behavior
+    helps us see how scientifically empty and morally bankrupt such ideas really are.
+
+    If Murray and Harris want to make a science out of their intuitions about how different
+    groups of people have been “tuned” to behave, they will need to come up with a coherent
+    biological account of what exactly genetic “tuning” of behavior entails and how it might be
+    assessed empirically. It is, I acknowledge, a deeply complex question, both philosophically
+    and scientifically.
+
+    In fact, I will close by noting that not even the three of us are completely in agreement
+    about it: I (Turkheimer) am convinced that the question is irredeemably unscientific;
+    Nisbett accepts it as a legitimate scientific question, and thinks evidence points fairly
+    strongly in the direction of the black-white gap being entirely environmental in origin; while
+    Harden questions the quality of the existing evidence, but thinks more determinative data
+    may be found in future genetic knowledge.
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      15/16
+10/6/2018                                         There’s still no good reason to believe black-white IQ differences are due to genes - Vox
+
+    We agree on this, however: Murray and Harris’s current endorsement of a genetic
+    contribution to the black-white IQ gap is based on a weak brew of unexamined intuition and
+    sketchy empirical evidence. In a free country and a free academy, scientists can speculate
+    about whatever they want, but their speculations should not be mistaken for a scientific
+    consensus or a legitimate basis for social policy.
+
+    Eric Turkheimer is the Hugh Scott Hamilton professor of psychology at the University of
+    Virginia. Twitter: @ent3c. Kathryn Paige Harden (@kph3k) is associate professor in the
+    department of psychology at the University of Texas Austin. Richard E. Nisbett is the
+    Theodore M. Newcomb distinguished university professor at the University of Michigan.
+
+
+
+
+    The Big Idea is Vox’s home for smart discussion of the most important issues and ideas in
+    politics, science, and culture — typically by outside contributors. If you have an idea for a
+    piece, pitch us at thebigidea@vox.com.
+
+
+
+
+https://www.vox.com/the-big-idea/2017/6/15/15797120/race-black-white-iq-response-critics                                                      16/16
+

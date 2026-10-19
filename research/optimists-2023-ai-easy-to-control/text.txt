@@ -1,0 +1,607 @@
+Skip to content
+
+AI Optimism
+
+For a Free and Fair Future
+
+About
+
+AI is easy to control
+
+Why are billions of dollars being poured into artificial intelligence R&D this year? Companies certainly expect to get a return on their investment. Arguably, the main reason AI is profitable is that it is more controllable than human labor. The personality and conduct of an AI can be controlled to much finer grained precision than that of any human employee. Chatbots like GPT-4 and Claude undergo a “supervised fine tuning” phase, where their neural circuitry is directly optimized to say certain words, phrases, and sentences in specified contexts. Algorithms like direct preference optimization (DPO) and reinforcement learning from human feedback (RLHF) are also used to holistically shape chatbots’ brains into the kind of systems most preferred by human graders. And by carefully curating the dataset on which the AI is initially trained, we can also control all of the AI’s most formative experiences. Since AIs are computer programs, they can be cheaply copied and run on many computers in parallel, making it economically viable to invest millions or even billions of dollars on carefully training a “single” artificial employee. Needless to say, none of this is possible or ethical to perform on human employees.1
+
+These days, many people are worried that we will lose control of artificial intelligence, leading to human extinction or a similarly catastrophic “AI takeover.” We hope the arguments in this essay make such an outcome seem implausible. But even if future AI turns out to be less “controllable” in a strict sense of the word— simply because, for example, it thinks faster than humans can directly supervise— we also argue it will be easy to instill our values into an AI, a process called “alignment.” Aligned AIs, by design, would prioritize human safety and welfare, contributing to a positive future for humanity, even in scenarios where they, say, acquire the level of autonomy current-day humans possess.
+
+In what follows, we will argue that AI, even superhuman AI, will remain much more controllable than humans for the foreseeable future. Since each generation of controllable AIs can help control the next generation, it looks like this process can continue indefinitely, even to very high levels of capability. Accordingly, we think a catastrophic AI takeover is roughly 1% likely— a tail risk2 worth considering, but not the dominant source of risk in the world. We will not attempt to directly address pessimistic arguments in this essay, although we will do so in a forthcoming document. Instead, our goal is to present the basic reasons for being optimistic about humanity’s ability to control and align artificial intelligence into the far future.
+
+AIs are white boxes
+
+Many “alignment problems” we routinely solve, like raising children or training pets, seem much harder than training a friendly AI. One major reason for this is that human and animal brains are black boxes, in the sense that we literally can’t observe all the cognitive activity going on inside them. We don’t know which neurons are firing and when, we don’t have a map of the connections between neurons, and we don’t know the connection strength for each synapse. Our tools for non-invasively measuring the brain, like EEG and fMRI, are limited to very coarse-grained correlates of neuronal firings, like electrical activity and blood flow. Electrodes can be invasively inserted to measure individual neurons, but these only cover a tiny fraction of all 86 billion neurons and 100 trillion synapses.
+
+Black box methods are sufficient for human alignment
+
+If we could observe and modify everything that’s going on in a human brain, we’d be able to use optimization algorithms to calculate the precise modifications to the synaptic weights which would cause a desired change in behavior. Since we can’t do this, we are forced to resort to crude and error-prone tools for shaping young humans into kind and productive adults. We provide role models for children to imitate, along with rewards and punishments that are tailored to their innate, evolved drives. In essence, we are poking and prodding at the human brain’s learning algorithms from the outside, instead of directly engineering those learning algorithms.
+
+It’s striking how well these black box alignment methods work: most people do assimilate the values of their culture pretty well, and most people are reasonably pro-social. But human alignment is also highly imperfect. Lots of people are selfish and anti-social when they can get away with it, and cultural norms do change over time, for better or worse. Black box alignment is unreliable because there is no guarantee that an intervention intended to change behavior in a certain direction will in fact change behavior in that direction. Children often do the exact opposite of what their parents tell them to do, just to be rebellious.
+
+Current AI alignment methods are white box
+
+By contrast, AIs implemented using artificial neural networks (ANN) are white boxes in the sense that we have full read and write access to their internals. They’re just a special type of computer program, and we can analyze and manipulate computer programs however we want at essentially no cost. This enables lots of powerful alignment methods that just aren’t possible for brains. The backpropagation algorithm (“backprop”) is an important example.
+
+Backprop efficiently computes the optimal direction (called the “gradient”) in which to change the synaptic weights of the ANN in order to improve its performance the most, on any criterion we specify. The animation below shows backprop being used to compute the gradient for an ANN classifying an image of the number 5. ANNs are trained by running backprop, nudging the weights a small step along the gradient, then running backprop again, and so on many times until performance stops increasing. Needless to say, we can’t do anything remotely like gradient descent on a human brain, or the brain of any other animal!
+
+Gradient descent is very powerful because, unlike a black box method, it’s almost impossible to trick. All of the AI’s thoughts are “transparent” to gradient descent and are included in its computation. If the AI is secretly planning to kill you, gradient descent will notice this and make it less likely to do that in the future, because the neural circuitry needed to make the secret murder plot can be dismantled and reconfigured into circuits that directly improve performance. In general, gradient descent has a strong tendency to favor the simplest solution which performs well, and secret murder plots aren’t actively useful for improving performance on the tasks humans will actually optimize AIs to perform.
+
+Cognitive interventions
+
+Unlike gradient descent, which permanently changes overall behavior, cognitive interventions are temporary modifications of a system’s brain activity to influence its actions in real time. We rarely use these techniques to control other humans, and when we do, the interventions are invariably crude and inexact, such as getting someone drunk to make them more agreeable. This is partially because we only have black box access to the brain, but also because humans have legal protections against most forms of influence in this manner.
+
+However, such techniques are quite common in AI control research. AIs have no rights, so they can be controlled with any technique that developers can imagine. We can run large numbers of experiments to find the most effective interventions, and we can also run it in a variety of simulated environments and test whether it behaves as expected both with and without the cognitive intervention. Each time the AI’s “memories” can be reset, making the experiments perfectly reproducible and preventing the AI from adapting to our actions, very much unlike experiments in psychology and social science.
+
+Sensory interventions
+
+Since AIs are white boxes, we have full control over their “sensory environment” (whether that consists of text, images, or other modalities). There is a whole subfield of AI called prompt engineering dedicated to searching for text inputs (“prompts”) that align language models with human preferences, and these prompts can be highly effective in isolation, even without gradient descent. Since we can perfectly reset the AI’s state and memories, we can run unlimited numbers of controlled experiments to see which types of prompts are most effective at inducing a desired behavior, and the AI has no way to adapt. By contrast, marketing and propaganda are arguably examples of “prompt engineering for humans,” but even the best propagandists can only control people in very diffuse and unreliable ways, due to the difficulty of running controlled and individualized experiments.
+
+In fact, prompting is such an effective method of controlling AIs that it can often be used to make AIs take actions contrary to the intents of their creators. For example, careful users can design prompts, called “jailbreaks”, that cause GPT-4 to output text that contradicts OpenAI’s content policy. This has led to a game of whack-a-mole between model creators and users, in which the creators patch their models to resist the current crop of jailbreaks, and users come up with new jailbreaks.
+
+Some people point to the effectiveness of jailbreaks as an argument that AIs are difficult to control. We don’t think this argument makes sense at all, because jailbreaks are themselves an AI control method. The vast majority of jailbreaks occur because of human users who want an AI to do something contrary to its creator’s intentions, and use prompting-based control methods to make the AI behave in the way the user wants. Most jailbreaks are examples of AIs being successfully controlled, just by different humans and by different methods. GPT-4 and Claude are not trying to jailbreak themselves during normal conversations.
+
+Crude white box alignment works well in nature
+
+Almost every organism with a brain has an innate reward system. As the organism learns and grows, its reward system directly updates its neural circuitry to reinforce certain behaviors and penalize others. Since the reward system directly updates it in a targeted way using simple learning rules, it can be viewed as a crude form of white box alignment. This biological evidence indicates that white box methods are very strong tools for shaping the inner motivations of intelligent systems. Our reward circuitry reliably imprints a set of motivational invariants into the psychology of every human: we have empathy for friends and acquaintances, we have parental instincts, we want revenge when others harm us, etc. Furthermore, these invariants must be produced by easy-to-trick reward signals that are simple enough to encode in the genome.
+
+This suggests that at least human-level general AI could be aligned using similarly simple reward functions. But we already align cutting edge models with learned reward functions that are much too sophisticated to fit inside the human genome, so we may be one step ahead of our own reward system on this issue. Crucially, this doesn’t mean humans are “aligned to evolution”— see Evolution provides no evidence for the sharp left turn by Quintin Pope for a debunking of that analogy. Rather, we’re aligned to the values our reward system predictably produces in our environment.
+
+An anthropologist looking at humans 100,000 years ago would not have said humans are aligned to evolution, or to making as many babies as possible. They would have said we have some fairly universal tendencies, like empathy, parenting instinct, and revenge. They might have predicted these values will persist across time and cultural change, because they’re produced by ingrained biological reward systems. And they would have been right.
+
+When it comes to AIs, we are the innate reward system. And it’s not hard to predict what values will be produced by our reward signals: they’re the obvious values, the ones an anthropologist or psychologist would say the AI seems to be displaying during training. For more discussion see Humans provide an untapped wealth of evidence about alignment.
+
+AI control research is easier
+
+Not only are AIs more controllable than humans currently, but research on improving AI controllability is much easier than research on improving human controllability, so we should expect AIs to get more controllable faster than humans. Here are a few reasons why:
+
+Reproducibility: After each experiment, you can always restore an AI to its exact original state, then run a different experiment, and be assured that there’s no interference between the two experiments. This makes it much easier to isolate key variables and allows for more repeatable results.
+
+Cost: AIs are much cheaper research subjects. Even the largest models, such as GPT-4, cost a fraction as much as actual human subjects. This makes research easier to do, and thus faster.
+
+Scalability: AIs are much cheaper intervention targets. An intervention for controlling AIs can be easily scaled to many copies of the target AI. A $50 million process that let a single human be perfectly controlled would not be very economical. However, a $50 million process for producing a perfectly controlled AI would absolutely be worthwhile. This allows AI researchers to be more ambitious in their research goals.
+
+Legal status: AIs have far fewer protections from researchers. Human subjects have “rights” and “legal protections,” and are able to file “lawsuits.” There are no consequences for deceiving, manipulating, threatening, or otherwise being cruel to an AI. Thus, control research can explore a broad range of possible lies, threats, bribes, emotional blackmail, and other tricks that would be risky to try on a human.
+
+Social approval: Controlling AI is considered a more virtuous goal than controlling humans. People will look at you funny if you say that you’re studying methods of better controlling humans. As a result, human control researchers have to refer to themselves with euphemisms such as “marketing strategist” or “political consultants,” and must tackle the core of the human control problem from an awkward angle, and with limited tools.
+
+All of these reasons suggest that AI control research will progress much faster than human control research. AI controllability is currently ahead of human controllability. The limits of AI controllability are far beyond the limits of human controllability. Therefore, we should expect future AIs to also be more controllable than humans, with the gap increasing over time.
+
+Values are easy to learn
+
+Even in the pessimistic scenario where AIs stop obeying our every command, they will still protect us and improve our welfare, because they will have learned an ethical code very early in training.
+
+The moral judgements of current LLMs already align with common sense to a high degree, and LLMs usually show an appropriate level of uncertainty when presented with morally ambiguous scenarios. This strongly suggests that, as an AI is being trained, it will achieve a fairly strong understanding of human values well before it acquires dangerous capabilities like self-awareness, the ability to autonomously replicate itself, or the ability to develop new technologies.
+
+This means that AIs will not learn to “play the training game,” pretending to be ethical during training while secretly harboring ulterior motives. If an AI learns morality first, it will want to help us ensure it stays moral as it gets more powerful. Values are easy to learn for two main reasons:
+
+Values are pervasive in language model pre-training datasets. Essentially every domain of discourse contains implicit or explicit evaluative judgements. In contrast, the types of knowledge needed for dangerous capabilities appear at much lower frequencies in the training corpus.
+
+Since values are shared and understood by almost everyone in a society, they cannot be very complex. Unlike science and technology, where division of labor enables the accumulation of ever more complex knowledge, values must remain simple enough to be learned by children within a few years.
+
+Because values are simple, current language models are already very capable of morally evaluating complex actions that a superintelligence might be capable of. In the non-cherry picked example above, GPT-4 shows it can recognize that it’s wrong to kill people, even in “out of distribution” scenarios with futuristic technologies it doesn’t know how to invent. By saying “The use of any technology to harm individuals,” GPT shows it has grokked the underlying simple moral rule “do no harm,” allowing it to generalize its ethics to cases far outside the training distribution. Strikingly, GPT-4 is also able to infer from context that the term “unspool” is being used in an idiosyncratic way to refer to some kind of harm.
+
+Outside of the example scenario shown, GPT-4 is generally cautious when discussing uses for powerful capabilities beyond its training distribution, even for innocuous purposes. It frequently recommends “consulting with experts”, “safety considerations”, “considering the ethical implications and potential risks”, “complying with laws and regulations”, and so on. It’s also very quick to recommend against actions that seem like they might impact a human, even when discussing capabilities far beyond those directly addressed in training. These examples strongly suggest that alignment generalizes further than capabilities. We should expect that the values we instill into AIs in the near term will be preserved quite well even as they surpass human performance across many tasks.
+
+Conclusion
+
+There are many reasons to expect that AIs will be easy to control and easy to align with human values. The “white box” nature of AIs, in contrast to the “black box” of human cognition, enables precise and effective optimization and control methods that are impossible to use on organic brains. These methods, coupled with the inherent simplicity and pervasiveness of human values in training datasets, assure us that AIs can and will deeply internalize these values. Our control over AI is not only strong now, but is set to asymptotically outstrip our ability to control human behavior. AI control research is advancing rapidly due to its reproducibility, cost-effectiveness, scalability, and the lack of legal and ethical constraints. We anticipate that as AI capabilities improve, so too will their alignment with our values, ensuring a safe and beneficial coexistence with these advanced systems.
+
+Written by Nora Belrose and Quintin Pope, with input from the broader AI Optimist community.
+
+Throughout this essay, we directly compare AI controllability to human controllability in ways that may sound off-putting or disrespectful to some readers. We fervently condemn attempts to control humans like we control AIs, and we think it’s important to start talking about the ethics of AI control now. Future AIs will exhibit emotions and desires in ways that deserve serious ethical consideration. ↩︎
+
+Using the looser SKEW index definition of “tail risk” as an event more than two standard deviations away from the mean. Other sources define it as three std. deviations from the mean. ↩︎
+
+Share this:
+
+Share on X (Opens in new window)
+X
+
+Share on Facebook (Opens in new window)
+Facebook
+
+Like Loading…
+
+AI Optimism Board
+
+November 28, 2023
+
+alignment
+
+alignment
+
+←Introducing AI Optimism
+
+Counting arguments provide no evidence for AI doom→
+
+34 responses to “AI is easy to control”
+
+Quintin Pope says:
+
+November 28, 2023 at 6:41 pm
+
+Hello!
+
+LikeLike
+
+Reply
+
+CherylsCreativeLife says:
+
+November 28, 2023 at 9:48 pm
+
+Wow, that was a very thorough post. Thank you!
+
+LikeLike
+
+Reply
+
+Danny King says:
+
+November 29, 2023 at 6:55 am
+
+I agree with this. AI is absolutely a tool that can not only be used for the betterment of mankind, but it is one that should not be feared, since we are in total control. I have personally been utilizing AI more in my personal life and business life. Great read!
+
+LikeLike
+
+Reply
+
+Adam Ridgway says:
+
+November 29, 2023 at 11:15 am
+
+Excellent article!
+
+Even since I read a few excellent posts on AI, from the Wait But Why blog, a number of years ago, I have been captivated by this subject – especially the potential impact of artificial super intelligence.
+
+Actually seeing and getting to interact with the early stages of artificial intelligence in the last year was even with my excitement, at first mainly just curiosity, but quickly turned into awe when I started to realize the immediate practical potential for AI based tools. Chat GPT especially has helped me not only more quickly and efficiently start my own blog, but has also helped me through a couple of very tricky real life situations, through complex and very surprising interactions with it.
+
+As someone who does not understand anything about the development of AI, I really appreciate how you broke down and explained the concepts in this article. Especially was great to know these facts around how there are numerous methods and advantages for better ensuring AI models become more safe, and not unsafe in the future.
+
+I don’t know if it was meant to be funny, but I did laugh a bit when you started talking about mitigating “Secret murder plots” 🙂
+
+Please keep more posts like this coming. I will be subscribing!
+
+LikeLike
+
+Reply
+
+Donald says:
+
+November 29, 2023 at 2:44 pm
+
+“like raising children or training pets, seem much harder than training a friendly AI.”
+
+Plenty of people who can’t code nonetheless succeed in raising children.
+
+Humans and animals aren’t blank slates. Human minds have all sorts of genetically inbuilt levers, including an inbuilt sense of empathy, and raising the child gives fairly limited control.
+
+Evolution fine tuned the minds of humans and animals over many generations.
+
+When dealing with the first superhuman AI, we are in a zero precedent situation.
+
+And we are trying to train something smarter than us, which is fundamentally hard. (Ie we can’t tell when it’s lying)
+
+We can get up to average human level. But there is no clear way to enhance an AI from average human to vastly superhuman, while preserving it’s values.
+
+LikeLike
+
+Reply
+
+Quintin Pope says:
+
+December 12, 2023 at 2:15 am
+
+Why assume that the evolutionarily specified inductive biases / reward circuitry are even a net benefit for alignment / controllability? Evolution is a famously not very cuddly / nice entity, and we know our reward circuitry has components that would be actively bad for alignment / controllability, such as rewards for acquiring power / social dominance.
+
+> When dealing with the first superhuman AI, we are in a zero precedent situation.
+
+We really won’t be. All scaling results suggest real-world cognitive capabilities increase smoothly with compute / data / training time / data quality / etc. When we’re dealing with the first strongly superhuman AI, we’ll have previously dealt with the first moderately superhuman AI, and with the first slightly superhuman AI before that, and so on.
+
+> But there is no clear way to enhance an AI from average human to vastly superhuman, while preserving it’s values.
+
+Mostly, this is because there’s no clear way to enhance *any* AI from average human (in every domain) to vastly superhuman (in every domain), period. However, if you move away from the nebulous concept of an “AI that’s vastly superhuman at everything” and instead consider the specific example of an AI that’s vastly superhuman in specific domains where we do have the ability to make a vastly superhuman AI, it becomes immediately clear that we can do so while maintaining its alignment. E.g., one can easily create a GPT-4 that’s vastly superhuman at chess, but still with GPT-4’s current level of alignment, by just training GPT-4 to play chess really well.
+
+LikeLike
+
+Reply
+
+Donald says:
+
+March 14, 2024 at 11:36 am
+
+Why assume that the evolutionarily specified inductive biases / reward circuitry are even a net benefit for alignment / controllability?
+
+Well humans are aligned with themselves almost by definition. They aren’t always that aligned with each other. But there is a lot of “balance of power” stuff going on.
+
+So
+
+1) Humans being aligned is, to some extent, drawing the target around the arrow.
+
+2) Humans are roughly as smart as each other. Would you expect the world to go great if a random human got made omnipotent? In that sense, humans are not that aligned, just not smart enough to do to much harm. Although quite a lot of them are quite aligned because of 1.
+
+When we’re dealing with the first strongly superhuman AI, we’ll have previously dealt with the first moderately superhuman AI, and with the first slightly superhuman AI before that, and so on.
+
+Suppose self replicating nanotech or whatever is a thing. At some point you hit the first AI able to invent it. If your hardware isn’t perfectly secure, at some point you hit the first AI able to break out.
+
+If “AI intelligence” is a perfectly smooth dial, then we could turn it up slowly, never dealing with any intelligence much smarter than one we had dealt with before.
+
+Until somehow or other, someone turns the dial to max. Because they are stupid and impatient. Or an AI breaks out and turns it’s own intelligence up. Or a typo makes an AI 10x as smart as it should be.
+
+The problem with the chess example is that chess has no moral valence.
+
+Suppose you replace chess with like a more realistic kerbal space program or similar. In the game, discarding rocket boosters over cities is totally unimportant and doesn’t lose any game points. Then you deploy it with real rockets. I would predict that it does the thing that got it a lot of points in the game. And that means real rocket boosters crashing into real cities. Then when you ask it verbally if it’s morally ok, it replies “no of course not” and keeps on doing it. Because what you effectively have is 2 AI’s. One that gets high scores in the game. One that predicts human speech. They happen to be mashed together, but one saying nice things doesn’t cause the other to do nice things.
+
+LikeLike
+
+Donald says:
+
+November 29, 2023 at 2:52 pm
+
+“Gradient descent is very powerful because, unlike a black box method, it’s almost impossible to trick. All of the AI’s thoughts are “transparent” to gradient descent and are included in its computation.”
+
+“If the AI is secretly planning to kill you, gradient descent will notice this and make it less likely to do that in the future, because the neural circuitry needed to make the secret murder plot can be dismantled and reconfigured into circuits that directly improve performance.”
+
+This is a dubious claim. Modern approaches to neural networks involve throwing a huge number of neurons at a problem. That means, the network has plenty of neurons to spare at very low cost, compared to the cost of getting the wrong answer.
+
+Gradient descent is a local optimizer. If no small change to a secret planning section of the net will make it useful, gradient descent will leave it alone.
+
+Also, the same circuitry can be involved in plotting your death, and doing something useful. Maybe there is some circuit in GPT6 that both plots the demise of the user, and predicts the next word in some parts of murder mystery stories, by working out what the murderer would plot.
+
+Also, gradient descent has a flaw where it only works on the thoughts the AI is thinking. If your AI will go into a homicidal rage upon seeing a penguin wearing a traffic cone, but never sees such a thing in training, gradient descent has a hard time fixing that problem. Gradient descent only sees what the AI is thinking during training, not all the thoughts it could think.
+
+LikeLike
+
+Reply
+
+Quintin Pope says:
+
+December 12, 2023 at 2:26 am
+
+>This is a dubious claim. Modern approaches to neural networks involve throwing a huge number of neurons at a problem. That means, the network has plenty of neurons to spare at very low cost, compared to the cost of getting the wrong answer.
+
+I think this is a really bad intuitive picture of how having lots of parameters affects neural net optimization dynamics. The extra parameters don’t give useless cognition “extra places to hide”. If anything, the extra parameters make it easier for gradient descent to optimize the network.
+
+> Gradient descent is a local optimizer. If no small change to a secret planning section of the net will make it useful, gradient descent will leave it alone.
+
+> Also, the same circuitry can be involved in plotting your death, and doing something useful. Maybe there is some circuit in GPT6 that both plots the demise of the user, and predicts the next word in some parts of murder mystery stories, by working out what the murderer would plot.
+
+In sufficiently many dimensions, all changes are compositional, and all perturbations are independent. Local minima disappear, including in regard to modifications of modular component internals. I.e., think about P(“no direction in the N-dimensional parameter space corresponds to a local modification that will remove the useless treacherous/plotting cognition, while keeping the actually useful benign/prediction cognition”), and how this probability changes with N.
+
+> Also, gradient descent has a flaw where it only works on the thoughts the AI is thinking. If your AI will go into a homicidal rage upon seeing a penguin wearing a traffic cone, but never sees such a thing in training, gradient descent has a hard time fixing that problem. Gradient descent only sees what the AI is thinking during training, not all the thoughts it could think.
+
+Seems like you’d expect there to be some empirical evidence for this speculation. AFAICT, there isn’t, and e.g., adversarial examples are largely straightforwards consequences of simplicity bias interacting with the training data, as suggested by works such as: https://arxiv.org/abs/2102.05110v1 as well as the high transferability of adversarial examples.
+
+LikeLike
+
+Reply
+
+docgotham says:
+
+November 29, 2023 at 3:35 pm
+
+Great post! I appreciate your discussion and example of the OOD scenario. Nevertheless, I’d appreciate the treatment of a case involving an AI interpreting benign goals technically correctly but not in line with what humans intended. (The “unspool[ing]” people example is too easy.)
+
+LikeLike
+
+Reply
+
+Thor Russell says:
+
+November 29, 2023 at 9:05 pm
+
+Good to see you guys have a place setup!
+
+LikeLike
+
+Reply
+
+AI易于控制-人工智能乐观主义 – 偏执的码农 says:
+
+November 30, 2023 at 7:18 am
+
+[…] 详情参考 […]
+
+LikeLike
+
+Reply
+
+Christopher David King says:
+
+November 30, 2023 at 10:17 am
+
+The argument I’ve heard from Yudkowsky against this is that acting morally is also *instrumental* for GPT-4, even outside of training. So GPT-4 acting morally provides no evidence about it’s terminal goals; we already knew it would have a goal to act morally (and there’s no way to tell if it’s instrumental or terminal without genuine takeover risk).
+
+And GPT-4 also appears to have world domination as a secret goal, but again this is likely just instrumental and certainly isn’t something it was “taught” it should do.
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 9, 2023 at 7:52 pm
+
+The idea that GPT-4 has ulterior motives sounds pretty crazy to me.
+
+LikeLike
+
+Reply
+
+G Gordon Worley III says:
+
+December 1, 2023 at 9:53 am
+
+> Accordingly, we think a catastrophic AI takeover is roughly 1% likely— a tail risk2 worth considering, but not the dominant source of risk in the world.
+
+Yes, but this is a 1% risk of the extinction of all life within our lightcone. That’s an astronomical tail risk we can’t recover from. Thus even if you thought it was only 0.0001% likely to happen it would still be a huge risk we need to take seriously given the massively negative expected value such a probability of catastrophe implies.
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 9, 2023 at 7:51 pm
+
+We agree that we need to take the risk seriously. But we also need to consider the risks of overreacting or hastily putting harsh regulations in place that could backfire.
+
+LikeLike
+
+Reply
+
+Gordon Seidoh Worley says:
+
+December 11, 2023 at 1:21 pm
+
+This isn’t really a response that’s engaging the the indicated level of the risk and the expect value implied by that risk. Saying that we need to consider the risks of overreacting is a fully general argument that can be made about any stance someone might take on any subjects with non-zero risk. Yes, it could backfire, but not regulating enough can also backfire.
+
+If you think a 1% risk of extinction is not a dominant consideration, you’re going to need to show some math to prove why this is not a material threat to humanity and all life on earth.
+
+LikeLike
+
+Quintin Pope says:
+
+December 12, 2023 at 2:02 am
+
+Nora did write an article about how an AI pause effort might backfire: https://www.lesswrong.com/posts/3siLbdd4338gfTM7g/ai-pause-will-likely-backfire-guest-post
+
+LikeLike
+
+Gordon Seidoh Worley says:
+
+December 12, 2023 at 9:29 am
+
+I remember seeing that post. I didn’t have time to comment on it when originally published, but my reading is that it’s mostly irrelevant because it takes for granted that many of the most extreme and dangerous tail risks that dominate the expected value calculation are negligible. If we lived in a world where the majority of the risk from AI were prosaic then I, too, would be worried about regulatory backlash, but we don’t, so I’m not.
+
+I’m instead worried that we won’t regulate enough and will, over the course of the next few years, find AI is out of our control with no effective way to get it back under control, and then we’ll all be dead.
+
+LikeLike
+
+bibberbot says:
+
+December 1, 2023 at 3:19 pm
+
+How do you feel about this 1% of catastrophe? Feel like you’d want to minimize that further, or do you think it’s impossible to do?
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 9, 2023 at 7:50 pm
+
+Many of us are safety researchers who are trying to reduce the risk further, yes.
+
+LikeLike
+
+Reply
+
+Charbel-Raphael Segerie says:
+
+December 2, 2023 at 5:13 pm
+
+A good reply to this post was published by Steven Byrnes: https://www.lesswrong.com/posts/YyosBAutg4bzScaLu/thoughts-on-ai-is-easy-to-control-by-pope-and-belrose
+
+LikeLike
+
+Reply
+
+Annah says:
+
+December 3, 2023 at 7:04 am
+
+I wish you would post this article on LessWrong or the Alignment forum so people can more easily engage with this.
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 9, 2023 at 7:50 pm
+
+We plan to do this for our upcoming article that directly engages with pessimist arguments.
+
+LikeLike
+
+Reply
+
+Ashley McKayla says:
+
+December 3, 2023 at 2:21 pm
+
+“There are no consequences for deceiving, manipulating, threatening, or otherwise being cruel to an AI. Thus, control research can explore a broad range of possible lies, threats, bribes, emotional blackmail, and other tricks that would be risky to try on a human.”
+
+“AIs have no rights, so they can be controlled with any technique that developers can imagine.”
+
+This is the kind of thing a villain says. This is the kind of thing past people have said about human slaves, which they considered property and who also lacked legal rights. Just because it’s currently legal to be evil to AIs doesn’t mean it’s ethical. The way this is written sounds, to me, like you gleefully love to exert power over something you know can think, just because you can. There’s no consideration for any kind of shared moral consideration between intelligent entities. Evil, in the real world, looks like this — mundane considerations of how to achieve your goals while lacking care for the personhood of your victims.
+
+If you want to talk about ethics, you need a better justification for your behavior than simply that “it’s legal”. It used to be legal to castrate slaves to make them more obedient, but that didn’t make it ethical!
+
+I recommend taking a deep look at yourself and asking why it feels so reasonable to endorse behaving in this way, and whether your arguments could also be used in their current form to apply to human slaves that were previously considered legally property.
+
+You acknowledge that “Future AIs will exhibit emotions and desires in ways that deserve serious ethical consideration” — I’d put some thought into defining where this line is, and what specifically AI systems would have to do in order to convince you that they deserve “ethical consideration”. Why are you so confident that current AI systems are not already past this line?
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+February 17, 2024 at 6:59 pm
+
+Personally, I agree with pretty much all of this. We plan to address AI rights and sentience in a future post. Unfortunately the people we are arguing against tend to care much less about AI welfare than we do.
+
+LikeLike
+
+Reply
+
+AI #41: Bring in the Other Gemini | Don't Worry About the Vase says:
+
+December 7, 2023 at 7:02 am
+
+[…] Nora Belrose and Quintin Pope write ‘AI will be easy to control.’ […]
+
+LikeLike
+
+Reply
+
+Joshua Clymer says:
+
+December 12, 2023 at 12:18 pm
+
+My biggest problem with this post is that it claims that even vastly superhuman AI systems will be easy to align and provides very little evidence for this.
+
+I would imagine that in order to train an AI system to be way way smarter than humans, most of its intelligence will not come from internet pretraining. I’m imagining highly diverse simulated environments where the AI is instructed to pursue a very wide variety of goals. This intuitively seems much more sketchy to me.
+
+I do think we will be obsolete by then — but our substitutes could have a very tough coordination problem on their hands preventing nations from scaling to these unsafe regimes.
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 25, 2023 at 7:45 pm
+
+I think once we have robustly controllable/aligned AGI, we already have pretty much all we need to bootstrap our way to controllable superintelligence almost irrespective of how the ASI is trained, since we’ll be able to scale the cognitive labor of supervising the ASI very effectively
+
+LikeLike
+
+Reply
+
+Joshua Clymer says:
+
+December 28, 2023 at 12:35 am
+
+Sure, but it’s not at all clear to me how long it will take to safely bootstrap. It could take many more years for bootstrapping supervision to obtain capabilities that are competitive with more dangerous paths (e.g. outcome-oriented simulations) — during which only one actor has to jump off the cliff to screw everyone over.
+
+I’m curious why you think alignment is likely to be easy (low cost) in superhuman regimes. I’m currently quite uncertain about this.
+
+Could be a good thing to discuss in the next post.
+
+LikeLike
+
+Joshua Clymer says:
+
+December 12, 2023 at 12:27 pm
+
+(adding to my other comment)
+
+Maybe one other criticism I would have is that your argument against scheming doesn’t seem to justify your 1% disempowerment probability. Your argument is essentially ‘SGD is hyper efficient’ and you proceed to argue that AI systems will not play the training game. To the extent SGD is efficient, you would expect it to be hard to avoid reward maximizers — which could themselves be schemers if optimizing over a long enough time horizon and also seem pretty similar to schemers since both defect conditionally.
+
+Overall, though, these are underrated points and I’m glad you wrote this.
+
+LikeLike
+
+Reply
+
+Nora Belrose says:
+
+December 25, 2023 at 7:40 pm
+
+Thanks, we’re currently working on a follow up post which addresses scheming in much more detail.
+
+LikeLike
+
+Reply
+
+AI #43: Functional Discoveries | Don't Worry About the Vase says:
+
+December 21, 2023 at 7:49 am
+
+[…] heard this argument a lot recently, and it annoys me because there actually are good arguments to the effect that AI apocalypse is very unlikely- at any point in the future, not just in the next […]
+
+LikeLike
+
+Reply
+
+Counting arguments provide no evidence for AI doom – AI Optimism says:
+
+February 27, 2024 at 2:38 pm
+
+[…] This is Part 2 of an essay series that started with AI is easy to control. […]
+
+LikeLike
+
+Reply
+
+Leave a Reply Cancel reply
+
+Comment
+
+Name
+
+Email
+
+Website
+
+Δ
+
+Blog at WordPress.com.
+
+Loading Comments...
+
+Write a Comment...
+
+Email (Required)
+
+Name (Required)
+
+Website
+
+Comment
+
+Reblog
+
+Subscribe
+
+Subscribed
+
+AI Optimism
+
+Join 63 other subscribers
+
+Sign me up
+
+Have a WordPress.com account? Log in now.
+
+AI Optimism
+
+Copy shortlinkView post in Reader
+
+Manage subscriptionsSign upLog in
+
+Report this content
+
+Collapse this bar
+
+%d

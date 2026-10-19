@@ -1,0 +1,84 @@
+
+The Origins of Unfairness: Social Categories and Cultural Evolution | Reviews | Notre Dame Philosophical Reviews | University of Notre Dame
+Skip to content
+Skip to navigation
+University of Notre Dame
+University of Notre Dame
+Philosophical Reviews
+About
+Reviews
+For Reviewers
+Subscribe
+About
+Reviews
+For Reviewers
+Subscribe
+Home
+Reviews
+The Origins of Unfairness: Social Categories and Cultural Evolution
+          The Origins of Unfairness: Social Categories and Cultural Evolution
+Cailin O'Connor, 
+The Origins of Unfairness: Social Categories and Cultural Evolution
+, Oxford University Press, 2019, 240pp., $25.00 (hbk), ISBN 9780198789970.
+Reviewed by 
+Ann E. Cudd, University of Pittsburgh
+2019.12.04
+Why is unfairness ubiquitous in human interaction, and especially prominent along the lines of gender, race, and in some societies, caste? In this book, Cailin O'Connor offers explanatory models based in evolutionary game theory to answer this question. She shows that if we model many common interactions as coordination problems, we can see why cultural evolution makes gender and racial distinctions useful ways to choose strategies and divide the outcomes of interactions in ways that favor one group over another. These models are simple yet powerful. They show us how unfair conventions and norms that penalize women and racial or ethnic minorities could have arisen making only minimal assumptions about human psychology or physiology, and why unfairness in human interaction is so hard to eliminate. Yet this must be taken to be only part of the story of even the origin of unfairness, let alone its persistence in all its current manifestations.
+Part I shows how inequality can arise through the process of social coordination. Coordination problems are situations in which there is a common interest for the agents, but it is not simple to coordinate their actions to meet their common interest. O'Connor distinguishes between correlative coordination problems, where the agents need to do the same thing in order to coordinate, and complementary coordination problems, where agents need to follow different strategies in order to achieve their common interest. Both kinds of coordination problems can exhibit both conflicting and common interests, which mean that one party will benefit more than the other from the outcome. An example of the former is commonly modeled by a game where two people want to go to an event together (a Bach concert vs. a Stravinsky concert), but have different preferences regarding which event to attend together. Going together to either concert is better for both than each going to their favorite alone, but if they go to the Bach concert then one is even more satisfied than the other. An example of the latter is often modeled by a game where one has to be the leader and the other the follower in order to get the maximal total payoff, but the leader gets a higher payoff than the follower. But if both are leaders or both are followers, they each get less than when they choose complementary roles.
+If repeated, either type of coordination problem could be solved in ways that lead to equality -- simply alternate the favored parties so that over time everyone wins an equal amount. But if there is an overall benefit to having parties specialize in a particular strategy, then in complementary coordination problems where there is a conflict of interest the inequality will persist and accumulate over repetitions. O'Connor observes that collective human labor exhibits these features: tasks are often more efficiently completed when different parties specialize in and perfect different skills. Furthermore, in such situations a social category such as gender or race is useful for determining which task an individual will pursue. Social categories that clearly and indelibly mark individuals as belonging to one or another category help solve the problem of which strategy to pursue. Skills are typically socially learned, which involves individuals imitating the behavior of similarly marked individuals. This obviates the need to refer to the preferences of individuals, since the strategy and payoff is determined by the individual's social category. Gendered division of labor is a prime example of a solution to a ubiquitous complementary coordination problem (i.e., division of labor), where the strategy of each individual is determined by their gender.
+The appeal to social categories as common cultural solutions to complementary coordination problems explains why gendered division of labor is ubiquitous, but why is the gendered division of labor, to varying degrees across cultures, nearly an inevitable source of inequity between the genders? To answer this question O'Connor brings in additional explanatory observations that reflect the actual facts of human cultural evolution along with a model of replication of coordination problems. She observes that there is a continuum of complementary coordination problems solved by gendered labor division ranging from purely conventional (women weave and men fish, say) to those matched to typical physical gender differences (women care for infants and men hunt large game). O'Connor offers a replicator dynamics model that demonstrates how the specific, purely conventional, equilibrium solution that a society lands on is less likely to emerge and remain in place through multiple iterations than the equilibrium solution in the latter case, which means that such gender-matched solutions will be common across all societies that face similar problems. But she also shows, contrary to evolutionary psychology claims that genders have evolved preferences that fit them into pre-determined roles, even in these latter kinds of societies the solution could be otherwise -- there is no necessary matching of gender to role. Strict gender roles matched to typical physical features that more easily enable complementary strategies will tend to evolve through replication and gender type imitation, but they need not -- in some sense all gendered division of labor is conventional and thus arbitrary. Thus, one could conclude that there is no natural explanation, let alone justification, of gender inequity.
+Its mere conventionality notwithstanding, however, gender roles in most societies provide asymmetric access to power that enables unfairness to persist. In Part II O'Connor shows how power asymmetries affect the division of collective resources when social categories provide conventional solutions to repeated complementary coordination problems. To model power asymmetries, O'Connor introduces the Nash demand game, in which two actors each demand some portion of a resource. If their demands are compatible, they each receive what they demand, and otherwise receive a payoff called the "disagreement point." Power then is modeled by differing disagreement points.
+One thing to note about these games is that they are coordination games with both correlative and complementary equilibria. If both actors follow the same strategy of demanding an equal division of the resource, they receive it. But the other equilibria involve one player demanding a higher amount and the other demanding the correlatively lower amount that exhausts the resource. In such situations, if the disagreement point is equally bad for both, equal division is the equilibrium that the replicator dynamics model points to as the common solution. But with unequal disagreement points, the one with the higher disagreement point can demand a larger share of the resource, and the replicator dynamics shows that will become the stable equilibrium solution in repeated interactions. Thus, inequality is instituted. Unequal disagreement points can model situations where one gender type can restrict access to a necessary resource, such as essential food resources. O'Connor suggests that this is why societies in which food is produced by big game hunting or agriculture that relies on ploughs have developed greater gender inequalities than those more dependent on food supplied by purely conventionally determined gender roles. In addition, gendered violence also creates and enforces unequal disagreement points.
+Unfairness arises along other dimensions than gender and in societies where typical physical differences between genders are unimportant correlates to access to food and other necessities. O'Connor next explores how differential rates at which social categories change their strategies in repeated Nash demand games also result in unequal outcomes for the categories. This is the so-called "Red King/Red Queen" effect, depending on whether the faster evolving or the slower evolving category receives the favored outcome. In this way she is able to explain how the existence of a minority race or ethnicity can generate systematically unfair outcomes.
+Imagine a Nash demand game where the actors can evenly split the resource or one can receive more than the even split by playing an aggressive strategy, although if both play the aggressive strategy, they each get less than the equal split. Suppose that two members of the same social category play the game. With no conventional markers to differentiate them, they are more likely to learn not to risk disagreement and the equal split becomes the stable outcome over time. When there is a minority-majority interaction, if the majority risks playing the aggressive strategy some of the time, the minority type will more quickly learn to play the non-aggressive strategy, and this will result in an unequal split becoming the stable outcome of minority-majority interactions. This is because minorities meet more majorities than they meet each other, and so they quickly learn that the other type are more likely to play aggressive than same type and thus minorities more quickly learn that they must play the less aggressive strategy when they meet the other type.
+Thus, the fact of being a minority interacting with a majority social category itself becomes a cause of inequality. Note that this explanation does not depend on any psychological forces that also are known to generate or reinforce inequality, such as stereotyping or implicit bias. Nor does it invoke violence or conscious discrimination. O'Connor is quick to add that her game theoretic explanation of unfairness is not the entire explanation of oppression and inequality. With these other forces, oppression is further entrenched across interactions in which fairness should be more salient and stable.
+O'Connor introduces one additional explanatory model to show that minority and majority types are likely to form collaborative intellectual networks that more often involve members of their own type, and that when they are mixed tend to give the majority members more credit. Here she constructs a network model of potential collaborators who belong to two social categories, where one is a minority. Suppose that they have to bargain over the payoff to collaboration, or in other words, the amount of credit each of them receives for their joint intellectual product. O'Connor shows that under the conditions where the minority is typically given less credit for the collaboration, as she earlier showed would be the case if the bargains follow the model of the Nash demand game, then each group will tend toward collaborating only with their own kind -- a situation known as "homophily." But the minority is likely to be worse off in this case because there are fewer potential collaborators. There may be other reasons as well, such as if the majority category members have more access to other resources. This causes the minority members to sometimes join collaborations with majority members even though they will get an unfair share of the credit.
+O'Connor is especially interested in how scientific collaborative groups are formed and knowledge is collectively constructed. She notes that diversity is often a synergistic catalyst for discovery and creation. This means that it is socially beneficial to incentivize cross-group collaboration. But in doing so, if the credit is shared unequally as O'Connor's models predict, then we may be setting up the minority members for unfairness. As she writes,
+if discriminatory norms are entrenched between two groups, any initiative to increase interaction between them will also increase the number of discriminatory interactions. Even if we create a situation where the overall payoff outcome is better for both groups, . . . we entrench inequities between the groups by incentivizing interaction. (179)
+The final chapter is devoted to answering the question of what can be done about inequitable conventions of division between types. O'Connor examines whether the preconditions for inequality can be avoided and concludes that we will always find ways to categorize social groups in order to solve coordination problems. She then examines how we can move from inequitable to equitable equilibria. Here she distinguishes conventions from norms, whether the latter take on additional moral or socially obligatory force. Individual and group protest can sometimes create normative force around a new, more equitable convention. But as there are so many entrenched unfair conventions, and the forces push toward inequality for minorities, she concludes that it will require "constant vigilance" to combat those forces. "Those concerned with inequity, then, need to reconceptualize inequity not as a static state but as a part of a continual dynamical process. Not something to be solved, but something to keep solving." (195)
+This book is carefully and clearly argued, and is well-illustrated with graphs that help the reader understand the models presented. I found the argument to be very well executed within the parameters of the explanation it attempts to offer. These are "how possibly" arguments, and therefore depend on the accuracy of the basic framework as models of typical interactions between individuals who belong to clearly marked social categories. My own view is that the models hit the mark and provide a powerful statement about how unfairness between genders and races is likely to arise in a wide variety of actual conditions.
+One might object that it is an inappropriately bloodless way to depict the origins and maintenance of oppression, however. Surely, historical acts of violence, terror, and greed have played critical roles in the oppressive structures we see today in any given society, and we ought to take note of such unjust actions. O'Connor might respond that these forces simply reinforce the explanations she has given, but do not nullify them. But what her game theoretic explanations seem to do is relieve oppressors of responsibility. After all, oppression seems to be inevitable and created simply by the coordination situations we find ourselves in and the fact that there are minority groups and majority groups. How can that be helped -- or blamed? How can we even call that unjust or inequitable rather than simply unequal?
+To object in this way to O'Connor's book would be unfair, given her clearly stated objectives and caveats. What she has provided is a set of models to frame the work of empirical social scientists, historians, ethicists, and social philosophers who can put the flesh on the system and point out the particular points where things could have been otherwise, but individuals from privileged groups chose (and continue to choose) to capitalize on unfair conventions, thereby creating injustice. Furthermore, O'Connor insightfully warns us that when we think we have made moral progress in fighting oppression, there will inevitably be new forms of unfairness to recognize and struggle against.
+Search Reviews
+Keywords
+Author
+Title
+Reviewer
+Search
+Home
+About
+Reviews
+For Reviewers
+Subscribe
+College of Arts and Letters
+Department of Philosophy
+Notre Dame Philosophical Reviews
+Department of Philosophy 
+100 Malloy Hall
+Notre Dame
+, 
+IN
+46556
+USA
+ndpr@nd.edu
+Search
+News
+Events
+Visit
+Mobile App
+Accessibility
+ Facebook
+ X/Twitter
+ Instagram
+ YouTube
+ LinkedIn
+Light/Dark
+ © 2026
+University of Notre Dame
+Home
+About
+Reviews
+For Reviewers
+Subscribe
+Light/Dark
+.
