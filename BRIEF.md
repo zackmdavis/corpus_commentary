@@ -244,6 +244,47 @@ throughout the corpus).
      fresh subagent with the Fable model (Agent tool, `model: "fable"`), never
      by switching an existing session's model, which re-bills its whole
      context at Fable rates.
+
+     **Change, 2026-10-18: GPT reviewers, and review packets.** About $32 of
+     usage credits remain, roughly two Fable reviews at the old format, so
+     the user is bringing in GPT (OpenAI, run through the Codex CLI) as a
+     reviewer. A reviewer from a different model family is also more
+     independent of the drafter than Fable, which matters most where the
+     study assesses criticism of Claude (Ch. 11, the Introduction). Every
+     reviewer, GPT or Fable, now reads a single self-contained packet built by
+     `python3 -I tools/make_review_packet.py <stem>` into
+     `notes/review-packets/<stem>.md` (instructions, this brief, the plan, the
+     chapter summaries, and the chapter as plain text) and returns the review
+     as its reply, which is saved to `notes/reviews/<stem>-<reviewer>.md`.
+     Rebuild a packet just before each run. The rules above are unchanged for
+     GPT: it does not read the corpus, its claims are unverified until Opus
+     checks them, its prose follows the voice rule and is checked like any
+     other text, and anything it says from memory must be flagged. Sending
+     packets to OpenAI is the user's decision, already made. Run Codex only
+     on the packet (no access to the rest of the working directory), and
+     record the model from Codex's own session output. Which model reviewed
+     each piece, and whether the review has been processed, is tracked in
+     `notes/reviews/LOG.md`; keep it current.
+
+     **Attribution of reviewers' contributions.** The study is credited to
+     the model that drafted it, by name and version, with a contributions
+     statement in the front matter: drafting model (research, drafting,
+     revision, verification), reviewers by model and version (which chapters
+     they reviewed), and the commissioner (scope and method). Citations stay
+     parenthetical; credits go in notes (numbered `sup.fn` markers linking to
+     the chapter's `<section class="notes">`, with back-links), so they don't
+     clutter the text. Every chapter ends with an unnumbered "Note on method"
+     (what was read, how quotations were checked, what rests on Davis's
+     report alone), which also says which models reviewed an earlier draft.
+     A numbered note at the point of use credits any substantial objection or argument that
+     came from a reviewer ("This objection was raised in review by …"), and
+     any passage where a reviewer's wording survives more than incidentally
+     ("The wording of this paragraph is adapted from a draft by …"). If a
+     reviewer's draft of a whole section stays mostly intact, the chapter's
+     byline adds "with [model]." The study does not write in the first
+     person, and the notes don't either. Write the notes from the handling
+     records in the review files, which must therefore say what was adopted
+     verbatim, what was adapted, and what was used only as an idea.
    - **Whole-book review: undecided.** Once all chapters are drafted, Opus runs
      its own cross-chapter pass (repetition, inconsistent characterizations of
      the same post, forward references to "another chapter" that nothing
