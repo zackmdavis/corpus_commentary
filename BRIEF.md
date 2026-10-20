@@ -276,15 +276,22 @@ throughout the corpus).
      clutter the text. Every chapter ends with an unnumbered "Note on method"
      (what was read, how quotations were checked, what rests on Davis's
      report alone), which also says which models reviewed an earlier draft.
-     A numbered note at the point of use credits any substantial objection or argument that
-     came from a reviewer ("This objection was raised in review by …"), and
-     any passage where a reviewer's wording survives more than incidentally
-     ("The wording of this paragraph is adapted from a draft by …"). If a
+     Point-by-point credit follows human academic practice, which the user
+     confirmed on 2026-10-19: the Note on method credits the reviewers
+     generally (they reviewed an earlier draft, the chapter was revised in
+     response, some passages adapt their wording), and a numbered note at the
+     point of use is added only where a human scholar would write "I owe this
+     objection to a referee": a substantial objection or argument that
+     changes the chapter's case and that a reader would want attributed. Use
+     judgment and keep these rare. Never write notes about what an earlier,
+     unpublished draft said, and don't credit wording point by point. If a
      reviewer's draft of a whole section stays mostly intact, the chapter's
-     byline adds "with [model]." The study does not write in the first
-     person, and the notes don't either. Write the notes from the handling
-     records in the review files, which must therefore say what was adopted
-     verbatim, what was adapted, and what was used only as an idea.
+     byline adds "with [model]." Otherwise numbered notes are for things that
+     help a reader: from-memory labels, source caveats, a calculation, a
+     discrepancy between sources. The study does not write in the first
+     person, and the notes don't either. The detailed record of which point
+     came from whom, and whether it was adopted verbatim, adapted, or used
+     only as an idea, stays in the handling section of each review file.
    - **Whole-book review: undecided.** Once all chapters are drafted, Opus runs
      its own cross-chapter pass (repetition, inconsistent characterizations of
      the same post, forward references to "another chapter" that nothing

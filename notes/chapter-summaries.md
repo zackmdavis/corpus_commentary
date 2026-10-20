@@ -36,7 +36,7 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Ch. 2 (§2 epistemology; §4 onset recollection; §5 population and adrusi), Ch. 4 (§5 univariate point; §8 psychological strand), Ch. 5 (§2 functional account).
 
-**Notes.** 16 numbered notes (reviewer credits, two factual notes on the imaging reviews and Zucker's DSM role from memory) and a Note on method.
+**Notes.** Six numbered notes (Haskell arithmetic; Luders discrepancy between the imaging reviews; Zucker's DSM role from memory; demand-curve inference labeled as the study's; D-estimate caveat; the motte-and-bailey objection credited to the Opus reviewer) and a Note on method crediting both reviewers generally.
 
 ## Ch. 4 — Where to Draw the Boundaries: The Philosophy of Categorization (`study/04-categorization.html`; draft 2, 2026-10-17, revised after Fable review; ~10,400 words by crude count)
 
