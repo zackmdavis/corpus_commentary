@@ -39,3 +39,6 @@ Session: fbe65f97 (continuation), 18 Oct 2026. All read in full unless noted.
 - Guess I'll Die: Murray-review passage (line ~383) re-read.
 ## Gitweb pins
 UUT b844bcd for facing-reality, causality-of-ethnic, east-coast-trip, guess-ill-die: not yet confirmed (Gitweb down 18 Oct).
+
+## Draft 3 (Opus 5.5, 2026-10-20), processing the Fable review
+Rechecked: Human Diversity review ¶¶ 156–172 (Pinker, Bayes, Nelson, "statistical discrimination", feedback-loop tragedy); Stalin ¶¶ 25–70 and 100–106 (Gettier sentence, bet footnote, "obviously correct position", crypto-sexists conditional); heckler's-veto post (Bostrom quotation); BDI ¶ 361 (Libertarian registration); "Two Political Short Stories" (Jorgensen); If Clarity footnote on the noncentral fallacy; Nisbett et al. 2012 on Dickens & Flynn 2006a and Eyferth; Alexander's 2021 statement ¶ 54; "Nixon on Forbidden Hypotheses" (quotepost of the 1971 tape). Isso thread on the Human Diversity review read in full (13 comments).
