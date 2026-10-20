@@ -21,8 +21,8 @@ carries the current draft and summaries.
 | Ch. 1 | `01-apprentice-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 2 | `02-testimony.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 2 | `02-testimony-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
-| Ch. 3 | `03-two-type-taxonomy.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | **no** |
-| Ch. 3 | `03-two-type-taxonomy-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 3 | `03-two-type-taxonomy.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2, 2026-10-19) |
+| Ch. 3 | `03-two-type-taxonomy-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
 | Ch. 4 | `04-categorization.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 4 | `04-categorization-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 5 | `05-deception.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |

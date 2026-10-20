@@ -355,3 +355,52 @@ Quotations below are copied from the chapter. The main agent should add the `dat
 28. **Nuttbrock et al. 2011.** Verify "two-thirds androphilic" (68.5%), the 73.2% sentence, the 69.0% subgroup figure, and the cohort sentence on p. 252.
 29. **Dreger 2008.** If any 2008 *Archives* commentaries or Conway/James public accounts can be fetched, add one; otherwise trim the Dreger quotation to neutral description.
 30. **Illy transcript (UUT, 15 Jul 2024).** Confirm the "minimum ask" is paraphrased accurately (the chapter paraphrases the first half and quotes the second) and that "plead guilty" is answering a question about tailcalled's disillusionment with proponents' rigor, not something broader.
+
+---
+
+## Handling (main agent, Opus 5.5, 2026-10-19; draft 2 of the chapter)
+
+Processed together with the GPT review (`03-two-type-taxonomy-gpt.md`), which overlaps on most points. Draft 1 is in git at `83ee828`. Checks were run against the sources named below; "verbatim / adapted / idea" records how the reviewer's text entered the chapter, for the credit notes.
+
+**§1 arguments**
+- 1.1 dependence structure — **adopted, wording adapted** (P2 is the base of §1 ¶3; credited in note 1, with GPT).
+- 1.2 (d) overstated — **adopted.** Checked Zucker et al. 2016 (pp. 232–233) and Guillamon et al. 2016: Guillamon says "All we know about the morphology of the brain of nonhomosexual MtFs comes from a single VBM study (Savic & Arver, 2011)"; Zucker rests on Luders 2009 + Savic & Arver 2011 (Guillamon classes Luders 2009 as mixed). Double-counting confirmed in substance. Zucker also reports Berglund 2008 and Gizewski 2009 (female-like functional responses) and Luders 2012 (higher CTh vs control men; Guillamon: orientation unspecified) — the draft's "finds no feminization" contradiction removed. "Intersex" senses distinguished (DSD vs brain-sex), with Guillamon's account of the Swaab-lab postmortem studies as the brain-sex basis. Verdict now "unrefuted rather than established" — **P5 wording adapted** for the last four sentences of the verdict paragraph (note 11).
+- 1.3 Haskell — **adopted.** Re-derived from the post and Spencer's table (#isso-63): trans women 1.41–1.76% of respondents; male-born ≈ 56/3,290 = 1.7%; even if all of Davis's cited 0.58% were trans women, ≤1.2% of natal males. Over-representation stands without a from-memory population figure. **P4's two interpretive sentences adapted** (note 10).
+- 1.4 invariance vs within-group validity — **adopted, P3 wording adapted** (note 3); P3's closing sentence on priors adapted.
+- 1.5 Table VI — **adopted.** Lawrence 2005 reports no age at first AGP arousal for the Table VI groups (searched); SD 9.1; Table VII (partner-based groups) reverses the order (6.4 / 7.9 / 8.0). Davis's own onset no longer used as benchmark. Added Blanchard, Clemmensen & Steiner 1985 (in `research/`): the proponents' own documentation of retrospective distortion toward early "transsexual urges" (Bancroft quotation). Recall symmetry with Ch. 2 now explicit. "harder to test, not easier to believe" cut. Idea (note 6, with GPT).
+- 1.6 Långström cuts both ways — **adopted** (idea; in text, no note: minor).
+- 1.7 demand-curve sign — **adopted.** Checked "Lesser-Known Demand Curves" (read in full): it models transness as continuous and says nothing about which group transitions on the margin, so the cost argument is labeled the study's inference. Nuttbrock/USTS tension added. **P6 wording adapted** (note 12).
+- 1.8 2021 concession overstated — **adopted** (lede and §2 now say the argument was withdrawn and the conclusion kept).
+- 1.9 §8 rests on two texts — **adopted.** Read "Revised Taxonomy" (2017; a one-line joke, not a softening — used as pre-concession baseline), "Janet Mock on Late Transitioners" and the *Autoheterosexual* endorsement (2023; both carry "approximation" qualifiers — evidence the short polemics did track 2022). Social Construction and Murray now placed as pre-concession. ITT log score moved to §8 as evidence on reading opponents.
+- 1.10 smaller points — "nobody informed disputes" replaced; "every sample" narrowed to "the samples examined here"; arithmetic of the Nuttbrock slip explained; 2025 draft no longer called a public concession.
+
+**§2 fairness**
+- 2.1 Mahalanobis — **adopted as idea** (note 13). Found the citation: a parenthesis in "The Social Construction of Reality" (spelled "Mahanalobis"), linking Del Giudice 2012 and Del Giudice's 2013 defense of D; D = 2.71 is in the abstract. Univariate-fallacy priority: "The Univariate Fallacy" (2019) cites no one; "Sexual Dimorphism" (2021) credits Del Giudice's critique of Joel — both stated.
+- 2.1 "Point Man" — **adopted.** Re-read in full: introduced as "Here's my theory."; outcome claim rests on one link to a blog post on passing. Reframed as a failure of accounting in emphasis, not of consistency.
+- 2.1 "How dumb" — **adopted** (note 14). Re-read context: the same essay says of clinicians "they're not—lying" and calls their framework "transparently garbage-tier epistemology". Draft 1's "inference from disagreement to bad faith" was wrong.
+- 2.2 qualifications inside BDI — **adopted** (§6 last ¶, §8 motte-and-bailey ¶, §9).
+- 2.3 motte-and-bailey — **adopted; P7 wording adapted** (note 15). KartoffelElf exchange: now says the reinterpretation was asserted with no more testing than the original doubt. 2025 draft's weight reduced; tailcalled's approving epithets cut.
+
+**§3 critics/literature**
+- Serano's positive model — **adopted** (quoted, Serano 2020, 768). Identity-defense model — **adopted** (Veale, Clarke & Lomax 2010, abstract; Davis's "a stretch" from "You Are Right" quoted).
+- Veale 2014 corollary (dimensional within non-androphiles) — **adopted.**
+- Moser 2010 — **adopted** (read: discussion section; correlation concession and the age/libido argument quoted). Lawrence's construct problem — **adopted** (with Ann's own statement of it from the other side: "only wouldn't because the very definition tries to include being male", verified in the thread).
+- Alexander's response to the 2023 reply — **not done**; not searched this session. Left for the cross-chapter pass.
+- Authorship symmetry (Zucker/Lawrence vs Serano/Veale) — **adapted**: evaluation now by the primary studies (one study), authorship remark reduced to one clause; Zucker's DSM role moved to a from-memory note.
+- Dreger — **adopted** (trimmed; other accounts stated as unread; "incentive structure" sentence cut).
+
+**§4 scholarship**
+- Moser 2010, Veale et al. 2008, Veale et al. 2010, Blanchard et al. 1985 (misreporting) — **adopted** (all in Davis's collection, in `research/`).
+- Stone 1987, Hacking looping, Zhou/Kruijver, Rametti/Kranz primary papers, Heylens, Foreman, Lippa 2001, Lawrence 2013, Hsu et al. 2015, referral-shift papers, ROGD note, taxometrics/invariance textbooks, Berkson, Kendler et al. 2011 — **not adopted in draft 2** (none fetched; the brain-sex history is now cited via Guillamon instead; the psychological-traits gap is stated in the text rather than filled from memory). Candidates for the cross-chapter pass if length allows; Ch. 4 owns Kendler/Hacking.
+
+**§5 drift**
+- Missing core texts — read now: Revised Taxonomy, Janet Mock, *Autoheterosexual*, "Falsifiability" draft (an outline listing the predicted clusters; states no falsifying condition — no change).
+- adrusi — Ch. 2 discusses adrusi's 19 Jul comment and a different Davis reply; Ch. 3 now cross-references Ch. 2 and keeps its own quotation (9 Aug 2023), which Ch. 2 does not use.
+- Ch. 4 handoff — **adopted**: §5 says the conjunction-of-psychological-traits question is unanswered by these sources; closing sentence rewritten to match Ch. 4 §8 as written (verified).
+- Ch. 5 anchor — fixed (#account). Lede "rests on" → "draws on".
+
+**§6 prose** — scorecard reduced (lede now states question plus compact findings; §9 keeps verdicts); listed verdict sentences folded or cut; "honest summary", "most notable", T-shirt quip, "the right moral" removed; machinery sentence replaced; KartoffelElf named.
+
+**§7 proposed prose** — P2, P3, P4 (part), P5 (part), P6, P7, P8 (part): adapted as recorded above. P1: idea only (one phrase, "Julia Serano foremost"). P9: idea only.
+
+**§8 checks** — 1 ✓ (no change); 2 ✓ (no change); 3 not re-checked (lede wording no longer depends on exclusivity); 4 ✓; 5 ✓; 6 ✓ (9% is Lawrence's own abstract figure for "predominantly attracted to men"); 7 ✓ (61 of 113 MF = 54%); 8 ✓; 9 kept as from-memory note; 10 ✓; 11 ✓; 12 ✓; 13 ✓; 14 ✓; 15 not done; 16 not done (Veale 2014 frequency); 17 Moser 2009 figures not re-checked; 2010 critique ✓; 18 ✓; 19 ✓ (log); 20 ✓ (log); 21 ✓; 22 not re-checked; 23 ✓; 24 recruitment details now labeled as Davis's reconstruction; Gitweb pin still unconfirmed; 25 ✓ (Ann) / adrusi per Ch. 2; 26 ✓; 27 per reading log; 28 per reading log; 29 trimmed; 30 not re-checked.
