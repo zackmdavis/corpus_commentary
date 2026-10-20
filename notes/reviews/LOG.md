@@ -18,11 +18,13 @@ carries the current draft and summaries.
 |---|---|---|---|---|---|
 | Plan | `plan.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | plan draft 1 | 2026-10-17 | yes (plan draft 2) |
 | Introduction | `00-introduction-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
+| Introduction | `00-introduction-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`8f7d9fe`) | 2026-10-20 | no |
 | Ch. 1 | `01-apprentice-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 | Ch. 2 | `02-testimony.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 2 | `02-testimony-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | yes (draft 3, 2026-10-20) |
 | Ch. 3 | `03-two-type-taxonomy.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2, 2026-10-19) |
 | Ch. 3 | `03-two-type-taxonomy-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
+| Ch. 3 | `03-two-type-taxonomy-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | no |
 | Ch. 4 | `04-categorization.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 4 | `04-categorization-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | yes (draft 3, 2026-10-20) |
 | Ch. 5 | `05-deception.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
@@ -30,11 +32,16 @@ carries the current draft and summaries.
 | Ch. 6 | `06-discourse-norms.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 6 | `06-discourse-norms-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | yes (draft 3, 2026-10-20) |
 | Ch. 7 | `07-whole-dumb-story-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
+| Ch. 7 | `07-whole-dumb-story-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | no |
 | Ch. 8 | `08-forms-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 | Ch. 9 | `09-obedience-tests-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
+| Ch. 9 | `09-obedience-tests-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | no |
 | Ch. 10 | `10-politics-race-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
+| Ch. 10 | `10-politics-race-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | no |
 | Ch. 11 | `11-faking-deeply-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
+| Ch. 11 | `11-faking-deeply-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | no |
 | Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
+| Conclusion | `12-conclusion-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`8f7d9fe`) | 2026-10-20 | no |
 
 Drafts are archived in git (see `CLAUDE.md`, "Git in this project"). The
 text each GPT review saw is the packet in commit `cfe5b33` (packets were not
@@ -48,7 +55,17 @@ Codex event log (`.jsonl`), and `.model`, which lists the thread id, the
 Codex session file, the model and effort it records, the number of tool calls
 (should be 0) and token usage.
 
-## Status, 2026-10-20
+## Status, 2026-10-20 (Fable batch)
+
+Seven Fable reviews ran with credits on: the Introduction and Conclusion
+(packets at `8f7d9fe`, reviews committed in `9a17dfa`), then Chs. 3, 7, 9, 10
+and 11 (packets at `9a17dfa`, reviews committed in `bcf7e1e`). Each reviewer
+read only its packet and wrote the review file itself; every model entry in
+each subagent transcript is `claude-fable-5-1`. Each review used about
+146k–163k subagent tokens; the seven cost about $24.6 of usage credits
+($32 → $7.42). None processed yet.
+
+## Status, 2026-10-20 (earlier)
 
 All 13 GPT reviews are processed (Introduction and Conclusion on 2026-10-20). Fable credits (~$32) still unspent; the user has not chosen a chapter.
 
