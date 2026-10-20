@@ -128,3 +128,19 @@ The voice is right and the AI habits the brief lists are mostly absent. Remainin
 14. §6, "a reader who set its scope and method": establish and state who the commissioner is, and whether the commissioner is the subject.
 15. §1 and §3: whether "cartographic" is used anywhere in the chapters; if not, drop the sentence introducing it.
 16. §3, "The third makes the exclusion constitutive of a role": "the exclusion" has no antecedent since the draft-1 label was removed.
+
+---
+
+## Handling (Opus 5.5, 2026-10-20; draft 3)
+
+**Checks.** (1) No source gives "fourteen"; the corpus says "ever since puberty" (Stalin recap) and "fourteen years" (2016–17 posts, of the dispute, not the fantasy): replaced with "Since puberty, by his account". (2) Garage: BDI; Singularity Institute 2009: as before. (3) "returned" implied earlier SFSU attendance: now "returned to university at San Francisco State". (4) Confirmed inconsistent; fixed (§1). (5) Pseudonym post: "a mere differential-visibility and market-segmentation pen name": now quoted. (6) Ch. 5: "Maybe Lying Can't Exist?!" (2020) adopts the Skyrmsian framework; the criterion appears in the 2018–19 category and deception posts: order corrected. (7) Marked. (8) Ch. 6: "A late section applies the model to Davis by name": "dedicated" corrected. (9) The Ozy ITT post is Davis's predictions for Ozy's test: no change. (10) "those like them" = others like the counter-melody writer; the complaint is about the community's "threat-response narratives designed to resist hostile scrutiny, to push away those who sing the counter-melody": clarified. (11) Only Davis's 2024 Illy transcript ("he started the Blanchardianism subreddit. And then later, he got disi[llusioned]"): now attributed to Davis's recollection. (12) Narrowed (press accounts unread). (13) 82: "more than eighty". (14) **Rejected**: the commissioner is not named in the Introduction, by a decision recorded in the progress notes; the name goes in the v1 front matter. The commission's post-publication procedure (frozen v1, written reply, point-by-point answer) is now described, as the reviewer proposed, without naming anyone. (15) "cartographic" used nowhere else: dropped. (16) Fixed.
+
+- 1(a): **adopted** (where Davis holds (c) in the strong form named: the role argument and Stalin's "you have chosen Feelings"). 1(b): **adopted** (reviewer's paragraph adapted). 1(c): **adopted**, with Ch. 4's uptake condition. 1(d): **adopted** (Ch. 6's "decision-theoretic extortion attempt" as the meeting point; "different sources" → "different arguments"). 1(e): **adopted**. 1(f): **adopted** (reviewer's wording). 1(g), (h), (i): **adopted** (checks 15, 16, 6, 4).
+- §2: draft marking **adopted**; "undervalued" **adopted** (defined by reception).
+- §3: Sabien **adopted**; Ozy no change; venue caveat **adopted**; Tracing Woodgrains **adopted**; tailcalled **adopted**; press **adopted**; Bailey-as-proponent sentence **not added** (would characterize an unread article's motive).
+- §4: "archived texts" **adopted**; weighting rule **adopted** (reviewer's wording, lightly adapted); third refutation condition **adopted**; excluded post: **rejected** (no reason is given in the study by design; the brief excludes the post entirely).
+- §5: commissioner see check 14; second-paragraph mismatch **adopted** (opening sentence changed); warmth reason **adopted**; documentation asymmetry **adopted**; model named **adopted**.
+- §6 scholarship (Chivers, Rettberg, Hamilton, Malcolm, Zittrain): **not added** (memory only).
+- §7 prose: "some" hedges reduced; cleft sentence and "it is with" **fixed**; "Disclosure is no cure in itself" and "Here that standard…" **folded**; Parts **named**; concrete example in §3 **not added** (length).
+
+Quote check: 19 quotations, 0 problems; URL check clean.
