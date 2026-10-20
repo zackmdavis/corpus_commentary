@@ -25,3 +25,7 @@ Not read for this chapter, though in the plan's core list: "Trying to Buy a Lamp
 - Gitweb pins (b844bcd, 6814824) for the five cited drafts: **not yet confirmed.** The 2026-10-17 attempt got server 504s; Gitweb was slow on 2026-10-18 (scraping bots, per the user). Retry before Phase 4.
 - 2026-10-18 fix: "MacArthur studies of the 1990s" → dating labeled from memory, with the review's count of 74 of 143 sources using the MacArthur instruments.
 - Length: ~6,850 body words against a 6,000 ceiling (~14% over). Flag for cross-chapter pass.
+
+## Draft 3 (Opus 5.5, 2026-10-20), processing the Fable review
+Passages rechecked in the Rocks draft: ¶¶ 100–135 (17 Feb notes; walk to BART; police), ¶ 200–202 (PES note), ¶¶ 214–220 (medication, trazodone, "Serious antipsychotic medication is scary stuff"), ¶ 258 (mother "very cranky"); grep for "insight" (none relevant). Guess I'll Die ¶¶ 330–371 (Taylor thread, Alexander's 2019 claim, three episodes, 22–27 Oct 2021 Discord conversation). Memoirs Part I ¶¶ 18–31 (Glomar policy, "same non-answers", bet conceded, cancelled, $500 to CFAR). College Was Not That Terrible: LLM-hint policy at office hours and in submitted work (¶¶ 39, 70, 117). Alexander's 18 Oct 2021 reply (taylor-2021-miri-cfar) re-read.
+Reception read: Isso threads on "Fresh Princess" (7 comments) and Memoirs Part I (1); LW If Clarity comments by Unreal, rsaarelm, Viliam (31 Dec 2023).
