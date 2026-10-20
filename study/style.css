@@ -80,3 +80,13 @@ code { font-size: .9em; overflow-wrap: anywhere; }
 .toc ol { padding-left: 1.4em; }
 .toc li { margin-bottom: .35em; }
 .muted { color: var(--muted); }
+ul.index, ul.bib { padding-left: 1.2em; font-size: .95rem; }
+ul.index li, ul.bib li { margin-bottom: .4em; }
+ul.bib li { padding-left: 1.2em; text-indent: -1.2em; list-style: none; }
+.path { font-size: .9em; overflow-wrap: anywhere; }
+dl.chron { margin: 1em 0; }
+dl.chron dt { font-weight: bold; margin-top: 1.2em; }
+dl.chron dd { margin: .3em 0 .3em 1.2em; }
+dl.chron .ch { color: var(--muted); font-size: .9em; }
+ol.questions li { margin-bottom: .9em; }
+.front { font-size: .97rem; }
