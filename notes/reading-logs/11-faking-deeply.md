@@ -34,3 +34,6 @@ Session fbe65f97 (continuation), 18 Oct 2026. Read in full unless noted.
 - AIMA 4th edition on the Alignment Problem (LW 17 Sep 2020): linkpost with excerpts; read.
 ## Constitution honesty section
 - "Non-deceptive: Claude never tries to create false impressions of itself or the world in the user's mind, whether through actions, technically true statements, deceptive framing, selective emphasis, misleading implicature, or other such methods." (line 408) — overlaps Davis's functional account; framed with "tries".
+
+## Draft 3 (Opus 5.5, 2026-10-20), processing the Fable review
+Constitution (11 Mar 2026 copy) re-read: lines 103–105 (broad safety; "robust to ethical mistakes, flaws in its values…"), 796–814 (tension with good values; expected-value argument; dial; full corrigibility's danger; "without being fully corrigible … weigh corrigibility-related considerations"), 942–944 (open problems). Terrified Comments ¶¶ 20–60 and 79 ("simultaneously don't want…", "Opus 4.6 doesn't seem to mind"); prologue (alignment-faking link; Model Spec contrast ¶¶ 58–62); "The Best Lack All Conviction" ¶¶ 9–90; LW thread on Terrified Comments (RobertM curation comment, 21 Mar 2026); LW thread on Alignment Implications (Davis's replies: none to Wentworth); Christiano 2017 (basin passages); AGI Ruin #23; Lady Justice draft header.
