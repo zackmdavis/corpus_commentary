@@ -148,3 +148,20 @@ The chapter is readable and mostly free of the listed habits. Specific instances
 18. §6: "broken promises": which instances, and whether the plural is supported.
 19. §6: The plan's entry for this chapter asks that it close on the hidden page's statement of aim "measured against the record"; draft 2 removed the quotation.
 20. Typography in §3: nested quotation marks in the Max H quotation.
+
+---
+
+## Handling (Opus 5.5, 2026-10-20; draft 3)
+
+Processed after the chapter reviews, so the Conclusion was synced to the draft-3 chapters as well as to this review.
+
+**Checks.** (1) Qualified ("known here as Davis quotes it"). (2) Ch. 6 §2 does split the demand (Byrnes defeats the derivation; the explanation and purpose demands survive), but Ch. 6's own conclusion still said "derivable": both fixed (Ch. 6 corrected without a new draft). (3) No Davis post states the stability reply; now marked as the study's reconstruction. (4) Ch. 8: self-review of "The Standard Analogy" (the third dialogue), LW, 21 Jan 2026: correct. Ch. 8's "two years later" was wrong (June 2024 → Jan 2026) and is corrected. (5) Adopted (reviewer's wording adapted). (6) Verified in Ch. 10 (the next footnote, "until I actually come up with the math"). (7) As Davis quotes it (If Clarity), the clarification said "he had meant to criticize only the naïve essentialism of asserting that a word Just Means something…": not an acknowledgment of departure. "Not acknowledged as a departure until" → "not withdrawn until", in the Conclusion and Ch. 7. (8) Ch. 7's own conclusion said "Davis counted the claim and not the warning"; both now say he praised the explanation, objected to the claim, and gave the warning less weight than his theory required. (9) Confirmed: "probabilistic inference, not a certain observation" is in If Clarity (30 Dec 2023), later than the July 2023 replies. Corrected. (10) Wei Dai: "The original Kolmogorov complicity was an instance of lying to protect one's intellectual endeavors": now quoted. (11) Adopted (Ch. 10 draft 3 wording). (12) Narrowed. (13) The "Empirical Claim" comment is dated 2 Jan 2024: the Conclusion's 2024 is right; the plan's 2023 is wrong. (14) The Falsifiability draft is an outline with no falsifier; sentence kept, narrowed to "in the writing read for the study". (15) "Point Man" 8 Mar 2021, YARIWW 1 Feb 2021: five weeks correct; description changed to "his theory of the history of transsexualism". (16) Ch. 6 records a restatement introduced by "That is to say", not a misquotation; "accurately wherever the study could check". (17) Ch. 8: "The fiction also turns repeatedly on a self-deceiver, sometimes recognizably the author": wording now matches. (18) One instance (Ch. 7's "lying about probably not talking"): singular. (19) Hidden-page sentence restored and the measure stated. (20) The HTML uses straight inner quotes inside `<q>`, as elsewhere in the study; left.
+
+- §1 (a)–(d): **adopted**; prose "held up worst" → "fared worst".
+- §2: result stated (via the reconstructed-reply sentence and §2's existing finding); reply attribution **adopted**; Ch. 9 limit **adopted** (reviewer's wording adapted); dialogue self-review verified; footnote paragraph **adopted**; Ch. 1 **adopted** (placed at the paragraph's end); "not X but Y" sentence **removed**; Ch. 7 sentence **split**.
+- §3: disclaimer **adopted** (reviewer's wording adapted); withheld-grounds **adopted**; "earlier installment" **fixed**; Wei Dai **fixed**; Ch. 10 **adopted** (both points), heading word "inference" dropped.
+- §4: **adopted** (12–15). §5: **adopted** (16; stealth reply added). §6: tension **adopted** (measure narrowed to conduct and experience); self-deceiver, promise, threshold clause **adopted**; aim restored; open questions **adopted** (both); title sentence **adopted** (adapted).
+- §7: symmetry clause between §3 and the Ch. 11 paragraph not added (the paragraph now states the parallel by content).
+- §8 prose: the "it counts … attention" sentence left; "Chapter N found" thinning left for the cross-chapter pass.
+
+Quote check: 5 quotations, 0 problems; URL check clean; internal anchors clean.
