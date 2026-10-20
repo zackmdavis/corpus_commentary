@@ -117,3 +117,39 @@ The comments below are in order of importance: substantive gaps first, then fair
 16. **Guillamon 2016.** That the Cantor prediction gloss is the review's, and that Luders 2012 is described there as not specifying orientation (note 1).
 17. **Frigerio 2021 (39 studies) and Mueller 2021 (803 people; 172 untreated trans women).** Figures against the abstracts.
 18. **adrusi exchange, 9 Aug 2023.** "bone fide" as Davis wrote it (sic), and that adrusi describes herself as late-onset without autogynephilic fantasies.
+
+---
+
+## Handling (Opus 5.5, 2026-10-20; draft 3)
+
+Checked against sources before revising. Results of the reviewer's 18 checks first, then each point.
+
+**Checks.** (1) "Falsifiability and What We Expect Not to See" is a four-line outline (two clusters by age of transition, orientation, childhood femininity, AGP); it supplies no falsifier, so §5's sentence stands; the Note on method now says so. (2) Davis's 90% is "of trans women who had female partners before SRS"; Lawrence's heterosexual (87/100) and bisexual (83/89) groups *are* the partner-pattern groups (Table VIII grouping), so 170/189 is the figure Davis cited; 6/15 homosexual is the same grouping; "9 percent predominantly attracted to men" is from the attraction measure (abstract). No change. (3) Veale 2014's 308 includes "the first 184" from the 2008 survey plus 124 more: clause added. (4) "a stretch": the parenthesis only describes the model; no reason given. Kept. (5) Confirmed: isso-395 cites personal experience and the ETLE story. (6) Confirmed: one link (sillyolme "A passing privilege") for "didn't usually work as well"; text exact. (7) Post links one paper on male coalitional psychology; mechanism asserted, not argued. (8) "Choir" (2020): now named. (9) Score line confirmed. (11) Nuttbrock reports age and White ethnicity as independent predictors of TF (multivariate), and "Whites were about twice as likely…": added. (12) Bailey 2022 is the reply to Serano & Veale: read in full and added; Morandini, Hsu & Rudd 2025 (bisexual cis men) not used. (15) The "no one else had any credible alternative" sentence is from the Illy transcript, already cited in the paragraph. (16) Guillamon: "Cantor (2011, 2012…) has recently suggested that Blanchard's predictions have been fulfilled"; gloss re-attributed to Cantor. (10, 13, 14, 17, 18) verified in draft 2's reading log; not rechecked.
+
+- 1.1 onset evidence: **adapted.** Bailey 2022 quotes Lawrence 2013, 148, on cross-dressing preceding identity; added with "as quoted in", collection marked unread, and the retrospection caveat applied to it. Docter, Person & Ovesey not added (memory only).
+- 1.2 Moser's age argument: **adopted** with Lawrence 2007 (abstract and attachment section read), including the testability cost.
+- 1.3 "Social Construction": **adapted.** It needs neither reading of (e) (leaders can come from a minority) but does need the psychological premise of (d); "nowhere argued" → asserted with one link.
+- 1.4 online-population verdict: **adopted.** Lawrence's count reframed as an unrepresentativeness objection; applied to USTS; Davis's named population is divided by recruitment.
+- 1.5: see check 1.
+- 1.6: Bailey 2022 **adopted**; Aitken/de Graaf not mentioned (no record they were sought).
+- 1.7 "every sample": **adopted** in lede and §9.
+- 1.8: **adopted.**
+- 1.9: **adopted.**
+- 2.1 tailcalled's surveys: **adopted**, reworded.
+- 2.2: kept (check 4).
+- 2.3 "left the sentence in the post": **adopted** (clause cut).
+- 2.4 T-shirt charge: **adopted** in §8's baseline paragraph, with the 2024 restatement noted.
+- 2.5 minimum ask: **adopted** ("clearly" vs "plausibly").
+- 2.6 "the essays": **adopted** (BDI named).
+- 2.7: confirmed (check 6).
+- Scholarship: 2026 *Archives* titles **added** as unread (from notes/sources.md; Byrne's first name not recorded, so not given). Person & Ovesey, Blanchard 1989/1992: **not added** (memory only; length).
+- Plan drift: "Choir" cited at point of use; unused core texts named in the Note on method.
+- Refrain: **adopted** (kept in the motte-and-bailey paragraph; "Point Man" and §9 reworded).
+- §7 univariate trim: **not done**; left for the cross-chapter length pass.
+- §5 imaging restructure: **adapted** from the reviewer's text (Cantor's gloss attributed correctly; closing sentence reworded).
+- Dreger paragraph: **adopted** in substance (reviewer's version, lightly adapted); Dreger's quoted conclusions removed.
+- Announcing sentences: **adopted** (both cut).
+- §9 "explains" → "may account for": **adopted.** "men like him" → quoted phrase.
+- Also fixed: a redundant clause after the Långström figure ("which its link does not support").
+
+Quote check: 119 quotations, 0 problems; URL check clean.
