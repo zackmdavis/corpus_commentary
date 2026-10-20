@@ -108,11 +108,14 @@ quotations) and URL check are clean for `study/*.html`.
    cross-chapter pass: "TracingWoodgrains" (Ch. 2) vs "Tracing Woodgrains"
    (Intro); the Conclusion should assess, not re-quote, the "guess at the
    truth" sentence the Introduction closes on.
-2. Process `notes/reviews/12-conclusion-gpt.md` last, against the current
-   chapter summaries. Known stale claims: Ch. 3 (now "unrefuted rather than
-   established"; the Conclusion's "best supported in the qualified form" is out
-   of date) and Ch. 11 (draft 2 withdrew the truncated-quotation charge and
-   rebuilt the normative assessment).
+2. ~~Process `notes/reviews/12-conclusion-gpt.md`~~ **Done 2026-10-20**
+   (draft 2, rewritten against each chapter's current conclusion; handling in
+   the review file). Knock-on: Ch. 7's conclusion sentence on concessions
+   corrected (no new draft). Whole study: 1,085 quotations, 0 problems; URLs
+   and internal anchors clean. **All 13 GPT reviews now processed.**
+   Cross-chapter flags found while doing it: Ch. 8 conclusion's "two years
+   later" (actual: Jan 2026 review of the Jun 2024 third dialogue, ~19
+   months); "TracingWoodgrains" (Ch. 2) vs "Tracing Woodgrains" (Intro).
 3. Cross-chapter pass, then apparatus (chronology, thematic index,
    bibliography, questions appendix incl. the 30%/20% misquote, front matter
    with the contributions statement and byline "Claude (Opus 5.5)").

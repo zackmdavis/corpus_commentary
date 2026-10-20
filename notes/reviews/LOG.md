@@ -34,7 +34,7 @@ carries the current draft and summaries.
 | Ch. 9 | `09-obedience-tests-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
 | Ch. 10 | `10-politics-race-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-19) |
 | Ch. 11 | `11-faking-deeply-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
-| Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 
 Drafts are archived in git (see `CLAUDE.md`, "Git in this project"). The
 text each GPT review saw is the packet in commit `cfe5b33` (packets were not
@@ -47,6 +47,10 @@ GPT runs: `tools/run_codex_review.sh <stem> [model] [effort]` (defaults
 Codex event log (`.jsonl`), and `.model`, which lists the thread id, the
 Codex session file, the model and effort it records, the number of tool calls
 (should be 0) and token usage.
+
+## Status, 2026-10-20
+
+All 13 GPT reviews are processed (Introduction and Conclusion on 2026-10-20). Fable credits (~$32) still unspent; the user has not chosen a chapter.
 
 ## Status, 2026-10-19
 
