@@ -13,7 +13,11 @@ drafts, so commit:
 - after a batch of reviews comes in, before processing them.
 
 Commit to `master` with a plain message saying what changed (e.g. "Ch. 7
-draft 2 after GPT review"). Never push, rewrite history, or force anything;
+draft 2 after GPT review"). Claude is the commit's author: pass
+`--author="Claude Opus 5.5 <noreply@anthropic.com>"`, substituting the model
+actually running the session if it is a different one; the committer stays the
+user's git identity. No Co-Authored-By trailer for Claude, since the author
+line already names it. Never push, rewrite history, or force anything;
 the user pushes. Leave untracked files you didn't create (such as rendered
 `.html` copies of notes) out of commits unless the user asks.
 
