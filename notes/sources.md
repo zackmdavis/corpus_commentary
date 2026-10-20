@@ -216,3 +216,6 @@ New for Ch. 4 (2026-10-17):
 - Anthropic, "Claude's Constitution," Internet Archive copy of 11 March 2026, http://web.archive.org/web/20260311005948id_/https://www.anthropic.com/constitution (fetched 20 Oct 2026 with `--compressed`) → `research/anthropic-constitution-2026-03-11/`. Compared sentence by sentence with the October fetch (`research/anthropic-constitution/`): body text identical; only site navigation differs. CDX listing shows many January–March 2026 captures.
 - Re-read for draft 2: Soares et al. 2015 §1.1 (definition: "must at least tolerate and preferably assist"); Belrose & Pope 2023 ("Values are easy to learn" section).
 
+
+### Phase 3, Introduction draft 2 (20 Oct 2026)
+- No new fetches. Re-read from earlier fetches: Tracing Woodgrains essay in full (`reception_data/web/reddit-theschism-tw-transitions/text.txt`); themotte.org recommendations thread of 30 Nov 2025 (`reception_data/web/themotte-org-388156/text.txt`; ThomasdelVasto comment, timestamp shown only as "10mo ago" at fetch); Anthropic Constitution, Internet Archive copy of 11 Mar 2026 (`research/anthropic-constitution-2026-03-11/text.txt`), passage on training "on documents like this one". Corpus counts re-derived with `wc -w` over the content directories (see Introduction note 1).

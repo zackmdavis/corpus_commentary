@@ -100,10 +100,14 @@ Ch. 4's Nov 2018 tweet provenance has been fixed. The quote check (1,080
 quotations) and URL check are clean for `study/*.html`.
 
 **Next.**
-1. Process `notes/reviews/00-introduction-gpt.md` (Introduction draft 1).
-   Bring the Introduction's thesis into line with the revised chapters (see
-   below), and add a Note on method with a reviewer line. Describe the
-   commission without naming the commissioner (decision above).
+1. ~~Process `notes/reviews/00-introduction-gpt.md`~~ **Done 2026-10-20**
+   (draft 2; handling in the review file; reading log
+   `notes/reading-logs/00-introduction.md`; 16 quotations clean; URLs and
+   anchors clean). Found and fixed: hormone/psychosis chronology; Heads I Win
+   date (23 Sep); 2026 retrospective overstated as "declined openly". For the
+   cross-chapter pass: "TracingWoodgrains" (Ch. 2) vs "Tracing Woodgrains"
+   (Intro); the Conclusion should assess, not re-quote, the "guess at the
+   truth" sentence the Introduction closes on.
 2. Process `notes/reviews/12-conclusion-gpt.md` last, against the current
    chapter summaries. Known stale claims: Ch. 3 (now "unrefuted rather than
    established"; the Conclusion's "best supported in the qualified form" is out
