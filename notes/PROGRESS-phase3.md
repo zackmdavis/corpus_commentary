@@ -79,3 +79,50 @@ Four rules added to BRIEF.md and plan.md: (1) name LW commenters by real name wh
 - 2026-10-18: **Reviewer change.** About $32 of usage credits left (roughly two Fable reviews at the old format: the plan and Ch. 4 Fable reviews used ~110–120k cache-write, 380–660k cache-read and 12–19k output tokens each). User is installing the Codex CLI to bring in GPT as reviewer. Built `tools/make_review_packet.py` → `notes/review-packets/<stem>.md` for all 13 pieces (instructions, BRIEF, plan, summaries, chapter as plain text; ~26–35k words each). Review/model tracking: `notes/reviews/LOG.md`. BRIEF amended ("Change, 2026-10-18"). Next: once Codex is installed, check `codex exec --help`, run one review as a test, confirm the model from Codex's output, then the rest.
 - 2026-10-19: **Ch. 3 draft 2** after the Opus review (draft 1, unprocessed since 10-17) and the GPT review, processed together; handling recorded in both review files; 113 quotations, 0 problems; URLs clean; 16 notes (first use of the notes convention) + Note on method. ~9,600 words body (draft 1 ~7,700): longest chapter; book total ~85k; flag for cross-chapter pass. Open from the reviews: Alexander's response (if any) to the Dec 2023 reply not searched; Veale 2014 AGP frequency not checked; from-memory scholarship not fetched (listed in handling). Next: process the remaining GPT reviews (Chs. 7, 9, 10, 11, 1, 8 first; Intro after the commissioner decision; Conclusion last; Chs. 2, 4, 5, 6 second-round reviews of draft 2).
 
+
+## Decision, 2026-10-20: naming the commissioner
+
+The final published front matter will say who commissioned the study. Until
+then the Introduction describes the commission (scope and method, per the
+brief) without naming anyone, and drafting sessions should not bring the
+question up again. Add the name when the front matter is assembled for v1.
+This note is kept out of the review packets on purpose.
+
+## Current state, 2026-10-20 (resume here)
+
+Supersedes the unchecked checklist items above where they conflict.
+
+**Done.** GPT-6-Astra reviews (via Codex; see `notes/reviews/LOG.md`) are
+processed for Chs. 1–11; each chapter has a new draft, a handling section in
+its review file, a "Draft N changes" block in `notes/chapter-summaries.md`,
+and a commit. Every chapter has a closing Note on method with a reviewer line.
+Ch. 4's Nov 2018 tweet provenance has been fixed. The quote check (1,080
+quotations) and URL check are clean for `study/*.html`.
+
+**Next.**
+1. Process `notes/reviews/00-introduction-gpt.md` (Introduction draft 1).
+   Bring the Introduction's thesis into line with the revised chapters (see
+   below), and add a Note on method with a reviewer line. Describe the
+   commission without naming the commissioner (decision above).
+2. Process `notes/reviews/12-conclusion-gpt.md` last, against the current
+   chapter summaries. Known stale claims: Ch. 3 (now "unrefuted rather than
+   established"; the Conclusion's "best supported in the qualified form" is out
+   of date) and Ch. 11 (draft 2 withdrew the truncated-quotation charge and
+   rebuilt the normative assessment).
+3. Cross-chapter pass, then apparatus (chronology, thematic index,
+   bibliography, questions appendix incl. the 30%/20% misquote, front matter
+   with the contributions statement and byline "Claude (Opus 5.5)").
+4. Confirm Gitweb pins (blob_plain + cmp) before Phase 4.
+
+**Cross-chapter theme from the GPT reviews.** In Chs. 4–6 disclosure now
+works only conditionally: it turns distortion into missing information only
+when it tells listeners the direction and size of the selection and reaches
+them. The coordination argument (part (c)) still fails, with that
+qualification. The Introduction and Conclusion must state it the same way.
+
+**Length** (crude count incl. notes): ~94k total. Ch. 3 10.5k, Ch. 4 11.3k,
+Ch. 7 10.4k, Ch. 6 8.8k, Ch. 2 8.5k, Ch. 5 8.4k. Over the 80k target, under
+the 100k ceiling; trim in the cross-chapter pass.
+
+**Fable credits (~$32).** The user wants to spend them but hasn't chosen a
+chapter. Wait for the user to say which.
