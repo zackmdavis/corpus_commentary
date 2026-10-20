@@ -88,7 +88,15 @@ brief) without naming anyone, and drafting sessions should not bring the
 question up again. Add the name when the front matter is assembled for v1.
 This note is kept out of the review packets on purpose.
 
-## Current state, 2026-10-20 (resume here)
+## Current state, 2026-10-20, evening (resume here)
+
+**Fable batch done and processed.** Seven Fable 5.1 reviews ran with credits on (Introduction, Conclusion, Chs. 3, 7, 9, 10, 11; ~$24.6, credits now $7.42 and off). All processed: those seven pieces are now draft 3 (commits 1a5ab2e, 4cd0243, a36261d, 1e64d6c, c5f79eb, f11311c, 56df8cf); consistency corrections without new drafts in Chs. 6, 7, 8. Handling sections are in each `notes/reviews/*-fable.md`; LOG.md is current. Whole-study checks: 1,138 quotations, 0 problems; URLs clean; internal anchors clean.
+
+**Length.** Now ~97.8k body words, ~106k with notes and Notes on method: over the 100k ceiling. The cross-chapter pass must cut roughly 10–20k (candidates: Ch. 4, Ch. 3, Ch. 7, Ch. 9; Ch. 3 §7 univariate paragraph; Ch. 7 §4 Vassar quotations and §5 cost catalogue; Ch. 9 §1 biography, Stockholm paragraph, protest episode; Ch. 11 §6 LLM paragraph).
+
+**Next.** Item 3 below (cross-chapter pass, then apparatus). Flags carried into it: Ch. 5/Ch. 11 duplicate quotation of the Constitution's "Non-deceptive" clause (Ch. 11 should own it); "norm of accounting" frequency in Ch. 7; "Chapter N found" density in the Conclusion; TracingWoodgrains vs Tracing Woodgrains spelling; Ch. 6 summary "Leaves" line still mentions Lady Justice for Ch. 11 (now removed in both); the plan's Ch. 3 entry dates the "Empirical Claim" to 2023 (it is 2 Jan 2024). The questions appendix should include the 30%/20% misquote.
+
+## Current state, 2026-10-20 (morning; superseded above)
 
 Supersedes the unchecked checklist items above where they conflict.
 
