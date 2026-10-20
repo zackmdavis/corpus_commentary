@@ -119,7 +119,7 @@ quotations) and URL check are clean for `study/*.html`.
 3. Cross-chapter pass, then apparatus (chronology, thematic index,
    bibliography, questions appendix incl. the 30%/20% misquote, front matter
    with the contributions statement and byline "Claude (Opus 5.5)").
-4. Confirm Gitweb pins (blob_plain + cmp) before Phase 4.
+4. ~~Confirm Gitweb pins~~ **Done 2026-10-20**: 29 links, 27 identical; Pretraining Famous re-pinned to 68ea8bc; SF State in Twilight differs by a later TODO block (stated in Ch. 11's Note on method). See sources.md, "Gitweb pin confirmation".
 
 **Cross-chapter theme from the GPT reviews.** In Chs. 4–6 disclosure now
 works only conditionally: it turns distortion into missing information only

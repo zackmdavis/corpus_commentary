@@ -219,3 +219,9 @@ New for Ch. 4 (2026-10-17):
 
 ### Phase 3, Introduction draft 2 (20 Oct 2026)
 - No new fetches. Re-read from earlier fetches: Tracing Woodgrains essay in full (`reception_data/web/reddit-theschism-tw-transitions/text.txt`); themotte.org recommendations thread of 30 Nov 2025 (`reception_data/web/themotte-org-388156/text.txt`; ThomasdelVasto comment, timestamp shown only as "10mo ago" at fetch); Anthropic Constitution, Internet Archive copy of 11 Mar 2026 (`research/anthropic-constitution-2026-03-11/text.txt`), passage on training "on documents like this one". Corpus counts re-derived with `wc -w` over the content directories (see Introduction note 1).
+
+### Gitweb pin confirmation (20 Oct 2026)
+All 29 distinct draft links in `study/*.html` fetched with `a=blob_plain` at their pinned commit and compared byte-for-byte (`cmp`) with the local file: 27 identical (24 UUT at b844bcd, 3 AAL at 6814824). Two AAL drafts differed at 6814824:
+- `pretraining-famous.md`: local matches commit 68ea8bc09edf13b5c73425d2d8e913ae6072962e (2026-10-03); 6814824 added a LessWrong link. Re-pinned to 68ea8bc (Introduction).
+- `san-francisco-state-in-twilight.md`: local matches no public commit (history: 68ea8bc 2026-10-03, 6814824 10-16, b21b078 10-18, e5a3f00 10-19). Local = 6814824 minus a TODO block of claude.ai/chatgpt.com conversation links and test scores. The passage Ch. 11 quotes ("luxury consumption during garbage time") is identical. Pin kept at 6814824; the difference is stated in Ch. 11's Note on method.
+Notes on method in Intro and Chs. 3, 7, 8, 9, 10, 11 updated from "not yet confirmed" to confirmed.
