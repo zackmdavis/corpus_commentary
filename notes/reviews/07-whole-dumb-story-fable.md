@@ -145,4 +145,4 @@ The packet asked about journalism and histories of the community, writing on aut
 - §10: ordinals fixed; Social Strategy Notes reconciled; jargon: "cheerful price" glossed, "quokka" glossed from Davis's 2020 fable (read in full), Isso glossed elsewhere in the book; hedging sentence **adopted**; two short verdict sentences **folded**; "norm of accounting" frequency left for the cross-chapter pass; Kolmogorov: see check 11; length trim of §4/§5 left for the length pass.
 - §11 overlap: the 2020 clarification quotation kept (this is where it matters); Max H/Wei Dai cite-back to be handled in the Conclusion.
 
-Quote check: 172 quotations, 0 problems; URL check clean.
+Quote check: 171 quotations, 0 problems; URL check clean.
