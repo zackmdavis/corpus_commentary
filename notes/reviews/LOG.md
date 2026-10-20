@@ -18,7 +18,7 @@ carries the current draft and summaries.
 |---|---|---|---|---|---|
 | Plan | `plan.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | plan draft 1 | 2026-10-17 | yes (plan draft 2) |
 | Introduction | `00-introduction-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
-| Ch. 1 | `01-apprentice-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 1 | `01-apprentice-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 | Ch. 2 | `02-testimony.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
 | Ch. 2 | `02-testimony-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 3 | `03-two-type-taxonomy.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2, 2026-10-19) |
