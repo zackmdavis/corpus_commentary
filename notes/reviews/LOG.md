@@ -14,28 +14,45 @@ read are built by `python3 -I tools/make_review_packet.py [stem ...]` into
 `notes/review-packets/<stem>.md`; rebuild before each run so the packet
 carries the current draft and summaries.
 
-| Piece | Review file | Model (verified how) | Draft reviewed | Date | Processed |
+| Piece | Review file | Model (verified how) | Draft reviewed (commit) | Date | Processed |
 |---|---|---|---|---|---|
 | Plan | `plan.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | plan draft 1 | 2026-10-17 | yes (plan draft 2) |
-| Introduction | — | — | — | — | — |
-| Ch. 1 | — | — | — | — | — |
+| Introduction | `00-introduction-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 1 | `01-apprentice-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 2 | `02-testimony.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
+| Ch. 2 | `02-testimony-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 3 | `03-two-type-taxonomy.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | **no** |
+| Ch. 3 | `03-two-type-taxonomy-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 4 | `04-categorization.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 1 | 2026-10-17 | yes (draft 2) |
+| Ch. 4 | `04-categorization-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 5 | `05-deception.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
+| Ch. 5 | `05-deception-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
 | Ch. 6 | `06-discourse-norms.md` | Opus 5.5, silent fallback from a Fable request (transcript `claude-opus-5-5`) | draft 1 | 2026-10-17 | yes (draft 2) |
-| Ch. 7 | — | — | — | — | — |
-| Ch. 8 | — | — | — | — | — |
-| Ch. 9 | — | — | — | — | — |
-| Ch. 10 | — | — | — | — | — |
-| Ch. 11 | — | — | — | — | — |
-| Conclusion | — | — | — | — | — |
+| Ch. 6 | `06-discourse-norms-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 2 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 7 | `07-whole-dumb-story-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 8 | `08-forms-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 9 | `09-obedience-tests-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 10 | `10-politics-race-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Ch. 11 | `11-faking-deeply-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
+| Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | no |
 
-## Plan as of 2026-10-18
+Drafts are archived in git (see `CLAUDE.md`, "Git in this project"). The
+text each GPT review saw is the packet in commit `cfe5b33` (packets were not
+changed by the 2026-10-19 runs). Draft 1 of Chs. 2, 4, 5 and 6, which their
+first reviews read, predates the first commit and was not kept; the review
+files quote the passages they criticize.
 
-Usage credits left: about $32, roughly two Fable reviews at the old format. The
-user is installing the Codex CLI so GPT can review. Proposed (awaiting the
-user's go-ahead on the split): GPT reviews every piece above, including those
-already reviewed (a reviewer from a different model family); Fable, if used,
-spends the remaining credits on one chapter (probably Ch. 7), from the same
-packet.
+GPT runs: `tools/run_codex_review.sh <stem> [model] [effort]` (defaults
+`gpt-6-astra`, `high`). Per-run records are in `notes/reviews/runs/`: the
+Codex event log (`.jsonl`), and `.model`, which lists the thread id, the
+Codex session file, the model and effort it records, the number of tool calls
+(should be 0) and token usage.
+
+## Status, 2026-10-19
+
+GPT (`gpt-6-astra`, high) has reviewed every piece: the Introduction, Chs. 1–11
+and the Conclusion. The GPT reviews of Chs. 2, 4, 5 and 6 are of draft 2
+(already revised from their first reviews); the rest are of draft 1. The
+13 runs used an estimated 80% of one Codex 5-hour window (49% after the first 8, per the Codex app). Next: process the reviews
+(Ch. 3's two together). Undecided: whether to spend the ~$32 of usage
+credits on a Fable review (recommended: Ch. 11).
