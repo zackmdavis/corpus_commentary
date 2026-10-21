@@ -97,7 +97,7 @@ This note is kept out of the review packets on purpose.
 
 **Open.**
 1. User to read `notes/cuts-v1.md`: restore any passages, and decide whether to cut further from the "Considered and not cut" list.
-2. **Whole-book review: GPT via Codex** (the user's decision; the brief now says so). `tools/make_review_packet.py` builds per-chapter packets only, so it needs a whole-book mode (instructions, brief, plan, summaries, all chapters and apparatus as plain text); rebuild the packet just before the run, after the user has settled `cuts-v1.md`. Record the model from Codex's output; save the reply as `notes/reviews/whole-book-gpt.md`; update LOG.md.
+2. **Whole-book review: GPT via Codex** (the user's decision; the brief now says so). Packet: `python3 -I tools/make_review_packet.py whole-book` → `notes/review-packets/whole-book.md` (built 2026-10-20: ~121k words, ~770 KB, very roughly 190k tokens; instructions, brief, plan, cuts-v1.md, front matter, all 13 pieces with their works cited, chronology and questions appendix; chapter summaries, thematic index and bibliography left out as redundant with the chapters). Rebuild just before the run, after the user has settled `cuts-v1.md`; run with `tools/run_codex_review.sh whole-book` once the model's context is confirmed to fit it. Record the model from Codex's output; save the reply as `notes/reviews/whole-book-gpt.md`; update LOG.md.
 3. Items 1–3 and 5 of the late-evening list below still stand (commissioner's name; citation styles; draft header dates; then Phase 4). Item 4 is superseded by 2.
 
 ## Current state, 2026-10-20, late evening (superseded above)

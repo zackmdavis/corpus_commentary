@@ -3,6 +3,11 @@
 
 Usage: python3 -I tools/make_review_packet.py [STEM ...]
        (no arguments: build packets for every chapter in study/)
+       python3 -I tools/make_review_packet.py whole-book
+       (one packet for a review of the whole study: instructions, BRIEF.md,
+       notes/plan.md, notes/cuts-v1.md, and the front matter, every chapter and
+       the hand-written apparatus as plain text; written to
+       notes/review-packets/whole-book.md)
 
 Writes notes/review-packets/<stem>.md: reviewer instructions, BRIEF.md,
 notes/plan.md, notes/chapter-summaries.md, and the chapter as plain Markdown
@@ -118,6 +123,10 @@ class ToMarkdown(HTMLParser):
             self.nl(1); self.out.append('  ' * (len(self.list) - 1) + '- ')
         elif tag == 'br':
             self.nl(1)
+        elif tag == 'dt':
+            self.nl(); self.out.append('**')
+        elif tag == 'dd':
+            self.nl(1); self.out.append('- ')
         elif tag in ('i', 'em', 'cite'):
             self.out.append('*')
         elif tag == 'q':
@@ -131,6 +140,8 @@ class ToMarkdown(HTMLParser):
             self.quote = max(0, self.quote - 1); self.nl()
         elif tag in ('ul', 'ol'):
             self.list and self.list.pop(); self.nl()
+        elif tag == 'dt':
+            self.out.append('**')
         elif tag in ('i', 'em', 'cite'):
             self.out.append('*')
         elif tag == 'q':
@@ -174,7 +185,111 @@ def build(stem):
     words = sum(len(p.split()) for p in parts)
     print(f'{os.path.relpath(dest, ROOT)}: {words} words')
 
+WHOLE_BOOK = 'whole-book'
+
+# Pieces in reading order. The thematic index and the bibliography are
+# generated from the chapters' own links (tools/build_apparatus.py), so they
+# are left out; the hand-written apparatus is included.
+BOOK = ['index'] + sorted(FOCUS) + ['a-chronology', 'd-questions']
+
+WHOLE_INSTRUCTIONS = """\
+# Review packet: the whole study
+
+You are reviewing a complete book-length scholarly study, written by Claude
+(an Anthropic model), of the blogging of Zack M. Davis: the blogs *An
+Algorithmic Lucidity* and *The Scintillating But Ultimately Untrue Thought*,
+his LessWrong posts, and his public drafts. Each chapter has already had at
+least one review of its own, and the drafting model has made a cross-chapter
+pass and a length pass. Your job is the review no single-chapter reader could
+do: of the book as a whole.
+
+Everything you need is in this file, in this order: these instructions; the
+study's standing brief (BRIEF.md); the thesis and chapter plan
+(notes/plan.md); the record of the length pass just completed
+(notes/cuts-v1.md); and the whole study as plain text with links and markup
+removed: the front matter, the Introduction, Chapters 1–11, the Conclusion,
+the chronology and the questions appendix. (The generated thematic index and
+bibliography are omitted; each chapter's own works cited is included.)
+
+Do not read any other files and do not browse the web. You do not have the
+corpus. Whatever you say about what a post, comment or paper contains is
+unverified until the main agent checks it against the source, so where you
+question how something is characterized, name the post (or commenter and
+thread) and the chapter and section where the study discusses it. The
+brief's rules on voice and citation apply to any prose you write.
+
+Cover, with specifics (quote the sentence you are criticizing and give
+chapter and section):
+- the thesis: whether the Introduction's four claims are the ones the
+  chapters deliver, whether the Conclusion states what the chapters showed,
+  and where any of the three overstates or understates the others;
+- consistency: the same post, person, event or argument characterized
+  differently in different chapters; verdicts that conflict; terms (the
+  criterion, the norm of accounting, the coordination argument and its three
+  forms, disclosure and its conditions) used in different senses;
+- even-handedness across the book: whether the same evidential standard is
+  applied to Davis, to Yudkowsky, Alexander and his other interlocutors, to
+  institutions, and to Anthropic and Claude (the study is written by Claude,
+  and Chapter 11 assesses Davis's criticism of Claude's constitution); places
+  where Davis is treated unfairly, including concessions acknowledged in one
+  chapter and ignored in another, and places where the book is too soft on
+  him;
+- repetition and cross-references: material said twice, references to
+  another chapter that the other chapter does not fulfil, and things one
+  chapter leaves to another that nothing picks up;
+- missing objections and relevant scholarship that the book as a whole
+  leaves out (not chapter-level gaps already likely to have been raised).
+  Mark every claim you make from memory with [memory]; the main agent will
+  fetch and check anything before using it;
+- length. The book is about 96,000 words against a target of roughly 80,000
+  and a ceiling of 100,000. notes/cuts-v1.md lists the cuts made and the
+  passages considered and kept, with reasons. Say which further cuts you
+  would make (chapter, section, approximate words, what is lost), whether any
+  listed cut should be reversed, and whether any "considered and not cut"
+  reason fails to hold up;
+- structure and prose: the order of parts and chapters, chapters that do
+  not earn their length, and prose habits that recur across the book or read
+  as AI-generated (the brief lists the habits to look for).
+
+You may also write prose: revised passages or replacement paragraphs, in
+clearly labeled blocks ("Proposed replacement for Ch. N §M, paragraph
+beginning '…'"), each with a sentence on the problem it addresses. Write in
+the study's voice: plain, exact scholarly prose; Davis is "Davis" (he/him).
+Do not invent quotations from Davis or anyone else; where proposed prose
+needs one, write [QUOTE NEEDED: what it should show]. If prose of yours is
+adopted, the study will credit it to your model by name (see "Attribution of
+reviewers' contributions" in the brief), so write it to the study's
+publication standard.
+
+Put the most important problems first. End with a numbered list, "Checks for
+the main agent": factual claims or characterizations you suspect are wrong,
+overstated or inconsistent, each with chapter, section, and the post or
+thread to check.
+
+Be candid and specific; a useful review is a critical one. Aim for roughly
+4,000–7,000 words. Your reply is the review, in Markdown, starting with a
+level-1 heading. It will be saved as the review file. Do not state which
+model you are; the main agent records that from the run.
+"""
+
+def build_whole_book():
+    parts = [
+        WHOLE_INSTRUCTIONS,
+        '\n---\n\n# BRIEF.md\n\n' + read('BRIEF.md'),
+        '\n---\n\n# notes/plan.md\n\n' + read('notes/plan.md'),
+        '\n---\n\n# notes/cuts-v1.md\n\n' + read('notes/cuts-v1.md'),
+    ]
+    for stem in BOOK:
+        path = os.path.join(ROOT, 'study', stem + '.html')
+        parts.append('\n---\n\n# study/' + stem + '.html (plain text)\n\n' + chapter_text(path))
+    os.makedirs(OUT, exist_ok=True)
+    dest = os.path.join(OUT, WHOLE_BOOK + '.md')
+    with open(dest, 'w', encoding='utf-8') as f:
+        f.write(''.join(parts))
+    words = sum(len(p.split()) for p in parts)
+    print(f'{os.path.relpath(dest, ROOT)}: {words} words')
+
 stems = sys.argv[1:] or sorted(s for s in FOCUS
                                if os.path.exists(os.path.join(ROOT, 'study', s + '.html')))
 for s in stems:
-    build(s)
+    build_whole_book() if s == WHOLE_BOOK else build(s)
