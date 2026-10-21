@@ -292,12 +292,15 @@ throughout the corpus).
      person, and the notes don't either. The detailed record of which point
      came from whom, and whether it was adopted verbatim, adapted, or used
      only as an idea, stays in the handling section of each review file.
-   - **Whole-book review: undecided.** Once all chapters are drafted, Opus runs
-     its own cross-chapter pass (repetition, inconsistent characterizations of
-     the same post, forward references to "another chapter" that nothing
-     fulfills, thesis drift). Whether Fable then reads the whole assembled
-     draft is the user's call, to be made after seeing how useful the
-     per-chapter reviews were; ask before spending on it.
+   - **Whole-book review: GPT via Codex (decided by the user, 2026-10-20).**
+     Once all chapters are drafted, Opus runs its own cross-chapter pass
+     (repetition, inconsistent characterizations of the same post, forward
+     references to "another chapter" that nothing fulfills, thesis drift), then
+     a length pass, and then a GPT reviewer reads the whole assembled draft
+     through Codex, under the same rules as the per-chapter GPT reviews
+     (packet only, no corpus access, claims unverified until Opus checks them,
+     model recorded from Codex's output, handling recorded in the review file
+     and LOG.md).
 4. **Verification.** Scripted quote check against source files; link check;
    fix and re-run until clean.
 5. **Author's reply and second edition.** The commissioner and the subject

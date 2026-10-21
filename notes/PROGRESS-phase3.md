@@ -34,7 +34,8 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
   - [ ] Process all reviews (credits off): check claims against sources, revise, record handling in each review file
 - [x] Apparatus: chronology, thematic index of posts, bibliography, index page (2026-10-20)
 - [x] Opus cross-chapter pass (2026-10-20)
-- [ ] ASK USER whether to run a whole-book Fable review
+- [x] Opus length pass (2026-10-20; `notes/cuts-v1.md`)
+- [ ] Whole-book review by GPT via Codex (decided by the user; packet builder needs a whole-book mode)
 - (Phase 4 verification follows)
 
 ## Session log
@@ -96,7 +97,8 @@ This note is kept out of the review packets on purpose.
 
 **Open.**
 1. User to read `notes/cuts-v1.md`: restore any passages, and decide whether to cut further from the "Considered and not cut" list.
-2. Items 1–5 of the late-evening list below still stand (commissioner's name; citation styles; draft header dates; ASK about the whole-book review; then Phase 4).
+2. **Whole-book review: GPT via Codex** (the user's decision; the brief now says so). `tools/make_review_packet.py` builds per-chapter packets only, so it needs a whole-book mode (instructions, brief, plan, summaries, all chapters and apparatus as plain text); rebuild the packet just before the run, after the user has settled `cuts-v1.md`. Record the model from Codex's output; save the reply as `notes/reviews/whole-book-gpt.md`; update LOG.md.
+3. Items 1–3 and 5 of the late-evening list below still stand (commissioner's name; citation styles; draft header dates; then Phase 4). Item 4 is superseded by 2.
 
 ## Current state, 2026-10-20, late evening (superseded above)
 
