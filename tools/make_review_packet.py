@@ -5,8 +5,8 @@ Usage: python3 -I tools/make_review_packet.py [STEM ...]
        (no arguments: build packets for every chapter in study/)
        python3 -I tools/make_review_packet.py whole-book
        (one packet for a review of the whole study: instructions, BRIEF.md,
-       notes/plan.md, notes/cuts-v1.md, and the front matter, every chapter and
-       the hand-written apparatus as plain text; written to
+       notes/plan.md, and the front matter, every chapter (without its works
+       cited) and the hand-written apparatus as plain text; written to
        notes/review-packets/whole-book.md)
 
 Writes notes/review-packets/<stem>.md: reviewer instructions, BRIEF.md,
@@ -150,9 +150,11 @@ class ToMarkdown(HTMLParser):
         if not self.skip:
             self.out.append(re.sub(r'\s+', ' ', data))
 
-def chapter_text(path):
+def chapter_text(path, drop_works=False):
     p = ToMarkdown()
     src = open(path, encoding='utf-8').read()
+    if drop_works:
+        src = re.sub(r'<section class="works[^"]*"[^>]*>.*?</section>', '', src, flags=re.S)
     src = re.sub(r'<span class="chapno">([^<]*)</span>', r'\1: ', src)
     p.feed(src)
     text = ''.join(p.out)
@@ -205,11 +207,10 @@ do: of the book as a whole.
 
 Everything you need is in this file, in this order: these instructions; the
 study's standing brief (BRIEF.md); the thesis and chapter plan
-(notes/plan.md); the record of the length pass just completed
-(notes/cuts-v1.md); and the whole study as plain text with links and markup
+(notes/plan.md); and the whole study as plain text with links and markup
 removed: the front matter, the Introduction, Chapters 1–11, the Conclusion,
 the chronology and the questions appendix. (The generated thematic index and
-bibliography are omitted; each chapter's own works cited is included.)
+bibliography, and each chapter's works cited, are omitted.)
 
 Do not read any other files and do not browse the web. You do not have the
 corpus. Whatever you say about what a post, comment or paper contains is
@@ -242,11 +243,10 @@ chapter and section):
   Mark every claim you make from memory with [memory]; the main agent will
   fetch and check anything before using it;
 - length. The book is about 96,000 words against a target of roughly 80,000
-  and a ceiling of 100,000. notes/cuts-v1.md lists the cuts made and the
-  passages considered and kept, with reasons. Say which further cuts you
-  would make (chapter, section, approximate words, what is lost), whether any
-  listed cut should be reversed, and whether any "considered and not cut"
-  reason fails to hold up;
+  and a ceiling of 100,000, after a length pass that cut what could go
+  without losing an argument step, a concession to Davis, or an objection a
+  review had added. Say which further cuts you would make (chapter, section,
+  approximate words, what is lost);
 - structure and prose: the order of parts and chapters, chapters that do
   not earn their length, and prose habits that recur across the book or read
   as AI-generated (the brief lists the habits to look for).
@@ -277,11 +277,11 @@ def build_whole_book():
         WHOLE_INSTRUCTIONS,
         '\n---\n\n# BRIEF.md\n\n' + read('BRIEF.md'),
         '\n---\n\n# notes/plan.md\n\n' + read('notes/plan.md'),
-        '\n---\n\n# notes/cuts-v1.md\n\n' + read('notes/cuts-v1.md'),
     ]
     for stem in BOOK:
         path = os.path.join(ROOT, 'study', stem + '.html')
-        parts.append('\n---\n\n# study/' + stem + '.html (plain text)\n\n' + chapter_text(path))
+        parts.append('\n---\n\n# study/' + stem + '.html (plain text)\n\n'
+                     + chapter_text(path, drop_works=True))
     os.makedirs(OUT, exist_ok=True)
     dest = os.path.join(OUT, WHOLE_BOOK + '.md')
     with open(dest, 'w', encoding='utf-8') as f:

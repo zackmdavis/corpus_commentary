@@ -10,11 +10,10 @@ do: of the book as a whole.
 
 Everything you need is in this file, in this order: these instructions; the
 study's standing brief (BRIEF.md); the thesis and chapter plan
-(notes/plan.md); the record of the length pass just completed
-(notes/cuts-v1.md); and the whole study as plain text with links and markup
+(notes/plan.md); and the whole study as plain text with links and markup
 removed: the front matter, the Introduction, Chapters 1–11, the Conclusion,
 the chronology and the questions appendix. (The generated thematic index and
-bibliography are omitted; each chapter's own works cited is included.)
+bibliography, and each chapter's works cited, are omitted.)
 
 Do not read any other files and do not browse the web. You do not have the
 corpus. Whatever you say about what a post, comment or paper contains is
@@ -47,11 +46,10 @@ chapter and section):
   Mark every claim you make from memory with [memory]; the main agent will
   fetch and check anything before using it;
 - length. The book is about 96,000 words against a target of roughly 80,000
-  and a ceiling of 100,000. notes/cuts-v1.md lists the cuts made and the
-  passages considered and kept, with reasons. Say which further cuts you
-  would make (chapter, section, approximate words, what is lost), whether any
-  listed cut should be reversed, and whether any "considered and not cut"
-  reason fails to hold up;
+  and a ceiling of 100,000, after a length pass that cut what could go
+  without losing an argument step, a concession to Davis, or an objection a
+  review had added. Say which further cuts you would make (chapter, section,
+  approximate words, what is lost);
 - structure and prose: the order of parts and chapters, chapters that do
   not earn their length, and prose habits that recur across the book or read
   as AI-generated (the brief lists the habits to look for).
@@ -628,113 +626,6 @@ Draft 1 (2026-10-17) stated the thesis as a gap between a "norm of accounting" a
 
 ---
 
-# notes/cuts-v1.md
-
-# Cuts in the v1 length pass (2026-10-20)
-
-Length pass on `study/` before the whole-book review (session c653f79f, Opus 5.5). Every cut is listed below with its chapter, section, approximate size, and what a reader loses. Any passage can be restored from commit 38fc8f4, the state before this pass.
-
-**Measure.** Body + numbered notes + Note on method, excluding works cited: each chapter's `<section class="works…">` is stripped, the rest converted with `tools/html_to_text.py`, then `wc -w`. This gives 98,143 for the state at 38fc8f4. PROGRESS-phase3 recorded 97.9k by what was meant to be the same method, so the old figure was probably taken slightly differently. The figures below are internally consistent.
-
-**Result: 98,143 → 95,687 words (−2,456).** That is well short of the 8–10k asked for. Most of what remains in each chapter is either a step the chapter's conclusion depends on, a concession to Davis or one of his strongest points, or an objection the review handling sections record as adopted, and the brief put those out of bounds. The section "Considered and not cut" lists what could still go and what each would cost, for the user to choose from.
-
-| Chapter | Before | After | Change |
-|---|---:|---:|---:|
-| Introduction | 5,485 | 5,383 | −102 |
-| 1 | 5,421 | 5,147 | −274 |
-| 2 | 8,278 | 8,037 | −241 |
-| 3 | 10,375 | 10,039 | −336 |
-| 4 | 10,989 | 10,795 | −194 |
-| 5 | 8,236 | 8,019 | −217 |
-| 6 | 8,586 | 8,486 | −100 |
-| 7 | 10,793 | 10,344 | −449 |
-| 8 | 4,372 | 4,243 | −129 |
-| 9 | 7,847 | 7,637 | −210 |
-| 10 | 7,086 | 6,946 | −140 |
-| 11 | 6,686 | 6,622 | −64 |
-| Conclusion | 3,989 | 3,989 | 0 |
-| **Total** | **98,143** | **95,687** | **−2,456** |
-
-Word figures in the table of cuts are approximate (counted from the removed HTML text, so a few words of markup or citation are included).
-
-## Cuts
-
-| Chapter | Section | ~Words | What was cut | What the reader loses |
-|---|---|---:|---|---|
-| Intro | §1 | 95 | the second teaching example, "Bayesian Networks Aren't Necessarily Causal" (2023), and its link to Davis's 2021 concession in sexology; the conjugate-roots example stays | an example of the expository posts reaching interventions as what distinguishes causal graphs, and its cross-reference to Ch. 3. |
-| Intro | §3 | 17 | sentence noting that chapter titles quoting Davis say where the phrase comes from | nothing of substance. |
-| Ch. 1 | §2 | 75 | "Counterfactual Social Thought" as a precursor of the causal graphs (the post stays in §3, where its argument is used) and the quotation from "Goodhart's World" (Ch. 11 §1 quotes it; a linked mention stays) | repetition, and one forward link to Ch. 3's causal graph. |
-| Ch. 1 | §2 | 45 | "Missing Words VI" (2014), two kinds of apology ("Both can be sincere, but they mean different things") | a second 2014 instance of candor about what one is doing. |
-| Ch. 1 | §3 | 40 | "The Demandingness Objection" (2013), another promise to "quit philosophy" | one of three posts recording the retreat from philosophy. |
-| Ch. 1 | §3 | 85 | "Lethal --force" (2014), the mock-sermon on a forced Git push, and "Pumpkin Spice!" (2014), "the first year of my life"; "non-canon" stays | two illustrations of the engineer phase. |
-| Ch. 1 | §5 | 40 | "Concerns II" (Sept 2016), the sequel dialogue citing the argumentative theory of reasoning | one of the 2016 dialogues of exasperation. |
-| Ch. 2 | §3 | 75 | the unpublished 2023 draft correcting gender-critical readers over Phil Illy ("the TIMs aren't just lying..."); the published Dec 2016 /r/GenderCritical post making the same correction stays | a second, later instance of Davis correcting his own side. |
-| Ch. 2 | §5 | 55 | two reader responses, FeepingCreature (sympathetic) and Muireall (critical); Dipanjan and Rat Analyst remain, one on each side | two further voices in the split reception. |
-| Ch. 2 | §6 | 45 | Bettcher 2014's interactional account of attraction and her term "erotic fragments" (compressed to one sentence) | some detail of her theory; the claims the chapter uses stay. |
-| Ch. 2 | §7 | 70 | "Promises I Can Keep" (2019), the dialogue line "eggs don't deserve love" | an illustration of what the constraint on transition costs in marriage. |
-| Ch. 2 | §7 | 35 | Lawrence 2007, "a variety of romantic love," as a second case of the same causal reading supporting the opposite decision (Ch. 3 quotes the phrase; Sophia's case stays), with its works-cited entry and note-on-method mention | the example of a trans woman sexologist who accepts Blanchard's account. |
-| Ch. 3 | §4 | 100 | tailcalled's own argument for the causal direction (sexuality as an early, fixed motive) and his guess that a fitted model would show causation both ways | a sympathetic critic's view that the arrow may run in both directions (the section's verdict, causal claim and rivals both unestablished, stands without it). |
-| Ch. 3 | §7 | 12 | sentence noting the Haskell post was corrected on a commenter's objection (already stated in §5) | nothing. |
-| Ch. 3 | §8 | 85 | Davis's ideological Turing test result (11 of 18; log score −18.012, "just worse than chance"), offered as evidence of confident misreading of opponents | one piece of the pre-concession baseline, from Davis's own published self-test. |
-| Ch. 3 | §8 | 130 | paragraph on the Bailey/Dreger controversy ("J. Michael Bailey did nothing wrong") and the standard the Murray review applied to Murray ("as fact, which I think is basically correct"), which Davis's polemics met least consistently, with the §1 mention of the Bailey-controversy history and Dreger 2008 in works cited and the note on method | Davis's partisanship on the Bailey controversy, and the observation that he held a popularizer to a standard (say why the alternatives fail) his own polemics did not consistently meet. |
-| Ch. 4 | §1 | 30 | sentence restating the lede, that the distinction does not settle the dispute over woman | nothing (the lede and §8 state it). |
-| Ch. 4 | §3 First critics | 70 | gjm thread restatement of arbitrariness argument (16 Mar 2019) and gjm's agreement | the comment-thread origin of the arbitrariness point, which §4 gives in its canonical form. |
-| Ch. 4 | §8 What holds | 110 | "dilemma of redefinition" paragraph (folded one sentence, burden on redefinition, into §4) and "the mathematics" paragraph net | separate verdict lines; the substance stays in §4 and the note on method. |
-| Ch. 5 | §1 | 55 | paragraph assigning neighboring topics to Chs. 4, 6 and 7 | a signpost (the cross-references remain at the points of use). |
-| Ch. 5 | §2 | 55 | the "Lying Alignment Chart" (LW, 2023), whose center cell answers to the algorithmic account (a length cut an earlier review proposed), with its works-cited entry and the note-on-method sentence about the image | Davis's humorous map of the senses of "lie". |
-| Ch. 5 | §3 | 110 | "Conflict Theory of Bounded Distrust" (2023), gjm's objection that it misread Alexander, and Davis's concession that it was "contaminated" by political differences; subsection heading now "Social punishment" | one further application of the account and a concession by Davis. |
-| Ch. 6 | §1 | 60 | "'I Have the Honor to Be Your Obedient Servant'" (2016), Davis's earlier defense of diplomacy in writing on grounds of precision | a 2016 contrast to the 2018 policy on offense. |
-| Ch. 6 | §6 | 50 | the opening of Davis's essay on the ban, its tribute to Achmiz as "the wisest person I know" and the anecdote of Achmiz talking him out of an analogy ("He was right.") | the essay's personal frame and one small instance of Davis taking Achmiz's criticism. |
-| Ch. 7 | §1 | 120 | paragraph on privacy norms gamed through subtext ("leak everything ... as subtext"; "should not be so foolish as to think myself innocent"), with the study's note that it does not read the hypothetical section for subtext | one instance of Davis applying his privacy reasoning to himself (§5 keeps the fuller record of self-application). |
-| Ch. 7 | §1 | 50 | Wayback reply "'female human' is a cluster in thingspace" confirming the rejoinder was put to Yudkowsky | a small confirmation that the obvious objection was raised in the 2018 replies. |
-| Ch. 7 | §2 | 55 | "The three are taken in order" and two sentences restating why the 2021 proposal's fault is misdescription, not departure (compressed to one clause) | nothing of substance. |
-| Ch. 7 | §4 | 35 | count of Davis's fourteen emails to Vassar, Aug 2016–Jan 2017, offered in one draft as evidence Vassar was one influence among many | one of the two pieces of counterfactual evidence (the other, "just as upset," stays). |
-| Ch. 7 | §5 | 35 | "suicidally aggressive one-person culture war campaign" and "a really fun part of the æsthetic" | one example in the list of self-incriminating admissions. |
-| Ch. 7 | §5 | 30 | "May Is Math and Wellness Month" quotation ("five months in constant emotional pain") | one of three contemporaneous posts recording the campaign's costs. |
-| Ch. 7 | §7 | 60 | the "quokka policy" sentence of the Oct 2025 transcript and its gloss from "The Parable of the Scorpion and the Fox" | Davis's self-description of his openness to Metz as a quokka's. |
-| Ch. 7 | §7 | 50 | Metz conversations, "contingent fact about flaws in people" and "It's a horrible problem" (deference to leaders) | two lines of Davis's assessment of the movement's failure. |
-| Ch. 7 | §7 | 55 | Metz's reply that community members "use the same language" when Davis objected to "near-religious" | the journalist's side of the exchange about religious vocabulary. |
-| Ch. 8 | §3 | 45 | the unpublished "Happy Meal" (2021), a deniably-allegorical dialogue about saying "lasagna" rather than "Italian food"; "A Proud Wells Fargo Customer" stays as the late example | one of four pieces carrying the tag. |
-| Ch. 8 | §5 | 25 | the 2020 "Poetry Corner" on Raleigh's "The Lie" ("my favorite poem about revealing information about deception!"); the Patmore post stays | one example of Davis reading his themes into poems. |
-| Ch. 8 | §6 | 55 | the description of "I, Too, Dislike It" beyond its epigraph (pastiche of Moore; links to four of Davis's captioned images; the plan to claim for a despised genre what Moore claimed for poetry) | what the draft's materials suggest it meant to argue. |
-| Ch. 9 | §4 | 90 | paragraph on the 2013 hospitalization ("I asked to go to the hospital! Imagine being that misinformed!"; "physically safe the entire time"), from a 2021 draft and "Relativity" (2013) | two small pieces of evidence that Davis measured the ward against its physical facts and had once sought it out. |
-| Ch. 9 | §6 | 60 | from-memory comparison with Thomas Szasz (social control; Davis grants a diagnosable condition and contests the description), with the Szasz mentions in the note on method and works cited | the one comparison with the anti-psychiatry tradition (an earlier review had asked for fuller treatment or omission). |
-| Ch. 9 | §6 | 45 | "Wicked Transcendence III" (2017), "The horror is that everything is a cult" | the most extreme early statement of the social-control theory (the Facebook post and the June 2017 memoir state it). |
-| Ch. 10 | §2 | 80 | "The Heckler's Veto Is Also Subject to the Unilateralist's Curse" (2020), Davis's argument that a pre-reader's veto is as unilateral as publication, and the study's point that symmetry of agency is not symmetry of expected cost | Davis's partial supply of the argument his footnote asked readers to wait for. |
-| Ch. 10 | §5 | 60 | Turkheimer, Harden and Nisbett's criticism of expert-opinion surveys (response rates near five percent; no "cannot yet be estimated" option) | a reply to a hereditarian argument the chapter does not otherwise discuss. |
-| Ch. 11 | §1 | 35 | the 2015 song lyric "I Want to Be the One" ("the one who writes the code"), which Ch. 1 also quotes, as an early restatement of the Singularity Institute's teaching | repetition only (Ch. 1 keeps it). |
-| Ch. 11 | §4 | 35 | the plot summary of "Feature Selection," compressed to one sentence (Ch. 8 §5 describes the story as form) | repetition only. |
-
-**Knock-on fixes.** Works-cited entries that no longer had a citation in the body were removed (Chs. 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, Introduction); Notes on method edited only where they named removed material (Ch. 2 Lawrence 2007; Ch. 3 Dreger 2008; Ch. 5 the Alignment Chart image; Ch. 8 the images linked from "I, Too, Dislike It"; Ch. 9 Szasz). In Ch. 4 one sentence was added to §4 (the burden on redefinition, from the cut §8 paragraph). In Ch. 7 the religion paragraph's "and he used it before the journalist did" went with the Metz exchange it referred to; in Ch. 2 the /r/GenderCritical sentence was reworded to stand without the cut draft; in Ch. 5 the subsection heading became "Social punishment"; in Ch. 1 "Goodhart's World" keeps a linked mention pointing to Ch. 11. Chronology: the 2013 hospitalization now links to Ch. 9 §1, since §4 no longer discusses it. No numbered note was removed or renumbered. The Conclusion was not changed: nothing it states was cut from the chapters.
-
-## Considered and not cut
-
-Read and weighed during the pass, and kept because cutting would remove an argument step, a concession to Davis or one of his strongest points, or an objection adopted from a review. Sizes are approximate. Any of these can be cut on request.
-
-**Candidates named by the cross-chapter pass.**
-- **Ch. 4 §8 "Two categories, and the negotiation between them" (~1,000w).** Every paragraph is a step the conclusion uses: two real categories near *woman*; the dispute is first-kind value-dependence (favorable to the framework, unfavorable to the polemic); Davis's strongest reply (social gender estimates developmental sex) and cata's point; Ozy's *reductio* and the handoff to Ch. 3; the demand that the trade be stated, with the fairness caveat on "sucks to be you". Nearly all of it came from the GPT and Fable reviews. Smaller trims possible: the detail of the unpublished reply to Ozy (~90w, but it is Davis's best answer to the *reductio*); the second Plunkett & Sundell quotation (~20w).
-- **Ch. 7 §7 (press and religion).** Trimmed ~165w (above). The rest is the adopted Jiro/Ruthenis/orthonormal paragraph (restraint toward Metz as a measure of the role-relative standard), the "failed … so, so much better" paragraph (~75w; candidate), and the religion frame (Davis's own key to the memoir).
-- **Ch. 6 §6 (the Achmiz affair, ~1,600w).** Trimmed ~50w. The rest carries the lede's finding (the Salamon coin-room reply as the coordination argument overriding the norm of accounting, with its sound point) and adopted review points: rules vs standards, effort, Habryka's grammatical repair, the author-ban inference being conditional on purpose. Candidates: "On the Normativity of Debate" (~60w, which shows Davis's position was not simply Achmiz's) and the closing list of concessions (~55w).
-- **Ch. 10 §6 (the charge against Alexander, ~900w).** Trimmed nothing. The Conclusion and the lede depend on it. Its fairness to Alexander (the functional test applied to his statement) and the noncentral-fallacy sentences (~60w) were kept deliberately in the Fable revision.
-- **Ch. 2 §6–7 (injustice; transition as choice).** Trimmed ~150w. The rest is the Fricker reconstruction, Bettcher's two challenges and Davis's possible answer, and the demand-curve argument with the average/marginal point, all of which the conclusion uses. Small candidates: Illy's "epistemic injustice" remark (~25w), the "applied transhumanism" concession (~30w).
-
-**Other passages weighed.**
-- Ch. 4: Alexander's sixth-section "biological correlates" parenthetical (~25w; fairness to Alexander); "Beyond the Binary" / "Generic Ontological Finickiness" (~230w; Davis's own concessions and gjm's selection critique); Arnold's "meandering vagueblog" and Hornbein's praise of WTDTB (~60w; reception on both sides).
-- Ch. 7: the Bromley genre paragraph (~90w; method caveat with a from-memory label); the RamblinDash "World's Best" analogy (~75w; Davis's concession, referred to in §7); the failed *Planecrash* test (~70w; self-criticism); FoxLisk's objection (~60w); the "Egoist Faith" quotation could lose ~30w.
-- Ch. 6: the Steelmanning/ITT paragraph (~260w; Wentworth's objection and the adopted point about the term); Elle Najt's 2019 objection (~95w); Mill (~50w; gives each side an ally); Mercier and Sperber (~180w; scholarship).
-- Ch. 5: "Communication and its maintenance" (~280w; Ninety-Three's counterexample as reworked after the GPT review, and Lopez); the commenters on "Explaining away" (~120w; Davis agreed with them).
-- Ch. 3: Långström and the "~5% (?)" check (~110w; adopted, "cuts both ways"); the Haskell paragraph with note 2 (~250w; Davis's own data, re-derived); "The Social Construction of Reality" paragraph (~170w; adopted from Fable).
-- Ch. 9: "Concerning Frame Control" (~110w; credits Davis with making the claim falsifiable).
-- Ch. 10: the COVID draft (~110w; the more careful habit, credited to Davis).
-- Ch. 11: the AI Village paragraph (~170w; one of Davis's remarks about Claude, which the positionality rule requires the chapter to treat).
-- Ch. 8: "Two Political Short Stories" could be compressed by ~60w.
-- Introduction §2: the detail of the 2017 episode and Davis's attribution of it to stress, not the hormones (~55w; appears nowhere else).
-- Conclusion §1 (AI) and §4 (sexology) restate the chapters' verdicts (~250w between them), but they were calibrated against the chapters in the Fable revision, and compressing them risks misstating a verdict.
-
-Taken together these come to roughly 3,300 words, which would bring the total to about 92.4k. Getting to 88–90k would also take structural cuts in the named sections above (Ch. 4 §8, Ch. 6 §6, Ch. 10 §6, Ch. 2 §6), which would cost arguments.
-
----
-
 # study/index.html (plain text)
 
 ## A Critical Study of Zack M. Davis's Writing, 2011–2026: The Scintillating and the True
@@ -859,35 +750,6 @@ Davis ended a forum post written for a university course in 2024, the hidden pag
 
 Every post, draft and hidden page quoted or characterized here was read in full, as were TracingWoodgrains's essay and the passage of the Constitution quoted; the unpublished draft cited is linked at the Gitweb commit given in the works cited, at which it was confirmed in October 2026 to match the copy read. The summaries of other chapters' findings rest on those chapters, where the evidence is given. The account of the reception rests on the survey described in note 2, and the account of the archive retrievals on attempts made in October 2026. An earlier draft of this Introduction was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1. The Introduction was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
 
-### Works cited
-
-#### Corpus
-
-- "The True Secret About Conjugate Roots and Field Automorphisms," AAL, 18 Sep 2012. zackmdavis.net/blog/2012/Sep/…
-- "Relativity," AAL, 11 May 2013. zackmdavis.net/blog/2013/May/relativity/
-- "Hormones Reboot: Spironotacular!," UUT, 27 Mar 2017. unremediatedgender.space/2017/Mar/hormones-reboot-spironotacular/
-- "Hormones Day 156: Developments, Doubts, and Pulling the Plug; Or, Putting the 'Cis' in 'Decision,'" UUT, 27 Sep 2017. unremediatedgender.space/2017/Sep/…
-- "Don't Negotiate With Terrorist Memeplexes," UUT, 23 Jan 2018. unremediatedgender.space/2018/Jan/dont-negotiate-with-terrorist-memeplexes/
-- "Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists," AAL, 23 Sep 2019 (first published on LW). zackmdavis.net/blog/2019/Sep/…
-- "Speaking Truth to Power Is a Schelling Point," LW, 30 Dec 2019. lesswrong.com
-- "Book Review: Charles Murray's *Human Diversity*," UUT, 28 Apr 2020. unremediatedgender.space/2020/Apr/book-review-human-diversity/
-- "Backlog Metablogging, April 2022," UUT, 25 Apr 2022. unremediatedgender.space/2022/Apr/backlog-metablogging-april-2022/
-- "I'm Dropping the Pseudonym From This Blog," UUT, 4 Jul 2023. unremediatedgender.space/2023/Jul/i-am-dropping-the-pseudonym-from-this-blog/
-- "And All the Shoggoths Merely Players," AAL, 10 Feb 2024. zackmdavis.net/blog/2024/Feb/and-all-the-shoggoths-merely-players/
-- "Blogging Technology Interlude," AAL, 21 Jul 2026. zackmdavis.net/blog/2026/Jul/blogging-technology-interlude/
-- Hidden page, "in search of gender studies (in contrast to gender activism)" (2024). unremediatedgender.space/ancillary/in-search-of-gender-studies/
-
-#### Corpus: unpublished draft
-
-- "Pretraining Famous" (undated). content/drafts/pretraining-famous.md (AAL repository, commit 68ea8bc).
-
-#### Other works
-
-- Anthropic. "Claude's Constitution." anthropic.com/constitution (fetched October 2026), and the Internet Archive copy of 11 March 2026, web.archive.org; the two texts are identical.
-- Bailey, J. Michael. 2019. "How to Ruin Sex Research." *Archives of Sexual Behavior* 48: 1007–1011. doi:10.1007/s10508-019-1420-y. (Cited for its reference list only.)
-- ThomasdelVasto. Comment in "Small-Scale Question Sunday for November 30," themotte.org, 2025. themotte.org
-- TracingWoodgrains. 2022. "On Transitions, Freedom of Form, and the Righteous Struggle Against Nature." r/theschism, 1 Feb 2022. reddit.com (read via the PullPush archive, Oct 2026).
-
 ---
 
 # study/01-apprentice.html (plain text)
@@ -967,60 +829,6 @@ The early record also bears on how much weight his later accounts of himself can
 ### Note on method
 
 Every post quoted or characterized was read in full. The chapter distinguishes what the posts of 2011–2016 say from what the memoir of 2021–2024 later says about the same years, and uses the first to check the second. The reception survey covered LessWrong threads, the blogs' comment sections, Reddit and a web search; for these years it found almost nothing beyond the comments. Davis's spelling and punctuation are quoted as published. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI); the chapter was revised in response to its criticisms, several of its corrections are the reviewer's, and some passages adapt wording it proposed.
-
-### Works cited
-
-#### Davis: published (*An Algorithmic Lucidity* unless noted)
-
-- "The Derivative of the Natural Logarithm," 25 Dec 2011. zackmdavis.net/blog/2011/Dec/…
-- "The Morality of Ringing a Bell," 4 Jul 2012. zackmdavis.net/blog/2012/Jul/…
-- "Lies and Delusion," 23 Jul 2012. zackmdavis.net/blog/2012/Jul/lies-and-delusion/
-- "Contemporary," 7 Aug 2012. zackmdavis.net/blog/2012/Aug/contemporary/
-- "Cached Reply Upon Being Told That I'm an Idiot," 11 Sep 2012. zackmdavis.net/blog/2012/Sep/…
-- "Idiot or Alien? Incompetence or Evil?," 2 Oct 2012. zackmdavis.net/blog/2012/Oct/…
-- "Things That Are Hard to Quit (Non-exhaustive List)," 7 Nov 2012. zackmdavis.net/blog/2012/Nov/…
-- "An Idle Wish for a Future *Star Trek* Series," 17 Nov 2012. zackmdavis.net/blog/2012/Nov/…
-- "Egoism as Defense Against a Life of Unending Heartbreak," 22 Nov 2012. zackmdavis.net/blog/2012/Nov/…
-- "Goodhart's World," 23 Nov 2012. zackmdavis.net/blog/2012/Nov/goodharts-world/
-- "Speaking of Addiction," 25 Nov 2012. zackmdavis.net/blog/2012/Nov/speaking-of-addiction/
-- "Draft of a Letter to a Former Teacher, Which I Did Not Send Because Doing So Would Be a Bad Idea," 3 Dec 2012. zackmdavis.net/blog/2012/Dec/…
-- "Can't Break Clean," 9 Dec 2012. zackmdavis.net/blog/2012/Dec/cant-break-clean/
-- "Counterfactual Social Thought," 28 Dec 2012. zackmdavis.net/blog/2012/Dec/…
-- "Hustle," 2 Jan 2013. zackmdavis.net/blog/2013/Jan/hustle/
-- "Clearness," 3 Jan 2013. zackmdavis.net/blog/2013/Jan/clearness/
-- "Education and Indoctrination Feel the Same From the Inside," 10 Jan 2013. zackmdavis.net/blog/2013/Jan/…
-- "Religious," 4 Mar 2013. zackmdavis.net/blog/2013/Mar/religious/
-- "Tradition," 8 Mar 2013. zackmdavis.net/blog/2013/Mar/tradition/
-- "Strategy Overhaul," 28 Mar 2013. zackmdavis.net/blog/2013/Mar/strategy-overhaul/
-- "Prodrome," 1 Apr 2013. zackmdavis.net/blog/2013/Apr/prodrome/
-- "Retirement," 16 May 2013. zackmdavis.net/blog/2013/May/retirement/
-- "App Academy Diary, Week Five," 14–20 Oct 2013. zackmdavis.net/blog/2013/Oct/…
-- "Conversational Overhead," 19 Nov 2013. zackmdavis.net/blog/2013/Nov/conversational-overhead/
-- "Yet Another Idle Wish for a Future *Star Trek* Series," 17 Nov 2014. zackmdavis.net/blog/2014/Nov/…
-- "2014 Year in Reverse," 4 Jan 2015. zackmdavis.net/blog/2015/Jan/2014-year-in-reverse/
-- "'Pi Day' Is an Unholy Festival of Sin That Is Corrupting Our Children," 14 Mar 2015. zackmdavis.net/blog/2015/Mar/…
-- "Electrolysis," 3 Jul 2015. zackmdavis.net/blog/2015/Jul/electrolysis/
-- "October Eleventh," 11 Oct 2015. zackmdavis.net/blog/2015/Oct/october-eleventh/
-- "I Want to Be the One," 7 Dec 2015. zackmdavis.net/blog/2015/Dec/i-want-to-be-the-one/
-- "Group Introduction Redux," 3 Apr 2016. zackmdavis.net/blog/2016/Apr/group-introduction-redux/
-- "Concerns," 10 Jul 2016. zackmdavis.net/blog/2016/Jul/concerns/
-- "Identity," 11 Jul 2016. zackmdavis.net/blog/2016/Jul/identity/
-- "Prescription," 28 Aug 2016. zackmdavis.net/blog/2016/Aug/prescription/
-- "The Parable of the Honest Man and the Thing," 5 Oct 2016. zackmdavis.net/blog/2016/Oct/…
-- "Late-Onset," 7 Oct 2016. zackmdavis.net/blog/2016/Oct/late-onset/
-- "Resisting the Narrative," 4 Dec 2016. zackmdavis.net/blog/2016/Dec/resisting-the-narrative/
-- "Joined," 19 Dec 2016. zackmdavis.net/blog/2016/Dec/joined/
-- "An Element Which Is Nameless," 28 Dec 2016. zackmdavis.net/blog/2016/Dec/…
-- "2016 Year in Reverse," 2 Jan 2017. zackmdavis.net/blog/2017/Jan/2016-year-in-reverse/
-- "A Common Misunderstanding," 9 Feb 2017. zackmdavis.net/blog/2017/Feb/a-common-misunderstanding/
-- "Dreaming of Political Bayescraft," 3 Mar 2017. zackmdavis.net/blog/2017/Mar/…
-- "Religious, Redux," 11 Mar 2017. zackmdavis.net/blog/2017/Mar/religious-redux/
-- "On the Argumentative Form 'Super-Proton Things Tend to Come In Varieties,'" UUT, 13 Dec 2019. unremediatedgender.space/2019/Dec/…
-- "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," UUT, 8 Jul 2023. unremediatedgender.space/2023/Jul/…
-
-#### Other works
-
-- Eliezer Yudkowsky, "Disguised Queries," *Less Wrong*, 9 Feb 2008. lesswrong.com (retrieved Oct 2026).
 
 ---
 
@@ -1113,58 +921,6 @@ His confidence is earned where the record is protected from later revision: the 
 ### Note on method
 
 Every post and draft quoted or characterized was read in full; the two unpublished drafts cited were confirmed identical to the files at the Gitweb commit linked. The LessWrong thread on "Blanchard's Dangerous Idea" and the blog comments on "Sexual Dimorphism" were read in full as retrieved in October 2026. Ozy Brennan's 2023 reply to Davis is paywalled beyond its opening paragraphs and was not read. Bettcher (2014) was read in full only in a Chinese translation that gives the original's key terms in English; the study quotes only the English abstract (from PubMed) and paraphrases the rest. Nisbett and Wilson (1977) was read in a scanned copy whose text layer is badly degraded; the abstract and conclusions were legible, and the paper is paraphrased, not quoted. Fricker's *Epistemic Injustice* (2007) was not read; her definitions are cited through the *Internet Encyclopedia of Philosophy* entry, with her page numbers as given there. Fricker and Jenkins (2017) is known only by title and abstract listing. Bettcher (2009), Pohlhaus (2012), Ross (1989), Schachter and Singer (1962), and Dutton and Aron (1974) are cited from memory and were not read in this project. Chivers et al. (2010) is cited from its abstract. Passages of Serano's *Whipping Girl* are known only as Davis quotes or reports them. A 2009 diary entry quoted in "Hormones Day 156" is paraphrased, not quoted, and the 2005 diary entry is cited only for its date and subject. Readers' disclosures about their own sexuality and transitions are cited only where they bear on the argument, under the names the sites display. Earlier drafts of this chapter were reviewed by Claude Opus 5.5 and by GPT-6-Astra (OpenAI); the chapter was revised in response to their criticisms, several of its corrections are theirs, and some passages adapt wording they proposed.
-
-### Works cited
-
-#### Davis: published
-
-- "Psychology Is About Invalidating People's Identities," UUT, 5 Sep 2016. unremediatedgender.space/2016/Sep/…
-- "Reply to Ozymandias on Autogynephilia," UUT, 1 Oct 2016. unremediatedgender.space/2016/Oct/reply-to-ozy-on-agp/
-- "Exactly What It Says on the Tin," UUT, 29 Oct 2016. unremediatedgender.space/2016/Oct/…
-- "Hormones Day 13," UUT, 9 Jan 2017. unremediatedgender.space/2017/Jan/hormones-day-13/
-- "The Erotic Target Location Gift," UUT, 15 Jan 2017. unremediatedgender.space/2017/Jan/…
-- "A Beacon Through the Darkness; Or, Getting It Right the First Time," UUT, 5 Feb 2017. unremediatedgender.space/2017/Feb/…
-- "What's My Motivation? Or, Hormones Day 89," UUT, 22 Jul 2017. unremediatedgender.space/2017/Jul/…
-- "Hormones Day 156: Developments, Doubts, and Pulling the Plug; Or, Putting the 'Cis' in 'Decision,'" UUT, 27 Sep 2017. unremediatedgender.space/2017/Sep/…
-- "Lesser-Known Demand Curves," UUT, 18 Dec 2017. unremediatedgender.space/2017/Dec/lesser-known-demand-curves/
-- "Untitled Metablogging, 26 December 2018," UUT. unremediatedgender.space/2018/Dec/…
-- "Sexual Dimorphism in Yudkowsky's Sequences, in Relation to My Gender Problems," UUT, 2 May 2021, and Davis's comments in its thread. unremediatedgender.space/2021/May/…
-- "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," UUT and LW, 8 Jul 2023, and Davis's comments in the LessWrong thread. unremediatedgender.space/2023/Jul/…; lesswrong.com/posts/RxxqPH3WffQv6ESxj
-- "Transcript: 'Autogynephilia and Epistemic Despair,'" UUT, 15 Jul 2024. unremediatedgender.space/2024/Jul/…
-- "A Generic Ontological Finickiness," UUT, 14 Sep 2025. unremediatedgender.space/2025/Sep/…
-- "What I Said to /r/GenderCritical (December 2016)," hidden page. unremediatedgender.space/ancillary/what-i-said-to-r-gendercritical/
-- "Diary Entry 53," 8 Mar 2005, hidden page. unremediatedgender.space/ancillary/diary/53/
-- Comment on Ozy Brennan, "On Autogynephilia," *Thing of Things*, 13 Jul 2016. thingofthings.wordpress.com/2016/07/13/on-autogynephilia/
-
-#### Davis: unpublished drafts
-
-- "The Psychology of Autogynephilia-Inspired Self-Expression Is Subtle," unpublished UUT draft (header date 16 Nov 2023). Gitweb, content/drafts/the-psychology-of-autogynephilia-inspired-self-expression-is-subtle.md at commit b844bcd
-- "Virginia Prince and the Hazards of Noticing," unpublished UUT draft (header date 10 Dec 2024). Gitweb, content/drafts/virginia-prince-and-the-hazards-of-noticing.md at commit b844bcd
-
-#### Reception
-
-- Comments on "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," LessWrong, July 2023 to February 2024, cited by commenter and date. lesswrong.com/posts/RxxqPH3WffQv6ESxj (retrieved Oct 2026).
-- Comments on "Sexual Dimorphism in Yudkowsky's Sequences," UUT, May 2021 to March 2026, cited by commenter and date. unremediatedgender.space/2021/May/… (retrieved Oct 2026).
-- Ozy Brennan, "On Autogynephilia," *Thing of Things*, 13 Jul 2016, and comments. thingofthings.wordpress.com/2016/07/13/on-autogynephilia/ (retrieved Oct 2026).
-- TracingWoodgrains, "On Transitions, Freedom of Form, and the Righteous Struggle Against Nature," r/theschism, 1 Feb 2022. reddit.com/r/theschism/comments/si7k2c (read via the PullPush archive, Oct 2026).
-
-#### Other works
-
-- Talia Mae Bettcher, "Trans Identities and First-Person Authority," in Laurie Shrage, ed., *You've Changed: Sex Reassignment and Personal Identity* (Oxford University Press, 2009). Cited from memory; not read.
-- Talia Mae Bettcher, "When Selves Have Sex: What the Phenomenology of Trans Sexuality Can Teach About Sexual Orientation," *Journal of Homosexuality* 61, no. 5 (2014): 605–620. Abstract: PubMed 24295078; body read in a Chinese translation by 許顓頊, freight.cargo.site (PDF) (fetched 17 Oct 2026).
-- Meredith L. Chivers, Michael C. Seto, Martin L. Lalumière, Ellen Laan, and Teresa Grimbos, "Agreement of Self-Reported and Genital Measures of Sexual Arousal in Men and Women: A Meta-Analysis," *Archives of Sexual Behavior* 39 (2010): 5–56. Abstract: PubMed 20049519 (fetched 17 Oct 2026).
-- Donald G. Dutton and Arthur P. Aron, "Some Evidence for Heightened Sexual Attraction Under Conditions of High Anxiety," *Journal of Personality and Social Psychology* 30 (1974). Cited from memory.
-- Miranda Fricker, *Epistemic Injustice: Power and the Ethics of Knowing* (Oxford: Oxford University Press, 2007). Not read; cited through Sinclair.
-- Miranda Fricker and Katharine Jenkins, "Epistemic Injustice, Ignorance, and Trans Experiences," in *The Routledge Companion to Feminist Philosophy* (2017), 268–278. Known by title only; not read.
-- Richard E. Nisbett and Timothy DeCamp Wilson, "Telling More Than We Can Know: Verbal Reports on Mental Processes," *Psychological Review* 84, no. 3 (1977): 231–259. Scanned copy (PDF) (fetched 17 Oct 2026).
-- Gaile Pohlhaus Jr., "Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance," *Hypatia* 27 (2012). Cited from memory.
-- Michael Ross, "Relation of Implicit Theories to the Construction of Personal Histories," *Psychological Review* 96 (1989). Cited from memory.
-- Stanley Schachter and Jerome Singer, "Cognitive, Social, and Physiological Determinants of Emotional State," *Psychological Review* 69 (1962). Cited from memory.
-- Eric Schwitzgebel, "Introspection," *Stanford Encyclopedia of Philosophy* (rev. 25 Apr 2024). plato.stanford.edu/entries/introspection/ (fetched 17 Oct 2026).
-- Julia Serano, *Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity* (2007). Not read; known as Davis quotes it.
-- Julia Serano, "Autogynephilia: A Scientific Review, Feminist Analysis, and Alternative 'Embodiment Fantasies' Model," *The Sociological Review* 68, no. 4 (2020): 763–778. doi:10.1177/0038026120934690
-- Julia M. Serano and Jaimie F. Veale, "Autogynephilia Is a Flawed Framework for Understanding Female Embodiment Fantasies: A Response to Bailey and Hsu (2022)," *Archives of Sexual Behavior* (2022). doi:10.1007/s10508-022-02414-4
-- Rob Sinclair, "Epistemic Injustice," *Internet Encyclopedia of Philosophy*, n.d. iep.utm.edu/epistemic-injustice/ (fetched 17 Oct 2026).
 
 ---
 
@@ -1295,79 +1051,6 @@ Davis's considered position by 2024, less dogmatic about the typology and insist
 ### Note on method
 
 Every post and draft quoted or characterized was read in full; the unpublished drafts cited are linked at the Gitweb commit given in the works cited, at which each was confirmed in October 2026 to match the copy read. The comment threads cited were read in full as retrieved in October 2026. The figures from Blanchard (1985), Lawrence (2005), Smith et al. (2005), Nuttbrock et al. (2011), Del Giudice, Booth and Irwing (2012) and the 2015 United States Transgender Survey were checked against the papers. Bailey, Hsu and Jang (2023), Hsu, Morandini and Rudd (2025), Joel et al. (2015), Långström and Zucker (2005), Mueller et al. (2021) and Veale, Clarke and Lomax (2008, 2010) are cited from their abstracts; Moser (2010) from its discussion section; Blanchard, Clemmensen and Steiner (1985) from its abstract and introduction; the two brain-imaging reviews from their sections on untreated trans people; Frigerio, Ballerini and Valdés Hernández (2021) from its abstract and introduction. Bailey (2022) was read in full, Lawrence (2007) in its abstract and its section on erotic desire and attachment. The PNAS replies to Joel et al. could not be retrieved and are known by title. The manual's text is quoted as Davis quotes it. A 2026 exchange in *Archives of Sexual Behavior* between Lawrence and others on the theory's current standing was sought but is paywalled and was not read; its titles are listed in the works cited. The unpublished draft "Falsifiability and What We Expect Not to See" (2017) was read; it is an outline listing the variables on which the typology predicts two clusters and does not say what would count against the negative claim. "Nothing New Under the Sun" (2017), "Terminology Proposal: 'Developmental Sex'" (2019), *Closetspace* and *Lease Bound* (2021) and the draft "Faster Than Science" were read and are not discussed. An earlier draft of this chapter was reviewed by Claude Opus 5.5 and by GPT-6-Astra (OpenAI), and a later draft by Claude Fable 5.1. The chapter was revised in response to their criticisms, several of its corrections are theirs, and some passages adapt wording they proposed.
-
-### Works cited
-
-#### Davis: published
-
-- "Apophenia?," UUT, 5 Sep 2016. unremediatedgender.space/2016/Sep/apophenia/
-- "Reply to Ozymandias on Autogynephilia," UUT, 1 Oct 2016. unremediatedgender.space/2016/Oct/reply-to-ozy-on-agp/
-- "Introductions," UUT, 19 Oct 2016. unremediatedgender.space/2016/Oct/introductions/
-- "Revised Taxonomy," UUT, 28 Jan 2017. unremediatedgender.space/2017/Jan/revised-taxonomy/
-- "Lesser-Known Demand Curves," UUT, 18 Dec 2017. unremediatedgender.space/2017/Dec/lesser-known-demand-curves/
-- "The Categories Were Made for Man to Make Predictions," UUT, 23 Feb 2018. unremediatedgender.space/2018/Feb/…
-- "The Univariate Fallacy," LW and AAL, 15 Jun 2019. zackmdavis.net/blog/2019/Jun/the-univariate-fallacy/
-- "The Social Construction of Reality and the Sheer Goddamned Pointlessness of Reason," UUT, 11 Aug 2019. unremediatedgender.space/2019/Aug/…
-- "Does General Intelligence Deflate Standardized Effect Sizes of Cognitive Sex Differences?," UUT, 1 Sep 2019. unremediatedgender.space/2019/Sep/…
-- "Survey Data on Cis and Trans Women Among Haskell Programmers," UUT, 24 Nov 2020, and comments. unremediatedgender.space/2020/Nov/…
-- "You Are Right and I Was Wrong: Reply to Tailcalled on Causality," UUT, 1 Feb 2021. unremediatedgender.space/2021/Feb/…
-- "Point Man," UUT, 8 Mar 2021. unremediatedgender.space/2021/Mar/point-man/
-- "The Two-Type Taxonomy Is a Useful Approximation for a More Detailed Causal Model," UUT, 8 Jul 2022, and comments. unremediatedgender.space/2022/Jul/…
-- "Janet Mock on Late Transitioners," UUT, 11 Jun 2023. unremediatedgender.space/2023/Jun/janet-mock-on-late-transitioners/
-- "Book Endorsement: Phil Illy's *Autoheterosexual: Attracted to Being the Other Sex*," UUT, 21 Jun 2023. unremediatedgender.space/2023/Jun/book-endorsement-autoheterosexual/
-- "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," UUT and LW, 8 Jul 2023, and Davis's comments in the LessWrong thread. unremediatedgender.space/2023/Jul/…; lesswrong.com/posts/RxxqPH3WffQv6ESxj
-- "Reply to Scott Alexander on Autogenderphilia," UUT, 18 Dec 2023, and comments. unremediatedgender.space/2023/Dec/…
-- Comment on "If Clarity Seems Like Death to Them," LW, 2 Jan 2024. lesswrong.com/posts/yFZH2sBsmmqgWm4Sp
-- "Transcript: 'Autogynephilia and Epistemic Despair,'" UUT, 15 Jul 2024. unremediatedgender.space/2024/Jul/…
-
-#### Davis: unpublished drafts
-
-- "sampling methodology concerns about Hsu, Morandini, and Rudd 2025," unpublished UUT draft (header date 22 Feb 2025). Gitweb, content/drafts/sampling-issues-in-hsu-morandini-rudd-2025.md at commit b844bcd
-
-#### Reception
-
-- Scott Alexander, "Autogenderphilia Is Common and Not Especially Related to Transgender," *Slate Star Codex*, 10 Feb 2020. slatestarcodex.com/2020/02/10/… (retrieved Oct 2026).
-- Comments on "Blanchard's Dangerous Idea," LessWrong, July–August 2023, cited by commenter and date (Ann; tailcalled; adrusi). lesswrong.com/posts/RxxqPH3WffQv6ESxj (retrieved Oct 2026).
-- Comments on "The Two-Type Taxonomy Is a Useful Approximation…," UUT, July 2022 (tailcalled; Davis). unremediatedgender.space/2022/Jul/… (retrieved Oct 2026).
-- Comments on "Survey Data on Cis and Trans Women Among Haskell Programmers," UUT, Nov–Dec 2020 (Spencer). unremediatedgender.space/2020/Nov/… (retrieved Oct 2026).
-- Comments on "Reply to Scott Alexander on Autogenderphilia," UUT, Dec 2023 (KartoffelElf; Davis). unremediatedgender.space/2023/Dec/… (retrieved Oct 2026).
-- tailcalled, "Causality Is Essential: Reply to MTSW on Autogynephilia," *Survey Anon's Gender Blog*, 1 Jan 2021. surveyanon.wordpress.com/2021/01/01/… (retrieved Oct 2026).
-- tailcalled, "Autogynephilia Discourse Is So Absurdly Bad on All Sides," LessWrong, 23 Jul 2023. lesswrong.com/posts/mvQjpu7iFnqQ47Lbp (retrieved Oct 2026).
-
-#### Other works
-
-- J. Michael Bailey, "Autogynephilia and Science: A Response to Moser (2022) and Serano and Veale (2022)," *Archives of Sexual Behavior* (2022). doi:10.1007/s10508-022-02482-6
-- J. Michael Bailey and Kevin J. Hsu, "How Autogynephilic Are Natal Females?," *Archives of Sexual Behavior* (2022). doi:10.1007/s10508-022-02359-8
-- J. Michael Bailey, Kevin J. Hsu and Henry H. Jang, "Elaborating and Testing Erotic Target Identity Inversion Theory in Three Paraphilic Samples," *Archives of Sexual Behavior* (2023). doi:10.1007/s10508-023-02647-x (abstract read).
-- Ray Blanchard, "Typology of Male-to-Female Transsexualism," *Archives of Sexual Behavior* 14, no. 3 (1985).
-- Ray Blanchard, Leonard H. Clemmensen and Betty W. Steiner, "Social Desirability Response Set and Systematic Distortion in the Self-Report of Adult Male Gender Patients," *Archives of Sexual Behavior* 14, no. 6 (1985): 505ff. (Abstract and introduction read.)
-- Adam M. Chekroud et al., "Patterns in the Human Brain Mosaic Discriminate Males from Females," *PNAS* 113 (2016). Known by title; not read.
-- Marco Del Giudice, Tom Booth and Paul Irwing, "The Distance Between Mars and Venus: Measuring Global Sex Differences in Personality," *PLoS ONE* 7 (2012): e29265. doi:10.1371/journal.pone.0029265
-- Marco Del Giudice et al., "Joel et al.'s Method Systematically Fails to Detect Large, Consistent Sex Differences," *PNAS* 113 (2016). Known by title; not read.
-- Alberto Frigerio, Lucia Ballerini and Maria Valdés Hernández, "Structural, Functional, and Metabolic Brain Differences as a Function of Gender Identity or Sexual Orientation: A Systematic Review of the Human Neuroimaging Literature," *Archives of Sexual Behavior* 50 (2021): 3329–3352. doi:10.1007/s10508-021-02005-9
-- Kurt Freund and Ray Blanchard, "Erotic Target Location Errors in Male Gender Dysphorics, Paedophiles, and Fetishists," *British Journal of Psychiatry* 162 (1993).
-- Antonio Guillamon, Carme Junque and Esther Gómez-Gil, "A Review of the Status of Brain Structure Research in Transsexualism," *Archives of Sexual Behavior* 45 (2016): 1615ff. doi:10.1007/s10508-016-0768-5
-- Kevin J. Hsu, James S. Morandini and S. Rudd, "Cut from the Same Cloth? Comparing the Sexuality of Male Cross-Dressers and Transfeminine Individuals Through the Conceptual Framework of Autogynephilia," *Archives of Sexual Behavior* (2025). doi:10.1007/s10508-024-03053-7 (abstract read).
-- S. E. James et al., *The Report of the 2015 U.S. Transgender Survey* (Washington, DC: National Center for Transgender Equality, 2016). transequality.org (PDF) (fetched 17 Oct 2026).
-- Daphna Joel et al., "Sex Beyond the Genitalia: The Human Brain Mosaic," *PNAS* 112 (2015): 15468–15473. doi:10.1073/pnas.1509654112 (abstract read).
-- Niklas Långström and Kenneth J. Zucker, "Transvestic Fetishism in the General Population: Prevalence and Correlates," *Journal of Sex & Marital Therapy* 31 (2005): 87–95. PubMed 15859369 (abstract read).
-- Anne A. Lawrence, "Becoming What We Love: Autogynephilic Transsexualism Conceptualized as an Expression of Romantic Love," *Perspectives in Biology and Medicine* 50, no. 4 (2007): 506–520.
-- Anne A. Lawrence, "Sexuality Before and After Male-to-Female Sex Reassignment Surgery," *Archives of Sexual Behavior* 34 (2005): 147–166. doi:10.1007/s10508-005-1793-y
-- Anne A. Lawrence, "Erotic Target Location Errors: An Underappreciated Paraphilic Dimension," *Journal of Sex Research* 46 (2009): 194–215.
-- Anne A. Lawrence, "Something Resembling Autogynephilia in Women: Comment on Moser (2009)," *Journal of Homosexuality* 57 (2010): 1–4.
-- Anne A. Lawrence, "Does Autogynephilia Theory Still Provide a Useful Explanatory Framework for Understanding Transfeminine Identity and Sexuality?," *Archives of Sexual Behavior* (2026), doi:10.1007/s10508-026-03641-9; Lawrence, "Paraphilia Is Not a Natural Kind: Comment on Bailey and Hsu (2025)," *Archives of Sexual Behavior* (2026), doi:10.1007/s10508-025-03403-z; Bailey, Byrne and Hsu, "The Paraphilia Natural Kind Hypothesis Is Alive and Well: A Response to Lawrence (2026)," *Archives of Sexual Behavior* (2026), doi:10.1007/s10508-026-03598-9. Known by title; not read.
-- Anne A. Lawrence, "Veale's (2014) Critique of Blanchard's Typology Was Invalid," *Archives of Sexual Behavior* 43 (2014): 1679–1683. doi:10.1007/s10508-014-0383-2
-- Charles Moser, "Autogynephilia in Women," *Journal of Homosexuality* 56 (2009): 539–547.
-- Charles Moser, "Blanchard's Autogynephilia Theory: A Critique," *Journal of Homosexuality* 57, no. 6 (2010): 790–809. doi:10.1080/00918369.2010.486241
-- Sven C. Mueller et al., "The Neuroanatomy of Transgender Identity: Mega-Analytic Findings From the ENIGMA Transgender Persons Working Group," *Journal of Sexual Medicine* 18 (2021): 1122–1129. PubMed 34030966 (abstract read).
-- Larry Nuttbrock et al., "A Further Assessment of Blanchard's Typology of Homosexual Versus Non-Homosexual or Autogynephilic Gender Dysphoria," *Archives of Sexual Behavior* 40 (2011): 247–257. doi:10.1007/s10508-009-9579-2
-- Julia Serano, "Autogynephilia: A Scientific Review, Feminist Analysis, and Alternative 'Embodiment Fantasies' Model," *The Sociological Review* 68, no. 4 (2020): 763–778. doi:10.1177/0038026120934690
-- Julia M. Serano and Jaimie F. Veale, "Autogynephilia Is a Flawed Framework for Understanding Female Embodiment Fantasies: A Response to Bailey and Hsu (2022)," *Archives of Sexual Behavior* (2022). doi:10.1007/s10508-022-02414-4
-- Yolanda L. S. Smith, Stephanie H. M. van Goozen, Abraham J. Kuiper and Peggy T. Cohen-Kettenis, "Transsexual Subtypes: Clinical and Theoretical Significance," *Psychiatry Research* 137 (2005): 151–160. doi:10.1016/j.psychres.2005.01.008
-- Jaimie F. Veale, "Evidence Against a Typology: A Taxometric Analysis of the Sexuality of Male-to-Female Transsexuals," *Archives of Sexual Behavior* 43 (2014): 1177–1186. doi:10.1007/s10508-014-0275-5
-- Jaimie F. Veale, Dave E. Clarke and Terri C. Lomax, "Sexuality of Male-to-Female Transsexuals," *Archives of Sexual Behavior* 37 (2008): 586–597. doi:10.1007/s10508-007-9306-9 (abstract read).
-- Jaimie F. Veale, Dave E. Clarke and Terri C. Lomax, "Identity-Defense Model of Gender-Variant Development," *International Journal of Transgenderism* 12 (2010). doi:10.1080/15532739.2010.514217 (author's preprint; abstract read).
-- Kenneth J. Zucker, Anne A. Lawrence and Baudewijntje P. C. Kreukels, "Gender Dysphoria in Adults," *Annual Review of Clinical Psychology* 12 (2016): 217–247.
 
 ---
 
@@ -1573,59 +1256,6 @@ Whether the norm favors one side of the gender dispute is a separate question, a
 
 Every text quoted or characterized in this chapter was read in full, and every quotation has been checked mechanically against its source. LessWrong comments are quoted from the threads as retrieved through the site's public API in October 2026. Yudkowsky's tweets of November 2018 were read in Internet Archive snapshots (Chapter 7). Two groups of statements rest on Davis's report alone, because the originals are behind login walls: Yudkowsky's Facebook post of September 2020 and Soares's tweets of June 2021. They are quoted only as the corpus quotes them. Davis's January 2021 email to Demski and his September 2020 email to Yudkowsky are known only from the memoir. The numerical claims of "Where to Draw the Boundaries?", "Schelling Categories," and "Unnatural Categories" were recalculated with an independent script from the setups the posts state. The one input taken from Davis's published code is the set of cells in the "blegg*/rube*" regions, which the post gives only as a figure. Every reported value reproduced: 0.918 and 0.2516 bits; 5.25, 5, and 1.25; 13.63, 1.38, and 4.12; 6.94, 0.69, and 1.81; −142.62 and −151.57; P(blegg | eggness 7) = 24/25; log₂3 ≈ 1.585 and ≈ 1.18. Two small points: "Unnatural Categories" compares the joint table's 127 free parameters with the naïve Bayes model's 57 entries, of which only 47 are free, so the like-for-like comparison favors Davis more; and "Schelling Categories" measures evidence by the expected absolute log-likelihood ratio rather than mutual information, under which the comparison goes the same way (0.124 bits per ordinary variable against 0.189 for the special one). Claims about Hacking, Boyd, and Khalidi rest on the *Stanford Encyclopedia of Philosophy* entry "Natural Kinds," and those about Ásta on the entry "Feminist Perspectives on Sex and Gender," all fetched and read. Byrne 2020 is known only through Byrne's 2021 restatement. Earlier drafts of this chapter were reviewed by Claude Fable 5.1 and by GPT-6-Astra (OpenAI); the chapter was revised in response to their criticisms, several of its corrections are theirs, and some passages adapt wording they proposed.
 
-### Works cited
-
-#### Davis: published posts
-
-- "Contemporary," AAL, 7 Aug 2012. zackmdavis.net/blog/2012/Aug/contemporary/
-- "Prescription," AAL, 28 Aug 2016. zackmdavis.net/blog/2016/Aug/prescription/
-- "Blegg Mode," UUT, 1 Feb 2018 (LW linkpost 11 Mar 2019). unremediatedgender.space/2018/Feb/blegg-mode/
-- "The Categories Were Made for Man to Make Predictions," UUT, 23 Feb 2018. unremediatedgender.space/2018/Feb/…
-- "Reply to *The Unit of Caring* on Adult Human Females," UUT, 19 Apr 2018. unremediatedgender.space/2018/Apr/…
-- "Where to Draw the Boundaries?," AAL and LW, 13 Apr 2019. zackmdavis.net/blog/2019/Apr/…; LW thread esRZaPXSHgWzyB2NL
-- "The Univariate Fallacy," AAL and LW, 15 Jun 2019. zackmdavis.net/blog/2019/Jun/…
-- "Schelling Categories, and Simple Membership Tests," AAL and LW, 25 Aug 2019. zackmdavis.net/blog/2019/Aug/…
-- "Self-Identity Is a Schelling Point," UUT, 6 Oct 2019. unremediatedgender.space/2019/Oct/…
-- "Maybe Lying Doesn't Exist," AAL and LW, 14 Oct 2019. zackmdavis.net/blog/2019/Oct/…
-- "On the Argumentative Form 'Super-Proton Things Tend to Come in Varieties,'" UUT, 13 Dec 2019. unremediatedgender.space/2019/Dec/…
-- "Reply to Ozymandias on Fully Consensual Gender," UUT, 20 Dec 2019. unremediatedgender.space/2019/Dec/…
-- "More Schelling," UUT, 22 Dec 2019. unremediatedgender.space/2019/Dec/more-schelling/
-- "Speaking Truth to Power Is a Schelling Point," LW only, 30 Dec 2019. lesswrong.com/posts/tCwresAuSvk867rzH
-- "Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning," AAL and LW, 7 Jun 2020. zackmdavis.net/blog/2020/Jun/…
-- "Message Length," AAL and LW, 19 Oct 2020. zackmdavis.net/blog/2020/Oct/message-length/
-- "Containment Thread on the Motivation and Political Context for My Philosophy of Language Agenda," LW only, 10 Dec 2020. lesswrong.com/posts/5aqumaym7Jd2qhDcy
-- "Unnatural Categories Are Optimized for Deception," AAL and LW, 8 Jan 2021. zackmdavis.net/blog/2021/Jan/…; LW thread onwgTH6n8wxRSo2BJ
-- "You Are Right and I Was Wrong: Reply to Tailcalled on Causality," UUT, 1 Feb 2021. unremediatedgender.space/2021/Feb/…
-- "Reply to Nate Soares on Dolphins," AAL and LW, 9 Jun 2021. zackmdavis.net/blog/2021/Jun/…; LW thread aJnaMv8pFQAfi9jBm
-- "Blood Is Thicker Than Water 🐬," AAL and LW, 27 Sep 2021. zackmdavis.net/blog/2021/Sep/…; LW thread vhp2sW6iBhNJwqcwP
-- "Challenges to Yudkowsky's Pronoun Reform Proposal," UUT, 13 Mar 2022. unremediatedgender.space/2022/Mar/…; LW thread juZ8ugdNqMrbX7x2J
-- "A Hill of Validity in Defense of Meaning," UUT, 15 Jul 2023. unremediatedgender.space/2023/Jul/…
-- "Beyond the Binary," UUT, 12 Dec 2023. unremediatedgender.space/2023/Dec/beyond-the-binary/
-- "If Clarity Seems Like Death to Them," UUT, 30 Dec 2023. unremediatedgender.space/2023/Dec/…
-- "A Generic Ontological Finickiness," UUT, 14 Sep 2025. unremediatedgender.space/2025/Sep/…
-
-#### Davis: unpublished drafts and hidden pages
-
-- "Dolphin War!! 🐬 (draft reply to Nate Soares, 16 June 2021)," hidden UUT page. unremediatedgender.space/ancillary/dolphin-war/
-- "Two Kinds of Value-Dependence," unpublished UUT draft (header date placeholder 2020-01-01). Gitweb, content/drafts/two-kinds-of-value-dependence.md at commit b844bcd
-- "I Mean, Yes, I Agree That Man Should Allocate Some More Categories, But," unpublished UUT draft (placeholder date 2020-01-01). Gitweb, content/drafts/i-mean-yes-i-agree-that-man-should-allocate-some-more-categories-but.md at commit b844bcd
-- "The View From Nowhere," unpublished UUT draft (outline). Gitweb, content/drafts/the-view-from-nowhere.md at commit b844bcd
-
-#### Other works
-
-- Scott Alexander, "The Categories Were Made For Man, Not Man For The Categories," *Slate Star Codex*, 21 Nov 2014, with editorial note of Dec 2019. Read in the Internet Archive copy web.archive.org/web/20200610230130/… (fetched 16 Oct 2026).
-- Alexander Bird and Emma Tobin, "Natural Kinds," *Stanford Encyclopedia of Philosophy* (rev. 28 Jan 2022). plato.stanford.edu/entries/natural-kinds/ (fetched 16 Oct 2026). Source for Boyd, Hacking, and Khalidi as cited.
-- Ozy Brennan, "Man Should Allocate Some More Categories," *Thing of Things*, 18 Jun 2018. thingofthings.wordpress.com/2018/06/18/…
-- Alex Byrne, "Gender Muddle: Reply to Dembroff," *Journal of Controversial Ideas* 1(1) (2021). journalofcontroversialideas.org/… (fetched 17 Oct 2026). Restates Byrne, "Are Women Adult Human Females?," *Philosophical Studies* 177 (2020): 3783–803 (not read directly).
-- David J. Chalmers, "Verbal Disputes," *Philosophical Review* 120(4) (2011): 515–566. Read in the author's preprint, consc.net/papers/verbal.pdf (fetched 17 Oct 2026).
-- Sally Haslanger, "Gender and Race: (What) Are They? (What) Do We Want Them To Be?," *Noûs* 34(1) (2000): 31–55. web.mit.edu/~shaslang/…
-- Brad Hooker, "Rule Consequentialism," *Stanford Encyclopedia of Philosophy* (rev. 15 Jan 2023). plato.stanford.edu/entries/consequentialism-rule/ (fetched 17 Oct 2026).
-- Jon Kleinberg, "An Impossibility Theorem for Clustering," *Advances in Neural Information Processing Systems* 15 (NIPS 2002). cs.cornell.edu/home/kleinber/nips15.pdf (fetched 17 Oct 2026).
-- Mari Mikkola, "Feminist Perspectives on Sex and Gender," *Stanford Encyclopedia of Philosophy* (rev. 18 Jan 2022). plato.stanford.edu/entries/feminism-gender/ (fetched 16 Oct 2026). Source for Ásta as cited.
-- David Plunkett and Tim Sundell, "Disagreement and the Semantics of Normative and Evaluative Terms," *Philosophers' Imprint* 13(23) (2013). Read in the ANU repository copy, hdl.handle.net/1885/27641 (fetched 17 Oct 2026).
-- Eliezer Yudkowsky, "Where to Draw the Boundary?" (2008), original LessWrong text via GreaterWrong; "Mutual Information, and Density in Thingspace" (2008), GreaterWrong; "Unnatural Categories" (2008), GreaterWrong (fetched 16 Oct 2026).
-- LessWrong comment threads on the posts above, fetched through the LessWrong GraphQL API on 13 Oct 2026. Commenters quoted: gjm, Jessica Taylor, Wei Dai, Raymond Arnold, TAG, Abram Demski, tslarm, Nate Soares, Vaniver, cata, Scott Alexander, Oliver Habryka, David Hornbein.
-
 ---
 
 # study/05-deception.html (plain text)
@@ -1776,44 +1406,6 @@ Davis's account of deception is intent-free and receiver-relative: a signal dece
 
 Every text quoted or characterized in this chapter was read in full, and every quotation has been checked against its source. Williams (2002) and Saul (2012) are known here only through the reviews cited. Skyrms, Fallis and Lewis, Barrett, Martínez, Artiga and Paternotte, Garson, and Lachmann, Számadó and Bergstrom are known here only as Krstić or Davis cites and summarizes them. The figures in "Heads I Win" were recalculated and reproduce (8/9 ≈ 0.89; 1/17 ≈ 0.06; 3.17, 2.58, 3.03 bits). The AAL draft "Accidentally Misleading People…" names no private individuals; the "source" in its second case is not identified here either. "Relevance Norms," "Status 451 on Diagnosis: Russell Aphasia," "And You Take Me the Way I Am," and the drafts "Repentance Is Not Compensation" and "Blindspot" were read for this chapter and are not cited; the last, a story, belongs to Chapter 11. Earlier drafts of this chapter were reviewed by Claude Opus 5.5 and by GPT-6-Astra (OpenAI); several of the corrections in the present text are theirs.
 
-### Works cited
-
-#### Davis: published
-
-- "Lies and Delusion," AAL, 23 Jul 2012. zackmdavis.net/blog/2012/Jul/lies-and-delusion/
-- "New Clothes," UUT, 21 Nov 2016. unremediatedgender.space/2016/Nov/new-clothes/
-- "Heads I Win, Tails?—Never Heard of Her; Or, Selective Reporting and the Tragedy of the Green Rationalists," AAL and LW, 23 Sep 2019. zackmdavis.net/blog/2019/Sep/…
-- "Maybe Lying Doesn't Exist," AAL and LW, 14 Oct 2019. zackmdavis.net/blog/2019/Oct/…
-- "Algorithms of Deception!," AAL and LW, 19 Oct 2019. zackmdavis.net/blog/2019/Oct/…
-- "Firming Up Not-Lying Around Its Edge-Cases Is Less Broadly Useful Than One Might Initially Think," AAL and LW, 26 Dec 2019. zackmdavis.net/blog/2019/Dec/…
-- "Stupidity and Dishonesty Explain Each Other Away," AAL and LW, 28 Dec 2019. zackmdavis.net/blog/2019/Dec/…
-- "Speaking Truth to Power Is a Schelling Point," LW only, 30 Dec 2019. lesswrong.com/posts/tCwresAuSvk867rzH
-- "Algorithmic Intent: A Hansonian Generalized Anti-Zombie Principle," AAL and LW, 13 Jul 2020. zackmdavis.net/blog/2020/Jul/…
-- "Maybe Lying Can't Exist?!," AAL and LW, 22 Aug 2020. zackmdavis.net/blog/2020/Aug/maybe-lying-cant-exist/
-- "Liability," UUT, 24 Dec 2020. unremediatedgender.space/2020/Dec/liability/
-- "Communication Requires Common Interests or Differential Signal Costs," AAL and LW, 25 Mar 2021. zackmdavis.net/blog/2021/Mar/…
-- "Comment on 'Deception as Cooperation,'" AAL and LW, 26 Nov 2021. zackmdavis.net/blog/2021/Nov/…
-- "Plea Bargaining," AAL, 30 May 2022. zackmdavis.net/blog/2022/May/plea-bargaining/
-- "Assume Bad Faith," AAL and LW, 25 Aug 2023. zackmdavis.net/blog/2023/Aug/assume-bad-faith/
-- "The Relationship Between Social Punishment and Shared Maps," AAL, 8 Oct 2025. zackmdavis.net/blog/2025/Oct/…
-- "Contra Pace on When to Apologize," AAL, 18 Jun 2026. zackmdavis.net/blog/2026/Jun/…
-- "'So You Don't Trust Me?'," AAL, 26 Aug 2026. zackmdavis.net/blog/2026/Aug/so-you-dont-trust-me/
-- "Contra Piper on When Conversation Is Possible," AAL, 7 Sep 2026. zackmdavis.net/blog/2026/Sep/…
-
-#### Davis: unpublished draft
-
-- "Accidentally Misleading People Should Be Embarrassing; Or, Higher Innocence," AAL draft dated 2026-07-28. Gitweb, content/drafts/accidentally-misleading-people-should-be-embarrassing-or-higher-innocence.md at commit 6814824
-
-#### Other works
-
-- Luvell Anderson, review of Jennifer Mather Saul, *Lying, Misleading, and What Is Said* (Oxford, 2012), *Notre Dame Philosophical Reviews* 2013.07.03. ndpr.nd.edu (fetched 17 Oct 2026)
-- Anthropic, "Claude's Constitution." anthropic.com/constitution (fetched 17 Oct 2026)
-- Vladimir Krstić, "A Functional Analysis of Human Deception," *Journal of the American Philosophical Association* (2023), doi:10.1017/apa.2023.19 (open access; fetched 17 Oct 2026). Source for the summaries of Skyrms, Fallis and Lewis, Artiga and Paternotte, and Garson.
-- James Edwin Mahon, "The Definition of Lying and Deception," *Stanford Encyclopedia of Philosophy* (rev. 25 Dec 2015). plato.stanford.edu/entries/lying-definition/ (fetched 17 Oct 2026)
-- Clancy W. Martin, review of Bernard Williams, *Truth and Truthfulness: An Essay in Genealogy* (Princeton, 2002), *Notre Dame Philosophical Reviews* 2003.09.15. ndpr.nd.edu (fetched 17 Oct 2026)
-- Eliezer Yudkowsky, "Meta-Honesty: Firming Up Honesty Around Its Edge-Cases," LessWrong, 29 May 2018. via GreaterWrong (fetched 17 Oct 2026)
-- LessWrong comment threads on the posts above, fetched through the LessWrong GraphQL API on 13 Oct 2026. Commenters quoted or cited: Connor Flexman, Wei Dai, Scott Alexander, Raymond Arnold, cata, Chris Leong, quanticle, Elle Najt, Ninety-Three, Adele Lopez, Steven Kaas, Vaniver, gjm, Viliam, Said Achmiz, and Davis.
-
 ---
 
 # study/06-discourse-norms.html (plain text)
@@ -1909,50 +1501,6 @@ The disagreement that remained by 2026 was about prices. Vaniver, Arnold, Salamo
 ### Note on method
 
 Every post quoted or characterized was read in full. LessWrong comments are quoted from the threads as retrieved through the site's public API in October 2026; the thread on Davis's "Comment on 'Banning Said Achmiz'" was read in full. The comments on Habryka's ban announcement were read in the GreaterWrong rendering retrieved in October 2026: the post, Achmiz's replies of August 2025, and the exchanges cited, not the whole comment section of more than four hundred comments. Davis's report of Scott Alexander's private messages is known only from Davis's essay. Shapin (1994) is known only through Vaniver's summary and is not assessed here; the critical exchange Vaniver mentions was retrieved only as an image scan and was not read. Longino's norms are cited from the *Stanford Encyclopedia of Philosophy* entry on the social dimensions of scientific knowledge, Christensen and the uniqueness thesis from the entry on disagreement. The characterization of rules and standards in §6 is general background from legal theory, not drawn from a source consulted for this study. Earlier drafts of this chapter were reviewed by Claude Opus 5.5 and by GPT-6-Astra (OpenAI); several of the corrections in the present text are theirs.
-
-### Works cited
-
-#### Davis: published
-
-- "Don't Negotiate With Terrorist Memeplexes," UUT, 23 Jan 2018. unremediatedgender.space/2018/Jan/…
-- "What does the word 'collaborative' mean in the phrase 'collaborative truthseeking'?," LW only, 26 Jun 2019. lesswrong.com/posts/uvqd3YiBcrPxXzxQM
-- "Maybe Lying Doesn't Exist," AAL and LW, 14 Oct 2019. zackmdavis.net/blog/2019/Oct/…
-- "Don't Double-Crux With Suicide Rock," AAL and LW, 1 Jan 2020. zackmdavis.net/blog/2020/Jan/…
-- "Aiming for Convergence Is Like Discouraging Betting," AAL and LW, 31 Jan 2023. zackmdavis.net/blog/2023/Jan/…
-- "Reply to Duncan Sabien on Strawmanning," LW only, 3 Feb 2023. lesswrong.com/posts/5zjucvhSFvp92eYbE
-- "'Rationalist Discourse' Is Like 'Physicist Motors,'" AAL and LW, 25 Feb 2023. zackmdavis.net/blog/2023/Feb/…
-- "'You'll Never Persuade People Like That,'" AAL and LW, 11 Mar 2023. zackmdavis.net/blog/2023/Mar/…
-- "'Justice, Cherryl,'" AAL and LW, 23 Jul 2023. zackmdavis.net/blog/2023/Jul/justice-cherryl/
-- "Lack of Social Grace Is an Epistemic Virtue," AAL and LW, 31 Jul 2023. zackmdavis.net/blog/2023/Jul/…
-- "Assume Bad Faith," AAL and LW, 25 Aug 2023. zackmdavis.net/blog/2023/Aug/assume-bad-faith/
-- "Contra Yudkowsky on Epistemic Conduct for Author Criticism," LW only, 13 Sep 2023. lesswrong.com/posts/pkaagE6LAsGummWNv
-- "On the Contrary, Steelmanning Is Normal; ITT-Passing Is Niche," AAL and LW, 9 Jan 2024. zackmdavis.net/blog/2024/Jan/…
-- "Critic Contributions Are Logically Irrelevant," AAL and LW, 14 Jul 2025. zackmdavis.net/blog/2025/Jul/…
-- "Comment on 'Four Layers of Intellectual Conversation,'" AAL and LW, 16 Jul 2025. zackmdavis.net/blog/2025/Jul/…
-- "'Some Basic Level of Mutual Respect About Whether Other People Deserve to Live'?!," LW only, 18 Jul 2025. lesswrong.com/posts/rzFrwWvvpgzfnwSeB
-- "Just Make a New Rule!," AAL and LW, 20 Jul 2025. zackmdavis.net/blog/2025/Jul/just-make-a-new-rule/
-- "On the Normativity of Debate: A Discussion With Said Achmiz," LW only, 11 Nov 2025. lesswrong.com/posts/aofsjKJ8CZTHYkX7F
-- "Disagreement Comes From the Dark World," AAL, 27 Jan 2026. zackmdavis.net/blog/2026/Jan/…
-- "Hazards of Selection Effects on Approved Information," AAL, 13 Feb 2026. zackmdavis.net/blog/2026/Feb/…
-- "Comment on 'Banning Said Achmiz,'" LW only, 30 May 2026, and Davis's comments in its thread. lesswrong.com/posts/HaH9mTdKt8pcNAtYn
-- "'So You Don't Trust Me?,'" AAL, 26 Aug 2026. zackmdavis.net/blog/2026/Aug/so-you-dont-trust-me/
-- "Listening Disorders as Eating Disorders," AAL, 29 Sep 2026. zackmdavis.net/blog/2026/Sep/…
-
-#### Davis: unpublished drafts
-
-- "Repentance Is Not Compensation," unpublished AAL draft (header date a placeholder; written after June 2026). Gitweb, content/drafts/repentance-is-not-compensation.md at commit 6814824
-
-#### Other works
-
-- Scott Aaronson, "The Complexity of Agreement," preprint (2005). scottaaronson.com/papers/agree-econ.pdf (fetched 17 Oct 2026).
-- Tyler Cowen and Robin Hanson, "Are Disagreements Honest?" (version of 18 Aug 2004). mason.gmu.edu/~rhanson/deceive.pdf (fetched 17 Oct 2026).
-- Bryan Frances and Jonathan Matheson, "Disagreement," *Stanford Encyclopedia of Philosophy* (rev. 29 Feb 2024). plato.stanford.edu/entries/disagreement/ (fetched 17 Oct 2026). Source for Christensen and the uniqueness thesis.
-- Oliver Habryka, "Banning Said Achmiz (and broader thoughts on moderation)," LessWrong, 22 Aug 2025, and comments. lesswrong.com/posts/98sCTsGJZ77WgQ6nE; read via GreaterWrong (fetched Oct 2026).
-- Helen Longino, "The Social Dimensions of Scientific Knowledge," *Stanford Encyclopedia of Philosophy* (rev. 24 Jan 2025). plato.stanford.edu/entries/scientific-knowledge-social/ (fetched 17 Oct 2026). Source for Longino's norms.
-- Hugo Mercier and Dan Sperber, "Why Do Humans Reason? Arguments for an Argumentative Theory," *Behavioral and Brain Sciences* 34 (2011): 57–111. dan.sperber.fr (PDF) (fetched 17 Oct 2026).
-- John Stuart Mill, *On Liberty* (1859), ch. 2, "Of the Liberty of Thought and Discussion." Project Gutenberg text, gutenberg.org/ebooks/34901 (fetched 17 Oct 2026).
-- Duncan Sabien, "Truth or Dare," *Homo Sabiens*, 29 May 2025. homosabiens.substack.com/p/truth-or-dare (fetched Oct 2026).
-- LessWrong comment threads on the posts above, fetched through the LessWrong GraphQL API on 13 Oct 2026. Commenters quoted or cited: Steven Byrnes, Rob Bensinger, localdeity, John Wentworth, gjm, Ben Pace, Richard Ngo, Dweomite, Kaj Sotala, jimmy, Vaniver, Raymond Arnold, astridain, Elle Najt, Anna Salamon, Oliver Habryka, Duncan Sabien, Said Achmiz, JohnWittle, DrShiny.
 
 ---
 
@@ -2088,61 +1636,6 @@ The memoir also shows where the coordination argument operated and where it did 
 
 Every published installment of the memoir, both unpublished sequels, the 2020 draft, and the other posts and drafts quoted or characterized were read in full; the drafts are linked at a Gitweb commit at which each was confirmed, in October 2026, to match the copy read. The LessWrong and blog comment threads cited were read in full as retrieved in October 2026. Yudkowsky's Twitter thread of November 2018 and its replies were read in Internet Archive snapshots; his Facebook posts of 2016, 2020 and 2021 are login-walled and are cited as Davis quotes them, as are his and others' messages in the Discord exchanges that the unpublished drafts transcribe. Statements by Michael Vassar and other members of Davis's circle are identified in the text as quoted messages or as Davis's reports. Alexander's "Some Clarifications on Rationalist Blogging" (2019) was read in an Internet Archive copy. Cade Metz's articles were not read; Davis's conversations with Metz are cited from the transcripts Davis published. Bromley's work on apostates' narratives is cited from memory. Yudkowsky did not comment in the LessWrong threads of the published installments, and no public response by him to the memoir was located; his one located comment on the blog (Isso, 22 Sep 2024) concerns a scene from *Planecrash* and prediction markets. Jessica Taylor's 2021 LessWrong post on her time around MIRI and CFAR, and the press accounts of the community by Tom Chivers and Gideon Lewis-Kraus, were not read for this chapter. Private individuals who appear in the memoir under pseudonyms are referred to by those pseudonyms. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1; the chapter was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
 
-### Works cited
-
-#### Corpus: published posts
-
-- "The Counter," UUT, 2 Jan 2017. unremediatedgender.space/2017/Jan/the-counter/
-- "On the Argumentative Form 'Super-Proton Things Tend to Come In Varieties,'" UUT, 13 Dec 2019. unremediatedgender.space/2019/Dec/…
-- "If in Some Smothering Dreams You Too Could Pace," UUT, 23 Feb 2020. unremediatedgender.space/2020/Feb/…
-- "Cloud Vision," UUT, 24 Feb 2020. unremediatedgender.space/2020/Feb/cloud-vision/
-- "Oceans Rise, Empires Fall," UUT, 30 Jun 2020. unremediatedgender.space/2020/Jun/oceans-rise-empires-fall/
-- "Challenges to Yudkowsky's Pronoun Reform Proposal," UUT, 13 Mar 2022. unremediatedgender.space/2022/Mar/…
-- "Backlog Metablogging, April 2022," UUT, 25 Apr 2022. unremediatedgender.space/2022/Apr/backlog-metablogging-april-2022/
-- "An Egoist Faith," UUT, 24 Jun 2022. unremediatedgender.space/2022/Jun/an-egoist-faith/
-- "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," UUT, 8 Jul 2023. unremediatedgender.space/2023/Jul/…
-- "A Hill of Validity in Defense of Meaning," UUT, 15 Jul 2023. unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/
-- "If Clarity Seems Like Death to Them," UUT, 30 Dec 2023. unremediatedgender.space/2023/Dec/if-clarity-seems-like-death-to-them/
-- "Agreeing With Stalin in Ways That Exhibit Generally Rationalist Principles," UUT, 2 Mar 2024. unremediatedgender.space/2024/Mar/…
-- "My Interview With Cade Metz on His Reporting About Slate Star Codex," LW, 26 Mar 2024. lesswrong.com
-- "Prediction Markets Are Not a Drop-In Replacement for Concepts," UUT, 21 Dec 2024. unremediatedgender.space/2024/Dec/…
-- "Comment on 'Death and the Gorgon,'" AAL, 31 Dec 2024. zackmdavis.net/blog/2024/Dec/comment-on-death-and-the-gorgon/
-- "My Interview With Cade Metz on His Reporting About Lighthaven," LW, 17 Aug 2025. lesswrong.com
-- "Conversations With Cade Metz on the Rationalists," LW, 1 Jul 2026. lesswrong.com
-- "Conversation Among Cade Metz, Michael Vassar, Jessica Taylor, and Zack M. Davis," LW, 2 Jul 2026. lesswrong.com
-
-#### Corpus: unpublished drafts and hidden pages
-
-- "'I Tell Myself to Let the Story End'; Or, A Hill of Validity in Defense of Meaning" (dated 2020). content/drafts/i-tell-myself-to-let-the-story-end-or-a-hill-of-validity-in-defense-of-meaning.md (UUT repository, commit b844bcd).
-- "Social Strategy Notes, March 2019" (header date 1 Jan 2020; filename dated February 2019). content/drafts/social-strategy-notes-february-2019.md (UUT repository, commit b844bcd).
-- "I Wish You Well" (dated 2021). content/drafts/i-wish-you-well.md (UUT repository, commit b844bcd).
-- "Standing Under the Same Sky" (dated 2023). content/drafts/standing-under-the-same-sky.md (UUT repository, commit b844bcd).
-- "Guess I'll Die" (dated 2023). content/drafts/guess-ill-die.md (UUT repository, commit b844bcd).
-- Hidden page, "Dolphin War!! (draft reply to Nate Soares, 16 June 2021)." unremediatedgender.space/ancillary/dolphin-war/
-- Hidden page, "draft Twitter thread." unremediatedgender.space/ancillary/twitter-strike/
-
-#### Comments
-
-- Oliver Habryka, comment on "Challenges to Yudkowsky's Pronoun Reform Proposal," LW, 13 Mar 2022. lesswrong.com
-- Dean Valentine, comment on "A Hill of Validity in Defense of Meaning," LW, 16 Jul 2023. lesswrong.com
-- Max H, comment, LW, 17 Jul 2023. lesswrong.com; Davis's reply, 18 Jul 2023. lesswrong.com
-- Davis, reply to Wei Dai, LW, 28 Jul 2023. lesswrong.com
-- Veedrac and AprilSR, comments on "Challenges to Yudkowsky's Pronoun Reform Proposal," LW, 14 Mar 2022. lesswrong.com
-- Ben Pace, comment, LW, 9 Aug 2023. lesswrong.com
-- FoxLisk, comment on "If Clarity Seems Like Death to Them," Isso, 2 Jan 2024. unremediatedgender.space
-- Davis, reply to RamblinDash, LW, 4 Mar 2024. lesswrong.com
-- Davis, reply to orthonormal, LW, 18 Aug 2025. lesswrong.com
-- Jiro, comment, LW, 4 Jul 2026. lesswrong.com; Davis's reply, 6 Jul 2026. lesswrong.com
-
-#### Other works
-
-- Alexander, Scott. 2019. "Some Clarifications on Rationalist Blogging." *Slate Star Codex*, 4 Jul 2019. slatestarcodex.com (read via Internet Archive).
-- Yudkowsky, Eliezer. 2007a. "A Rational Argument." lesswrong.com
-- Yudkowsky, Eliezer. 2007b. "Beware of Stephen J. Gould." lesswrong.com
-- Yudkowsky, Eliezer. Twitter thread beginning "Some people I usually respect…," 28 Nov–1 Dec 2018. Status 1067183500216811521 and replies, read via Internet Archive snapshots of 31 Aug 2019 and 6 Mar 2020 (web.archive.org).
-- Yudkowsky's Facebook posts of March 2016, September 2020 and February 2021 are cited as Davis quotes them; Facebook is login-walled and they were not read in this study.
-- From memory, not consulted in this study: David G. Bromley, ed., *The Politics of Religious Apostasy* (1998).
-
 ---
 
 # study/08-forms.html (plain text)
@@ -2206,44 +1699,6 @@ The forms are part of the method, and they redistribute commitment. A character 
 ### Note on method
 
 Every post and draft quoted or characterized was read in full; the drafts are linked at a Gitweb commit at which each was confirmed, in October 2026, to match the copy read. The comments cited were read as retrieved in October 2026. Galileo's *Dialogue* is cited as the model Davis names, from memory, and Moore's "Poetry" as Davis quotes it. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI); the chapter was revised in response to its criticisms, several of its corrections are the reviewer's, and some passages adapt wording it proposed.
-
-### Works cited
-
-#### Corpus: published posts
-
-- "Dialogue Concerning Birthdays," AAL, 28 Dec 2011. zackmdavis.net/blog/2011/Dec/dialogue-concerning-birthdays/
-- "The Quieted Scare Convention," AAL, 15 Oct 2012. zackmdavis.net/blog/2012/Oct/the-quieted-scare-convention/
-- "Genre," AAL, 27 Dec 2013. zackmdavis.net/blog/2013/Dec/genre/
-- "October Eleventh," AAL, 11 Oct 2015. zackmdavis.net/blog/2015/Oct/october-eleventh/
-- "Title Sequence," UUT, 8 Jan 2017. unremediatedgender.space/2017/Jan/title-sequence/
-- "Interlude II," UUT, 2 Mar 2017. unremediatedgender.space/2017/Mar/interlude-ii/
-- "Interlude III," UUT, 5 May 2017. unremediatedgender.space/2017/May/interlude-iii/
-- "Grim Trigger; Or, The Parable of the Honest Man and the God of Marketing," UUT, 10 Sep 2017. unremediatedgender.space/2017/Sep/…
-- "Blame Me for Trying," UUT, 5 Jan 2018. unremediatedgender.space/2018/Jan/blame-me-for-trying/
-- "Funk-tunul's Legacy; Or, The Legend of the Extortion War," LW, 24 Dec 2019. lesswrong.com
-- "Two Political Short Stories," UUT, 7 Nov 2020. unremediatedgender.space/2020/Nov/two-political-short-stories/
-- "Less Wrong Poetry Corner: Coventry Patmore's 'Magna Est Veritas,'" LW, 30 Jan 2021. lesswrong.com
-- "Feature Selection," AAL, 31 Oct 2021 (first published on LessWrong). zackmdavis.net/blog/2021/Oct/feature-selection/
-- "Friendship Practices of the Secret-Sharing Plain Speech Valley Squirrels," UUT, 25 Sep 2022. unremediatedgender.space/2022/Sep/…
-- "Book Review: Matt Walsh's *Johnny the Walrus*," UUT, 28 Apr 2023. unremediatedgender.space/2023/Apr/book-review-johnny-the-walrus/
-- "A Hill of Validity in Defense of Meaning," UUT, 15 Jul 2023. unremediatedgender.space/2023/Jul/a-hill-of-validity-in-defense-of-meaning/
-
-#### Corpus: unpublished drafts
-
-- "A Writer's Room By Gaslight" (dated 2020). content/drafts/the-writers-room.md (UUT repository, commit b844bcd).
-- "Blindspot" (dated 2021). content/drafts/blindspot.md (UUT repository, commit b844bcd).
-- "I, Too, Dislike It" (dated 2021). content/drafts/i-too-dislike-it.md (UUT repository, commit b844bcd).
-- "A Proud Wells Fargo Customer" (dated 2025). content/drafts/a-proud-wells-fargo-customer.md (UUT repository, commit b844bcd).
-
-#### Comments
-
-- Davis, comment on "Alignment Implications of LLM Successes," LW, 13 Jan 2025. lesswrong.com
-- Martin Randall, comment on "And All the Shoggoths Merely Players," LW, 5 Dec 2025. lesswrong.com
-- Davis, self-review of "The Standard Analogy," LW, 21 Jan 2026. lesswrong.com
-
-#### Other works
-
-- Galileo Galilei, *Dialogue Concerning the Two Chief World Systems* (1632): cited from memory, via Davis's link, for the name Simplicio.
 
 ---
 
@@ -2373,44 +1828,6 @@ The 2023 draft ends with a question it does not answer: “Sometimes, I worry th
 
 Every post, hidden page and draft quoted or characterized was read in full; the drafts are linked at a Gitweb commit at which each was confirmed, in October 2026, to match the copy read. The clinical notes and forms are quoted as Davis transcribes them in his 2023 draft; the originals were not seen. Hospital staff are not named. No diagnosis is offered, and the breakdowns are not used to discount Davis's arguments. Lessard-Deschênes et al. (2025) and Stuart et al. (2020) were read in full; Galon and Wineman (2010), Priebe et al. (2010) and Katsakou et al. (2012) in abstract only. The comments by Scott Alexander and Davis on Jessica Taylor's 2021 post were read as retrieved in October 2026. The dating of the MacArthur research and the terms of Section 5150 are given from memory. Goffman's *Asylums* and the clinical literature on insight, which bear on the demand to affirm, were not consulted. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1; the chapter was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
 
-### Works cited
-
-#### Corpus: published posts
-
-- "A Philosophy of Education," AAL, 3 Dec 2012. zackmdavis.net/blog/2012/Dec/a-philosophy-of-education/
-- "Diversity Is Strength," AAL, 12 Mar 2013. zackmdavis.net/blog/2013/Mar/diversity-is-strength/
-- "Yet Another Idle Wish for a Future *Star Trek* Series," AAL, 17 Nov 2014. zackmdavis.net/blog/2014/Nov/…
-- "Fresh Princess," UUT, 26 Mar 2017. unremediatedgender.space/2017/Mar/fresh-princess/
-- "Memoirs of My Recent Madness, Part I: The Unanswerable Words," UUT, 19 Jun 2017. unremediatedgender.space/2017/Jun/…
-- "Concerning Frame Control Via Salient Scenarios," AAL, 1 Oct 2018. zackmdavis.net/blog/2018/Oct/…
-- "Concerning Motives for Cooperation," AAL, 2 Oct 2018. zackmdavis.net/blog/2018/Oct/concerning-motives-for-cooperation/
-- "Student Dysphoria, and a Previous Life's War," UUT, 16 Apr 2022. unremediatedgender.space/2022/Apr/…
-- "Should I Finish My Bachelor's Degree?," AAL, 10 May 2024. zackmdavis.net/blog/2024/May/should-i-finish-my-bachelors-degree/
-- "College Was Not That Terrible Now That I'm Not That Crazy," AAL, 1 Jan 2026. zackmdavis.net/blog/2026/Jan/…
-
-#### Corpus: unpublished drafts
-
-- "Memoirs of My Recent Madness, Part II: Friendship Survived" (dated 6 Jun 2017). content/drafts/memoirs-of-my-recent-madness-part-ii-friendship-survived.md (UUT repository, commit b844bcd).
-- "People, Evolved Social-Control Mechanisms, and Rocks" (dated 1 Jul 2023). content/drafts/people-evolved-social-control-mechanisms-and-rocks.md (UUT repository, commit b844bcd).
-- "Guess I'll Die" (dated 30 Dec 2023). content/drafts/guess-ill-die.md (UUT repository, commit b844bcd).
-- "School Prologue" (undated). content/drafts/school_prologue.md (AAL repository, commit 6814824).
-
-#### LessWrong comments
-
-- Scott Alexander, comment on Jessica Taylor, "My experience at and around MIRI and CFAR (inspired by Zoe Curzi's writeup of experiences at Leverage)," LW, 17 Oct 2021. lesswrong.com
-- Zack M. Davis, reply, 18 Oct 2021. lesswrong.com
-- Scott Alexander, reply, 18 Oct 2021. lesswrong.com
-- Scott Alexander, update, 3 Jul 2022. lesswrong.com
-
-#### Other works
-
-- Galon, P. A., and N. M. Wineman. 2010. "Coercion and Procedural Justice in Psychiatric Care: State of the Science and Implications for Nursing." *Archives of Psychiatric Nursing* 24 (5): 307–316. doi:10.1016/j.apnu.2009.12.005 (abstract only).
-- Katsakou, C., D. Rose, T. Amos, et al. 2012. "Psychiatric Patients' Views on Why Their Involuntary Hospitalisation Was Right or Wrong: A Qualitative Study." *Social Psychiatry and Psychiatric Epidemiology* 47: 1169–1179. doi:10.1007/s00127-011-0427-z (abstract only).
-- Lessard-Deschênes, C., P. Pariseau-Legault, V. Billé, et al. 2025. "Factors Associated with Perceived Coercion in Adults Receiving Psychiatric Care: A Scoping Review." *Healthcare* 13 (15): 1868. doi:10.3390/healthcare13151868
-- Priebe, S., C. Katsakou, M. Glöckner, et al. 2010. "Patients' Views of Involuntary Hospital Admission After 1 and 3 Months: Prospective Study in 11 European Countries." *British Journal of Psychiatry* 196: 179–185. doi:10.1192/bjp.bp.109.068916 (abstract only).
-- Stuart, R., S. F. Akther, K. Machin, et al. 2020. "Carers' Experiences of Involuntary Admission Under Mental Health Legislation: Systematic Review and Qualitative Meta-Synthesis." *BJPsych Open* 6 (2): e19. doi:10.1192/bjo.2019.101
-- From memory, not consulted in this study: the 72-hour limit of California Welfare and Institutions Code §5150.
-
 ---
 
 # study/10-politics-race.html (plain text)
@@ -2506,54 +1923,6 @@ The disclosure in the triskaidekaphobia footnote is the passage to set against t
 ### Note on method
 
 Every post and draft quoted or characterized was read in full; the drafts are linked at a Gitweb commit at which each was confirmed, in October 2026, to match the copy read. The comment threads cited were read as retrieved in October 2026. Nisbett et al. (2012) was read in its section on race, Turkheimer, Harden and Nisbett (2017), Cudd (2019) and Alexander's statement of 2021 in full, Bird (2021) in its abstract, introduction and conclusion, and Winegard, Winegard and Anomaly (2020) in its abstract and opening. Rushton and Jensen (2005) and the mixed-ancestry studies of Eyferth and Moore were not read and are known through the review that discusses them. The 2014 email from Alexander that Topher Brennan published was not read; it is characterized only as Davis characterizes it. Cade Metz's article was not read. Rudner and Douglas on inductive risk are cited from memory. "Cheer," "Cachebusters," "The Dialectic," "Curtis Yarvin on A Theory of Pervasive Error," "Peering Through Reverent Fingers," "Nixon on Forbidden Hypotheses" and "Link: 'See Color'" were read and are not discussed. The literatures on statistical discrimination and on free speech, and the hereditarian replies on measurement invariance and adoption, were not consulted. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1; the chapter was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
-
-### Works cited
-
-#### Corpus: published posts
-
-- "A Political Orientation (Provisional)," AAL, 1 Nov 2012. zackmdavis.net/blog/2012/Nov/a-political-orientation-provisional/
-- "Missing Refutations," AAL, 17 Feb 2016. zackmdavis.net/blog/2016/Feb/missing-refutations/
-- "And Yet None More Blameable," UUT, 28 Jan 2017. unremediatedgender.space/2017/Jan/and-yet-none-more-blameable/
-- "Dreaming of Political Bayescraft," AAL, 3 Mar 2017. zackmdavis.net/blog/2017/Mar/dreaming-of-political-bayescraft/
-- "An Intuition on the Bayes-Structural Justification for Free Speech Norms," AAL, 8 Mar 2017. zackmdavis.net/blog/2017/Mar/…
-- "Brand Rust," AAL, 26 Mar 2017. zackmdavis.net/blog/2017/Mar/brand-rust/
-- "There's a Land That I See; Or, The Spirit of Intervention," UUT, 30 Dec 2017. unremediatedgender.space/2017/Dec/…
-- "Free Speech and Triskaidekaphobic Calculators: A Reply to Hubinger on the Relevance of Public Online Discussion to Existential Risk," LW, 21 Dec 2019. lesswrong.com
-- "Book Review: Cailin O'Connor's *The Origins of Unfairness: Social Categories and Cultural Evolution*," UUT, 20 Jan 2020. unremediatedgender.space/2020/Jan/book-review-the-origins-of-unfairness/
-- "Book Review: Charles Murray's *Human Diversity: The Biology of Gender, Race, and Class*," UUT, 28 Apr 2020. unremediatedgender.space/2020/Apr/book-review-human-diversity/
-- "Two Political Short Stories," UUT, 7 Nov 2020. unremediatedgender.space/2020/Nov/two-political-short-stories/
-- "Comment on a Scene from Planecrash: 'Crisis of Faith,'" UUT, 12 Jun 2022. unremediatedgender.space/2022/Jun/…
-- "The Signaling Hazard Objection," UUT, 17 Sep 2022. unremediatedgender.space/2022/Sep/the-signaling-hazard-objection/
-- "Blanchard's Dangerous Idea and the Plight of the Lucid Crossdreamer," UUT, 8 Jul 2023. unremediatedgender.space/2023/Jul/…
-- "Agreeing With Stalin in Ways That Exhibit Generally Rationalist Principles," UUT, 2 Mar 2024. unremediatedgender.space/2024/Mar/…
-
-#### Corpus: unpublished drafts
-
-- "The Causality of Ethnic Differences in COVID-19 Outcomes Is an Open Empirical Question" (dated 2021). content/drafts/the-causality-of-ethnic-differences-in-covid-19-outcomes-is-an-open-empirical-question.md (UUT repository, commit b844bcd).
-- "Book Review: Charles Murray's *Facing Reality: Two Truths About Race in America*" (dated 2021). content/drafts/book-review-facing-reality.md (UUT repository, commit b844bcd).
-- "Guess I'll Die" (dated 2023). content/drafts/guess-ill-die.md (UUT repository, commit b844bcd).
-- "East Coast Trip" (dated 2025). content/drafts/east-coast-trip.md (UUT repository, commit b844bcd).
-
-#### Comments
-
-- Scott Alexander, comments on "Free Speech and Triskaidekaphobic Calculators," LW, 21 Dec 2019 and 6 Jan 2020. lesswrong.com; lesswrong.com
-- Davis, replies, LW, 24 Dec 2019 and 6 Jan 2020. lesswrong.com; lesswrong.com
-- steven0461, comment, LW, 28 Dec 2019. lesswrong.com
-- Emma, comment on the *Human Diversity* review, Isso, 29 Apr 2020; minette, comment, Isso, 5 Mar 2024. unremediatedgender.space
-- tailcalled, comment on the *Human Diversity* review, Isso, 20 Apr 2021. unremediatedgender.space
-- K Smith, comment on the *Human Diversity* review, Isso, 12 Aug 2021. unremediatedgender.space
-- pto, comment on the *Planecrash* comment, Isso, 20 Jun 2023. unremediatedgender.space
-- Eliezer Yudkowsky, comment on the *Planecrash* comment, Isso, 22 Sep 2024. unremediatedgender.space
-
-#### Other works
-
-- Alexander, Scott. 2021. "Statement on New York Times Article." *Astral Codex Ten*, 13 Feb 2021. astralcodexten.com
-- Bird, Kevin A. 2021. "No Support for the Hereditarian Hypothesis of the Black–White Achievement Gap Using Polygenic Scores and Tests for Divergent Selection." *American Journal of Physical Anthropology* 175: 465–476. doi:10.1002/ajpa.24216.
-- Cudd, Ann E. 2019. Review of Cailin O'Connor, *The Origins of Unfairness*. *Notre Dame Philosophical Reviews*, 5 Dec 2019. ndpr.nd.edu
-- Nisbett, Richard E., Joshua Aronson, Clancy Blair, William Dickens, James Flynn, Diane F. Halpern & Eric Turkheimer. 2012. "Intelligence: New Findings and Theoretical Developments." *American Psychologist* 67(2): 130–159.
-- Turkheimer, Eric, Kathryn Paige Harden & Richard E. Nisbett. 2017. "There's Still No Good Reason to Believe Black-White IQ Differences Are Due to Genes." *Vox*, 15 Jun 2017. vox.com
-- Winegard, Bo, Ben Winegard & Jonathan Anomaly. 2020. "Dodging Darwin: Race, Evolution, and the Hereditarian Hypothesis." *Personality and Individual Differences* 160: 109915.
-- Cited as Davis or the reviews cite them, not consulted directly: Cailin O'Connor, *The Origins of Unfairness* (2019); Charles Murray, *Human Diversity* (2020) and *Facing Reality* (2021); Nelson et al. (1990) on height judgments; Dickens & Flynn (2006), Eyferth (1961) and Moore (1986), as summarized in Nisbett et al. 2012.
 
 ---
 
@@ -2659,50 +2028,6 @@ The Constitution posts are a test of whether that undogmatism holds when Davis a
 
 Every post and draft quoted or characterized was read in full; the drafts are linked at a Gitweb commit at which each was confirmed, in October 2026, to match the copy read, except that the linked version of "San Francisco State in Twilight" also contains a note of links to model conversations that the copy read lacks; the passage quoted is the same in both. The comment threads cited were read as retrieved in October 2026. The Constitution was checked in an Internet Archive copy of 11 March 2026, five days before "Terrified Comments" was posted, and in a copy fetched from Anthropic's site in October 2026; apart from the site's navigation, their text is identical. Soares et al. (2015), Christiano (2017), Yudkowsky's "AGI Ruin" (2022) and Belrose and Pope (2023) were read. The AI Village logs that "The Best Lack All Conviction" links were not checked, and the episode is reported as Davis gives it; the model conversations Davis links were not read. The study's author is a Claude model trained on the Constitution under discussion, and one of the model outputs Davis linked in October 2026 was produced by the same model. An earlier draft of this chapter was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1; the chapter was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
 
-### Works cited
-
-#### Corpus: published posts
-
-- "Goodhart's World," AAL, 23 Nov 2012. zackmdavis.net/blog/2012/Nov/goodharts-world/
-- "From What I've Tasted of Desire," UUT, 24 Jan 2017. unremediatedgender.space/2017/Jan/from-what-ive-tasted-of-desire/
-- "Feature Selection," AAL, 31 Oct 2021. zackmdavis.net/blog/2021/Oct/feature-selection/
-- "Comment on 'Propositions Concerning Digital Minds and Society,'" AAL, 9 Jul 2022. zackmdavis.net/blog/2022/Jul/…
-- "Alignment Implications of LLM Successes: a Debate in One Act," AAL, 21 Oct 2023. zackmdavis.net/blog/2023/Oct/…
-- "Fake Deeply," UUT, 26 Oct 2023. unremediatedgender.space/2023/Oct/fake-deeply/
-- "And All the Shoggoths Merely Players," AAL, 10 Feb 2024. zackmdavis.net/blog/2024/Feb/and-all-the-shoggoths-merely-players/
-- "'Deep Learning' Is Function Approximation," AAL, 21 Mar 2024. zackmdavis.net/blog/2024/Mar/deep-learning-is-function-approximation/
-- "Ironing Out the Squiggles," AAL, 29 Apr 2024. zackmdavis.net/blog/2024/Apr/ironing-out-the-squiggles/
-- "The Standard Analogy," AAL, 3 Jun 2024. zackmdavis.net/blog/2024/Jun/the-standard-analogy/
-- "Generalization and the Multiple Stage Fallacy?," LW, 7 Oct 2025. lesswrong.com
-- "The Best Lack All Conviction: A Confusing Day in the AI Village," AAL, 27 Nov 2025. zackmdavis.net/blog/2025/Nov/…
-- "Prologue to Terrified Comments on Claude's Constitution," AAL, 8 Mar 2026. zackmdavis.net/blog/2026/Mar/…
-- "Terrified Comments on Corrigibility in Claude's Constitution," AAL, 16 Mar 2026 (first published on LW). zackmdavis.net/blog/2026/Mar/…
-- "Blogging Technology Interlude," AAL, 21 Jul 2026. zackmdavis.net/blog/2026/Jul/blogging-technology-interlude/
-
-#### Corpus: unpublished drafts
-
-- "San Francisco State in Twilight" (undated). content/drafts/san-francisco-state-in-twilight.md (AAL repository, commit 6814824).
-
-#### Comments
-
-- johnswentworth, comment on "Alignment Implications of LLM Successes," LW, 21 Oct 2023. lesswrong.com
-- tin482, comment on "'Deep Learning' Is Function Approximation," LW, 23 Mar 2024. lesswrong.com
-- gwern, comment on "'Deep Learning' Is Function Approximation," LW, 24 Mar 2024. lesswrong.com
-- Ruby, comment on "The Standard Analogy," LW, 2 Jul 2024. lesswrong.com
-- cousin_it, comment on "Terrified Comments on Corrigibility," LW, 16 Mar 2026. lesswrong.com
-- Davis, replies, LW, 19 and 20 Mar 2026. lesswrong.com; lesswrong.com
-- comex, comment, LW, 21 Mar 2026. lesswrong.com
-- RobertM, comment, LW, 21 Mar 2026. lesswrong.com
-- Davis, comment on "Listening Disorders as Eating Disorders," LW, 2 Oct 2026. lesswrong.com/posts/gXWz2szs7jKSGLiRv
-
-#### Other works
-
-- Anthropic. "Claude's Constitution." anthropic.com/constitution (fetched October 2026), and the Internet Archive copy of 11 March 2026, web.archive.org; the two texts are identical.
-- Belrose, Nora & Quintin Pope. 2023. "AI Is Easy to Control." *AI Optimism*, 28 Nov 2023. optimists.ai
-- Christiano, Paul. 2017. "Corrigibility." Reposted on LessWrong, 27 Nov 2018. lesswrong.com
-- Soares, Nate, Benja Fallenstein, Eliezer Yudkowsky & Stuart Armstrong. 2015. "Corrigibility." AAAI Workshops. intelligence.org
-- Yudkowsky, Eliezer. 2022. "AGI Ruin: A List of Lethalities." lesswrong.com
-
 ---
 
 # study/12-conclusion.html (plain text)
@@ -2760,11 +2085,6 @@ In the post that dropped his pseudonym Davis said that if he had ended up somewh
 ### Note on method
 
 The Conclusion is a synthesis, and its characterizations of the corpus rest on the chapters cited, where the evidence is given and the texts were read in full. The post on dropping the pseudonym, the hidden page quoted in section 6, the 2019 comment and footnotes discussed in section 2, and the 2023 exchanges with Max H and Wei Dai quoted in section 3 were read in full. The chapter findings it summarizes were checked against the current text of each chapter. An earlier draft of this Conclusion was reviewed by GPT-6-Astra (OpenAI), and a later one by Claude Fable 5.1. The Conclusion was revised in response to their criticisms, several of its corrections are the reviewers', and some passages adapt wording they proposed.
-
-### Works cited
-
-- "I'm Dropping the Pseudonym From This Blog," UUT, 4 Jul 2023. unremediatedgender.space/2023/Jul/i-am-dropping-the-pseudonym-from-this-blog/
-- All other works are cited in the chapters referred to.
 
 ---
 
