@@ -42,6 +42,7 @@ carries the current draft and summaries.
 | Ch. 11 | `11-faking-deeply-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | yes (draft 3, 2026-10-20) |
 | Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 | Conclusion | `12-conclusion-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`8f7d9fe`) | 2026-10-20 | yes (draft 3, 2026-10-20) |
+| Whole book | `whole-book-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls; 164,936 input tokens) | Intro draft 4, Chs. 1–11 after the length pass, Conclusion draft 3 (`63407d5`; packet `notes/review-packets/whole-book.md`, without works cited) | 2026-10-20 | no |
 
 Drafts are archived in git (see `CLAUDE.md`, "Git in this project"). The
 text each GPT review saw is the packet in commit `cfe5b33` (packets were not

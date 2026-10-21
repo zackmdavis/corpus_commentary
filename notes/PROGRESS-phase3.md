@@ -35,7 +35,7 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
 - [x] Apparatus: chronology, thematic index of posts, bibliography, index page (2026-10-20)
 - [x] Opus cross-chapter pass (2026-10-20)
 - [x] Opus length pass (2026-10-20; `notes/cuts-v1.md`)
-- [ ] Whole-book review by GPT via Codex (decided by the user; packet builder needs a whole-book mode)
+- [x] Whole-book review by GPT via Codex (run 2026-10-20; `notes/reviews/whole-book-gpt.md`, 5,550 words; not yet processed)
 - (Phase 4 verification follows)
 
 ## Session log
