@@ -88,7 +88,17 @@ brief) without naming anyone, and drafting sessions should not bring the
 question up again. Add the name when the front matter is assembled for v1.
 This note is kept out of the review packets on purpose.
 
-## Current state, 2026-10-20, late evening (resume here; supersedes the sections below)
+## Current state, 2026-10-20, night (resume here; supersedes the sections below)
+
+**Length pass done** (session c653f79f, Opus 5.5). All 13 pieces read in full; 43 cuts in the Introduction and Chs. 1–11 (Conclusion unchanged), each listed with section, size and what the reader loses in `notes/cuts-v1.md`, **which the user will read and may ask for passages back from** (restore from commit 38fc8f4). Changed chapters bumped one draft (Intro 4, Ch. 1 3, Ch. 2 4, Ch. 3 5, Ch. 4 5, Ch. 5 4, Ch. 6 4, Ch. 7 5, Ch. 8 3, Ch. 9 5, Ch. 10 4, Ch. 11 5), each with a "Draft N changes (length pass…)" block in `notes/chapter-summaries.md`. Knock-on fixes: orphaned works-cited entries removed; Notes on method edited only where they named cut material; chronology's 2013 link → Ch. 9 §1. Apparatus rebuilt (215 works by Davis; 94 other; 41 reception). Checks: 1,081 quotations, 0 problems; URLs 0 problems; internal anchors 0 problems; no local paths in visible text.
+
+**Length: 98,143 → 95,687 (−2,456)**, by html_to_text + wc -w on body + notes + Notes on method, works cited stripped (this measure gives 98.1k for the pre-pass state, not the 97.9k recorded below). Short of the 8–10k target. Following the user's exclusions (argument steps, concessions, adopted review objections, from-memory/caveat notes, Notes on method), most remaining material was not cuttable; `notes/cuts-v1.md` § "Considered and not cut" lists ~3,300 words of further candidates with what each would cost, and says that reaching 88–90k would take structural cuts in Ch. 4 §8, Ch. 6 §6, Ch. 10 §6 and Ch. 2 §6.
+
+**Open.**
+1. User to read `notes/cuts-v1.md`: restore any passages, and decide whether to cut further from the "Considered and not cut" list.
+2. Items 1–5 of the late-evening list below still stand (commissioner's name; citation styles; draft header dates; ASK about the whole-book review; then Phase 4).
+
+## Current state, 2026-10-20, late evening (superseded above)
 
 **Cross-chapter pass done** (session 35e531f0, Opus 5.5; commit 6129f74). All 13 pieces read in full. Cuts of repetition and lower-value detail in Chs. 3, 4, 7, 9, 11 (now draft 4; "Draft 4 changes" blocks in `notes/chapter-summaries.md`) and small fixes elsewhere: unfulfilled forward references removed (Ch. 4 → Ch. 7 "traces"; Ch. 7 → Ch. 9 "notes"); Ch. 8 and the Conclusion no longer attribute to Ch. 4 a finding that the stealth reply "cost him credibility"; Ch. 8 now quotes "I might be a woman" from "October Eleventh" (it had said a 2015 reader had only "the dragon"); Ch. 1 points to Ch. 4 on the two definitions sentences; Ch. 5 points to Ch. 11 (#claude) for the Constitution's non-deception clause; "TracingWoodgrains" (site display name) throughout; reviewer lines no longer mention the Fable→Opus fallback; plan's Empirical Claim date and Ch. 6 summary's Lady Justice line fixed. Flags from earlier notes checked: "norm of accounting" frequency is unremarkable (Ch. 7: 4); "Chapter N found" density in the Conclusion left as is; affiliations (Demski "MIRI researcher", Soares "executive director") are documented in the corpus.
 
