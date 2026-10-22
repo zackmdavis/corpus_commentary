@@ -270,7 +270,7 @@ open('study/b-thematic-index.html', 'w', encoding='utf-8').write('\n'.join(out))
 # --- Bibliography -----------------------------------------------------------
 out = [HEAD.format(title='Bibliography', label='Apparatus C',
                    nav='<a href="b-thematic-index.html">← Thematic Index</a><a href="d-questions.html">Questions →</a>')]
-out.append('<p class="lede">Part I lists every work of Davis\'s quoted or discussed in the study, with the chapters that cite it. Parts II and III gather the other sources and the reception from the chapters\' lists of works cited. Posts that appeared both on a blog and on LessWrong are listed under the blog.</p>\n')
+out.append('<p class="lede">Part I lists every work of Davis\'s quoted or discussed in the study, with the chapters that cite it. Parts II and III gather the other sources and the reception from the chapters\' lists of works cited. Posts that appeared both on a blog and on LessWrong are listed under the blog. Unpublished drafts are listed without dates, because many carry placeholder dates in their headers; where a chapter dates a draft, the date is the one given in the draft\'s header or text, as the chapter says.</p>\n')
 out.append('<h2 id="davis">I. Works by Davis</h2>')
 groups = [('AAL', '<i>An Algorithmic Lucidity</i> (zackmdavis.net/blog)'),
           ('UUT', '<i>The Scintillating But Ultimately Untrue Thought</i> (unremediatedgender.space)'),

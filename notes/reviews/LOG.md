@@ -57,6 +57,10 @@ Codex event log (`.jsonl`), and `.model`, which lists the thread id, the
 Codex session file, the model and effort it records, the number of tool calls
 (should be 0) and token usage.
 
+## Status, 2026-10-22, evening (v1 frozen)
+
+All reviews are processed. v1 is frozen in `study-v1/`. Any review of the second edition goes in a new section of this table.
+
 ## Status, 2026-10-22 (whole-book review processed)
 
 The whole-book GPT-6-Astra review is processed; handling at the end of `notes/reviews/whole-book-gpt.md`. Its proposed structural cuts (13–16k words) were judged by the drafting model at the user's request: about 2.4k made (mostly the Conclusion), the rest declined as costing argument; see the review file and `notes/cuts-v1.md`.

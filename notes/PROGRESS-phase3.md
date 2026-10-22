@@ -28,7 +28,7 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
   - [x] `study/index.html` contents page written (apparatus still to come).
   - [x] Whole study checks 2026-10-18: 1,032 quotations, 0 problems; URL check 0 problems; all internal anchors resolve.
   - [ ] **Next: review batch.** Tell the user drafts are done; ask whether Chs. 5, 6, 2, 3 should also get Fable reviews in the batch. Chapters needing first reviews: Introduction, 1, 7, 8, 9, 10, 11, Conclusion (Ch. 4 and plan already Fable-reviewed).
-  - [ ] Gitweb pin confirmation for all cited drafts (Chs. 7–11, Intro) still pending (Gitweb unreachable 18 Oct); retry before Phase 4.
+  - [x] Gitweb pin confirmation for all cited drafts: done 2026-10-20 (see sources.md, "Gitweb pin confirmation").
   - [ ] Cross-chapter pass (Opus) and apparatus (chronology, thematic index, bibliography, questions appendix) after reviews are processed. Flags: Ch. 9 ~14% over ceiling; Ch. 4 over; Ch. 7 near ceiling; Intro and Conclusion under target; Davis "30%"/"20%" misquote for Questions appendix. **Notes (user-approved 2026-10-18; see BRIEF "Attribution of reviewers' contributions"):** citations stay parenthetical; give every chapter a closing unnumbered "Note on method" (Chs. 2, 4, 5, 6 have one) including which models reviewed it; reviewer credits as numbered `sup.fn` notes. Move to numbered notes: "from memory" labels (~14), single-source access remarks (archive/paywall/login/not read, ~25; chapter-wide ones go in the Note on method), how commenters' real names were established, details of source checks (e.g. the 30%/20% misquote; the finding stays in the text if it matters), side debates in the literature (e.g. Ch. 10 genetics). Keep "as Davis quotes" inline where it qualifies the claim. **Fix:** Ch. 4's Note on method says Yudkowsky's Nov 2018 tweets rest on Davis's report alone; Ch. 7 found and checked Wayback copies.
   - [ ] Review batch (see BRIEF.md, "Per-chapter review, run in one batch"): ask the user about Fable re-reviews of Chs. 5, 6, 2, 3; user turns credits on; launch all reviewers in parallel; verify `claude-fable-…` in each transcript; stay idle; user turns credits off
   - [ ] Process all reviews (credits off): check claims against sources, revise, record handling in each review file
@@ -36,7 +36,8 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
 - [x] Opus cross-chapter pass (2026-10-20)
 - [x] Opus length pass (2026-10-20; `notes/cuts-v1.md`)
 - [x] Whole-book review by GPT via Codex (run 2026-10-20; `notes/reviews/whole-book-gpt.md`, 5,550 words; processed 2026-10-22, handling in the review file)
-- (Phase 4 verification follows)
+- [x] Phase 4 verification (2026-10-22): citation style normalized (author-date reference lists in the Introduction and Chs. 7, 9, 10, 11 converted to the humanities style the other chapters use; in-text citations unchanged, author-date throughout); bibliography headnote on undated drafts; quotation typography (tools/smart_quotes.py); from-memory citations replaced; live link check (`notes/link-check-2026-10-22.md`: all 473 links accounted for); final checks: 1,090 quotations, 0 problems; URL patterns, anchors, local paths, typography clean. 96,035 words.
+- [x] v1 frozen to `study-v1/` (2026-10-22). Never edit it. Next: Phase 5 (author's reply), in a fresh session that did not draft v1.
 
 ## Session log
 - 2026-10-17: Phase 3 begun. Read chronology, reception overview (Part C), both pilot chapters.
@@ -89,6 +90,10 @@ then the Introduction describes the commission (scope and method, per the
 brief) without naming anyone, and drafting sessions should not bring the
 question up again. Add the name when the front matter is assembled for v1.
 This note is kept out of the review packets on purpose.
+
+## Current state, 2026-10-22, evening (resume here; supersedes the sections below)
+
+**v1 is frozen** in `study-v1/` (first edition, October 2026). `study/` is the working copy for v2. Phase 5 begins when Davis writes a reply (published, or as a file in `notes/author-replies/`); the response must come from a fresh session that did not draft v1 and was not in discussion with the user about the reply (BRIEF, Phase 5). The commissioner's identity is now disclosed (front matter; Introduction §6; BRIEF Positionality). Open for the commissioner, not blocking: whether to publish the brief, his session messages and the GPT assessment of them alongside the study.
 
 ## Current state, 2026-10-22 (resume here; supersedes the sections below)
 

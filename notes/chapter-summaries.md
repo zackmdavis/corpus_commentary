@@ -4,6 +4,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Introduction — The Corpus, the Position, the Method (`study/00-introduction.html`; draft 7, 2026-10-22, commissioner disclosed; draft 6 was 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~4,900 words body + 4 notes and Note on method)
 
+**Corrections, 2026-10-22 (Phase 4; no new draft).** Works cited converted from author-date reference format to the humanities style of the other chapters; in-text citations unchanged.
+
 **Draft 7 changes (commissioner disclosed, 2026-10-22; basis in `notes/reviews/commission-gpt.md`).** §6: first sentence names Zack M. Davis, the author of the corpus, as commissioner; new paragraph on his part in the study (scope, drafts, critics, models and budget; method and presentation; the exclusion), the brief's provenance, no message asking for a conclusion (also assessed by GPT-6-Astra), the non-salience arrangement and that the model knew from session 1, his stated purposes including future model training, the model's own stated incentive (criticism makes praise believable), and that procedures make influence inspectable without removing it.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: the first claim's chapter-by-chapter list compressed into one sentence; the Murray review and college retrospective sentences dropped from the second claim (their point now made in the Conclusion §2); orphaned works-cited entry removed.
@@ -146,6 +148,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Ch. 7 — The Whole Dumb Story: Yudkowsky, the Community, and the Press (`study/07-whole-dumb-story.html`; draft 7, 2026-10-22, second length pass; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~10,100 words body)
 
+**Corrections, 2026-10-22 (Phase 4; no new draft).** Works cited converted from author-date reference format to the humanities style of the other chapters; in-text citations unchanged.
+
 **Draft 7 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §8: first paragraph compressed to the verdicts without re-stating §2's detail.
 
 **Draft 6 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** Lede: "culpable" → "amounted, given the role, to false advertising"; the textual claim "holds in part" for 2018. §2 2018 thread rewritten as two paragraphs: Davis's statement of the conflict quoted ("I think I am standing in defense of truth…"); the clause, taken generally, denies what the Sequences assert; the Murphy context. A narrower reading is better supported than the memoir allows: the archived thread states its facts ("ordinary central cluster of sex"; "Having said this we've said all the facts"), asks for a non-confused explanation, and acknowledges Davis's essay; read so, the clause applies a judgment about one dispute (no factual stake left in pronouns) that can be wrong without contradicting the Sequences, and Davis's reply (not "all the facts relevant to decisionmaking in our world") argues it was. The memoir rejects the narrow reading on grounds of evenness ("liable to mislead his faithful students…"), a complaint about selection that the sports remark supports. Verdict: less than a reversal of doctrine, more than a misreading by Davis; general reading uncorrected in public for nearly two years; whether Yudkowsky gave up the doctrine the thread does not show. "Textual claim, so restricted" summary updated. Gould paragraph: Davis's footnote attaching the Gould standard to false advertising quoted; the two tests distinguished (false advertising as Davis words it does not mention concealment) and both from Ch. 5's functional deception; the mixed Gould finding tells against the Gould version more than the advertising version. Disclaimer: confidence is a fallible report ("to my own knowledge") that weakens without cancelling the warning, parallel to Davis's disclosed priors (Ch. 3); "partly taken back" → "qualified by an assurance the post could not support". Lintamande: corrected to the functional account (consciousness irrelevant; selection for effect is not). §5: self-attributions show an even vocabulary, not correct diagnoses. §6: motives no longer ranked ("rules out both simple answers"; anger "shows most plainly in the method"). §8: 2018 verdict, disclaimer and "some support, short of what those words claim" brought into line.
@@ -193,6 +197,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Ch. 9 — Obedience Tests: School, Psychiatry, and the Honesty of Coercion (`study/09-obedience-tests.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~7,700 words body, over the plan ceiling)
 
+**Corrections, 2026-10-22 (Phase 4; no new draft).** Works cited converted from author-date reference format to the humanities style of the other chapters; in-text citations unchanged.
+
 **Corrections, 2026-10-22 (from-memory sources fetched; no new draft).** MacArthur dating from Lessard-Deschênes 2025's references (Gardner et al. 1993); note 1 on §5150 now quotes the AB 1194 (2015) text in force in 2017 ("mental health disorder"; "up to 72 hours"); method note and works cited updated.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §9: first paragraph compressed (it re-listed the lede and §5).
@@ -217,6 +223,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Ch. 10 — The Egalitarian Schelling Point: Politics and Race (`study/10-politics-race.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~6,600 words body)
 
+**Corrections, 2026-10-22 (Phase 4; no new draft).** Works cited converted from author-date reference format to the humanities style of the other chapters; in-text citations unchanged.
+
 **Corrections, 2026-10-22 (from-memory sources fetched; no new draft).** §1: inductive-risk sentence quotes Rudner 1953 (read) and points to Ch. 4; Douglas 2009 (from memory) dropped; works cited and method note updated.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §7: first paragraph compressed and a duplicated clause introduced on 2026-10-22 removed.
@@ -238,6 +246,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 **Cross-references made.** Chs. 4 (§§ schelling, causes, general), 5 (consequences, attribution), 7 (press), 9 (rocks).
 
 ## Ch. 11 — Faking Deeply: Artificial Intelligence and Claude's Constitution (`study/11-faking-deeply.html`; draft 7, 2026-10-22, second length pass; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~5,900 words body + 1 note)
+
+**Corrections, 2026-10-22 (Phase 4; no new draft).** Works cited converted from author-date reference format to the humanities style of the other chapters; in-text citations unchanged.
 
 **Draft 7 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §7: second paragraph compressed (it restated §5's Constitution verdict).
 
