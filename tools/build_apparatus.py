@@ -18,6 +18,7 @@ reception listed in the chapters' works-cited sections, deduplicated).
 import glob
 import html
 import os
+import sys
 import re
 from html.parser import HTMLParser
 
@@ -260,7 +261,7 @@ for c in chapters:
     out.append(f'<h2><a href="{c["file"]}">{c["label"]}: {c["title"]}</a></h2>')
     for s in secs:
         out.append(f'<h3><a href="{c["file"]}#{s["id"]}">{html.escape(s["title"])}</a></h3>\n<ul class="index">')
-        for w in sorted(s['works'], key=lambda w: info(w)[0]):
+        for w in sorted(s['works'], key=lambda w: (info(w)[0], w)):
             out.append(f'<li>{entry(w, with_chapters=False)}</li>')
         out.append('</ul>')
 out.append(TAIL.format(nav='<a href="a-chronology.html">← Chronology</a><a href="c-bibliography.html">Bibliography →</a>'))
@@ -279,7 +280,7 @@ groups = [('AAL', '<i>An Algorithmic Lucidity</i> (zackmdavis.net/blog)'),
 for k, name in groups:
     ws = sorted((w for w in cited_in if kind(w) == k),
                 key=(lambda w: re.sub(r'\W', '', info(w)[2]).lower()) if k == 'draft'
-                else (lambda w: (info(w)[0], info(w)[2])))
+                else (lambda w: (info(w)[0], info(w)[2], w)))
     if not ws:
         continue
     out.append(f'<h3>{name}</h3>\n<ul class="bib">')
@@ -340,7 +341,7 @@ for c in chapters:
         threads = 'on the posts above' in li
         li = li.replace('on the posts above', "on Davis's posts cited in the chapter")
         bucket = reception if threads or re.search(r'reception|comment', h3, re.I) else other
-        if re.match(r'(From memory|Cited as|Yudkowsky\'s Facebook posts)', plain(li)):
+        if re.match(r'(From memory|Cited as|Yudkowsky[\'’]s Facebook posts)', plain(li)):
             bucket = secondhand
         key = (c['file'] if threads else '') + (hrefs[0] if hrefs else plain(li).lower()[:80])
         e = bucket.setdefault(key, {'li': li, 'chs': set()})
@@ -350,13 +351,13 @@ for c in chapters:
 
 
 def sortkey(e):
-    s = re.sub(r'^[^A-Za-z0-9]+', '', plain(e['li']))
+    s = re.sub(r'^[^A-Za-z0-9]+', '', re.sub(r'["\'‘’“”]', '', plain(e['li'])))
     head = s.split(',')[0].replace(' et al.', '').strip()
     head = re.split(r' and | & ', head)[0].replace(' Jr.', '')
     words = head.split()
     if 1 < len(words) <= 4 and not s.startswith(('"', "'")) and all(w[:1].isupper() for w in words):
         head = ' '.join(words[-2:]) if words[-2] in ('Del', 'van', 'von', 'de') else words[-1]
-    return (head + ' ' + s).lower()
+    return (head + ' ' + s).lower(), e['li']
 
 
 for name, bucket, hid in (('II. Other works', other, 'other'),
@@ -371,6 +372,10 @@ for name, bucket, hid in (('II. Other works', other, 'other'),
     out.append('</ul>')
 out.append(TAIL.format(nav='<a href="b-thematic-index.html">← Thematic Index</a><a href="d-questions.html">Questions →</a>'))
 open('study/c-bibliography.html', 'w', encoding='utf-8').write('\n'.join(out))
+
+# American quotation-mark typography on the pages just written (see tools/smart_quotes.py)
+import subprocess
+subprocess.run([sys.executable, '-I', 'tools/smart_quotes.py', 'study/b-thematic-index.html', 'study/c-bibliography.html'], check=True)
 
 n_davis = len(cited_in)
 print(f'thematic index and bibliography written: {n_davis} works by Davis; '

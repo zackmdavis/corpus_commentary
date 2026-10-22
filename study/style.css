@@ -90,3 +90,6 @@ dl.chron dd { margin: .3em 0 .3em 1.2em; }
 dl.chron .ch { color: var(--muted); font-size: .9em; }
 ol.questions li { margin-bottom: .9em; }
 .front { font-size: .97rem; }
+
+/* American quotation marks for inline quotations; nested <q> alternates */
+q { quotes: "\201C" "\201D" "\2018" "\2019"; }

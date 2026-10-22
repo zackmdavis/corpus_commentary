@@ -44,6 +44,7 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
 
 ## Conventions (Phase 3)
 - URLs: run `python3 -I tools/check_study_urls.py study/*.html` (blog links vs. file stems and Date months, hidden pages, LW ids, draft links pinned to full hashes, data-src paths).
+- Typography (2026-10-22; BRIEF amended at the user's direction): American quotation marks. `python3 -I tools/smart_quotes.py study/*.html` converts straight marks to curly and swaps levels inside `<q>`; it stamps converted pages and skips stamped ones (a second pass would swap `<q>` marks back). `build_apparatus.py` runs it on the pages it writes. When editing a stamped page, type curly marks (and inside `<q>` use single marks for the source's doubles), or remove the stamp and re-run. The quote checker ignores quotation-mark characters.
 - Quotations: `<q data-src="path">`/`<blockquote data-src="path">` (attribution line as `<p class="attr">`); run `python3 -I tools/check_study_quotes.py study/*.html`.
 - External sources live in `research/<slug>/text.txt`. NB `research/fb-yudkowsky-*` and `research/archive-yudkowsky-nov2018-thread` are login-wall/failed fetches from the Fable pilot: do not quote them.
 - Reading logs per chapter: `notes/reading-logs/<chapter>.md`.
@@ -96,6 +97,7 @@ This note is kept out of the review packets on purpose.
 **Open.**
 1. ~~The review's cut table~~ **Done 2026-10-22** (drafting model's judgment, at the user's request): Conclusion rewritten as synthesis, recap paragraphs cut in chapter conclusions, a few redundant passages; 97,563 → 95,157. The rest of the table was judged to cost argument; record in `notes/cuts-v1.md` § "Second length pass". See the review's §7 and `notes/cuts-v1.md` § "Considered and not cut".
 2. Not adopted this round, candidates for later: inductive risk (needs Rudner/Douglas read), a full prose pass on the "corrective rhythm".
+2a. **Quote typography done 2026-10-22** (see Conventions). Remaining before the v1 freeze: citation-style normalization; commissioner's name in the front matter (and Intro §6); a headnote on omitted draft dates in the bibliography; Phase 4 including a live link check (never done: `check_study_urls.py` checks patterns, not HTTP); then copy `study/` to `study-v1/`.
 3. Items 1–3 and 5 of the late-evening list below still stand (commissioner's name at v1 freeze; citation styles; draft header dates; then Phase 4).
 
 ## Current state, 2026-10-20, night (superseded above)
