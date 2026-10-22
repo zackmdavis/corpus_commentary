@@ -36,7 +36,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Introduction (nav), Chs. 2, 4 (§6), 5, 6, 7, 8, 9, 10, 11; Ch. 3 (DAG).
 
-## Ch. 2 — The Scintillating Thought: Testimony and Self-Report (`study/02-testimony.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2); ~7,650 words by crude count)
+## Ch. 2 — The Scintillating Thought: Testimony and Self-Report (`study/02-testimony.html`; draft 6, 2026-10-22, from-memory citations replaced; draft 5 was 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2); ~7,650 words by crude count)
+
+**Draft 6 changes (from-memory sources fetched and read, 2026-10-22; see `notes/sources.md`).** §2: the misattribution sentence rewritten from the sources: Schachter & Singer read (their own discussion calls the conclusions "somewhat tentative"); Dutton & Aron cited through Szczucka 2012's reanalysis (no effect on accepting the phone number in either field study; calling effect not significant in the second once corrected); what survives is that labels for arousal can follow circumstances. §4: Ross 1989 (unavailable) replaced by Blanchard, Clemmensen & Steiner 1985 (Ch. 3). §6: Pohlhaus quoted from her abstract, with the qualification that her concept concerns tools developed by the marginally situated, while this one came from clinicians. Bettcher 2009 described through Woollard 2026: avowals in "some resistant trans subcultures", ethical authority as respect for autonomous agents, claims that can fail, scope confined to those subcultures; the earlier from-memory gloss ("how she is to be treated", "without correcting any mistake") dropped. Note on method and works cited updated.
 
 **Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §8: "the book's thesis in miniature" sentence dropped.
 
@@ -74,7 +76,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Notes.** Six numbered notes (Haskell arithmetic; Luders discrepancy between the imaging reviews; Zucker's DSM role from memory; demand-curve inference labeled as the study's; D-estimate caveat; the motte-and-bailey objection credited to the Opus reviewer) and a Note on method crediting both reviewers generally.
 
-## Ch. 4 — Where to Draw the Boundaries: The Philosophy of Categorization (`study/04-categorization.html`; draft 6, 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after GPT-6-Astra review of draft 2)
+## Ch. 4 — Where to Draw the Boundaries: The Philosophy of Categorization (`study/04-categorization.html`; draft 7, 2026-10-22, from-memory citations replaced; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after GPT-6-Astra review of draft 2)
+
+**Draft 7 changes (from-memory sources fetched and read, 2026-10-22; see `notes/sources.md`).** §8: new paragraph after "The rule against appeals to consequences": Rudner 1953 on inductive risk (acceptance depends on the seriousness of error); the Bayesian reply and Rudner's answer; the argument reaches the step from evidence to acceptance, assertion and action, not belief; Rudner's remedy (being precise about the value judgments made) close to the norm of accounting. Adopts the inductive-risk objection the whole-book review raised and the first processing deferred.
 
 **Draft 6 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** §8: "A disclosed departure hides nothing" narrowed to a departure disclosed by saying what the word now tracks and what it no longer carries (an announcement that something is withheld still hides it; Ch. 5); "easier to enforce than Davis's" narrowed to its first condition being easier to check; uptake conditions hard to check; whether a community could keep such a rule not shown; what is shown is that the slope argument does not exclude it and that Davis's work names candidates.
 
@@ -163,6 +167,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Ch. 8 — Deniably Allegorical: The Forms (`study/08-forms.html`; draft 4, 2026-10-22, second length pass; draft 3 was 2026-10-20, length pass; draft 2 was revised after GPT-6-Astra review; ~4,000 words body)
 
+**Corrections, 2026-10-22 (from-memory sources fetched; no new draft).** Galileo's Simplicio checked against Wikipedia (label updated in Note on method and works cited).
+
 **Draft 4 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: the squirrel fable and Wells Fargo draft reduced to a mention (the study does not decode them). §5: "Two Political Short Stories" compressed.
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** §2: "It is the norm of accounting applied to irony" dropped (prose).
@@ -182,6 +188,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 **Cross-references made.** Chs. 1 (voice), 2, 4 (question), 7 (document, outrage), 10 (speech), 11 (dialogues, fiction).
 
 ## Ch. 9 — Obedience Tests: School, Psychiatry, and the Honesty of Coercion (`study/09-obedience-tests.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~7,700 words body, over the plan ceiling)
+
+**Corrections, 2026-10-22 (from-memory sources fetched; no new draft).** MacArthur dating from Lessard-Deschênes 2025's references (Gardner et al. 1993); note 1 on §5150 now quotes the AB 1194 (2015) text in force in 2017 ("mental health disorder"; "up to 72 hours"); method note and works cited updated.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §9: first paragraph compressed (it re-listed the lede and §5).
 
@@ -204,6 +212,8 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 **Cross-references made.** Introduction (thesis), Chs. 1, 2, 4, 5, 6, 7.
 
 ## Ch. 10 — The Egalitarian Schelling Point: Politics and Race (`study/10-politics-race.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~6,600 words body)
+
+**Corrections, 2026-10-22 (from-memory sources fetched; no new draft).** §1: inductive-risk sentence quotes Rudner 1953 (read) and points to Ch. 4; Douglas 2009 (from memory) dropped; works cited and method note updated.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §7: first paragraph compressed and a duplicated clause introduced on 2026-10-22 removed.
 

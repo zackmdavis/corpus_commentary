@@ -1,0 +1,1182 @@
+Journal of Ethics and Social Philosophy
+Vol. 31, No. 2 · March 2026
+
+https://doi.org/10.26556/jesp.v31i2.4440
+© 2026 Author
+
+FIRST-PERSON AUTHORITY OVER GENDER
+Metaphysical, Ethical, and
+Epistemic, but Nonabsolute
+Fiona Woollard
+
+S
+
+uppose I say, “I am a woman.” Many people agree that in almost all cases,
+it is wrong in some way to challenge this claim. Indeed, the recognition of
+such first-person authority over gender is recognized as a key desideratum
+for trans-inclusive accounts of gender.1 However, there is disagreement about
+exactly what kind of first-person authority must be recognized. Talia Mae Bettcher argues that first-person authority over gender is ethical: third parties have
+ethical obligations to accept individuals’ gender claims as part of respecting
+those individuals as autonomous agents.2 Critics of Bettcher argue that ethical
+first-person authority is not sufficient: an account that recognizes only ethical
+first-person authority over gender is unable to give an appropriate account of
+some cases. Gus Turyn, for example, argues that we need epistemic first-person
+authority: a person’s gender claims must constitute the best evidence available
+for others to form beliefs about that person’s gender.3 Graham Bex-Priestley
+argues that we need metaphysical first-person authority: an individual’s gender
+must be up to them, and sincere gender claims must guarantee their own truth.4
+On Bettcher’s own account, first laid out in her 2009 article “Trans Identities and First-Person Authority,” gender claims in some resistant trans subcultures are acts of existential self-identification.5 Bettcher’s paper is a canonical
+text in trans philosophy but is subject to misinterpretation. My goal in this
+article is to clarify and build on Bettcher’s work in order to provide a fuller
+understanding of what kind of first-person authority a trans-inclusive account
+
+1
+
+2
+3
+4
+5
+
+See Bettcher, “Trans Identities and First-Person Authority,” 99; Jenkins, “Toward an
+Account of Gender Identity,” 719; Bex-Priestley, “Gender as Name”; and Turyn, “Gender
+and First-Person Authority.”
+Bettcher, “Trans Identities and First-Person Authority,” 99–103.
+Turyn, “Gender and First-Person Authority,” 16.
+Bex-Priestley, “Gender as Name,” 189–90, 194.
+Bettcher, “Trans Identities and First-Person Authority.”
+
+235
+
+236
+
+Woollard
+
+of gender should recognize and how Bettcher’s account and other promising
+accounts of gender are able to do this.6
+I argue that Bettcher’s account has the resources to recognize not just ethical first-person authority over gender but also metaphysical and epistemic
+first-person authority over gender. I also argue that this metaphysical, ethical, and epistemic first-person authority is nonabsolute. Bettcher’s account
+implies that we have nonabsolute metaphysical first-person authority over our
+gender in that, although it is possible for gender claims to fail, successful gender
+claims make it the case that we are the relevant gender. It implies that we have
+nonabsolute epistemic authority in that in almost all cases, being epistemically
+justified in believing that a gender claim has failed requires detailed personal
+information, which third parties do not have. Finally, it implies that we have
+nonabsolute ethical authority in that, again, in almost all cases, for third parties to
+believe that an individual’s gender claim has failed is morally wrong. This belief
+is almost always morally wrong in two ways. First, for third parties to attempt
+to acquire the required information for the purposes of assessing an individual’s
+gender claim is almost always a serious breach of privacy. Secondly, for a third
+party to presume that they are in a better position than the individual to make
+such an assessment is almost always deeply disrespectful to the individual as
+an ethical and epistemic agent. Moreover, I argue, this kind of nonabsolute
+metaphysical, ethical, and epistemic first-person authority is exactly what an
+account of gender should recognize. It gives plausible results about tricky cases
+and enables us to clearly identify the ways in which someone is wronged when
+their gender claim is wrongfully challenged.
+In section 1, I make some preparatory remarks, clarifying the topic under discussion. In section 2, I outline Turyn’s and Bex-Priestley’s arguments that ethical
+first-person authority over gender is not enough.7 I show that these arguments,
+taken individually as they stand, do not fully show that epistemic or metaphysical first-person authority is needed. However, when combined, they make a
+convincing case that epistemic first-person authority is needed. As metaphysical first-person authority is the best foundation for epistemic and ethical authority, this also makes metaphysical first-person authority desirable. In section 3, I
+describe Bettcher’s account of gender claims in some trans subcultures as acts of
+existential self-identification, as presented in her landmark 2009 and 2013 papers
+“Trans Identities and First-Person Authority” and “Trans Women and the Meaning of ‘Woman’.” In section 4, I show that Bettcher’s account has the resources
+6
+7
+
+I thank an anonymous referee whose comments helped me to frame the contribution of
+the article in this way.
+Bex-Priestley, “Gender as Name”; and Turyn, “Gender and First-Person Authority.”
+
+First-Person Authority over Gender
+
+237
+
+to recognize nonabsolute metaphysical, epistemic, and ethical first-person
+authority over gender. I argue that the first-person authority recognized by this
+account is nonabsolute. I then show that this gives satisfactory results in the
+cases discussed by Turyn and Bex-Priestley, and in general. Moreover, recognizing the metaphysical and epistemic authority implied by Bettcher’s account
+improves our understanding of exactly why and how a person is wronged when
+their gender claims are wrongfully challenged and why this is such a serious
+wrong. In section 5, I address the concern that we should want absolute rather
+than nonabsolute first-person authority. I argue that nonabsolute metaphysical,
+ethical, and epistemic first-person authority is exactly what we should want an
+account of gender to recognize. A nonabsolute approach gives the best account
+of various tricky cases, including the “attack helicopter gambit” (in reference
+to a type of statement, discussed further below, that aims to invalidate trans
+people’s gender claims), cases in which someone claims to be trans after committing transphobic hate crimes, and both first-person and third-party claims
+about a trans person’s pre-transition gender. In section 6, I outline the features of
+Bettcher’s account that enable it to recognize this first-person authority and use
+Bex-Priestley’s account as a model to show that we can identify these features in
+other promising accounts of gender. In section 7, I discuss the implications of
+Bettcher’s recent monograph, in which she revises and reformulates her earlier
+arguments, situating them within an account of interpersonal spatiality.8 Bettcher explicitly states that her updated account gives individuals nonabsolute
+ethical and metaphysical first-person authority over gender claims in trans subcultures. I argue that, contra Bettcher’s own statements, the updated account can
+recognize an epistemic first-person authority worthy of the name.9
+1. The Topic of Discussion
+In this section, I make some brief remarks clarifying the topic of discussion.
+First, I explain Bettcher’s understanding of the project as an account of gender
+practices in some trans subcultures and note that my own project has a slightly
+wider scope, but this does not affect the substance of this article. Second, I discuss what Bettcher says about denials of gender claims that reject trans-inclusive
+gender practices altogether. Third, I clarify that Bettcher’s account has been misinterpreted as a substantive account of gender identity, discuss some concerns
+about the concept of gender identity, and argue that Bettcher is not vulnerable
+to these concerns.
+8
+9
+
+Bettcher, Beyond Personhood.
+Bettcher, Beyond Personhood, 287–88n38.
+
+238
+
+Woollard
+
+1.1. The Target: Gender Practices Within Trans/Trans-Inclusive Contexts
+On Bettcher’s view, dominant gender practices tie gender to genital status. To
+say “I’m a woman” (or indeed to present as a woman through clothing, behavior, etc., that is commonly understood as feminine) is to communicate my
+genital status. Such public signifiers are needed because genitals are seen as
+private. In dominant gender practices, signifying genital status through gender
+presentation is required: failure to comply is enforced by condemnation and
+even violence.10 Some trans subcultures have developed alternative resistant
+gender practices such that gender claims (such as “I am a woman”) do not
+communicate genital status.11 Bettcher’s existential self-identification account
+is an account of how such gender claims function within these resistant gender
+practices. I follow Bettcher’s understanding of the project to a large extent. The
+caveat is that I am interested in describing not only the gender practices of trans
+subcultures but also the practices of “trans-inclusive” shared spaces that have
+adopted these gender practices, and I wish to contribute to discussions about
+what our gender practices should be in shared spaces where this is contested.
+Bettcher notes that individuals (and communities) that previously engaged
+in dominant gender practices can adopt subculture practices instead, and this is
+already happening; but Bettcher is skeptical about both the pace of the change
+and the possibility that philosophers can contribute.12 I am somewhat more
+optimistic on both counts. First, many shared spaces are, if not already attempting to adopt transgender practices, having active discussions about whether to
+do so.13 Second, these discussions are often ones that philosophers are well
+placed to contribute to because they raise both normative considerations and
+questions about coherence. It is relatively common to hear concerns that transgender practices are in some way incoherent: that there is no way to make sense
+of what trans people are doing when they make and accept gender claims that
+does not involve endorsing claims that are either straightforwardly incompatible or at least in tension. This is sometimes merely an excuse for transphobia
+from people who have already made up their minds and will not be convinced
+by any argument. But in other cases, people seem to genuinely feel troubled
+by a perceived incoherence. Others want help in replying to such challenges
+10
+11
+12
+13
+
+Bettcher, “Trans Identities and First-Person Authority,” 106–7.
+Bettcher, “Trans Identities and First-Person Authority,” 108.
+Bettcher, Beyond Personhood, 68.
+However, for an argument that people who present themselves and even understand themselves as accepting of trans people may in fact merely be engaging in a kind of make-believe,
+see Bettcher, Beyond Personhood, 20–22, 75. Bettcher calls this “playing along,” but it is
+different from Turyn’s “playing along.”
+
+First-Person Authority over Gender
+
+239
+
+when trying to influence their community’s gender practices. It is these two
+latter groups of people that make me think it is worthwhile to sometimes take
+an “external” perspective in which the goal is to show that transgender practices
+are coherent. Nonetheless, I do so while aware that there are ethical concerns
+about taking such an external perspective—namely, that it frames transgender identities as requiring justification in ways that cis gender identities do
+not.14 This external perspective should be subordinate to the internal perspective, from which the default assumption is that trans-inclusive practices make
+sense. From the internal perspective, putative accounts of gender are assessed
+by whether they can give an account of these practices.
+I do not think this difference in scope affects the substance of this article. To
+try to combine concision and accuracy, I refer to “trans contexts,” “trans subcultures,” and “trans underworlds” when discussing Bettcher’s own arguments and
+to “trans-inclusive” contexts when discussing the implications of her arguments.
+1.2. What to Say About Wholesale Rejections of Trans-Inclusive Gender Practices
+Bettcher gives an account of how gender claims function in some trans/
+trans-inclusive gender practices. Thus, the main focus of this article is what
+kind of first-person authority individuals have about their gender within such
+practices. Showing that an account gives appropriate first-person authority over
+gender claims within such practices is itself a significant result. But many denials of gender claims involve the rejection of trans-inclusive gender practices
+altogether.15 On Bettcher’s account, from the perspective of dominant culture,
+a denial of first-person authority may be correct. Nonetheless, dominant and
+resistant gender practices are not just two alternative ways of approaching
+gender. Instead, dominant gender practices are abusive (in that they require
+gender presentation to signify genital status and enforce this through violence)
+and based on false beliefs about sex and gender (including the assumptions that
+dominant practices are singular and “natural” and that all people are naturally
+male or female).16 We can recognize that a gender claim denial is correct about
+how the individual would be gendered in dominant gender practices while
+holding that the dominant gender practice, and thus the denial, is mistaken.17
+14 Bettcher vividly brings out the concerns of treating whether trans women count as women
+as a live question, while noting that there might be some contexts in which it is strategically
+useful to address this question (“Trans Women and the Meaning of ‘Woman’,” 245).
+15 I thank an anonymous referee for this point.
+16 Bettcher, “Through the Looking Glass,” 249n19. For further discussion, see Bettcher,
+“Trans Identities and First-Person Authority.”
+17 Bettcher, “Through the Looking Glass,” 243.
+
+240
+
+Woollard
+
+1.3. Gender Identity
+Bettcher’s account is often interpreted as an account of gender identity.18 This
+is in line with the belief, most prominently articulated by Katherine Jenkins but
+widely accepted in discussions about the metaphysics of gender, that the concept of gender identity is central to a trans-inclusive metaphysics. According
+to a common definition, what it is to be trans is to have a gender identity that
+differs from the gender that one was assigned at birth; moreover, many campaigns for trans rights appeal to the concept of gender identity as the basis for
+access to gendered social spaces. Metaphysicians can support such campaigns
+by providing a robust account of gender identity that explains why gender identity is important and deserves respect.19
+There has been significant criticism of the focus on gender identity in the
+metaphysics of gender. For example, E. M. Hernandez and Rowan Bell argue
+that we should reject the assumption that gender identity is some metaphysically robust and morally significant thing that requires philosophical analysis.20
+They argue that the concept of gender identity, both historically and in present usage, is rooted in attempts to make trans people intelligible to cis people.
+The concept was created by cis people as part of the “wrong body” narrative,
+according to which a trans person has a deep, innate, internal sense of gender
+that conflicts with their physical form.21 As Hernandez and Bell note, this way
+of thinking of gender identity “ring[s] of Cartesian dualism and a gender essentialism of which we should all be skeptical,” and it “elides, misrepresents, or
+flattens the way we understand ourselves.”22
+In more recent work, Bettcher clarifies that her earlier work was not
+intended to give an account of gender identity but to suggest that we should
+18 See, for example, Jenkins, “Toward an Account of Gender Identity,” 717.
+19 Jenkins, “Toward an Account of Gender Identity,” 713, 718–19. It is worth noting that Jenkins does not suggest that trans rights are in doubt without such an account. Instead, she
+takes the aims of trans rights movements as a starting point and asks which concept of
+gender identity is best able to do the work that trans rights movements use it to do (716).
+20 Hernandez and Bell, “Much Ado About Nothing.”
+21 Coined in a pair of psychiatry papers in 1964 (Greenson, “On Homosexuality and Gender
+Identity”; and Stoller, “A Contribution to the Study of Gender Identity”), the term ‘wrong
+body’ originated in attempts to shore up the sexual binary, which had been placed into
+question by greater understanding of the complexity of sex, and to justify surgery on
+intersex infants. The term became associated with trans people and the “wrong body” narrative through John Money’s clinic for transgender medicine, which opened in 1966. See
+Ben-Asher, “Transforming Legal Sex,” 353; and Hernandez and Bell, “Much Ado About
+Nothing,” 12–14.
+22 Hernandez and Bell, “Much Ado About Nothing,” 16, 3.
+
+First-Person Authority over Gender
+
+241
+
+not use the concept of gender identity to validate transgender claims.23 Reading
+Bettcher’s 2017 article “Through the Looking Glass” in this light, it seems that
+Bettcher’s core concern is that if respect for a person’s gender claims is based
+on the possession of some specific psychological characteristic—such as the
+internal “map” described by Jenkins—then we will end up misgendering those
+who do not meet this criteria.24
+Hernandez and Bell advise that writers should avoid the term ‘gender
+identity’ where possible.25 In this article, I try to follow their advice. This is
+straightforward when discussing Bettcher’s early work. The term ‘gender’ can
+be used instead of ‘gender identity’. The terms ‘identity’ and ‘identity category’
+are sometimes needed when making more general statements that include not
+just gender but also, for example, sexuality. While Bettcher does occasionally
+talk of “identities” and even “gender identity” in her early work, we can understand her use of these terms in the deflationary sense that Hernandez and Bell
+propose as an alternative to robust accounts of gender identity. In this sense, a
+person’s (gender) identity just is the (gender) category with which they identify.26 Objections focused on metaphysically robust accounts of gender identity
+do not apply.27
+In her more recent book, Beyond Personhood, Bettcher appeals to the notion
+of existential identity (i.e., who someone is, really), which she contrasts with
+23 Bettcher, Beyond Personhood, 284–58n2 (discussing Bettcher, “Through the Looking Glass,”
+396).
+24 Jenkins, “Toward an Account of Gender Identity”; and Bettcher, “Through the Looking
+Glass,” 396.
+25 Hernandez and Bell, “Much Ado About Nothing,” 17.
+26 Hernandez and Bell, “Much Ado About Nothing,” 18.
+27 Two other objections are not so easily sidestepped. First, R. A. Briggs and B. R. George
+argue that the idea that being trans is a matter of gender identity, understood as a deep
+part of an authentic self, can make people worry that they do not really count as trans
+because they struggle to find this (What Even Is Gender?). Some of Bettcher’s discussion of existential self-identification as a reflection of “the profound question ‘Who am
+I, really?’” may suggest transition must be a reflection of a deep part of an authentic self.
+This is a potential problem for Bettcher whether her theory is framed in terms of gender
+identity or not. However, Bettcher is clear that self-identification need not reflect something deep about one’s identity: it may, for example, be a political choice made for tactical
+reasons (“Trans Identities and First-Person Authority,” 110). Second, Kadji Amin argues
+that gender identity is disconnected from shared practice and experience, and this may
+still apply to practices of existential self-identification as described by Bettcher (“We Are
+All Nonbinary”). In my discussion of neogenders in section 5 below, I argue that gender
+identification in general and neogenders in particular do connect with “genders as they
+are lived by others in the world” (Amin, “We Are All Nonbinary,” 116). I believe that my
+discussion there has the resources to rebut Amin’s critique of gender identity, but to do
+so is outside the scope of this article.
+
+242
+
+Woollard
+
+self-conception (i.e., who someone thinks they are).28 She also gives an account
+of (conscious) gender identity as an aspect of self-conception. To have a conscious gender identity “is to conceive oneself as a man or a woman in the
+world.”29 Both these identities differ significantly from the problematic innate
+gender identity criticized above. Bettcher discusses in detail how complex and
+uncertain the experience of coming to claim a gender may be, explicitly rejecting the idea of a preexisting true identity.30 Similarly, Bettcher explicitly argues
+that conscious gender identity cannot ground a “wrong body” account of what
+it is to be trans because conscious gender identities change over time.31
+2. Simple Ethical First-Person Authority Is Not Enough
+In the 2023 article “Gender and First-Person Authority,” Turyn argues that ethical first-person authority, as commonly conceived, cannot on its own explain
+why it is wrong to disbelieve someone’s gender claims even if we act as if we
+believe them.32 Turyn calls this the playing along problem. Consider the following cases.
+Chris and Dana meet at a bar. Chris is nonbinary. Early in their conversation, Dana misgenders Chris, and Chris corrects her. Dana does not
+believe that anyone lies outside of the gender binary and thus believes
+that Chris is really a man, but she does not want to offend Chris and
+so uses they/them pronouns in reference to Chris for the rest of the
+evening.
+Evan and Fatima meet briefly at a party. Evan overhears Fatima telling
+another partygoer that she is a trans woman. While Evan takes himself to have progressive views on gender, he holds trans and nonbinary
+people to higher evidential standards than those to which he holds cis
+people with respect to their own [genders].33 When he believes that
+someone is cis, he takes their avowals about their [gender] to be decisive
+28 Bettcher, Beyond Personhood, 54, 259, 57.
+29 Bettcher, Beyond Personhood, 125.
+30 Bettcher, Beyond Personhood, 125–47.
+31 Bettcher, Beyond Personhood, 125. The most influential critique of gender identity as an
+immutable part of a true inner self is Butler, Gender Trouble. For detailed discussion of
+how Bettcher’s updated account incorporates Judith Butler’s insights while providing a
+fuller account of trans oppression, see Bettcher, Beyond Personhood, 114–20.
+32 Turyn, “Gender and First-Person Authority,” 8.
+33 In line with my earlier discussion, here and throughout, I reframe Turyn’s discussion to
+focus on gender claims rather than gender identities.
+
+First-Person Authority over Gender
+
+243
+
+evidence and believes them; when he believes that someone is trans or
+nonbinary, he takes their avowals to be only weak evidence. Nonetheless,
+he always treats people in accordance with their [gender avowals] so as
+to avoid any confrontations or accusations of bigotry. As such, he takes
+Fatima’s avowal that she is a woman and her gender presentation to be
+indecisive for her gender and suspends belief about what her gender is.34
+As Turyn argues, there seems to be something wrong with how Dana thinks
+about Chris and about how Evan thinks about Fatima. Chris and Fatima would
+each be justified in feeling resentful or hurt if they found out about these
+beliefs—even if Dana and Evan’s behavior had been entirely appropriate. On
+Turyn’s view, ethical first-person authority is commonly understood as a behavioral norm, focused on how we ought to treat others and compatible with the
+belief that an individual is not in a privileged epistemic position with respect
+to their own gender.35 By hypothesis, there is nothing wrong with Dana and
+Evan’s behavior, so Turyn argues, ethical first-personal authority as commonly
+conceived cannot explain how Dana and Evan wrong Chris and Fatima. Turyn
+bolsters the intuitive assessment that Dana and Evan do something wrong by
+identifying several potentially wrong-making features. These include: those
+who disbelieve a person’s gender claim are more likely to behave in ways that
+disrespect first-person authority; it is testimonial injustice if we fail to take
+a person’s gender claim as decisive because they are trans or nonbinary; the
+attitudes themselves wrong their subject, just as holding racist beliefs about
+an individual wrongs them; “playing along” in this way may involve saying
+the right words, but it does not involve doing the right act, instead involving
+deception and acting on ulterior motives.36
+At this point, we need to get clear on exactly what makes first-person authority epistemic rather than ethical. Turyn argues that the terms ‘ethical norms
+of first-person authority’ and ‘epistemic norms of first-person authority’ are
+misleading precisely because there can be ethical reasons to believe someone’s gender claims. Turyn proposes that we instead contrast epistemic norms
+of first-person authority (norms about what to believe) with behavioral norms of
+first-person authority (norms about how to behave).37 However, this seems to me
+to be equally misleading. Norms about what to believe can be based on epistemic
+or ethical reasons. Epistemic reasons relate to what makes our beliefs likely to
+be true, epistemically justified, or to fit the evidence. Ethical reasons relate to
+34 Turyn, “Gender and First-Person Authority,” 8.
+35 Turyn, “Gender and First-Person Authority,” 7.
+36 Turyn, “Gender and First-Person Authority,” 10–13.
+37 Turyn, “Gender and First-Person Authority,” 7.
+
+244
+
+Woollard
+
+whether having those beliefs is morally wrong, permissible, etc.38 The reasons
+for belief that Turyn appeals to in arguing that Dana and Evan act wrongly are
+ethical reasons. However, elsewhere, Turyn states that an epistemic norm of
+first-person authority “requires that our avowals about our [genders] constitute
+the best evidence available for others to form their beliefs about our [genders].”39
+This statement, together with the way in which Turyn characterizes the ethical
+norm as commonly understood, suggests that Turyn understands epistemic
+norms as based on epistemic reasons concerning belief.
+It is clearest to keep the terms ‘ethical first-person authority’ and ‘epistemic
+first-person authority’ to refer to, respectively, first-person authority that is
+grounded in ethical reasons and first-person authority that is grounded in
+epistemic reasons. Turyn’s arguments as they stand do not show that we need
+epistemic first-person authority, understood in this way. Because Turyn provides only ethical (and not epistemic) reasons that Dana and Evan act wrongly,
+Turyn’s argument as it stands shows only that disbelieving an individual’s
+gender claim may be ethically objectionable.
+Bex-Priestley also argues in the 2022 article “Gender as Name” that purely
+ethical first-person authority is unsatisfactory.40 As Bex-Priestley notes, someone may hold that speaking the truth is more important than the moral reasons to respect first-person authority. “Even if a social conservative admits
+that depression and suicide may follow from describing someone as a gender
+that person disavows, the social conservative may insist that these bad consequences do not trump the truth.”41 Bex-Priestley states that they have met
+anti-trans activists who hold that appealing to the harms that trans people may
+suffer if misgendered is itself immoral “because it is an attempt to guilt-trip
+people into saying untruthful things.”42
+When we combine Bex-Priestley’s points with Turyn’s playing along problem, we get a convincing argument that ethical authority on its own is unsatisfactory. If someone objects to being “guilt-tripped” into saying untruthful things,
+38 This is somewhat similar to the distinction between evidential and pragmatic reasons for
+belief: ethical reasons are a subset of pragmatic reasons. There is a wide literature discussing this distinction and considerable controversy about whether there can be genuine
+pragmatic reasons for belief. (See, for example, Reisner, “The Possibility of Pragmatic
+Reasons for Belief and the Wrong Kind of Reasons Problem.”) Even if one held that a
+person could never have genuine ethical reasons to hold a certain belief, one might hold
+that there can be ethical reasons relating to practices of seeking and assessing evidence
+for beliefs.
+39 Turyn, “Gender and First-Person Authority,” 16.
+40 Bex-Priestley, “Gender as Name.”
+41 Bex-Priestley, “Gender as Name,” 194.
+42 Bex-Priestley, “Gender as Name,” 194.
+
+First-Person Authority over Gender
+
+245
+
+they are likely to find it even more objectionable to be morally required to believe
+untruthful things. We can understand Bex-Priestley’s anti-trans activist as holding that assertions ought to be governed by a norm of truth (or knowledge or
+epistemic justification). When it comes to behavior, we might respond that
+ethical norms are just as important as truth or that using a person’s preferred
+pronouns does not in fact involve asserting that their gender matches those
+pronouns. However, if we focus on belief, it seems harder to deny that truth (or
+knowledge or epistemic justification) should be the authoritative norm. Moreover, there just is no analogous version of the no-assertion-involved response:
+the third party is explicitly being asked to believe that the individual’s gender
+is the one they claim. Bex-Priestley’s anti-trans activist has quite a good case
+against any account that simultaneously (1) requires us to believe gender claims
+and (2) holds that such claims are not good evidence of their truth. Thus combined, Bex-Priestley’s and Turyn’s arguments make a convincing case that a satisfying account of gender needs to give us more than merely ethical first-person
+authority. We also need first-person authority that is epistemic not merely in
+that it requires others to believe gender claims but in that it means that individuals are in a privileged position to know the truth of their own gender claims.
+Bex-Priestley argues that we should aim for not just ethical and epistemic
+first-person authority but also metaphysical first-person authority on which
+“sincere avowals of one’s own gender guarantee their own truth.”43 This would
+not only undermine the conscientious objector’s argument but also provide
+“an iron footing for epistemic and ethical [first-person authority].” I defend a
+nonabsolute metaphysical first-person authority that is weaker than the absolute metaphysical authority described by Bex-Priestley. Nonetheless, I agree
+that the most secure footing for ethical and epistemic first-person authority
+is some kind of metaphysical authority whereby most gender claims make it
+the case that the individual is that gender. For this reason, it is desirable for an
+account of trans-inclusive gender practices to recognize metaphysical first-person authority.
+3. Bettcher: Gender Claims as Existential Self-Identification
+On Bettcher’s account, first-person gender claims within some resistant trans
+subcultures are not descriptions or reports.44 Instead, a first-person gender
+claim is a claiming of a gender category. It is what Bettcher calls an avowal.45
+43 Bex-Priestley, “Gender as Name,” 194.
+44 Bettcher, “Trans Women and the Meaning of ‘Woman’,” 247.
+45 Bettcher, “Trans Identities and First-Person Authority,” 112.
+
+246
+
+Woollard
+
+Bettcher explains, “Fundamental to this practice is the idea that gender categories do not merely apply (or fail to apply) on the basis of objective criteria
+but are adopted for personal and political reasons.”46 Bettcher argues that such
+gender claims are deeply connected to the individual’s understanding of their
+reasons for action. This connection is quite complex, but I think it includes at
+least the following three elements. First, in understanding what an individual
+is doing when making a gender claim, we need to start by thinking about their
+reasons for making that claim. Second, gender claims of this kind can make
+sense of and shape an individual’s reasons for action now and in the future.
+For an individual to claim to be, for example, a woman in this way is for her
+to adopt an understanding of what is important to her that can make sense of
+her motivation to act on reasons related to that understanding of herself as a
+woman. Thirdly, bringing these two previous points together, an individual’s
+reason for claiming a given gender may be the way in which they understand
+that identification as making sense of and shaping their reasons for action.47
+To make a gender claim as existential self-identification is to, in some sense,
+give oneself reasons for action. Bettcher argues, “While [merely descriptive]
+narrative can include behavior-governing norms (e.g., I am a woman, I must
+gender present and self-identify in these ways), it does not explain why these
+norms should be taken seriously.”48 This is something, Bettcher argues, that
+only existential self-identification can explain. It seems as if by making the identification, one also takes on the norms as things that must be taken seriously.
+This might sound regressive: Must those who identify as women start to
+take seriously gender norms even when those gender norms are oppressive? A
+charitable reading of Bettcher suggests not. Bettcher emphasizes that gender
+claims understood as existential self-identification often involve reflection on
+and engagement with rather than unquestioned acceptance of existing understandings of gender and gender norms.49 Existential self-identification claims
+are also compatible with others using the same label but having quite different
+self-conceptions.50 Another example of existential self-identification that Bettcher discusses is that of philosophers. Claiming to be a philosopher does seem
+to involve, in some way, committing to taking norms relating to philosophers
+
+46 Bettcher, “Trans Women and the Meaning of ‘Woman’,” 247.
+47 For these elements of the connection, see Bettcher, “Trans Identities and First-Person
+Authority,” 110–12.
+48 Bettcher, “Trans Identities and First-Person Authority,” 111.
+49 Bettcher, “Trans Identities and First-Person Authority,” 109–10.
+50 Bettcher, “Trans Identities and First-Person Authority,” 111.
+
+First-Person Authority over Gender
+
+247
+
+and the practice of philosophy seriously. At the same time, in taking on that
+commitment, one is also free to challenge and revise these norms.
+Bettcher’s idea of existential self-identification also seems to contain elements of gender as interpretation.51 Bettcher says that existential self-identification must be understood within the context of “the significance of the
+question ‘What does it mean for me to be a woman?’ to one’s interpretation of
+one’s past.”52 She also states that gender categories may be disavowed if “the
+category does not speak to ‘who they are’ because it does not fit or feel right.”53
+Because of the emphasis it puts on acts of existential self-identification, Bettcher’s account may seem as if it cannot account for those who have, without
+much conscious reflection, accepted the gender categories they were assigned
+at birth. It may also seem an implausibly voluntarist account of gender, failing to account for the fact that many people do not experience themselves as
+having a choice about their gender. On my understanding, Bettcher’s account
+is compatible with both these phenomena. An act of existential self-identification need not be a dramatic act: someone may simply accept the gender they
+were assigned at birth, seeing themselves as, for example, a man and taking this
+to make sense of their experiences around gender without even noticing this
+as an act of interpretation. Similarly, identification as a given gender may be
+experienced as inevitable insofar as there seems to be only one gender category
+that makes sense of one’s experiences or fits with one’s reasons for action.54
+4. Existential Self-Identification and First-Person Authority
+Turyn notes that an epistemic norm of first-person authority is consistent in
+principle with an account such as Bettcher’s, although “revisions will have to
+be made to such accounts in order to explain precisely why they would ground
+the relevant epistemic claim.”55 I hold that Bettcher’s account does not need
+modification to explain why trans-inclusive gender practices give individuals
+appropriate epistemic first-person authority over their gender. Indeed, I now
+argue that Bettcher’s account has the resources to recognize that an individual
+51 For an account of gender identity as interpretation, see Ashley, “What Is It Like to Have
+a Gender Identity?” Bettcher endorses something like this account of gender identity in
+her later work. See, e.g., Beyond Personhood, 280n9.
+52 Bettcher, “Trans Identities and First-Person Authority,” 112.
+53 Bettcher, “Trans Identities and First-Person Authority,” 247.
+54 I thank Fabienne Peter and other members of the audience at the Centre for Ethics, Law
+and Public Affairs (CELPA) seminar (2024) at the University of Warwick for pressing me
+on this.
+55 Turyn, “Gender and First-Person Authority,” 16.
+
+248
+
+Woollard
+
+has nonabsolute metaphysical, epistemic, and ethical first-person authority
+over their gender in trans-inclusive contexts.
+To show that Bettcher’s account implies that an individual might be wrong
+about their gender, Bex-Priestley requires us to imagine that we ask someone
+who identifies as a man why they do so. The person replies that to them, to be a
+man is to be committed to war and violence. However, their behavior suggests
+they are, in fact, not committed to war and violence. Bex-Priestley suggests
+that this undermines both metaphysical and ethical first-person authority: the
+person’s self-identification as a man is false, and it might not be bad to point
+this out to them.56
+Paying attention to the nature of existential self-identification provides a
+response to Bex-Priestley. Recall that an act of existential self-identification
+is not a description or report. It is not an assertion that one meets a set of criteria. Instead, it is a different type of speech act, with a different “grammar.”57
+Existential self-identification is an act of taking on a certain label. Although
+self-identification can fail, the label applies if and only if the person has taken
+on that label through a successful act of existential self-identification. Thus, Bettcher’s account can recognize nonabsolute metaphysical first-person authority
+over gender: a successful gender claim makes it the case that the individual is
+the relevant gender.
+This has several important ethical and epistemic implications. First, a
+third party cannot have a justified belief that an individual has an existential
+self-identity that the individual has not claimed. When it comes to positive
+attributions of gender, the most a third party can be justified in believing is that
+a given gender would make sense for the individual to claim. The individual has
+not claimed the gender (and thus is not that gender) unless they have taken
+on the gender category through an act of existential self-identification. This
+is something only the individual themself can do. Second, to have a justified
+belief that an individual does not have the existential self-identity they claim, a
+third party must show that the individual’s act of existential self-identification
+has failed. Failure is not a matter of failing to correctly represent some independent reality. Instead, failure of existential self-identification occurs when
+the claimed category is not “part of who one is, really” or does not represent a
+“genuine political commitment.”58 “This can be assessed through the conformity between the person’s overall intelligibility-conferring narrative with their
+
+56 Bex-Priestley, “Gender as Name,” 200.
+57 Bettcher, “Trans Women and the Meaning of ‘Woman’,” 247.
+58 Bettcher, “Trans Identities and First-Person Authority,” 112, 110.
+
+First-Person Authority over Gender
+
+249
+
+overall pattern of actions.”59 Again, it is not enough for the third party to show
+that the individual’s claimed category is not the most coherent one they could
+have. The existence of other potential categories is not relevant to assessing
+the failure of a claim of existential self-identity. The third party must show that
+the individual’s claimed category is incompatible with their overall patterns of
+actions and attitudes. This is a high bar to clear.
+Bettcher argues that third-party assessments of gender claims are complex acts of interpretation.60 Although there may be some behaviors that are
+evidence against a claim of existential self-identity, such evidence is always
+defeasible. To assess the conformity between the person’s overall intelligibility-conferring narrative and their overall patterns of actions, we need to know
+both what the individual sees as underpinning their gender (their overall intelligibility-conferring narrative) and what their overall pattern of actions is.
+The overall intelligibility-conferring narrative is unlikely to be as simple as
+“I take myself to be a man because I am committed to acts of violence.” Indeed,
+it is almost certain to be something that is very difficult if not impossible for an
+individual to put into words. The overall pattern of actions includes everything
+the agent has done. Again, this is not something that can be easily described.
+Individuals often have an understanding of their gender that is rich and robust
+but extremely difficult to state explicitly. As an analogy, consider, for example,
+a person’s knowledge of why they love their partner. If put on the spot, particularly if asked in a hostile manner to defend my love for my partner, I may well
+struggle to explain it. I might reply with something seemingly trite: “I love that
+he does the dishes every night.” A determined cross-examiner might scrutinize
+my answer and conclude that I do not truly love my partner but instead simply
+value him instrumentally as household help. They would miss the truth behind
+the trite answer—that the dishes represent his unfailing commitment to being
+an equal partner. They would miss all the other things that I did not think of in
+that moment and are not easily put into words. The same applies to the intelligibility-conferring narrative: the fact that a person cannot, under examination,
+provide a convincing account of their intelligibility-conferring narrative does
+not entail that they do not have a successful intelligibility-conferring narrative.61
+Moreover, as Bettcher points out, those unfamiliar with trans subcultures
+may lack the cultural competency to interpret evidence about transgender
+claims.62 Bettcher describes this as a kind of epistemic authority. Even those who
+59 Bettcher, “Trans Identities and First-Person Authority,” 110.
+60 Bettcher, “Trans Identities and First-Person Authority,” 112.
+61 I thank Christina Easton for suggesting I elaborate on this.
+62 Bettcher, “Trans Identities and First-Person Authority,” 112.
+
+250
+
+Woollard
+
+are participants in a shared culture should be wary of assuming expertise, given
+that individuals’ contexts may be “complex intersections of multiple worlds.”63
+Overall, on my understanding of Bettcher’s account, in almost all contexts,
+it is very unlikely that a third party is in a position to know that an individual’s
+gender claim has failed. This gives individuals nonabsolute epistemic authority over gender. An individual’s gender claim is, in almost all cases, the best
+evidence third parties can have about that individual’s gender. To put this
+in a more positive way, individuals have privileged access to evidence that is
+relevant to assessing the success of their gender claims. Despite the concerns
+about self-deception, wishful thinking, etc., that are highlighted by Bettcher, it
+still seems that an individual is in a better position to know about their overall patterns of actions than almost all third parties. Even those who know me
+best—my parents, my sister, my spouse, etc.—have not been present in all the
+different contexts of my life. For those parts of my life that they do witness,
+they see only my behavior, not my experience. And I surely have privileged
+access to the complex, potentially impossible to fully express, overall intelligibility-conferring narrative.
+Moreover, as I now argue, Bettcher’s account implies that it is almost always
+morally wrong for a third party to believe that an individual is wrong about
+their gender or even to attempt to form a justified belief that an individual is
+wrong about their gender. Individuals have nonabsolute ethical first-person
+authority over their gender.
+Let us start with the wrongness of attempting to form a justified belief that
+an individual is wrong about their gender. Bex-Priestley says that to generate
+the puzzle, “we only need to add an extra step: when someone identifies as (say)
+a man, we ask them which values, commitments, and reasons for acting they
+have associated with manhood.”64 That step itself typically violates the person’s
+right to privacy.65 Now let us turn to the moral wrongness of the belief that an
+individual is wrong about their gender. If I believe that an individual is wrong
+about their gender, I believe that I am in a better position than they are to assess
+whether their overall pattern of behavior is compatible with their overarching
+intelligibility-conferring narrative. I believe that I am a better judge than they are
+about the details of their life and how these details fit with their values and reasons for action. In almost all cases, this is staggering arrogance. It is also deeply
+disrespectful to the individual as an epistemic agent who is capable of remembering and interpreting their own life. It is disrespectful to the individual as an
+63 Bettcher, “Trans Identities and First-Person Authority,” 112.
+64 Bex-Priestley, “Gender as Name,” 200.
+65 Bettcher “Trans Identities and First-Person Authority,” 101–2.
+
+First-Person Authority over Gender
+
+251
+
+ethical agent who is capable of acting on values and reasons for action. Respect
+for others requires us to give them the benefit of the doubt when it comes to
+their competence as ethical and epistemic agents. We should take it that they are
+competent unless we have overriding reason to think that they are not.
+I argued above that Bettcher’s account can recognize metaphysical and epistemic first-person authority. We can now add ethical first-person authority to
+this list. Bettcher’s account can recognize that individuals have nonabsolute
+metaphysical, epistemic, and ethical first-person authority over their gender.
+Contra Bex-Priestley’s criticisms, in almost all cases, third parties are very
+unlikely to have good evidence that an individual’s gender claim is “false,” and
+if a third party judges that an individual’s gender claim is “false,” there is likely
+to be something bad not only about “pointing it out” but about making this
+judgment in the first place. (‘False’, to use Bex-Priestley’s term, is in quotation
+marks here because on Bettcher’s account, it is not strictly accurate to describe
+a gender claim as true or false.)
+Bettcher’s account, understood in this way, gives the correct results in the
+cases described by Turyn and Bex-Priestley and discussed above. Recall that
+Chris is nonbinary. Dana does not believe anyone lies outside the gender binary
+and thus believes that Chris is really a man. Fatima is a trans woman. Evan takes
+the gender claims of those he believes to be trans as merely weak evidence and
+thus suspends belief about Fatima’s gender. We ask someone why they identify as
+a man, and they reply that they do so because to them, to be a man is to be committed to war and violence despite their behavior suggesting they are not committed to violence.66 A social conservative refuses to accept trans people’s gender
+claims because the “truth” is more important than harmful consequences.67
+On Bettcher’s account, all these rejections of gender claims are ethically
+wrong and epistemically unjustified. Dana arrogantly assumes without epistemic justification that nonbinary gender claims fail, disrespecting Chris (and
+all nonbinary people) as ethical and epistemic agents. Evan similarly disrespects trans people in general (and Fatima in particular) as ethical and epistemic agents without epistemic justification. Bex-Priestley’s social conservative
+makes the same mistakes. In Bex-Priestley’s example, we violate the man’s privacy by demanding an account of their overarching intelligibility conferring
+narrative and then further insult them by picking holes in their response, presuming that we know more about their life than they do—failing to recognize
+that what they have said is almost certainly an oversimplification of a complex
+truth that cannot be described in a few sentences.
+66 Bex-Priestley. “Gender as Name,” 200.
+67 Bex-Priestley. “Gender as Name,” 194.
+
+252
+
+Woollard
+5. Absolute or NonAbsolute First-Person Authority?
+
+Is the nonabsolute first-person authority I defend too weak? Should we say
+instead, with Bex-Priestley, that “sincere avowals of one’s own gender guarantee
+their own truth”?68 Or say, with Turyn, that “our avowals about our [genders]
+constitute the best evidence available for others to form their beliefs about our
+[genders]”?69 And correspondingly, should we say that it is always wrong for a
+third-party to doubt an individual’s sincere gender claims? Should we aim for
+absolute metaphysical, epistemic, and ethical first-person authority?
+I argue that we should not aim for absolute first-person authority over
+gender. Instead, the kind of nonabsolute first-person authority I describe above
+is exactly what we should want accounts of gender to recognize. I begin by discussing an obvious argument against absolute first-person authority: it seems
+to leave us vulnerable both to the “attack-helicopter gambit” (explained below)
+and to cases in which people claim to be trans after committing transphobic
+hate crimes. This counterargument alone may not provide conclusive reason
+to reject absolute first-person authority because absolute approaches can give a
+satisfactory account of such cases. However, nonabsolute approaches can give
+a better account of such cases and also give a better account of other cases—in
+particular, of how to understand both first-person and third-party claims about
+a trans person’s pretransition gender.
+5.1. Hate Crimes and the “Attack Helicopter Gambit”
+The attack helicopter gambit is a common transphobic conversational move
+in which someone attempts to invalidate transgender claims by claiming to
+identify as an attack helicopter. Bell notes:
+This kind of claim doesn’t aim to express a genuine identity, but rather
+to force trans people into a catch-22: either accept this patently absurd
+identity at face value and thus accept an equally absurd view about what
+gender is, or reject it, and abandon the stance that people’s claims about
+their own genders should be taken seriously.70
+There are also cases when people claim to be trans after committing what seem
+to be hate crimes against queer communities. The Club Q shooter killed five
+people and wounded at least nineteen others in a queer nightclub in Colorado
+
+68 Bex-Priestley, “Gender as Name,” 194.
+69 Turyn, “Gender and First-Person Authority,” 16.
+70 Bell, “Gender Together.”
+
+First-Person Authority over Gender
+
+253
+
+Springs in 2022; days later, the defense team claimed that the shooter was nonbinary and used they/them pronouns.
+An obvious response to these types of cases is to assert that the claims are
+insincere. Bex-Priestley explicitly holds that first-person authority does not
+apply to insincere gender claims, while Turyn’s discussion is restricted to sincere claims.71 Indeed, I think we can confidently assert that the attack helicopter
+gambit is not a sincere gender claim: the very “gender” that is being claimed
+is part of a practice of mocking trans people, and this is, for that reason, easily
+recognizable as a different speech act than a genuine gender claim. Similarly,
+the Club Q shooter’s previous actions provide reasonable doubt over the sincerity of their gender claim. Doubting that these “claims” are sincere does not
+commit us to claiming general reliable access to others’ mental states or to
+admitting general doubts over self-identification.
+Moreover, we can criticize identity claims without doubting their sincerity
+or success. Bell discusses the reaction to Kevin Spacey, who responded to a
+claim of sexual assault with a conditional apology (“If I did behave as he then
+describes, I owe him the sincerest apology.”) that was followed by a statement
+coming out as gay.72 Spacey received widespread criticism from the LGBTQ+
+community. This criticism focused not on doubts about whether Spacey was
+gay but on the appropriateness of making the claim when and how he did. Bell
+argues that the Club Q shooter’s claim is different from Spacey’s—and in fact
+fails. I discuss that below. At this time, my main aim is to endorse Bell’s point
+that even if we cannot show that the Club Q shooter is insincere, accepting
+absolute first-person authority about gender does not block criticism of the
+Club Q shooter’s gender claim at that time. Thus, concerns about the attack helicopter gambit and the Club Q shooter do not decisively show that we should
+reject absolute first-person authority over gender. Those who endorse absolute
+first-person authority over gender can give an acceptable account of these cases.
+However, the nonabsolute approach gives a better account of these cases.
+Bell emphasizes the role of community and accountability in gender claims,
+arguing that trans and nonbinary genders are not made up by individuals but
+connected to social reality and embedded in communal practices and norms.
+In making a gender claim, an individual invokes these communal practices and
+norms and makes themselves accountable to the community. Gender claims
+fail if the individual’s actions are incompatible with the values of the community they have tried to join. Bell argues that the Club Q shooter’s claim fails
+for this reason:
+71 Bex-Priestley. “Gender as Name,” 204–5; and Turyn, “Gender and First-Person Authority,” 2.
+72 Bell, “Gender Together.”
+
+254
+
+Woollard
+
+The shooter’s attacks on queer and trans people create an unbridgeable
+gap between the identity claim and the social practices which would
+make that claim possible. Suppose that, as I am actively trying to murder
+you, I shout “I am your friend!” You might reasonably take exception to
+that. It’s tough to claim allegiance to something one seeks to eliminate.73
+I endorse Bell’s analysis of the Club Q shooter. Even if the Club Q shooter’s gender claim is sincere (which I doubt), it may well be unsuccessful, and
+LGBTQ+ folks and their allies may permissibly believe that it is unsuccessful.
+The usual ethical and epistemic reasons to accept individuals’ gender claims
+are overridden in this case. The fact of the murderous attack on the LGBTQ+
+community is almost incompatible with a successful nonbinary gender claim.
+It is unlikely that the shooter has an overall intelligibility-conferring narrative
+of themselves as nonbinary that is compatible with this action. The shooter’s
+action stands in contrast to the “evidence” that is usually put forward by third
+parties that a gender claim has failed. Standard cases of third-party rejection
+involve either denying the possibility of trans or nonbinary genders altogether
+or appealing to specific, often superficial features to show that a trans person
+does not fit a narrow stereotype of “womanhood” or “manliness.”74 The shooter
+claimed a gender outside the gender binary while killing people for rejecting
+the gender binary. In the case of the shooter, in contrast to almost all cases,
+third parties have good evidence against a successful gender claim.75 Moreover, they are ethically entitled to assess that evidence. By claiming a nonbinary
+gender immediately after a murderous attack on the LGBTQ+ community, the
+shooter waived their right to privacy about the grounds of their gender claim.
+The shooter is not entitled to say that the coherence of their gender claim is
+none of our business.
+However, Bell argues that the attack helicopter gambit fails because it does
+not attach to an existing social reality.
+
+73 Bell, “Gender Together.”
+74 For discussion of trans women’s “double bind,” see Serano, Whipping Girl: “If they act
+feminine they are perceived as being a parody, but if they act masculine it is seen as a sign
+of their true male identity” (49).
+75 In cases of self-hatred, a person may take themself to be a member of a group while hating
+members of that group. However, if the hatred is endorsed, then the self-categorization
+cannot coherently be existential self-identification. To claim a category as reflecting who
+one really is involves an endorsement of the category that is inconsistent with hatred. For
+coherent existential self-identification, the person must sincerely disavow the hatred and
+take appropriate steps to make amends for any expressions of that hatred. I thank Daniel
+Whiting for pressing me on this.
+
+First-Person Authority over Gender
+
+255
+
+There are simply no real social practices on which ‘attack helicopter’
+means anything; there are no values and commitments attached to that
+identity; and, as far as I can tell, no one is actually working to build
+them.76
+I think that we should be careful before endorsing this analysis of the attack
+helicopter gambit. The quote from Bell seems to suggest that a person can claim
+a gender only if the identify has an existing meaning within a social practice.
+I am concerned that this does not make room for neogenders. People should
+be able to claim genders even if there are not currently any values and commitments attached to that gender category.
+Nonetheless, on this issue Bell and I agree about more than we disagree
+about. We both recognize first-person authority over gender, which nonetheless is not absolute but limited by some accountability to others. My understanding of gender may seem more individualistic. I want to recognize new
+gender categories that are forged by individuals under ethical constraints. Bell
+emphasizes that gender is something we do together, connecting to existing
+social practices. However, we can understand my apparently more individualistic approach in terms of a higher-order social practice. I think we should
+adopt social practices that give uptake to neogenders as claimed by individuals,
+within ethical constraints. Indeed, I think that this is an existing social practice:
+some trans subcultures recognize and give uptake to neogenders. Moreover,
+such neogenders do not float free of wider gender practices. When an individual successfully claims a neogender, they do so through an intelligibility-conferring narrative that makes reference to wider gender practices and historical
+gender categories. Neogender claims are strikingly similar to claims of existing
+gender categories.77 So Bell could (and I think should) recognize neogenders.
+If we recognize neogenders, then we should reject the identity claim in the
+attack helicopter gambit not because it fails to connect to an existing social
+practice but because, in claiming an identity as an attempt to undermine the
+identity claims of others, it fails to meet ethical constraints.
+Both neogender-rejecting and neogender-affirming views are compatible with Bettcher’s account in particular and with nonabsolute metaphysical,
+76 Bell, “Gender Together.”
+77 George and Briggs argue that gender categories count as gender categories due to their
+relationship to historical gender categories, which eventually stretch back to social roles
+based on perceived reproductive roles (“Science Fiction Double Feature,” 29). Symbiotic gender categories can be understood as alternatives or clarifications of previously
+established gender categories. Although George and Briggs recognize only genders that
+correspond to existing social categories, I believe their account can be modified to make
+sense of gender claims for neogenders.
+
+256
+
+Woollard
+
+epistemic, and ethical first-person authority over gender in general. Any
+account like Bettcher’s must explain how and why gender claims fail and how
+and why individuals are accountable to others for their gender claims. On any
+reasonable account, there must be a clear distinction between the attack helicopter gambit and the Club Q shooter, on the one hand, and standard cases of
+third-party doubt of trans identities, on the other.
+To sum up, accounts like Bettcher’s, which recognize nonabsolute metaphysical, epistemic, and ethical first-person authority over gender, can give a
+better account of the Club Q shooter case. Such accounts can hold that even
+if the shooter is sincere, their gender claim may still fail and that it can be epistemically and ethically appropriate to assert this.
+5.2. Hatching an Egg: Trans Elders and Pretransition Gender Claims
+Nonabsolute approaches also give a better account of other cases, in particular,
+of how to understand both first-person and third-party claims about someone’s
+gender before they come out as trans. Consider the following case:
+Sam came out as a trans woman in 2022. Before 2022, Sam sincerely
+stated that she was a man.
+The nonabsolute view can recognize the possibility that Sam was mistaken about
+her gender before 2022. She may have sincerely claimed to be a man, but it is
+possible that these gender claims failed. It is possible that Sam could not find
+a coherent intelligibility-conferring narrative that made her a man. After 2022,
+Sam can apply her gender claim retrospectively. She can say, “I was always a
+woman.” As with present-focused existential identifications, such retrospective claims are not assertions of facts. Sam is not reporting that in the past, she
+claimed to be a woman; instead, she is claiming the category of woman as making
+sense of her past.78
+The nonabsolute view does not have to say that Sam was mistaken about
+her gender in the past. It can also recognize the possibility that Sam’s gender
+changed. Perhaps before 2022, she successfully identified as a man, and then,
+in 2022, she successfully identified as a woman. Both of these possibilities are
+compatible with the nonabsolute view. Moreover, as with any gender claim, in
+almost all cases, it is not the business of third parties to assess whether pre-2022
+Sam’s gender claims failed.
+What about third parties before 2022? Suppose that Sam discusses gender
+with her friend Anna in 2020. Anna recognizes in Sam some of the experiences
+78 For illuminating discussion of how trans people may make successful retrospective gender
+claims, see Cull, What Gender Should Be, 88.
+
+First-Person Authority over Gender
+
+257
+
+that she herself had before coming out as a trans woman in 2005. What may
+Anna believe about Sam, either ethically or epistemically? Again, the nonabsolute approach gives a good account of Anna’s position. It implies the following. If
+Sam has willingly shared some of her experiences, Anna may, without intruding
+on Sam’s privacy, have acquired some evidence that Sam’s current (male) gender
+claim has failed. She can believe this without disrespecting Sam in the way that
+third-party rejections of gender claims normally do. Anna is not taking herself
+to be a better judge of Sam’s narrative than Sam. Instead, Anna is appropriately
+responding to Sam’s own expressed doubts about her gender and to the fact that
+dominant gender norms mean that many trans people spend part of their lives
+unsuccessfully attempting to claim genders that match what they were assigned
+at birth—indeed, Anna is recognizing an echo of her own experiences in that
+regard. Anna must show appropriate humility in her beliefs about Sam: she
+must remember that the evidence she has is defeasible. The appropriate belief
+would be not that Sam’s gender claim has failed but that it may have failed.
+If Sam has nonabsolute metaphysical first-person authority over her gender,
+Anna cannot have a true belief that Sam is a woman until Sam claims this
+gender. Again, assuming that Sam has willingly shared her experiences, Anna
+may have acquired evidence that Sam could successfully identify as a woman
+or that it would make Sam happy to identify as a woman. Again, appropriate
+humility is required. There may be aspects of Sam’s experience of which Anna
+is unaware. Moreover, Anna must be wary of assuming that if Sam is not a man,
+Sam must be a woman. It may be that what Anna’s evidence really supports is
+a judgment that Sam could successfully either identify as a woman or claim a
+nonbinary gender.
+I have just summarized what the nonabsolute approach implies about what
+Anna may permissibly believe about Sam’s gender. It is very plausible that the
+nonabsolute approach gives us the right answer in this kind of case. When
+someone who is struggling with their gender talks to a trans elder, the trans
+elder can permissibly and justifiably believe that the individual may not be the
+gender they were assigned from birth and that another gender might fit them
+better. However, such beliefs should be tentative and recognize that ultimately,
+it is for the individual to determine their own gender.
+6. What Is Needed to Recognize Nonabsolute First-Person
+Authority: Other Promising Accounts of Gender
+I have argued (1) that Bettcher’s account has the resources to recognize nonabsolute metaphysical, epistemic, and ethical first-person authority over gender
+and (2) that recognizing nonabsolute first-person authority gives the most
+
+258
+
+Woollard
+
+plausible results both in the cases put forward by Turyn and Bex-Priestley and
+in a range of other cases. We can now identify the features of Bettcher’s account
+that enable it to recognize metaphysical, epistemic, and ethical first-person
+authority and see that at least one other promising account shares these features.
+Bettcher’s account has the following features:
+1. Nondescriptivism: Gender claims are not reports of facts that exist
+independently of the gender claim. They are not assertions that one
+meets a set of criteria. Instead, they are different type of speech act,
+with a different “grammar.”79
+2. The possibility of failure: Although gender claims are not attempts to
+describe independent facts, they can still fail. Thus, it makes sense to
+talk of gender claims as successful or unsuccessful.
+3. Nonabsolute privacy: In most cases, the information relevant to judging that a gender claim has failed is private. In almost all cases, third
+parties are not in possession of this information and are also not
+entitled to this information. In almost all cases, should they have the
+information, they are not entitled to use it to assess gender claims.
+Individuals have privileged access to the information. However, in
+some situations, third parties may have this information and be entitled to use it.
+These are the key features that enabled Bettcher’s account to recognize nonabsolute metaphysical, epistemic, and ethical first-person authority over gender.
+Because gender claims are nondescriptive, they are incorrect only if they are
+unsuccessful. Thus, in making a successful gender claim, an individual makes it
+the case that they are the relevant gender. Nonetheless, there is the possibility of
+failure. This gives us nonabsolute metaphysical first-person authority. Nonabsolute epistemic authority and nonabsolute ethical first-person authority follow
+immediately from nonabsolute privacy.
+I now use Bex-Priestley’s “gender as name” account as a model to suggest
+that we can identify other accounts of gender that have these features and thus
+expect them to provide the appropriate first-person authority. On Bex-Priestley’s account, gender is determined in the same way as names, either by internal
+endorsement or by public declaration.80 It is clear that this is nondescriptive:
+neither endorsements nor declarations are mere reports of independently
+true facts. I think it is also possible for a version of Bex-Priestley’s account
+to include the possibility of failure. This turns on the question of whether
+79 Bettcher, “Trans Women and the Meaning of ‘Woman’,” 247.
+80 Bex-Priestley, “Gender as Name,” 202.
+
+First-Person Authority over Gender
+
+259
+
+endorsement or declaration can fail. I think they can: there seem to be names
+that we cannot make our own because we are not entitled to them. We might
+think that attempts to adopt names strongly associated with an Indigenous
+culture by people with no connection to that culture fail because they involve
+objectionable appropriation of another culture. Similarly, people who are not
+members of the Deaf community are not entitled to claim a sign name (an
+individualized sign that can be used to refer to a person with sign language
+instead of fingerspelling their name) but must have a sign name bestowed upon
+them by a member of the Deaf community.81 It also seems unlikely that I could
+make it the case that my name is Queen Elizabeth I of England. Thus, a gender-as-name approach can recognize the possibility that gender claims can fail.
+However, on this account, it is rare for gender claims to fail, and in almost all
+cases, third parties are not entitled to know or use the information required
+to judge that a gender claim has failed—in other words, the account features
+nonabsolute privacy.82
+7. Bettcher’s More Recent Work
+In her 2025 monograph Beyond Personhood, Bettcher expands, revises and reformulates her previous work into a theory of interpersonal spatiality that aims to
+undermine the concepts of person, self, and subject that are central to modern
+and contemporary philosophy. She situates this theory within what María
+Lugones calls “the modern/colonial system,” linking trans oppression to other
+forms of oppression. As this monograph represents a significant development
+of Bettcher’s philosophy, it makes sense to discuss whether my core claims still
+apply. I now argue that Bettcher’s updated account can also recognize nonabsolute ethical, epistemic, and metaphysical first-person authority over gender.
+According to Bettcher’s interpersonal spatiality theory, we are primarily
+interpersonal objects, participants in a system of interpersonal space, with
+boundaries that others can legitimately traverse (in consensual intimacy) or
+violate. Our nature as interpersonal objects is determined by these boundaries,
+81 See the web page of the Royal National Institute for Deaf People (RNID) “What Are ‘Sign
+Names’?” October 10, 2023, https://rnid.org.uk/2023/10/what-are-sign-names/. I thank
+an anonymous referee for this example.
+82 Florence Ashley gives an account of gender identity as interpretation, on which a person’s gender identity is their interpretation of their gender subjectivity, the sum of their
+gendered experiences of themselves (“What Is It Like to Have a Gender Identity?” 1053).
+Ashley notes that her account of gender identity is nondescriptivist and suggests that this
+may mean that a form of epistemic first-person authority is “salvageable” (1068). I think
+Ashley’s account also meets the other two conditions.
+
+260
+
+Woollard
+
+which determine what kind of interactions count as intimate and how we can
+legitimately engage in intimate interactions or refuse unwanted intimacy.83
+These boundaries are not natural but created by culture.84
+With the apparatus of interpersonal spatiality, Bettcher deepens her understanding of the contrast between how gender claims function in the overworld
+and in some resistant trans underworlds. In the overworld, to say that someone is a woman rather than a man is to name them as a distinctive type of
+interpersonal object with distinctive boundaries governing intimacy.85 This
+is because in the overworld, what counts as intimate for a woman and what
+counts as intimate for a man differ.86 Bettcher’s resistant trans underworlds
+do not recognize preset gender-differentiated pathways to intimacy. Instead,
+intimacy and its limits must be communicated and negotiated afresh. This dislodges overworld conceptions of what it is to be a man or a woman. Although
+there are various and sometimes competing theories of gender that circulate in
+these trans underworlds, the interpersonal identities themselves do not include
+specific content. This makes space for individual reflection and exploration.87
+As in her earlier work, Bettcher argues that in these trans underworlds,
+first-person gender claims function differently from second- or third-person
+gender attributions. She now distinguishes between three different types of
+gender claim: straightforward performative self-namings; avowals as articulations of existential self-identification, which may serve as gestures of intimacy, inviting conversations of depth, exploring what gender means to the
+participants; and avowals as refusals to share intimately. Gender claims are able
+to function as refusals to share intimately in these trans subcultures because,
+unlike in the overworld, gender terms do not have fixed meanings so what
+someone means when they claim to be, for example, a man can be opaque.88
+Bettcher explicitly rejects epistemic first-person authority over gender.
+However, her argument here does not appeal directly to her updated account.
+Instead, she argues that this turns on her own views about first-person authority and “the following facts.” Bettcher argues that if individuals have epistemic
+first-person authority over their gender, then we cannot make sense of the way
+in which many trans people spend part of their lives being wrong about their
+gender or the way in which other trans people are often good at identifying
+83 Bettcher, Beyond Personhood, 38–60.
+84 Bettcher, Beyond Personhood, 89–120, 177–98.
+85 Bettcher, Beyond Personhood, 166.
+86 Bettcher, Beyond Personhood, 91.
+87 Bettcher, Beyond Personhood, 166.
+88 Bettcher, Beyond Personhood, 166–67, 287n36.
+
+First-Person Authority over Gender
+
+261
+
+“eggs.” Even if first-person claims are right more often than not, this may be just
+a matter of better knowledge due to always being around. This, Bettcher argues,
+would not give us epistemic authority in the way standardly imagined, which
+involves an epistemic advantage guaranteed by the peculiar way one accesses
+one’s mental states. Moreover, it would not explain the deference given to the
+first-person, which involves treating avowals as incorrigible.89
+I agree with Bettcher that a purely epistemic account of first-person authority cannot fully explain the deference given to the first-person. To fully explain
+first-person authority over gender claims, we need to recognize nonabsolute
+ethical, metaphysical, and epistemic first-person authority and the way these
+forms of authority interact. As I argue above, I think that such an account of
+first-person authority gives the best account of “eggs.” Moreover, even if not as
+standardly imagined, this first-person authority is worthy of the name because
+it is grounded in individuals’ distinctive relationships to their gender claims.
+Bettcher argues that her account gives nonabsolute ethical first-person
+authority over gender.90 As I take it to be uncontroversial that the theory has
+this implication, I set ethical authority aside and focus instead on whether the
+account can recognize nonabsolute epistemic and metaphysical authority.
+Gender claims that are performative self-namings give us nonabsolute epistemic and metaphysical first-person authority over gender, as argued above in
+my discussion of Bex-Priestley’s account of gender as name. It is a trickier question whether this is true of gender claims that are articulations of existential
+self-identification on Bettcher’s updated account. Bettcher contrasts existential
+identity (who someone is, really) with self-conception (who someone thinks
+they are).91 She argues that identity “places constraints on self-conception”: “If
+one is too far from the mark—for instance, one believes oneself to be an attack
+helicopter or Napoleon—one’s self-conception is discredited. One cannot
+simply conceive of oneself however one pleases and have that make sense.”92
+Bettcher also emphasizes that existential identity is interpersonal: it can be
+accessed by oneself and others, and there are boundaries on informational
+access. Sharing aspects of one’s existential identity is self-revelation, as a gesture
+of intimacy. Moreover, such self-revelation can be done through either actions
+or words.93 This might make it seem as if articulations of existential identity
+give us neither metaphysical nor epistemic first-person authority: if existential
+89 Bettcher, Beyond Personhood, 287–88n38.
+90 Bettcher, Beyond Personhood, 287n38.
+91 Bettcher, Beyond Personhood, 54, 259, 57.
+92 Bettcher, Beyond Personhood, 57–58.
+93 Bettcher, Beyond Personhood, 54–55.
+
+262
+
+Woollard
+
+identity is interpersonal, then it sounds as if an individual alone might not be
+able to make it the case that they have a certain existential identity; moreover,
+it seems that after self-revelation through words or actions, a third party may
+well have and be entitled to knowledge that the avowal of identity does not
+make sense and has therefore failed.
+To resolve these issues, we need to return to the extreme openness of gender
+terms in the trans subcultures that Bettcher discusses. Because what it means to
+be a woman, a man, or nonbinary is so open in these trans subcultures, there are
+many different ways of understanding why one counts as a woman (or a man or
+nonbinary). Moreover, although Bettcher holds that some aspects of existential
+identity can be shared with others, she also states that some are private.94 Even
+when we do share partial information with others, we may (and we are entitled
+to) keep some back. Thus, it seems to me that it is only in comparatively rare
+cases that a third party is entitled to know that a gender claim of this kind has
+failed. This constitutes nonabsolute epistemic authority. And finally, Bettcher
+argues that in complex cases in which our experiences do not wear their names
+like badges, avowal acts as an authoritative interpretation “retroactively constituting” the experience as interpreted.95 Gender claims in the trans subcultures
+under discussion certainly count as complex cases. So it seems that in such
+cases, a successful avowal of gender makes it the case that one is that gender.
+This constitutes nonabsolute metaphysical authority.
+Avowals as refusals of intimacy also give us epistemic first-person authority
+over gender. Such refusals can fail, and in some cases, third parties can rightfully
+have the information required to know that this has happened. For example, if
+we regard the Club Q shooter’s claim to a nonbinary identity as an attempted
+refusal of intimacy, we may know that this attempt has failed—recall the claims
+that it is possible to reveal oneself to others through actions.96 The Club Q
+shooter’s actions simultaneously undermine the requirement for us to refrain
+from trying to assess the coherence of their understanding of what makes them
+nonbinary and give us the information required to judge that this understanding is incoherent. However, generally, refusals of intimacy leave the underlying
+interpretative framework opaque, meaning that third parties are not (and are
+not entitled to be) in a position to judge its success. While it is not clear that
+successful refusals of intimacy make it the case that one has the gender claimed,
+they are certainly compatible with metaphysical first-person authority whereby
+
+94 Bettcher, Beyond Personhood, 54.
+95 Bettcher, Beyond Personhood, 52.
+96 Bettcher, Beyond Personhood, 55.
+
+First-Person Authority over Gender
+
+263
+
+the person makes it the case that they have a given gender through performative
+self-naming or articulation of existential self-identity.97
+8. Conclusion
+I have argued that Bettcher’s account of gender claims as acts of existential
+self-identification has the resources to recognize not merely ethical but also
+metaphysical and epistemic first-person authority over gender. This first-person authority is nonabsolute. Such nonabsolute first-person authority is exactly
+what we should be looking for when trying to understand how gender claims
+function in trans-inclusive gender practices.98
+University of Southampton
+f.woollard@soton.ac.uk
+References
+Amin, Kadji. “We Are All Nonbinary: A Brief History of Accidents.” Representations 158, no. 1 (2022): 106–19.
+Ashley, Florence. “What Is It Like to Have a Gender Identity?” Mind 132, no. 528
+(2023): 1053–73.
+Bell, Rowan. “Gender Together: Identity, Community, and the Politics of Sincerity.” Blog of the APA, January 11, 2023. https://blog.apaonline.org/2023/01/11/
+gender-together-identity-community-and-the-politics-of-sincerity.
+97 Bettcher also draws on Maria Lugones’s notion of complex communication to explain
+how avowals of existential identity might function when building intimacy across different underworlds when the practices of the trans underworld cannot be relied upon. See
+Lugones, “On Complex Communication.” I suspect that Bettcher’s account in Beyond
+Personhood can recognize nonabsolute ethical, epistemic, and metaphysical first-person
+authority over gender in such contexts, as she does in trans subcultures (171–73).
+98 I would like to thank three anonymous reviewers from this journal for very generous and
+helpful reviews, which greatly improved this article. I would also like to thank Sophie
+Grace Chappell, Matthew Cull, Christina Easton, Jules Holroyd, and Daniel Whiting, as
+well as audiences at the CELPA seminar (2024) at the University of Warwick for helpful
+comments on this paper. I would like to thank members of the audiences at the Parental
+Duties and Overdemandingness workshop (2022), Department of Public Health, University of Copenhagen; the 2022 Rocky Mountains Ethical Congress at the University of
+Colorado; and the members of the University of Leeds Inter-Disciplinary Applied Ethics
+(IDEA) research seminar (2022), whose helpful comments on other papers both prompted
+and shaped this paper—in particular, Luke Brunning, who pressed me on various concerns and drew my attention to Bex-Priestley’s article.
+
+264
+
+Woollard
+
+Ben-Asher, Noa, “Transforming Legal Sex.” North Carolina Law Review 102,
+no. 335 (2024): 335–94.
+Bettcher, Talia Mae. Beyond Personhood: An Essay in Trans Philosophy. University of Minnesota Press, 2025.
+———. “Through the Looking Glass: Trans Theory Meets Feminist Philosophy.” In The Routledge Companion to Feminist Philosophy, edited by Ann
+Garry, Serene J. Khader, and Alison Stone. Routledge, 2017.
+———. “Trans Identities and First-Person Authority.” In You’ve Changed: Sex
+Reassignment and Personal Identity, edited by Laurie J. Shrage. Oxford University Press, 2009.
+———. “Trans Women and the Meaning of ‘Woman’.” In The Philosophy of Sex:
+Contemporary Readings, edited by Nicholas Power, Raja Halwani, and Alan
+Soble. 6th ed. Rowman and Littlefield, 2013.
+Bex-Priestley, Graham. “Gender as Name.” Journal of Ethics and Social Philosophy 23, no. 2 (2022): 189–214.
+Briggs, R. A., and B. R. George. What Even Is Gender? Routledge, 2023.
+Butler, Judith. Gender Trouble: Feminism and the Subversion of Identity. Routledge, 1990.
+Cull, Matthew J. What Gender Should Be. Bloomsbury Academic, 2024.
+George, B. R., and R. A. Briggs. “Science Fiction Double Feature: Trans Liberation on Twin Earth.” 2019. https://philarchive.org/rec/GEOSFD.
+Greenson, Ralph. “On Homosexuality and Gender Identity.” International Journal of Psychoanalysis 45 (1964): 217–19.
+Hernandez, E. M., and Rowan Bell. “Much Ado About Nothing: Unmotivating
+‘Gender Identity’.” Ergo 12, no. 50 (2025): 1313–40.
+Jenkins, Katherine. “Toward an Account of Gender Identity.” Ergo 5, no. 7
+(2018): 713–44.
+Lugones, Maria. “On Complex Communication.” Hypatia 21, no. 3 (2006):
+75–85.
+Reisner, Andrew. “The Possibility of Pragmatic Reasons for Belief and the
+Wrong Kind of Reasons Problem.” Philosophical Studies 145, no. 2 (2009):
+257–72.
+Serano, J. Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating
+of Femininity. 2nd ed. Seal, 2016.
+Stoller, Robert J. “A Contribution to the Study of Gender Identity.” International
+Journal of Psychoanalysis 45 (1964): 220–26.
+Turyn, Gus. “Gender and First-Person Authority.” Synthese 201 (2023): 1–19.
+
+

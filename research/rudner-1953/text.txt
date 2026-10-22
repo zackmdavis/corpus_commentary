@@ -1,0 +1,294 @@
+Philosophy of Science Association
+
+The Scientist Qua Scientist Makes Value Judgments
+Author(s): Richard Rudner
+Source: Philosophy of Science, Vol. 20, No. 1 (Jan., 1953), pp. 1-6
+Published by: The University of Chicago Press on behalf of the Philosophy of Science
+Association
+Stable URL: http://www.jstor.org/stable/185617
+Accessed: 29/03/2010 04:00
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/page/info/about/policies/terms.jsp. JSTOR's Terms and Conditions of Use provides, in part, that unless
+you have obtained prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you
+may use content in the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/action/showPublisher?publisherCode=ucpress.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+The University of Chicago Press and Philosophy of Science Association are collaborating with JSTOR to
+digitize, preserve and extend access to Philosophy of Science.
+
+http://www.jstor.org
+
+or ,Sdteno
+PhiIosophjM
+VOL.
+
+20
+
+January, 1953
+
+NO.
+
+THE SCIENTIST QUA SCIENTIST MAKES VALUE JUDGMENTS*
+RICHARD RUDNER
+
+The question of the relationship of the making of value judgments in a typically ethical sense to the methods and procedures of science has been discussed
+in the literature at least to that point which e. e. cummings somewhere refers
+to as "The Mystical Moment of Dullness." Nevertheless, albeit with some
+trepidation, I feel that something more may fruitfully be said on the subject.
+In particular the problem has once more been raised in an interesting and
+poignant fashion by recently published discussions between Carnap (1) and
+Quine (3) on the question of the ontological commitments which one may make
+in the choosing of language systems.
+I shall refer to this discussion in more detail in the sequel; for the present,
+however, let us briefly examine the current status of what is somewhat loosely
+called the "fact-value dichotomy."
+I have not found the arguments which are usually offered, by those who believe
+that scientists do essentially make value judgments, satisfactory. On the other
+hand the rebuttals of some of those with opposing viewpoints seem to have had
+at least a prima facie cogency although they too may in the final analysis prove
+to have been subtly perverse.
+Those who contend that scientists do essentially make value judgments generally support their contentions by either
+A. pointing to the fact that our having a science at all somehow "involves"
+a value judgment, or
+B. by pointing out that in order to select, say among alternative problems,
+the scientist must make a value judgment; or (perhaps most frequently)
+C. by pointing to the fact that the scientist cannot escape his quite human
+self-he is a "mass of predilections" and these predilections must inevitably
+influence all of his activities not excepting his scientific ones.
+To such arguments, a great many empirically oriented philosophers and scientists have responded that the value judgments involved in our decisions to
+have a science, or to select problem A for attention rather than problem B are,
+of course, extra-scientific. If (they say) it is necessary to make a decision to have
+a science before we can have one, then this decision is literally pre-scientific
+and the act has thereby certainly not been shown to be any part of the procedures
+* The opinions or assertions contained herein are the private ones of the writer and are
+not to be construed as official or reflecting the views of the Navy Department or the Naval
+Establishments at large.
+
+9
+
+RICHA RD RUDNER
+
+of science. Similarly the decision to focus attentioni on one problem rather than
+another is extra-problematic and forms no part of the procedures involved in
+dealing with the problem decided upon. Since it is these procedures which constitute the method of science, value judgments, so they respond, have not been
+shown to be involved in the scientific method as such. Again, with respect to the
+inevitable presence of our predilections in the laboratory, most empirically
+oriented philosophers and scientists agree that this is "unfortunately" the case;
+but, they hasten to add, if science is to progress toward objectivity the influence
+of our personal feelings or biases on experimental results must be minimized.
+We must try not to let our personal idiosyncrasies affect our scientific work.
+The perfect scientist-the scientist qua scientist does not allow this kind of value
+judgment to influence his work. However much he may find doing so unavoidable
+qua father, qua lover, qua member of society, qua grouch, when he does so he is
+not behaving qua scientist.
+As I indicated at the outset, the arguments of neither of the protagonists in
+this issue appear quite satisfactory to me. The empiricists' rebuttals, telling
+prima facie as they may against the specific arguments that evoke them, nonetheless do not appear ultimately to stand up, but perhaps even more importantly,
+the original arguments seem utterly too frail.
+I believe that a much stronger case may be made for the contention that value
+judgments are essentially involved in the procedures of science. And what I
+now propose to show is that scientists as scientists do make value judgments.
+Now I take it that no analysis of what con stitutes the method of science would
+be satisfactory unless it comprised some assertion to the effect that the scientist
+as scientist accepts or rejects hypotheses.
+But if this is so then clearly the scientist as scientist does make value judgments. For, since no scientific hypothesis is ever completely verified, in accepting
+a hypothesis the scientist must make the decision that the evidence is sufficiently
+strong or that the probability is suffciently high to warrant the acceptance of
+the hypothesis. Obviously our decision regarding the evidence and respecting
+how strong is "strong enough", is going to be a function of the importance, in
+the typically ethical sense, of making a mistake in accepting or rejecting the
+hypothesis. Thus, to take a crude but easily managable example, if the hypothesis under consideration were to the effect that a toxic ingredient of a drug was
+not present in lethal quantity, we would require a relatively high degree of
+confirmation or confidence before accepting the hypothesis-for the consequences
+of making a mistake here are exceedingly grave by our moral standards. On the
+other hand, if say, our hypothesis stated that, on the basis of a sample, a certain
+lot of machine stamped belt buckles was not defective, the degree of confidence
+we should require would be relatively not so high. How sure we need to be before
+we accept a hypothesiswill depend on how serious a mistake would be.
+The examples I have chosen are from scientific inferences in industrial quality
+control. But the point is clearly quite general in application. It would be interesting and instructive, for example, to know just how high a degree of probability
+the Manhattan Project scientists demanded for the hypothesis that no uncon-
+
+VALUE
+
+JUDGMENTS
+
+3
+
+trollable pervasive chain reaction would occur, before they proceeded with the
+first atomic bomb detonation or first activated the Chicago pile above a critical
+level. It would be equally interesting and instructive to know why they decided
+that that probability value (if one was decided upon) -wvashigh enough rather
+than one which was higher; and perhaps most interesting of all to learn whether
+the problem in this form was brought to consciousness at all.
+In general then, before we can accept any hypothesis, the value decision must
+be made in the light of the seriousness of a mistake, that the probability is high
+enough or that, the evidence is strong enough, to warrant its acceptance.
+Before going further, it will perhaps be well to clear up two points which might
+otherwise prove troublesome below. First I have obviously used the term "probability" up to this point in a quite loose and pre-analytic sense. But my point
+can be given a more rigorous formulation in terms of a description of the process
+of making statistical inference and of the acceptance or rejection of hypotheses
+in statistics. As is well known, the acceptance or rejection of such a hypothesis
+presupposes that a certain level of significance or level of confidence or critical
+region be selected.'
+It is with respect at least to the necessary selection of a confidence level or
+interval that the necessary value judgment in the inquiry occurs. For, "the
+size of the critical region (one selects) is related to the risk one wants to accept
+in testing a statistical hypothesis" (4: 435).
+And clearly how great a risk one is willing to take of being wrong in accepting
+or rejecting the hypothesis will depend upon how seriously in the typically
+ethical sense one views the consequences of making a mistake.
+I believe, of course, that an adequate rational reconstruction of the procedures
+of science would show that every scientific inference is properly construable as
+a statistical inference (i.e. as an inference from a set of characteristics of a sample
+of a population to a set of characteristics of the total population) and that such
+an inference would be scientifically in control only in so far as it is statistically
+in control. But it is not necessary to argue this point, for even if one believes
+that what is involved in some scientific inferences is not statistical probability
+but rather a concept like strength of evidence or degree of confirmation, one
+would still be concerned with making the decision that the evidence was strong
+enough or the degree of confirmation high enough to warrant acceptance of the
+hypothesis. Now, many empiricists who reflect on the foregoing considerations
+agree that acceptances or rejections of hypotheses do essentially involve value
+judgments, but they are nonetheless loathe to accept the conclusion. And one
+"In practice three levels are commonly used: 1 per cent, 5 per cent and 0.3 of one per
+cent. There is nothing sacred about these three values; they have become established in practice without any rigid theoretical justification." (my italics) (4: 435). To establish significance
+at the 5 per cent level means that one is willing to take the risk of accepting a hypothesis
+as true when one will be thus making a mistake, one time in twenty. Or in other words, that
+one will be wrong, (over the long run) once every twenty times if one employed an .05 level
+of significance. See also (2: ch. V) for such statements as "which of these two errors is most
+imnportantto avoid (it being necessary to make such a decision in order to accept or reject
+the given hypothesis) is a subjective matter . . ." (p. 262) (my italics).
+
+4
+
+RICHARD
+
+RUDNER
+
+objection which has been raised against this line of argument by those of them
+who are suspicious of the intrusion of value questions into the "objective realm
+of science," is that actually the scientist's task is only to determinethe degree of
+confirmation or the strength of the evidence which exists for an hypothesis. In
+short, they object that while it may be a function of the scientist qua member
+of society to decide whether a degree of probability associated with the hypothesis
+is high enough to warrant its acceptance, still the task of the scientist qua scientist is just the determination of the degree of probability or the strength of
+the evidence for a hypothesis and not the acceptance or rejection of that hypothesis.
+But a little reflection will show that the plausibility of this objection is apparent merely. For the determination that the degree of confirmation is say, p,
+or that the strength of evidence is such and such, which is on this view being
+held to be the indispensable task of the scientist qua scientist, is clearly nothing
+more than the acceptance by the scientist of the hypothesis that the degree of confidence is p or that the strengthof the evidenceis such and such; and as these men have
+conceded, acceptance of hypotheses does require value decisions. The second
+point which it may be well to consider before finally turning our attention to the
+Quine-Carnap discussion, has to do with the nature of the suggestions which
+have thus far been made in this essay. In this connection, it is important to
+point out that the preceeding remarks do not have as their import that an empirical description of every present day scientist ostensibly going about his
+business would include the statement that he made a value judgment at such
+and such a juncture. This is no doubt the case; but it is a hypothesis which can
+only be confirmed by a discipline which cannot be said to have gotten extremely
+far along as yet; namely, the Sociology and Psychology of Science, whether
+such an empirical description is warranted, cannot be settled from the armchair.
+My remarks have, rather, amounted to this: any adequate analysis or (if I
+may use the term) rational reconstruction of the method of science must comprise the statement that the scientist qua scientist accepts or rejects hypotheses;
+and further that an analysis of that statement would reveal it to entail that the
+scientist qua scientist makes value judgments.
+I think that it is in the light of the foregoing arguments, the substance of
+which has, in one form or another, been alluded to in past years by a number of
+inquirers (notably C. W. Churchman, R. L. Ackoff, and A. Wald) that the QuineCarnap discussion takes on heightened interest. For, if I understand that discussion and its outcome correctly, although it apparently begins a good distance away from any consideration of the fact-value dichotomy, and although
+all the way through it both men touch on the matter in a way which indicates
+that they believe that questions concerning that dichotomy are, if anything,
+merely tangential to their main issue, yet it eventuates with Quine by an independent argument apparently in agreement with at least the conclusion here
+reached and also apparently having forced Carnap to that conclusion. (Carnap,
+however, is expected to reply to Quine's article and I may be too sanguine here.)
+
+VALUE
+
+JUDGMENTS
+
+The issue of ontological commitment between Carnap and Quine has been
+one of relatively long standing. In this recent article (1), Carnap maintains that
+we are concerned with two kinds of questions of existence relative to a given
+language system. One is what kinds of entities it would be permissable to speak
+about as existing when that language system is used; i.e. what kind of framework
+for speaking of entities should our system comprise. This, according to Carnap,
+is an external question. It is the practical question of what sort of linguistic system we want to choose. Such questions as "are there abstract entities?," or "are
+there physical entities?" thus are held to belong to the category of external
+questions. On the other hand, having made the decision regarding which linguistic framework to adopt, we can then raise questions like "are there any black
+swans?" "What are the factors of 544?" etc. Such questions are internal questions.
+For our present purposes, the important thing about all of this is that while
+for Carnap internal questions are theoretical ones, i.e., ones whose answers have
+cognitive content, external questions are not theoretical at all. They are practical questions-they concern our decisions to employ one language structure or
+another. They are of the kind that face us when for example we have to decide
+whether we ought to have a Democratic or a Republican administration for the
+next four years. In short, though neither Carnap nor Quine employ the epithet,
+they are value questions.
+Now if this dichotomy of existence questions is accepted Carnap can still
+deny the essential involvement of the making of value judgments in the procedures of science by insisting that concern with external questions, admittedly
+necessary and admittedly axiological, is nevertheless in some sense a pre-scientific concern. But most interestingly, what Quine then proceeds to do is to
+show that the dichotomy, as Carnap holds it is untenable. This is not the appropriate place to repeat Quine's arguments which are brilliantly presented in
+the article referred to. They are in line with the views he has expressed in his
+"Two Dogma's of Empiricism" essay and especially with his introduction to
+his recent book, Methods of Logic. Nonetheless the final paragraph of the Quine
+article I'm presently considering sums up his conclusions neatly:
+"Within natural science there is a continuum of gradations, from the statements
+which report observations to those which reflect basic features say of quantum theory or the theory of relativity. The view which I end up with, in the paper last
+cited, is that statements of ontology or even of mathematics and logic form a continuation of this continuum, a continuation which is perhaps yet more remote
+from observation than are the central principles of quantum theory or relativity.
+The differences here are in my view differences only in degree and not in kind.
+Science is a unified structure, and in principle it is the structure as a whole, and
+not its component statements one by one, that experience confirms or shows to
+be imperfect. Carnap maintains that ontological questions, and likewise questions
+of logical or mathematical principle, are questions not of fact but of choosing a
+convenient conceptual scheme or frame work for science; and with this I agree
+only if the same be conceded for every scientific hypothesis." (3: 71-72).
+
+6)
+
+RICHARD
+
+RUDNER
+
+In the light of all of this I think that the statement that Scientists qua Scientists make value judgments, is also a consequence of Quine's position.
+Now, if the major point I have here undertaken to establish is correct, then
+clearly we are confronted with a first order crisis in science & methodology. The
+positive horror which most scientists and philosophers of science have of the
+intrusion of value considerations into science is wholly understandable. Memories
+of the (now diminished but to a certain extent still continuing) conflict between
+science and, e.g., the dominant religions over the intrusion of religious value
+considerations into the domain of scientific inquiry, are strong in many reflective scientists. The traditional search for objectivity exemplifies science's pursuit of one of its most precious ideals. But far the scientist to close his eyes to
+the fact that scientific method intrinsically requires the making of value decisions, for him to push out of his consciousness the fact that he does make them,
+can in no way bring him closer to the ideal of objectivity. To refuse to pay attention to the value decisions which must be made, to make them intuitively, unconsciously, haphazardly, is to leave an essential aspect of scientific method
+scientifically out of control.
+What seems called for (and here no more than the sketchiest indications of
+the problem caln be given) is nothing less than a radical reworking of the ideal
+of scientific objectivity. The slightly juvenile conception of the coldblooded,
+emotionless, impersonal, passive scientist mirroring the world perfectly in the
+highly polished lenses of his steel rimmed glasses,-this stereotype-is no longer,
+if it ever was, adequate.
+What is being proposed here is that objectivity for science lies at least in becoming precise about what value judgments are being and might have been
+made in a given inquiry-and even, to put it in its most challenging form, what
+value decisions ought to be made; in short that a science of ethics is a necessary
+requirement if science's progress toward objectivity is to be continuous.
+Of course the establishment of such a science of ethics is a task of stupendous
+magnitude and it will probably not even be well launched for many generations.
+But a first step is surely comprised of the reflective self awareness of the scienitist
+in making the value judgments he must make.
+The Tufts College Systems Coordination Project
+Naval Research Laboratory
+Washington, D. C.
+REFERENCES
+(1) CARNAP, R., "Empiricism, Semantics, and Ontology," lRevue Internationale de Philosophie, XI, 1950, p. 20-40.
+(2) NEYMAN, J., First Coatrse in Probability and Statistics, New York: Henry Holt & Co.,
+1950.
+(3) QUINE, W. V., "On Carnap's Views on Ontology," Philosophical Studies, II, No. 5,
+1951.
+(4) ROSANDER, A. C., Elenmentary Principles of Statistics. New York: D. Van Nostrand Co.,
+1951.
+
+

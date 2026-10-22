@@ -1,0 +1,816 @@
+Original Papers
+
+Polish Psychological Bulletin
+2012, vol. 43(3), 191-198
+DOI - 10.2478/v10059-012-0021-6
+
+Katarzyna Szczucka*
+
+Attraction at first fright? What Datton & Aron
+really demonstrated almost 40 years ago
+Almost four decades have passed since Dutton and Aron (1974) published their classic article in JPSP in which they
+present the results of three studies. According to interpretations of the results done by the authors, the sufficient condition
+of obtaining the effect of increased sexual attraction toward the object (an attractive woman) – which must be present
+shortly after or while waiting to become an aversive stimulus – is the induction in the subjects of a strong autonomic
+arousal. This can be done via crossing a high suspended bridge or anticipating the receipt of strong electric shocks.
+However, the results of reanalysis do not allow such a conclusion. In the article the author presents the results of secondary
+analysis and lists methodological, theoretical and interpretative incoherences.
+Key words: effect of arousal on attraction; misattribution effect; Dutton and Aron; misinterpretations;errors
+
+For I am the first and the last.
+I am the honored one and the scorned one.
+I am the whore and the holy one.
+I am the wife and the virgin.
+(Nag Hammadi manuscript)
+Dutton and Aron’s article published in 1974
+undoubtedly belongs to the classics of social psychology
+papers. References to this paper appear in most textbooks
+(cf. Aronson, Wilson, & Akert, 2010; Hogg & Vaughan,
+2011; Kenrick, Neuberg, & Cialdini, 2010; Rogers, 2003).
+Almost each (I hope) undergraduate psychology student
+from all over the world, if awoken at midnight and asked:
+“What did Dutton and Aron denonstrate in the bridge
+experiment?” would answer: “They showed that when male
+participants crossed the dangerous, high, unstable bridge
+to meet a young, attractive woman, they misinterpreted
+arousal as a attraction.” What if we would, next, ask him or
+her: “How did you know that?”, arguably he or she would
+answer: “Dutton and Aron demonstrated such effect in
+experiments they had conducted.” Is that conclusion really
+correct? What in fact did the two researchers show?
+Donald Dutton and Arthur Aron conducted three
+studies – two field studies and one laboratory experiment.
+
+The field studies are most known – an attractive female or
+(it is not obvious, if equally attractive) male confederate
+approached lonely walking young male subjects in the two
+conditions: (1) as they crossed the experimental, five-footwide, 450-foot- long, 230-foot-high unstable bridge, under
+which a wild river fiowed; (2) as they crossed the control
+– a stable, 10-foot-high bridge. When the subjects crossed
+one of these bridges, a confederate asked them to fill in
+a questionnaire consisting of, among others, TAT-picture
+questions. After filling in the questionnaire the interviewer
+asked the subjects, if they wanted to receive further
+information about the study. If the answer was affirmative,
+the confederate wrote down her or his name and the
+phone number. The authors generated and experimentally
+confirmed the following research hypothesis: men who
+crossed the experimental Capilano Canyon Suspension
+Bridge would misattribute aversive arousal induced by
+walking only through this bridge as a sexual attraction to
+the female confederate. The dependent variable measures
+were: (1) TAT responses as an indicator of sexual imagery;
+(2) behavioral data i.e. accepting the phone number and
+making a phone call.
+In this article I would like to offer arguments for the
+above mentioned conclusion presented by Dutton and
+
+* University of Social Sciences and Humanities,Wroclaw Faculty
+
+Katarzyna Szczucka
+
+192
+
+Aron. I would like to present many inaccuracies from the
+original studies carried out by the authors by implementing
+the following distinction: (1) theoretical inconsistencies;
+(2) methodological errors; (3) statistical errors; (4)
+interpretative inconherences.
+
+I. Theoretical inconsistencies
+The authors’ explanation of arousal – attraction link
+bases on the two-factor theory of emotion (Schachter
+& Singer, 1962) is a part of the attributional tradition in
+psychology. According to the assumptions of the theory
+sine qua non conditions of experiencing an emotion (in this
+case – sexual attraction) are: ambiguous actual source of
+arousal and situational clue, which gives a name to the kind
+of emotion a person is experiencing at present. Another
+theory, i.e. the excitation transfer theory (Zillmann,
+Katcher, & Milavsky, 1972), which Dutton and Aron should
+have known, contains similar assumptions. Meanwhile, in
+both fi eld studies the source of experienced arousal was
+unambiguous and more salient compared to the attractive
+confederate. In opposition to these theoretical assumptions
+the authors claim that: “a sexual attraction-strong emotion
+link may occur even when the emotions are unambiguous”
+(op. cit., p. 511).
+
+II. Presentation of the results of the reanalyses
+1. First field study
+1. 1. Methodological errors
+The first question that should be asked is whether this
+study should be named “experiment” and whether the
+authors really had made “arousal manipulation”? In fact this
+research was for certain neither an “experiment” (or “field
+experiment”; op. cit., p. 513) nor there was a manipulation
+of arousal level done by the confederates (cf. “arousal
+manipulation”; op. cit., p. 512). Moreover, there were
+neither randomization, constitutional for an experiment,
+nor exactly experimental manipulation. Incidentally, the
+only manipulation which the authors had done was the
+confederates sex manipulation, therefore the study was
+an example of a quasi-experiment (cf. Shadish, Cook, &
+Campbell, 2002). The weak side of the design is limited
+internal validity – the fact that between presumed cause (a
+sort of a bridge and, as a consequence, presence or absence
+of arousal) and the result (presence or absence of the
+reinterpretation of arousal as sexual attraction) association
+is observed. Yet, there is no indication that there is a causal
+relation between them (ibid.). We could not state explicitly
+that the results of the study were only an implication which
+out of the two bridges the subjects crossed.
+The research results came from a non-random
+assignment of the subjects, hence – obtained intergroup
+differences in the measurement of the dependent variable
+
+indicators could come from individual pre-existing
+differences of the subjects (e.g. the motives of sensation
+seeking, subjective perception of eustress and/or distress
+or perception of optimal arousal level) i.e. selection bias
+(ibid.). Meanwhile, Dutton and Aron in a gratuitous
+manner assumed that for the subjects who had crossed the
+experimental bridge this experience was unequivocally
+aversive and was subjectively interpreted as a fear: “They
+experience a strong emotion (fear)” (op. cit., p. 511).
+Another doubt refers to the abundance of the groups of
+the subjects and why they were not equinumerous.
+The authors do not present how long it had been since the
+participants crossed the experimental bridge until they were
+inquired by the confederates: “As subjects crossed either the
+control or experimental bridge, they were approached by
+the interviewer” (op. cit., p. 511). From the later empirical
+results point of view (cf. Cantor, Zillmann, & Bryant, 1975)
+the fact whether 1, 5 or 10 minutes had passed, is a very
+significant parameter. Of course, Dutton and Aron could
+have not known the above mentioned results, nonetheless
+no information about indicators of this parameter should be
+handled as a methodological malpractice.
+Another methodological error refers to the extent of
+generalization of the results, hence the external validity.
+The participants were only “males visiting either of two
+bridge sites who fit the following criteria: (a) between
+18 and 35 years old and (b) unaccompanied by a female
+companion” (op. cit., p. 511). In the first field study there
+were no such conditions when either an attractive male
+confederate approached lonely walking females or an
+average/unattractive female confederate and an average/
+unattractive male confederate approached both male and
+female subjects.
+1.2. Statistical errors and the results of the reanalyses
+In the first field study Dutton and Aron (1974) present,
+let us recall, three types of dependent variable indicators:
+(1) TAT responses; (2) behavioral data: both DV 1 –
+accepting phone number and DV 2 – subsequent calling. As
+we remember there were four conditions: male vs. female
+confederate and two kinds of bridges: experimental and
+control.
+Female confederate conditions
+The female confederate accosted in total 66 subjects,
+out of whom 45 agreed to fill in the questionnaire. In
+the experimental conditions 23/33 males fi lled in the
+questionnaire whereas in the control conditions 22/33.
+There were 7 questionnaires which were unusable hence
+to the further empirical investigation remained 20 in
+experimental conditions and 18 in control conditions,
+respectively.
+DV: compliance with a request
+The authors did not present the results of the analysis for
+dependent variable which was compliance with a request
+to fi ll in a questionnaire. I presume that this indicator of
+
+Attraction at first fright? What Datton & Aron really demonstrated almost 40 years ago
+
+dependent variable is salient and consistent with theoretical
+assumptions and the compliance with a request in the
+experimental conditions should be greater compare to
+control conditions. If the arousal in the experimental
+conditions, according to the research hypothesis, was
+misattributed by the subjects as a sexual attraction to the
+female confederate, approached males should more often
+comply after crossing the experimental bridge. Meanwhile
+the results of the analysis I have conducted show that
+compliance indicators for both groups were similar: 69,7%
+vs. 66,7%, odds ratio (OR) = 1,15; 95% Wald confidence
+interval (CI) = 0,41-3,24; χ2 (1, N = 66) = .07, p > .7.
+DV 1: accepting phone number
+In the experimental conditions 18/23 subjects accepted
+phone number of the female confederate, in the control
+conditions 16/22 did. Dutton and Aron do not present the
+results of the analysis for this indicator of the dependent
+variable, these are nonsignificant: (78.3% vs. 72.7%), odds
+ratio (OR) = 1.35; 95% Wald confidence interval (CI) =
+0.345-5.284; χ2 (1, N = 45) = .19, p > .6. If the subject
+in the experimental conditions misattribute their arousal
+(experienced hic et nunc!) they should more often (i.e.
+statistically significant, with the big enough effect size)
+accept phone number offered by an attractive, young
+woman compared to the control conditions. Meanwhile
+this relation did not occur – confidence interval contains
+“1” which means that the intergroup differences are not
+the result of experimental manipulation, in other words
+– the link between the variables is weak or nonexistent (cf.
+Agresti, 2007).
+DV 2: latter calling
+Out of the group of 18 subjects who crossed the
+experimental bridge 9 phoned, while among the control
+conditions – 2 out of 16 subjects called: (50% vs. 12.5%),
+odds ratio (OR) = 7; 95% Wald confidence interval (CI) =
+1.22-40.125; χ2 (1, N = 34) = 5.44, p < .02. The odds ratio
+is 7, which means that the chance of achieving success (i.e.
+phoning) is sevenfold more likely than encountering failure
+(ibid.) and that the association between variables is strong
+(cf. Haddock, Rindskopf, & Shadish, 1998). The above
+results, as we can see, are statistically significant and
+nontrivial but what in fact did they prove? A key role in the
+interpretation of the results plays the temporal parameter,
+i.e. how long has it been since the subjects had met
+the confederate and latter phoning – I will relate to it in
+section 1.3.
+Male confederate conditions
+The male confederate accosted in total 93 subjects, out
+of whom 45 agreed to fill in the questionnaire. There were
+5 questionnaires which were unusable hence to the further
+empirical investigation remained 20 in experimental
+conditions and analogical number in control conditions.
+DV: compliance with a request
+In the experimental conditions 23/51 subjects complied,
+in the control conditions – 22/42: 45.1% vs. 52.4%, odds
+
+193
+
+ratio (OR) = .75; 95% Wald confidence interval (CI) = .331.69; χ2 (1, N = 93) = .49, p > .4.
+DV 1: accepting phone number
+In the experimental group 7 out of 23 accepted phone
+number of the male confederate, in the control group – 6
+out of 22, (30.4% vs. 27.3%), odds ratio (OR) = 1.16; 95%
+Wald confidence interval (CI) = .321-4.247; χ2 (1, N = 45)
+= .05, p > .8.
+DV 2: latter calling
+2 out of 7 subjects who had crossed the experimental
+bridge called to the male confederate (28.6%), among
+control subjects – 1 out of 6 (17%), odds ratio (OR) = 2;
+95% Wald confidence interval (CI) = .134-29.81; χ2 (1, N
+= 13) = .26, p > .6.
+1.3. Interpretative incoherences
+Donald Dutton and Arthur Aron claim that they carry
+out “arousal manipulation” (op. cit., p. 512) among the
+group of other 30 men at the age 18-35 to investigate the
+effectiveness of the procedure of inducing fear: >>Fifteen
+males on the experimental bridge were asked, „How fearful
+do you think the average person would be when he crossed
+this bridge?” The mean rating was 79 on a 100-point scale
+where 100 was equal to extremely fearful. Fifteen males
+on the control bridge gave a mean rating of 18 on the same
+scale (t = 9.7, df — 28, p < .001, two-tailed). In response
+to the question „How fearful were you while crossing the
+bridge?” experimental-bridge males gave a rating of 65
+and control-bridge males a rating of 3 (t = 10.6, p < .001,
+df = 28, twotailed). Hence, it can be concluded that most
+people are quite anxious on the experimental bridge but
+not on the control bridge<< (op. cit., p. 512). Needless to
+say, the above conclusion is invalid. First – there was no
+manipulation (cf. section 1.1.), second – the results came
+from the incidental sample which consists of 15 participants
+in each condition hence the generalization of these results
+to the all actual participants of the field (i.e. N = 159) study
+is unjustified. There is no information about who asked
+the questions – attractive (wo)man, average/unattractive
+(wo)man? Further, it is unclear why the scale had only
+100 points instead of 101 points, with “0” point which
+would indicate the state of experiencing no fear. What is
+more – why the authors assume that the thirty males would
+experience only fear, but not, for instance, non-specific
+arousal or excitation or both? Explanation that: “To present
+suspicion, no checks on the arousal of experimental subjects
+could be made” (op. cit., p. 512) is unclear.
+Another error pertains to presented numerical amount
+of the subjects: “A total of 85 subjects were contacted by
+either a male or a female interviewer” (op. cit., p. 511), in
+the meantime in the study took part 159 subjects. Dutton and
+Aron claim that a total of 12 questionnaires were unusable
+(5 from a male and 7 from a female confederate). The
+question I would ask is how many unusable questionnaires
+out of the 12 “were incomplete or written in a foreign
+
+194
+
+Katarzyna Szczucka
+
+language” (op. cit., p. 512) and why these subjects were the
+participants classified to the next measurements (accepting
+phone number and phoning)?
+The authors refer that after filling in the questionnaire
+in the both research conditions the interviewer “invited
+each subject to call, if he wanted to talk further” (op. cit.,
+p. 512). Meantime, in another paper Artur Aron claims
+that the confederates informed the subjects that they could
+“phone her that evening” (Lewandowski & Aron, 2004,
+p. 362). From the original paper we could not know:
+(1) When the subjects of both sexes could/should phone
+– the same evening? Next day? Someday?; (2) If all of
+the participants phoned more or less in the same time?
+The authors de facto did not control this indicator of the
+dependent variable.
+Another issue is that the authors interpret phoning after –
+we do not know how long, we could only presume – a period
+of time as an indicator of misattribution of arousal and, as a
+result, the sexual attraction that only those participants who
+had crossed the dangerous bridge felt. “On the assumption
+that curiosity about the experiment should be equal
+between control and experimental groups, it was felt that
+differential calling rates might reflect differential attraction
+to the interviewer” (op. cit., p. 512). Meanwhile, this
+ascertainment is irrelevant with the theoretical assumptions
+(Schachter & Singer, 1962; Zilmann et al., 1972) – surely
+the subjects were not aroused at that moment of calling,
+anyways not “because of the confederate”. Consequently
+– is that indicator really “evidence for heightened sexual
+attraction under conditions of high anxiety”?
+2. Second field study
+Donald Dutton and Arthur Aron claim in the discussion
+of the results of the first study that these effects may be the
+consequence of differences between both populations of
+subjects. To eliminate possible alternative explanations the
+authors in the next study created different research design,
+namely: (1) in both – experimental and control – conditions
+the subjects were approached only by a female confederate;
+(2) the participants came from “the same subject population”
+(op. cit., p. 513), i.e. in both groups solely males took
+part (again at the age 18 – 35) that crossed The Capilano
+Suspension Bridge.
+2.1. Methodological errors
+The participants were accosted either at least 10 minutes
+that elapsed after the moment of crossing the bridge (i.e.
+the control conditions, that is – according to the hypothesis
+– no arousal is experienced), or after unspecified by the
+authors period of time. This time the authors analogically
+to the description of the procedure of the first study, do not
+inform about the temporal parameter in the experimental
+conditions. Meanwhile that parameter is crucial (cf.
+Zillmann et al., 1972; Cantor, Zillmann, & Bryant, 1975).
+
+Other methodological objections are replication of those
+listed in section 1.1.
+2.2. Statistical errors and the results of the reanalyses
+As with the fi rst study the dependent variables were
+twofold: (1) TAT responses; (2) behavioral data (accepting
+a phone number and later calling).
+DV: compliance with a request
+The authors again did not analyze the data addressing
+to compliance with a request. The analysis that I have
+conducted shows meanwhile that the compliance
+proportions were similar in both conditions: 25 out of 34
+complied in the experimental group, in the control – 25 out
+of 35, (73.53% vs. 71.43%), odds ratio (OR) = 1.11; 95%
+Wald confidence interval (CI) = .39-3.20; χ2 (1, N = 69) =
+.04, p > .8.
+DV 1: accepting a phone number
+Dutton and Aron in respect to TAT responses claim:
+“In the experimental group, 25 of 34 males who were
+approached agreed to fill in the questionnaire. In the control
+group, 25 out of 35 agreed” (op. cit., p. 514). In the next
+paragraph, in which they present the results of the behavioral
+data, we could read that: “In the experimental group, 20 of
+the 25 subjects who agreed to the interview accepted the
+interviewer’s phone number. In the control group, 19 out
+of 23 accepted” (op. cit., p. 514). Meanwhile, according
+to the dissection of the paper in the control conditions a
+phone number accepted not 19 out of 23 but 19 out of 25
+subjects – certainly this kind of proportion had the authors
+do analysis of the results of the first study (cf. section 1.2.
+or table 1; op. cit., p. 513). The authors again do not present
+the results of the analysis of this dependent variable, which
+are: in the experimental group phone number accepted 80%
+of the subjects, in the control group – 76%; odds ratio (OR)
+= 1.26; 95% Wald confidence interval (CI) = .33-4.84; χ2
+(1, N = 50) = .12, p > .7. Hence as we can see, the results
+from the fi rst study in respect to this dependent variable
+were replicated. The results are nonsignificant, effect
+size is small and the confidence interval includes the null
+hypothesis. On the grounds of these, doing correct analyses
+we should explicitly say that the male subjects in the two
+field studies done by Dutton and Aron did not take the
+female confederate’s phone number more often when they
+crossed the suspension bridge.
+DV 2: later calling
+The implication of the error mentioned above is the
+necessity of conducting the secondary analysis of the data
+collected by Dutton and Aron based on correct proportions,
+i.e. the second behavioral data – phoning. As we can read:
+“In the experimental group, 13 out of 20 called, while in
+the control group, 7 out of 23 phoned (χ2= 5.89, p < .02)”
+(op. cit., p. 514). Meanwhile, in the low arousal conditions
+(i.e. control conditions) 7 out of 19 phoned the confederate,
+not 7 out of 23, inasmuch “In the control group, 19 out of
+23 accepted [the phone number]” (op. cit., p. 514). Hence:
+
+Attraction at first fright? What Datton & Aron really demonstrated almost 40 years ago
+
+this analysis conducted by Dutton and Aron was false, the
+correct analysis results are as follows: in the experimental
+conditions 13 out of 20 called, in the control conditions
+– 7 out of 19, (65% vs. 37%), odds ratio (OR) = 3.18; 95%
+Wald confidence interval (CI) = .86-11.78; χ2 (1, N = 39)
+= 3.09, p = .08. As we can see, there is a trend, but there is
+no statistical significance. Further – the confidence interval
+is wide, as the results of the analysis indicate, the sample
+was nonrepresentative for the population. The confidence
+interval contains “1”, which means that the association
+between the variables is weak or nonexistent, accidental.
+It was not the result of the used manipulation (cf. Agresti,
+2007; Haddock et al., 1998), which confirms the p value.
+2.3. Interpretative incoherences
+Bearing in mind both: the results of the secondary
+analysis and methodological inconsistences presented
+earlier it is hard to agree with the ascertainments that: „the
+behavioral result of Experiment 1 was also replicated” (op.
+cit., p. 514) and “Experiment 2 enables the rejection of the
+notion of differential subject populations as an explanation
+for the control-experimental bridge differences for female
+interviewers in Experiment 1” (op. cit., p. 514). The results
+of the fi rst study, indeed, were replicated, but only in the
+case of accepting the phone number – both results did not
+to come close the trend limit (p > .6 in the first study and
+p > .7 in the second), but in the case of the second dependent
+variable, i.e. later calling – the results were not replicated
+(p < .02 in the first study and p = .08 in the second).
+According to present standards, replications are the
+basis of experimental psychology, psychology as a science
+(cf. APA Publication Manual, 2010; Cumming, 2008;
+Wojciszke, 2006). As Geoff Cumming claims (2008), the p
+value is not the valid baseline of any statistical inferences,
+and in fact this value which comes from only one study
+could not say much if in replication this value (the magic
+“p < .05”) will be repeated. The measures on which an
+experimental psychologist should base are, independent
+from the sample size, confident intervals and effect size (cf.
+also APA Publication Manual, 2010).
+The questions we should ask in this place are – what de
+facto did Dutton and Aron measure in the two field studies
+and what did they, conclusively, demonstrate? Well, they
+show doubtlessly that men at the age 18-35, who were
+aroused (in aversive or nonaversive way), display more
+contents of sexual connotation than nonaroused males at
+the same age (these assessments based on competitive
+judges procedure, scores ranged from 1 to 5; cf. op. cit.,
+p. 511). In the female interviewer conditions (first study)
+males who crossed the experimental bridge got higher
+scores (M = 2.47) than men who crossed the control bridge
+(M = 1.41), t = 3.19, p < .01, df = 36, two-tailed (cf. op. cit.,
+p. 512). In the same conditions, i.e. when the interviewer
+was a female confederate (second study) the results were
+similar: M = 2.99 (experimental bridge) and M = 1.92 –
+
+195
+
+control bridge (t = 3.07, p < .01, df = 36, two-tailed (cf.
+op. cit., p. 514). There were no signi cantfidifferences in
+the conditions when the subjects were accosted by a male
+interviewer on both bridges (t = 0.36, ns; op. cit., p. 512).
+It is thought-provoking why the authors in both studies, in
+the TAT variable context, used the two-tailed tests, having
+formulated a directional hypothesis. Another question is
+if the researchers would have obtained the results if the
+interviewer was an average/unattractive woman. All other
+indicators of dependent variables – i.e. behavioral data – do
+not confirm the hypotheses Dutton and Aron formulated.
+The pretext for conducting the real experiment (in
+the original paper – »Experiment 3«) were the problems
+with gestalt. As we can read: »The gestalt created by the
+experimental situation may have made the interviewer
+appear more helpless or frightened, virtually a „lady
+in distress.« Such would not be the case in the control
+situation” (op. cit., p. 514). These doubts, in my opinion, are
+irrelevant – the authors at one point wrote that the female
+confederate was in each case blind to the experimental
+hypothesis (cf. op. cit., p. 511 and p. 514), at the other that
+“more stable nonverbal forms of communication (such as
+eye contact) could not be controlled without cueing the
+female interviewer to the experimental hypothesis” (op.
+cit., p. 514). Why should (only) the female confederate in
+the conditions in which the subjects experienced autonomic
+arousal be perceived like a helpless or frightened person?
+What kind of theoretical justi cation could explain this
+artificial problem? In my opinion this attempt to fi nd an
+alternative explanation of the obtained results and the
+attempt to show, via a laboratory experiment that supposed
+alternative explanation (the problem of gestalt) was for
+certain abolished is from theoretical and interpretative
+point of view irrelevant.
+3. Laboratory experiment
+The participants of the fi rst experiment de facto were
+80 students, all were volunteers. The female confederate
+(cosubject) knew that the study concerned sexual attraction,
+but did not know the research hypothesis. According
+to the deception, the aim of the experiment was to show
+the association between electric shocks and learning.
+There were three types of the dependent variables: DV
+1: measurement of the experienced anxiety (on a 5-point
+scale); DV 2: twofold measurement of sexual attraction
+to the female confederate (this variable was not measured
+in the dyad male – male): wanting to date and wanting to
+kiss the female confederate (assessment per analogy on
+the 5-point scale, but the average score from two items
+was measured); DV 3: like in the two prior studies – TAT
+responses.
+3.1. Statistical incoherences
+DV 1: Measurement of experienced anxiety
+
+Katarzyna Szczucka
+
+196
+
+According to the original paper: “In conditions where
+the subject anticipated receiving a strong shock, subjects
+reported significantly more anxiety than in conditions
+where the subject anticipated receiving a weak shock
+(t = 4.03, p < .001, df = 39, one-tailed). In conditions where
+the subject anticipated receiving a strong shock with the
+female cosubject present, subjects reported significantly
+less anxiety than in a control condition (n = 20), where two
+male subjects were run (t = 2.17, p < .025, df = 19, onetailed). No significant differences in the subject’s anxiety
+occurred as a function of the confederate receiving a strong
+versus a weak shock” (op. cit., p. 515).
+
+cosubject could be included among the unquestionable
+infringements
+3.3. Interpretative incoherences
+DV 2: Sexual attraction scores
+The results of this dependent variable measurement were
+as follows: regardless of whether the female confederate
+would expect strong or weak shocks, the participants
+experienced greater sexual attraction to the female cosubject
+only in the conditions, in which they expected to receive
+a strong shock.
+
+Table 1 Reported anxiety in experimental conditions
+Subject
+expects:
+
+Female confederate to No female
+No female
+get strong shock
+get weak shock confederate
+
+strong shock
+weak shock
+
+(1) 3.17
+(3) 2.42
+
+(2) 3.05
+(4) 2.28
+
+(5) 3.8
+(6) ?
+
+In each cell n = 20 (On the basis of the data presented by Dutton and
+Aron, 1974, p. 515).
+
+Let us start with the incoherence relating to the total
+number of the participants. Earlier, as we remember, the
+authors claimed, that a total number of subjects in the third
+experiment was 80 (cf. op. cit., p. 514), but in the Table 2
+(op. cit., p. 515 – a copy of Table 1 in this paper) we could
+see the cell “no female confederate” and the information,
+that in each cell “n = 20”, but… we have here fi ve cells,
+ergo: the total number of participants was 100, and, as a
+consequence, we do not have here the design 2 x 2, but the
+design 2 x 2 with the isolated control group.
+Dutton and Aron make the two intergroup comparisons
+with the use of t-test as follows: (1) the participants expect
+to receive a strong shock (cells: 1 and 2) vs. a weak shock
+(cells: 3 and 4); (2) the subjects expect to receive a strong
+shock when the cosubject (experimenter female confederate)
+is present (cells: 1 and 2) vs. the control conditions, i.e. the
+dyad male (participant) – male (cosubject, an experimenter
+male confederate), cell 5. If so then why – accordingly
+– in the first comparison df = 39, instead of 78, and in the
+second df = 19, instead of 58? Further – why do the authors
+use in this case one-tailed comparisons, if were in the first
+and the second study there two-tailed comparisons used?
+Unfortunately, we could not run the secondary analysis
+basing on the data where standard deviations values are not
+known.
+3.2. Methodological errors
+The idea of the laboratory experiment, the main
+hypothesis, which appealed to the gestalt, as I mentioned
+above, is arguable. I do not see the logical continuity between
+the studies. The fact that there was only an attractive female
+
+Figure 1
+Attraction scores
+The power of electric shock
+C – confederate (cosubject)
+S – subject
+
+How do the authors interpret this, statistically significant
+(i.e. the main effect of the strength of electric shocks which
+only the participants expected) – F = 22.8, p < .001 (op.cit.,
+p. 516)? “Hence, the lady-in-distress effect on attraction
+did not seem to appear in this study” (op. cit., p. 516).
+This interpretation appears to be invalid because of, what
+I have mentioned earlier, lack of a rational and theoretical
+justification of such a hypothesis (gestalt, “lady in distress”)
+put to the empirical investigation and because of the presence
+of so many methodological incorrectnesses. Further – the
+alternative theoretical explanations observed in the eld
+studies and the laboratory experiment seem to be more valid
+(cf. e.g. later proposition by Kenrick & Cialdini, 1977).
+DV 3: TAT responses
+An analysis of indicators of this dependent variable
+shows that only the interaction was statistically significant
+(F = 4.73, p < .05; op. cit., p. 516), the main effect of the
+strength of electric shocks which the subject expected hits
+the trend (F = 4.22, p = .07; op. cit., p. 516).
+There are lots of problems in the interpretation of
+obtained results in the theoretical context proposed by
+the authors, i.e. the attributional paradigm. What kind
+of association could there be between the results of the
+laboratory experiment (gestalt) and the results obtained from
+
+Attraction at first fright? What Datton & Aron really demonstrated almost 40 years ago
+
+Figure 2
+Attraction scores
+The power of electric shock
+C – confederate (cosubject)
+S – subject
+
+the measurement of the DV 2? There, as we remember, the
+authors showed the existence of the statistically significant
+main effect of the strength of electric shocks anticipated by
+the subjects, regardless of whether the female confederate
+expected strong or weak shocks. Here the main effect did
+not occur (p = .07) but we can observe the trend. Basing
+on the present methodological standards this result should
+rather “statistically upset”, than “statistically hush” (cf.
+Cumming, 2008).
+
+General discussion
+To sum up – what then did Dutton and Aron really
+demonstrate in 1974? What are the authors’ interpretations
+and what are the facts?
+1. “The strong result of Experiment 3 supports the
+notion that strong emotion per se increases the subject’s
+sexual attraction to the female confederate” (op. cit., p.
+516). This interpretation is strongly invalid, considering
+that the main effect of the DV 2 had been not replicated in
+regard to DV 3, on the other hand, the experimental design
+consists of many methodological errors (vide section 3.2.).
+2. “The results of these studies would seem to provide
+a basis of support for an emotion – sexual attraction link”
+(op. cit., p. 516). In the light of the secondary analyses I had
+conducted the conclusion is invalid. The association exists,
+as the authors claim, even when the participants phone the
+female confederate after a dozen or so hours, when they are
+not affected of the past arousal state?
+3. “The theoretical implications (…) provide additional
+support in favor of the theoretical positions from which the
+original hypothesis was derived: the Schachter and Singer
+(1962) tradition of cognitive labeling of emotions” (op. cit.,
+p. 516) and later: “When subjects anticipated receiving a
+strong shock and the female confederate was present during
+the anxiety manipulation, subjects reported significantly
+
+197
+
+less fear than when no potential sexual object was present”
+(op. cit., p. 517). This is evident overinterpretation (section
+3.2. and 3.3.) – the authors contort the assumptions of the
+Schachter and Singer theory (cf. section I.); why should
+the participants reinterpret experienced nonspecific arousal
+which was the function of the presence of such salient and
+unambiguous factors as: anticipated receiving a strong
+electric shock or crossing unstable, narrow and high bridge,
+as it arose because of seeing an attractive woman, and, as
+a consequence – a sexual attraction? Schachter and Singer
+(1962) claim explicitly that the misattribution effect occurs
+only if the real cause inducing arousal is ambiguous.
+4. “However, regardless of the interpretation of the
+mechanics of this link, the present research presents
+the clearest demonstration to date of its existence” (op.
+cit., p. 517). Meanwhile the authors did not demonstrate
+the existence of this association, and the constatation
+“regardless of the interpretation” is astonishing.
+5. Dutton and Aron did not unequivocally show
+that the participants of the fi rst and the second study
+experienced anxiety – the confederates leading the study
+did not ask the subjects how frightened they were, in order
+to “prevent suspicion” (op. cit., p. 512). As I mentioned
+earlier – according to this assumption in the laboratory
+experiment the measurement of the experienced anxiety
+before measuring the DV 2 and DV 3 “suspicion” should
+not occur. Interesting from this point of view is if the
+scores of experienced anxiety level would be the same if
+the measurement was made at the end, instead of at the
+beginning of the experiment.
+6. The conditions in the field studies and the laboratory
+experiment were nonequivalent in the aspect of both:
+evaluation of the arousal and the anticipation or removal of
+the source of the arousal. First – the source of the arousal
+should be evaluating in a positive way (e.g. watching
+a comedy), a neutral (e.g. exercise) or unequivocally in
+a negative way (e.g. expecting to receive electric shock).
+Second – in the field studies the cause of the arousal had been
+removed (we could not ascertain explicitely as we do not
+have data concerning whether all the subjects experienced
+negative arousal). In the laboratory experiment – the cause
+would just occur (in the conditions of anticipating a strong
+shock – the cause was unequivocally aversive). The two
+research conditions are quite different also in terms of
+induction of affiliation motives.
+7. Self-selection of the participants in the first and second
+studies rules out any generalization of these results.
+8. Further for the important role of the replication in
+the experimental social psychology it should be mentioned
+that the effect Dutton and Aron obtained in the laboratory
+experiment (i.e. the male participants perceived as more
+attractive the female cosubject in the conditions of awaiting
+for a strong shock as compared with this participants who
+anticipated to receive a weak shock, which were “mere
+tingle, in fact some subjects describe it as enjoyable”
+
+Katarzyna Szczucka
+
+198
+
+(op. cit., p. 515) was not replicated neither by Kenrick,
+Cialdini, & Linder (1979) nor by Riordan & Tedeschi
+(1983).
+The heuristic function of the results obtained by
+Dutton and Aron is incontrovertible. The three studies
+which the authors conducted, apart from the correctness,
+interpretational and methodological validity – from the
+present point of view – were the first unusually infiuential
+(as we can read in the manuscript from Nag Hammadi
+in the motto) series of research exploring a fascinating
+phenomenon of the infiuence of arousal on attraction (cf.
+Foster et. al., 1998), which were, I hope, not the last.
+
+References
+Agresti, A. (2007). An introduction to categorical data analysis (2nd ed.).
+Hoboken, NJ: John Wiley & Sons.
+American Psychological Association. (2010). Publication manual of the
+American Psychological Association (6th ed.). Washington, DC:
+Author.
+Aronson, E., Wilson, T. D., & Akert, R. M. (2010). Social Psychology (7th
+ed.). Upper Saddle River, NJ: P rentice Hall.
+Cantor, J. R., Zillmann, D., & Bryant, J. (1975). Enhancement of
+experienced sexual arousal in response to erotic stimuli through
+misattribution of unrelated residual excitation. Journal of Personality
+and Social Psychology, Vol. 32, No. 1, 69-75. doi: 10.1037/
+h0076784
+Cumming, G. (2008). Replication and p intervals – p values predict
+the future only vaguely, but confidence intervals do much better.
+Perspectives on Psychological Science, Vol 3 (4), 286-300.
+Dutton, D. G., Aron, A. P. (1974). Some evidence for heightened sexual
+attraction under conditions of high anxiety. Journal of Personality and
+Social Psychology, Vol. 30, No. 4, 510-517. doi : 10.1037/h0037031
+Foster, C. A., Witcher, B. S., Campbell, W. K., & Green, J. D. (1998).
+Arousal and attraction: Evidence for automatic and controlled
+processes. Journal of Personality and Social Psychology, Vol.74, No.
+1, 86-101. doi: 10.1037/0022-3514.74.1.86
+
+Haddock, C. K., Rindskopf, D., & Shadish, W. R. (1998). odds ratios
+as effect sizes for meta-analysis of dichotomous data: A primer on
+methods and issues. Psychological Methods, Vol. 3, No. 3, -353.
+doi : 10.1037/1082-989X.3.3.339
+Hogg, M. A., Vaughan, G. E. (2011). Social Psychology (6th ed.). Harlow:
+Pearson Education Limited.
+Kenrick, D. T, Cialdini, R. B. (1977). Romantic attraction: Misattribution
+versus reinforcement explanations. Journal of Personality and Social
+Psychology, 35, 381-391. doi: 10.1037/0022-3514.35.6.381
+Kenrick, D. T., , R. B., , D. E. (1979). under fear-producing circumstances:
+Four failures to replicate. Personality and Social Psychology Bulletin,
+Vol 5(3), 329-334. doi: 10.1177/014616727900500312
+Kenrick, D. T., Neuberg, S. L., & Cialdini, R. B. (2010). Social Psychology:
+Goals in Interaction (5th ed.). Boston: Allyn and Bacon.
+Lewandowski, G. W., Aron, A. P. (2004). Distinguishing arousal from
+novelty and challenge in initial romantic attraction between strangers.
+Social Behavior and Personality, 32 (4), 361-372. doi: 10.2224/
+sbp.2004.32.4.361
+Riordan, C., Tedeschi, J. (1983). Attraction in aversive environments:
+Some evidence forclassical conditioning and negative reinforcement.
+Journal of Personality and Social Psychology, Vol. 44 (4), 683-692.
+doi: 10.1037/0022-3514.44.4.683
+Rogers, W. S. (2003) Social Psychology. Experimental and Critical
+Approaches. Maidenhead: Open University Press.
+Schachter, S., Singer, J. E. (1962). Cognitive, social and physiological
+components of the emotional state. Psychological Review, 69,379399. doi: 10.1037/h0046234
+Shadish, W.R., Cook, T.D., & Campbell, D.T. (2002). Experimental
+and quasi-experimental designs for generalized causal inference.
+Houghton Miffiin, Boston.
+Wojciszke B. (2006). Systematycznie Modyfikowane Autoreplikacje:
+logika programu badań empirycznych w psychologii. [Systematically
+Modified Auto-Replications: the logic of the empirical research
+program in psychology.] W: Brzeziński J. (red.). Metodologia bada ń
+psychologicznych. Wybór tekstów (s. 44 – 68). [ Methodology of the
+psychological research. Selected papers] Warszawa: Wydawnictwo
+Naukowe PWN.
+Zillmann, D., Katcher, A. H., & Milavsky, B. (1972). Excitation transfer
+from physical exercise to subsequent aggressive behavior. Journal
+of Experimental Social Psychology, 8, 247-259. doi: 10.1016/S00221031(72)80005-2
+
+
