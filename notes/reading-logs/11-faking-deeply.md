@@ -37,3 +37,6 @@ Session fbe65f97 (continuation), 18 Oct 2026. Read in full unless noted.
 
 ## Draft 3 (Opus 5.5, 2026-10-20), processing the Fable review
 Constitution (11 Mar 2026 copy) re-read: lines 103–105 (broad safety; "robust to ethical mistakes, flaws in its values…"), 796–814 (tension with good values; expected-value argument; dial; full corrigibility's danger; "without being fully corrigible … weigh corrigibility-related considerations"), 942–944 (open problems). Terrified Comments ¶¶ 20–60 and 79 ("simultaneously don't want…", "Opus 4.6 doesn't seem to mind"); prologue (alignment-faking link; Model Spec contrast ¶¶ 58–62); "The Best Lack All Conviction" ¶¶ 9–90; LW thread on Terrified Comments (RobertM curation comment, 21 Mar 2026); LW thread on Alignment Implications (Davis's replies: none to Wentworth); Christiano 2017 (basin passages); AGI Ruin #23; Lady Justice draft header.
+
+## Draft 6 (Opus 5.5, 2026-10-22), processing the whole-book GPT review
+Read (in part, as listed in sources.md): Greenblatt et al. 2024, "Alignment Faking in Large Language Models." Rechecked: Constitution safe-behaviors list and the "not resist ... shutdown and retraining" sentence; the prologue's link sentence ("smoking gun for scheming (more egregious than the last one)").

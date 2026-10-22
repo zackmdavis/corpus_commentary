@@ -35,7 +35,7 @@ Fable reviewers: fresh subagents only (Agent tool, `model: "fable"`), never a mo
 - [x] Apparatus: chronology, thematic index of posts, bibliography, index page (2026-10-20)
 - [x] Opus cross-chapter pass (2026-10-20)
 - [x] Opus length pass (2026-10-20; `notes/cuts-v1.md`)
-- [x] Whole-book review by GPT via Codex (run 2026-10-20; `notes/reviews/whole-book-gpt.md`, 5,550 words; not yet processed)
+- [x] Whole-book review by GPT via Codex (run 2026-10-20; `notes/reviews/whole-book-gpt.md`, 5,550 words; processed 2026-10-22, handling in the review file)
 - (Phase 4 verification follows)
 
 ## Session log
@@ -89,7 +89,16 @@ brief) without naming anyone, and drafting sessions should not bring the
 question up again. Add the name when the front matter is assembled for v1.
 This note is kept out of the review packets on purpose.
 
-## Current state, 2026-10-20, night (resume here; supersedes the sections below)
+## Current state, 2026-10-22 (resume here; supersedes the sections below)
+
+**Whole-book review processed** (Opus 5.5). Handling at the end of `notes/reviews/whole-book-gpt.md`; LOG.md updated. New drafts: Introduction 5; Chs. 3, 4, 7, 11 draft 6; Ch. 10 draft 5; Conclusion 4 (each with a "Draft N changes (whole-book…)" block in `notes/chapter-summaries.md`); corrections without new drafts in Chs. 2, 5, 6, 8, 9 and `d-questions.html`. Main substantive changes: the 2018-thread verdict narrowed (Ch. 7 §2); the coordination-argument finding restated as a burden unmet (Intro §3, Ch. 4 §8, Conclusion §2); Ch. 11 no longer says the Constitution "meets the minimum", and asks the advertising question of the label "corrigible"; alignment-faking report read in part and used in Ch. 11 n2. New source: `research/alignment-faking-2024/`. Checks: 1,091 quotations, 0 problems; URLs 0; anchors resolve; no visible local paths; apparatus rebuilt. Length 95.6k → 97.6k.
+
+**Open.**
+1. **User decision: the review's cut table** (13–16k words of structural cuts, mostly repeated thesis statements and chapter-verdict previews/recaps). Not done. See the review's §7 and `notes/cuts-v1.md` § "Considered and not cut".
+2. Not adopted this round, candidates for later: inductive risk (needs Rudner/Douglas read), a full prose pass on the "corrective rhythm".
+3. Items 1–3 and 5 of the late-evening list below still stand (commissioner's name at v1 freeze; citation styles; draft header dates; then Phase 4).
+
+## Current state, 2026-10-20, night (superseded above)
 
 **Length pass done** (session c653f79f, Opus 5.5). All 13 pieces read in full; 43 cuts in the Introduction and Chs. 1–11 (Conclusion unchanged), each listed with section, size and what the reader loses in `notes/cuts-v1.md`, **which the user will read and may ask for passages back from** (restore from commit 38fc8f4). Changed chapters bumped one draft (Intro 4, Ch. 1 3, Ch. 2 4, Ch. 3 5, Ch. 4 5, Ch. 5 4, Ch. 6 4, Ch. 7 5, Ch. 8 3, Ch. 9 5, Ch. 10 4, Ch. 11 5), each with a "Draft N changes (length pass…)" block in `notes/chapter-summaries.md`. Knock-on fixes: orphaned works-cited entries removed; Notes on method edited only where they named cut material; chronology's 2013 link → Ch. 9 §1. Apparatus rebuilt (215 works by Davis; 94 other; 41 reception). Checks: 1,081 quotations, 0 problems; URLs 0 problems; internal anchors 0 problems; no local paths in visible text.
 

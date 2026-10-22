@@ -42,7 +42,7 @@ carries the current draft and summaries.
 | Ch. 11 | `11-faking-deeply-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`9a17dfa`) | 2026-10-20 | yes (draft 3, 2026-10-20) |
 | Conclusion | `12-conclusion-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls) | draft 1 (`cfe5b33`) | 2026-10-19 | yes (draft 2, 2026-10-20) |
 | Conclusion | `12-conclusion-fable.md` | Fable 5.1 (subagent transcript `claude-fable-5-1`) | draft 2 (`8f7d9fe`) | 2026-10-20 | yes (draft 3, 2026-10-20) |
-| Whole book | `whole-book-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls; 164,936 input tokens) | Intro draft 4, Chs. 1–11 after the length pass, Conclusion draft 3 (`63407d5`; packet `notes/review-packets/whole-book.md`, without works cited) | 2026-10-20 | no |
+| Whole book | `whole-book-gpt.md` | GPT `gpt-6-astra`, effort high (Codex session file; no tool calls; 164,936 input tokens) | Intro draft 4, Chs. 1–11 after the length pass, Conclusion draft 3 (`63407d5`; packet `notes/review-packets/whole-book.md`, without works cited) | 2026-10-20 | yes (2026-10-22: Intro 5, Chs. 3, 4, 7, 11 draft 6, Ch. 10 draft 5, Conclusion 4; corrections in Chs. 2, 5, 6, 8, 9, appendix D; cuts table left to the user) |
 
 Drafts are archived in git (see `CLAUDE.md`, "Git in this project"). The
 text each GPT review saw is the packet in commit `cfe5b33` (packets were not
@@ -55,6 +55,10 @@ GPT runs: `tools/run_codex_review.sh <stem> [model] [effort]` (defaults
 Codex event log (`.jsonl`), and `.model`, which lists the thread id, the
 Codex session file, the model and effort it records, the number of tool calls
 (should be 0) and token usage.
+
+## Status, 2026-10-22 (whole-book review processed)
+
+The whole-book GPT-6-Astra review is processed; handling at the end of `notes/reviews/whole-book-gpt.md`. Its proposed structural cuts (13–16k words) were not made and await the user's decision.
 
 ## Status, 2026-10-20 (Fable batch)
 
