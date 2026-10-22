@@ -1,0 +1,6 @@
+thread: 01a1645d-d700-7103-bfdb-d4888c42958c
+session: /home/zmd/.codex/sessions/2026/10/22/rollout-2026-10-22T09-07-13-01a1645d-d700-7103-bfdb-d4888c42958c.jsonl
+      1 "effort":"high"
+      7 "model":"gpt-6-astra"
+tool calls: 0
+"usage":{"input_tokens":44380,"cached_input_tokens":12160,"cache_write_input_tokens":0,"output_tokens":6247,"reasoning_output_tokens":846}

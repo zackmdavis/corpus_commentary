@@ -66,6 +66,11 @@ study's own.
 - **Never modify anything in `AAL_content/` or `UUT_content/`** (or
   `LW_content/` once fetched). Quote verification checks against these files,
   so they must stay exactly as they are.
+- **One exclusion** (14 Oct 2026, the commissioner's decision): a 2026 AAL post
+  reposting a talk on web security, whose worked exploit payload repeatedly
+  triggered a safety classifier, was deleted from the local copy and is out of
+  scope. Do not fetch, read or discuss it. The study says so in its
+  Introduction (§1).
 
 URL pattern was spot-checked on three posts; verify any URL you're unsure of.
 
@@ -131,6 +136,15 @@ introduction and treat those posts explicitly, with no softer or harsher
 standard than anything else. Claude's training data may also include parts of
 this corpus and its reception; rely on the files and fetched sources, not on
 recalled impressions of the author or the discourse.
+
+The commissioner is Davis, the study's subject. This was kept out of the
+brief while the chapters were drafted, so that it would not be restated to
+every session, and is stated here from 22 Oct 2026, when it was disclosed in
+the study's front matter and Introduction (§6). The disclosure there rests on
+the commissioner's messages to the model and on an outside assessment of them
+(`notes/reviews/commission-gpt.md`). Keep it accurate if the commission
+changes, and hold the subject's reply to the Phase 5 rules like any other
+reception.
 
 ### The author's writing
 Commentary is the study's, not the author's. Write it as a good human
