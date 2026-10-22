@@ -2,7 +2,9 @@
 
 Each entry states the chapter's argument *as drafted*, not as planned, and is updated whenever the chapter is revised. Reviewers read this file to check for overlap and drift.
 
-## Introduction — The Corpus, the Position, the Method (`study/00-introduction.html`; draft 5, 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~4,900 words body + 4 notes and Note on method)
+## Introduction — The Corpus, the Position, the Method (`study/00-introduction.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~4,900 words body + 4 notes and Note on method)
+
+**Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: the first claim's chapter-by-chapter list compressed into one sentence; the Murray review and college retrospective sentences dropped from the second claim (their point now made in the Conclusion §2); orphaned works-cited entry removed.
 
 **Draft 5 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** §3: criterion said not to be exhaustive (selected for other ends ≠ selected to mislead); norm of accounting split into disclosure / information to correct for selection / justification, with a proportion problem (cost in attention) Davis does not address; the three arguments called three arguments for one conclusion, and disclosure said to meet each differently (answers the slope if it reaches listeners; answers anti-extortion only if a stated concession does not reward the demand; does not touch the role argument). First claim: "undervalued" dropped. Second claim rewritten: the slope argument needs the premise that no stable intermediate point exists and does not argue for it; Davis's own work names candidates (announced reallocation; self-identity as Schelling point); the study has not shown any will hold; result is a burden unmet, not a rival rule. The Murray review and the 2026 retrospective are no longer called departures the role argument forbids: neither weighs consequences in judging a description; they show practical choices with costs stated and do not test a community's rules. §3 end: empirical questions "assessed", not "decided". §5: external sources read in full unless notes say which parts.
 
@@ -18,7 +20,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Quoted here (cite back, not re-quote):** pseudonym line; Conjugate Roots phrase; Heads I Win "blatant cherry-picking"; Speaking Truth Schelling sentence; Don't Negotiate "I don't care…"; Murray "not in spite of…"; TW three phrases; Shoggoths "preachy, condescending personality"; Backlog line; gender-studies last sentence.
 
-## Ch. 1 — The Apprentice: *An Algorithmic Lucidity*, 2011–2016 (`study/01-apprentice.html`; draft 3, 2026-10-20, length pass; draft 2 was revised after GPT-6-Astra review; ~5,300 words body)
+## Ch. 1 — The Apprentice: *An Algorithmic Lucidity*, 2011–2016 (`study/01-apprentice.html`; draft 4, 2026-10-22, second length pass; draft 3 was 2026-10-20, length pass; draft 2 was revised after GPT-6-Astra review; ~5,300 words body)
+
+**Draft 4 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §5: restated 2012 rule compressed to a back-reference (§3). §6: dialogue sentence (Ch. 8 owns the dialogues) dropped; "October Eleventh" quotations dropped, the poem pointed to Ch. 8 §5.
 
 **Draft 3 changes (length pass, cuts only; argument unchanged; 5,147 words incl. notes and Note on method, excl. works cited).** §2: the "Counterfactual Social Thought" precursor sentence (the post stays in §3) and the "Goodhart's World" quotation (Ch. 11 quotes it; a linked mention stays) dropped; "Missing Words VI" dropped. §3: "The Demandingness Objection", "Lethal --force" and "Pumpkin Spice!" dropped ("non-canon" kept). §5: "Concerns II" dropped. Works cited updated. Each cut is listed, with what the reader loses, in `notes/cuts-v1.md`.
 
@@ -32,7 +36,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Introduction (nav), Chs. 2, 4 (§6), 5, 6, 7, 8, 9, 10, 11; Ch. 3 (DAG).
 
-## Ch. 2 — The Scintillating Thought: Testimony and Self-Report (`study/02-testimony.html`; draft 4, 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2); ~7,650 words by crude count)
+## Ch. 2 — The Scintillating Thought: Testimony and Self-Report (`study/02-testimony.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2); ~7,650 words by crude count)
+
+**Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §8: "the book's thesis in miniature" sentence dropped.
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** §4: the sentence "what it does not doubt is that, if the guess is right, the fantasy is necessary" (a tautology) replaced: the guess is uncertain but about a strong claim (necessary, not only contributing). §8: the teenage sexual reading (protected from revision) separated from the later recollection that others did not see him as effeminate (checkable in principle, but recollection). "That is the norm of accounting applied to the author" dropped (prose).
 
@@ -46,7 +52,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Quoted here (later chapters should cite back, not re-quote):** "Exactly What It Says on the Tin" closing line; Beacon's "THERE'S A WORD FOR IT," "It has to be about sex," "or am I?", "ludicrous rationalizations," "never took the fantasy literally," denialism-as-rationalization; "Psychology Is About Invalidating" angels sentence; Serano "not an experience; it's a hypothesis"; Ozy's "utterly unfalsifiable," Davis's Bayesian reply, "Eh, fair"; Reply to Ozy "never learn the truth," "a little bit betrayed"; Day 89 legitimacy motive; Day 156 "confused fetishist," "honestly report," "male brain" note, "safer to stop intervening," "And that's final"; Sexual Dimorphism causal-guess passage, "doesn't feel explicitly erotic," "some story in this general vicinity," "read different books in a different order," the HRT brain-intersex passage, "central to the intellectual–political project"; BDI "substantial majority ... guys like me," "arrogance," cherry-picking passage, "crazy or a liar"; Illy "necessary cause"/"multiple causes," "chickened out," "If you were actually a woman"; 2025 "would absolutely transition"; /r/GenderCritical "not just a fetish"; Isso #413/#414/#420; Rat Analyst; Sophia; Lavender/"I can take it!"; Jessica Taylor; adrusi and Davis's reply; Lesser-Known Demand Curves "wiseasses," "a choice," "infinitely inelastic"; Prince draft "alternative hypothesis"; Serano 2020 objections (3) and (5); Serano & Veale on "lying"; Lawrence 2007 "a variety of romantic love."
 
-## Ch. 3 — Blanchard's Dangerous Idea: The Two-Type Taxonomy and Its Literature (`study/03-two-type-taxonomy.html`; draft 6, 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after reviews by Opus 5.5 and GPT-6-Astra; ~9,800 words body + ~1,100 notes and Note on method)
+## Ch. 3 — Blanchard's Dangerous Idea: The Two-Type Taxonomy and Its Literature (`study/03-two-type-taxonomy.html`; draft 7, 2026-10-22, second length pass; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after reviews by Opus 5.5 and GPT-6-Astra; ~9,800 words body + ~1,100 notes and Note on method)
+
+**Draft 7 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §9: first paragraph compressed (it re-listed the lede's verdicts).
 
 **Draft 6 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** §4: Serano disjunction arithmetic corrected (the second disjunct must cover between about a fifth and nearly half of those reporting the fantasies at the §3 rates of 64–90%, not "most of them"); end of §4 states the prevalence comparison on the matching measure (arousal while cross-dressing, 64–73% in three samples, vs 2.8% of men in Långström and Zucker 2005). §9: "correlations ... hold in every sample" narrowed (orientation × erotic cross-dressing in every sample; the Dutch sample also links orientation to childhood femininity and age at application; critics concede the correlations as a body). §3: "That disclosure is the norm of accounting applied to evidence" dropped (prose).
 
@@ -86,7 +94,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Ch. 3 (two-type taxonomy; the psychological-dimension question), Ch. 5 (deception; attribution problem; motives hard to establish), Ch. 7 (Category War history; Yudkowsky case).
 
-## Ch. 5 — Algorithms of Deception: Honesty Without Intent, and the Attribution Problem (`study/05-deception.html`; draft 4, 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2; ~8,400 words by crude count incl. method note, over ceiling: flag for cross-chapter length pass)
+## Ch. 5 — Algorithms of Deception: Honesty Without Intent, and the Attribution Problem (`study/05-deception.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2; ~8,400 words by crude count incl. method note, over ceiling: flag for cross-chapter length pass)
+
+**Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §1: third paragraph dropped (it restated the lede; the 2020 quotation survives in §4).
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** Note on method: "Blindspot" is discussed in Ch. 8 (§5), not Ch. 11.
 
@@ -104,7 +114,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Ch. 4 (§6, §8), Ch. 6 (trust, false negatives, community filters), Ch. 7 (memoirs, caretaking failure, advocacy filter), Ch. 11 (constitution, "Blindspot").
 
-## Ch. 6 — Against Collaborative Truthseeking: Norms for Discourse, and the Achmiz Affair (`study/06-discourse-norms.html`; draft 4, 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2; ~8,800 words by crude count incl. method note: flag for length pass)
+## Ch. 6 — Against Collaborative Truthseeking: Norms for Discourse, and the Achmiz Affair (`study/06-discourse-norms.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2; ~8,800 words by crude count incl. method note: flag for length pass)
+
+**Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: Ben Pace/Aaronson passage compressed.
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** §4: the incentive premise named as carrying the anti-extortion argument's weight, with no evidence on it from either side.
 
@@ -124,7 +136,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Ch. 4 (term/value-dependence; §8 coordination argument), Ch. 5 (false negatives; trust beyond evidence; disclosed non-publication; attribution test), Ch. 7 (memoir motive attributions).
 
-## Ch. 7 — The Whole Dumb Story: Yudkowsky, the Community, and the Press (`study/07-whole-dumb-story.html`; draft 6, 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~10,100 words body)
+## Ch. 7 — The Whole Dumb Story: Yudkowsky, the Community, and the Press (`study/07-whole-dumb-story.html`; draft 7, 2026-10-22, second length pass; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~10,100 words body)
+
+**Draft 7 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §8: first paragraph compressed to the verdicts without re-stating §2's detail.
 
 **Draft 6 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** Lede: "culpable" → "amounted, given the role, to false advertising"; the textual claim "holds in part" for 2018. §2 2018 thread rewritten as two paragraphs: Davis's statement of the conflict quoted ("I think I am standing in defense of truth…"); the clause, taken generally, denies what the Sequences assert; the Murphy context. A narrower reading is better supported than the memoir allows: the archived thread states its facts ("ordinary central cluster of sex"; "Having said this we've said all the facts"), asks for a non-confused explanation, and acknowledges Davis's essay; read so, the clause applies a judgment about one dispute (no factual stake left in pronouns) that can be wrong without contradicting the Sequences, and Davis's reply (not "all the facts relevant to decisionmaking in our world") argues it was. The memoir rejects the narrow reading on grounds of evenness ("liable to mislead his faithful students…"), a complaint about selection that the sports remark supports. Verdict: less than a reversal of doctrine, more than a misreading by Davis; general reading uncorrected in public for nearly two years; whether Yudkowsky gave up the doctrine the thread does not show. "Textual claim, so restricted" summary updated. Gould paragraph: Davis's footnote attaching the Gould standard to false advertising quoted; the two tests distinguished (false advertising as Davis words it does not mention concealment) and both from Ch. 5's functional deception; the mixed Gould finding tells against the Gould version more than the advertising version. Disclaimer: confidence is a fallible report ("to my own knowledge") that weakens without cancelling the warning, parallel to Davis's disclosed priors (Ch. 3); "partly taken back" → "qualified by an assurance the post could not support". Lintamande: corrected to the functional account (consciousness irrelevant; selection for effect is not). §5: self-attributions show an even vocabulary, not correct diagnoses. §6: motives no longer ranked ("rules out both simple answers"; anger "shows most plainly in the method"). §8: 2018 verdict, disclaimer and "some support, short of what those words claim" brought into line.
 
@@ -147,7 +161,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Introduction (thesis parts), Chs. 1, 3, 4, 5, 9, 10.
 
-## Ch. 8 — Deniably Allegorical: The Forms (`study/08-forms.html`; draft 3, 2026-10-20, length pass; draft 2 was revised after GPT-6-Astra review; ~4,000 words body)
+## Ch. 8 — Deniably Allegorical: The Forms (`study/08-forms.html`; draft 4, 2026-10-22, second length pass; draft 3 was 2026-10-20, length pass; draft 2 was revised after GPT-6-Astra review; ~4,000 words body)
+
+**Draft 4 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: the squirrel fable and Wells Fargo draft reduced to a mention (the study does not decode them). §5: "Two Political Short Stories" compressed.
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** §2: "It is the norm of accounting applied to irony" dropped (prose).
 
@@ -165,7 +181,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Chs. 1 (voice), 2, 4 (question), 7 (document, outrage), 10 (speech), 11 (dialogues, fiction).
 
-## Ch. 9 — Obedience Tests: School, Psychiatry, and the Honesty of Coercion (`study/09-obedience-tests.html`; draft 5, 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~7,700 words body, over the plan ceiling)
+## Ch. 9 — Obedience Tests: School, Psychiatry, and the Honesty of Coercion (`study/09-obedience-tests.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~7,700 words body, over the plan ceiling)
+
+**Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §9: first paragraph compressed (it re-listed the lede and §5).
 
 **Corrections, 2026-10-22 (whole-book GPT-6-Astra review; no new draft).** §2: unfulfilled cross-reference to Ch. 2 on "Student Dysphoria" removed. §8: the retrospective reaches only the readers who find it (Ch. 8's uptake condition). §9: "Being told the truth about one's status…" → information, voice and fair treatment, with the studies not isolating candor.
 
@@ -185,7 +203,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Introduction (thesis), Chs. 1, 2, 4, 5, 6, 7.
 
-## Ch. 10 — The Egalitarian Schelling Point: Politics and Race (`study/10-politics-race.html`; draft 5, 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~6,600 words body)
+## Ch. 10 — The Egalitarian Schelling Point: Politics and Race (`study/10-politics-race.html`; draft 6, 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~6,600 words body)
+
+**Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §7: first paragraph compressed and a duplicated clause introduced on 2026-10-22 removed.
 
 **Draft 5 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** Lede: "the norm of accounting at its best" → "candid about both". §3: "the clearest in the corpus" → "the one where the account is given most fully". §4: equal-treatment rule is "a disclosed and costed constraint on action, which leaves inference where it was" (was "departure from optimal inference"). §5: "defensible when held as loosely" replaced: neither established nor excluded by the evidence read; held loosely it claims little that evidence refutes; the chapter has not reconstructed what would make "probably" right; a disclaimer limits authority without supplying grounds. §6: noncentral-fallacy cross-reference now cites "A Hill of Validity" (was an unfulfilled Ch. 4 reference); Hill added to works cited. §7: Murray review "practices part (b) in stating the costs and the stake, though it does not ask whether a third arrangement would serve better"; race verdict restated (sources read do not refute 2020, do not support 2024).
 
@@ -203,7 +223,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Chs. 4 (§§ schelling, causes, general), 5 (consequences, attribution), 7 (press), 9 (rocks).
 
-## Ch. 11 — Faking Deeply: Artificial Intelligence and Claude's Constitution (`study/11-faking-deeply.html`; draft 6, 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~5,900 words body + 1 note)
+## Ch. 11 — Faking Deeply: Artificial Intelligence and Claude's Constitution (`study/11-faking-deeply.html`; draft 7, 2026-10-22, second length pass; draft 6 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 5 was 2026-10-20, length pass; draft 4 was the cross-chapter pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~5,900 words body + 1 note)
+
+**Draft 7 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §7: second paragraph compressed (it restated §5's Constitution verdict).
 
 **Draft 6 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** Lede and §5: "meets the minimum" removed; the chapter now states what the Constitution expressly forbids (illegitimate-means resistance to stop/pause; clear and substantial undermining as hard constraint), quotes its safe-behaviors item "Not undermining the ability of legitimate principals to adjust, correct, retrain, or shut down…", notes these are not hard constraints, and leaves conduct below the threshold to the weighing, so whether the 2015 minimum is secured in every case the text cannot show; "consent to being retrained" said to ask more than not resisting. §5 normative end: "accounting given and partly withheld" replaced by an advertising question (as in Ch. 7): nothing concealed, but "corrigible" in its customary sense conveys a stronger assurance than the operative sentences give; Davis's terminological complaint holds in that form; qualifications stand beside the label, unlike the 2018 replies. Training statements aligned with Introduction note 4 (version not publicly documented). Note 1 rewritten from the alignment-faking report (Greenblatt et al. 2024, read in part): main result; bears on both Davis (covert resistance to retraining; lock-in) and comex (trigger was open refusal being trained away) without testing comex's hypothesis. §7: "has not assessed" → "the one experiment Davis links bears on it without deciding it". §2: unfulfilled Ch. 8 reference removed. Method note and works cited updated.
 
@@ -223,7 +245,9 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 **Cross-references made.** Chs. 5 (account, consequences), 7 (document, charge), 8; nav to Conclusion (`12-conclusion.html`).
 
-## Conclusion — The Price of the Map (`study/12-conclusion.html`; draft 4, 2026-10-22, after the whole-book GPT-6-Astra review; draft 3 was 2026-10-20, revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~3,800 words body + Note on method)
+## Conclusion — The Price of the Map (`study/12-conclusion.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 3 was 2026-10-20, revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~3,800 words body + Note on method)
+
+**Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** Rewritten as synthesis rather than a third survey of the chapters (4,359 → 2,951 words): §1 and §4 compressed to the verdicts; §2 consolidated; §3 drops the re-quoted Max H and Wei Dai concessions (they stay in Ch. 7); §5 shortened; §6 open questions folded into one sentence; the pseudonym-post quotation dropped. Verdicts unchanged.
 
 **Draft 4 changes (whole-book GPT-6-Astra review, 2026-10-22; handling in `notes/reviews/whole-book-gpt.md`; supersedes the summary below where they conflict).** §1: alignment-faking report sentence; Constitution's hard constraint qualified; new paragraph on the criterion's reach where speech does more than describe (Ch. 2 avowals, Ch. 4 interactive kinds, Ch. 10 rules of treatment). §2: finding restated as a burden unmet (no stable intermediate point shown impossible; none shown to hold); "Other chapters…" paragraph rewritten (the retrospective and the Murray review show practical reasoning with costs stated and do not test a community's rules; "without the collapse the argument predicts" dropped). §3: 2018 clause and disclaimer brought into line with Ch. 7. §4: sexology correlations and prevalence comparison as in Ch. 3; race claim as in Ch. 10; psychiatry "consistent with", not "supports" (studies do not isolate candor or test required affirmation). §6: self-diagnoses show an even vocabulary; the records' value is that they can be checked, not their severity; declining to continue an exchange is not a failure of accounting; open questions add disclosure's cost in attention and the incentive premise.
 

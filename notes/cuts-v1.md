@@ -4,7 +4,7 @@ Length pass on `study/` before the whole-book review (session c653f79f, Opus 5.5
 
 **Measure.** Body + numbered notes + Note on method, excluding works cited: each chapter's `<section class="works…">` is stripped, the rest converted with `tools/html_to_text.py`, then `wc -w`. This gives 98,143 for the state at 38fc8f4. PROGRESS-phase3 recorded 97.9k by what was meant to be the same method, so the old figure was probably taken slightly differently. The figures below are internally consistent.
 
-**Result: 98,143 → 95,687 words (−2,456).** That is well short of the 8–10k asked for. Most of what remains in each chapter is either a step the chapter's conclusion depends on, a concession to Davis or one of his strongest points, or an objection the review handling sections record as adopted, and the brief put those out of bounds. The section "Considered and not cut" lists what could still go and what each would cost, for the user to choose from.
+**Result: 98,143 → 95,687 words (−2,456).** That is well short of the pass's 8–10k target. Most of what remains in each chapter is either a step the chapter's conclusion depends on, a concession to Davis or one of his strongest points, or an objection the review handling sections record as adopted, and the drafting model judged those not worth cutting. (Correction, 2026-10-22: these limits were the drafting model's own judgment in that pass, not instructions from the commissioner or the brief; an earlier wording here misattributed them.) The section "Considered and not cut" lists what could still go and what each would cost.
 
 | Chapter | Before | After | Change |
 |---|---:|---:|---:|
@@ -77,7 +77,7 @@ Word figures in the table of cuts are approximate (counted from the removed HTML
 
 ## Considered and not cut
 
-Read and weighed during the pass, and kept because cutting would remove an argument step, a concession to Davis or one of his strongest points, or an objection adopted from a review. Sizes are approximate. Any of these can be cut on request.
+Read and weighed during the pass, and kept because cutting would remove an argument step, a concession to Davis or one of his strongest points, or an objection adopted from a review. Sizes are approximate. Any of these could still be cut.
 
 **Candidates named by the cross-chapter pass.**
 - **Ch. 4 §8 "Two categories, and the negotiation between them" (~1,000w).** Every paragraph is a step the conclusion uses: two real categories near *woman*; the dispute is first-kind value-dependence (favorable to the framework, unfavorable to the polemic); Davis's strongest reply (social gender estimates developmental sex) and cata's point; Ozy's *reductio* and the handoff to Ch. 3; the demand that the trade be stated, with the fairness caveat on "sucks to be you". Nearly all of it came from the GPT and Fable reviews. Smaller trims possible: the detail of the unpublished reply to Ozy (~90w, but it is Davis's best answer to the *reductio*); the second Plunkett & Sundell quotation (~20w).
@@ -100,3 +100,26 @@ Read and weighed during the pass, and kept because cutting would remove an argum
 - Conclusion §1 (AI) and §4 (sexology) restate the chapters' verdicts (~250w between them), but they were calibrated against the chapters in the Fable revision, and compressing them risks misstating a verdict.
 
 Taken together these come to roughly 3,300 words, which would bring the total to about 92.4k. Getting to 88–90k would also take structural cuts in the named sections above (Ch. 4 §8, Ch. 6 §6, Ch. 10 §6, Ch. 2 §6), which would cost arguments.
+
+## Second length pass (2026-10-22), after the whole-book review
+
+The whole-book GPT-6-Astra review (`notes/reviews/whole-book-gpt.md` §7) proposed 13–16k words of cuts. The user asked the drafting model to use its own academic judgment on them; the decisions below are the drafting model's. Measure as above. Starting point (after the review was processed): 97,563. **Result: 95,157 (−2,406).** Restore from commit 3a07f4c.
+
+**Judgment on the review's diagnosis.** It is right that each verdict was stated up to four times: in the Introduction's preview, the chapter's lede, the chapter's conclusion, and the Conclusion's survey of the chapters. Ledes that state a chapter's argument are standard in a monograph and were kept. Chapter conclusions were cut where they re-listed what the lede and body had just said and kept where they carry the chapter's own synthesis (Chs. 2, 4, 6 and 8, and the second paragraphs of Chs. 3, 7, 9, 10 and 11). The Conclusion was rewritten as synthesis. The review's estimate of the rest does not hold up. It was made without reading the corpus, and a check of the chapters it names (Chs. 1, 5, 6 and 8 read in full, and 7, 11, the Introduction and the Conclusion earlier the same day) found the material to be argument, concessions or evidence the verdicts rest on. A search for long quotations shared between chapters found four, all deliberate cross-references, so the cross-chapter repetition it describes was largely removed already by the cross-chapter pass.
+
+| Review's row | Proposed | Done | Judgment |
+|---|---:|---:|---|
+| Introduction §§3–6 | 1,200–1,500 | ~140 | Chapter list in the first claim compressed; Murray/retrospective sentences dropped. The scope, positionality and method sections are required by the brief and were kept. |
+| Ch. 1 §§2, 5–7 | 700–900 | ~110 | Overlap with Ch. 8 (dialogues, "October Eleventh") and a restated rule cut. §2's early evidence is the chapter's argument. |
+| Chs. 2 §§4–6, 3 §§7–9 | 1,400–1,700 | ~90 | Recaps in the two conclusions cut. No duplicated passages found between the chapters; they do different evidential work, as the review itself says. |
+| Ch. 4 §§6, 8–10 | 1,500–1,900 | 0 | §8 was already judged argument in the first pass (see above); §9's stealth-reply paragraph is short and Ch. 8 depends on it; §10 states the norm the chapter earns. |
+| Ch. 5 §§1, 3–6 | 900–1,200 | ~155 | Agreed on §1's duplicate of the lede; cut. §§3–6 not cut. |
+| Ch. 6 §§2, 4, 6–7 | 1,500–1,800 | ~55 | Read in full. The companion essays each carry an objection or a concession, and the Achmiz section carries the lede's finding. One over-detailed passage compressed. |
+| Ch. 7 §§1–3, 5–8 | 1,800–2,200 | ~110 net | Conclusion compressed. The rest is the evidence for the three verdicts; §5's record of conduct is what the chapter credits. |
+| Ch. 8 §§1, 3, 5–6 | 500–700 | ~140 | Summaries without analysis cut; summaries the analysis uses kept. |
+| Ch. 9 §§2, 4–6, 8–9 | 700–900 | ~115 | Conclusion recap cut. |
+| Ch. 10 §§2–4, 7 | 500–700 | ~65 | Conclusion compressed. |
+| Ch. 11 §§5–7 | 700–900 | ~65 | Conclusion compressed; §5's qualifications are the positionality procedure's substance. |
+| Conclusion §§1–6 | 1,600–2,000 | ~1,410 | Agreed; rewritten as synthesis, verdicts unchanged. Open questions kept, compressed (they are the study's, not questions for the author). |
+
+**Where further cuts would come from.** The three longest chapters (Ch. 4, 10.9k; Ch. 7, 10.8k; Ch. 3, 10.0k). Cutting them further would remove evidence or adopted objections. That trade is not worth making while the study is under the brief's ceiling.
