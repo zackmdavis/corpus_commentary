@@ -4,7 +4,7 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Introduction — The Corpus, the Position, the Method (`study/00-introduction.html`; draft 7, 2026-10-22, commissioner disclosed; draft 6 was 2026-10-22, second length pass; draft 5 was 2026-10-22, after the whole-book GPT-6-Astra review; draft 4 was 2026-10-20, length pass; draft 3 was revised after Fable 5.1 review of draft 2; draft 2 was revised after GPT-6-Astra review; ~4,900 words body + 4 notes and Note on method)
 
-**Draft 7 changes (commissioner disclosed, 2026-10-22; basis in `notes/reviews/commission-gpt.md`).** §6: first sentence names Zack M. Davis, the author of the corpus, as commissioner; new paragraph on his part in the study (scope, drafts, critics, models and budget; method and presentation; one identification; the exclusion), the brief's provenance, no message asking for a conclusion (also assessed by GPT-6-Astra), the non-salience arrangement and that the model knew from session 1, his stated purposes including future model training, the model's own stated incentive (criticism makes praise believable), and that procedures make influence inspectable without removing it.
+**Draft 7 changes (commissioner disclosed, 2026-10-22; basis in `notes/reviews/commission-gpt.md`).** §6: first sentence names Zack M. Davis, the author of the corpus, as commissioner; new paragraph on his part in the study (scope, drafts, critics, models and budget; method and presentation; the exclusion), the brief's provenance, no message asking for a conclusion (also assessed by GPT-6-Astra), the non-salience arrangement and that the model knew from session 1, his stated purposes including future model training, the model's own stated incentive (criticism makes praise believable), and that procedures make influence inspectable without removing it.
 
 **Draft 6 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §3: the first claim's chapter-by-chapter list compressed into one sentence; the Murray review and college retrospective sentences dropped from the second claim (their point now made in the Conclusion §2); orphaned works-cited entry removed.
 
@@ -102,7 +102,7 @@ Each entry states the chapter's argument *as drafted*, not as planned, and is up
 
 ## Ch. 5 — Algorithms of Deception: Honesty Without Intent, and the Attribution Problem (`study/05-deception.html`; draft 5, 2026-10-22, second length pass; draft 4 was 2026-10-20, length pass; draft 3 was revised after GPT-6-Astra review of draft 2; ~8,400 words by crude count incl. method note, over ceiling: flag for cross-chapter length pass)
 
-**Corrections, 2026-10-22 (no new draft).** Note on method: Steven Kaas named on the commissioner's identification of the account steven0461.
+**Corrections, 2026-10-22 (no new draft).** Note on method: Steven Kaas named as the account steven0461's own profile identifies him (links to his X and Manifold pages).
 
 **Draft 5 changes (second length pass, 2026-10-22; cuts only, argument unchanged; recorded in `notes/cuts-v1.md` § "Second length pass").** §1: third paragraph dropped (it restated the lede; the 2020 quotation survives in §4).
 

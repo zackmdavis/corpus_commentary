@@ -130,7 +130,7 @@ New for Ch. 4 (2026-10-17):
 - Not read: Shapin, *A Social History of Truth* (1994), known only through Vaniver's LW comments; the critical exchange Vaniver mentions (Feingold et al.) not fetched.
 
 ### Identifications of commenters (not from fetched sources)
-- LessWrong user steven0461 = Steven Kaas: vouched for by the study's commissioner, 2026-10-17. (The corpus names Steven Kaas only with a Twitter link, not this account.)
+- LessWrong user steven0461 = Steven Kaas: first recorded 2026-10-17 on the commissioner's word; the account itself links his X and Manifold pages (profile fetched 2026-10-22, entry below), which is the basis now cited.
 
 ### Phase 3, Ch. 6 revision (fetched 17 Oct 2026)
 - Scott Aaronson, "The Complexity of Agreement" (2005 preprint), https://www.scottaaronson.com/papers/agree-econ.pdf → `research/aaronson-2005-complexity-agreement/` (abstract, §1–1.1 and the simulation-bound discussion read).
@@ -242,3 +242,4 @@ Notes on method in Intro and Chs. 3, 7, 8, 9, 10, 11 updated from "not yet confi
 - MacArthur coercion research: dated from the references of Lessard-Deschênes et al. 2025 (already in `research/coercion-lessard-deschenes-2025/`): Gardner et al. 1993 for the scales; group papers 1993–2000. Ch. 9.
 - Wikipedia, "Dialogue Concerning the Two Chief World Systems," plain-text extract via the API → `research/wikipedia-galileo-dialogue/`. Confirms Simplicio as the Ptolemaic/Aristotelian spokesman. Ch. 8.
 - Still from memory, labelled: David Bromley on apostates' narratives (Ch. 7; books, not fetched).
+- LessWrong profile of steven0461 (GraphQL `user` query, fetched 22 Oct 2026) → `research/lw-profile-steven0461/profile.json`. Bio links https://x.com/stevenkaas and https://manifold.markets/StevenK: the account identifies itself as Steven Kaas, so the name is "given by the account itself" (BRIEF), not resting on the commissioner's word as first recorded on 17 Oct.
