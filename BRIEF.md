@@ -90,7 +90,8 @@ Fabricated or misremembered citations would discredit the whole study.
   2026-10-22): curly rather than straight, and a source's double quotation
   marks become single ones when the passage is itself quoted inline, with the
   source's single marks becoming double in turn. Block quotations keep the
-  source's levels. The study states this convention once, in its front matter.
+  source's levels. This is standard practice, and the study need not announce
+  it (commissioner, 22 Oct 2026).
 - **No local paths in the study's visible text.** `AAL_content/`,
   `UUT_content/`, `LW_content/`, `notes/`, `research/`, `reception_data/`,
   `tools/` exist only in this working directory, not online. They may appear
