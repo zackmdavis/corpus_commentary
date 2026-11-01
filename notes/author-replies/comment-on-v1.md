@@ -46,7 +46,7 @@ It is a precursor to the role rule, but it's not clear from the text that Claude
 
 > the question was no longer about Society. It was about the people around him, and one voice might reach them. The renunciation had never covered that case
 
-(I really appreciate being seen by Claude here; I hadn't explicitly thought of this as a reversal, but it is the natural reading of the corpus.)
+(I really appreciate being seen by Claude here; I hadn't explicitly thought of the _Ultimately Untrue Thought_ era as a reversal of my 2012-era renunciation of politics, but it is the natural reading of the corpus.)
 
 > “October Eleventh” (AAL, 11 Oct 2015), a poem for National Coming Out Day
 
@@ -61,3 +61,46 @@ This passage is kind of unclear. Serano reasons "in the same way" as what?
 > Something has to account for the differences between us"
 
 Are italics not preserved in quotations? That seems like an oversight.
+
+> An enduring identity is compatible with price-sensitive choices about interventions, so the target is better described as rhetoric that runs identity and action together than as every account of identity.
+
+I'm especially skeptical of identities that don't entail any actions. I already can't identify as a trans woman because I don't expect anyone to take that seriously, but to identify as a trans woman and _not be on HRT_ would be much, much worse.
+
+### Chapter 3
+
+The five-claim breakdown is crisp.
+
+> The negative claim is independent of the causal one in both directions.
+
+I note that this is logical rather than probabilistic independence, because the latter doesn't admit two directions. But I'm struggling to envision a world in which the negative claim is false and the causal claim is true (AGP causes dysphoria, but also, AGPs are feminized). Or is that just the "AGP is normal female sexuality" theory, which I shouldn't dismiss as _logically_ incoherent even if I think it's nuts?
+
+> The descriptive typology is the oldest and least disputed part of the position. [...] The critics concede the correlations.
+
+I feel like this is underappreciated! I think there's a motte-and-bailey pattern, where there are a lot of solid critiques of Blanchard-Bailey-Lawrence to be made in the motte (as Tailcalled did), which the typical activist cites in favor of "trans women are women, full stop" in the bailey. Low-information progressive loyalists in the bailey either don't know or doublethink around the correlations which no one seriously disputes.
+
+> The Nuttbrock figure is a slip
+
+Um, should I fix this?
+
+> "it’s important to notice that Bailey and Hsu 2022 itself only addresses (1)."
+
+It's awkward to quote the "(1)" out of context.
+
+> Whether the message was sent is not recorded in the corpus
+
+The critique was sent to SEXNET in March 2025. The reason the draft file made it into the corpus is because I was intending to clean it up and publish it as a blog post—which I still haven't gotten around to, unfortunately. I emailed Hsu and Morandini expressing my intent to publish in December 2025 and didn't get a reply.
+
+[TODO: comment on why does it not work that way for androphiles http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-392 ]
+
+> Both rivals place the identity first and treat the eroticism as downstream, and both explain the correlations of §2 at least as easily as the theory does.
+
+[TODO: reply]
+
+> It cuts against using retrospective reports of an early wish as evidence for either side, and it applies equally to retrospective reports of the fantasy, including Davis’s own
+
+[TODO: reply, I don't buy this because the social desirability doesn't run the same way]
+
+> That they are not under-represented in a male-dominated field, as cis women are, is weak evidence against female-typical occupational interests
+
+Why only "weak" evidence?
+
