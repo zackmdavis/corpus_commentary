@@ -95,6 +95,8 @@ This note is kept out of the review packets on purpose.
 
 **v1 is frozen** in `study-v1/` (first edition, October 2026). `study/` is the working copy for v2. Phase 5 begins when Davis writes a reply (published, or as a file in `notes/author-replies/`); the response must come from a fresh session that did not draft v1 and was not in discussion with the user about the reply (BRIEF, Phase 5). The commissioner's identity is now disclosed (front matter; Introduction §6; BRIEF Positionality). Open for the commissioner, not blocking: whether to publish the brief, his session messages and the GPT assessment of them alongside the study.
 
+**Phase 5 progress continues in `notes/PROGRESS-phase5.md`.**
+
 ## Current state, 2026-10-22 (resume here; supersedes the sections below)
 
 **Whole-book review processed** (Opus 5.5). Handling at the end of `notes/reviews/whole-book-gpt.md`; LOG.md updated. New drafts: Introduction 5; Chs. 3, 4, 7, 11 draft 6; Ch. 10 draft 5; Conclusion 4 (each with a "Draft N changes (whole-book…)" block in `notes/chapter-summaries.md`); corrections without new drafts in Chs. 2, 5, 6, 8, 9 and `d-questions.html`. Main substantive changes: the 2018-thread verdict narrowed (Ch. 7 §2); the coordination-argument finding restated as a burden unmet (Intro §3, Ch. 4 §8, Conclusion §2); Ch. 11 no longer says the Constitution "meets the minimum", and asks the advertising question of the label "corrigible"; alignment-faking report read in part and used in Ch. 11 n2. New source: `research/alignment-faking-2024/`. Checks: 1,091 quotations, 0 problems; URLs 0; anchors resolve; no visible local paths; apparatus rebuilt. Length 95.6k → 97.6k.

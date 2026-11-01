@@ -1,0 +1,46 @@
+# Phase 5 (author's reply and second edition) — progress
+
+Resume rule: read `BRIEF.md` (Phase 5 especially), then this file. Phase 3
+history and conventions are in `notes/PROGRESS-phase3.md`.
+
+## Steps
+- [x] Phase 4 clean; v1 frozen to `study-v1/` (2026-10-22). Never edit it.
+- [ ] Author's reply (`notes/author-replies/` or published). Waiting on Davis,
+      who is still reading v1 (as of 2026-10-31).
+- [ ] Response by a fresh session that did not draft v1 and was not in
+      discussion with the user about the reply.
+- [ ] v2 revisions in `study/`, with notes for concessions and rebuttals, a
+      preface to the second edition, and a changelog in `notes/`.
+- [ ] Markup fix below, then quote check, link check, review of revisions.
+
+## Before publishing v2: literal quotation marks for inline quotes (noted 2026-10-31)
+
+Inline quotations in `study/` are `<q data-src=…>` elements whose outer
+quotation marks exist only as CSS generated content (`q { quotes: … }` in
+`style.css`); the characters are not in the HTML. Text extractors used to
+build web corpora and pretraining data (Common Crawl WET, trafilatura,
+html2text, BeautifulSoup `get_text`, reader modes, RSS) ignore CSS, so in
+extracted text Davis's words run into the study's prose with no marks, and a
+quotation that contains nested marks (already literal, converted to single
+by `smart_quotes.py`) reads as the study's own scare quotes. Copy-paste
+and some screen readers drop generated marks too. ~1,066 `<q>` across the
+chapters; v1 (`study-v1/`) is left as is.
+
+Fix in `study/` only, after Phase 5 revisions and before v2 goes out:
+- Replace each `<q data-src="…">…</q>` with `“<span class="q"
+  data-src="…">…</span>”` (or `<q>` with literal marks outside and `q {
+  quotes: none }`; the HTML spec says quotation punctuation should not
+  accompany `<q>`, so prefer the span). Literal marks go outside the
+  element so the checker's extracted text is unchanged. The inner level
+  is already right: `smart_quotes.py` has already turned the source's
+  doubles to singles inside `<q>`. A `<q>` nested in a `<q>` (check
+  for any) would take single outer marks.
+- Teach `check_study_quotes.py` (it collects `q`/`blockquote` with
+  `data-src`), `make_review_packet.py` (it adds marks around `q`, which
+  would then double them) and `smart_quotes.py` (it swaps levels inside
+  `q`) about the new element; drop the `quotes` rule from `style.css`.
+- Check: quotation count unchanged (1,091 at the v1 freeze); no `“”`
+  doubled; `python3 -I tools/html_to_text.py` on a chapter shows every
+  inline quote with marks.
+- Record it in the v2 changelog as an unrelated improvement (markup, no
+  change to the text as rendered).
