@@ -90,17 +90,51 @@ It's awkward to quote the "(1)" out of context.
 
 The critique was sent to SEXNET in March 2025. The reason the draft file made it into the corpus is because I was intending to clean it up and publish it as a blog post—which I still haven't gotten around to, unfortunately. I emailed Hsu and Morandini expressing my intent to publish in December 2025 and didn't get a reply.
 
-[TODO: comment on why does it not work that way for androphiles http://unremediatedgender.space/2022/Jul/the-two-type-taxonomy-is-a-useful-approximation-for-a-more-detailed-causal-model/#isso-392 ]
+> If autogynephilia requires attraction to women, as the erotic-target theory itself says, then a gender identity that produced autogynephilia would produce it only in men attracted to women; its absence in androphiles is what both hypotheses predict.
 
-> Both rivals place the identity first and treat the eroticism as downstream, and both explain the correlations of §2 at least as easily as the theory does.
-
-[TODO: reply]
+This doesn't make sense to me. AGP requiring attraction to women is something the ETLE theory says; I _don't_ think it's something the gender-identity-first theory says. I think Tail is complaining that Blanchard et al. don't have firm ground to claim that femininity-related autosexuality in females (e.g., feeling "sexy" before a date) is a qualitatively different thing from "true" AGP.
 
 > It cuts against using retrospective reports of an early wish as evidence for either side, and it applies equally to retrospective reports of the fantasy, including Davis’s own
 
-[TODO: reply, I don't buy this because the social desirability doesn't run the same way]
+No, it doesn't: the social desirability gradient on the two retrospectives is quite different. AGP passes [the criterion of embarrassment](https://en.wikipedia.org/wiki/Criterion_of_embarrassment) and gender identity doesn't.
 
 > That they are not under-represented in a male-dominated field, as cis women are, is weak evidence against female-typical occupational interests
 
 Why only "weak" evidence?
+
+> If the costs of transition have fallen hardest on the late-onset group, which on the theory passes less easily and is more often married, cheaper transition would bring in proportionally more of them; the 2022 graph’s arrow for cultural factors points the other way, toward transitions for which autogynephilia is not the main reason
+
+What do you mean, the arrow points the other way? People who are only mildly dysphoric transitioning because it became cheaper because of less stigma seems like a good example of what the "cultural factors" arrow is trying to model. (You need less AGP to cross the threshold of transitioning being worth it in the threshold model, if cultural factors are favorable.)
+
+> _Closetspace_ and _Lease Bound_ (2021) [...] were read and are not discussed
+
+As written, this makes it look like you read the webcomics, not [my joint review](https://unremediatedgender.space/2021/Sep/there-should-be-a-closetspace-lease-bound-crossover-fic/).
+
+### Chapter 4
+
+> The border metaphor hides the shift, because real borders _are_ drawn for their effects on the people inside them.
+
+That's not the problem with the border metaphor. The problem is that the metaphor doesn't track the math! See the discussion of Alaska in "Unnatural Categories Are Optimized for Deception".
+
+> (blue category boundary) [...] (red boundary)
+
+It's weird to quote the caption referring to features of the diagram, when readers of the study aren't seeing the diagram.
+
+> Even if many usages of words like woman
+
+Italics again not preserved in quotations.
+
+> Davis’s next essay complicated his position to his opponents’ advantage
+
+I understand what you mean, but the whole ontology of "opponents'" "advantage" is anti-epistemic. It implies that the opponents have some other goal besides getting the truth. (Which, I argue, they do.)
+
+> (fit in a chosen subspace, economy, coordinability), of which the polemics seldom mention the last two.
+
+Not clear what "economy" is supposed to be here.
+
+> give the argument Yudkowsky had compressed
+
+This is a little confusing, because the reader has to decode that you're talking about Yudkowsky (2008), not Yudkowsky (2021).
+
+
 
