@@ -344,6 +344,33 @@ throughout the corpus).
      interpretive point is conceded, partly conceded, or rebutted, with the
      reasoning recorded. Agreeing too readily is a failure here, and so is
      resisting for show.
+   - **Installments and further letters** (the commissioner's decision,
+     2026-11-11, replacing an earlier "one round per edition" rule). The
+     reply may come in installments, like letters from a living subject to a
+     scholar; the first covers the Introduction through Ch. 4
+     (`notes/author-replies/comment-on-v1_intro-ch4.md`, commit `979ed20`).
+     Davis may read the responses before writing later letters, and later
+     letters may come back to earlier points. A point that returns after
+     being rebutted is answered on what it adds: the responder reads the
+     earlier handling, says what is new in the objection, and concedes only
+     if the new argument carries it. Each installment gets a fresh response
+     session that reads the earlier response files so the handling stays
+     consistent. Since the Introduction and Conclusion summarize the whole
+     book, revise them, and any point in an earlier chapter that turns on a
+     later chapter's argument, only once the reply is complete; until then
+     the response file records the handling and marks the revision as held.
+     Record the installments, with their dates and commits, in the changelog
+     and the v2 preface.
+   - **Who responds** (2026-11-11). Fable 5.2 is on the subscription during a
+     limited promotion, so the Phase 3 cost reasons for keeping Fable to
+     reviewing do not apply while it lasts, and the response and v2 revisions
+     may be done by a fresh Fable session (confirm from the transcript that
+     it actually runs on Fable). The front-matter contributions statement
+     and the v2 preface then credit that model with the response and the
+     second-edition revisions, by chapter; chapter bylines stay as they are
+     unless a section the responder wrote stays mostly intact (the Phase 3
+     "with [model]" rule). The review of the revisions goes to a model other
+     than the one that made them.
    - **v2.** Revise `study/` where points were conceded, crediting the
      correspondence in a note where it changed the text ("correspondence with
      Davis on the first edition"). Where a material objection is rebutted
@@ -351,8 +378,9 @@ throughout the corpus).
      the study holds its reading. Rebuttals should not silently disappear.
      Add a short preface to the second edition saying what changed and why.
      Keep a changelog in `notes/` listing every change with its cause:
-     erratum, conceded point, or unrelated improvement. A Fable review of the
-     revisions and rebuttal notes, as in Phase 3, is appropriate. The user may
-     also have an outside model judge the exchange.
-   - **One round per edition.** A further reply waits for v3, which repeats
-     this phase (freeze v2 to `study-v2/`, and so on).
+     erratum, conceded point, or unrelated improvement. A review of the
+     revisions and rebuttal notes, as in Phase 3, is appropriate, by a model
+     other than the one that made them. The user may also have an outside
+     model judge the exchange.
+   - **Later editions.** Once v2 is out, further correspondence goes into v3,
+     which repeats this phase (freeze v2 to `study-v2/`, and so on).
