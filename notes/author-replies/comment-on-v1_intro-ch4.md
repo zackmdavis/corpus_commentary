@@ -1,4 +1,4 @@
-## Comments on _The Scintillating and the True_, version 1
+## Comments on _The Scintillating and the True_, version 1, Intro–Ch. 4
 
 by Zack M. Davis
 
@@ -136,5 +136,10 @@ Not clear what "economy" is supposed to be here.
 
 This is a little confusing, because the reader has to decode that you're talking about Yudkowsky (2008), not Yudkowsky (2021).
 
+> Davis’s sample statement of it is not fair to the other side, which might give reasons other than feelings: equal standing, predictable interaction, the burden of contesting someone’s status in public.
 
+I'm skeptical that the "burden of contesting someone’s status in public" is a reason other than feelings. What is the burden, if not "people feel bad about their status being contested"? What unpredictable or unequal about being identified with your actual sex, given that people can tell?
 
+> A departure from the predictive optimum misleads where it is concealed and listeners still decode the word the old way; disclosed departures and non-propositional signals fall outside the charge.
+
+No, not quite. Even if you do disclose that a squiggly boundary is being used, there's the quesion of _why_ you would want to depart from the predictively natural solution (in the relevant subspace). "I'm departing from the optimum because I want to, I just feel like it," is non-responsive; it's not credible that such preferences to use a word in a particular way would exist "for no reason." "... Optimized for Deception" is saying, the realistic reason is to make other agents' maps worse ("deception"), because it's worse for you for them to have a good map. In the Bayesian setting, making the map "blurrier" than it has to be is still deceptive (you're trying to make the other assign less probability to the right answer) even if it's not a discrete, propositional "agent believes A with certainty, but the reality is B".
