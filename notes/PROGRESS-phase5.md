@@ -14,8 +14,14 @@ history and conventions are in `notes/PROGRESS-phase3.md`.
   - [ ] Installment 3: Chs. 9–11 and the Conclusion.
 - [ ] Response by a fresh session that did not draft v1 and was not in
       discussion with the user about the reply; one session per installment.
-  - [ ] Installment 1 (planned: Fable 5.2 session). Chs. 1–4 revised;
-        Intro handling recorded, revision held until the reply is complete.
+  - [ ] Installment 1 (Fable 5.2 session, 2026-11-11; transcript
+        `23d213e2-…`, every model entry `claude-fable-5-2`).
+    - [x] Sources read; handling written to
+          `notes/author-replies/response-to-intro-ch4.md` (31 points; the
+          Introduction's eight and Ch. 4 point 4.8 are held).
+    - [x] `tools/check_study_emphasis.py` added (italics in quotations).
+    - [ ] Chs. 1–4 revised in `study/`; quote, emphasis and link checks.
+    - [ ] `notes/changelog-v2.md` and `notes/chapter-summaries.md` updated.
   - [ ] Installment 2.
   - [ ] Installment 3, then the held Intro/Conclusion revisions.
 - [ ] v2 revisions in `study/`, with notes for concessions and rebuttals, a
