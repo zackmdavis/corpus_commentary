@@ -589,7 +589,7 @@ interests account for much of the difference should count the evidence as
 considerably stronger than "weak." What is kept: the confound is real; the
 survey is self-selected and counts about twenty trans women a year; and the
 chapter does not adopt "strong." **Changed (§5):** "is evidence against
-female-typical occupational interests. How strong it is depends on…"; note 5
+female-typical occupational interests. How strong it is depends on…"; note 7
 credits the correspondence.
 
 ### 3.9 "the 2022 graph's arrow for cultural factors points the other way"
@@ -612,7 +612,7 @@ differently on the two readings of the population claim: (i) is friendly to
 the weak reading, (ii) tells against the strong one. That distinction is what
 the first edition was reaching for with "transitions for which autogynephilia
 is not the main reason," and it survives; the "other way" does not.
-**Changed (§6):** the passage rewritten on these lines; note 6 (formerly
+**Changed (§6):** the passage rewritten on these lines; note 8 (formerly
 note 3) says the cost inference is the study's and credits the
 correspondence.
 
