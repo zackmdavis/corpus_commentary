@@ -9,13 +9,15 @@ history and conventions are in `notes/PROGRESS-phase3.md`.
       further letters"):
   - [x] Installment 1: Intro–Ch. 4,
         `notes/author-replies/comment-on-v1_intro-ch4.md` (commit `979ed20`).
-  - [ ] Installment 2: Chs. 5–11 (and Conclusion, if any). Davis is writing
-        it; he leaves for Australia 2026-11-15.
+  - [ ] Installment 2: Chs. 5–8. Davis is writing it; he leaves for
+        Australia 2026-11-15.
+  - [ ] Installment 3: Chs. 9–11 and the Conclusion.
 - [ ] Response by a fresh session that did not draft v1 and was not in
       discussion with the user about the reply; one session per installment.
   - [ ] Installment 1 (planned: Fable 5.2 session). Chs. 1–4 revised;
         Intro handling recorded, revision held until the reply is complete.
-  - [ ] Installment 2, then the held Intro/Conclusion revisions.
+  - [ ] Installment 2.
+  - [ ] Installment 3, then the held Intro/Conclusion revisions.
 - [ ] v2 revisions in `study/`, with notes for concessions and rebuttals, a
       preface to the second edition, and a changelog in `notes/`.
 - [ ] Markup fix below, then quote check, link check, review of revisions.

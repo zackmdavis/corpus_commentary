@@ -347,8 +347,9 @@ throughout the corpus).
    - **Installments and further letters** (the commissioner's decision,
      2026-11-11, replacing an earlier "one round per edition" rule). The
      reply may come in installments, like letters from a living subject to a
-     scholar; the first covers the Introduction through Ch. 4
-     (`notes/author-replies/comment-on-v1_intro-ch4.md`, commit `979ed20`).
+     scholar. Three are planned: the Introduction through Ch. 4
+     (`notes/author-replies/comment-on-v1_intro-ch4.md`, commit `979ed20`),
+     Chs. 5–8, and Chs. 9–11 with the Conclusion.
      Davis may read the responses before writing later letters, and later
      letters may come back to earlier points. A point that returns after
      being rebutted is answered on what it adds: the responder reads the
